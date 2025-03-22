@@ -17,6 +17,7 @@ class GraphCreator:
         self.G = nx.DiGraph()
         self.model = AutoModelForCausalLM.from_pretrained("/nfs/turbo/umms-drjieliu/proj/llm_kg/Llama-3.1-8B-Instruct", torch_dtype=torch.float16, device_map="auto")
         self.tokenizer = AutoTokenizer.from_pretrained("/nfs/turbo/umms-drjieliu/proj/llm_kg/Llama-3.1-8B-Instruct")
+        self.tokenizer.pad_token = self.tokenizer.eos_token
         self.data = data
 
 
@@ -46,34 +47,80 @@ class GraphCreator:
 
 
 
-    def run_model(self, prompt: str) -> str:
+    def run_model(self, prompts: list[str]) -> str:
         """Runs the model with the input prompt."""
 
-        # Apply Chat Template to the prompt
-        messages = [{"role": "user", "content": prompt}]
-        tokens = self.tokenizer.apply_chat_template(
-            conversation=messages,
-            return_dict=True,
-            tokenize=True,
-            return_tensors="pt"
-        )
-        
-        tokens = {k: v.to("cuda") for k, v in tokens.items()}
-
-        # Generate model output
-        generated = self.model.generate(
-            **tokens,
-            do_sample=False,
-            top_p=0.95,
-            max_new_tokens=2048,
-            prompt_lookup_num_tokens=3
-        )
-
-        outputs = self.tokenizer.decode(
-            generated[0][len(tokens['input_ids'][0]):],
-            skip_special_tokens=True
-        )
-
+        outputs = []
+        current_step_size = 64
+        idx = 0
+        with torch.inference_mode():
+            while idx < len(prompts):
+                batch_prompts = prompts[idx: idx + current_step_size]
+                
+                # Create message format
+                messages = [[{"role": "user", "content": prompt}] for prompt in batch_prompts]
+                
+                try:
+                    # Clear CUDA cache before processing
+                    torch.cuda.empty_cache()
+                    
+                    # Apply chat template
+                    templated_prompts = self.tokenizer.apply_chat_template(
+                        conversation=messages,
+                        tokenize=False,
+                        return_tensors="pt"
+                    )
+                    
+                    
+                    # Tokenize
+                    tokens = self.tokenizer(
+                        templated_prompts,
+                        padding=True,
+                        add_special_tokens=False,
+                        return_tensors="pt"
+                    )
+                    # Move to GPU and generate
+                    tokens = {k: v.to("cuda") for k, v in tokens.items()}
+                    generated = self.model.generate(
+                        **tokens,
+                        do_sample=False,
+                        top_p=0.95,
+                        max_new_tokens=2048,
+                    )
+                    
+                    # Process outputs
+                    batch_outputs = self.tokenizer.batch_decode(
+                        [out[inp.shape[0]:] for out, inp in zip(generated, tokens['input_ids'])],
+                        skip_special_tokens=True
+                    )
+                    
+                    outputs.extend(batch_outputs)
+                    
+                    idx += current_step_size  # Move to next batch
+                    
+                except RuntimeError as e:
+                    if "out of memory" in str(e):
+                        # Clear CUDA cache
+                        torch.cuda.empty_cache()
+                        
+                        # Reduce batch size
+                        new_step_size = max(1, current_step_size // 2)
+                        print(f"OOM error encountered. Reducing batch size from {current_step_size} to {new_step_size}")
+                        
+                        if new_step_size == current_step_size:
+                            print("Cannot reduce batch size further. Already at minimum.")
+                            print(batch_prompts, flush=True)
+                            raise
+                        
+                        current_step_size = new_step_size
+                        # Don't increment idx - retry with same batch but smaller size
+                    else:
+                        print(f"Non-OOM error in batch: {str(e)}")
+                        raise
+                except Exception as e:
+                    print(f"Error in batch: {str(e)}")
+                    raise
+            
         return outputs
     
 
@@ -90,7 +137,7 @@ The list should place each entity on a separate line, such as:
 
 Passage: """ + document + "\n Now provide the numbered list of entities: "
         
-        entity_string = self.run_model(prompt)
+        entity_string = self.run_model([prompt])[0]
 
         pattern = r'^\d+\.\s*(.+)$'
         matches = re.findall(pattern, entity_string, re.MULTILINE)
@@ -113,16 +160,19 @@ RELATION: lives in
 Passage: {document}
 
 """
+        prompts = []
         entity_relations = []
 
         for i in range(len(entities)):
             for j in range(i + 1, len(entities)):
                 formatted_prompt = prompt + f"""Entity 1: {entities[i]}
 Entity 2: {entities[j]}"""
-                output = self.run_model(formatted_prompt)
+                prompts.append((entities[i], entities[j], formatted_prompt))
 
-                match = re.search(r'^RELATION:\s*(.+)', output, re.MULTILINE)
-                entity_relations.append((entities[i], entities[j], match.group(1)))
+        outputs = self.run_model([p[2] for p in prompts])
+        for output_idx, output in enumerate(outputs):
+            match = re.search(r'^RELATION:\s*(.+)', output, re.MULTILINE)
+            entity_relations.append((prompts[output_idx][0], prompts[output_idx][1], match.group(1)))
         
         return entity_relations
 
