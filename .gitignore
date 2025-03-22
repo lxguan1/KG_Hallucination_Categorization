@@ -1,0 +1,8 @@
+# Ignore all .log files
+*.log
+
+# Ignore a folder
+hearings/
+
+# Ignore all .env files
+*.env
