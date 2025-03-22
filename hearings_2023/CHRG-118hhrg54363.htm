@@ -1,0 +1,2045 @@
+<html>
+<title> - ELECTRONIC HEALTH RECORD MODERNIZATION DEEP DIVE: SYSTEM UPTIME</title>
+<body><pre>
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+
+
+                        ELECTRONIC HEALTH RECORD
+                        MODERNIZATION DEEP DIVE:
+                             SYSTEM UPTIME
+
+=======================================================================
+
+
+
+
+                                HEARING
+
+                               before the
+
+                       SUBCOMMITTEE ON TECHNOLOGY 
+                             MODERNIZATION
+
+                                 of the
+
+                     COMMITTEE ON VETERANS' AFFAIRS
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+                               __________
+
+                      WEDNESDAY, NOVEMBER 15, 2023
+                               __________
+
+                           Serial No. 118-40
+                               __________
+
+       Printed for the use of the Committee on Veterans' Affairs
+       
+       
+       
+       
+       
+                [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]       
+
+
+
+
+
+
+                    Available via http://govinfo.gov  
+                                 ______
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE
+
+54-363                      WASHINGTON : 2024                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                     COMMITTEE ON VETERANS' AFFAIRS
+
+                     MIKE BOST, Illinois, Chairman
+
+AUMUA AMATA COLEMAN RADEWAGEN,       MARK TAKANO, California, Ranking 
+  American Samoa, Vice-Chairwoman      Member
+JACK BERGMAN, Michigan               JULIA BROWNLEY, California
+NANCY MACE, South Carolina           MIKE LEVIN, California
+MATTHEW M. ROSENDALE, SR., Montana   CHRIS PAPPAS, New Hampshire
+MARIANNETTE MILLER-MEEKS, Iowa       FRANK J. MRVAN, Indiana
+GREGORY F. MURPHY, North Carolina    SHEILA CHERFILUS-MCCORMICK, 
+C. SCOTT FRANKLIN, Florida             Florida
+DERRICK VAN ORDEN, Wisconsin         CHRISTOPHER R. DELUZIO, 
+MORGAN LUTTRELL, Texas                 Pennsylvania
+JUAN CISCOMANI, Arizona              MORGAN MCGARVEY, Kentucky
+ELIJAH CRANE, Arizona                DELIA C. RAMIREZ, Illinois
+KEITH SELF, Texas                    GREG LANDSMAN, Ohio
+JENNIFER A. KIGGANS, Virginia        NIKKI BUDZINSKI, Illinois
+
+                       Jon Clark, Staff Director
+                  Matt Reel, Democratic Staff Director
+
+                SUBCOMMITTEE ON TECHNOLOGY MODERNIZATION
+
+              MATTHEW M. ROSENDALE, SR., Montana, Chairman
+
+NANCY MACE, South Carolina           SHEILA CHERFILUS-MCCORMICK, 
+KEITH SELF, Texas                        Florida, Ranking Member
+                                     GREG LANDSMAN, Ohio
+
+Pursuant to clause 2(e)(4) of Rule XI of the Rules of the House, public 
+hearing records of the Committee on Veterans' Affairs are also 
+published in electronic form. The printed hearing record remains the 
+official version. Because electronic submissions are used to prepare 
+both printed and electronic versions of the hearing record, the process 
+of converting between various electronic formats may introduce 
+unintentional errors or omissions. Such occurrences are inherent in the 
+current publication process and should diminish as the process is 
+further refined. 
+
+
+
+
+
+
+
+
+
+
+
+
+                         C  O  N  T  E  N  T  S
+
+                              ----------                              
+
+                      WEDNESDAY, NOVEMBER 15, 2023
+
+                                                                   Page
+
+                           OPENING STATEMENTS
+
+The Honorable Matthew M. Rosendale, Sr., Chairman................     1
+The Honorable Sheila Cherfilus-McCormick, Ranking Member.........     2
+
+                               WITNESSES
+
+The Honorable Kurt DelBene, Assistant Secretary for Information 
+  and Technology, Office of Information & Technology, U.S. 
+  Department of Veterans Affairs.................................     4
+
+        Accompanied by:
+
+    Ms. Laura Prietula, Deputy Chief Information Officer, 
+        Electronic Health Record Modernization Integration 
+        Office, U.S. Department of Veterans Affairs
+
+Mr. Bill Tinston, Director, Federal Electronic Health Record 
+  Modernization Officer, U.S. Department of Defense..............     5
+
+        Accompanied by:
+
+    Mr. Lance Scott, Solutions Integration Director and Acting 
+        Technical Director, Federal Electronic Health Record 
+        Modernization Office, U.S. Department of Defense
+
+                                APPENDIX
+                                
+                    Prepared Statements Of Witnesses
+
+The Honorable Kurt DelBene Prepared Statement....................    27
+Mr. Bill Tinston Prepared Statement..............................    29
+
+                        Statement For The Record
+
+Oracle Corporation...............................................    33
+
+ 
+                        ELECTRONIC HEALTH RECORD
+                        MODERNIZATION DEEP DIVE:
+                             SYSTEM UPTIME
+
+                              ----------                              
+
+                      WEDNESDAY, NOVEMBER 15, 2023
+
+                        U.S. House of Representatives,
+                 Subcommittee on Technology Modernization,
+                               Committee on Veterans' Affairs,
+                                                   Washington, D.C.
+    The subcommittee met, pursuant to notice, at 12:28 p.m., in 
+room 360, Cannon House Office Building, Hon. Matt Rosendale 
+(chairman of the subcommittee) presiding.
+    Present: Representatives Rosendale, Self, and Cherfilus-
+McCormick, and Landsman.
+
+           OPENING STATEMENT OF MATTHEW M. ROSENDALE, 
+                            CHAIRMAN
+
+    Mr. Rosendale. Good afternoon. The subcommittee will come 
+to order.
+    Today, we are going to do a deep dive into another 
+dysfunctional area of the Oracle Cerner Electronic Health 
+Record (EHR) instability of the system.
+    VA and Oracle have come up with many different words to 
+describe this problem. Outages, downtime, incidents, 
+performance degradations, user interruptions, and incomplete 
+functionality. They all mean that the EHR is not working and 
+that staff cannot use it. That is the bottom line.
+    Far too often, the EHR amounts to a multibillion dollar 
+frozen screen or a brick on the employee's desk. When the 
+system goes down, the veteran's exam gets interrupted or 
+delayed. Or the provider has to document orders on papers and 
+enter them into the system later on. Sometimes a procedure has 
+to be postponed all together, and we all know what kind of 
+problems that presents by postponing these procedures. In at 
+least a dozen incidents, some sort of EHR outage directly 
+contributed to a close call or patient harm. It is an 
+unacceptable situation. Finger pointing and blame shifting 
+between VA, Department of Defense (DOD), and Oracle have gone 
+on for far too long.
+    We are going to delve into the numbers, as well as into the 
+root causes here today. According to VA and DOD, incident free 
+time under their control was between 95 percent and 99 percent 
+this year. According to Oracle, incident free time under the 
+company's control was between 87 percent and 97 percent during 
+the year.
+    It is true that complete nationwide outages have become 
+less and less common over the past year, but crashes, hangs, 
+and errors that affect one facility, one module, or one person 
+are still widespread. Ultimately, what the users experience is 
+what counts and they are not happy.
+    The Kent Gale, Leonard Black, Adam Gale, and Scott Holbrook 
+(KLAS) research surveyed VA employees about whether ``over the 
+past 2 weeks the EHR was available when I needed it and 
+downtime was not a problem.'' Only 26 percent of VA employees 
+agreed with that, and 58 percent of the employees surveyed said 
+that EHR was not available and downtime was a problem.
+    There is a big disconnect here. Either by design or by 
+accident, the criteria VA and Oracle are using are clearly not 
+capturing all of the system's problems. We know that the EHR 
+help desk ticketing process makes VA staff jump through hoops 
+to report issues. The Office of the Inspector General audited 
+the help desk last year and found widespread frustration. Many 
+of the employees have simply given up reporting the glitches 
+that they encounter, so truly the numbers are worse. Much worse 
+than what VA or Oracle is reporting.
+    Finally, the VA leaders told us 6 months ago that they had 
+renegotiated the Oracle contract to focus on improving the 
+EHR's uptime. They told us that they had added tough service 
+level agreements and real financial penalties. The results do 
+not seem to bear that out. I am not seeing much motivation. All 
+in all, the statistics we are being given are vastly different 
+from the independent data that we have and from what we are 
+hearing from the medical centers themselves.
+    I appreciate our witnesses joining us today to explain 
+this. With that I would yield to Ranking Member Cherfilus-
+McCormick for her opening statement.
+
+        OPENING STATEMENT OF SHEILA CHERFILUS-MCCORMICK, 
+                         RANKING MEMBER
+
+    Ms. Cherfilus-McCormick. Thank you, Mr. Chairman. Thank you 
+to the witnesses for being here today.
+    While I agree that stability of VA's new EHR is a critical 
+part of the success of this program, I am concerned about the 
+fact that we have to spend so much time talking about it. It 
+seems to me that an operational EHR is the minimum requirement. 
+It is the very least that we should expect of Oracle Cerner and 
+VA.
+    I have received the data about Cerner and VA-owned 
+downtime. I am concerned that the data does not seem to match 
+what we are hearing from frontline staff. The end users that we 
+have heard from indicate that the system is frequently either 
+slow or nonfunctional and that other systems that interface 
+with the EHR such as Joint Legacy Viewer (JLV) are even worse.
+    Transitioning to a new EHR is always hard. It does not need 
+to be made harder by a system that is not reliably there when 
+you need it.
+    I find it especially problematic that we are still talking 
+about system stability more than 3 years after the initial go 
+live at Mann-Grandstaff VA Medical Center. These technical gaps 
+should have been identified and mitigated prior to the system 
+go live at Mann-Grandstaff in October 2022. The fact that there 
+were and is still a huge disservice to the staff and veterans 
+at the facility.
+    In addition to the inherent stability issues, we have heard 
+repeated stories of Oracle Health pushing updates that break 
+other functions of the EHR, and that in many cases they are 
+pushing these updates in the middle of the workday. This does 
+not seem like best practices to me. These updates would be 
+safer if they were pushed in the middle of the night when their 
+impact would be less felt.
+    I hope to hear today now how VA and Oracle Health are 
+working to improve this process. For over a year now we have 
+heard from Oracle that they are making major improvements to 
+system stability but there seems to be a lot of finger pointing 
+between the VA, DOD, and Cerner. I am pretty sure frontline 
+staff do not care who is responsible. They would just like for 
+their issues to be fixed.
+    I hope to hear today how VA and the Federal Electronic 
+Health Record Modernization (FEHRM) plan to do just that.
+    Finally, I am bothered by the fact that we are forced to 
+spend so much time talking about this when VA and Cerner have 
+much greater, much bigger, and more complicated issues that 
+need to be addressed. It seems that since Oracle bought Cerner 
+last summer it has attempted to focus on the EHRM conversation 
+on improving system stability. I guess they would rather talk 
+about this low-hanging fruit than talk about fixing the 
+clinical workflows. Or the fact that training and change 
+management are still woefully inadequate and user satisfaction 
+is still critically low.
+    I am disappointed that Oracle Health is not here to 
+participate in this conversation. I understand that Ms. Scalia 
+had another obligation but there must be someone else in the 
+organization that could speak to this topic. It is very 
+disappointing I would like to stress that they are not present 
+with us today. The fact that they did not send a representative 
+raises major concerns for me, and I expect better. I am 
+constantly losing faith in the process.
+    With that, Mr. Chairman, I yield back.
+    Mr. Rosendale. Thank you very much, Ranking Member 
+Cherfilus-McCormick.
+    I will now introduce the witnesses on our first and only 
+panel.
+    First, from the Department of Veterans Affairs we have 
+Assistant Secretary for Information and Technology, Kurt 
+DelBene. We also have Deputy Chief Information Officer Laura 
+Prietula. Finally, from the Federal EHR Modernization Office we 
+have Director Bill Tinston and Chief Technology Officer Lance 
+Scott.
+    I ask the witnesses all to please stand and raise your 
+right hands.
+    Do you solemnly swear under penalty of perjury that the 
+testimony you are about to provide is the truth, the whole 
+truth, and nothing but the truth?
+    [Witnesses sworn.]
+    Mr. Rosendale. Thank you very much. Let the record reflect 
+that all witnesses have answered in the affirmative.
+    Mr. DelBene, you are now recognized for 5 minutes to 
+deliver your opening statement.
+
+                   STATEMENT OF KURT DELBENE
+
+    Mr. DelBene. Good afternoon, Chairman Rosendale, Ranking 
+Member Cherfilus-McCormick, and distinguished members of the 
+committee. Thank you for the opportunity to testify today in 
+support of VA's initiative to modernize its electronic health 
+record system.
+    I am accompanied by Dr. Laura Prietula, Deputy Chief 
+Information Officer of the Electronic Health Record 
+Modernization Integration Office (EHRM-IO).
+    I want to begin by thanking Congress and the committee for 
+your continued support and shared commitment to veterans. More 
+specifically, to your support for the VA's EHR modernization 
+efforts.
+    For VA, the successful deployment of the Federal EHR system 
+will facilitate seamless healthcare transitions for service 
+members and veterans across federal care settings.
+    As this committee already knows, the Federal EHR will 
+provide an accurate lifetime health record for veterans among 
+partners using the Federal EHR. Most excitingly for the newest 
+members of the military, the EHR will serve them from the day 
+they begin their military service through the rest of their 
+lives.
+    The VA is on a journey to implement this large system 
+transformation here. The Federal EHR system is a highly complex 
+software environment composed of the core medical records 
+system and several other connected systems that together 
+deliver the overall EHR experience to clinical providers and 
+patients.
+    In February 2022, VA established the Performance Excellence 
+Program to improve the overall system performance, resiliency, 
+capacity, and reliability of the Oracle Healthcare System. With 
+this systematic approach, we have seen the core system 
+stabilize over the time period resulting in an improvement in 
+the overall user experience. As of November 8, there have been 
+185 consecutive days without an outage and 100 percent system 
+availability in 10 of the last 12 months.
+    To be sure we are still experiencing partial system 
+failures that impact the users, we capture these in our instant 
+free time (IFT) which measures the time that the system 
+performs without significant end-user problems. While the IFT 
+metric is improving, it is not yet meeting the service level 
+agreement of 95 percent IFT on a regular basis.
+    As of September 30, 2023, Oracle Health has reached this 
+metric only 4 of the past 10 months. This partially is from the 
+number of changes that are being introduced. It is a well-
+established axiom of software development that systems 
+stabilize when the rate of change made in the system decreases. 
+The rate of change is still very high, resulting in more 
+incidences than we would like.
+    In some cases, the VA has requested functionality that has 
+never been deployed in Oracle Health commercially, such as the 
+integration of VA's consolidated mail outpatient pharmacy 
+making VA the first user of this functionality, which also 
+increases incident risk.
+    Regarding end-user support, we have improved the processing 
+of tickets and Oracle Health has met all four ticket management 
+Service Level Agreements (SLAs) in January, August, and 
+September. Every critical and high severity incident has a root 
+cause analysis done and a preventative action identified. These 
+reports are now integrated into Office of Information an 
+Technology's (OIT's) daily operational status review.
+    Ultimately, we anticipate that the system's performance 
+will improve when change velocity decreases and enough time has 
+passed to enable unanticipated defects to be found and 
+addressed. From a technical perspective, one of the advantages 
+of the reset is providing time for optimization of the system 
+and associated technical processes.
+    Improving system reliability, resilience, and availability 
+remains a critical focus and VA continues to monitor and 
+enforce contractual SLAs. As part of the contract renegotiation 
+of May 2023, VA increased the SLAs tied to concrete financial 
+consequences related to technical performance and end-user 
+experience.
+    There are now 22 SLAs and six service-level obligations in 
+place to hold Oracle Health accountable. As a result, VA saw 
+improvement in these metrics.
+    As my colleague on the panel Bill Tinston will attest, VA 
+works collaboratively with DOD and the Federal Electronic 
+Health Records Modernization Office to improve operations based 
+on lessons learned. Based on our shared learning, we applied 
+improvements where possible such as improving certificate 
+management, establishing Citrix pods that increase flexibility 
+in system performance, and optimizing virtual private network 
+setup for laptop computers.
+    In conclusion, veterans remain at the center of every thing 
+we do. They deserve high quality healthcare that is safe, 
+secure, timely, veteran-centric, equitable, evidence-based, and 
+efficient. With the activities and improvements that are now 
+underway, VA leaders are optimistic about the eventual success 
+of the current program reset, the deployment of level Federal 
+Health Care Center (FHCC) in March 2024, and the future full 
+implementation of the Federal EHR throughout VA. Having said 
+that, we will not do this until the system is ready to provide 
+a good, quality experience to users.
+    Again, I extend my thanks and gratitude to Congress for 
+your commitment to serving veterans with excellence, and we are 
+happy to answer any questions you may have.
+
+    [The Prepared Statement Of Kurt Delbene Appears In The 
+Appendix]
+
+    Mr. Rosendale. Thank you very much, Mr. DelBene.
+    The written statement of Mr. DelBene will be entered into 
+the hearing record.
+    Mr. Tinston, you are now recognized for 5 minutes to 
+deliver your opening statement.
+
+                   STATEMENT OF BILL TINSTON
+
+    Mr. Tinston. Chairman Rosendale, Ranking Member Cherfilus-
+McCormick, and distinguished members of the subcommittee, I 
+thank you for the opportunity to testify today on our 
+partnering efforts to get the Federal EHR's deployment 
+implementation and performance right.
+    I am accompanied today by Mr. Lance Scott, the Chief 
+Technology Officer for the Federal Electronic Health Record 
+Modernization Office, also known as the FEHRM. On behalf of the 
+FEHRM, I want to thank Congress and the subcommittee for your 
+unwavering dedication to ensure our Nation's veterans, 
+servicemembers, and beneficiaries receive the safe, reliable, 
+interoperable, and modern EHR they deserve.
+    The FEHRM performs a key role in the Federal EHR 
+modernization effort. The FEHRM oversees the shared environment 
+containing the Federal EHR and support systems, governs the 
+configuration and content changes derived through a joint 
+decision-making process, tracks and facilitates software 
+upgrades and solutions to optimize EHR performance, and 
+solutions to optimize EHR performance, and informs continuous 
+improvement through the tracking of joint risks, issues, 
+opportunities, and lessons learned.
+    I understand the concerns regarding the reports of outages, 
+incidents, and other technical problems associated with the 
+deployment of the Federal EHR. The effort to deploy our modern 
+EHR has been, and still is, a challenging endeavor, but in no 
+way do these challenges mean that the EHR modernization is not 
+an attainable goal. The FEHRM and its department and other 
+Federal partners work through these challenges every day.
+    The modern interoperable Federal EHR is large in scale and 
+complexity but this scale and complexity deliver capabilities 
+and enhance patient care and provider effectiveness. This 
+Federal EHR implementation effort also delivers on the promise 
+of seamless healthcare transitions for Service Members and 
+Veterans, and establishes a single lifetime longitudinal record 
+for beneficiaries.
+    The Federal EHR is an ecosystem of orchestrated 
+technologies. The overall EHR modernization effort is not about 
+a single product, network, interface, or application; rather, 
+it is about all-of these products, networks, interfaces, and 
+applications working together within a national enterprise. The 
+national enterprise that creates the right circumstances to 
+deliver the right experiences for clinicians and beneficiaries 
+alike.
+    This modern enterprise EHR capability enhances healthcare 
+delivery and delivers better outcomes. Among its many benefits, 
+the Federal EHR allows for standardized workflows, provides 
+better coordination between the VA and DOD and our other 
+partners, and enables efficient dissemination of innovation 
+technology and new capabilities.
+    Although the Federal EHR enterprise is not yet at the 
+performance threshold we demand, improvements are occurring. 
+Performance improves by looking at the entire Federal EHR from 
+an enterprise perspective. This holistic approach delivers 
+significant outcomes to an ever-evolving system. For example, 
+the mean time to restore has improved by 50 percent over the 
+past 18 months. Over the same 18 month period, healthy minutes 
+were sustained above 99.5 percent.
+    With an enterprise-wide approach to driving outcomes, we 
+have also enhanced the stability of the Defense Enrollment 
+Eligibility Reporting System, also known as DEERS. They 
+interface with the Federal EHR. These changes have had 
+significant impacts, and over the past 23 weeks, DEERS had a 
+single outage that was resolved in less than an hour.
+    The FEHRM, alongside its VA, DOD, and other Federal 
+partners, continues to collaborate and drive enhancements in 
+the Federal EHR. Since the initial deployment of the EHR, the 
+FEHRM and the departments have worked with end-users and 
+stakeholders to identify issues and improve the system's 
+reliability, functionality, usability and capabilities.
+    Collectively, the FEHRM, VA, DOD, and our other Federal 
+partners share problems, learn from each other, and develop 
+solutions together. There are tremendous advantages in this and 
+it results in a system that continuously improves.
+    In closing, as the son and brother of veterans and the 
+leader of an organization largely comprised of service members 
+and veterans united in modernizing the Federal EHR, this 
+mission is personal and critical to me. I am focused on 
+delivering patient-centered care and providing the greatest 
+capabilities available to support the most informed clinical 
+decision-making.
+    It is my observation that the more VA and DOD and our 
+Federal partners collaborate and team as an enterprise, the 
+more we raise the performance of the Federal EHR. I thank you 
+for your commitment to getting the EHR modernization right, and 
+for the opportunity to speak to you today. I look forward to 
+answering your questions.
+
+    [The Prepared Statement Of Bill Tinston Appears In The 
+Appendix]
+
+    Mr. Rosendale. Thank you very much, Mr. Tinston.
+    The written statement of Mr. Tinston will be entered into 
+the hearing record.
+    We will now proceed to questioning, and I recognize myself 
+for 5 minutes.
+    Unfortunately, Oracle is using the taxpayers' money and our 
+veterans for their own private research and development 
+mechanism. It is very disappointing to this committee, and we 
+see it time and time again.
+    These companies hold themselves out to be the experts in 
+the field. This is exactly what they were supposed to be doing. 
+Yet, we are being used as an experimental lab. The taxpayers 
+are funding it, and the veterans are the ones shouldering the 
+problems.
+    Downtime has been redefined. Service tickets are not even 
+being sent in anymore because there have been so many of them 
+and they have frustrated the employees so severely. You know 
+it, Mr. DelBene. You know it yourself. They are not sending in 
+all their tickets.
+    Money is still free flowing to Oracle. They are making 
+billions of dollars and it is, again, very disappointing.
+    Mr. DelBene, how do you explain the discrepancy in your 
+uptime statistics versus the KLAS survey?
+    Mr. DelBene. Thank you for the question.
+    I am not familiar with the exact methodology for the 
+survey. One distinct difference is it is a survey of people's 
+opinions of how the system is doing. We do hear from the people 
+that are using the system and there is frustration. I will 
+acknowledge that straight up.
+    At the same time, we have a set of metrics that are 
+actually measured based on the true system performance, and 
+that suggests that progress is being made. We are not happy 
+with the complete progress made but we actually are being very 
+systematic about measuring core system uptime, how systems 
+around the core are performing, and user uptime and how often 
+that they see a glitch. We are seeing improvements in each of 
+those metrics. Again, I will acknowledge that----
+    Mr. Rosendale. Okay, Mr. DelBene, when we see improvement 
+going from 7 percent acceptable to 10 percent, on the paper it 
+looks like there was a 38 percent improvement. Okay? 38 percent 
+improvement from 7 percent just to get you up to 10 percent, 
+quite frankly, Congress has a higher rating than that and it is 
+not really good. Okay?
+    How is it that the system can be up over 90 percent of the 
+time and yet only 26 percent of the employees say it is 
+available when they need it?
+    Mr. Delbene. The core system is up over 99----
+    Mr. Rosendale. Okay. The system is up. Totally, the entire 
+system is up 97 percent of the time, okay, but we are also 
+finding out now that that is based upon a 24-hour day. It is 
+not based upon an 8-hour workday. When you compress this down 
+to an 8-hour workday, okay, and you take out the 10 percent of 
+the time that it is not actually functioning, that is about an 
+hour a day that the system is not--Mr. DelBene, this is simple 
+math. We clarified that this is based on a 24-hour day.
+    Mr. Delbene. That is correct. The probability, the actual 
+downtime in a day under that statistic would be nowhere near an 
+hour.
+    Mr. Rosendale. Well, Mr. DelBene, I am just working off of 
+the numbers that we have here. If the numbers are based on this 
+24-hour day, and most of the medical centers are only open from 
+8 to 10 hours a day, are not the numbers inflated when no one 
+is even trying to use the EHR?
+    Mr. Delbene. If I may, number one, the actual core system 
+of time is a very high number today so there would not be----
+    Mr. Rosendale. Mr. DelBene, if the number is being based 
+upon and the survey is being based upon the number of hours 
+that the facilities are open, that is dramatically less than a 
+24-hour day; correct?
+    Mr. DelBene. Keep in mind that many of----
+    Mr. Rosendale. Mr. DelBene, is that correct?
+    Mr. DelBene. No, it is not correct.
+    Mr. Rosendale. The system is going to be functioning 24-
+hours a day but we only have people who are utilizing it 8 to 
+10 hours a day?
+    Mr. Delbene. Well, with all due respect that is the part 
+that is wrong, because if you take someplace like Mann-
+Grandstaff it is open 24 hours a day.
+    Mr. Rosendale. How often are the people using that system? 
+Do I need to go in and pull the actual hours and the charts for 
+how many employees are utilizing that system, because we will 
+pull that information as well. I do not believe that you are 
+going to show as many people working on that system, okay, from 
+a 9 to 5 as you are going to be from an 8 p.m. until 4 a.m.
+    Mr. Delbene. If I may step back. The measurement is 
+independent of the people using the system. It measures it when 
+it is being used by a lot of people and it measures it when it 
+is being used by a few people. The statistics cover over across 
+all of those scenarios. The distinction actually I do not think 
+is a material one in this case.
+    Mr. Rosendale. Mr. DelBene, if no one was there using the 
+system, okay----
+    Mr. Delbene. It still measures it.
+    Mr. Rosendale [continuing]. then you cannot gather 
+information from it.
+    Mr. DelBene. Then you cannot gather information from it.
+    Mr. Rosendale. How can you measure uptime when no one is 
+even trying to use the system?
+    Mr. Delbene. Because it is----
+    Mr. Rosendale. I will yield now to Ranking Member 
+Cherfilus-McCormick. She can take on her questions.
+    Ms. Cherfilus-McCormick. Thank you so much, Mr. Chairman.
+    I worked in healthcare for a long time before coming to 
+Congress and I wanted to make sure we put the conversation in 
+perspective. I think it is very easy for us to forget that this 
+is not just an Information Technology (IT) system but it is 
+really an electronic health record.
+    My question is for Assistant Secretary DelBene. What are 
+the consequences of an unstable EHR system in a healthcare 
+setting?
+    Mr. DelBene. Well, thanks for the question.
+    We obviously want the system and are driving toward the 
+system being at a very high level of reliability. The core 
+system is what is most important to have correct and to have 
+always up, and that is why we have driven a very high level of 
+SLA service level agreement for that core system.
+    The other systems that surround it, there are downtime 
+procedures for----
+    Ms. Cherfilus-McCormick. I wanted to focus specifically on 
+the consequences of an unstable EHR system in a healthcare 
+setting. Let us just identify, what are those consequences?
+    Mr. DelBene. I am not sure I am actually the perfect person 
+to answer that question since I am not a clinician myself. We 
+are striving toward having a high level of reliability both for 
+the core and the surrounding systems as well.
+    Ms. Cherfilus-McCormick. As you are implementing the IT 
+standard in the contract, are you aware of what the 
+consequences are or what angles of it are the most important? 
+Do you have awareness of that or does anybody else have 
+awareness of that?
+    Mr. DelBene. When we do triage of incidents that come in, 
+in every case we ask the question of are there downtown 
+procedures that people can use to accommodate or adjust to the 
+fact that there is an outage.
+    Ms. Cherfilus-McCormick. Okay. You have no understanding of 
+the consequences when it is unstable?
+    Mr. Delbene. I basically ask the people that are experts in 
+that particular topic.
+    Ms. Cherfilus-McCormick. Okay. How do EHR system failures 
+impact patient care and safety?
+    Mr. DelBene. Would you repeat the question, please?
+    Ms. Cherfilus-McCormick. How do EHR system failures impact 
+patient care and safety? What is the impact?
+    Mr. DelBene. Again, I do not think I am the subject matter 
+expert in that to be able to answer that question. I will say 
+that we focus on having downtown procedures for every place 
+where the EHR would be used.
+    Ms. Cherfilus-McCormick. If you do not understand the 
+implementation of it or the implications of it, how do you feel 
+confident with the implementation of it if you do not 
+understand the consequences or the safety measures that are 
+potentially harmful?
+    Mr. DelBene. Well, I do understand the system itself very 
+deeply. I rely on people that are subject matter experts in the 
+particular clinical workflows to make sure that the 
+requirements that come into the system that we implement or 
+that the team implements will implement the right workflows.
+    Ms. Cherfilus-McCormick. I am sure you had these 
+conversations with the experts before and you had the 
+conversation of the consequences and the seriousness of this. 
+In your perspective, just recalling what they have talked to 
+you about, could you please tell me those consequences?
+    Mr. DelBene. I am sorry. Again, I think I am probably not 
+the right person to answer this question.
+    Ms. Cherfilus-McCormick. The reason why I keep bringing it 
+up is because I have worked in a healthcare setting. When we 
+have contracted out and the people who we had who were actually 
+responsible for implementation did have an understanding of the 
+basic needs and consequences so they can look out for it. 
+Independently, without those understandings, how can you be 
+confident that the implementation going forward is actually 
+protecting those involved and also meeting the needs? I 
+understand that you are staying on uptime, downtime, also you 
+are looking on that but is there any focus on the consequences, 
+specifically in a healthcare setting that you, yourself, have 
+been exposed to? It is important we get that answer because 
+that would help us become more confident with the process you 
+are implementing.
+    Mr. DelBene. Thank you for the question. I think I 
+understand the question. What I am trying to say is that we act 
+as a cross-functional team where physicians and experts in 
+medical care work hand-in-hand with us so that the team makes 
+sure the right things happen.
+    Ms. Cherfilus-McCormick. You are not taking time to 
+understand it yourself? Okay.
+    My next question for you is what is the industry standard 
+for EHR uptime?
+    Mr. DelBene. Our goal is to have a 99.95 percent uptime. We 
+actually believe that is at or above the core industry 
+standard.
+    Ms. Cherfilus-McCormick. The original contract set a 
+standard of 99.9 when it was renegotiated earlier this year. It 
+was raised to 99.95. Why do you think that this contract is 
+still below industry standard?
+    Mr. DelBene. Actually, for the core uptime it is, as we 
+said in our testimony, it is actually achieving that standard.
+    Ms. Cherfilus-McCormick. Are you feeling confident with the 
+performance of and the implementation of Oracle?
+    Mr. DelBene. Overall, no. We still think there is a ways to 
+go. I do not want to present the system as all set and ready to 
+go. There are places we have significant concerns that we are 
+working with Oracle on so I want to make sure that is clear. 
+The incident free time not hitting standards is important. The 
+end-user responsiveness we think still has a way to go. We 
+think there are functional workflow issues that still have to 
+be resolved.
+    Ms. Cherfilus-McCormick. It is my understanding that the 
+industry standard is 99.99, and the standard set forth by the 
+renegotiation is 99.95, which is below industry standard.
+    Mr. DelBene. I do not think that is the case but we should 
+take that for the record and do some research there. Ninety-
+nine point ninety-nine is typically a standard used for an 
+infrastructure component, like identity management. An end-user 
+focused system will tend to be more toward 99.9 or three 9s 
+reliability. We wanted to push it higher than that and get to 
+99.95. One of the things to keep in mind is, a gain, the 
+downtime procedures and being able to work with EHR down will 
+also influence when you push that vendor to get toward a higher 
+standard or not.
+    Ms. Cherfilus-McCormick. Thank you. I yield back.
+    Mr. Rosendale. Thank you very much, Representative 
+Cherfilus-McCormick.
+    I now recognize my good friend from Texas, Representative 
+Self, for 5 minutes of questions.
+    Mr. Self. Thank you, Mr. Chairman.
+    I heard you dismiss the opinion of employees in a survey 
+because there are people behind technology, and frankly, the VA 
+system is a people business. They are real people administering 
+care. They are real people receiving care.
+    In this survey--and I want to use the survey even though 
+you may dismiss it. When 9 percent say that the Cerner system 
+makes them as efficient as possible and 10 percent say it helps 
+them deliver high-quality care, the question is, is that a 
+failure of the system? I suspect you will say no, and if that 
+is the case, if your answer is no, what percentage would be 
+failure?
+    Mr. DelBene. Thank you for the question.
+    Actually, I do not dismiss the survey. I think what I said 
+was I do not know the methodology of the survey.
+    Having said that, I actually hold in very high regard the 
+opinions that come from end users. They are the ones that 
+matter. If they feel like the system is not meeting their needs 
+we have to rectify that situation at a full stop.
+    Mr. Self. What percentage?
+    Mr. DelBene. Percentage? I am sorry.
+    Mr. Self. Would constitute failure of the system?
+    Mr. DelBene. What percentage would constitute failure----
+    Mr. Self. If 9 and 10 do not, do you think the system is a 
+failure at this point of time, at this point in time?
+    Mr. Delbene. I would say that having 9 out of 10 people not 
+be happy with the performance of the system is a problem.
+    Mr. Self. Okay.
+    Dr. Prietula, continuing with this survey, 8 percent said 
+their initial training prepared them to use the system, 14 
+percent said the training was helpful. Is this a training 
+problem or a system problem?
+    Dr. Prietula. Thank you for your question.
+    In terms of training, end-user training, that is not part 
+of my responsibilities though we are focusing on that training 
+with some of the EHRM-IO components.
+    In terms of is it a failure of the system in terms of how 
+you use it, we are making every effort to ensure that training 
+is changed to ensure that we understand what the users need. 
+What kind of potential additional training or different kinds 
+of training we can have with them. Additionally, we are also 
+working with our IT local and OI&T to ensure that they are 
+absolutely understanding what the systems are, how they 
+operate, and who to call should there be any issue.
+    Mr. Self. Can you tell me why the employees in the private 
+sector do so much better with the Cerner system than the VA 
+system?
+    Dr. Prietula. I can give you an example of or an idea of. 
+We have a multitude number of changes that we have introduced 
+into the code base or the main Oracle stack. VA has 
+significantly customized that platform. What we are doing right 
+now is bringing back many of those customizations to make sure 
+that we are coming back to the base of what the system is 
+supposed to do. Most of the commercial entities as I am told 
+use out of the box functionality from Oracle Health. We have 
+significantly modified that code base. As I said, we are 
+working to bring that back into standards.
+    Mr. Self. I would question that ``use it out of the box'' 
+because I think most people have some customization.
+    Mr. Tinston, I did not catch, I did not understand your 
+reference to DEERS. DEERS is decades old. What is that tie that 
+you tried to make?
+    Mr. Tinston. DEERS in particular has posed a problem for 
+operations on the VA side because calls were made to that 
+system. As you described, it is an aged system and so its 
+performance impacted the performance of the VA experience with 
+the EHR. The VA has changed their interaction such that they 
+have created resilience from an EHR perspective so that if 
+there is a DEERS problem or a connecting system problem that 
+the user is able to continue with the work and the workflow 
+that they were engaged in. Mr. DelBene has engaged with the DOD 
+Chief Information Officer (CIO) to drive improvement in the 
+associated connected DOD systems such as DEERS.
+    Mr. Self. Okay. Mr. Chairman, I yield back.
+    Mr. Rosendale. Thank you very much, Representative Self.
+    Mr. DelBene, I am going to go back and try to pin down a 
+little bit more information about the discrepancy between what 
+is actually reported through Oracle and what it is the 
+employees are stating because we have got this big gap, okay, 
+between how bad they say it is and how bad that you guys say it 
+is.
+    The incidents that are experienced by the employees--
+crashes, slowdowns, hangs--all of these things are severe 
+enough to the point that the employees find the system 
+unusable. Okay? If an employee finds this system unusable, what 
+I am trying to figure out is how are you reporting that? They 
+report it to you and they say I have had this system. It is 
+unusable at this one facility, at this one site. Okay? How does 
+that get calculated in for this 97 percent, 98 percent showing 
+that it is up and running where we have these downtimes again 
+based upon an 8-hour day and one facility instead of all the 
+facilities and a 24-hour day? How do we do the reporting for a 
+person sitting at a desk and saying this system will not work 
+for me for an hour?
+    Mr. DelBene. Again, the measures that exist are 24-hour 
+wide measures. There is no concentration of those in a 
+particular 8-hour period. I think that is part of our 
+discrepancy.
+    Let me step back. We definitely think that there are issues 
+around getting good performance, end user responsiveness still 
+in the system. The three measures that we have defined as SLAs, 
+which without going into too much detail get to the average 
+responsiveness, the 10 percent worse responsiveness, and the 1 
+percent worst. We are very careful to make sure that we had all 
+three of those. In each case they are hitting it but in 
+particular for the 1 percent of people there is still a lot of 
+hangs that happen in the system. We define a hang as a 5-second 
+pause. What that metric is, the threshold is 50 of those in a 
+day. The current number is somewhere around 20 of those in a 
+day. I actually think if you were looking at the screen and 
+seeing 20 such hiccups, if you will, in a day, you would 
+perceive that as unacceptable performance. I think that is a 
+place where we actually are aligned and we need to do better.
+    The other thing I would make clear is we particularly set 
+up the contract so that as we go into additional option years 
+we can change those SLA numbers and we can ratchet them down to 
+be more strict. We are looking at those SLAs and saying which 
+ones would we change moving forward?
+    Mr. Rosendale. Again, this gets down to the definitions and 
+it gets down to the math. Okay? I think that that is where we 
+have the big problem, because if you are having this problem, 
+the same problem, the hangup, the delay, and it is taking place 
+in different facilities at different times throughout the 
+course of the day then it is not really getting calculated 
+accurately about the system having a deficiency because we are 
+basing it on a 24-hour day. You and I can debate back and forth 
+but you are not going to have the amount of traffic on that 
+system from 6 or 7 p.m. until 4 a.m. that you have from 9 to 5.
+    Okay. Moving on. Only 11 percent of the VA employees told 
+the KLAS research that the Oracle Cerner EHR has the fast 
+response time that they expect when logging in, refreshing the 
+screen, and retrieving the information. That sounds a lot like 
+the definition of incidents. Yet, you are reporting incident 
+free time in the high 90's. Again, how do you explain that?
+    Mr. DelBene. Well, thank you for the question.
+    We know for each of the systems whether they are responded 
+or not and we separately measure what is the actual response of 
+the user experience. What you see is the number. We can 
+actually measure a particular system is up, and we can 
+accurately measure as a result how much incident time there is 
+in aggregate. We separately measure whether the actual system 
+is responding adequately. That is the number I tried to give 
+you a sense of. They are meeting the SLAs but we still think, 
+particularly for that 1 percent of users which probably will be 
+more vocal, and rightly so, that the experience may well be 
+unacceptable.
+    Mr. Rosendale. Mr. DelBene, if your definitions are not 
+capturing problems with the EHR that are preventing the VA 
+staff from doing their jobs, okay, they are just saying this is 
+not working for me and you do not have a definition to capture 
+that, does that not mean the definitions are incomplete or not 
+accurate?
+    Mr. DelBene. I think it means that we need to really make 
+sure that we are well aligned with users to make sure we have 
+their--and we are. To make sure we understand how they are 
+perceiving the system. There are two separate questions. There 
+is the performance of the system and what do the numbers tell 
+us? Then there is how end users----
+    Mr. Rosendale. Let me make this real simple. If I file a 
+complaint and you are speaking a different language, okay, that 
+does not accept that complaint, then it is not getting 
+registered.
+    Representative Cherfilus-McCormick, I recognize you for 
+your next round of questioning.
+    Ms. Cherfilus-McCormick. Thank you so much, Mr. Chairman.
+    I have huge concerns as I was considering the conversation 
+we just had. One of my concerns is, you know, I am trained as a 
+lawyer. I did not have a healthcare background when I got into 
+healthcare, but one of the basic things that we do is to 
+understand the healthcare system. The reason why it is 
+important to understand the healthcare system is because you 
+have to understand if you are actually weighing the right 
+variables and if you are actually weighing the right matrices 
+to determine success.
+    The end users of Cerner and Oracle. I want to know what 
+your relationship is with them because they do understand the 
+healthcare system and they work together. Now, do you have any 
+system or a survey that you may have used to find out what 
+their perceptions are, because what you are reporting does not 
+match what they are reporting.
+    Mr. DelBene. Thank you for the question. It is a very good 
+one, and we do those end-user feedback sessions as well as 
+surveys. Let me pass to Dr. Prietula who can talk more about 
+that.
+    Dr. Prietula. Yes. Thank you for the question.
+    We do recognize that we needed to be much more close to our 
+end users. We established during this Reset period, we 
+established some integrated teams with Veterans Health 
+Administration (VHA) and our groups and EHRM, to really assess 
+where are we in terms of the user experience. We have human 
+factors engineering groups working with us now to make sure 
+that--and with Oracle Health as well as our partnership--to 
+make sure that we start working on remediating what the users 
+are understanding that needs to be improved from an end-user 
+perspective. We also have from some surveys that the pre-and 
+post-deployment of a code block, which is a major release. We 
+have some of those that we started to do to understand where we 
+are in terms as to the experience that the users are having 
+with it.
+    Ms. Cherfilus-McCormick. Could you please provide us with 
+those surveys and that data? How frequent is that, those 
+surveys?
+    Dr. Prietula. We just started them.
+    Ms. Cherfilus-McCormick. You just started them? How many 
+rounds of surveys have you conducted?
+    Dr. Prietula. One.
+    Ms. Cherfilus-McCormick. One round of surveys. When was the 
+last survey that was conducted?
+    Dr. Prietula. That was with our code block release 9. That 
+was in September.
+    Ms. Cherfilus-McCormick. In September of this year?
+    Dr. Prietula. Of this year. Yes.
+    Ms. Cherfilus-McCormick. Who does the critical analysis of 
+that, the surveys?
+    Dr. Prietula. We are working, like I said, with human 
+factors engineering, and VHA.
+    Ms. Cherfilus-McCormick. When are they delivering the 
+results of that?
+    Dr. Prietula. We are looking at those results now.
+    Ms. Cherfilus-McCormick. Once you receive it, how are you 
+planning on doing the critical analysis of what they deliver to 
+you?
+    Dr. Prietula. We have projects established. As we go and do 
+the root cause analysis as to what is going on, what did they 
+identify as being an issue, we go and evaluate where should we 
+be starting? We have projects that we can kick off to go and 
+address each one of those.
+    Ms. Cherfilus-McCormick. Will you and Mr. DelBene be a part 
+of the critical analysis?
+    Dr. Prietula. We work as a partnership.
+    Ms. Cherfilus-McCormick. Okay. Then could you tell me what 
+the consequences are of a failing EHR system?
+    Dr. Prietula. I cannot tell you the consequences. I am not 
+a clinician.
+    Ms. Cherfilus-McCormick. Are you substantially confident 
+that you can, in fact, be able to do that critical analysis if 
+you do not understand that?
+    Dr. Prietula. Like I said, we are working with VHA as well 
+in that evaluation. It is a technology----
+    Ms. Cherfilus-McCormick. You are relying totally on their 
+analysis of it?
+    Dr. Prietula. It is a joint analysis because if it is like 
+the front end portion of it, that is with our VHA. If it is 
+something that the system can enhance or can fix, that is where 
+we come in as engineering and architects.
+    Ms. Cherfilus-McCormick. Do you feel comfortable knowing 
+that that part of understanding the basic part of healthcare, 
+the necessities, the safety for our veterans, that lack of 
+knowledge, are you comfortable making decisions without 
+understanding the implication on our veterans?
+    Dr. Prietula. When we look at the requirements that are 
+given to us from our functional community, we work with them on 
+every step of the way.
+    Ms. Cherfilus-McCormick. You are comfortable with that, 
+knowing that a failing system can cause death and safety 
+hazards for our veterans, are you comfortable with that?
+    Dr. Prietula. No, I am not comfortable, and I did not say 
+that.
+    Ms. Cherfilus-McCormick. I guess what I am asking is 
+relying on--well, you can go ahead and answer, Mr. DelBene.
+    Mr. DelBene. Yes. I think that we have gotten a little off 
+track here. I think what we are trying to express is that we 
+act as a cross-functional team, multi-functional team. In the 
+end what matters is that the team concludes, are we ready to 
+continue to pass the reset or not.
+    Ms. Cherfilus-McCormick. We are actually right on track. I 
+did not want to step in but we are on track. As I said, as 
+leading a healthcare company, there is a certain amount of 
+reliance that you can have on your team. As a leader you have 
+to understand certain principles. Understand the consequences 
+of the people who you are protecting. Carrying out the mission 
+of taking care of our veterans is an important mission but 
+understanding the critical nature of the system is also 
+important. That is the baseline, the near baseline. 
+Understanding that is one thing and ensuring that everyone who 
+is working on the team understands that is another thing.
+    I wanted to see, I am trying to become more confident about 
+this structure and what is present. The more we talk about it, 
+the more confidence I am losing because I am not seeing that 
+independent process of understanding the basics. These are the 
+basic system that are not being understood.
+    I will just yield back, Mr. Chairman. Thank you.
+    Mr. Rosendale. Thank you very much, Representative 
+Cherfilus-McCormick.
+    I will now represent my friend again from Texas, Mr. Self.
+    Mr. Self. Thank you, Mr. Chairman.
+    I want to go back to those end users. I assume those are 
+your employees and not the veterans. What are they instructed 
+to do when they have either a shutdown or what did you call it? 
+A pause. A 5-second pause or more. What are they instructed to 
+do. They are with a patient and the system becomes unusable for 
+some period of time. What do they do?
+    Dr. Prietula. We have, again, in that collaboration with 
+our Veterans Health Administration working groups, we notify 
+employees when there is an issue, either that they have 
+reported or that we know that the system is not executing where 
+it needs to be, we have a process in place where we can notify 
+them.
+    Mr. Self. No, no. We are sitting in the room. You are 
+getting an exam or whatever. The system is unstable. Do they 
+use it during the actual clinical treatment or is this only a 
+planning system? I assume it is used during treatment.
+    Mr. DelBene. If I may, the system, again, the uptime for 
+the system is such that for the vast majority of the time the 
+system is operating these days. We should just be clear there. 
+If there is a system issue incident going on, they have 
+downtime procedures which allow them to continue to do their 
+work.
+    Mr. Self. Okay. You said your average is 20 of these. What 
+did you call them, pauses?
+    Mr. DelBene. Oh, so you are saying, yes, for the average 
+person I think that Laura can tell me.
+    Dr. Prietula. Two.
+    Mr. DelBene. The statistic for the average person is two 
+such instances of less than 5 seconds in a particular day.
+    Mr. Self. Okay.
+    Mr. DelBene. That actually will not significantly----
+    Mr. Self. You do not think it impacts the quality of their 
+care at all.
+    Mr. DelBene. I think the 1 percent is the place we need to 
+really focus. The 1 percent of users that are seeing the worst 
+possible experience are still seeing 20 such incidents in a day 
+on average. That is unacceptable.
+    Mr. Self. The VA, the Dallas VA is in--it is not in my 
+district but it is close to my district. The second largest in 
+the system, I believe, 200,000 veterans. The 1 percent would be 
+a significant number of veterans that would----
+    Mr. DelBene. It would be end users. I am sorry. That would 
+be the 1 percent of people operating the system.
+    Mr. Self. Operating the system.
+    Mr. DelBene. Yes. The other thing I would like to be clear 
+on is the place that we have had best progress so far is 
+actually in the clinician experience. Particularly in this last 
+block upgrade, their experience has improved the most. It is 
+around registration and scheduling that we probably have some 
+issue. We have more issues centered in that end-user group.
+    Mr. Self. Okay. Mr. Chairman, I yield back.
+    Mr. Rosendale. Thank you very much, Representative Self.
+    Mr. DelBene, you acknowledged in your testimony that the 
+EHR is not meeting veterans' and VA clinicians expectations. 
+Activities to prepare for the go live at the James A. Lovell 
+Federal Health Care Center in North Chicago are underway right 
+now. Does the system meet those expectations now? If not, how 
+is it going to improve by March?
+    Mr. DelBene. Thank you for the question.
+    We are not at a point that we are launching today. I think 
+we believe we are on track to launch in terms of the 
+expectations of the people managing the system in Lovell. I 
+actually might ask Mr. Tinston to reply on that one if you are 
+okay with that.
+    Mr. Tinston. Representative Rosendale, we work every single 
+day cross-functionally with the technical team at the VA, 
+technical team at the DOD, the two programs and the leadership 
+at North Chicago to make sure that we are on track to deliver 
+in March. Our understanding and our intent there is to get a 
+yes. That we can improve their ability to deliver care before 
+we go live with anything in North Chicago. I expect that answer 
+will be yes. I have no reason to believe it is anything but yes 
+at this point. We are diligently watching every single day.
+    Mr. Rosendale. Okay. Mr. DelBene and Ms. Prietula, you 
+should be familiar with the EHR reset legislation that was 
+provided to the VA in September.
+    Mr. Delbene. Yes.
+    Mr. Rosendale. Okay. It would establish criteria for each 
+medical center director to certify that the Oracle EHR is 
+appropriate to install and the facility is prepared to receive 
+it. The bill is not law yet but this is a common sense 
+standard. Are you going to apply the standard to Lovell without 
+the legislation? Do you believe that Lovell would need it?
+    Mr. Delbene. I believe that it is important for the end 
+users and for the management of that facility to be onboard and 
+supportive of the rollout.
+    Mr. Rosendale. Okay. I do, too. That is why we had that 
+language in the legislation.
+    What I am asking is, are you ready to apply all of those 
+standards to the Lovell rollout? Do you believe that they would 
+meet it?
+    Mr. DelBene. I believe at this point we are on track to 
+meet that when we do launch, but we will not launch until we 
+have met the standards that are part of our go live criteria.
+    Mr. Rosendale. Mr. Tinston, Mr. Scott, James Lovell is the 
+only fully integrated DOD VA hospital. You are implementing the 
+Oracle Cerner EHR there before VA can finish their reset work. 
+What unique challenges does Lovell pose, and how are you going 
+to overcome them? This is a facility that is different than any 
+other place we have had a rollout. Again, what are the 
+challenges, and what do you think needs to be done?
+    Mr. Tinston. Sir, the problem is different at James A. 
+Lovell Federal Healthcare Center. They are an organization led 
+by the VA that was asked about a decade ago to work in an 
+integrated fashion supporting both DOD beneficiaries and VA 
+beneficiaries out of one common facility. We did not equip them 
+with the right IT tools to do that. They use at least three 
+different EHRs trying to create integrated care delivery at 
+that facility. We are solving that problem and we work every 
+day, to your prior question, with the director of the facility 
+to make sure that we are addressing the problems and we are 
+making things better as we approach a go live at that facility. 
+That is the last remaining DOD facility. It is the only one 
+they have not deployed the common record to, and we work every 
+day, and to your point, specific issues to that are that they 
+see beneficiaries from both systems every single day, and they 
+do that in an integrated fashion and we have to improve their 
+ability to do that because the people there have already done 
+the work and working in an integrated fashion. We need to give 
+them the tools. That is what we are striving to do.
+    Mr. Rosendale. I have grave concerns because of watching 
+the other facilities and the rollouts, and we know that level 
+is a lot more complex. Forgive me if I am a Doubting Thomas 
+about this but when we see the deficiencies and the failures in 
+the other facilities that are not nearly as complex, as level, 
+again, we are going to need to apply these metrics. If the 
+legislation is not passed, I am hoping that we can get you to 
+agree to this metrics, but right now as you look at it, what 
+level of comfort do you truly have that we are going to be able 
+to meet those metrics in March?
+    Mr. Tinston. It actually pretty high. It is the highest it 
+has ever been and it has improved every day in the last year 
+because we work on a daily basis with the leadership team that 
+delivers care at FHCC in North Chicago. As we continue that 
+engagement, and I had our situation report with the broad team 
+yesterday afternoon and there were no showstoppers. This is led 
+by the Veterans Integrated Services Network (VISN). We have the 
+VISN there. We have the director of the facility there. We have 
+the Veterans Health Administration representatives there in the 
+conversation every day to make sure that we are meeting the 
+criteria that they need to go live and deliver effective care 
+and safe care better than they do today.
+    Mr. Rosendale. Thank you. Thank you.
+    Mr. Tinston. Absolutely.
+    Mr. Rosendale. Okay. I am going to yield to Representative 
+Cherfilus-McCormick. Thank you.
+    Ms. Cherfilus-McCormick. Thank you.
+    Mr. Tinston, what do you see as the FEHRM's role in 
+improving system stability for VA and the DOD?
+    Mr. Tinston. The FEHRM is about the things that we do 
+together between the DOD and the VA. Not things that we both do 
+but the things that we do together. The FEHRM by charter is set 
+up to manage all of those joint processes. Part of your 
+question--yes, ma'am?
+    Ms. Cherfilus-McCormick. Are there any factors that limit 
+your ability to succeed?
+    Mr. Tinston. We work within the boundaries that the two 
+departments have set for us. I do not know that anything limits 
+our ability to succeed. No, ma'am.
+    Ms. Cherfilus-McCormick. This is a little off the topic but 
+since I have you here, in May 2022, the VA and the DOD 
+Inspector General published a report that found that the DOD 
+and the VA did not take all the action necessary to achieve 
+interoperability because FEHRM program office officials did not 
+develop and implement a plan to achieve for all Fiscal Year 
+2020 National Defense Authorization Act (NDAA) requirements or 
+take an active role to manage the program's success as 
+authorized by its charter.
+    My question is, what is the status of the FEHRM's efforts 
+to address this recommendation?
+    Mr. Tinston. Ma'am, with regard to that recommendation, the 
+two deputy secretaries whom I work for, Deputy Secretary of the 
+VA and Deputy Secretary of the DOD asked me to come back with 
+our plan to address that. I have done that. What we are doing 
+is focusing at this point on the joint site at FHCC because 
+that is the culmination of all our efforts to create a joint 
+single federal record.
+    Ms. Cherfilus-McCormick. Okay. When do you plan to be fully 
+compliant with the NDAA recommendation?
+    Mr. Tinston. Ma'am, I believe we are.
+    Ms. Cherfilus-McCormick. All right. I yield back. Thank 
+you.
+    Mr. Rosendale. Thank you very much.
+    Mr. Tinston, why is there not any survey data for the 
+Military Health System (MHS) Genesis for this year? Did the DOD 
+decline to participate?
+    Mr. Tinston. Not that I am aware of.
+    The FEHRM works with both departments to include EHR-
+related questions in surveys that the departments were already 
+doing. Interesting, we just completed as NDAA 2020 requires, an 
+annual EHR summit with users from each department. The results 
+of that will be coming out soon. In general, what we got from 
+the users was that they recognized the importance of the EHR. 
+They think that things are improving. Their complaints were, as 
+you noted in some of your questions and comments, that the 
+training is not right yet. We are not quite there but we are 
+moving in the right direction and we are compiling the results 
+of that at EHR summit where we had 1,000 users participating 
+with us for 2 days and we will have that available in the near 
+future.
+    Mr. Rosendale. I would love to see that survey information 
+again. When we show improvements and you are going from 7 
+percent satisfaction rate to a 10 percent satisfaction rate, as 
+a percentage that looks great but it is really not that much of 
+an improvement. I mean, I am sorry. When we also are taking 
+calculations on downtimes, slowdowns and things like that that 
+are for one person, one facility, and we are not even gathering 
+in all of the tickets any longer that we know that are out 
+there, that does not give us confidence about the working 
+system either.
+    Mr. Tinston, last year only 24 percent of the military 
+health system employees told KLAS that EHR was available when 
+they needed it. That is even worse than the VA. Is that what we 
+can expect at Lovell FHCC?
+    Mr. Tinston. Absolutely not. I cannot speak to what people 
+will say but when we look at people's satisfaction surveys on 
+an enterprise system we have to consider multiple factors. It 
+is incredibly important that they be satisfied and that we do 
+everything we can to create their ability to effectively use 
+the system and ensure that we deliver an effective system.
+    Mr. Rosendale. Again, the surveys are showing that the 
+people are not satisfied with it. Mr. DelBene can say that the 
+system is up and functioning but again, I continue to go back, 
+if it is up and functioning because nobody is utilizing it and 
+it is between 8 p.m. and 4 a.m., then it does not really 
+matter. It is when people are there trying to utilize it.
+    Dr. Prietula, here is the most troubling response from the 
+KLAS survey. Only 10 percent of the VA employees said that 
+Oracle Cerner EHR enables them to deliver high quality care. 
+Only 10 percent. I will grant you that is up from 7 percent 
+last year. Again, I am going to these percentages. These 
+numbers are abysmal. Compare that to the number for Veterans 
+Health Information Systems and Technology Architecture (VistA), 
+which is at 56 percent. We are talking a dramatic difference. 
+How many billions of dollars more is it going to cost to get 
+the Oracle Cerner number up to the VistA level How long is it 
+going to take for us to get there?
+    Dr. Prietula. Thank you for the question.
+    We are working very closely with Oracle Health in terms of 
+improving system performance in general. We have made a number 
+of improvements since I have got to this position. We have at 
+least 47 different projects that we have been executing and 
+around 36 of them we have----
+    Mr. Rosendale. Ms. Prietula, I have to interrupt but as you 
+know, we only have a limited amount of time. We are approaching 
+$4 billion spent on this system. Okay? It has been in place 
+since I have been here, so my tenure is coming on 3 years now 
+and I know that it was on before that.
+    How much more would you say that we should begin to have 
+conversations about allocating toward this system? How long is 
+it going to take us to bring those numbers up to where VistA is 
+today?
+    Dr. Prietula. I think that you will see improvements in the 
+coming deployments that we have. I cannot tell you when we are 
+going to be reaching the same numbers as VistA but I am very 
+confident that we will be able to get to numbers that are going 
+to be acceptable to our end users.
+    Mr. Rosendale. Okay. I still have a little bit of time.
+    At this rate of improvement it would take Oracle EHR 15 
+more years to come up to the level of VistA. Fifteen years 
+based upon the incremental changes and improvements that you 
+all have been making. Do you think that that is reasonable? Is 
+that worth investing in?
+    Dr. Prietula. Thank you for the question.
+    I believe that with the changes that we are bringing on we 
+are starting to get more velocity on the changes and we are 
+trying to ensure that all of those--in every release we have a 
+performance improvement. I believe that it is not going to take 
+us 15 to get to the VistA performance.
+    Mr. Rosendale. Thank you very much.
+    Mr. Landsman, I would defer to you, yield to you for 5 
+minutes of questioning.
+    Mr. Landsman. Thank you, Mr. Chairman. Thank you all for 
+being here. You all have gotten into a lot, so let me just ask 
+a couple high level questions. This is for Mr. DelBene.
+    I am curious, because this is obviously not the first time 
+you have taken on something like this. I am curious about the 
+approach. I mean, this highly complicated system that has a 
+whole host of very serious issues. This is a big picture. How 
+do you approach something like that and, you know, as it 
+relates to the larger problem but then if you drill down to the 
+sort of end user, the staff, and those they care for, in this 
+case, veterans, what is your approach? What are the big North 
+Stars? How do you tackle something like this?
+    Mr. DelBene. It is a good question. Thank you for it.
+    I have experienced a lot of these sorts of systems in my 
+career.
+    I think first, you have to be anchored on whether you 
+believe the system is addressing end-user needs directly. Is it 
+a good fit for the system relative to what you are trying to 
+accomplish? At that point, you have to make sure that you are 
+taking the feature requirements that you get from end users, 
+and are you on a good path to actually implementing them in 
+software, in the system?
+    At some point it gets down to a period of winnowing down 
+the changes until you get to a point where the system is 
+stable. If you feel like you have addressed the end-user 
+issues, you then drive down toward what we would consider a 
+release of that software. That is probably one of the most 
+uncertain times in the system because you just do not know 
+what, as we say, the tail looks like. How long is that tail 
+going to last?
+    The reason we set up the reset the way we did is because of 
+that uncertainty of how long is it going to take us, and we are 
+committed not to actually start to deploy again until we get 
+into that chute, into a place where the end-user experience is 
+good. That is the challenge we have in this system in 
+particular.
+    I want to just acknowledge again, we do not think we are 
+there. We do not think we have got everything done that we need 
+to get done for the system to be acceptable to end users. We 
+are committed to not deploying in further locations until it 
+is.
+    Mr. Landsman. So very helpful.
+    There are sort of these two things, or at least I picked up 
+on two big things. One is you have got to get to a place where 
+it does this work for the end user. Then if the answer is yes, 
+you start working through the problems and, you know, until you 
+knock them all out. You are at this point where you are trying 
+to sort out whether or not this is--or how do you get to a 
+place where this is a good fit or this works for the end user? 
+What are the two or three big things you are looking for?
+    Not exactly the things that have to happen, but as you are 
+sort of, you go in every day. What are the things that you are 
+monitoring as it relates to are we heading in the right 
+direction in terms of this being a good fit for the end user?
+    Mr. DelBene. Well, there are people, other parts of the 
+team that are saying, you know, how are we doing in terms of 
+the clinical experience? As a technical person, the pieces that 
+I am looking for is does this system look stable? Are we making 
+progress on those things we are managing? I am also looking to 
+the team and saying, like, when I triage, or I meet every 
+morning, we walk through every incident that happened in the 
+last 24 hours.
+    The thing I am looking for is patterns. I am looking for 
+are we doing enough due diligence and change control? Are we 
+causing incidents because of the change that we should not? I 
+am looking beyond and saying is there some instability beyond 
+this? This is a telltale for us. I am kind of looking at an 
+entire system and saying so what are the hidden things behind 
+this that this might be an indicator of? Trying to look deeper 
+into the system every day.
+    Then there are the metrics of just success. Are we on those 
+SLAs that we defined, are we actually hitting them on a regular 
+basis? It is one thing to hit them once. You have got to hit 
+them on a sustained basis to feel like the system is truly 
+stable.
+    Mr. Landsman. Last question. How long do you give this? I 
+mean, that is not a ``got you'' question. In general, maybe not 
+for this specific thing but when do you start feeling like, 
+okay, this may not be a good fit? Or do you know what I mean?
+    Mr. DelBene. I do.
+    Mr. Landsman. Okay. Are you at that point?
+    Mr. DelBene. I think having done this a number of times, 
+the first thing you look for is are you not within some bounds 
+of stability? Like this thing is coming in for a landing.
+    Mr. Landsman. Gotcha. Yes.
+    Mr. DelBene. I do not think this system looks that way to 
+me. However, if you want to talk about how long that tail is, I 
+think at this point we do not honestly know.
+    Mr. Landsman. Got it. Thank you.
+    I yield back.
+    Mr. Rosendale. Thank you very much, Representative 
+Landsman.
+    Thank you very much to all of the witnesses for joining us 
+today. The panel is excused from the table.
+    I would yield to Representative Landsman if you have any 
+closing remarks that you would like to add.
+    Mr. Landsman. Just a few. One is thank you all for 
+everything you are doing. This is incredibly complicated. It is 
+also very, very important, as you know. I mean, this is you are 
+at work right now and for some of you I suspect it has been 
+your work for a long, long time. I just want to say thank you. 
+I have a VA hospital in my district. It is a huge facility. It 
+serves thousands and thousands of people who served us and for 
+them to get to a place where the system that they are using is 
+helping them in a way that the current does not. Right? Is it 
+helping them serve the folks that they care so much about?
+    It is just so important so I just appreciate what you all 
+are doing. Mr. DelBene, for bringing your expertise. I suspect 
+it gives a lot of people a lot of confidence that you are here 
+and you are sorting through it and being as deliberate and 
+thoughtful as you clearly are. Thank you all. Thank you, Mr. 
+Chairman.
+    Mr. Rosendale. Thank you very much.
+    Today's hearing should have been unnecessary. The very 
+least we expect from a piece of software is that it runs 
+reliably when we launch it. The complexity and the rate of 
+change within the VA should be no surprise to anyone and this 
+is no excuse for Oracle. Again, they hold themselves out as the 
+experts in this field.
+    The irony is that the VA already has an EHR platform with 
+more than 99.9 percent uptime. This is like Ivory soap pure, 
+folks. It is called VistA. We delved into how it achieves that 
+level of performance in March. It is baffling that anyone could 
+pay billions of dollars and set a lower standard. Set a lower 
+standard. I understand the determination to make Oracle Cerner 
+work, especially now the DOD has nearly finished implementing 
+it.
+    I hope the two departments and Oracle can put the blame 
+shifting behind them once and for all and address the problems 
+regardless of who may have created them. We are going to be 
+giving special scrutiny to how the system performs at James A. 
+Lovell and, at the joint facility. Finger pointing is not just 
+counterproductive. It can be fatal.
+    Once again, I want to thank the witnesses who appeared 
+today.
+    I ask unanimous consent that all members have 5 legislative 
+days to revise and extend their remarks and include extraneous 
+material.
+    Without objection, this hearing is adjourned.
+    [Whereupon, at 1:38 p.m., the subcommittee was adjourned.]
+     
+      
+      
+      
+      
+      
+      
+      
+      
+      
+=======================================================================
+
+
+                         A  P  P  E  N  D  I  X
+
+
+=======================================================================
+
+
+
+                    Prepared Statements of Witnesses
+
+                              ----------                              
+
+                   Prepared Statement of Kurt DelBene
+
+    Good afternoon, Chairman Rosendale, Ranking Member Cherfilus-
+McCormick and distinguished Members of the Committee. Thank you for the 
+opportunity to testify today in support of VA's initiative to modernize 
+its electronic health record (EHR) system. I am accompanied by Ms. 
+Laura Prietula, Deputy Chief Information Officer, Electronic Health 
+Record Modernization-Integration Office.
+    I want to begin by thanking Congress and this Committee for your 
+continued support and your shared commitment to Veterans and, more 
+specifically, for your support of VA's EHR modernization efforts. For 
+VA, the successful deployment of the Federal EHR system will facilitate 
+seamless health care transitions for Service members and Veterans 
+across health care settings. The Federal EHR will provide an accurate, 
+lifetime health record for Veterans among partners using the Federal 
+EHR. For the newest members of the military, this EHR will serve them 
+from the day they begin their military service through the rest of 
+their lives.
+    The new Federal EHR system integrates with other health information 
+technologies and will ultimately simplify the experience for Veterans 
+and for VA staff, enhance standardization across the VA enterprise, and 
+improve VA and the Department of Defense's (DoD) interoperability with 
+the rest of the United States health care system. Moreover, the 
+adoption of a product used by VA and DoD will help to simplify health 
+care delivery by providers in both Departments, benefiting patients who 
+receive care in both systems or who are transitioning from DoD to VA 
+for care. It will also enable VA to deliver and optimize a unified and 
+seamless trusted information flow between VA, DoD, the U.S. Coast Guard 
+and community providers.
+    Since the initial go-lives of the Federal EHR in VA, we have been 
+listening to Veterans and clinicians, and it is clear that the system 
+is not yet fully meeting their expectations. As part of an Electronic 
+Health Record Modernization (EHRM) Program Reset (Reset) announced in 
+April 2023, VA halted work on future deployments of the Federal EHR, 
+with the exception of our planned joint deployment with DoD at the 
+Captain James A. Lovell Federal Health Care Center (FHCC), while the 
+Department prioritizes improvements at the five sites that currently 
+use the Federal EHR. The purpose of the Reset is to closely examine and 
+address the issues that clinicians and other end users are experiencing 
+with the current Federal EHR, and position VA for future deployment 
+success.
+    During this Reset, VA is addressing the issues with the Federal EHR 
+and redirecting resources from deployment activities other than Lovell 
+FHCC to work on optimizing the Federal EHR at the sites where it is 
+currently in use. The area of technical system performance is one of 
+several areas that is receiving dedicated attention and needs 
+resolution before deployments can resume at full pace.
+    VA has an obligation to Veterans and taxpayers to get this correct. 
+We understand the concerns of this Committee regarding the Federal EHR 
+system and its impact on the Veterans and VA staff who rely on it. We 
+are committed to full transparency, and we appreciate your oversight. 
+We look forward to further engagement with you and your staffs to 
+ensure that this modernization effort and related health information 
+technology modernization efforts are successful.
+
+EHR System Changes
+
+    VA is on a journey to implement a large system transformation. The 
+Federal EHR system is a highly complex software environment composed of 
+the core medical records system and several other connected systems 
+that together deliver the overall EHR experience to clinical providers 
+and patients.
+    In February 2022, VA established a Performance Excellence Program 
+to improve the overall system performance, resiliency, capacity, and 
+reliability of the Oracle Health system. Due to this systematic 
+approach, we have seen the core system stabilize over time, resulting 
+in improvements to the user experience. As of November 8, 2023, there 
+have been 185 consecutive days without an outage, and 100 percent 
+system availability in 10 out of the last 12 months.
+    However, we are still experiencing partial system failures that 
+impact end users. We capture these failures in our incident free time 
+(IFT) metric, which measures the time that the system performs without 
+a significant end-user problem. While our IFT metric has slightly 
+improved from last year, it is not yet meeting the Service Level 
+Agreement (SLA) of 95 percent IFT on a regular basis. As of September 
+30, 2023, Oracle Health has reached this metric for only 4 of the last 
+10 months.
+    This is due in part to the number of changes still being 
+introduced. These changes are made to improve the performance, system 
+functionality, and user experience. It is a well-established axiom of 
+software development that systems stabilize when the rate of changes 
+made to the system decrease. The rate of change is still high, and as a 
+result, we are still seeing more incidents than we would like.
+    While we have been able to improve the stability of the core 
+product, we continue to make regular changes to the environment to 
+achieve the functional capabilities needed for VA. Though system change 
+may bring different and improved experiences to the users of the 
+system, it also introduces the possibility of unintended consequences 
+or system instability.
+    In some cases, VA has requested functionality from Oracle Health 
+that has never been deployed by Oracle Health commercially, such as an 
+integration with the VA Consolidated Mail Outpatient Pharmacy, making 
+VA the first user of the functionality, which also increases incident 
+risk.
+    We have seen suboptimal and/or inconsistent end-user responsiveness 
+of the system. We measure both the mean responsiveness as well as the 
+90th and 95th percentile response times. The core system is becoming 
+more stable, and the mean user responsiveness is improving. While 
+Oracle Health has met the SLA for these metrics, we are refining these 
+metrics based on user feedback and will likely seek to tighten these 
+for option year 2 of the contract. We are also measuring performance in 
+areas that are not currently on contract, but still of interest to VA. 
+For example, the time to recover from an incident remains at around 2 
+hours. Faster incident resolution times are better.
+    Regarding user support, we have improved the processing of tickets. 
+Oracle Health met all four ticket management SLAs in July, August, and 
+September 2023. Every critical or high severity incident has a root 
+cause analysis performed and a preventive action identified. These 
+reports are also integrated now into the VA Office of Information and 
+Technology daily operational status reviews.
+    Ultimately, we anticipate that the system's performance will 
+improve when the change velocity decreases, and enough time has passed 
+to enable unanticipated defects to be addressed. From a technical 
+perspective, one of the advantages of the Reset is providing time for 
+optimization of the system and associated technical processes.
+
+Block and Cube Releases
+
+    Blocks 8 and 9 were deployed in February and August 2023, 
+respectively, and provided enhanced functionality to the field. A total 
+of 47 system performance improvements and enhancements were pushed into 
+production as part of the Block 9 release, which resulted in a 24 
+percent decrease in user interruptions and a 24 percent reduction in 
+application freezes for all users.
+    Just last week, we deployed our November 2023 cube release, which 
+fixed some bugs in the system and enhanced existing interfaces and 
+capabilities. In February 2024, we plan to release Block 10, with more 
+than 20 different enhancements and improvements being deployed across 
+the enterprise. Each one of these releases has a planned improvement to 
+the system performance and resiliency.
+
+Accountability
+
+    Improving system reliability, resiliency, and availability remains 
+a critical focus for our program. VA continues to monitor and enforce 
+contractual SLAs. As part of the contract renegotiation in May 2023, VA 
+increased the SLAs tied to concrete financial consequences related to 
+technical performance and user experience. The renegotiated performance 
+metrics include reliability, responsiveness, interoperability with 
+other health care systems, and interoperability with other 
+applications. There are now 22 SLAs and 6 service level obligations in 
+place to hold Oracle Health accountable. As a result, VA has seen 
+improvement to those metrics. VA expects to refine and potentially 
+expand the SLAs in the upcoming option year 2 negotiations.
+
+Lessons Learned from DoD
+
+    VA works collaboratively with DoD and the Federal Electronic Health 
+Record Modernization Office to improve operations based on lessons 
+learned and to collaboratively address issues with interfaced non-
+Federal EHR systems and networks that can impact system performance. 
+Based on our shared learning, we have applied improvements where 
+possible, such as improving certificate management, establishing Citrix 
+Pods for increased flexibility and system performance, and optimizing 
+virtual private network setup for laptop computers.
+
+Conclusion
+
+    Veterans remain the center of everything we do. They deserve high-
+quality health care that is safe, secure, timely, Veteran-centric, 
+equitable, evidence-based, and efficient. As improvements continue to 
+be made through the duration of this Reset, VA will continually 
+evaluate the readiness of sites and the Federal EHR system to ensure 
+success and patient safety.
+    With the activities and improvements that are now underway, VA 
+leaders are optimistic about the eventual success of the current 
+program Reset, the deployment at Lovell FHCC in March 2024, and the 
+future full implementation of the Federal EMR throughout VA. Having 
+said that, we will not do this until the system is ready to provide a 
+good quality experience to our users.
+    I again extend my gratitude to Congress for your commitment to 
+serving Veterans with excellence. With your continued oversight and 
+support, VA will realize the full promise of a modern integrated health 
+record to cultivate the health and well-being of Veterans. We are happy 
+to respond to any questions that you may have.
+                                 ______
+                                
+                   Prepared Statement of Bill Tinston
+
+    Good afternoon, Chairman Rosendale, Ranking Member Cherfilus-
+McCormick and distinguished Members of the Subcommittee, I thank you 
+for the opportunity to testify today on federal electronic health 
+record (EHR) modernization and interoperability, and our partnering 
+efforts to get the deployment, implementation, and performance of this 
+critical health care capability right. I am accompanied by Mr. Lance 
+Scott, the Chief Technology Officer for the Federal Electronic Health 
+Record Modernization (FEHRM) program office.
+    On behalf of the FEHRM program office, I want to thank Congress, 
+and this Subcommittee, for your unwavering dedication to ensure our 
+nation's Veterans, Service Members, and beneficiaries receive the safe, 
+reliable, interoperable, and modern EHR they deserve. I also want to 
+thank you for the support we received to deliver this transformational, 
+patient-centered health care capability.
+    I understand the concerns regarding reports of outages, incidents, 
+and other technical problems associated with the deployment of the 
+Federal EHR (FEHR) that we will discuss today. The effort to deploy a 
+modern EHR has been, and still is, a challenging endeavor. But in no 
+way do these challenges mean that EHR modernization is an unattainable 
+goal. The FEHRM and its Department and other federal partners work 
+through these challenges every day.
+    The modern, interoperable FEHR is large in scale and complexity. 
+But this scale and complexity deliver capabilities that enhance patient 
+care and provider effectiveness. This FEHR implementation effort also 
+delivers on the promise of seamless health care transitions for Service 
+Members and Veterans, and establishes a single lifetime, longitudinal 
+record for its beneficiaries.
+    Today, I look forward to sharing how the FEHRM partners with 
+Department of Veterans Affairs (VA), Department of Defense (DOD), and 
+other federal agencies to address the challenges and make the single, 
+common FEHR a reality.
+
+THE FEHRM and its Mission
+
+    The FEHRM serves a key role in the modernization effort we are 
+discussing today. Congress gave the FEHRM many responsibilities to 
+drive EHR modernization forward. Among other responsibilities, the 
+FEHRM is charged with pursuing the highest level of VA and DOD health 
+care interoperability, maintaining the common EHR configuration 
+baseline for the VA and DOD, continually evaluating the state of 
+configuration and any impacts on interoperability, promoting the 
+enhancement of the EHR system, and implementing a single lifetime, 
+longitudinal health record between the VA and DOD.
+    To meet this charge, the FEHRM performs a host of functions 
+advancing the FEHR. The FEHRM unites efforts and delivers common 
+capabilities that enable VA, DOD, and other federal agencies to 
+implement the FEHR. Common capabilities the FEHRM delivers include 
+performing oversight of the shared environment containing the FEHR and 
+supporting systems, governing configuration and content changes derived 
+through a joint-decisionmaking process, tracking and facilitating 
+software upgrades and solutions to optimize EHR performance, and 
+informing continuous improvement through the tracking of joint risks, 
+issues, opportunities, and lessons learned.
+
+The Federal EHR
+
+    The FEHR is an ecosystem of orchestrated technologies. The overall 
+EHR modernization effort is not about a single product, network, 
+interface, or application, Rather, its about all of these products, 
+networks, interfaces, and applications working together within a 
+national enterprise to create the right circumstances to deliver the 
+right experience for clinicians and beneficiaries alike.
+    This modernized, enterprise EHR capability enhances health care 
+delivery, and delivers better outcomes. Among its many benefits, it 
+allows for standardized workflows, better coordination between the VA, 
+DOD, other federal partners, and private sector health care systems, 
+and the efficient dissemination of innovation, technology, and new 
+capabilities.
+    Within the VA, the FEHR is currently in use at five medical 
+centers, 22 community-based outpatient clinics, and 52 remote sites. 
+Following these initial deployments, the VA halted work on further 
+deployments of the FEHR, with the exception of the Captain James A. 
+Lovell Federal Health Care Center (FHCC), to focus on improvements at 
+the five sites currently using the FEHR. FEHR technical performance is 
+one of the areas the VA Reset is focused . Beyond the VA's current 
+deployment posture, the FEHR is in wide use across the federal health 
+care space.
+    The United States Coast Guard completed its FEHR deployment across 
+109 sites, and the National Oceanic and Atmospheric Administration 
+successfully deployed the FEHR across its seven sites.
+    DOD is the most mature in its deployment of this capability. The 
+DOD routinely implements lessons learned and refines its deployment 
+processes, building on established practices to improve each subsequent 
+deployment. With the exception of the FHCC, the DOD completed its 
+deployment of the FEHR throughout its clinical sites within the 
+continental United States.
+    The DOD is now completing its global deployment of the FEHR to 
+multiple overseas sites. As an example of the FEHR enterprise driving 
+outcomes, last month the DOD completed its Europe deployment in 
+multiple clinical facilities in nine countries, across four time zones, 
+in twelve days. The deployment to the DOD's Pacific sites is underway, 
+and our early results indicate similar outcomes.
+
+Improving the Federal EHR
+
+    I share the frustrations of many of today's fellow witnesses, and 
+the distinguished members of this Subcommittee, over issues that 
+emerged in the VA's deployment of the Federal EHR. However, I see the 
+rigor VA is demonstrating in this Reset, and the collaboration that 
+occurs everyday across the breadth and depth of our modernization 
+effort. I am confident we will get this right.
+    The FEHR, and the implementation effort that drives its success, 
+continuously evolve. Since the initial deployment of the FEHR, the 
+FEHRM and the Departments have worked with end users and stakeholders 
+to identify issues and improve the system's reliability, functionality, 
+usability, and capabilities. Collectively, the FEHRM, VA, DOD, and our 
+other federal partners share problems, learn from each other, and 
+develop solutions together. There are tremendous advantages in this, 
+and it results in a system that continuously improves.
+    System performance is not a discussion about a single product. 
+Rather, through joint deployments and increased users, we learned much 
+about the criticality of maintaining a common EHR baseline. The 
+performance of this single enterprise system is driven by a multitude 
+of different factors and interactions within a complex ecosystem of 
+interfaces and interfacing systems. To optimize performance, we must 
+employ the right configurations while minimizing deviations, such as 
+local end user device configurations, from the enterprise configuration 
+baseline.
+    Although the FEHR enterprise is not yet at the performance 
+threshold we demand, improvements occur every single day. Many of these 
+improvements are realized through the FEHRM's understanding that 
+performance improves dramatically by looking at the entire FEHR 
+ecosystem from an enterprise perspective. This holistic approach 
+delivered significant outcomes to an ever evolving system. For example, 
+through the success of the Oracle Health Corrective Action-Preventive 
+Action (CAPA) process, the mean-time-to-restore (MTTR) improved by 50 
+percent over the past 18 months. Currently, the MTTR is now under 4 
+hours for more than 95 percent of events. Over this same 18-month 
+period healthy minutes were sustained above 99.5 percent.
+    With its enterprise-wide approach to driving outcomes, the FEHRM 
+improved the stability of the DOD Defense Enrollment Eligibility 
+Reporting System (DEERS) interface with the FEHR enterprise. In the 
+early years of the FEHR deployment, DEERS led the cause of FEHR system 
+degradation and downtime. The FEHRM engaged, along with the DOD and VA 
+and coordinated a series of engagement sessions with the Defense 
+Manpower Data Center (DMDC) to highlight and improve reliability. Over 
+a period of months, DMDC as well as the FEHR made changes to DMDC 
+infrastructure as well as the way DEERS and the FEHR interacted. These 
+changes had significant impacts, and over the past 23 weeks, DEERS had 
+a single outage that was quickly resolved in 53 minutes.
+    Beyond the subject of this hearing, the FEHRM continues to 
+collaborate in the development of significant FEHR advances. In terms 
+of data exchange and interoperability, in April 2020, the FEHRM 
+deployed the Joint Health Information Exchange (JHIE). This grew to be 
+the largest Health Information Exchange in the world, exchanging 
+bidirectional health care data with over 95 percent of health care 
+organizations. This created the most complete patient health care 
+record in history, for all members of the FEHR.
+    Another example of a significant release is the upcoming release of 
+the ``Seamless Exchange'' capability to the FEHR. This exciting 
+capability is currently undergoing a pilot at the VAMC at Walla Walla, 
+Washington. Seamless Exchange will allow the auto ingestion of external 
+community partner health care records directly into the FEHR, provide a 
+data deduplication capability, and for the first time, establish data 
+provenance for FEHR supported clinicians.
+    And, most notably, in response to the COVID pandemic, the FEHRM 
+established a bidirectional exchange between state immunization 
+registries and the FEHR. This new capability provided states and FEHR 
+partners an enterprise means to create a more complete patient record 
+by exchanging State immunization data.
+
+Conclusion
+
+    In closing, as a son and brother of Veterans, and leader of an 
+organization largely comprised of Service Members and Veterans united 
+in modernizing the FEHR, I am focused on delivering patient-centered 
+care, and providing the greatest capabilities available to support the 
+most informed clinical decision making. The success of deploying this 
+modern FEHR is fulfilling a solemn promise to our Service Members, 
+Veterans and their families.
+    The single, common FEHR enhances health care delivery, and delivers 
+better outcomes. It is my observation that the more VA, DOD, and our 
+federal partners collaborateand team as an enterprise, the more we 
+raise the performance of the FEHR. The FEHRM, with its VA, DOD, and 
+other federal partners, are committed to deploying and evolving this 
+transformational health care capability together.
+    The FEHRM is dedicated to providing health care providers with IT 
+they do not need to think about by seamlessly providing the right data 
+about the right patient at the right time. Focusing on continuous 
+capability delivery not only improves the delivery of health care by 
+our partnered clinicians, it improves the health care experience for 
+our valued beneficiaries. I look forward to our continued partnership, 
+transparent communications and commitment to provide our nation's 
+Veterans the care they deserve and informing you of our progress as we 
+continue this vital mission.
+    I thank you for your commitment to getting EHR modernization right, 
+and for the opportunity to speak with you today. I look forward to 
+answering your questions.
+
+                        Statement for the Record
+
+                              ----------                              
+
+                Prepared Statement of Oracle Corporation
+
+Introduction:
+
+    Chairman Rosendale, Ranking Member Cherfilus-McCormick and members 
+of the Subcommittee, thank you for the opportunity to provide a 
+Statement for the Record for today's hearing. I regret having an 
+unavoidable scheduling conflict that prevents me from being with you 
+in-person.
+    In this Statement for the Record I will provide an update on 
+Oracle's work on the Department of Veterans Affairs' (VA) Electronic 
+Health Record Modernization (EHRM) program, specifically related to 
+system performance as measured by Outage Free Time (OFT), Incident Free 
+Time (IFT) and User Interruptions.
+
+Outage Free Time:
+
+    At the time of Oracle's acquisition of Cerner in June 2022, one of 
+the top issues impacting the federal EHR system was outages. We made 
+stabilizing the system to prevent outages our top priority, and our 
+efforts have paid off.
+    Our contractual obligation since June 2023 is for Oracle-owned OFT 
+to be 99.95 percent or higher per month. (This more stringent 
+obligation than the previous one of 99.9 percent was agreed to in the 
+new contract signed in May 2023.)
+    For 12 of the last 13 months, Oracle-owned OFT has been at 100 
+percent. This means that in each of those 12 months the EHR system 
+components operated or owned by Oracle, mainly the Cerner Millennium 
+EHR, have been performing with 100 percent uptime, without an outage.
+    The one month in which the OFT obligation was missed was April 
+2023, due to two systems related incidents that caused OFT to drop to 
+99.319 percent. Both of these incidents went through our comprehensive 
+Corrective Action / Preventative Action (CAPA) program for a full 
+technical review. As a result, Oracle took immediate action to harden 
+our layered technologies and have modified significant aspects of our 
+domain restart sequencing to resolve the core issue.
+    These, as well as all major incidents, are thoroughly and 
+transparently discussed with lessons learned along with short and long 
+term irreversible corrective actions to prevent reoccurrence. Every 
+week Oracle conducts detailed operational reviews with VA EHRM-IO and 
+DoD PMO leaders. There has been significant improvement in system 
+performance and OFT since the time of the acquisition, which reflects 
+the strong engineering expertise Oracle has brought to this project.
+    Oracle is confident the EHR system is capable of taking on new 
+users and continuing to perform well. The last weekend of October 2023, 
+the EHR was deployed to DoD's Asia Pacific region medical facilities. 
+This wave of deployments completed DoD's OCONUS medical facilities. 
+Other than the joint DoD-VA facility in Chicago, DoD is now fully 
+deployed across its domestic and global healthcare system. In the most 
+recent wave, DoD has added 8,000 new users to the federal EHR system, 
+with a total of 184,000 across DoD. These increases in user-load have 
+been accomplished while maintaining OFT as required under our contract.
+
+Incident Free Time:
+
+    Instances of degradations in service for the EHR, but not a full 
+outage, are tracked in IFT. We know that these degradations are very 
+frustrating to users and have directed significant engineering 
+resources to make improvements in IFT. After reducing outages, 
+improving IFT has been our next highest priority, and it is trending in 
+the right direction.
+    Acknowledging that improving IFT needed to be a high priority focus 
+for both Oracle and VA, we agreed to add a new obligation in the 
+renegotiated contract to measure our performance and increase 
+accountability. We did this knowing that our work to increase IFT is in 
+progress and that there could be months, in the short run, where 
+meeting the obligation may be difficult, but with the belief that the 
+work we are doing will succeed in the long-run.
+    Thus, under the new contract, we were obligated to attain 93 
+percent or higher IFT for the months of June, July and August 2023, and 
+we are obligated to attain 95 percent or higher IFT each month starting 
+in September 2023 and moving forward.
+    In the months of May, June and July 2023 Oracle-responsible IFT for 
+VA was greater than 95 percent. In September 2023, Oracle-responsible 
+IFT for VA was 96.41 percent. However, in August 2023, IFT was 91.93 
+percent, and we accordingly issued a credit under the terms of the new 
+contract.
+    A significant contributor to the IFT result in August 2023 were 
+incidents related to the Block 9 upgrade. IFT would have been 95.44 
+percent if the incidents related to Block 9 were excluded. Looking back 
+over past years, approximately half of IFT incidents are a result of 
+change introduced into the system, as in block or cube updates. This 
+has been true for 2023 with approximately half of all Oracle-
+responsible IFT incidents being related to the Block 8 and 9 upgrades 
+conducted in February and August, respectively.
+    Oracle has taken steps to assess the root cause of the issues 
+impacting IFT and to prevent recurrence in future block or cube 
+updates. We are driving improvement by running our CAPA program across 
+70 percent of all VA incidents, overhauling our procedures for release 
+management related to block, cube and other updates, and establishing 
+clear accountability to product, platform and service performance.
+    As a result, the impact to IFT in the August Block 9 upgrade was 
+2,372 minutes compared with 3,533 minutes in the February Block 8 
+upgrade, a reduction of 1,161 minutes (33 percent less). Of note, this 
+reduction for Block 9 was achieved with an upgrade package that was 
+nearly twice as large as Block 8.
+    Overall IFT of course is impacted not only by Oracle but also by 
+VA, DoD and other federal users and third parties. One positive step 
+that we have taken with VA and DoD to improve overall IFT is increased 
+joint testing prior to block or cube upgrades going live. Moving 
+forward, we also will be validating third party products that are 
+embedded in the EHR because that was a driver for degradations with 
+Block 9.
+    We worked closely with DoD in preparing for OCONUS deployments of 
+the EHR to reduce degradations and impacts to IFT. We found that 
+improving VPN and network hardware as well as ensuring users have up-
+to-date devices made a difference in improving performance. We are 
+conducting similar work with VA to improve performance and reduce 
+impacts to IFT.
+
+User Interruptions:
+
+    A user interruption is most frequently experienced when the EHR 
+freezes, crashes or hangs for a period of more than five seconds.
+    In the Block 9 upgrade conducted in August 2023, updates were made 
+to reduce user interruptions across the federal EHR, including:
+
+    <bullet>  Eighteen freeze and hang improvements that reduce freezes 
+by approximately 14,000 freezes per month (23 percent improvement);
+
+    <bullet>  Twelve error and response time improvements across 
+registration, pharmacy, labs, problem lists, orders and more for more 
+than 20,000 users.
+
+    The new contract that was agreed to earlier this year requires that 
+we meet three different obligations regarding user interruptions.
+    First, P50 user interruptions requires that 50 out of 100 users 
+must average five or fewer daily interruptions. Since January 2023, P50 
+interruptions have been nearly eliminated and met the contractual 
+obligation each month, with an average of 0.01 since May 2023, and with 
+Block 9 improvements it was 0.00 in September 2023. This means that 50 
+out of 100 users of the EHR system experienced no interruptions.
+    Second, P90 user interruptions requires that 90 out of 100 users 
+must average ten or fewer daily interruptions. Since January 2023, P90 
+interruptions have been reduced by 55 percent and met the contractual 
+obligation each month, with an average below 3.5 since May 2023, and 
+with Block 9 improvements it was 2.53 in September 2023.
+    Third, P99 user interruptions requires that 99 out of 100 users 
+must average fifty or fewer daily interruptions. Since January 2023, 
+P99 interruptions have been reduced by 31 percent and met the 
+contractual obligation each month, with an average at 26 or below since 
+May 2023, and with Block 9 improvements it was 19.89 in September 2023.
+
+Reset/Future Work:
+
+    While significant progress toward system stability has been made 
+over the last year and a half, the work of continuous improvements for 
+the federal enclave, as with any system of its size and complexity, is 
+and will be ongoing.
+    As we look ahead and leverage the foundational work from the last 
+eighteen months, the focal points of the next phase of continuous 
+improvement effort will be across six key areas: architectural changes; 
+product improvements; release management; testing and testing 
+automation, change management, and the ongoing effort to move to Oracle 
+Cloud Infrastructure (OCI).
+    While such work is incremental in nature, the continuous progress 
+will be reflective in both the upcoming Block 10 upgrade and the 
+deployment of the system at Lovell Federal Health Care Center (FHCC) in 
+North Chicago in March 2024.
+
+Block 10
+
+    Building off the success and leveraging lessons learned from the 
+Block 9 upgrades in August 2023, Block 10 - scheduled for February 2024 
+- includes over 30 tracking actions reflecting our key areas of focus. 
+These enhancements will continue to improve change controls, layer in 
+additional third party testing, expand testing environments to 
+troubleshoot issues before they are problems, and continue to reduce 
+manual steps in the process.
+
+Lovell Federal Health Care Center
+
+    We continue to be highly focused on the success of the deployment 
+of the system at Lovell FHCC. This includes continued checks on the 
+capacity of the system across all components of the federal enclave, 
+weekly internal readiness reviews across teams, interface validation 
+and enhanced testing to account for the unique aspects of deploying at 
+a joint facility.
+
+Closing:
+
+    Oracle is committed to working with VA and DoD to continue to 
+improve the performance of the EHR system and ensure that it is 
+prepared for additional scaling when VA resumes deployments. Thank you 
+for the opportunity to provide this update on system performance and 
+uptime, and please let us know if there are any follow-up questions.
+
+                                 [all]
+</pre></body></html>
