@@ -52,7 +52,7 @@ class GraphCreator:
         """Runs the model with the input prompt."""
 
         outputs = []
-        current_step_size = 64
+        current_step_size = 16
         idx = 0
         with torch.inference_mode():
             while idx < len(prompts):
@@ -128,7 +128,7 @@ class GraphCreator:
     
     
 
-    def parse_document(self, document: str):
+    def parse_document(self, documents):
         """Parses documents using a variant of the Graph RAG prompt and extracts entities and relations. """
 
         prompt = """
@@ -162,14 +162,24 @@ List:
 ######################
 -Real Data-
 ######################
-Text: """ + document + "\n Output: "
+Text: """
+        
+        prompts = []
 
-        document_output = self.run_model([prompt])[0]
+        for document in documents:
+            prompts.append(prompt + document + "\n Output: ")
+
+        document_outputs = self.run_model(prompts)
 
         # Regex to capture triples in the format ("source_entity", "target_entity", "relationship_description")
         pattern = r"\d+\.\s\(([^,]+),\s([^,]+),\s([^)]+)\)"
-        matches = re.findall(pattern, document_output)
-        return matches
+
+        outputs = []
+        for output in document_outputs:
+
+            matches = re.findall(pattern, output)
+            outputs.append(matches)
+        return outputs
         
 
 
@@ -183,22 +193,18 @@ Text: """ + document + "\n Output: "
         if self.data == None:
             self.parse_data()
         
-        for document in self.data:
-            try:
-                entities_and_relations = self.parse_document(document)
-                
+        all_entities = self.parse_document(self.data[:8])
 
-                for ent1, ent2, relation in entities_and_relations:
-                    self.G.add_edge(ent1, ent2, relation = relation)
-            except:
-                print(entities_and_relations)
+        for entities_and_relations in all_entities:
+            for ent1, ent2, relation in entities_and_relations:
+                self.G.add_edge(ent1, ent2, relation = relation)
 
         print("Number of documents:", len(self.data))
     
 
     def save_kg(self):
         """Save the KG"""
-        nx.write_edgelist(self.G, "graph_edgelist", data = True)
+        nx.write_edgelist(self.G, "graph_edgelist", data = True, delimiter="|")
 
 if __name__ == "__main__":
     start = time.time()
@@ -207,5 +213,3 @@ if __name__ == "__main__":
     graph_creator.create_kg()
 
     graph_creator.save_kg()
-
-    print("Total Time:", time.time() - start)
