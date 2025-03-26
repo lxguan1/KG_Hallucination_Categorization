@@ -1,0 +1,1828 @@
+ARTIFICIAL INTELLIGENCE AND
+INTELLECTUAL PROPERTY: PART III--
+IP PROTECTION FOR AI ASSISTED INVENTIONS AND CREATIVE WORKS
+----------
+Wednesday, April 10, 2024
+House of Representatives
+Subcommittee on Courts, Intellectual Property, and
+the Internet
+Committee on the Judiciary
+Washington, DC
+The Committee met, pursuant to notice, at 10:12 a.m., in
+Room 2141, Rayburn House Office Building, the Hon. Darrell Issa
+ presiding.
+Members present: Representatives Issa, Fitzgerald, Bentz,
+Cline, Kiley, Lee, Johnson, Nadler, Lieu, Ross, Schiff,
+Lofgren, and Ivey.
+Also present: Representative Jackson Lee.
+Mr. Issa. I am pleased to announce that for our purposes
+the quorum is present. The Subcommittee will come to order.
+Without objection, the Chair is authorized to declare a recess
+at any time. We welcome everyone here today to the hearing on
+Intellectual Property Protections for AI-Assisted Inventions
+and Creative Works.
+Most importantly, I will now recognize myself to recap
+where we are on AI and intellectual property. I believe the
+subcommittee, on a very broad basis, has been at the forefront
+of Congress' examination of intellectual property and
+artificial intelligence. Today's hearing titled again
+``Artificial Intelligence and Intellectual Property Part III,''
+shows the fact that we have, in fact, looked at this from three
+different ways, but perhaps 30 or 40 different ways when you
+look at the nuances that have been covered.
+To cover just a few in our inquiry, recognizing that our
+role in AI is different than other Committees. Many think that
+this is about protecting against public disclosure. Although
+the Constitution is within our jurisdiction, this Committee and
+this Subcommittee will particularly, and has focused on Article
+1, Clause 8 of the Constitution. A requirement to promote, a
+requirement to reward so that we, in fact, continue to have
+useful arts and inventions created. I make that point because,
+in fact, one of the greatest threats that we have found in
+earlier hearings is that if, in fact, we grant no protection
+for patents, trademarks, copyrights that are somehow produced
+by AI, then, in fact, could we find ourselves dismantling a
+system that has made the United States the most innovative and
+successful country in the history of mankind.
+Today, we will continue, without a doubt, to explore AI in
+a context of IP theft related to China. There are others who
+steal IP, but nobody who does it as well as China. Very simply,
+today, how we define authorship when AI is part of the creative
+process? We particularly know that the Copyright Office has
+made a bold statement that 100 percent AI generated will not be
+copyrightable. In our research, we have discovered that, in
+fact, there is no such thing at this time as 100 percent AI
+generated. To generate a copyrighted work, there has to be an
+input of what you want, an input of how you want it. The
+Copyright Office has not opined on this, but we will today ask
+you and others to opine on exactly that, where the line should
+be, how close it should be.
+I want to particularly draw attention in my opening
+statement to an example of one of my heroes, one of the most
+iconic piano players and, in fact, the Piano Man, Billy Joel,
+who recently produced and is just beginning to make the public
+aware, an AI generated music video, his music and his likeness.
+In fact, it is him at three different ages, but none of the
+characters underlying, none of the motions were, in fact, his,
+but rather actors who made movements and then with AI, that was
+hovered with Billy Joel very young, Billy Joel not so young,
+and Billy Joel, still younger than he is today, but not young
+at all. The fact is we have creative geniuses amidst us in song
+and other arts who no longer have the ability on their own,
+they may not have the vocal range, they may not, in fact, be
+fit to tour and yet, they can still create. That is one of the
+challenges we will face today.
+I will say, without a doubt, this Committee intends to be
+forward leaning on providing intellectual property protection
+for these creations and finding a way to do it will not, in
+fact, turning everything over to the machine and thus
+denigrating or reducing the effectiveness of what you might
+call old-fashioned creation. For that reason, the questions
+will, in fact, be asking all of you to help us understand how
+far we can go to continue to recognize that creations thought
+of by man, assisted by machine, in fact, need to be protected.
+With that, it is my pleasure to recognize my Ranking
+Member, the gentleman from Georgia.
+Mr. Johnson. Thank you, Mr. Chair, for holding this hearing
+and thank you to the witnesses for appearing today. As most of
+the people in this room already know, this is Part III in a
+series of hearings on the impact of artificial intelligence on
+intellectual property and innovation. I am proud to join my
+Chair, Mr. Issa, in this on-going examination of the State of
+innovation in America.
+Artificial intelligence is changing how the world works
+right before our very eyes and this Subcommittee has
+considerations not just over the IP implications of the final
+outputs of AI models, but also how these models are trained.
+While some of the issues we discuss here today exist only as
+hypotheticals for future iterations of generative AI
+technologies, other issues are already real and before us,
+impacting the way we do business and live our lives today. I am
+looking forward to continuing our conversation in Part IV,
+whatever the topic might be.
+When we sit down behind the wheel of our car, lean over and
+turn on the radio, we expect the song we hear to be a work
+created by a human artist. The beat, the melody, the words, and
+the riffs, we take for granted as having sprung from the mind
+of a flesh and blood creator. What happens when that is no
+longer the case? The question we will examine today is when a
+work of art or original invention should no longer be worthy of
+intellectual property protection. Generative AI can both
+produce original content and assist the production of original
+content that would clearly be eligible for IP protections if
+created entirely by a human. An algorithm can spin out original
+lyrics for a songwriter to put to music and it can analyze
+large sets of data for a scientist developing a new chemical
+compound. It is not debatable that these basic operations are
+already reality and already we are beginning to see artists and
+scientists seeking protection of such creations through
+copyright and patent.
+AI cannot be listed as an inventor on a patent. It cannot
+own a copyright. The courts and the Copyright Office have,
+respectively, already addressed those basic questions. The
+question of how much AI involvement renders a product as no
+longer having been created by a human being remains open. Both
+the Copyright Office and the Patent and Trademark Office have
+released guidance and are continuing to address the issue of
+how we should, as a society, treat AI created or AI assisted
+works of innovation.
+I applaud President Biden, Director Vidal, and Director
+Perlmutter for addressing these questions head on. From the
+initial guidance it is clear that the question of how much AI
+is too much for IP protection is far from a straight-forward
+question. Yes, generative AI can write an essay, but the
+nuances between AI assistance and 100 percent AI creation are
+substantial. Moreover, innovations made with the assistance of
+AI are the final product in a long chain of creators. AI is
+typically developed by one set of people trained on the data of
+many others which often includes others' copyrighted property
+and then is deployed by a third set who become the model's
+users. That model then turns around to be used in lucrative
+ways like finding aberrations in data sets or making a better
+autotune for a song.
+I am looking forward to hearing from our witnesses how they
+believe we should address these nebulous questions about the
+inseparable nature of human and machine creativity and whether
+existing copyright and patent laws provide any guidance. While
+those conversations are ongoing, it is also time for Congress
+to examine what our involvement should be and I am looking
+forward to hearing from our witnesses what legislative tools
+they believe agencies, inventors, and creators need to keep our
+intellectual property system strong. We must remember that at
+its heart, intellectual property protections exist to keep our
+communities strong. Looking at my home district near Atlanta,
+Georgia, patents drive the creation of new business and
+emerging community leaders. Copyright protections protect up
+and coming new artists and allow creators to make a living off
+of their talents, contributing to the fabric, depth, and color
+of the towns we call home, and both drive the growth of vibrant
+cities. In fact, the U.S. Census Bureau last month named the
+Metropolitan Atlanta area the sixth largest and third fastest-
+growing region in the country. Because of this, we should
+approach the question of IP protection for AI-driven works both
+from a legal jurisprudence perspective, but also from a human
+one by asking at every step what helps creators? We are more
+likely to end up with a system that keeps working the way it
+should no matter what revolutionary new technologies come our
+way.
+I look forward to hearing from our witnesses and I yield
+back the balance of my time. Thank you.
+Mr. Issa. I thank the gentleman. We now recognize the
+Ranking Member of the Full Committee, Mr. Nadler, for his
+opening statement.
+Mr. Nadler. I would like to begin by thanking Chair Issa
+and Ranking Member Johnson for holding this bipartisan hearing
+to examine the scope of intellectual property protection for
+artificial intelligence generated in AI-assisted works.
+Generative AI may be in its nascency, but many models are
+already capable of creating works that if created by a human
+would be eligible for copyright protection. Inventors,
+similarly, are using AI to aid in their discoveries. While AI
+that is capable of creating an invention eligible for patent
+protection under Section 101 of the Patent Act may, debatably,
+not exist just yet, the involvement of generative AI in
+innovative processes still raises the question of how much AI
+involvement takes away the human element of discovery.
+The question presented at this hearing is narrow at first
+glance, simply how much human needs to be involved for a
+creation to warrant intellectual property protection? When we
+discuss generative AI, it is often in terms of broader
+controversies, including ingestion, practical application, and
+the replication of human works and styles. Discussions like the
+ones this Subcommittee is embarking on today can launch us in
+entirely unique and unexplored directions. How much AI is too
+much to render something a human creation? Whether some uses of
+generative AI are more acceptable as tolls than others? How we
+could even tell a final product was created by machine rather
+than by a person are all valid questions that ensue from this
+narrow starting point.
+While the technology may be new, the philosophical
+questions presented here today are not. In 1637, Rene Descartes
+debuted the first principle of his Principles of Philosophy,
+cogito ergo sum. Therefore I am. Over 300 years later in 1950,
+mathematician Alan Turing established what became known as the
+Turing Test, to determine whether or not a computer is capable
+of thinking like a human being.
+The ability of AI to think and create has been examined
+repeatedly throughout science fiction. ``Star Trek: The Next
+Generation'' even examined the essential question of the rights
+of highly advanced AI character called Data in its Season 2
+episode Measure of a Man. While it did not, unfortunately,
+delve into questions of IP protection with Data's creative
+works, it is emblematic of a century's long interest in the
+possibility of artistry, intelligence, and innovation by
+nonhuman entities.
+Many of the philosophical questions presented by AI in
+science fiction are far enough in the future that they are not
+concerns before the Judiciary Committee. The practical
+questions of whether or not to extent intellectual property
+protections to AI-assisted works is very much a question for
+here and now. The Copyright Office and the Patent and Trademark
+Office have begun addressing the question through draft
+guidance to create basic rules of the road to artists and
+creators seeking to protect works developed with the use of
+generative AI.
+Just over a year ago, the Copyright Office issued the first
+guidance governing intellectual property claims for works
+developed with the assistance of AI. The Office informed
+artists that in these cases, copyright protection will only be
+available for the part of a final product created by humans,
+and it asks that the creators identify which parts of each work
+of authorship were developed using AI. President Biden, in last
+fall's Executive Order on AI, directed the USPTO to develop
+guidance as well for governing the use of AI in claimed
+inventions before the Patent Office. Just two months ago, the
+PTO issued and initial, ``inventorship guidance and examples
+for AI-assisted inventions.'' Like the Copyright Office, the
+question under the PTO guideline is not whether or not AI was
+used in the creation or invention, but how much human
+innovation and involvement there was in the creation of the
+invention.
+I applaud the Copyright and Patent Offices for taking much
+needed first steps to clarify what should and should not
+receive intellectual property protection as generative AI
+becomes increasingly and indelibly incorporated in our society
+and how we creative. Patents and copyrights are two very
+different types of intellectual property, and it is important
+that we acknowledge this reality as we continue conversations
+about how AI can and should be used in their development.
+There is no such thing as a one-size-fits-all approach to
+innovation and we would be remiss if we failed to recognize
+this. Many questions remain unexplored in both the patent and
+copyright realms and I am looking forward to hearing from our
+witnesses about what they think is missing from the guidance
+and from these conversations overall. For example, the guidance
+at both agencies leaves open the question of how to maintain
+candor and honesty in applications for IP protection and I am
+particularly looking forward to hearing from our witnesses
+regarding how we can enforce the AI rules we create.
+AI undoubtedly will have enormous impact on our IP system,
+and it is imperative that we, as the Judiciary Committee,
+consider how best to ensure that our innovation protections
+remain strong even as technologies change.
+I look forward to hearing from our witnesses and I yield
+back the balance of my time.
+Mr. Issa. I thank the Ranking Member. All other Members
+will have the ability to have their opening statements placed
+in the record.
+It is now my pleasure to introduce our distinguished panel
+of witnesses.
+Starting with Ms. Sandra Aistars, who is a Clinical
+Professor at George Mason University, the Antonin Scalia Law
+School, where she leads the school's Arts and Entertainment
+Program. Professor Aistars is also a Senior Fellow for
+Copyright Research and Policy and a Senior Scholar at the
+Center for Intellectual Property and Innovation Policy. Prior
+to joining the Scalia Law School, she was the Chief Executive
+Officer of the Copyright Alliance, a nonprofit, public interest
+organization that advocates on behalf of artists and creators
+and I had the opportunity to see her in that role.
+Next, we have Ms. Garcia. She is the Anne Fleming Research
+Professor at the Georgetown University School of Law. Professor
+Garcia's work focuses on intellectual property law through the
+lens of law and economics. She previously taught at the
+University of Colorado Law School, was a Fellow at George
+Washington University Law School, and spent nearly a decade
+working in the music industry. Welcome.
+We next have Mr. Joshua Landau. Mr. Landau is a Senior
+Counsel for Innovation Policy at the Computer and
+Communications Industry Association where he focuses on patent
+issues. He previously worked in private practice at WilmerHale
+where he represented clients in patent litigation, counseling,
+and prosecution in proceedings before the District Courts and
+the PTAB.
+Last, we have Ms. Claire Laporte. Ms. Laporte is the
+Intellectual Property Fellow at the Ginkgo Bioworks, a
+biotechnology company focusing on cell programming. She
+previously served as the company's head of intellectual
+property and design and IP strategy and oversaw its
+implementation. Before joining, Ms. Laporte was a trial
+attorney in a private practice where she focused on patent and
+trademark secret cases.
+We welcome all our witnesses and pursuant to the
+Committee's rules would you please rise to take an oath? Raise
+your right hand if you would. Do you solemnly swear or affirm
+under penalty of perjury that the testimony you are about to
+give is true and correct to the best of your knowledge,
+information, and belief so help you God? Please be seated. Let
+the record reflect that all witnesses answered in the
+affirmative.
+If you haven't seen this a thousand times on CSPAN and many
+of you have testified before, let it be said that every part of
+collateral material, including your full written copy of your
+oral statement, will be placed in the record. So, in that case,
+we would ask that you do the best you can to remain within the
+five-minutes so that we can get to the questions that we all
+have because I know today you have answers for our questions.
+So, with that, we go to Professor Aistars.
+STATEMENT OF SANDRA AISTARS
+Ms. Aistars. Thank you, Chair Issa, Ranking Member Johnson,
+Ranking Member Nadler, Members of the Subcommittee, thank you
+for the opportunity to testify. I do not represent anyone on
+these issues, and I am appearing here on my own behalf. My
+recent scholarship is focused primarily on visual arts, but my
+comments this morning are applicable to copyright more broadly
+as well.
+First, I believe that when determining whether to register
+claims of copyrights or creative works made by humans with the
+use of generative AI or GAI for short, we should look to the
+acts of the human, not at the outputs of the GAI. If a human
+has met the minimal creativity requirement set out by the
+Supreme Court in Feist, the question is whether the interaction
+with the GAI is undermining a claim to human authorship for
+extending authentic human vision for a work. Applying this
+approach, at least some creative works authored by humans using
+the assistance of GAI will be protectable by copyright.
+Second, liability for training of GAI must be resolved, but
+denying IP protection to otherwise protectable works that
+humans who use GAIs is counterproductive. It will relegate
+legitimate human works to the category of synthetic data.
+Denying copyright to humans who create works with the
+assistance of GAIs if the work is otherwise sufficiently
+original to qualify for protection will do nothing to instill
+respect for IP rights and those who develop and train GAIs. To
+the contrary, doing so will merely disenfranchise creative
+workers from being able to claim copyright in expressive works
+based on the media or tools they choose to work with,
+relegating their works to the category of synthetic data and
+foreclosing to these human artists the opportunity to control
+or be compensated for use of their works.
+Third, turning otherwise protectable GAI assistive creative
+works into synthetic data exploits human creators. Creating a
+class of unprotectable synthetic works would be a windfall to
+GAI companies because such works would immediately become
+available for GAI training without the need for any permissions
+from the human creator who used the GAI to make the creative
+work. This exploits creative workers on both the input side by
+not protecting copyright in the initial materials the GAI is
+trained on and on the output side by not protecting copyright
+and expressive works created by humans using the GAI in their
+authorship.
+My main point is that copyright law should continue to
+function in a technology-neutral fashion. The minimalist spark
+of creativity test for originality from Feist can readily be
+adapted to fix the GAI authorial workflow. The proper inquiry
+in the GAI context is whether the human author has used the GAI
+as an artist uses any tool or material in their artmaking
+practice. Has the artist deployed GAI or engaged it
+authentically and in their own voice
+in a manner that demonstrates the artist is being true to their
+creative vision. I described this more fully in my written
+testimony.
+The author should not be asked to dissect creative works
+element by element by element to prove control or
+foreseeability over the precise operation of GAI tools. The
+Copyright Office currently requires authors to disclose and
+disclaim more than de minimis use of GAI in creative works.
+This approach causes problems for creators. The Copyright
+Office guidelines do not marry well with the artmaking
+practices of visual artists and other creators because they
+require the creator to exercise control and foreseeability over
+a device that they have not manufactured, trained, or deployed
+into the marketplace. Instead, the relevant inquiry should be,
+as I have described in my testimony, whether the creator is
+executing their own intellectual conception. Are they engaging
+the GAI authentically and in their own voice? Are they staying
+true to their own creative vision?
+I thank you for your attention and I look forward to your
+questions this morning.
+
+
+Mr. Issa. Thank you. Ms. Garcia.
+STATEMENT OF KRISTELIA GARCIA
+Ms. Garcia. Thank you, good morning, Chair Issa, Ranking
+Member Johnson, Ranking Member Nadler, and the Members of the
+Subcommittee for inviting me to testify today about the
+copyrightability of works that are generated in whole or in
+part by artificial intelligence. My name is Kristelia Garcia. I
+am a law Professor at Georgetown where I teach and research on
+issues relating to copyright law.
+In my written testimony, I make three primary assertions.
+First, is that works wholly or substantially generated by AI do
+not merit copyright protection. Second, works only partially
+generated by AI may merit copyright protection. Third, most
+relevant for your purposes, that there is no call for
+legislative action at this time.
+I would like to use my time today to present a couple of
+examples that illustrate and support these determinations. My
+first example goes to works wholly or substantially generated
+by AI. So, let's say that I direct ChatGPT with a simple prompt
+to write a Congressional testimony and I don't give it anything
+else. I don't give it a topic or the points that I would like
+to make, any conclusions to reach. The resulting work then can
+hardly be said to have been authored by me in the sense that I
+couldn't possibly predict, nor control, what the AI is going to
+write, nor could the resulting writing be said to be the
+product of my original intellectual conception. I can also tell
+you from disappointing personal experience that it is not
+especially good at it either.
+Now, the work that would result from my getting a simple
+prompt to write Congressional testimony doesn't merit copyright
+protection for a number of reasons. First and foremost, because
+AI is not human, it doesn't meet the statutory definition of an
+author. You may recall hearing about that case a few years back
+of the Macaque monkeys who were denied a copyright in their
+selfies. We have the same situation here. No human, no
+copyright. We should recall further that the photographer in
+that case, himself a human, was also denied a copyright in the
+monkeys' photos, and this is because despite befriending the
+monkeys and giving them a camera, the court found that the
+photographer had not sufficiently contributed to the ultimate
+images in that he could neither predict, nor importantly
+control, and which did not then reflect his own original
+intellectual conceptions.
+Even if we could overcome this doctrinal improbability, why
+would we? The AI in my example wasn't incentivized by copyright
+protection to write the testimony. It was just responding to my
+direction as it has been programmed to do. If we did
+nonetheless grant a copyright here who would we grant it to?
+The AI is not a legal person, so it can't enforce the
+copyright, nor can it be enforced against. Giving the copyright
+to the programmer of the AI is also ill advised since, among
+other things, the program has already enjoyed copyright
+protection on the code that operates the AI.
+Could we instead give the copyright to me, the user who
+made a simple prompt, also no, because I merely contributed an
+idea and copyright doesn't protect ideas. It only protects
+expression.
+My second example goes to partially generated AI work. So,
+what if instead of merely prompting an AI to write
+Congressional testimony, I instead direct it with multiple
+iterative prompts. I give it a topic and I give it the points
+that I would like to make, conclusions I would like to reach,
+tweak it back and forth, and give it a time limit. Then, I take
+the resulting testimony, select a few sentences, delete the
+rest and drop those sentences into a draft I have written up
+separately. Now, this example involves a lot more human
+intervention and contribution such that the resulting testimony
+might be said to be imbued with my own original intellectual
+conceptions.
+First, in this case, I am likely to get, and I should get a
+copyright because, I am a human. I can be incentivized by the
+protections that copyright offers. Second, I have arguably made
+sufficient interventions, contributions, and exercised
+sufficient control over the project such that we can view the
+resulting work as a product of my creativity and efforts.
+So, I will circle back to where I began to conclude that I
+see no call for legislative action at this time where the
+copyrightability issues currently presented by AI-generated
+work can be competently handled via a combination of statutory
+interpretation and Federal litigation. Now, I can see that the
+Copyright Office's disclose and disclaim approach in which a
+human author may have to disclose the involvement in AI and
+then disclaim portions of the work attributed to the AI
+necessarily involve some tricky line drawing, but there is
+nothing revolutionary or disruptive about a case-by-case
+approach to copyright registration and we have only seen four
+cases so far. The Copyright Office also received over 10,000
+comments as a result to a call on these questions. In other
+words, we are still very much in a learning phase, so we don't
+know what type of legislative intervention, if any, would be
+helpful or called for at this time.
+I will also note that the courts have proven adept at
+interpreting and applying copyright law in the context of so-
+called disruptive or novel technologies, sometime shifting to
+digitization of books to APIs. None of these technologies
+necessitated a new categorical rule and AI doesn't either.
+Thank you for your time and I look forward to your
+questions.
+
+
+Mr. Issa. I thank you.
+I might note that we have a long history of wanting to
+prevent excessive litigation. I know that may not be welcomed
+by everyone on the bar, but that is another part of what we do.
+So, that second part of what you said was most interesting,
+that the courts could take care of it with litigation.
+Mr. Landau?
+STATEMENT OF JOSHUA LANDAU
+Mr. Landau. Chair Issa, Ranking Member Johnson,
+distinguished Members of the Subcommittee, thank you for
+inviting me to testify today.
+CCIA has been at the forefront of technology policy issues
+for more than 50 years, and our members are at the forefront of
+artificial intelligence today. They make the chips that AI runs
+on. They develop leading-edge AI models, and they use AI to
+solve problems for their customers.
+It's critical that we protect American innovation while
+preventing the abuse of intellectual property protections over
+AI output. If we look to existing law, we can find the balance
+that we need.
+In 1966, the Register of Copyrights was facing a difficult
+issue. Computer technology was becoming more widespread and
+sophisticated. People were beginning to apply for copyright
+protection for creative works made by computers. The Register
+wrote,
+It is certain that both the number of works proximately
+produced or ``written'' by computers and the problems of the
+Copyright Office in this area will increase.
+Fortunately, the Register also had an answer--and it was a
+good one. The Register identified the determinative question:
+Whether the ``work'' is basically one of human authorship, with
+the computer merely being an assisting instrument, or whether
+the traditional elements of authorship in the work . . . were
+actually conceived and executed not by man but by a machine.
+The Register's approach 60 years ago remains the right
+approach today. The same inquiry would apply to patentable
+inventions--was the invention one conceived of by human
+ingenuity with the AI operating as an assistive tool, or was
+the invention generated exclusively by the AI system? When a
+machine is responsible for the traditional elements of
+creation--the original expression of an artistic work or the
+generation of an invention--then intellectual property rights
+are inappropriate. When the machine simply supports human
+authorship or invention, then copyright or patent protection
+should remain available.
+With that guiding principle in mind, many questions
+regarding AI output and IP protection become easier to answer.
+Complete human creations remain protectable; completely AI
+creations should not. There will be difficult questions in the
+center of that continuum, where humans and AI collaborate to
+create and invent, but the answers there lie in existing law--
+in the law of inventor-ship and authorship--and in the
+Register's focus on whether a human was truly the creative or
+inventive entity.
+Those difficult questions will require attention. For
+example, if an inventor uses AI as a tool to develop a new
+invention, when does it cross the line from collaboration to
+the human simply taking the AI's work as their own? The
+existing law of inventorship can guide us. Someone who provides
+background information or explains the state-of-the-art isn't
+an inventor, nor is someone who simply suggests a desired goal
+and doesn't contribute to the solution of the problem.
+The courts are suited well to developing these basic,
+longstanding principles to address future uses of AI. Beyond
+the availability of IP protection for AI output, the AI tools
+will continue to impact other areas of the law. For example, in
+patent law, the question of obviousness rests on whether a
+person of ordinary skill with the relevant prior art available
+could have created the invention. This is fundamentally similar
+to how many AI systems operate.
+The availability of AI as a tool to aid an invention, thus,
+raises the level of ordinary skill in the art. If Albert
+Einstein, me, and my six-year-old son could each ask an AI tool
+for the answer to a problem and we all get the same answer,
+it's hard to argue that any of us has invented anything that we
+should be allowed to patent.
+Outside of the legal system, there are potential policy
+problems if we make AI output eligible for IP protection.
+Already, more than half of U.S. patents are issued to foreign
+inventors. These inventors can and do assert their patents
+against American companies. The PTO was even forced to change
+its trademark rules to deal with the flood of inaccurate and
+potentially fraudulent trademark applications from China.
+If AI output is patentable, a foreign adversary might
+employ the same tactic--flooding the Patent Office with AI-
+generated inventions. This will either overwhelm the office's
+resources or result in even more cases of foreign entities
+weaponizing patents against the American economy. In either
+case, granting patents for AI output presents significant
+concerns.
+Finally, we should bear in mind that the constitutional
+purpose of copyright and patent protection isn't to provide
+economic rewards. It's to promote the progress of science and
+useful arts. The rewards are a means to that end. AI doesn't
+require the same economic incentives people may.
+AI will, undoubtedly, become a part of the ordinary process
+of invention and creation, but as the Register of Copyrights
+recognized almost 60 years ago, and as the courts and agencies
+have continued to recognize today, it's essential that we
+ensure AI remains an adjunct to human creativity, not a
+replacement for it. This approach will protect American
+creativity and innovation, including in the field of AI.
+I thank the Subcommittee for its time today and I look
+forward to your questions.
+
+
+Mr. Issa. Thank you. Ms. Laporte?
+STATEMENT OF CLAIRE LAPORTE
+Ms. Laporte. Thank you Chair Issa, Ranking Member Johnson,
+and the Members of the Subcommittee, I'm honored by your
+invitation to speak today.
+My name is Claire Laporte. I'm testifying today on behalf
+of Ginkgo Bioworks, a biotechnology company in Boston. We're
+publicly traded, and we work to use biology to solve problems
+in industries ranging from agriculture to chemicals, to human
+therapeutics, and we're heavily invested in developing and
+using AI in our work.
+I'm going to use my five minutes to make three basic
+points.
+The first point: Is quite uncontroversial. That is that
+biotechnology is a critically important technology for our
+national security and global competitiveness. That is one thing
+that pretty much every country around the world agrees on. So,
+I'm not going to dwell on that now.
+The second point: There is no need to panic over the role
+of AI, at least in the biotechnology space. We are far from
+having anything that is solely AI-generated, and we don't know
+what that would even look like in the future. I've got three
+subpoints here.
+The first one is that, in biology, AI is really just the
+latest step in a gradual technological evolution. Biology has
+been working hand-in-hand with computer science for decades,
+and, in fact, we have a whole field that you can get a Ph.D. in
+called computational biology that teaches you how to use these
+kinds of tools that we've been working on for a long time.
+The second subpoint in this part of my point is that, in
+biology, you don't need to worry about AI developing things
+that are fanciful or untrue, which I know is a concern in the
+copyright space. A text-based AI system like ChatGPT can come
+up with stuff that is crazy or false, but biology operates in
+the real world. So, there is a real biophysical constraint on
+the outputs.
+The output of the AI will be used to make a physical thing,
+which, then, has to be tested by a human--usually, that has
+figured out how to test that thing. The results either do work
+or they don't work. If they don't work, you discard them. If
+they do work, that is a helpful development along what is
+usually a multistep, very complex pathway in developing
+something that is extremely difficult.
+Third, AI has to be prompted by humans. We are very, very
+far away from anything in which you could ask an AI to do
+something like cure cancer, or whatever. That is an immense,
+multistep problem. It goes off in many different directions.
+There's absolutely no way that can happen.
+In fact, solving engineering problems is extremely
+difficult and humans have to be carefully trained in their
+discipline to be able to direct AI tools, at least in biology,
+to create anything worthwhile. Again, it always needs to be
+tested to see if it works. Because if it's sort of fanciful or
+ridiculous, it won't.
+So, the takeaway here for my second point is that AI can be
+transformative by helping us do research faster, cheaper, and
+more predictably, but it is definitely not steering itself to
+come up with biological inventions.
+The third point: There is no need to complicate our already
+complicated patent system by adding new inventorship
+regulations, and by doing so, adding yet another complication
+and step to our already overburdened litigation process.
+The Patent Office has recently released new guidelines on
+AI and inventorship that I think are likely to cause exactly
+that kind of difficulty and complication. Under current U.S.
+inventorship law, conception--having the inventive idea--is the
+touchstone of inventorship. That can only be done by a human.
+The AI is simply crunching through unimaginably large
+datasets to come up with possible answers, based on things that
+people have done before. The creativity is in the person
+crafting the prompt and getting the AI to sort of row and
+winnow through that mass of data in a particular direction.
+The Patent Act expressly provides that ``patentability
+shall not be negated by the manner in which the invention was
+made,'' but the new regulations are doing essentially that. You
+can have an invention that, if invented by old-school methods,
+would be patentable, but if invented with the help of AI, might
+not be. That is a completely nonsensical result.
+Our patent system and our patent litigation system are both
+ways too complicated as it is. I think that at this point, we
+are not in a position where we should be adding more complexity
+that potentially hurts our global competitiveness in comparison
+to other countries that are not so concerned about these issues
+of inventor-ship. So, my view is, if we've invented something
+great using AI, let's celebrate that, not penalize it.
+Thank you and I look forward to answering the questions.
+
+
+Mr. Issa. I thank all our witnesses.
+We now go to Mr. Fitzgerald for the first round of
+questions.
+Mr. Fitzgerald. Thank you, Mr. Chair.
+One hundred and forty years ago, the Supreme Court, in
+issuing its opinion on the copyrightability of the photograph
+stated, quote,
+The human intelligence can produce nothing without material
+assistance. And whether it's a tool, a machine, or another's
+hand, it is always the thought of the artist which directs the
+instrument which guides and inspires the material means.
+I think that opinion is kind of incredibly important for our
+discussion today because, just as artists embrace the camera as
+a creative tool, they have also begun to embrace the use of
+generative AI. Just as human involvement is required in the
+copyright of a photograph, so, too, must a human be involved,
+obviously, in the use of AI as a creative tool.
+I think what we are discussing here today is the amount of
+involvement required, right, to grant a copyright. So, the
+Copyright Office in its semiannual ruling in Zarya of the Dawn
+denied copyright because of the generative AI tool used,
+Midjourney. It did not allow the artist to exercise ultimate
+creative control; instead, comparing it to a client who may
+just hire an artist to possibly create an image for them.
+Ms. Aistars, did the Copyright Office get it right in this
+case? What should ultimate creative control look like? What do
+you think about that?
+Ms. Aistars. Thank you for the question.
+I believe the relevant inquiry should be whether the work
+is the artist's own intellectual conception, as you referred us
+to the decision in the Cirone case, Bruegel v. Cirone,
+emphasized that an artist engages with the tools that they use
+and that's what we should be looking to.
+What the Copyright Office is doing in asking artists to
+look at their work and to pick the work apart, and to
+demonstrate control over a tool and explain how much is being
+used, rather than focus on the quality of the engagement, is
+problematic to me.
+I think the inquiry should be a qualitative test because
+that is what Feist and Cirone are asking us to do already.
+Those are the Supreme Court cases that we should be focusing
+on. So, again, the relevant inquiry should be whether the work
+is of the artist's own intellectual conception and at least
+minimally creative, just as it always has been.
+Mr. Fitzgerald. So, some will say that the Copyright Office
+is more focused on real input of the artist versus the output
+by the program itself. How do you find balance--
+Ms. Aistars. So, I think they're actually doing the
+opposite, actually.
+Mr. Fitzgerald. Yes.
+Ms. Aistars. They're looking at the--they're not looking at
+the input of the artist. They're looking at the output of the
+program. They're asking the artist to pick apart the end result
+and say: Disclose and disclaim, where we see the AI tool making
+contributions.
+What I'm saying is let's talk about the artist's
+intellectual conception. Let's talk about what the artist has
+done in their creative process. What matters here, is the
+artist's intellectual conception, the artist's process. Has the
+artist made at least minimally creative contribution? What's
+that spark of creativity that Feist asks us to look for? Where
+is that from the artist?
+Mr. Fitzgerald. Yes. A lot of times--it's been referred to
+many times, but Jackson Pollock would create his paintings,
+obviously, by some type of creative process where he would
+approach the canvas in the way that he does, but the final
+product is still copyrightable because the artist has exercised
+this ``modicum of creativity,'' which is the standard under
+copyright law.
+Why do you think copyright be denied simply because of the
+AI-generated output is random or unpredictable based on how the
+artist creates?
+Ms. Aistars. So, I don't think that there is a randomness
+necessarily implied by using a GAI tool any more than there is
+randomness implied by using any other tool or media by an
+artist. I think we should look at what the artist's process is.
+When an artist decides to create a work, an artist, typically,
+has a preconception for a work, an idea in their mind. What do
+they want to convey to the world?
+They approach their work with that spirit in mind, and
+then, they decide what tools are they going to pick up. Are
+they going to pick up a paint brush? Are they going to pick up
+the engagement with an AI, right? What is their creative
+process going to look like, as they move through that
+engagement, whatever that tool is?
+I guess what I'm saying to the Committee is we should have
+a sort of technologically neutral approach as to what tool the
+artist is choosing. We should, instead, be asking: What is the
+artist doing?
+Mr. Fitzgerald. I'm out of time, but thank you.
+I yield back, Chair.
+Mr. Issa. I thank the gentlelady for her thorough answer to
+that question.
+
+We now go to the gentleman from Georgia, Mr. Johnson.
+Mr. Johnson. Thank you, Mr. Chair.
+Professor Garcia, because generative AI models are trained
+on mass corpuses of human creators' works, AI outputs are
+inextricably linked to human creativity. Can you walk us
+through how pending litigation about the fair use doctrine
+might or might not affect whether AI-generated outputs are
+copyrightable?
+Also, give us a little more color to your opinion that
+legislative intervention is not really appropriate at this
+particular time. That causes me to be a little queasy about
+ceding legislative authority to the courts or to regulators.
+Ms. Garcia. Thank you for the question.
+I'll start with the first part of the question, which asked
+what effect this pending litigation around whether or not the
+training--let's call it data--is going to constitute copyright
+infringement. I think that it could have important
+ramifications for this question; namely, because if it turns
+out that fair use does not apply, and that the use of
+copyrighted works without authorization to train these large
+language models constitutes copyright infringement, that will
+mean that the products produced by those artificial
+intelligence platforms would not be copyrightable, because we
+don't copyright works that are infringed. Infringing works are
+not copyrightable.
+So, that would be significant, regardless of who we decided
+we might want to assign the copyright to, including to the user
+who just gives a prompt. So, I think that would be significant.
+To clarify and talk a bit further about my suggestion that
+we don't need legislative intervention at this time, I really
+want to emphasize ``at this time,'' because I don't think we
+know yet what we want.
+I say this because we have these four generative-AI-related
+registration determinations from the Copyright Office. Two of
+them, only two of which deal with the more interesting question
+of partially generated AI works, right, where we have this
+disclaim, disclose and disclaim approach that we've been
+mentioning.
+I think that neither of those examples are quite the
+example that I want. So, I would like to see more, so that we
+get a better idea of sort of the things that Professor Aistars
+was alluding to, which is: How do we determine, if we are going
+to be looking at inputs as opposed to outputs, what is our
+standard going to be?
+I agree that it's going to necessarily be subjective and a
+bit case-by-case. If we want legislative guidance around what
+should be involved in those subjective analyses, I just think
+we don't know yet what to ask for.
+Mr. Johnson. Thank you.
+Professor Aistars, do you have anything to add to what Ms.
+Garcia has said, or anything that you want to comment on about
+what she has said?
+Ms. Aistars. So, if we were going to talk about training of
+the AI tools and fair use applicability to those tools, we
+would have a very lengthy conversation, and Chair Issa would
+cut me off. So, I will restrain myself from answering those
+questions.
+I do think there are some very important questions that
+need to be answered about the training of tools, and I,
+personally, am very doubtful that the courts will be able to
+find that the training of those tools is excusable with fair
+use arguments.
+At some point somehow, we will resolve how those tools are
+being trained, and we will in some way somehow move on to the
+conversation we're having today, which is: How do users use
+those tools and what happens with the artwork, the creative
+works, that are generated through the use of those tools by
+users?
+Professor Garcia and I are trying to have that conversation
+sort of separating the training of the datasets issue from
+that.
+Mr. Johnson. OK. Thank you. Mr. Landau, 20 seconds.
+Mr. Landau. Fundamentally, it comes back to the idea, was
+the human essential creator of the artistic expression or was
+it the computer? So, if the--
+Mr. Johnson. How would you tell?
+Mr. Landau. That's a good question. There's some difficulty
+in telling, but it's the same kind of question we've asked
+for--
+Mr. Johnson. It's going to be the honor system?
+Mr. Landau. No, I think it's the same kind of question
+we've asked for decades at this point as to what portion of a
+work is protectable and what isn't. I think of the Nike Jumpman
+logo. There was litigation over that because somebody else
+reproduced a similar photo, the idea of a basketball player
+floating in the air, but it wasn't infringement because it was
+their own expression of that idea. So, that expression is the
+key. If you're just giving the AI the idea of ``Give me a
+picture of a basketball player floating in the air,'' that's
+not enough to generate a copyright for you.
+Mr. Johnson. Thank you. I yield back.
+Mr. Issa. Thank you.
+I will note, by the way, that we have had a series, and
+will have a series more, of roundtables. So, if I ask you to
+stay as close as possible to that zero number, it's only
+because we have members coming in and out for a short time
+today. I suspect many of you will be invited back to those
+roundtables in the near future.
+We, then, go to the gentleman from Virginia, Mr. Cline.
+Mr. Cline. Thank you, Mr. Chair.
+I want to followup on the question of you, Mr. Johnson, and
+particularly Ms. Garcia, with regard to the legal landscape for
+patent inventorship and a concern that the PTO guidelines that
+have been issued are not statutory; they are simply advisory.
+The courts can go in a completely different direction, if they
+wish. You don't see any concern about the fact that the
+guidance leaves unclear the process the PTO will use to make
+determinations about human and AI inventorship? For example,
+the PTO doesn't typically question or examine whether a patent
+application correctly listed the inventors. It doesn't require
+any evidence about inventorship to be submitted. So, what are
+the ramifications to both the examination process and the
+resulting patent? Can the courts take this in a fundamentally
+different direction than the guidelines?
+Ms. Garcia. Thank you for the question.
+I want to preface my answer by clarifying that I'm really
+speaking to the Copyright Office and the guidance that it's
+released thus far relating to registration determinations
+around copyrightable material. So, I don't want to speak out of
+turn to my more patent-focused colleagues.
+Yes, I share the concern that right now it sounds like,
+comparably, on both the patent and the copyright side, the
+guidance is not the strongest guidance. It's not really giving
+us a lot of clarity right now.
+I think what I am, rather, saying is not that we'll not
+need any legislative intervention. It's just that I wouldn't
+know what to ask you for yet.
+Like I said, the Copyright Office at least recently issued
+a public call for comments on copyrightability in AI, and it
+got over 10,000 responses, which is more, much more than
+normal. It will be interesting to see what the outcome of that
+review looks like and where people are landing.
+I'm hoping that we've got lots of answers from different
+artists as to what they think their creative processes look
+like and where they think the line should be drawn. Then, my
+thought would be, once we have more guidance on that, we would
+be able to get something legislatively that would enforce
+whatever the Copyright Office has determined.
+Mr. Cline. I want to come back to copyright but let me give
+Mr. Landau and Ms. Laporte the opportunity to respond to that.
+Ms. Laporte. I'll give it a try. I have a lot of concern
+about the complications in the system that can come from making
+inquiry into the role of AI in biological inventions, anyway,
+as something that becomes very important.
+I'm a patent litigator. I did that for decades. I can tell
+you right now that every case is now going to have a new layer
+based on what the new guidance that the Patent Office has a new
+layer of litigation about what tools did you use; how much AI
+did you consult?
+Also, what about the old computational biology tools?
+Because the new guidance, by the way, does not define AI. So,
+it could be anything.
+So, we already have layer after layer after layer of
+complication in patent litigation, and I worry that it just
+makes the system unworkably expensive. It makes it a
+competitive disadvantage for us.
+Mr. Cline. Well, let's play devil's advocate. Could AI be
+used to read through millions of patents to determine if any
+were granted by mistake? If so, what would happen then?
+Ms. Laporte. Well, I think that once the Patent Office
+empowers AI searching for examiners, it may improve patent
+quality. So, I actually think that the use of AI in engineering
+disciplines is a very significant benefit, both for examination
+and for invention purposes. It stands to help us get ahead
+competitively, and I think we should just be careful not to do
+anything that's going to inhibit the use of it.
+Mr. Cline. Well, what if it's a foreign adversary that
+wants to eat away at our patents and they employ AI to review
+U.S.-granted patents? Could that lead to more patent challenges
+in court? To what extent is China's utilization of AI in its
+patent system influencing practices within the U.S. patent
+system, especially as it relates to the biotech industry?
+Ms. Laporte. So far, I don't think that we're seeing much
+impact at all. The things that have to be done for China to
+challenge patents are very cumbersome and expensive and one-
+off. So, if you want to challenge a granted U.S. patent, you
+have to challenge it in the PTAB, which is not an easy or
+inexpensive process.
+So, I'm actually not so concerned about that, particularly
+because there isn't a competitive reason for that to occur in
+most cases. Certainly, I think that AI is going to raise the
+stakes on pretty much everything that happens, because it's
+going to increase the accuracy and quality of what is done in
+examination and in the inventing process to begin with. I think
+that we should welcome that shift, and I don't think that there
+is so much of a risk of sort of massive amounts of anything
+coming from China, that it merits making a change in policy as
+a result.
+Mr. Cline. Thank you. I yield back.
+Mr. Issa. I thank the gentleman.
+We now go to the Ranking Member of the Full Committee, Mr.
+Nadler, for his questions.
+Mr. Nadler. Thank you, Mr. Chair.
+In one sense, this hearing has been very interesting. You
+are, essentially, advising us to do nothing, which sometimes is
+Congress' best fallback position.
+
+Let me ask you, Professor Garcia, in your testimony you
+outline many legal reasons why predominantly AI-generated works
+do not warrant copyright protection. Some may argue, however,
+that denying AI-generated works protection will only
+incentivize applicants to conceal their use of AI altogether.
+How do you think we should balance the legal reasons to deny
+protection with that practical policy concern?
+Ms. Garcia. That's certainly one of among other moral
+hazards to such a policy. I think that the down sides of
+issuing copyright or wholly or substantially generated AI works
+outweigh the possible consequences of folks covering up AI's
+involvement. I might be an optimist, but I'm hopeful that the
+documents that applicants have to sign saying they've submitted
+truthful applications might deter some of that.
+On the other side, if we really started issuing copyrights
+to all the outputs that an AI generates, we would have a
+massive influx of copyrights, right, because it can in a matter
+of a half hour produce thousands of works. Pretty soon no one
+can draw a cat in a tub because I put cat in a tub and got
+8,000 different versions of cat in a tub and there's none left.
+That to me, along with the fact that like who would we enforce
+against if one of those cats in a tubs infringes another
+person's work, seem to me like sort of bigger and more imminent
+issues that people being dishonest on their applications.
+Mr. Nadler. Thank you. Professor Aistars, do you agree?
+Ms. Aistars. I generally do agree with that analysis.
+There's also the backstop of prohibitions against including
+inaccurate information with knowledge in a copyright
+registration form. So, since we're all on knowledge that we are
+supposed to, at least for the time being, disclose and disclaim
+AI use that will be helpful to us. The Unicolors decision, the
+Supreme Court, doesn't really help registrants all that much in
+this case.
+Mr. Nadler. Thank you. Mr. Landau, you have argued that if
+AI output is patentable, foreign adversaries could flood the
+Patent Office with AI-generated output overwhelming the agency.
+Triaging and reviewing applications requires tremendous
+resources even if the applications are ultimately rejected. So,
+why should the PTO's AI guidance have any impact on the
+potential flood of applications?
+Mr. Landau. So, that the PTO's AI guidance will mostly
+operate for the people who are not trying to trick the PTO. It
+will mostly operate for people who are in good faith trying to
+get their innovation through the office. The problem is that
+even if the guidance is in force and the PTO at this point, at
+least in the guidance, has nothing in there that affirmatively
+asks, the examiner has to decide to ask was AI used in some
+way? Even having that affirmative ask up front in the
+application data sheet as part of the application process would
+be a good step forward in putting the applicants on record.
+There are tools that they used in the trademark context
+about five years ago where they were receiving this flood of
+fraudulent applications. They put into place a task force. They
+increased their random audits to provide a backstop to try and
+detect these fraudulent applications.
+Mr. Nadler. Thank you. Ms. Laporte, some commentators have
+raised concern the current U.S. conception law; that is, the
+point at which an invention is deemed conceived, could if too
+narrowly construed deprive human inventors of legitimate patent
+rights in their inventions. They caution that this would put
+the United States at a disadvantage to the rest of the world.
+Is this a reasonable concern? If so, how should Congress seek
+to prevent this misapplication?
+Ms. Laporte. I think that it is a reasonable concern to
+think that if we overregulate by requiring AI disclosures and
+things of that kind that we could actually inhibit legitimate
+inventions. There are so many steps and so much human
+creativity that is actually involved in directing AI toward an
+engineering task that the risk of inhibiting invention is the
+greater risk that we should focus on.
+Mr. Nadler. So, again, we shouldn't do anything here?
+Ms. Laporte. Well, it would be a good thing to get rid of
+the current Patent Office guidelines because those open up a
+Pandora's Box of potential litigation complications that can
+cause problems for inventions that are perfectly legitimate and
+meet all the statutory criteria, the many statutory criteria
+that invention needs to meet to be patentable.
+I think adding another layer puts us at a big competitive
+disadvantage because again, if somebody makes an invention in
+an old-timey way, it's patentable, but if we make it in a
+modern way using AI, then it's not patentable? Why is that a
+good resolution? It doesn't make any sense. It puts us at a
+competitive disadvantage because other economies are not
+worried so much about who the inventor is. They're just worried
+about making sure that they patent inventions that should be
+patented. That's the focus we also should have.
+Mr. Nadler. Thank you. My time is expired. I yield back.
+Mr. Issa. I thank the gentleman. We now go to the gentleman
+from California, Mr. Kiley.
+Mr. Kiley. There is a very important distinction I think
+between the two areas we have been talking about today;
+copyrights and patents, which you alluded to in your testimony,
+Ms. Laporte, which it is a different paradigm of creativity
+versus usefulness. With a copyright you are really talking
+about it is all about creativity whereas an invention is
+measured against its usefulness in the real world. So, that
+argues for treating these two areas in a different way and
+perhaps having a more search and inquiry into the active
+creation and copyright as opposed to patents where there is
+just a different standard.
+We already have in our system a lot of complications,
+ambiguity, and confusion when it comes to patent subject matter
+eligibility that has been introduced by the courts. We know
+that this has in some ways chilled invention and investment in
+emergent fields because of the uncertainly of being able to be
+rewarded for your invention.
+So, I am concerned about what this guidance and this whole
+new inquiry of sort of looking under the hood of the inventive
+process is going to mean as far as exacerbating those problems
+and thereby limiting invention, limiting usefulness. I am
+trying to imagine what discovery will even look like when you
+now have this new tool to invalidate a patent saying, oh, no,
+you crossed the line of using too much AI in such a way as to
+invalidate it and what that is going to look like when we are
+having these inquiries into the process of invention.
+So, I wanted Ms. Laporte, to give you another opportunity
+to sort of draw out what the implications of this might be. You
+just said it is going to reduce your competitiveness. Do you
+see this maybe leading inventors or companies to forego the
+most efficient or most effective process in developing a drug,
+or whatever the case may be, for fear that this will then lead
+to a more vulnerable patent?
+Ms. LaPorte. Sorry. I had it on. Yes, I do think there is
+that risk. If you have to worry that your patent might be
+invalid because of the fact that you used the most efficient
+modern tools to develop your invention, that is of course a
+disincentive both to using it and to disclosing it if you do
+use it. So, to me that imparts a level of inefficiency to our
+system that I do worry puts us at a competitive disadvantage.
+To get a patent you have to meet a lot of statutory
+criteria. You pointed to utility. It also has to be novel; it
+has to be nonobvious, it has to be enabled, it has to be
+adequately described. Of course, the process of description is
+something that's very important because you need to--at least
+in the biotech context you can't get a patent without
+describing how you tested the thing that you invented and that
+it worked.
+So, there are so many hurdles already to patentability,
+which is reasonable and valid. There should be. We shouldn't be
+able to grant a patent unless it's a good patent, but once it
+has actually met that standard, let's have that be patentable.
+Mr. Kiley. So, there was some discussion; I think it was
+from Mr. Landau actually, related to the fact that you just
+cited of nonobviousness, how that is a requirement for
+patentability and how the availability of new tools such as AI
+is sort of baked into the nonobviousness inquiry because and
+ordinary person, a personal of ordinary skill is going to have
+access to AI tools.
+So, if the availability of AI tools is already baked into
+the nonobviousness inquiry, which is something that is its own
+separate requirement, then why is it that we need to further
+inquire as to the extent which there was a human-AI combination
+or too much of one, too much of the other in the process?
+I'll give you a hand, Mr. Landau, if you would like a
+chance to opine on that.
+Mr. Landau. Sure. So, the difference is that our laws say
+that humans can be inventors and nonhumans cannot. It's the
+same as in the copyright context. So, we do need to inquire
+into who the actual inventor is. I don't think this is a
+particularly new thing. We have had inventorship disputes and
+litigation for probably as long as we have had a patent system.
+It's an ordinary part of patent litigation; it's an ordinary
+part of patent prosecution that you swear that you were the
+inventor. So, I don't think that it's a huge ask of an
+applicant to say, do you swear that you truly conceived this
+invention?
+Mr. Kiley. Ms. Laporte, did you have anything to add to
+that?
+Ms. Laporte. I think that the fact that an invention has to
+be nonobvious means that as everybody begins to use AI it will
+improve patent quality by giving much greater access to
+examiners to things that they can look at to understand what
+the closest prior art is. So, yes, I think that it has the
+potential to improve patent quality and that we do not need as
+a result of that to include the additional sort of layer of
+bureaucracy and complication that is now being imposed by the
+current Patent Office guidance. I think that should be
+rescinded.
+At this point, at least when it comes to biological
+inventions, there's absolutely no chance that you can just
+prompt AI to create something, or even have it create something
+unprompted, as Stephen Thaler claims.
+So, I am very, very skeptical about the need for this
+additional regulation and I do worry that it hurts us in the
+long run given the fact that we're the only country that
+focuses on it in this way.
+Mr. Kiley. Thank you. My time is expired.
+Mr. Issa. I thank the gentleman.
+We now recognize the gentlelady from North Carolina, Ms.
+Ross, for her questioning.
+Ms. Ross. Thank you, Mr. Chair.
+Thank you to all the witnesses for sharing your expertise
+with us.
+Many companies and startups in the Research Triangle Area
+in North Carolina, which I represent, utilize AI to accelerate
+innovation, as Ms. Laporte has talked about, for instance to
+sort through large data bases of genes and speed up analyses of
+proteins and molecules. They use AI as a tool to assist with
+the development they have done for decades. This assistance
+could make an enormous difference for people with cancer or for
+kids with rare diseases, and so many others that are waiting
+for treatments for their conditions to come to market quicker
+and more cheaply. The bottom line is that use of AI in biotech,
+pharmaceutical, and medical research and development can help
+people who are suffering get help faster. I firmly believe that
+IP protection should be extensive enough to incentivize
+investors to utilize new technologies like AI to accelerate the
+research and bring their innovations to market as quickly as
+possible.
+The USPTO's guidance released last year affirms this
+stance, but we have heard some problems with it, potentially.
+It does provide that inventors may obtain patents for
+inventions as long as the human contribution to the product is
+significant. I am grateful for all your expertise. I would like
+to stay with Ms. Laporte for my line of questioning because I
+really want to focus on patents and the sciences.
+You have talked about what is going on in the U.S. and
+alluded to what is going on in other countries, but I would
+like you to share any statutory or regulatory approaches in AI
+and IP in other countries that might be either considered or
+avoided by the United States, and whether we need to do
+anything to remain competitive on a global stage.
+Ms. Laporte. Well, I'm only admitted to practice in the
+United States, and so I think as to details I should probably
+get back to you after the fact.
+I will say, however, that having directed global litigation
+sometimes I would be involved in being U.S. counsel for a
+company that was also being sued or was suing in many other
+jurisdictions around the world that our system is uniquely
+complicated and that puts a tax on innovation and the use of
+innovation that we don't need. So, I do think that what you
+said in your opening statement is exactly right, that we need
+to focus on how we can most incentivize the use of the very
+best tools to come up with the best inventions.
+Just to add to that a little bit, the way that antibodies
+were developed--many of them are manufactured in your
+district--the way that antibodies have traditionally been
+developed is by immunizing a mouse with a target antigen. Then,
+you screen the antibodies that the mouse's body generates to
+find the ones that meet what you want. Under the current PTO
+Office guidelines, you might have to, perhaps, disclose that
+the mouse had some inventive role. It's just not clear to me
+that there's any benefit of trying to figure out how many
+angels can dance on the head of a pin when you have a useful
+invention that meets all the statutory criteria.
+Ms. Ross. OK. Well, to followup on that, some commentators
+advocate for a requirement that applicants formally document
+inventor contributions including details about the
+contributions of AI. I guess that could have also applied to
+other things in computational biology. They argue that this
+would complement already common practices like maintaining a
+lab notebook.
+What do you think of this idea and is your company
+documenting its use of AI in a manner like this?
+Ms. Laporte. Certainly, we keep good records about what the
+science we do and how we do it, but that inquiring into the
+scientific practices and strategies of a company is something
+that inhibits the use of the patent system, because of course
+the specific approaches that you take, the mental ways that you
+think about approaching a problem, those are all actually trade
+secrets or creative things that are not things that are
+disclosed. When you make an invention, you have to say how to
+make and use it. You do not need to say all about what your
+creative thought process was that went into how you make and
+use it. So, we should not try to expand the scope of those
+requirements.
+Ms. Ross. I very much appreciate your responses. Thank you
+and I yield back.
+Mr. Issa. I thank the gentlelady. I will take the liberty
+of going next to the gentlelady from California, Ms. Lofgren,
+for her questions.
+Ms. Lofgren. Thank you very much. This is a very
+interesting and useful hearing and some of the things you have
+talked about hadn't thought about before.
+I think the Copyright Office is making good steps forward
+and trying to figure out where is that line. I think we all
+agree we need to protect the humans here in terms of their
+creativity, but where is the line? If you give 15 prompts is
+that enough? I think that is something that they are going to
+be able to come back to us with and that will be very useful.
+In terms of the Patent Office, Ms. Laporte, I think you
+have made a powerful case about the guidance, and it causes me
+some questions. For example, Google unfolded every protein in
+the human body and posted it for every scientist in the world
+to use. Would that violate the standards if people use that AI-
+generated information? In the case of fusion right now people
+are using AI to understand the actions of plasma interacting
+with targets to advance fusion. Would the use of AI to
+understand plasma run afoul of the guidance that the PTO has
+given? Also, the Google question.
+Ms. Laporte. Well, I'll have to defer on the plasma
+question because I'm not sure I fully understand the basis of
+that, but we can I'm sure get at this issue through the use of
+the tools relating to protein folding.
+So, we now have very useful tools that can take a sequence
+and tell you what expected structures of the protein is going
+to be. Those are tools that are now universally used by
+everybody including I will assume patent examiners if a
+relevant question comes up because they're publicly available.
+So, that to me just becomes part of what somebody now with
+ordinary skill in the arts is definitely going to use it.
+Those things are public. There's nothing that gives one
+person an advantage over another in inventing as a result of
+using a publicly available computational tool. So, I can't
+imagine any good reason why we wouldn't want everybody to use
+those who's trying to create something new and useful.
+Ms. Lofgren. So, the answer really is the guidance would
+not apply if the AI-generated information is available to
+everybody. Wouldn't that be true of any use of AI? Because
+anybody could use the tool.
+Ms. Laporte. I may have misinterpreted your earlier
+question. So, in terms of whether that should be disclosed, it
+seems to me that now since it is a very commonly used tool it
+might not even occur to people to disclose that. However, I do
+think that part of what's happening, in biology at least, and
+probably in other engineering disciplines, is that, in addition
+to there being publicly available AI tools there are also
+companies that are developing their own private AI.
+Ms. Lofgren. Oh, I get it. Yes.
+Ms. Laporte. So, there may be some significant differences
+there in terms of whether we have a level playing field.
+Ms. Lofgren. Right. I have a question--Ms. Garcia, maybe it
+was you; I can't remember who said that if the courts find that
+the use of the data for machine learning was infringing, that
+any use of AI would also then be infringing. Did I
+misunderstand that?
+Ms. Garcia. What I said is if the training of the AI on
+copyrighted works is found not to be fair use such that it
+constitutes--
+Ms. Lofgren. Correct.
+Ms. Garcia. --copyright infringement, any output of that
+language model trained on infringing content would be
+uncopyright-able because we don't copyright infringing work.
+Ms. Lofgren. OK. So, I basically did understand it.
+Ms. Garcia. Yes.
+Ms. Lofgren. OK. So, one of the things that I agree that we
+ought to tread carefully that the PTO and Copyright Office are
+working diligently. Here is the question, whether we ought to
+deal with remedies. Because I believe that if there was
+infringement on the data collection for learning, there ought
+to be compensation, but I do worry if there were injunctive
+relief so that AI in America was enjoined, that would put us at
+a tremendous disadvantage versus China and others.
+Do you think we should consider whether we should direct
+the remedy toward monetary compensation as opposed to shutting
+down AI in America?
+Ms. Garcia. Certainly, from an innovation standpoint I
+think that a remedy aimed at monetary damages makes a lot more
+sense. I'd also be hopeful that in an addition to or alongside
+that we might see efforts toward careful efforts of very well-
+crafted efforts toward some of what I call a liability rule or
+setting up a licensing scheme, right, to have these all over
+copyright where we have collectives.
+Ms. Lofgren. Right. Mandatory licensing of some sort.
+Ms. Garcia. Compulsory licensing, yes.
+Ms. Lofgren. Thank you. Mr. Chair my time is expired.
+Ms. Garcia. Thank you.
+Mr. Issa. I thank the gentlelady.
+We now go to the gentleman from California if he is ready,
+Mr. Schiff.
+Mr. Schiff. Thank you, Mr. Chair.
+There is no doubt that AI has the potential to change our
+economy, our political system, our day-to-day life in
+potentially very good ways and also very disruptive ways. AI
+has opened a world of opportunity for creators, whether that is
+utilizing binary technology to isolate vocal tracks or generate
+unique compositions that artists can incorporate into their
+work, but we have to balance technological advancement with the
+protection of individual creators' rights, ensuring that
+progress does not come at the expense of the creative
+community. After all, human creativity powers AI and makes
+these advancements possible.
+As has been raised during the hearing today the rapid
+development of generative AI technologies has outpaced existing
+copyright laws which has led to widespread use of creative
+content to train generative AI models without consent or
+compensation. As you are indicating it might violate the
+copyright laws.
+This is why yesterday I introduced the Generative AI
+Copyright Disclosure Act which will further innovation and
+safeguard the contribution of creators, ensuring that at a
+minimum they are aware of when their work contributes to AI
+training data sets. Similar, to proposals put forward in the
+EU, my bill mandates transparency from companies by requiring
+they disclose a summary of copyrighted works used to train AI
+systems, ensuring creators are informed and have the tools to
+advocate for credit or compensation where it is due.
+This bill is a step and only a first step in this direction
+and I welcome the opportunity to work with Members of the
+Subcommittee to champion innovation while safeguarding the
+rights and contributions of creators. I am very grateful to
+have the support of many leading organizations in the creative
+industry including the Human Artistry Campaign, Recording
+Industry Association of America, SAG-AFTRA, and IATSE, to name
+a few.
+Now that I have finished the commercial announcement, one
+primary concern many of these creative groups have been that
+generative AI models will replace writers in the writing room,
+actors on set, or artists in the recording studio.
+Let me start if I can, Professor Garcia, while new
+technologies like AI offer a breath of advancements in the
+production space to utilize or partner with what can creators,
+many of whose livelihood depends on copyright protection,
+expect in terms of AI authorship decisions from the Copyright
+Office? What do you anticipate?
+Ms. Garcia. Thank you for the question. I think that given
+the guidance that we've seen so far, which as I mentioned
+previously is a really small set, right--we've got four such
+generative AI-produced works, registration determinations. If
+the work is wholly or substantially generated by AI, they can
+expect that the Copyright Office will not grant protection.
+Where it's partially AI-generated the Copyright Office, as
+we've been discussing, appears to be taking a disclose and
+disclaim approach, which is easier said than done. With the
+notion being that what would happen if you wanted to secure a
+copyright registration in a work for which an artist had used
+generative AI, they may have to first disclose that they've
+done so, and then second, make a good-faith attempt to describe
+how much of the work was done by generative AI.
+Here a really important distinction to make that I've been
+seeing from the questions and from testimony today is the
+difference between using AI as a tool, much like a paintbrush,
+and generative AI, which is actually creating something new. I
+think it's the latter that really adds challenges. Artists
+should not be concerned about using AI as a tool to aid in
+their creativity, only when they're using generative AI to
+substitute for their creativity.
+Mr. Schiff. Where do you draw the line of human versus AI
+authorship and how do you think that the specific material an
+AI model is trained on should be considered? I would throw that
+open to the whole panel.
+Ms. Garcia. Sure. So, I'll start. I wish I knew exactly
+where to draw the line. I'll say again that I'd love to see
+more of these applications come in so we can see what people
+are doing with the generative AI, to get a sense of it. If I
+had to give one criterion now it would be to consider whether
+the final product reflects the original intellectual conception
+of a human. If so, then I think I would lean toward granting
+copyright protection.
+Mr. Schiff. That is very hard to define, isn't it?
+Ms. Garcia. Yes.
+Mr. Schiff. Would others care to weigh in?
+Mr. Landau. Sure. Creativity is hard to define as well, so
+I think that this is part and parcel of copyright is how do we
+say that something is creative? How do we define creativity? In
+the context of AI, I agree with Professor Garcia completely
+that it's the human using it as a tool?
+I think it was the Ranking Member that mentioned autotune,
+which is its own form of AI and has been used for--I don't know
+if it's decades now, but for quite a while. We've seen similar
+tools in the patent context. Those tools are fine. The
+generative AI is where it can step over that line. I don't
+think we have equivalents in the patent space yet, certainly
+not the tech side, and I'm hearing not really on the bio side,
+where you just say give me this and it spits something out. If
+we get to that point, then that will become much more an
+important question on patents. Right now, it's probably not.
+Mr. Schiff. Thank you, Mr. Chair.
+Mr. Issa. I thank my colleague. I might note I also thank
+him for the submission of his bill. I know that yours and Mr.
+Cline's bills; his is forthcoming, are going to be taken up by
+this Subcommittee. So, I appreciate your thoughtful work on
+that.
+We now go to the gentleman from Maryland who has been so
+patient, Mr. Ivey.
+Mr. Ivey. Thank you, Mr. Chair.
+Let me followup on that line of questioning, because I am a
+little unsure about how we are trying to draw a line with
+respect to what is creative, when AI is a tool as opposed to
+when it is actually creating new work I guess of some sort.
+Because I just came back from a conference, and they were
+talking about generative AI is not creative and that it is
+actually a tool.
+So, Professor Garcia, let me come back to you because you
+talked a little bit about that line that you were drawing. Does
+that vary from the type of work we are talking about or where
+would you draw the line with respect to not only that
+distinction, but other types of works? Let's say like art,
+music, biotech, and investigation? How do you differentiate
+between there?
+Ms. Garcia. Thank you for the question, and I think that
+you've identified one of the primary challenges, particularly
+in the copyright space is that copyright as an umbrella statute
+tries to cover so many different types of works. The use of
+generative AI and the use of AI tools looks dramatically
+different from visual arts to music to film and so forth.
+Again, I've tried to identify in my written testimony a few
+things like predictability and control, which I recognize can
+to some extent also be applied in the use of AI as tool, which
+I've suggested is OK for copyright-ability purposes.
+Here's an example I'd give: One of our colleagues had
+mentioned Jackson Pollock earlier, where if he just took a
+paintbrush and splashed it onto a canvas, he wouldn't be able
+to predict exactly what it would look like. I would argue
+differently to giving a simple prompt to AI to like, make a
+painting he would have had more input, right? He picked the
+color of the paint and the force with which he splashed and the
+angle at which he splashed it. So, we could see Pollock in that
+work as opposed to me just telling Midjourney like make a
+painting.
+Mr. Ivey. You have got a better eye for Pollock than I do,
+I guess.
+
+Mr. Ivey. OK. Others on the panel, what are your thoughts
+on that?
+Ms. Aistars. So, if I may, I think there may be some
+misunderstanding in terms of how artists actually engage with a
+tool like Midjourney and also how artists develop and engage
+with tools, any tools over time. So, that's why I say we start
+with the fact that it is an artist's intellectual conception.
+Then when we translate that idea over to the context of a GAI
+tool, which is in fact a two-way interaction between the human
+and the GAI--I'm suggesting that intellectual conception. What
+we're looking for next then is whether the artist is continuing
+that intellectual conception in a manner that demonstrates that
+the artist is staying true to their creative vision. So, the
+artist isn't just--
+Mr. Ivey. Let me just pause you there. OK. So, I think I
+believe it was here--the prompt was to create a trailer for a
+science fiction movie of a Martian invasion or something, and
+it came up like that. I guess that is a generative AI tool. So,
+the creative vision--
+Ms. Aistars. Right. I would argue that this is not an
+intellectual conception and that is not a sufficient direction
+from the prompter to have engaged the tool with an authentic
+creative voice that is conveying something of the artist--
+Mr. Ivey. All right. So, let me ask you a followup
+question: Let's say the person who gave the initial prompt then
+says change this and then change that. At what point does it
+move from being--does it become a creative product for the
+artist as opposed to just a generative AI that would not get
+that copyright protection?
+Ms. Aistars. Yes, so that's actually not how the tools
+work. So, you're not saying like change this, change that like
+you might say as a creative art director to a client's
+commissioning an artist to do something. You're actually often
+as the user of the tool giving prompts that say I want to use,
+this equivalent of this f-stop the equivalent of bond paper
+this media.
+Mr. Ivey. Let me make it really easy.
+To test out ChatGPT I said generate a sermon by Martin
+Luther King. It came up in two seconds. If I then took that
+document--and a couple of them were explicit quotes, but mostly
+not. If I then took that document and edited it out, or even
+better I said generate a speech of Glenn Ivey and then made
+changes to it, some editing, wouldn't that at that point become
+a creative process that I had generated?
+Ms. Aistars. So, I would argue no, you're actually saying
+to the tool infringe somebody's copyright.
+Mr. Ivey. Well, it would have been me, right?
+Ms. Aistars. Pardon me?
+Mr. Ivey. It would have been me, my second--
+Ms. Aistars. Oh, you said Martin Luther King. Sorry.
+Mr. Ivey. The second was me, Glenn Ivey. Right here.
+Ms. Aistars. OK. So, in that case you're asking to make a
+derivative work of your own work so our inquiry would really
+not be so much whether you are entitled to a copyright on the
+first work, but whether you've made sufficient changes to that
+second work to be entitled to it.
+Mr. Ivey. Right.
+Ms. Aistars. So, it's really not an AI issue as much as it
+is whether you've made changes to your second work that are
+sufficient for a copyright in your second work.
+Mr. Ivey. Well, I see I have run over my time, but thank
+you, Mr. Chair. Thank you.
+Mr. Issa. I thank you. You did it very well.
+Mr. Ivey. Thank you.
+Mr. Issa. I recognize myself and I am going to pick up
+where Mr. Ivey left off. We all agree that if the Beatles
+remaster one of their works it is still copyrighted, right?
+I get all yeses. Beatles remaster but they use AI, is it
+still copyrighted?
+
+Mr. Issa. I am getting mostly yeses.
+Ms. Garcia, you had earlier talked about--to that point a--
+let me make sure I get it right here. I put down remastered on
+your point because you were talking about original works that
+went into or were ingested into, if you will, AI. You said
+something that was interesting. Ms. Lofgren, I thought was
+going to go there. She didn't quite get to the point I had,
+which was if you have ripped off the work and then you create
+something, isn't the underlying copyright still there?
+In other words, this new product, which is a derivative
+with copyrighted material in the extent that this what Mr.
+Schiff has been working on. To the extent that you are in fact
+taking earlier copyright work, and that those works are less
+than 70 years past the life of the author, aren't we still
+seeing a modicum of copyright in that product, meaning that you
+may have ripped it off, but it doesn't mean that there wouldn't
+be some potential protection against just everybody else using
+it themselves?
+Ms. Garcia. Well, as I understand what you've described,
+this would be--if you're using an AI that's been trained on
+infringing material let's say, or material that's found to not
+be fair use, so it infringes.
+Mr. Issa. No, no, no.
+Ms. Garcia. No.
+Mr. Issa. Again, you use the term fair use, and I am
+drifting off what you said.
+Ms. Garcia. OK.
+Mr. Issa. Let's assume it isn't fair use. Then it is in
+fact copyrighted material. Let's not assume the word ripped off
+for a moment. Let's simply say it is contained. To the extent
+that libraries are built using copyrighted material--Ms.
+Aistars, I am going to use the Getty Library, OK, all that
+massive amount of video and still pictures. To the extent that
+this is ingested and then something is created (A) Getty is
+going to tell me, as they have, hey, you owe me. You don't have
+the right to steal it, but you owe me. To the extent that the
+output would not be given a copyright--if they are given no
+copyright, then where are we going to get the revenue from for
+that?
+In a sense, don't we have an obligation to look at--and I
+am going to go particularly to Ms. Aistars for a reason. To the
+extent that we are using the video visual art that we have so
+much of we have an obligation I will say to have an inducement
+of value if we want to have those derivative creations.
+Otherwise, there won't be those derivative creations if you
+have to pay on the input and you can't monetize on the output.
+Wouldn't you agree that at least, in principle, that is one of
+the challenges that this body, that isn't supposed to do any
+legislating here according to all four of you, probably has to
+look at? I am asking you because it is sort of more your end of
+the business.
+Ms. Aistars. Yes, so I began by saying that we need to
+resolve the liability issue for training so that we aren't
+relegating these classes of--
+Mr. Issa. Yes, and we can't resolve it here today, and that
+is one of the reasons that I am simply saying to the extent
+that it is not fair use, that in fact there has to be some sort
+of revenue process to the original creators. Now, those revenue
+processes are unlikely to be on the ingest side. They are more
+likely to be on the output side. That is one of the challenges
+that this Committee is looking at and anticipating is that
+copyrighted--if we don't grant a copyright to output material,
+then we don't have the ability to compensate the input and it
+favors the case of saying, well, it is fair use then. Why don't
+you think about that for a question? I am going to come back to
+you.
+Ms. Aistars. OK.
+Mr. Issa. I want to go over to the other side really quick.
+There was a lot of discussion--and you--Ms. Laporte, you used
+the word prompt a couple of times. One of the questions, since
+you do not think the current guidance from the PTO is good--it
+is one of the things that you asked us to do during this
+hearing is to maybe undo it.
+Isn't it practice typically in patents that when you are
+describing your invention and you have all your little charts,
+maybe not always in your regime--but in electronics, we almost
+always--we show--in my era we showed a slide ruler and an
+abacus, but today they show the computer, they show other
+instruments. In a sense isn't what the Patent Office should be
+saying is tell us your prompts and tell us the AI library that
+you used so that, in fact, somebody of ordinary skill can (1)
+duplicate and (2) verify whether or not it falls under
+obviousness based on a limited number of prompting, or a
+relatively large amount of prompting and how the AI model would
+have dealt with it?
+Ms. Aistars. So, we're not patenting our AI tools. We're
+patenting specific genetic constructs that we make using the
+tools. So, the outcome of what we do is likely to be a DNA
+sequence of some kind, which--
+Mr. Issa. No, I understand that. The reason I was asking
+though is that you have to disclose to somebody of ordinary
+skill.
+Ms. Aistars. You have to disclose how to make and use the
+invention. It doesn't mean that you have--
+Mr. Issa. Right. You also have an obviousness test. So, the
+Patent Office is concerned about large use of generative AI
+ultimately creating patents that are applied for that are
+basically machine-created and therefore obvious to anyone who
+has the machine.
+So, back to the question which was fairly--I wanted to make
+it fairly narrow. Shouldn't the Patent Office, rather than the
+tests that they are giving, simply say that as we have done in
+patents for generations, the tools used are disclosed often? In
+this case, the prompts requested to the extent that they are
+digital prompts--a musician who is playing an electronic piano
+can't really define his prompts. You can define the prompts you
+gave as part of the process, couldn't you?
+Ms. Aistars. Not necessarily. I think particularly given
+the fact that we are all likely to be developing proprietary AI
+systems using proprietary data, and while my company is very
+interested in trying to make sure that there's as much data
+sharing as possible, we still all develop things along slightly
+different pathways.
+Mr. Issa. Well, I appreciate that, but that is one of the
+questions I have, which is my obligation is to make sure that
+all industries disclose that which allows someone of ordinary
+skill, not someone of ordinary skill with your special sauce
+that isn't disclosed, to duplicate the process later. That
+becomes a very important point in granting of patent is we are
+granting patents not so you can be enriched, but so 20 years
+later society shall be enriched.
+Ms. Aistars. Absolutely, but the thing is that what we--the
+invented thing is going to be a biological construct, not
+software, not AI. We are using AI to solve a biological
+problem. What we're patenting is the solution to the biological
+problem. So, you can absolutely use that thing 20 years after
+the patent is applied for. It will be open source. Anybody will
+be able to use that thing. It's easy to make. The things that
+we make are typically--well, sometimes they're very hard to
+make, but often the--like if I make a new enzyme, for example,
+it's easy to be able to teach somebody how to make and use that
+enzyme. I do not need to teach them how the AI that I prompted
+and what data I used and everything else. That is irrelevant to
+being able to make and use the invention.
+Mr. Issa. I appreciate that. Briefly, have you had time to
+come back with how I should deal with this conundrum that Ms.
+Garcia gave us if it is not fair use, but we are also not
+granting a copyright on this derivative work, even if it is a
+derivative work that is limited to 70 years from its input
+materials, how do we in fact incentivize those new creations?
+Ms. Aistars. Yes, so in my testimony I have been telling
+you to grant a copyright on works so long as the author
+demonstrates minimal creativity in the works. We've been doing
+so. I've also suggested that human authors should be
+compensated and have control of their works when they're
+ingested into an AI data training set. So, that's for another
+hearing.
+I wanted to be clear though, I think there may be some
+misunderstanding in terms of how I view the copyright guidance.
+I think we're thinking about filling out our registration
+applications like lawyers think about filling out registration
+applications. So, to us we look at the application and we say
+well, what's easy? Like let's put a number on it. Let's put a
+bright-line test. How much, right? Quantitatively how much is
+too much GAI use?
+That's not an artist's process when an artist is creating a
+work. An artist is not sitting there saying like, OK, I've used
+this many prompts, I've engaged this way, right? An artist is
+in the flow working and creating the image that they're
+creating and they're not stopping to think that way. So, I'm
+trying to suggest how to make a test that is intuitive to an
+artist and asking you to think qualitatively about how the
+artist is using the tool rather than quantitatively.
+Mr. Issa. On that note--
+Ms. Jackson Lee. Mr. Chair?
+Mr. Issa. Yes. The gentlelady from Texas.
+Ms. Jackson Lee. Mr. Chair, you have been a gracious Chair,
+I understand, and I do know the protocols of--
+Mr. Issa. Would the gentlelady like a short time to be
+waived in at the discretion of the Chair at this time?
+Ms. Jackson Lee. I would be overwhelmed if I was given
+that--
+Mr. Issa. I am an overwhelming supporter. The gentlelady is
+recognized.
+Ms. Jackson Lee. Well, I want everyone to know that Chair
+Issa--and I thank the very gracious Ranking Member Mr. Jackson,
+but Chair Issa and I have been on these matters for a long
+time. So, the only thing that I will pose, not to prolong, is
+the question of sourcing and--which it looks as I was listening
+sourcing was permeated throughout--the artist is in the flow.
+That means that the artist is not necessarily sourcing. They
+are just in the flow.
+So, can someone just take a stab at the random sourcing
+artist versus the more precise engineer when it comes to AI? I
+have some legislation that I would like this Committee to look
+at. I am not on the Committee, but have a deep abiding
+commitment and interest to this area. The whole idea of
+sourcing in the AI world, would someone care to comment on how
+meticulous we have to be? What does that do to the college
+student that is now facing that, particularly the grad student
+that is now facing that? Without any boundaries what do we have
+now? What world are we living in now on sourcing? I hope I have
+tried to be--I have professors here. I will yield to whoever
+wants to take a stab at that.
+Ms. Aistars. So, I'll just say I feel very strongly that
+there needs to be liability for the GAI companies who train
+their tools. They need to appropriately source materials to
+train their tools and that artists whose creative works are
+used to train GAI tools should have compensation and control
+over the use of their works. So, that's my position on training
+GAI tools.
+This particular hearing we weren't asked to talk about that
+issue and so my view is that liability for training of GAIs has
+to be resolved, but that denying IP protection to otherwise
+protectable works to humans who use GAIs is counterproductive,
+because that will relegate the work that they create using GAIs
+to this category of synthetic data. That will harm the
+legitimate human creators of works by harming them on the input
+side, by using their work to train the machine, and then
+harming them again on the output side by not giving them the
+ability to get a copyright on their work if they have otherwise
+met the originality requirements in creating that work. So,
+that would be my position.
+Ms. Jackson Lee. I don't know if there is one or the other
+that wanted to answer, and I realized what the topic of the
+hearing was, I figured I should get in the door before it got
+closed on me.
+Anyone else want to just comment?
+Mr. Landau. Yes, I think if I understood you--your question
+correctly, you are asking about sourcing on the output side so
+that you would know what portion of your work comes from the AI
+versus what portion comes from the person. I think that's
+actually a really important question because at the end of the
+day, if you can't point to something that was sourced by the
+AI, then you have surpassed any threshold. It is your work at
+that point. It's when you can point to something and say, yes,
+that part right there, that came from the AI. That's when you
+should not be receiving copyright over at least that portion of
+the work.
+Ms. Jackson Lee. Very important.
+Mr. Issa. I thank the gentlelady.
+Ms. Jackson Lee. He was very kind and the professor was
+trying to finish her sentence.
+Mr. Issa. Please. I didn't mean to cut you off.
+Ms. Jackson Lee. Yes.
+Ms. Garcia. No, no. Sorry. I was going to add that I think
+I agree with Professor Aistars' assessment that even though it
+is not the topic of this particular hearing, an answer on the
+training data is important because I also empathize with the
+inclination to say, well, if we can't compensate them on the
+inputs; I think we probably should, then maybe let's compensate
+on them on the outputs.
+(1) The challenge statutorily, right, is that our current
+definition for derivative works doesn't allow those outputs to
+be copyrightable, right, because they can't point to a
+particular preexisting work; it's just billions of works.
+(2) They are themselves not copyrightable.
+(3) Most importantly, they're not authorized. So, all those
+things would have to be true to get a proper derivative work
+copyright.
+Mr. Issa. With that, I am going to ask all the witnesses to
+give us three--I thank the gentlelady--three indulgences.
+Ms. Jackson Lee. Thank you.
+Mr. Issa. (1) Answer questions that will be submitted from
+any Member that was here or unable to be here including Ms.
+Jackson Lee.
+(2) Please revise and extend thoughts that you have as a
+result of today's hearings and--Ms. Garcia and the others,
+including areas that might be tangential to this, but clearly
+cover this Subcommittee's jurisdiction and AI. So, don't be
+inhibited by the limitation of this because we can't have you
+on every panel, we can't have you at every roundtable, but we
+want your input. So, if you will do all that for us, we would
+appreciate it.
+Additionally, the Ranking Member and myself are always
+available for ex parte-type events if you have additional ideas
+or requests. This is a challenge for us because as all of you
+said, you don't want us to do anything except perhaps undo what
+has already been done. We see a lot of potential wisdom in
+that, but we also are monitoring this in a way in which we want
+to make sure that we prevent harm from developing.
+With that, not having gone back into my Billy Joel example
+to any of you, which would have been my next question, we stand
+adjourned.
+
+All materials submitted for the record by Members of the
+Subcommittee on Courts, Intellectual Property, and the Internet
+can
+be found at: https://docs.house.gov/Committee/Calendar/ByEvent
+.aspx?EventID=117077.
