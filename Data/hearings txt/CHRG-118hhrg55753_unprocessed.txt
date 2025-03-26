@@ -1,0 +1,2238 @@
+
+
+EXAMINING THE PRESIDENT'S FY 2025
+BUDGET REQUEST FOR THE BUREAU OF
+OCEAN ENERGY MANAGEMENT,
+THE BUREAU OF SAFETY AND
+ENVIRONMENTAL ENFORCEMENT,
+AND THE OFFICE OF NATURAL
+RESOURCES REVENUE
+=======================================================================
+OVERSIGHT HEARING
+before the
+SUBCOMMITTEE ON ENERGY AND
+MINERAL RESOURCES
+of the
+COMMITTEE ON NATURAL RESOURCES
+U.S. HOUSE OF REPRESENTATIVES
+ONE HUNDRED EIGHTEENTH CONGRESS
+SECOND SESSION
+__________
+Thursday, May 23, 2024
+__________
+Serial No. 118-125
+__________
+Printed for the use of the Committee on Natural Resources
+
+Available via the World Wide Web: http://www.govinfo.gov
+or
+Committee address: http://naturalresources.house.gov
+______
+U.S. GOVERNMENT PUBLISHING OFFICE
+55-753 PDF WASHINGTON : 2024
+COMMITTEE ON NATURAL RESOURCES
+BRUCE WESTERMAN, AR, Chairman
+DOUG LAMBORN, CO, Vice Chairman
+RAUL M. GRIJALVA, AZ, Ranking Member
+Doug Lamborn, CO Grace F. Napolitano, CA
+Robert J. Wittman, VA Gregorio Kilili Camacho Sablan,
+Tom McClintock, CA CNMI
+Paul Gosar, AZ Jared Huffman, CA
+Garret Graves, LA Ruben Gallego, AZ
+Aumua Amata C. Radewagen, AS Joe Neguse, CO
+Doug LaMalfa, CA Mike Levin, CA
+Daniel Webster, FL Katie Porter, CA
+Jenniffer Gonzalez-Colon, PR Teresa Leger Fernandez, NM
+Russ Fulcher, ID Melanie A. Stansbury, NM
+Pete Stauber, MN Mary Sattler Peltola, AK
+John R. Curtis, UT Alexandria Ocasio-Cortez, NY
+Tom Tiffany, WI Kevin Mullin, CA
+Jerry Carl, AL Val T. Hoyle, OR
+Matt Rosendale, MT Sydney Kamlager-Dove, CA
+Lauren Boebert, CO Seth Magaziner, RI
+Cliff Bentz, OR Nydia M. Velazquez, NY
+Jen Kiggans, VA Ed Case, HI
+Jim Moylan, GU Debbie Dingell, MI
+Wesley P. Hunt, TX Susie Lee, NV
+Mike Collins, GA
+Anna Paulina Luna, FL
+John Duarte, CA
+Harriet M. Hageman, WY
+Vivian Moeglein, Staff Director
+Tom Connally, Chief Counsel
+Lora Snyder, Democratic Staff Director
+http://naturalresources.house.gov
+------
+SUBCOMMITTEE ON ENERGY AND MINERAL RESOURCES
+PETE STAUBER, MN, Chairman
+WESLEY P. HUNT, TX, Vice Chair
+ALEXANDRIA OCASIO-CORTEZ, NY, Ranking Member
+Doug Lamborn, CO Jared Huffman, CA
+Robert J. Wittman, VA Kevin Mullin, CA
+Paul Gosar, AZ Sydney Kamlager-Dove, CA
+Garret Graves, LA Seth Magaziner, RI
+Daniel Webster, FL Nydia M. Velazquez, NY
+Russ Fulcher, ID Debbie Dingell, MI
+John R. Curtis, UT Raul M. Grijalva, AZ
+Tom Tiffany, WI Grace F. Napolitano, CA
+Matt Rosendale, MT Susie Lee, NV
+Lauren Boebert, CO Vacancy
+Wesley P. Hunt, TX Vacancy
+Mike Collins, GA
+John Duarte, CA
+Bruce Westerman, AR, ex officio
+------
+CONTENTS
+----------
+Page
+Hearing held on Thursday, May 23, 2024........................... 1
+Statement of Members:
+Stauber, Hon. Pete, a Representative in Congress from the
+State of Minnesota......................................... 1
+Kamlager-Dove, Hon. Sydney, a Representative in Congress from
+the State of California.................................... 3
+Statement of Witnesses:
+Klein, Liz, Director, Bureau of Ocean Energy Management,
+Washington, DC............................................. 4
+Prepared statement of.................................... 6
+Questions submitted for the record....................... 10
+Sligh, Kevin, Director, Bureau of Safety and Environmental
+Enforcement, Washington, DC................................ 11
+Prepared statement of.................................... 13
+Questions submitted for the record....................... 18
+Cantor, Howard, Director, Office of Natural Resources
+Revenue, Denver, Colorado.................................. 18
+Prepared statement of.................................... 19
+Questions submitted for the record....................... 22
+Additional Materials Submitted for the Record:
+Submissions for the Record by Representative Graves
+``Big Oil's Record Profits''............................. 39
+Submissions for the Record by Representative Huffman
+IMF Working Paper, ``Global Fossil Fuel Subsidies Remain
+Large: An Update Based on Country-Level Estimates...... 33
+Final Vote Results for Roll Call 385, ``Build Back Better
+Act''.................................................. 34
+OVERSIGHT HEARING ON EXAMINING THE
+PRESIDENT'S FY 2025 BUDGET
+REQUEST FOR THE BUREAU OF OCEAN
+ENERGY MANAGEMENT, THE BUREAU OF
+SAFETY AND ENVIRONMENTAL
+ENFORCEMENT, AND THE OFFICE OF
+NATURAL RESOURCES REVENUE
+----------
+Thursday, May 23, 2024
+U.S. House of Representatives
+Subcommittee on Energy and Mineral Resources
+Committee on Natural Resources
+Washington, DC
+----------
+The Subcommittee met, pursuant to notice, at 10:06 a.m. in
+Room 1324, Longworth House Office Building, Hon. Pete Stauber
+ presiding.
+Present: Representatives Stauber, Gosar, Graves, Westerman;
+Huffman, and Kamlager-Dove.
+Also present: Representative Carl.
+Mr. Stauber. The Subcommittee on Energy and Mineral
+Resources will come to order.
+Without objection, the Chair is authorized to declare
+recess of the Subcommittee at any time.
+Under Committee Rule 4(f), any oral opening statements at
+hearings are limited to the Chairman and the Ranking Minority
+Member.
+I ask unanimous consent that the gentleman from Alabama,
+Mr. Carl, be allowed to participate in today's hearing.
+Without objection, so ordered.
+I am now going to recognize myself for an opening
+statement.
+STATEMENT OF THE HON. PETE STAUBER, A REPRESENTA-
+TIVE IN CONGRESS FROM THE STATE OF MINNESOTA
+Mr. Stauber. This morning, the Energy and Mineral Resources
+Subcommittee will review the Fiscal Year 2025 budget request
+for three agencies at the Department of the Interior charged
+with development of offshore resources in Federal waters,
+safety of offshore operations, and collection and management of
+Federal energy revenues.
+As we approach the twilight of this Administration, many of
+us eagerly anticipate an end to the regulatory onslaught that
+has smothered economic activity offshore with layers of
+bureaucratic red tape and new fees. The Biden administration's
+Bureau of Ocean Energy Management has deliberately ignored
+statutory mandates for 4 consecutive years, proving themselves
+ineffective stewards of our offshore resources.
+Despite these failures and transgressions, BOEM is
+requesting more funding in Fiscal Year 2025. BOEM stands nearly
+2 years late in rolling out a new, 5-year plan for offshore and
+oil and gas development, an unprecedented delay in the
+program's 44-year history.
+Today, we will hear promises from the Administration that,
+despite delays, this plan will soon take effect. They might
+downplay their control over a disappointing, inadequate three
+lease sale schedule. I expect Director Klein will claim these
+sales were merely steps to ensure the Bureau could hold future
+sales for wind leasing, offering minimal hope BOEM will hold
+them if the wind leasing demand is diminished in the future.
+It would be profoundly naive for any American or member of
+this Committee to accept at face value assurances on offshore
+and oil and gas from Liz Klein and the Department of the
+Interior, especially after their clear reluctance to publish
+the plan they now vow to implement.
+In preparation for 2025, BOEM must focus on the singular
+Lease Sale 262, ensuring this sale offers premier acreage in
+the Gulf of Mexico. Known for yielding the world's cleanest oil
+in terms of emission, keeping energy costs affordable, and
+bolstering American energy independence, we cannot let the
+Department of the Interior sacrifice the livelihoods and
+security of Americans on the altar of hollow commitments to
+environmental activists who care very little about our current
+or future energy needs.
+Taking notice of BOEM's track record of canceling offshore
+sales, Congress had to mandate our nation's last three lease
+sales: 258, 259, and 261 in Alaska and the Gulf. These sales
+alone have generated over $645 million in bids, and promise
+billions in royalties from 4 million OCS acres. They also
+contributed to conservation and preservation efforts through
+the Land and Water Conservation Fund, LWCF, state and local
+allocations via GOMESA, and the Historic Preservation Fund.
+Canceling lease sales represents a blatant dereliction of
+duty, a profound disrespect to our nation's resource
+management, and a deliberate betrayal of the American people's
+trust, undermining the very foundation of our energy security.
+If the Department of the Interior truly prioritized
+environmental concerns, they would champion the expansion of
+oil and gas leasing in the Gulf of Mexico. More leasing means
+more funding for LWCF, GOMESA, and historic preservation,
+translating into more jobs, better benefits, enhanced community
+funding, and cleaner, more affordable energy.
+The Office of Natural Resources Revenue, ONRR, which
+reminds the public to pronounce its acronym like the word
+``honor,'' also has betrayed Americans' trust. Rather than
+fulfilling its fiduciary role, managing billions of dollars in
+annual revenues generated mostly through energy and mineral
+leases, ONRR has arbitrarily denied overpayment refund requests
+and ignored conflicts of interest. When industry contacts ONRR
+for regulatory guidance, the agency's response can be
+summarized as, ``Rules for thee, but not for me.''
+Worse yet, evidence suggests that ONRR staff ignored legal
+advice from the agency's own attorneys and attempted to delete
+communications to keep them from being included in any
+administrative record. Bad actors at ONRR must be held
+accountable to ensure energy and mineral revenues are properly
+managed, and all stakeholders are treated fairly.
+I now recognize the Ranking Member for her opening
+statement.
+STATEMENT OF THE HON. SYDNEY KAMLAGER-DOVE, A REP-
+RESENTATIVE IN CONGRESS FROM THE STATE OF
+CALIFORNIA
+Ms. Kamlager-Dove. Thank you, Chairman, and thank you to
+Director Klein, Director Sligh, and Director Cantor, for taking
+time to be with us here today.
+The Bureau of Ocean Energy Management, the Bureau of Safety
+and Environmental Enforcement, and the Office of Natural
+Resources Revenue are agencies critical to helping our country
+achieve our climate and clean energy goals, and support
+communities through the energy transition: efforts threatened
+by Republicans' proposed budget cuts.
+The BOEM plays a vital role in facilitating the development
+of offshore and wind energy, which has the potential to create
+tens of thousands of jobs and significantly reduce our reliance
+on fossil fuels. During this Administration, BOEM has approved
+the country's first eight commercial-scale wind projects, with
+a combined potential of over 10 gigawatts and enough clean
+energy to power nearly 4 million homes. The first commercial-
+scale offshore wind projects are already producing clean,
+renewable energy in the Northeast.
+BOEM has also announced a forward-looking leasing plan for
+offshore wind energy through 2028. Standing up for the offshore
+wind industry is absolutely necessary if we are to stave off
+the worst impacts of climate change. But we must do so
+responsibly, in a way that balances the priorities of
+communities, impacted tribes, other ocean users like the
+turtles, and the environment.
+BOEM also oversees oil and gas leasing, and last year
+finalized the next 5-year plan, which includes the fewest lease
+sales in history. The agency has also recently finalized
+rulemakings to better hold offshore oil and gas companies
+accountable for cleaning up their messes.
+We have heard a lot of gripes from the industry over the
+past year-and-a-half about the Administration's actions to
+limit leasing and their accountability measures. But I will
+remind my colleagues that we recently uncovered allegations
+from the FTC that Big Oil has been colluding with OPEC to keep
+prices high for American consumers and artificially raise
+profits at the same time that they are already producing fossil
+fuels in record amounts. Talk about trust and honor. We have
+always known that further propping up the Big Oil industry is
+not in the best interest of the American people. Now it is
+simply becoming irrefutable.
+I look forward to hearing more from BOEM's efforts to
+address the climate impacts of offshore oil and gas drilling,
+and how the agency is working to mitigate risks to communities
+most impacted by offshore fossil fuel development.
+BSEE was formed in the aftermath of the Deepwater Horizon
+tragedy, and is charged with ensuring that offshore energy
+industries operate safely and responsibly. While we all may
+have different views on the future of the oil and gas industry,
+it is essential that current operations are conducted as safely
+as possible to minimize risk to workers and neighbors. The
+safety of our communities must be prioritized, especially the
+Black, Brown, Indigenous, and low-income communities that are
+disproportionately burdened with pollution.
+Last, but certainly not least, the Office of Natural
+Resources, Revenue or ONRR, is responsible for collecting and
+distributing energy and mineral resources revenue. ONRR manages
+one of the largest, non-tax revenues in the Federal Government.
+It distributes funds to states, tribes, and important Federal
+programs like the Land and Water Conservation Fund and National
+Historic Preservation Fund.
+Over the years, the Government Accountability Office and
+Office of the Inspector General have highlighted risks with
+ONRR and the agency's ability to ensure Americans are receiving
+everything they are due, and the agency is working towards
+implementing the recommendations from these non-partisan
+entities.
+For those across the aisle concerned with ONRR's processes,
+I will remind my colleagues that one side of this debate, a
+Federal agency works to ensure a fair return for the American
+people, and the other side, the extractive industries, have
+profit in mind, do not mind polluting, and have recently been
+charged with colluding with OPEC.
+Thank you, and I yield back.
+Mr. Stauber. I thank Representative Kamlager-Dove for her
+opening statement. We will now move to introduce our witnesses.
+Let me remind the witnesses that under Committee Rules,
+they must limit their oral statements to 5 minutes, but their
+entire statement will appear in the hearing record.
+To begin your testimony, please press the ``talk'' button
+on the microphone.
+We use timing lights. When you begin, the light will turn
+green. When you have 1 minute remaining, the light will turn
+yellow. And at the end of the 5 minutes, the light will turn
+red, and I will ask you to please complete your statement at
+that time.
+I will also allow all witnesses to testify before Member
+questioning.
+Our first witness is Ms. Liz Klein. She is the Director of
+the Bureau of Ocean Energy Management in the Department of the
+Interior, and she is stationed right here in Washington, DC.
+Ms. Klein, you are now recognized for 5 minutes.
+STATEMENT OF LIZ KLEIN, DIRECTOR, BUREAU OF OCEAN
+ENERGY MANAGEMENT, WASHINGTON, DC
+Ms. Klein. Thank you, Chairman Stauber, Ranking Member
+Kamlager-Dove, and members of the Subcommittee. I am pleased to
+appear before you today to discuss the mission and proposed
+budget of the Bureau of Ocean Energy Management, or BOEM. My
+name is Liz Klein, and I am the Director of BOEM at the
+Department of the Interior.
+BOEM is taking a leading role in transitioning the United
+States to a clean energy future, one that will advance
+renewable energy, create good-paying jobs, and ensure economic
+opportunities are accessible to all communities while managing
+the development of oil and gas resources on the Outer
+Continental Shelf, or OCS, in an environmentally and
+economically responsible manner.
+The Fiscal Year 2025 budget proposal includes $52 million
+for BOEM's Renewable Energy Program to further advance the
+development of renewable energy projects in Federal waters.
+The Biden-Harris administration has set ambitious goals to
+harness the significant offshore wind resources in the United
+States and combat the existential threat of climate change,
+including the goals of deploying 30 gigawatts of offshore wind
+energy capacity by 2030 and 15 gigawatts of floating offshore
+wind energy capacity by 2035. BOEM is making considerable
+progress towards achieving those objectives. We are taking a
+thoughtful, all-of-government approach on issues like efficient
+permitting and tribal engagement to build a robust offshore
+wind industry that benefits communities and co-exists with
+other ocean uses.
+Our efforts are working. Under this Administration, BOEM
+has approved eight commercial offshore wind projects, up from
+zero when President Biden took office. These projects have the
+potential to generate over 10 gigawatts of clean energy, enough
+to power nearly 4 million homes.
+Additional projects are undergoing review and benefiting
+from the hard work this Administration has done to streamline
+reviews and maximize interagency collaboration. Two projects,
+Vineyard Wind and South Fork, are already in operation and
+sending power to the grid. A new construction season is
+underway, and will continue through this summer.
+This Administration is also supporting additional future
+projects through a steady pipeline of lease sales. Since
+January 2021, BOEM has held four offshore wind lease auctions:
+one offshore New York/New Jersey, one offshore the Carolinas,
+and the first-ever sales offshore California and in the Gulf of
+Mexico. Together these auctions generated over $5 billion in
+high bids.
+Looking towards the future, last month Secretary Haaland
+announced a new 5-year offshore wind lease schedule, which
+includes up to 12 potential offshore wind energy lease sales
+through 2029. We anticipate holding lease sales offshore the
+central Atlantic, Oregon, in the Gulf of Maine, and in the Gulf
+of Mexico later this year, and the schedule outlines our
+priority focus areas in the years to come.
+To continue this momentum, the offshore wind energy
+industry will also need a well-trained workforce and a diverse,
+comprehensive supply chain throughout the various stages of
+facility planning, construction, and operation. BOEM is doing
+our part to support these efforts.
+Thanks to strong state and industry partnerships, multiple
+domestic supply chain projects are already underway, including
+a first-of-its-kind wind energy port in New Jersey, the first
+sub-sea cable manufacturing facility in South Carolina, and a
+Jones Act-compliant offshore wind installation vessel being
+constructed in Texas that is using more than 14,000 tons of
+domestic steel sourced mostly from Alabama, West Virginia, and
+North Carolina.
+The Fiscal Year 2025 budget also includes $67 million for
+BOEM's conventional energy program. As conventional energy
+sources continue to play an important role in our economy, the
+OCS Lands Act requires BOEM to prepare an oil and gas leasing
+program that includes a proposed 5-year schedule of oil and gas
+lease sales.
+In December 2023, Secretary Haaland approved the final
+2024-2029 National OCS Oil and Gas Leasing Program. The program
+schedules three oil and gas lease sales in the Gulf of Mexico
+Program Area, one each in 2025, 2027 and 2029. The proposed
+schedule will meet national energy needs for the next 5 years
+and balance the potential for environmental damage, the
+discovery of oil and gas, adverse impacts on the coastal zone,
+and the transition to cleaner energy sources.
+As of May 1, 2024, BOEM is managing 2,410 active oil and
+gas leases on over 13 million acres of the OCS. Approximately
+78 percent of these leases are not yet in production.
+Thank you once again for the opportunity to testify. BOEM's
+proposed Fiscal Year 2025 budget reflects the Administration's
+continued commitment to ensuring a clean and low-cost energy
+future, one that is sustainable and beneficial to all
+Americans. Our work has the potential to shape future
+generations for the better. My team and I look forward to
+working with the Subcommittee on these important issues moving
+forward, and I would be happy to answer any questions you may
+have.
+
+Prepared Statement of Elizabeth Klein, Director, Bureau of Ocean Energy
+Management, U.S. Department of the Interior
+Chairman Stauber, Ranking Member Ocasio-Cortez and members of the
+Subcommittee, I am pleased to appear before you today to discuss the
+mission and proposed budget of the Bureau of Ocean Energy Management
+(BOEM, Bureau). My name is Liz Klein, and I am the Director of BOEM at
+the Department of the Interior (Department).
+Introduction
+BOEM is taking a leading role in transitioning the U.S. to a clean
+energy future--one that will advance renewable energy, create good-
+paying jobs, and ensure economic opportunities are accessible to all
+communities, including underserved communities--while managing the
+development of oil and gas resources on the Outer Continental Shelf
+(OCS) in an environmentally and economically responsible manner.
+BOEM is working with Tribal Nations, other Federal agencies, state
+and local governments, potentially impacted communities, ocean users,
+and other key stakeholders to ensure that offshore energy development
+is done responsibly and informed by the best available science and
+Indigenous knowledge. These partnerships are invaluable assets in our
+mission to create a cleaner, more sustainable energy future for our
+nation.
+FY 2025 Budget Request
+The FY 2025 President's Budget requests $242 million in total
+budget authority ($183 million in net current discretionary
+appropriations and $59 million in offsetting collections) to support
+the Bureau's commitment to overseeing the nation's offshore energy,
+mineral, and geological resources through proper environmental and
+economic stewardship.
+BOEM's FY 2025 budget request advances the Administration's
+priorities in the following areas:
+Facilitating the transition to a clean energy economy;
+Supporting underserved and disproportionately affected
+communities; and
+Strengthening Tribal sovereignty and self-determination.
+These strategic investments support the American people and aim to
+establish a foundation for sustained growth and prosperity for future
+generations.
+Facilitating the Transition to a Clean Energy Economy
+The FY 2025 Budget includes $52 million for BOEM's Renewable Energy
+Program to further advance the development of renewable energy projects
+in Federal waters.
+The Biden-Harris Administration has set ambitious goals to harness
+the significant offshore wind resources in the U.S. and combat the
+existential threat of climate change: the deployment of 30 gigawatts of
+offshore wind energy capacity by 2030 and 15 gigawatts of floating
+offshore wind energy capacity by 2035. BOEM is making considerable
+progress towards achieving these objectives.
+Throughout the offshore wind planning process, BOEM works with
+Tribes, other government agencies, ocean users, academia, and
+stakeholders to identify areas on the U.S. OCS that appear most
+suitable for commercial offshore wind development, while having the
+fewest apparent environmental and user conflicts.
+We are taking a thoughtful, all-of-government approach on issues
+like efficient permitting and Tribal engagement to build a robust
+offshore wind industry that benefits communities and co-exists with
+other ocean uses. This includes working collaboratively with our
+government partners and others to ensure that any future offshore
+energy development is done safely and responsibly and relies on the
+best available science and Indigenous knowledge. For example, BOEM is
+collaborating with NOAA's National Centers for Coastal Ocean Science to
+engage our vast, diverse set of stakeholders and employ a comprehensive
+spatial model that analyzes entire marine ecosystems to identify the
+most suitable areas for wind energy development.
+The Department recently announced that BOEM and the Bureau of
+Safety and Environmental Enforcement (BSEE) have finalized updated
+regulations for renewable energy development on the OCS (Renewable
+Energy Modernization Rule). The final rule will promote offshore wind
+deployment while reducing costs for developers by increasing certainty,
+modernizing regulations, streamlining overly complex processes and
+removing unnecessary ones, clarifying ambiguous regulatory provisions,
+and enhancing compliance requirements.
+BOEM has done extensive work to improve our processes for reviewing
+offshore wind projects. In order to increase transparency and
+consistency, we released guidance in August 2023 to outline BOEM's
+criteria for when to initiate the environmental review of offshore wind
+project plans. The guidance establishes a pre-application process to
+improve engagement with cooperating agencies and federally recognized
+Tribes. This guidance was developed with input from our government
+partners, the regulated community, and interested stakeholders.
+Our efforts are working. Under this Administration, the Bureau has
+approved eight commercial offshore wind projects--up from zero when
+President Biden took office. These projects have the potential to
+generate over 10 GW of clean energy, enough to power nearly 4 million
+homes. Additional projects are undergoing review and benefiting from
+the hard work this Administration has done to streamline reviews and
+maximize interagency collaboration; we currently have five more project
+plans under environmental review, and we expect additional plans in the
+coming year.
+Two projects, Vineyard Wind and South Fork, are already in
+operation and sending power to the grid. A new construction season is
+underway and will continue through the summer, during which more
+offshore wind projects will come online.
+This Administration is also supporting additional future projects
+through a steady pipeline of lease sales. Since January 2021, BOEM has
+held four offshore wind lease auctions: a record-breaking lease sale
+offshore New York--New Jersey, offshore the Carolinas, and the first-
+ever sales offshore California and in the Gulf of Mexico. Together,
+these auctions generated over $5 billion in high bids.
+Looking towards the future, last month Secretary Haaland announced
+a new five-year offshore wind lease schedule, which includes up to 12
+potential offshore wind energy lease sales through 2029. We anticipate
+holding lease sales offshore the Central Atlantic, Oregon, and in the
+Gulf of Maine and the Gulf of Mexico later this year, and the schedule
+outlines our priority focus areas in the years to come.
+In response to the rapid growth in demand for offshore wind along
+the Atlantic coast and the associated need to bring additional focus
+and presence to BOEM's work on this priority issue, BOEM proposes to
+establish an Atlantic Regional Office by realigning its existing
+Atlantic-related energy and minerals functions and reassigning staff
+from headquarters and other BOEM regional offices. Creation of the
+Office will address the increase in requests for engagement with local
+communities along the Atlantic by providing additional opportunities
+for access to and collaboration with BOEM. Supporting Administration
+renewable energy goals requires dedicated, regionally focused
+management and staff that can develop integrated strategies for dealing
+with issues throughout the Atlantic region, build lasting relationships
+with regional partners, and provide senior-level access to States,
+Tribes, communities, and stakeholders.
+To continue this momentum, the offshore wind energy industry will
+also need a well-trained workforce and a diverse, comprehensive supply
+chain throughout the various stages of facility planning, construction,
+and operation.
+BOEM is doing our part in this effort and has taken steps to
+encourage union-built projects and support the development of a
+domestic supply chain. BOEM is finding opportunities to incentivize the
+domestic sourcing of major components, such as blades, turbines, and
+foundations; develop a highly skilled and well-trained domestic
+workforce; and develop lease stipulations that strongly encourage
+Project Labor Agreements (PLAs) for project construction. PLAs help
+ensure a safe and well-trained workforce for the construction and
+operations of offshore facilities.
+The Carolina Long Bay, California, and Gulf of Mexico lease sales
+included a 20 percent credit for bidders that agreed to contribute to
+programs or initiatives that support offshore wind workforce training
+programs or development of a U.S. offshore wind domestic supply chain.
+These bidding credits generated approximately $160 million in future
+investments for these critical programs and initiatives.
+Thanks to strong state and industry partnerships, multiple domestic
+supply chain projects are already underway, including: a first-of-its-
+kind wind energy port in New Jersey; the first subsea cable
+manufacturing facility in South Carolina; and a Jones Act-compliant
+offshore wind installation vessel being constructed in Texas that is
+using more than 14,000 tons of domestic steel, sourced mostly from
+Alabama, West Virginia, and North Carolina. On September 21, 2023, nine
+East Coast States and four Federal agencies signed the Federal-State
+Memorandum of Agreement on East Coast Offshore Wind Supply Chain
+Collaboration, to strengthen regional collaboration on offshore wind
+supply chain development.
+Combined with state initiatives, these efforts promote investment
+in the domestic supply chain and delivery of benefits and opportunities
+to underserved, disadvantaged, and overburdened communities. These
+efforts will also catalyze the offshore wind industry domestically and
+create certainty for stakeholders, industry, and ocean users alike.
+As a champion of the Biden-Harris Administration's all-of-
+government approach, BOEM will continue to partner with the multiple
+levels of government, Tribal Nations, and governors of U.S. Territories
+to expand responsible offshore wind energy development.
+Conventional Energy
+The FY 2025 Budget also includes $67 million for BOEM's
+Conventional Energy Program. BOEM's obligations include administering
+existing leases, permitting geological and geophysical surveys,
+reviewing exploration and development plans, evaluating resources, and
+developing and implementing a National OCS Oil and Gas Leasing Program.
+In meeting these obligations, BOEM supports energy security,
+environmental protection, and economic development through providing
+fair market value for the American taxpayer, mitigating adverse
+environmental impacts, and maintaining adequate financial assurance by
+leaseholders. As of May 1, 2024, BOEM is managing 2,410 active oil and
+gas leases on over 13 million acres of the OCS. Approximately 78
+percent of these leases are not yet in production.
+As conventional energy sources continue to play an important role
+in our economy, the OCS Lands Act requires BOEM to prepare and
+periodically revise an oil and gas leasing program that includes a
+proposed schedule of oil and gas lease sales for the five-year period
+following approval or reapproval of the program.
+In December 2023, Secretary Haaland approved the final 2024-2029
+National OCS Oil and Gas Leasing Program. The Program schedules three
+oil and gas lease sales in the Gulf of Mexico Program Area; one each in
+2025, 2027, and 2029. The proposed lease sale schedule will meet
+national energy needs for the next five years and balance the potential
+for environmental damage, the discovery of oil and gas, and adverse
+impacts on the coastal zone. The FY 2025 Budget request will ensure the
+continued effective implementation of the 2024-2029 National OCS Oil
+and Gas Leasing Program and BOEM's continued ability to provide
+accurate and accessible geologic and geophysical data in support of
+U.S. offshore energy development, economic security, and environmental
+interests.
+In addition, in April 2024, the Department announced the final Risk
+Management and Financial Assurance for OCS Lease and Grant Obligations
+rule to protect taxpayers from covering costs that should be borne by
+the oil and gas industry when offshore platforms require
+decommissioning. This rule, which updated 20-year-old regulations,
+substantially strengthens financial assurance requirements for the
+offshore oil and gas industry operating on the OCS.
+Resiliency and Restoration
+The FY 2025 Budget includes $15 million to continue advancing
+marine mineral activities that contribute toward the Administration's
+goal of increasing climate change resilience through the application of
+science to make informed decisions, incorporation of nature-based
+solutions and other adaptation strategies, and continued development of
+strong partnerships to ensure our Nation's coasts are sustainably
+managed, protected, and preserved for current and future generations.
+Pursuant to the OCS Lands Act, BOEM is the Federal authority
+overseeing the use of marine minerals across the billions of acres that
+make up the OCS. The Bureau may convey, on a noncompetitive basis, the
+rights to OCS sand and other sediment to Federal, state, and local
+government agencies for use in shore protection, beach and wetlands
+restoration projects, or other construction projects funded or
+authorized by the Federal government.
+BOEM's Marine Minerals Program ensures environmentally responsible
+stewardship and conscientious management of the Nation's OCS solid
+mineral resources to support resilient coasts, natural disaster
+preparedness, climate change adaptation, and critical infrastructure
+development and protection.
+In addition, BOEM recognizes that OCS critical minerals may in the
+future be vital to the advancement of clean energy technology, as well
+as the Nation's security and economy. BOEM continues to gather
+information about critical minerals that may be located on the OCS and
+collect baseline data on the ecological communities and conditions
+associated with potential critical mineral deposits.
+In support of these efforts, BOEM will continue developing and
+enhancing its National Offshore Sand Inventory, Marine Minerals
+Information Management System, and National Offshore Critical Minerals
+Inventory.
+Environmental Program
+The FY 2025 Budget includes $87 million for BOEM's environmental
+program. The program provides a foundation to ensure programmatic
+decision-making is guided by the best available environmental research
+and data to inform the public, stakeholders, diverse ocean users, and
+external decision-makers about the potential impacts of OCS energy and
+mineral activities. This work enables BOEM to identify risks and
+mitigation strategies to assist with conservation and protection of
+environmental and cultural resources.
+For 50 years, the Bureau's Environmental Studies Program (ESP) has
+funded research on the potential environmental impacts of activities
+the Bureau authorizes. Because of the quality, scale, and duration of
+studies performed under its auspices, the ESP is a leading contributor
+to the growing body of scientific knowledge about the Nation's marine
+and coastal environments, leveraging partnerships with academic
+institutions and other Federal agencies to produce top-tier scientific
+work.
+BOEM uses the ESP and other research to evaluate the environmental
+impacts of energy, mineral, and geological development and to develop
+measures to avoid, minimize, mitigate, and monitor those impacts for
+incorporation in leases, plans, and permits. These measures are the
+fabric for regulatory compliance work by BOEM as well as BSEE, and they
+are developed through National Environmental Policy Act documents and
+analyses required under other statutes.
+BOEM's environmental program also hosts the Center for Marine
+Acoustics (CMA), a one-of-its kind center of expertise in government
+focused on ocean noise and impacts to marine life. Launched in 2020,
+the CMA provides expertise and leadership to drive best practices,
+expand research on underwater sound, seek policy improvements, and
+improve messaging related to ocean noise issues.
+Enhancing Tribal Engagement
+BOEM is committed to upholding its Tribal trust responsibilities
+and fostering working relationships based on trust and meaningful
+consultation. BOEM engages with Tribal Nations at all phases of the
+renewable energy leasing process to incorporate Indigenous knowledge
+and Tribal perspectives. This feedback is critical to help inform our
+decisions.
+BOEM wants Tribal communities, ocean users, and stakeholders to
+have the information they need and an equitable and accessible seat at
+the table. BOEM's FY 2025 budget request of $2.6 million supports the
+hiring of additional personnel to enhance and increase BOEM's ability
+to maintain open and transparent communication and increase engagement
+opportunities with Tribal governments and organizations, Alaska Natives
+and Alaska Native Claims Settlement Act Corporations, Native Hawaiian
+Organizations, and other Indigenous communities. BOEM's budget request
+would also support the development of a Center for Tribal Engagement,
+which would provide funding and additional capacity-building to support
+Tribal members in more active participation in consultation,
+coordination, data collection, assessment, and monitoring for renewable
+activities.
+BOEM's approach aims to ensure meaningful involvement through
+trust, respect, and shared responsibility as part of a deliberative
+process for effective collaboration and informed decision-making.
+Conclusion
+Thank you once again for the opportunity to testify. BOEM's
+proposed FY 2025 budget reflects the Administration's continued
+commitment to ensuring a clean and low-cost energy future, one that is
+sustainable and beneficial to all Americans. Our work has the potential
+to shape future generations for the better, and my team and I look
+forward to working with the Subcommittee on these important issues
+moving forward. I would be happy to answer any questions you may have.
+______
+Questions Submitted for the Record to Ms. Liz Klein, Director, Bureau
+of Ocean Energy Management, U.S. Department of the Interior
+Ms. Klein did not submit responses to the Committee by the appropriate
+deadline for inclusion in the printed record.
+Questions Submitted by Representative Westerman
+Question 1. The Infrastructure Investment and Jobs Act was signed
+into law (P.L. 117-58) on November 15, 2021. Section 340307 amends the
+Outer Continental Shelf Lands Act to authorize the Secretary of the
+Interior to grant a lease, easement, or right-of-way on the Outer
+Continental Shelf for activities that ``provide for, support, or are
+directly related to the injection of a carbon dioxide stream into sub-
+seabed geologic formations for the purpose of long-term carbon
+sequestration.'' The Act requires the Bureau of Safety and
+Environmental Enforcement jointly with the Bureau of Ocean Energy
+Management to promulgate regulations within one year of the law's
+enactment. Given the evolving landscape of carbon capture and
+sequestration (CCS) and its importance for carbon management, enhanced
+oil recovery, and other evolving uses; I'd like to understand BOEM's
+current stance and plans regarding CCS on the Outer Continental Shelf
+(OCS).
+1a) Can you provide an update on where BOEM and BSEE are in
+drafting and publishing the necessary regulations for CCS?
+Specifically, when can we expect these proposed regulations to be
+available for public comment?
+1b) Will companies holding existing OCS oil and gas leases be
+permitted to convert these leases into CCS leases, or will they need to
+acquire new leases specifically for CCS activities? If conversion is
+not allowed, what is the rationale behind this decision?
+1c) Can companies currently seek new leases specifically for CCS
+under 43 USC 1337(p)? If so, what is the current process for obtaining
+such a lease? If not, is it because BOEM is awaiting the finalization
+of the new regulations?
+West Coast Decommissioning/Chumash Sanctuary
+Question 2. On behalf of a broad community consortium, the Northern
+Chumash Tribal Council submitted their sanctuary nomination in July
+2015. NOAA's Office of National Marine Sanctuaries issued a Notice of
+Intent to begin the designation process for the proposed sanctuary in
+November 2021.
+Now that NOAA has formally proposed the Chumash National Marine
+Sanctuary, it doesn't allow for an exception for decommissioning. BOEM
+and BSEE are currently in the process of working towards the
+decommissioning of the platforms within the proposed sanctuary. If the
+proposed sanctuary is finalized without a decommissioning exception,
+how will that impact BOEM and BSEE's mission to have these platforms
+decommissioned?
+Financial Assurance
+Question 3. The BOEM Financial Assurance Rule is now finalized.
+BOEM has discretion under that rule on when and whether to call on any
+bonds granted in its favor.
+1a) Does BOEM intend to call on those bonds in all instances when a
+current lessee/owner fails to perform (e.g., even where there are
+predecessors)? If not, why not?
+1b) Will BOEM make the proceeds of those bonds available to
+predecessors who are called upon to perform? If not, why not?
+Question 4. During his administration, President Obama designated
+the Bears Ears National Monument in December 2016, recklessly
+restricting 1.35 million acres, and expanded the Hawaiian Marine
+National Monument, a 600,000 square acre designation, in the waning
+months of his term in August 2016, making it the largest protected area
+on Earth at the time.
+4a) As we thankfully approach the end of President Biden's term,
+what funding in the BOEM budget is allocated for preparing reviews;
+analyses, or required documents to withdraw lands and waters under
+OCSLA, the Antiquities Act, or other statutes?
+4b) Have you participated in, or are you aware of any plans within
+the Department of the Interior to carry out such withdrawals in the
+near future? If so, under which program would these actions be carried
+out, and which line item from FY24 or FY25 funding would be utilized to
+prepare for such actions?
+______
+Mr. Stauber. Thank you, Director Klein. Our next witness is
+Mr. Kevin Sligh. He is the Director of the Bureau of Safety and
+Environmental Enforcement in the Department of the Interior,
+and he is stationed right here in Washington, DC.
+Mr. Sligh, you are now recognized for 5 minutes.
+STATEMENT OF KEVIN SLIGH, DIRECTOR, BUREAU OF SAFETY
+AND ENVIRONMENTAL ENFORCEMENT, WASHINGTON, DC
+Mr. Sligh. Good morning, all. Chairman Stauber, Acting
+Ranking Member Kamlager-Dove, and members of the Subcommittee,
+thank you for the opportunity to appear today to discuss the
+President's Fiscal Year 2025 budget request for the Bureau of
+Safety and Environmental Enforcement, or BSEE for short. I am
+Kevin Sligh, the Director of BSEE, and it is my distinct honor
+to be with you here today.
+BSEE's mission is to promote safety, protect the
+environment, and conserve offshore resources as we regulate and
+monitor all offshore energy operations, ensuring safe and
+responsible energy development from exploration through the
+facility, installation, production, and ultimately
+decommissioning on the Outer Continental shelf, or OCS.
+BSEE's Fiscal Year 2025 budget request is for $252.6
+million in total funding. This includes $170.4 million in
+current appropriations and $82 million in offsetting
+collections from rental receipts, cost recoveries, and
+inspection fees.
+BSEE's Fiscal Year 2025 OCS priorities include
+strengthening oversight, regulatory and research capabilities,
+building and sustaining a high-performing workforce, enhancing
+BSEE's tribal engagement program, decommissioning orphaned
+infrastructure, facilitating carbon sequestration, and
+supporting the development of a safe, robust, and sustainable
+domestic renewable energy industry.
+BSEE's budget request fully supports the Biden-Harris
+administration's priorities to oversee safe and responsible
+energy production, help address the climate crisis, and deploy
+30 gigawatts of offshore wind by 2030 and 15 gigawatts of
+floating wind by 2035. BSEE is requesting an increase in
+funding to help create good-paying jobs and restore ecosystems
+by actively addressing the challenges associated with timely
+decommissioning, and with particular focus on orphan wells and
+infrastructure.
+This funding will help to properly plug and abandon orphan
+wells on the OCS and properly decommission associated orphan
+pipelines and structures. Plugging these wells is critical to
+helping reduce pollution risk and eliminate safety hazards.
+These orphan wells create risks and could cause oil spills that
+could occur after weather-related events, and would have
+significant impacts on marine and coastal environments in
+Federal and state waters.
+BSEE will also continue to focus on strengthening our
+decommissioning oversight capabilities to meet end-of-life
+cycle demands. Leaseholders enter a contractual obligation that
+includes decommissioning requirements that must be met to
+protect both the environment and the American taxpayer, and
+BSEE will continue to enforce these obligations. As a result of
+our commitment, BSEE is driving the advancement of safety
+performance in the offshore wind industry.
+The Fiscal Year 2025 budget request would enable BSEE to
+conduct timely and rigorous reviews of industry plans, carry
+out a robust compliance assurance program, and focus on
+renewable energy data analysis.
+While offshore renewable energy represents a relatively new
+area of work for BSEE, we continue to remain focused on
+ensuring oil and gas development and production is safe and
+environmentally sustainable.
+BSEE's request also includes an additional $1.5 million to
+support the management of carbon sequestration on the OCS in
+conjunction with BOEM, and we are currently working with BOEM
+to finalize a proposed rule for carbon sequestration, which we
+expect to publish later this year.
+BSEE is proud to serve the American public, and conducts
+proactive and regular engagement with energy and marine
+minerals stakeholders at the Federal, state, tribal, and local
+agency levels, NGOs, and their national counterparts and the
+public. We aim to expand our government-to-government
+interaction with Tribal Nations. The Fiscal Year 2025 budget
+includes an $800,000 request for BSEE's tribal engagement
+program to ensure timely and meaningful coordination and
+consultation with tribes.
+And as BSEE moves towards the expansion of the offshore
+renewable energy industry while continuing to oversee safe and
+responsible offshore oil and gas production, we consistently
+aim with the future in mind. Updating our processes and framing
+our work with a particular emphasis on preparedness enables
+BSEE to focus on reducing risk to the people and the
+environment, and support responsible and efficient energy
+production.
+If I may, I would like to take this opportunity to
+highlight the dedication of our BSEE workforce as we embark on
+preparing for the future of offshore energy development and
+production for the American public. BSEE's 2023-2026 strategic
+plan has four goals driving our mission: people, protection,
+reliability, and sustainability. Without the first goal,
+people, we will never be able to accomplish the other three.
+I want to express my sincere appreciation for your
+continued support of BSEE's workforce and our mission to
+promote safe and environmentally sustainable offshore energy
+operations. Congressional support of our budget would allow
+BSEE to build on the advancements we have made, and to expand
+our capabilities to provide even more effective off-site OCS
+operations.
+Thank you, Chairman Stauber and Acting Ranking Member
+Kamlager-Dove, for inviting me here today. I will be happy to
+answer any questions that the Subcommittee may have for me.
+
+Prepared Statement of Kevin Sligh, Director, Bureau of Safety and
+Environmental Enforcement, U.S. Department of the Interior
+Chairman Stauber, Ranking Member Ocasio-Cortez, and Members of the
+Subcommittee, I am pleased to join you today to discuss the President's
+FY 2025 Budget Request for the Bureau of Safety and Environmental
+Enforcement (BSEE, Bureau), a bureau of the Department of the Interior
+(DOI, Department).
+FY 2025 Budget Request
+BSEE's FY 2025 Budget Request is $252.6 million in total funding,
+including $170.4 million in current appropriations and $82.2 million in
+offsetting collections from rental receipts, cost recoveries, and
+inspection fees.
+BSEE's FY 2025 Budget Request fully supports President Biden's
+priority for tackling the climate crisis and increasing renewable
+energy production safely and responsibly, with the goal of deploying 30
+gigawatts (GW) of offshore wind capacity by 2030 and 15 GW of floating
+offshore wind capacity by 2035. The FY 2025 Budget Request supports
+BSEE's continued work in its renewable and conventional energy
+programs, focusing on safe and responsible offshore energy development,
+pushing the industry forward towards a more robust and meaningful
+safety culture, and enhancing regulations to protect environmental,
+cultural, and biological resources on the Outer Continental Shelf
+(OCS). BSEE's FY 2025 Budget Request continues to focus attention on
+priority areas and builds on BSEE's current work that reflects its
+commitment to transparent and data-driven operations. This budget will
+promote safe and environmentally responsible programs, including
+decommissioning orphaned wells and infrastructure, preparing for the
+expansion of offshore wind energy generation, developing a carbon
+sequestration program, and bolstering BSEE's Tribal Liaison Program.
+The FY 2025 Budget Request will enable BSEE to continue
+strengthening oversight, regulatory, and research capabilities on the
+OCS by building and sustaining staff capabilities. BSEE will direct
+resources to the recruitment, training, and support of expert
+engineers, geoscientists, and inspectors; oil spill planning,
+prevention, and response specialists; and employees in other
+disciplines to support the implementation of BSEE's regulatory
+oversight responsibilities and evolving offshore energy landscape. BSEE
+will continue outreach and dialogue with experts from academia,
+industry, nongovernmental organizations, and other governmental
+agencies to enhance the knowledge base of technical personnel related
+to innovative technologies, regulatory gaps, real-time monitoring
+capabilities, and risk-based decision making for safety and
+environmental enforcement.
+The energy resources and activities under BSEE's jurisdiction are
+vast, as the OCS is an important source of energy for the U.S., with
+significant oil and gas production and a growing offshore wind
+industry. The Nation's first eight commercial-scale offshore wind
+projects on the OCS were recently approved, and BSEE is reviewing an
+additional 18 projects over 15 leases.
+From January through October 2023, OCS oil and gas leases offshore
+Alaska, California, and in the Gulf of Mexico produced approximately
+566 million barrels of oil and 628 billion cubic feet of natural gas.
+This production accounted for approximately 15 percent of domestic oil
+production and 2 percent of domestic natural gas produced in the same
+period. Ninety-nine percent of offshore oil and gas production occurred
+in the Gulf of Mexico. Deepwater wells (those in greater than or equal
+to 1,000 feet water depth) accounted for 91 percent of all barrels of
+oil equivalent produced on the OCS.
+Decommissioning
+Shallow water areas of the Gulf of Mexico, first drilled in 1947,
+are undergoing significant well and infrastructure decommissioning that
+BSEE believes will continue to accelerate, leading to an increase in
+regulatory oversight and workload. Similarly, in the Pacific Region,
+eight of the 23 platforms no longer produce oil and gas and are located
+on terminated leases that will not resume production. BSEE expects to
+receive decommissioning applications for these eight platforms and
+associated pipelines and infrastructure in the near term.
+While decommissioning on the OCS is the obligation of the oil and
+gas industry, BSEE must ensure that wells and infrastructure used in
+exploration, development, and production activities undertaken pursuant
+to the Outer Continental Shelf Lands Act (OCSLA) are decommissioned
+properly and in a timely manner to remove unnecessary hazards to
+safety, navigation, and the environment.
+When a company responsible for decommissioning is bankrupt, or
+predecessor companies with a regulatory obligation no longer exist or
+are financially unable to fund their decommissioning obligation, the
+federal government may need to decommission this orphaned
+infrastructure using American taxpayer dollars. The Biden-Harris
+Administration is committed to addressing these orphaned oil and gas
+wells and infrastructure that pose serious safety hazards and cause
+ongoing air, water, and other environmental damage across the country.
+In the last year, BSEE enhanced its enforcement and civil penalty
+policies to address industry's performance and delinquent
+decommissioning obligations on terminated leases and rights-of-way.
+BSEE is evaluating additional enforcement strategies to encourage
+timely decommissioning.
+BSEE will continue to address the immediate and urgent need to
+properly plug and abandon orphaned wells on the OCS and remove orphaned
+pipelines and other infrastructure from the seabed. Requested funding
+would augment forfeited financial assurances the Bureau of Ocean Energy
+Management (BOEM) receives from operators, proceeds from bankruptcy
+proceedings, and potential funds from the federal orphaned wells
+program established by the Bipartisan Infrastructure Law (BIL) to
+address the most immediate and urgent needs to reduce the risk of
+safety incidents and pollution.
+Offshore Wind and Renewable Energy
+In addition to regulating oil and gas operations on the OCS, BSEE
+continues to support the development of a safe, robust, and
+environmentally responsible offshore renewable energy industry in the
+United States. The first two OCS offshore wind projects are now
+generating power, and as the industry rapidly grows, BSEE will continue
+to engage with offshore wind developers to identify and promote best
+practices for ensuring worker safety and environmental protection.
+Engagement with industry, federal partners, including BOEM and the U.S.
+Coast Guard, Tribal Nations, and stakeholders continues to inform the
+development of renewable energy program functions.
+DOI is reviewing its siting and permitting processes on public
+lands and in offshore waters to identify steps that can be taken to
+increase renewable energy production, with the goal of deploying 30 GW
+of offshore wind capacity by 2030 and creating good-paying jobs that
+support working American families. As of November 2023, the Department
+has issued 27 offshore wind commercial leases in the Atlantic, five
+offshore wind commercial leases off the Pacific coast, and one lease in
+the Gulf of Mexico. In 2023, the first two offshore wind projects began
+construction, and on November 29, 2023, South Fork Wind became the
+first OCS wind project to deliver electricity to the grid; on January
+3, 2024, Vineyard Wind became the second. By the end of 2024, we expect
+that construction and installation will commence on four additional
+projects. An additional 18 wind energy projects are currently under
+review. Based on this activity and industry estimates, BSEE anticipates
+receiving over 40,000 engineering reports for review by the end of FY
+2025, including facility design reports, fabrication and installation
+reports, and certified verification agent reports. BSEE's FY 2025
+Budget Request would enable hiring to complete timely and rigorous
+industry plan reviews, establish a robust compliance assurance program,
+and conduct renewable energy research.
+Carbon Sequestration
+In FY 2025, BSEE is requesting $1.5 million to hire additional
+staff to establish a Carbon Sequestration Program authorized under BIL.
+The FY 2025 Budget Request would allow BSEE to actively pursue
+solutions to address the unique challenges presented by sub-seabed CO2
+storage. A multi-disciplinary team funded through the request would
+focus on identifying relevant industry standards and enforcement
+requirements, determining applied research needs and requirements,
+creating baseline risk assessment criteria for carbon storage projects,
+reviewing flow modeling, assessing conservation considerations, and
+instituting performance and safety standards.
+BSEE and BOEM have been developing offshore carbon sequestration
+regulations that are comprehensive and rely on the best available
+science for oversight of carbon sequestration activities on the OCS. We
+are reviewing numerous industry standards and existing regulatory
+frameworks, and engaging with experts, both domestically and
+internationally. BSEE is engaging other federal agencies with
+associated expertise, including the Department of Energy, and
+evaluating the federal government's existing geological sequestration
+programs and frameworks, and mapping the applicability to the OCS
+environment. This ongoing work will facilitate the Department's ability
+to make sure sequestration operations will be safe and environmentally
+sustainable.
+Inspections and Permitting
+Each year BSEE's 120+ inspectors conduct over 20,000 inspections at
+more than 1,750 facilities on the OCS. BSEE's oil and gas inspection
+strategy relies on a tiered approach to ensure the Bureau meets its
+statutory requirements, fulfills regional and national priorities, and
+uses its workforce effectively to inspect each offshore oil and gas
+facility at least once a year. In FY 2025, BSEE will continue to
+execute its Risk-Based Inspection (RBI) Program, which allows for
+targeted inspections of higher-risk operations and facilities. RBIs use
+data that was analyzed in previous years to identify safety and
+environmental concerns and issues.
+BSEE's implementation of its inspection strategy helps the Bureau
+effectively carry out core functions by promoting the use of sufficient
+controls to mitigate risk and support continuous improvement.
+Among the Bureau's priorities are ensuring the public receives fair
+market value for developed resources and that fees and cost recovery
+are fair and reasonable. In coordination with the Office of Natural
+Resources Revenue, BSEE's offshore inspectors ensure that production
+volumes are accurately measured and reported for the assessment of
+royalties owed to the American people. In FY 2025, BSEE is proposing to
+allow the Bureau to charge a per-visit production facility inspection
+fee, as is done for offshore drilling rigs, rather than the current
+once-per-year fee that has been in place since FY 2012, as well as to
+adjust existing inspection fees for inflation. This would allow BSEE to
+recover a greater share of the actual costs incurred in overseeing
+these operations and reduce the direct cost to taxpayers, while
+providing an incentive for operators to improve safety performance and
+reducing the need for follow-up inspections. The Bureau will continue
+to review inspection and other cost recovery fees to determine if
+further adjustments are needed to reduce or eliminate the potential for
+subsidies.
+BSEE is also regularly reviewing permitting processes to support
+timely processing and appropriate consideration of the risks and phases
+of development on the OCS. Conducting robust stakeholder technical and
+procedural workshops along with other engagement efforts is critical to
+the success of BSEE's modernization and reform efforts. BSEE will
+continue to hold stakeholder engagement meetings, including meetings
+with industry association groups, to provide updates on permitting
+procedures and BSEE's ``e-permitting'' modules.
+Cybersecurity
+In FY 2025, BSEE will actively work to establish a BSEE offshore
+operational technology (OT) cybersecurity safety threat detection and
+mitigation program. BSEE is closely collaborating with federal
+partners, including the Department of Homeland Security's Cybersecurity
+and Infrastructure Security Agency, the U.S. Coast Guard, and the
+Department of Energy to ensure comprehensive coordination and address
+cybersecurity concerns on the OCS.
+Relationships with federal partners, including the intelligence
+community, and industry decision makers are key to ensuring that, as
+the program develops, the Bureau is equipped to inform and address OT
+cybersecurity risks on the OCS. BSEE will continue to explore program
+enhancements and engagement strategies to improve and integrate a
+cybersecurity posture within all OCS activities.
+To assist with the federal government's efforts to address OT
+cybersecurity risk on the OCS, BSEE has initiated efforts to develop a
+cybersecurity risk profile for offshore energy operators. BSEE began by
+determining the vulnerabilities within OT systems utilized by a cross-
+section of these operators. Field assessments will identify strengths
+and weaknesses within client OT networks and provide BSEE and its
+federal partners with a snapshot of offshore operator OT
+vulnerabilities. This, in turn, will contribute to the development of
+an overall cybersecurity risk profile.
+Strengthening our Regulatory Program
+BSEE continues to perform its statutory responsibilities by
+developing and conducting a robust regulatory program. In recent years,
+BSEE has published the High-Pressure High-Temperature and Subpart B
+Revisions proposed rule, the Blowout Preventer Systems and Well Control
+Revisions final rule, the joint BOEM/BSEE Renewable Energy
+Modernization final rule, and the Decommissioning Activities and
+Obligations final rule. BSEE is currently working on several other
+regulatory priorities including the Oil-Spill Response Requirements for
+Facilities Located Seaward of the Coast Line proposed rule, the
+Revisions to Subpart J--Pipelines and Pipeline Rights-of-Way proposed
+rule, the BSEE Renewable Energy Safety proposed rule, and the joint
+BSEE/BOEM Carbon Sequestration proposed rule.
+Strengthening our Commitment to Safety and the Environment
+BSEE works closely with operators as they shift from designing to
+implementing their Safety and Environmental Management Systems (SEMS)
+processes that promote a performance-based safety approach and culture.
+Through this approach, BSEE leverages the capabilities and expertise of
+government, industry, and independent third parties to continually
+improve safety and environmental outcomes.
+BSEE's SafeOCS Program collects and analyzes near-miss, safety, and
+failure data for well-control equipment and other safety and pollution
+prevention equipment. The goal of the program is to identify proactive
+steps to mitigate risks and ensure offshore operations are safe,
+reliable, and environmentally responsible. BSEE will continue to obtain
+statistical advice on the evaluation of daily notifications of safety
+events through its partnership with the Department of Transportation's
+Bureau of Transportation Statistics.
+The BSEE!Safe program uses text messaging to send offshore workers
+links to published Safety Alerts, which inform the offshore oil and gas
+industry of the circumstances surrounding an incident or near miss and
+provide recommendations to help prevent the recurrence of such
+incidents. BSEE!Safe is part of the Bureau's strategy to supplement
+regulation with innovative programs, expanding the available toolbox of
+methods for driving safety performance and environmental stewardship
+improvements, and is the first instance in which a safety regulator has
+communicated directly with the industry workforce to ensure the
+distribution of critical safety information. As of April 2024, more
+than 7,900 subscribers have signed up for the service, and BSEE is
+expanding the service to include safety information for offshore wind
+energy workers as well.
+BSEE is also prioritizing the Safety Performance Enhanced by
+Analytical Review (SPEAR) Program, with the goal of enabling innovative
+data analytic tools and strategic Bureau-wide processes. SPEAR enables
+BSEE subject matter experts to thoroughly analyze data to identify
+current and emerging safety and environmental hazards from OCS energy
+operations. The SPEAR Program: (1) explores the potential use of
+advanced data analytic tools to support the Bureau's processes; and (2)
+establishes a world-class approach to analyzing and communicating data
+and information throughout the Bureau and to external stakeholders as
+needs arise. In FY 2025, BSEE will develop new use cases to evaluate
+and develop data for other useful applications.
+BSEE provides technical training to Bureau field personnel,
+inspectors, scientists, and engineers to ensure staff have the tools
+and knowledge needed to accomplish the Bureau's mission safely and
+effectively. BSEE's training programs provide staff with the most up-
+to-date, relevant training available that addresses the technological
+advances the Bureau's workforce will encounter in the field. The
+Bureau's National Offshore Training Center (NOTC) provides cutting-
+edge, comprehensive, multi-tiered training and professional development
+opportunities for BSEE's inspectors, engineers, and scientists to
+ensure safe and environmentally-sound offshore energy operations. In FY
+2025, BSEE plans to continue implementing a multi-phased approach to
+assess the current program, identify training gaps, develop and
+implement curriculum, develop and implement an accreditation plan, and
+perform annual curriculum reviews. Training enhancement will include
+incorporating training on renewable energy topics into the NOTC
+curriculum. These investments will help demonstrate the Bureau's
+commitment to building a ``best in class'' technical training program
+and will allow BSEE to better capture and track the costs associated
+with the program.
+Collaboration
+The Bureau values its close cooperative relationships with federal
+and state partners with jurisdictional interest on the OCS and is
+working to strengthen resources through intra- and interagency
+cooperation. In FY 2024 and FY 2025, the Bureau is planning to complete
+several state-level agreements regarding oil spill preparedness
+coordination. Also, BSEE has been involved in discussions on continuous
+safety improvement and safety culture policy with federal partners,
+such as the Pipeline and Hazardous Materials Safety Administration and
+the Nuclear Regulatory Commission. BSEE continues to engage in
+opportunities to leverage resources and share information across U.S.
+government agencies.
+BSEE will continue to enhance international collaboration in FY
+2025. BSEE engages regularly with international counterparts to promote
+the safe and environmentally responsible development of offshore energy
+resources globally. BSEE has established itself as a leader in
+international cooperation, actively participating in multilateral
+forums such as the International Regulators' Forum, the Arctic Offshore
+Regulators Forum, and the International Offshore Petroleum Environment
+Regulators group, and Arctic Council bodies such as the Emergency
+Prevention, Preparedness and Response Working Group. BSEE's
+preparedness activities at the international scale span work in both
+temperate and Arctic waters. The Bureau uses its international
+leadership role to better understand the viabilities of traditional oil
+spill cleanup strategies in different environments.
+Oil Spill Prevention
+BSEE continues to implement a comprehensive, cost-effective, long-
+term research program dedicated to improving response countermeasures
+for oil spills offshore, including in Arctic environments. The research
+program is based upon a strategic plan that recognizes the evolving
+risks in offshore exploration and production and BSEE's mission of
+protecting the environment. BSEE focuses its oil spill response
+research on advancing state-of-the art methods and technologies for oil
+spill detection.
+A crucial and unique asset that aids BSEE's ability to conduct this
+work is Ohmsett, the National Oil Spill Response Research and Renewable
+Energy Test Facility in Leonardo, New Jersey. Ohmsett hosts a large,
+outdoor, aboveground concrete test tank that is 667 feet long, 65 feet
+wide, and filled to a depth of eight feet with 2.6 million gallons of
+saltwater. Ohmsett allows government and private industry oil spill
+response personnel to hone techniques and test full-scale equipment in
+realistic sea environments. Ohmsett plays an important role in
+protecting the Nation's oceans by supporting development of the most
+effective response technologies as well as preparing responders by
+creating the most realistic training environment available.
+Tribal Coordination
+BSEE regulates activities that may have direct or indirect impacts
+to the integrity of the shoreline and its ecology, offshore habitat,
+marine mammals, other critical species, natural view-scape, and
+submerged historical or archaeological sites. BSEE strives to ensure
+that its processes surrounding activities that may have effects on
+Indigenous communities are communicated openly, transparently, and
+thoroughly. BSEE hosts consultations with Tribal Nations for three
+primary reasons: to honor our nation-to-nation relationship; to hear
+directly from Tribal leaders as we address economic, environmental
+justice, and climate crises, all of which disproportionately impact
+Native Americans and Alaska Natives; and to commit ourselves to a
+process that addresses Tribal needs and ensures we respect and
+understand the input we receive.
+To support this commitment to Tribal coordination and consultation,
+BSEE is requesting $800,000 to strengthen its existing National Tribal
+Engagement Program to include additional dedicated, full-time Tribal
+liaison positions. With this additional funding, the National Tribal
+Engagement Program will be better able to provide meaningful and timely
+coordination and consultation with Tribes.
+Conclusion
+I would like to take this opportunity to express our appreciation
+for the continued support for safe and environmentally sustainable
+offshore energy development and production. The FY 2025 Budget Request
+will support BSEE's efforts to ensure responsible offshore energy and
+mineral resource development, build on BSEE's advancements, and expand
+its ability to provide effective oversight of the OCS through the
+initiatives outlined above.
+I thank the Chairman and Ranking Member for inviting me here today
+and would be happy to answer the Subcommittee's questions.
+______
+Questions Submitted for the Record to Mr. Kevin Sligh, Director, Bureau
+of Safety and Environmental Enforcement, U.S. Department of the
+Interior
+Mr. Sligh did not submit responses to the Committee by the appropriate
+deadline for inclusion in the printed record.
+Questions Submitted by Representative Westerman
+Question 1. The Infrastructure Investment and Jobs Act was signed
+into law (P.L. 117-58) on November 15, 2021. Section 340307 amends the
+Outer Continental Shelf Lands Act to authorize the Secretary of the
+Interior to grant a lease, easement, or right-of-way on the Outer
+Continental Shelf for activities that ``provide for, support, or are
+directly related to the injection of a carbon dioxide stream into sub-
+seabed geologic formations for the purpose of long-term carbon
+sequestration.'' The Act requires the Bureau of Safety and
+Environmental Enforcement jointly with the Bureau of Ocean Energy
+Management to promulgate regulations within one year of the law's
+enactment. Given the evolving landscape of carbon capture and
+sequestration (CCS) and its importance for carbon management, enhanced
+oil recovery, and other evolving uses; I'd like to understand BOEM's
+current stance and plans regarding CCS on the Outer Continental Shelf
+(OCS).
+1a) Can you provide an update on where BOEM and BSEE are in
+drafting and publishing the necessary regulations for CCS?
+Specifically, when can we expect these proposed regulations to be
+available for public comment?
+1b) Is there any provision that allows companies with existing OCS
+oil and gas leases to perform CCS activities before the new regulations
+are finalized and published?
+West Coast Decommissioning/Chumash Sanctuary
+Question 2. On behalf of a broad community consortium, the Northern
+Chumash Tribal Council submitted their sanctuary nomination in July
+2015. NOAA's Office of National Marine Sanctuaries issued a Notice of
+Intent to begin the designation process for the proposed sanctuary in
+November 2021.
+Now that NOAA has formally proposed the Chumash National Marine
+Sanctuary, it doesn't allow for an exception for decommissioning. BOEM
+and BSEE are currently in the process of working towards the
+decommissioning of the platforms within the proposed sanctuary. If the
+proposed sanctuary is finalized without a decommissioning exception,
+how will that impact BOEM and BSEE's mission to have these platforms
+decommissioned?
+______
+Mr. Stauber. Thank you, Director Sligh. Our next witness is
+Mr. Howard Cantor. He is the Director of the Office of Natural
+Resources Revenue in the Department of the Interior, and he is
+stationed in Denver, Colorado.
+Mr. Cantor, you are now recognized for 5 minutes. Welcome.
+STATEMENT OF HOWARD CANTOR, DIRECTOR, OFFICE OF
+NATURAL RESOURCES REVENUE, DENVER, COLORADO
+Mr. Cantor. Thank you. Chairman Stauber, Ranking Member
+Kamlager-Dove, and members of the Subcommittee. I am Howard
+Cantor, the Director of the Office of Natural Resources
+Revenue. I am pleased to join you today to discuss the
+President's Fiscal Year 2025 budget request for the Office of
+Natural Resources Revenue, also known as ONRR, an office under
+the Assistant Secretary for Policy Management and Budget within
+the Department of the Interior.
+ONRR collects, accounts for, and verifies natural resource
+and energy revenues due to states, American Indians, Alaska
+Natives, and the U.S. Treasury. In Fiscal Year 2023 alone, ONRR
+disbursed $18.24 billion in revenue from energy production on
+Federal and Indian lands and offshore areas, including $4.72
+billion to 33 states.
+Given the large size of the revenue stream handled and
+dispersed, ONRR strives for transparent and efficient
+operations in collecting every dollar due to ensure that the
+American taxpayer and Indian tribes receive full payment of the
+revenues they are owed for the development of their resources.
+ONRR works to collect every dollar due while maintaining a
+collaborative working relationship with industry.
+Every American benefits from the revenues generated from
+mineral resources, either directly, through payments to
+American Indian tribes and individual Indian mineral owners, or
+indirectly, through payments to the Historic Preservation Fund,
+the Reclamation Fund, the Land and Water Conservation Fund,
+states, and the General Fund of the U.S. Treasury.
+The Fiscal Year 2025 budget for ONRR supports its mission
+to collect, disperse, and verify Federal and Indian energy and
+other natural resources revenues on behalf of all Americans.
+The budget request includes funding for the assumption of
+mineral revenue management responsibilities of the Osage
+Nation. Taking over these responsibilities represents a
+significant effort, due to the unique framework of mineral
+revenue within the Osage Nation.
+The request also includes $7 million to restore audit and
+compliance activities reduced by the Fiscal Year 2024 enacted
+budget, enabling ONRR to perform additional data mining
+activities, compliance reviews, and audits.
+ONRR's Fiscal Year 2025 budget request also demonstrates
+fiscal responsibility, as the requested amount for ongoing
+information technology modernization work is reduced by $10
+million.
+I want to take this opportunity to express our appreciation
+for the continued support for responsible, secure, and accurate
+collection of mineral revenue from Federal and Indian lands and
+Federal waters.
+The Fiscal Year 2025 request will support ONRR's efforts to
+modernize systems, become more efficient, and ensure the
+American taxpayer and Indian tribes receive full payment of the
+revenues that they are owed for the development of their
+resources.
+I thank the Chairman and Ranking Member for inviting me
+here today, and I would happily answer the Subcommittee's
+questions.
+
+Prepared Statement of Howard Cantor, Director, Office of Natural
+Resources Revenue, U.S. Department of the Interior
+Chairman Stauber, Ranking Member Ocasio-Cortez, and Members of the
+Subcommittee, I am pleased to join you today to discuss the President's
+Fiscal Year (FY) 2025 budget request for the Office of Natural
+Resources Revenue (ONRR), an office under the Assistant Secretary for
+Policy Management and Budget within the Department of the Interior
+(Department).
+Background
+For the benefit of all Americans, ONRR collects, accounts for, and
+verifies natural resource and energy revenues due to states, American
+Indians, Alaska Natives, and the U.S. Treasury. In FY 2023 alone, ONRR
+disbursed $18.24 billion in revenue from energy production on federal
+and Tribal lands and offshore areas, including $4.72 billion to 33
+states. Given the large size of the revenue stream handled and
+disbursed, ONRR strives for transparent and efficient operations,
+collecting every dollar due and ensuring that the American taxpayer and
+Indian Tribes receive full payment of the revenues that they are owed
+for the development of their resources. ONRR maintains a collaborative
+working relationship with industry through reporter training, providing
+speakers for industry-led conferences, and informal interactions in an
+effort to gain compliance with the laws and regulations before any
+formal actions need to be taken.
+Every American benefits from the revenues generated from mineral
+resources, either directly through payments to American Indian Tribes
+and Individual Indian Mineral Owners or indirectly through payments to
+the Historic Preservation Fund, the Reclamation Fund, states, and the
+General Fund of the U.S. Treasury. ONRR also contributes to the Land
+and Water Conservation Fund (LWCF), with appropriations made permanent
+in August 2020 as part of the Great American Outdoors Act (GAOA), and
+tracks and reports the energy funds available for calculation of the
+amounts attributable to the National Parks and Public Land Legacy
+Restoration Fund created under the GAOA.
+The Federal government has collected revenues from mineral
+production on federal onshore lands since 1920, on American Indian
+lands since 1925, and on federal offshore areas since 1953. In 1982,
+the Federal Oil and Gas Royalty Management Act called upon the
+Department to establish a comprehensive, consolidated system for the
+collection, accounting, and disbursement of these revenues. From FY
+1982 through FY 2023, Interior has provided over $371 billion to
+federal, state, and American Indian recipients through this program.
+Approximately 56 percent of all annual collections have gone to the
+General Fund of the U.S. Treasury, 23 percent to special purpose funds,
+16 percent to states, and 5 percent to the American Indian community.
+Fiscal Year (FY) 2025 Request
+The FY 2025 budget request for ONRR is $175,987,000 to support
+ONRR's mission to ``collect, disburse, and verify federal and Indian
+energy and other natural resource revenues on behalf of all Americans''
+through the work of our various program areas:
+Revenue, Reporting, and Compliance Management: These
+activities ensure revenues from federal and American Indian
+leases are efficiently, effectively, and accurately
+collected, accounted for, invested, and disbursed in a
+timely manner. This program's activities also include
+support of the Bureau of Indian Affairs Indian Energy
+Service Center, as well as efforts to ensure timely,
+complete, and accurate reporting while providing reasonable
+assurance of company compliance.
+Audit Management: These activities focus on accurate
+reporting and payment of the nation's federal and American
+Indian mineral revenues. Federal and American Indian audit
+and compliance activities represent a critical part of the
+operational strategy to ensure companies comply with
+applicable laws, regulations, and lease terms. This
+program's activities also include administering cooperative
+agreements with states and American Indian Tribes, tribal
+consultations, and investigating and responding to the
+inquiries of individual Indian mineral interest owners.
+Research, Enforcement, Guidance, and Appeals: These
+activities develop and implement consistent and
+comprehensive compliance planning, as well as market and
+geospatial analysis, valuation guidance and determinations,
+production meter verification, rulemaking, responding to
+appeals of ONRR actions, bankruptcies, litigation support,
+and enforcement.
+The FY 2025 budget request is $8.05 million above the FY 2024
+enacted level attributed to the following:
+$4.1 million and 25 full time equivalent (FTE) for ONRR to
+assume the mineral revenue management responsibilities for
+the Osage Nation.
+$7.0 million to restore Audit and Compliance activities.
+$5.5 million to fund a fixed cost increase for FY 2024 and
+$1.5 million for FY 2025 fixed cost increases.
+A reduction of $10 million in ONRR's ongoing information
+technology modernization efforts.
+Osage Trust Accounting Implementation
+In 2014, ONRR was first tasked with providing minerals revenue
+management functions for the Osage Tribe so that the Department could
+comply with a settlement agreement with the Tribe. However, a court
+delayed, and then the Bureau of Indian Affairs (BIA) withdrew a final
+rule intended to shift the Department's Osage minerals revenue
+management responsibilities from BIA to ONRR. BIA published a new
+proposed rule in January 2023 and is working to publish the final rule
+in FY 2024. ONRR requests an additional +$4.1 million and +25 FTE in FY
+2025 as part of a multi-phase and multi-year implementation effort to
+ensure essential collection, disbursement, and compliance functions for
+Osage mineral revenues. ONRR's assumption of the full oil and gas
+revenue and production reporting and verification program on Osage
+lands represents a significant increase in ONRR's workload across its
+mission activities. Once fully implemented, ONRR expects that taking on
+Osage properties will increase its Indian-related workload by
+approximately 50 percent. There are currently 2,900 active leases and
+14,500 producing wells on Osage lands, which will increase the number
+of Indian leases and wells in ONRR's systems by 46 percent and 62
+percent, respectively. Additionally, ONRR expects to provide guidance
+and training to 230 new production and royalty reporters, a 43 percent
+increase in the number of Indian reporters. The Osage-related workload
+is likely to continue increasing, as an additional 4,760 wells are
+expected to be drilled by 2037 on Osage lands.
+With its current Osage funding, ONRR is performing limited
+compliance activities as permitted by existing regulations. ONRR
+proposes a phased approach to funding and fully carrying out its
+functions for the Osage Tribe once the final rule is effective. The
+additional funds requested in FY 2025 will help ensure ONRR conducts
+essential collection and disbursement activities for Osage mineral
+revenues. In addition to continuing current limited compliance
+activities, this would allow ONRR to perform required functions in FY
+2025.
+Transitioning these activities to ONRR will require a significant
+time investment as ONRR works with Osage stakeholders to shift them to
+ONRR's forms and processes. ONRR's production and royalty forms will be
+completely new to Osage reporters, and ONRR plans to provide reporter
+training sessions to assist them. Even so, ONRR expects it will need to
+respond to questions and investigate and assist in resolving reporting
+errors. Also, BIA's current processes do not involve enforcement, so
+ONRR expects to inform and educate affected payors and lessees about
+ONRR's enforcement processes.
+Audit and Compliance Activities
+Funding reductions enacted in the FY 2024 appropriation are
+impacting ONRR's Audit and Compliance activities. ONRR disbursed over
+$18 billion in FY 2023, so even relatively small percentage reductions
+to collections can equate to large dollar amounts, which can adversely
+impact the financial well-being of tribal members and allottees, as
+well as states' abilities to fund vital programs. Restoration of the
+$7.0M reduction ONRR received in FY 2024 would enable ONRR to perform
+additional data mining activities, compliance reviews, and audits,
+thereby increasing ONRR's ability to ensure accurate reporting and
+payment of royalties due.
+IT Modernization
+ONRR has made significant progress implementing its IT
+Modernization program and has determined the funding received for these
+efforts can be reduced by $10.0 million beginning in FY 2025 without
+significantly impacting the project schedule. ONRR's IT Modernization
+effort supports EO 14028, Improving the Nation's Cybersecurity, by
+continuing on the path to replace its aging Minerals Revenue Management
+Support System (MRMSS) with modernized systems. This work will ensure
+the stability and security of systems that disbursed over $18 billion
+in FY 2023 and enhance efficiency and mission delivery.
+Baseline Capacity
+The FY 2025 budget includes important investments in programs
+needed to help strengthen America and be more competitive as the world
+continues to change. These investments include funding needed to
+maintain a robust and talented workforce and the must-pay requirements
+needed to continue to fulfill ONRR's mission. The budget includes +$5.5
+million for ONRR, which reflects the incremental amount needed to cover
+the fixed costs associated with mission operations in FY 2024. This
+request, in combination with the FY 2025 fixed cost amounts, will allow
+the program to meet must-pay requirements without impacting program
+activities.
+Conclusion
+I would like to take this opportunity to express our appreciation
+for the continued support for responsible, secure, and accurate
+collection of mineral revenue from federal and Indian lands and federal
+waters. The FY 2025 request will support ONRR's efforts to modernize
+systems, become more transparent, and add capacity to ensure the
+American taxpayer and Indian Tribes receive full payment of the
+revenues they are owed for the development of their resources.
+I thank the Chairman and Ranking Member for inviting me here today,
+and I would be happy to answer the Subcommittee's questions.
+______
+Questions Submitted for the Record to Mr. Howard Cantor, Director,
+Office of Natural Resources Revenue, U.S. Department of the Interior
+Mr. Cantor did not submit responses to the Committee by the appropriate
+deadline for inclusion in the printed record.
+Questions Submitted by Representative Westerman
+Question 1. The Infrastructure Investment and Jobs Act was signed
+into law (P.L. 117-58) on November 15, 2021. Section 340307 amends the
+Outer Continental Shelf Lands Act to authorize the Secretary of the
+Interior to grant a lease, easement, or right-of-way on the Outer
+Continental Shelf for activities that ``provide for, support, or are
+directly related to the injection of a carbon dioxide stream into sub-
+seabed geologic formations for the purpose oflong-term carbon
+sequestration.'' The Act requires the Bureau of Safety and
+Environmental Enforcement jointly with the Bureau of Ocean Energy
+Management to promulgate regulations within one year of the law's
+enactment.
+1a) Does ONRR anticipate revenues and if so how much from CCS
+leasing or how would revenues be calculated in case of conversion
+mechanism?
+______
+Mr. Stauber. Thank you, Mr. Cantor. I thank all the
+witnesses for their testimony. The Chair will now recognize
+Members for 5 minutes of questioning, and I now recognize
+myself for 5 minutes.
+Director Klein, I would like to start by focusing on BOEM's
+implementation and interpretation of the Inflation Reduction
+Act Section 5265, which couples oil and gas leasing to wind
+leasing. You are aware of the 60 million acre requirement,
+correct?
+Ms. Klein. Correct.
+Mr. Stauber. Do you interpret this as Congress wanting you
+to offer robust acreage for oil and gas leasing, or do you see
+it as oil and gas will only get the 60 million acres if the
+wind industry decides so?
+Ms. Klein. Thank you for the question.
+In setting out the schedule of lease sales for oil and gas,
+and the process that we undertake to determine where those
+lease sales should take place, there is an environmental review
+process that takes place, which has been launched. We just put
+out our area identification that notes the place where we are
+focusing our environmental analysis in the Gulf of Mexico. And
+as has been the usual process for the history of the program,
+we provide additional information as we get closer to the lease
+sale stage about which areas will be offered. We are aware of
+the 60 million-acre requirement.
+Mr. Stauber. OK. So, Director Klein, hypothetically, if the
+offshore wind industry came to you and said, ``We have enough
+acreage for offshore wind development, no need to hold a lease
+sale this year,'' would you still hold an offshore wind lease
+sale or an oil and gas lease sale?
+Ms. Klein. Thanks for the question. On the offshore wind
+space, what we have tried to do is set out a schedule of
+offshore wind lease sales to continue the robust development of
+an offshore wind industry here in the United States, so that we
+can transition to cleaner energy sources.
+Mr. Stauber. Well, Director Klein, respectfully, with the
+precedent you have set, not a lot of people here believe you
+are acting in good faith.
+This Administration has neglected its duty to support oil
+and gas leasing, so we are incredibly worried you will continue
+this trend and fail to carry out the measly three lease sales
+that you have put in the current 5-year plan. Based on the
+readings of the Department's plans, it appears that your
+offshore wind schedule has 12 sales scheduled over the next 5
+years, a 400 percent increase in renewables over oil and gas.
+Is that correct?
+Ms. Klein. I don't know that I can do the math that quickly
+in my head, but we have scheduled 12 potential lease sales for
+offshore wind over the next 5 years, reflecting what we believe
+to be the tremendous opportunity for offshore wind.
+Mr. Stauber. Director Klein, it is correct. So, how much of
+the revenue raised from these 12 lease sales will contribute to
+coastal communities, and will a single dollar from these lease
+sales go back to these communities?
+Ms. Klein. In developing this program, we have focused on,
+or I should say, in supporting the development of offshore wind
+in this country, the Biden-Harris administration has put a
+tremendous amount of effort on----
+Mr. Stauber. Director Klein, with all due respect, that is
+not what I asked. I said, ``Will the money go back to these
+coastal communities?''
+Ms. Klein. There is a tremendous amount of economic
+development and opportunity happening in coastal communities
+right now. I cited some of that in my opening testimony.
+Mr. Stauber. No, I am talking about the revenue that will
+be generated. Will that go back to the coastal communities?
+Ms. Klein. Where revenue goes from offshore wind is a
+matter of statutory authority. Right now, there is no statute
+that exists that directs revenues from offshore wind to
+anywhere else but the Treasury.
+Mr. Stauber. And Director, that is what we are getting at.
+There is no mechanism approved by Congress to return these
+revenues to the coastal communities. They won't be compensated
+for this development for offshore wind. Instead, these
+communities will have to pay more to cover their energy costs
+while not receiving conservation funding.
+Do you know how BOEM could fix that? You could support
+offshore oil and gas leasing. By law, your dollars would flow
+back to coastal communities through revenue sharing and
+conservation funding, and Americans across the country would
+see lower energy costs. I think that is a simple fix.
+Director Cantor, how much GOMESA revenue has offshore oil
+and gas contributed in the last 5 years?
+Mr. Cantor. Thank you for the question, Chairman. For
+GOMESA, let's see. I don't have the total for the last 5 years.
+Mr. Stauber. Hundreds of millions?
+Mr. Cantor. Hundreds of millions. Yes, sir.
+Mr. Stauber. And how about LWCF or Historic Preservation
+Fund in the last 5 years?
+Mr. Cantor. The LWCF is capped at $125 million per year.
+Mr. Stauber. OK. And then how much from offshore wind?
+Mr. Cantor. Can you repeat the question, Chairman?
+Mr. Stauber. How much has offshore wind generated for you?
+Mr. Cantor. Over the last 5 years we have had----
+Mr. Stauber. Just for coastal communities. How much has
+come back to coastal communities?
+Mr. Cantor. There has been about $5.7 billion, most of that
+due to a bonus in 2022 for the New York Bight wind sale. But in
+terms of how much goes back to coastal communities, that----
+Mr. Stauber. My time has expired here, but I will say it
+goes back to the Treasury. So, nothing goes back directly to
+the communities from offshore wind at this moment.
+I will now turn it over to Representative Kamlager-Dove for
+5 minutes of questioning. Thank you.
+Ms. Kamlager-Dove. Thank you, Mr. Chair, and I too am
+interested in folks not operating in good faith, and the money,
+and lower energy costs.
+Director Klein, last month the FTC issued a complaint about
+Pioneer Resources, with evidence that their CEO, Scott
+Sheffield, colluded with OPEC to illegally manipulate the
+market to drive up gas prices. The complaint was big news in
+part because it had solid evidence that the high gas prices my
+colleagues on the other side have been talking about were not,
+in fact, the result of insufficient oil production here in the
+United States or Biden's so-called war on American energy, as
+our colleagues across the aisle often claim. Instead, gas
+prices may have been inflated because of illegal manipulation
+of oil markets.
+The amount of money Sheffield squeezed out of working
+families, according to his own estimates, conservatively, was
+between $2.7 and $4 billion in 2023 alone. After Mr. Sheffield
+started manipulating the markets, his compensation went from
+$19 million a year to $67 million a year. That was his big
+reward for gouging the American people.
+The FTC complaint presents evidence that Pioneer was not
+just colluding with Iran, Saudi Arabia, and Russia, but with
+other oil companies in the United States, too. Even more
+evidence of collusion between nine different oil companies in
+the United States, including Pioneer, was detailed in a
+separate class action lawsuit from April of this year.
+Director Klein, does Pioneer Resources have any offshore
+leases?
+Ms. Klein. Thank you for the question. I believe that
+Pioneer does not. They mostly focus on the onshore space.
+Ms. Kamlager-Dove. OK, thank you.
+Ms. Klein. That is my understanding.
+Ms. Kamlager-Dove. Now, Hess Corporation was part of the
+lawsuit, too. Does Hess Corporation have any offshore leases?
+Ms. Klein. I believe that Hess does, yes.
+Ms. Kamlager-Dove. OK. And what about Occidental Petroleum?
+Ms. Klein. I also think they have offshore leases, yes.
+Ms. Kamlager-Dove. Yes. So, if Occidental, Hess, or any
+other oil and gas company with an offshore lease were found
+guilty of colluding with OPEC and engaging in illegal, anti-
+competitive practices, or price fixing, would they still be
+eligible to get a lease in the future?
+Ms. Klein. No. If a company is found guilty of something
+like collusion, we have regulations in place that make them
+ineligible to hold a lease in the future.
+Ms. Kamlager-Dove. OK, thank the Lord. Because I would hope
+that, if a company was using taxpayer lands or waters to scam
+the American people into paying astronomical gas prices so the
+company could pad their profits, increase dividends, and stock
+buybacks, which is exactly what Pioneer did, that BOEM should
+be able to put a stop to it. It should be an easy call to
+disqualify, suspend, or debar them from being able to do any
+further business with the Federal Government, including being
+able to extract more oil and gas from public lands.
+And I would hope that my colleagues from across the aisle
+would join me in this pursuit to ensure that is the case,
+because Committee Democrats are requesting a formal
+investigation into this matter, and I hope we can take this up
+in a bipartisan way.
+BOEM also manages offshore renewable energy development,
+which will play a vital role in curbing the climate crisis.
+And, of course, there are challenges to standing up a new
+industry, but there are also far-reaching benefits.
+Director Klein, can you briefly go over some highlights of
+the job and economic benefits of the offshore wind energy for
+coastal communities and throughout the United States?
+And if you heard anything that you disagree with earlier,
+could you please respond to those issues?
+Ms. Klein. Thank you for the question. I have been in this
+role a little bit over a year, and I have been really
+energized, sorry for the pun, by my travels all around the
+country. I have been visiting and hearing from all sorts of
+communities, workers, folks associated with the growth of
+offshore wind. There are really billions of dollars of
+investments that are flowing all across the country.
+I was able to travel to Portsmouth, Virginia, for instance,
+and celebrated milestones of a project, Offshore Virginia, with
+the Governor, the Lieutenant Governor, and the Attorney
+General.
+I have been to Brownsville, Texas to look at the
+construction of the first Jones Act-compliant offshore wind
+vessel that is, as I mentioned in my opening remarks, sourced
+with steel from the United States, and has a number of American
+workers working hard to launch that boat.
+We celebrated the South Fork project, its first delivery of
+energy to the grid up in Long Island, and heard from union
+workers and folks who are really proud of the work that they
+have done there to support a clean energy future. That project
+has export cable that was manufactured in South Carolina, a
+substation from Texas, so the opportunity for economic growth
+all around the country, it is a long list, and we are really
+excited about it at BOEM.
+Ms. Kamlager-Dove. Thank you.
+Mr. Stauber. Thank you very much. We will now go to
+Representative Graves from Louisiana for 5 minutes.
+Mr. Graves. Thank you. Thank you all for being here.
+Ms. Klein, how long does it take to go from a lease sale to
+actual production in the OCS?
+Ms. Klein. Thank you for the question. The timeline can
+vary.
+Mr. Graves. Just give me a ballpark, please.
+Ms. Klein. It can take anywhere from 5 to 10 years. It
+really depends on the operator, and how swiftly they move to
+production plans.
+Mr. Graves. It generally takes a lot closer to 10 years
+than 5.
+Mr. Cantor, when ONRR releases something saying that GOMESA
+revenue sharing hit the cap ``due to record high oil and gas
+production under this Administration,'' if it takes 10 years to
+go to production, from lease sale to production, is that really
+an honest statement, suggesting to the American people that
+production is at high levels because of this Administration?
+Mr. Cantor. Thank you for the question, Congressman. If the
+timeline is as you have stated, then the timeline is as you
+have stated.
+Mr. Graves. So, the answer would----
+Mr. Cantor. I don't really have a comment on that question.
+Mr. Graves. The answer would be no.
+Ms. Klein, let's say that President Smith comes in next,
+and President Jones comes in after that, and subsequent to this
+Administration. Since you are not doing any lease sales, is it
+going to be their fault that we don't have appropriate supply
+of liquid fuels, of oil and gas?
+Ms. Klein. In setting the three lease sales over the next 5
+years for oil and gas, the Secretary determined that those
+sales would best meet our energy needs. There is obviously
+production continuing right now, record levels of production.
+That will continue----
+Mr. Graves. Ms. Klein, you are not answering my question.
+Is it going to be their fault that we don't have sufficient
+supplies?
+This is the lowest, the lowest lease sale production since
+we have had an OCS program ever, ever, 1/100 of what was leased
+under President Jimmy Carter, 1/360 under what was leased under
+President Ronald Reagan. This is awful. You are completely
+screwing the next administration and the one after from this
+completely failed energy plan.
+Let me ask you a few questions, and any of you in the panel
+are welcome to answer this. When you did the Rice's whale sue-
+and-settle, is that going to result in lower production costs
+or higher production costs in the OCS?
+Ms. Klein. I don't know what you are referring to by sue-
+and-settle, but if you are referring to the voluntary
+measures----
+Mr. Graves. The Rice's whale restrictions, is that going to
+cost more to produce or less to produce?
+Ms. Klein. Currently, there are voluntary measures that we
+have offered to oil and gas.
+Mr. Graves. That is a yes or no. Please don't burn my time.
+It is a yes-or-no question.
+Is it going to cost more to produce or less to produce?
+Ms. Klein. It is not going to have any----
+Mr. Graves. It is not going to cost less. Do you want to
+just say that? That is fine.
+No. 2, financial assurance. The financial assurance rule,
+is that going to result in higher cost to produce or lower cost
+to produce?
+Ms. Klein. We believe----
+Mr. Graves. The additional $9.2 billion in bonding will
+cost more.
+The methane rule, is that going to cost more to produce or
+less to produce?
+
+Mr. Graves. That is going to cost more to produce. I will
+help you all out here.
+The pipeline feed that this Committee proposed, what was
+it, $500 a mile or what, I don't even remember what it was, but
+the pipeline fee for offshore energy products, and it was like
+a fee for below 1,000 feet and above 1,000 feet, or something
+like that. Those additional fees similarly would be passed on
+to consumers, and then higher royalty rates, which means that
+you are paying more to the government to produce.
+All of these things cumulatively cost a higher cost for
+production, and that is all passed on to consumers. So, my
+friends are sitting here talking about higher prices. Look, we
+saw this under the Obama administration. Oil and gas prices are
+higher under these flawed policies. It shouldn't be a shock to
+anybody that we are seeing it right now again. In fact, it is
+embarrassing that we saw it once, and this Administration is
+walking into the same thing, putting your hand right on that
+red hot stove all over again, and then pointing to everybody
+else as the cause. And it is shown over, and over, and over
+again that the excuses that have been brought up by this
+Administration are completely untrue.
+So, let's be crystal clear. It is this Administration's
+policies, your lack of lease sales that are causing higher
+energy prices. You are completely screwing this country's
+energy security in the future with the 10-year timeline it
+takes to go from lease sales into production. You are putting
+communities in the Gulf of Mexico at risk because Mr. Cantor is
+not going to have a penny in revenue sharing that, under our
+Constitution, is required to be spent on resiliency projects
+like restoring our coastal ecosystem, on hurricane protection,
+and on flood control projects, putting these people as sitting
+ducks for future hurricanes. And consumers are paying, when
+this Administration took office, $1.74 a gallon were gasoline
+prices, lowest prices in Louisiana. Today, I am going to guess
+three bucks. Completely screwing communities.
+Look Mr. Chairman, I know I am out of time. I just want to
+see if Mr. Sligh or Ms. Klein can give us any clarity on the
+financial assurance rule. Specifically, is that BOEM or BSEE's
+intent to call upon the additional supplemental bonds when a
+current operator can't fulfill their decommissioning obligation
+before going after the predecessor lessees? It should be a yes
+or no.
+Ms. Klein. The Financial Assurances Rule is meant to ensure
+that current lessees and grant holders undertake their
+obligations to clean up after themselves when they are done.
+So, we would be going to those financial assurance requirements
+before we went to predecessors.
+Mr. Graves. Thank you. Thank you for answering that
+question.
+Mr. Stauber. Thank you very much.
+Mr. Graves. I yield back.
+Mr. Stauber. We will now go to Representative Huffman for 5
+minutes.
+Mr. Huffman. Thank you, Mr. Chairman.
+We expect a lot of fossil fuel boosterism in this Committee
+and this Subcommittee, but recently it has risen to the level
+of almost cartoonish fealty to the fossil fuel industry. At a
+time when you are talking about record production, record
+exports, record profits, we continue to hear this rhetoric
+about the Biden administration declaring a war on oil and gas.
+It is just not something that can credibly be said. But if you
+are so beholden to fossil fuel that without blushing you can
+mouth these talking points, this is the place where we hear it.
+And when we see clear evidence that these fossil fuel
+interests are colluding with OPEC to screw American consumers
+and rig the global price of oil, and Democrats try to do
+something about it on a bipartisan basis, we hear crickets from
+the other side, because they just can't bring themselves to
+ever stand up to this massive industry, no matter how much it
+abuses the environment or American consumers.
+In fact, we have a moment here where you have a chance to
+choose between the American people and consumers, and
+protecting them from high gas prices or your friends at Big
+Oil. And it looks like, to no one's surprise, our friends
+across the aisle choose Big Oil every time.
+Director Klein, it is a little rich when the Chair lectures
+you about good faith. And you should just know that when that
+term is used around here, it has a coded meaning. ``Good
+faith'' means absolute boosterism for fossil fuel at all costs.
+The $60 million minimum and other provisions of the IRA
+that you were asked about were formulas that one U.S. Senator
+insisted upon in the Inflation Reduction Act. It is not sacred,
+and it doesn't mean you have to go over and above that. It
+doesn't mean that you have to bow and scrape at the throne of
+Big Oil, as the Chair would ask you to do, in order to comport
+with his notion of good faith. So, I would say minimum
+compliance with this formula that was forced in to the IRA,
+something that most Members of Congress in both houses, I
+believe, did not support, I certainly opposed it, but minimum
+compliance is just fine, and certainly meets the good faith
+standard, in my view.
+With respect to offshore wind, the Chair is having some fun
+with the nuance of how royalties work, and how auction credits
+work, and it is misleading. So, we need to clean this up a
+little bit. When he says that no money goes back to local
+coastal communities from these auctions, that is not right. I
+know that because I represent one of those coastal communities,
+where there were credits that the successful bidders embraced
+as part of their bid, and a lot of money is going back to local
+communities. Isn't that correct, through those auction credits?
+Ms. Klein. Yes, we have certainly set up systems where,
+during the auctions, we can make sure that we are supporting
+domestic supply chain, domestic workforce, and supporting
+communities where these projects will go.
+Mr. Huffman. Do you envision using auction credits in other
+offshore wind leases to make sure that some of that money
+actually gets turned back around into community benefit
+agreements, tribes, fishermen, and other interests that will
+benefit from those auction credits?
+Ms. Klein. Yes, we do.
+Mr. Huffman. Thank you.
+The Chair is correct that, in terms of long-term royalties
+and revenues from the sale of energy, oil and gas is in a
+different place than offshore wind. Oil and gas has a mechanism
+to turn that money back into the Land and Water Conservation
+Fund and to benefit states and local communities. And right
+now, offshore wind does not. We need to fix that.
+I am working on legislation that will address that, and
+eventually we need to get there. But to extrapolate from that,
+as the Chair does, that instead of doing offshore wind you
+should just do more oil and gas is certainly problematic if you
+care about the climate crisis and the transition to clean
+energy.
+I only have about 30 seconds left. The last question I want
+to ask you about involves tribal consultation, because I do
+want the project in Humboldt County to succeed. And I think you
+know that we have heard loud and clear from tribes that we need
+better engagement by BOEM. There is a co-management Executive
+Order, Joint Secretarial Order 3403, where other agencies have
+rolled out their co-stewardship plans for land and waters for
+tribes. We have yet to see anything from BOEM on that. I am
+still waiting for a response on my request for better
+engagement, including somebody on the ground for California and
+other West Coast, in the remaining time I have, could you speak
+to where we stand on these things?
+Ms. Klein. Sure. Thank you for that question, and I
+appreciate the feedback we have received and the inquiries that
+you have sent to us.
+We are spending a lot of time at BOEM, making sure that we
+really have a robust tribal engagement program. Our Fiscal Year
+2025 budget request identifies some additional resources that
+we think would be helpful in order to do that not just within
+BOEM, but also support tribal capacity at tribes themselves to
+be able to meaningfully engage in this.
+So, obviously, a long history of mistrust between many
+tribes and the Federal Government, and I think working together
+with the Subcommittee we can start to address that.
+Mr. Huffman. It is very important. I appreciate that.
+And thank you, Mr. Chairman, I yield back.
+Mr. Stauber. Thank you very much. We will now go to the
+Chair of the Full Committee.
+Representative Westerman, you are up for 5 minutes.
+Mr. Westerman. Thank you, Chairman Stauber. Thank you to
+the witnesses for being here today.
+Director Klein, we have already talked about the three
+lease sales in the next 5 years in the 5-year plan, and the 12
+wind lease sales. But I just want to be sure that, on Lease
+Sale 262, is that going to proceed as planned, particularly if
+no additional wind lease sales are deemed necessary for 2025 to
+2026?
+Ms. Klein. Thank you for the question. We have started the
+environmental review process for the three sales that were
+identified in the 5-year plan. We recently issued the area
+identification. The next step would be the draft environmental
+impact statement that analyzes those potential sales, so that--
+--
+Mr. Westerman. So, your planning----
+Ms. Klein. That process is underway.
+Mr. Westerman. You are planning to hold the sale. Do you
+anticipate any hiccups in the process, or delays?
+Ms. Klein. I have learned not to try to anticipate hiccups,
+but, as I said, the environmental process is underway for those
+lease sales, and we expect the draft environmental impact
+statement to be out in the next couple----
+Mr. Westerman. Well, last fall you told me there wouldn't
+be any delays for Lease Sale 261, yet you voluntarily chose to
+delay it. Has your agency done any planning or work which sets
+up the cancellation of any of the three offshore oil and gas
+lease sales?
+Ms. Klein. I am sorry, could you repeat the question?
+Mr. Westerman. Have you done any planning to delay the
+three sales?
+Ms. Klein. No, we have not done any planning to delay any
+sales.
+Mr. Westerman. So, there is no scenario or plan in place to
+cancel any of the three oil and gas lease sales.
+Ms. Klein. We are required under the National Environmental
+Policy Act and a number of other statutes to conduct
+environmental analysis of those potential sales, so that
+process is underway. And, of course, an agency like BOEM
+doesn't act until there is a Record of Decision, and that is
+where we are in the process right now.
+Mr. Westerman. What is an example of something that would
+cause you to trigger your authority and cancel the sales, even
+though doing so would destroy the ability to sell offshore
+wind?
+Ms. Klein. Well, one of the reasons that sales have been
+canceled in the past was the Deepwater Horizon oil spill, which
+killed 11 people and caused billions of dollars worth of damage
+in the Gulf of Mexico.
+Mr. Westerman. So, you are saying if there was another
+incident like that, you would cancel the oil and gas sales, and
+all the wind sales?
+Ms. Klein. Saying anything about canceling lease sales at
+this point would be pre-decisional. As I said, we are in the
+environmental review process, and that process is underway.
+Mr. Westerman. Representative Graves talked about how long
+it takes to construct an offshore oil platform, and the cost
+that goes with it. How much of that cost gets offset by the
+Federal Government or by the taxpayer?
+Like, what programs are out there to help oil companies
+develop offshore platforms?
+Ms. Klein. Thank you for the question.
+I think over the years there have been a number of programs
+that have supported the development of fossil fuel, including
+the statutes we operate under, our tax code, the way that
+royalties are set----
+Mr. Westerman. When you say tax code, are you talking about
+depreciation of assets?
+Ms. Klein. As I said, at the Bureau of Ocean Energy
+Management we are really focused on ensuring that, in part,
+operators are fully internalizing the cost of doing business.
+We mentioned the financial assurances rule, which is one of the
+ways that we are making sure of doing that.
+Mr. Westerman. I think you are missing the question. There
+is no program that subsidizes the oil and gas industry. That is
+outside of any kind of tax program, that any business gets to
+depreciate assets. I have heard my colleagues across the aisle
+talk about the handouts to oil and gas companies, and I finally
+figured out they were talking about depreciation schedules,
+which any manufacturing company, if you own a bakery you get to
+depreciate your ovens.
+But let's switch gears and talk about offshore wind. If you
+are going to build an 8 megawatt wind tower, what kind of
+programs are out there from the government to help the
+construction cost?
+Ms. Klein. Well, I think the President has made clear that
+he thinks the climate crisis is a real challenge, and the
+Federal Government has an obligation to do something about it,
+so----
+Mr. Westerman. But what are those programs like? Like, what
+kind of tax credits are available?
+Ms. Klein. The Bureau of Ocean Energy Management is not
+responsible for the suite of tax credits, but they do exist for
+the offshore wind----
+Mr. Westerman. Well, there are 30 percent tax credits,
+there are production tax credits, you can get $0.027 or $0.03
+per kilowatt hour, which could be, if the windmills actually
+operate, hundreds of thousands, if not millions of dollars of
+taxpayer money every year, which if that is a decision Congress
+has made, it is the Administration's job. But it is not fair to
+say that offshore oil and gas gets subsidized when they don't,
+when they actually are paying in royalties off of what they
+produce, yet offshore wind gets huge, huge subsidies from the
+taxpayer. Otherwise, it wouldn't be cost effective to build
+these facilities.
+So, I think we just need to clear the air on who is getting
+the subsidies, where the cost is to the taxpayer that they are
+not seeing because it is hidden in tax cost. And the oil and
+gas industry does not get these huge subsidies and credits that
+it is often claimed that they get.
+And I am way out of time, and I yield back, Mr. Chairman.
+Mr. Stauber. Thank you very much.
+I want to thank the witnesses for their valuable testimony
+and the Members for their questions.
+The members of the Subcommittee may have some additional
+questions for the witnesses, and we will ask you to respond to
+these in writing.
+And to the witnesses, you will have questions given to you.
+We were going to go a Round 2, but it was decided we won't.
+Under Committee Rule 3, members of the Committee must
+submit questions to the Subcommittee Clerk by 5 p.m. on
+Wednesday, May 29. The hearing record will be held open for 10
+business days for these responses.
+OK. Well, we hadn't closed down, Representative Gosar. We
+were just closing statements. You made it, good job.
+You can open up your books, there will be more questions.
+Representative Gosar, you are up for 5 minutes. You made it
+just in time.
+Mr. Huffman. Mr. Chairman, to give Mr. Gosar a chance to
+catch his breath, could I ask for unanimous consent on two
+things real quick?
+Mr. Stauber. Yes, you can.
+Mr. Huffman. Thank you. I would like to enter into the
+record a report from the IMF citing over $649 billion in
+subsidies for oil and gas. That is if you consider the health
+and environmental impacts that the taxpayers pick up the tab
+for every year.
+And then a second one I would like to enter into the record
+by unanimous consent is just the final vote on the Inflation
+Reduction Act in both Houses, because we have had a long line
+of questioning where my Republican friends are hopping mad
+about the fossil fuel giveaways in that leasing formula, and
+every one of them voted against the legislation.
+Mr. Stauber. Without objection.
+
+
+The full document is available for viewing at:
+https://docs.house.gov/meetings/II/II06/20240523/117251/HHRG-
+118-II06-20240523-SD005.pdf
+------
+
+------
+Mr. Huffman. Thank you.
+Mr. Stauber. Representative Gosar, have you got your
+breath?
+Dr. Gosar. I got my breath.
+Mr. Stauber. You are up for 5 minutes.
+Dr. Gosar. I thank the gentleman from California for giving
+me my breath back. I know it has been a left-handed day in a
+right-handed world or, if you are a left-hander, it is a right-
+handed day in a left-handed world.
+Anyway, Directors, when each of you issue an order or a
+decision to an operator, that decision is appealable. However,
+it is not appealable to an independent judge. Instead, the
+operator must go through the Department's administrative
+process, which means the appellate proceeds through the
+Interior Board of Land Appeals, or the IBLA, which answers to
+the Secretary.
+Currently, that board has a backlog of over 600 matters. Of
+these, your agencies collectively account for one-third, some
+of them dating back to 2014. Specifically, BSEE has 157 pending
+appeals; ONR squared has 37; BOEM has 2. Now, some of these
+appeals may be voluntarily paused. However, others are not, and
+these appellants are stuck in an administrative purgatory that
+cannot be easily resolved.
+So, a question for each of you. Until the IBLA or the
+Secretary issues a final decision, can an operator seek
+judicial relief within the Federal courts?
+Ms. Klein. Thank you for the question. We are happy to take
+that back. I imagine that it depends on the nature of the
+appeal.
+Dr. Gosar. OK.
+Mr. Sligh. Thank you, Congressman, for that question. I
+would have to agree with Director Klein. Each case is based on
+its own merits, and we would have to take that back as a
+question for the record.
+Dr. Gosar. OK. So, Director Klein and Director Sligh, is
+there a time limit on your appeals?
+Ms. Klein. Again, I would have to take that back. I think
+it depends on the nature of the appeal.
+Dr. Gosar. OK. Director Cantor, do you have a time limit on
+the appeal?
+Mr. Cantor. Thank you for the question, Congressman. There
+is a 33-month time limit on appeals that are made to the IBLA,
+and then the IBLA loses jurisdiction, and the company has an
+opportunity to go to Federal court.
+Dr. Gosar. Is there an incentive? Because it is my
+understanding that if the time expires, the amount is over
+$10,000, that that ruling is automatically in your favor.
+Correct?
+Mr. Cantor. That is correct.
+Dr. Gosar. Mr. Cantor, what we have heard is the deck is
+stacked against operators that receive an adverse ruling
+through your agencies. They must sit through an indefinite
+administrative appeal or be forced to face an automatic loss,
+where they must overcome agency deference. It sounds like a
+legislative solution might be needed to fix this process.
+Would you commit to work with me and my office on a
+solution that works to resolve this process of what sounds a
+bit like choosing between a rock and a hard place?
+Mr. Cantor. I thank you for the question, Congressman. We
+are always open to working with you and your staff.
+Dr. Gosar. Wonderful. Thank you so much. I also have some
+questions.
+The proposed budget includes funding for land acquisition.
+In reality, many counties that I represent have way too much
+Federal land. For example, La Paz County, Arizona is about 95
+percent Federal lands, depriving the locality of development
+and revenue.
+Mr. Biden's budget also proposes significant increases in
+funding for environmental efforts, yet fails to address the
+urgent need for reforms in the revenue-sharing agreements with
+states that host Federal lands. How can you justify
+prioritizing conservation spreading over ensuring equitable
+compensation for states like Arizona that bear the burden of
+hosting these resources?
+Ms. Klein. Thank you for the question. I think much of that
+is probably directed to the onshore agencies, and we would be
+happy to take that question back and get an answer for the
+record.
+Dr. Gosar. OK. Well, I am going to do one more. Given the
+recent increase in energy prices and concerns about energy
+independence, how does the budget proposal address the need to
+streamline permitting processes and encourage domestic energy
+production on Federal lands, rather than imposing barriers and
+delays?
+Ms. Klein. Thank you again for that question. Certainly, we
+have been spending a lot of time to streamline our permitting
+processes to ensure that we are still resulting in robust
+decisions that reflect our environmental and statutory
+responsibilities in the offshore wind context. We have been
+able to go from zero to eight approved projects, given our all-
+of-government approach and our ability to streamline a lot of
+those permitting processes.
+Dr. Gosar. Have you seen any derogatory effects of these
+big wind projects, particularly with the whales? Or is it
+constantly in study?
+Ms. Klein. I am sorry, could you repeat the question?
+Dr. Gosar. Yes, some of the thought processes were that the
+wind turbines, these offshore wind turbines, were having some
+effect in regards to whales and their geospatial placement.
+Ms. Klein. Sure. Thank you for that question. There is
+really no evidence right now that anything having to do with
+offshore wind, and particularly the G&G work that is done
+before offshore wind construction, is having any effect on
+whales. We certainly have a whole suite of mitigation measures
+that we require of offshore wind operators before they can
+proceed with construction and throughout the project to make
+sure that their activities are avoiding, minimizing, and then
+mitigating any impacts that might occur. But right now, there
+is no data to suggest that the operations so far have had any
+impact on whales.
+Dr. Gosar. Is it an ongoing study?
+Ms. Klein. Well, we have a number of studies that are
+underway, and active monitoring at our construction projects.
+And, again, there is just no evidence that any of the whale
+strandings that have occurred on the East Coast are at all
+related to the G&G and seismic work and any of the work that is
+happening on the offshore wind space.
+Dr. Gosar. Thank you. I appreciate it.
+I yield back.
+Mr. Stauber. Thank you very much.
+Before we close, I do want to enter into the record, at
+Representative Graves' request, I want to enter it with
+unanimous consent. It is a chart, ``Record Profits Are Higher
+Under Democratic Administrations.''
+
+
+------
+Mr. Stauber. Also, Representative Huffman brought up the
+IRA. He, under unanimous consent, wanted the roll call vote in
+the record. I will note the IRA was endorsed and supported by
+the oil and gas industry, and every Republican in the House of
+Representatives voted against it.
+So, the members of this Subcommittee, as I said, may have
+some additional questions for the witnesses, and we will ask
+you to respond to these in writing. And I already told you that
+you are going to have some.
+Under Committee Rule 3, members of the Committee must
+submit questions to the Subcommittee Clerk by 5 p.m. on
+Wednesday, May 29. The hearing record will be held open for 10
+business days for your responses.
+If there is no further business, without objection, the
+Committee stands adjourned.
+

@@ -1,1 +1,1763 @@
-A HEARING WITH THE NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES SENIOR SCIENTIFIC ADVISOR DR. DAVID MORENS ---------- Wednesday, May 22, 2024 House of Representatives Committee on Oversight and Accountability Select Subcommittee on the Coronavirus Pandemic Washington, D.C. The Subcommittee met, pursuant to notice, at 3:31 p.m., in room 2154, Rayburn House Office Building, Hon. Brad Wenstrup  presiding. Present: Representatives Wenstrup, Comer, Malliotakis, Miller-Meeks, Lesko, Cloud, Joyce, Greene, McCormick, Ruiz, Dingell, Mfume, Ross, and Tokuda. Also present: Representatives Griffith and Castor. Dr. Wenstrup. The Select Subcommittee on the Coronavirus Pandemic will come to order. I want to welcome everyone. At the discretion of the chair and pursuant to an agreement with the Committee on Energy and Commerce, the Chairman and Ranking Member of the Committee on Energy and Commerce, Subcommittee on Oversight and Investigations, Mr. Morgan Griffith and Ms. Kathy Castor, are permitted to participate in today's hearings for the purposes of questions and give 3- minute opening statements if they so desire. Without objection, the chair may declare a recess at any time. I now recognize myself for the purpose of making an opening statement. Good afternoon, everyone. Dr. Morens, you wrote in an email that you have never said anything that you would not be happy to defend before a congressional Committee. Today serves that day. The Select Subcommittee has been thoroughly investigating the U.S. Government's response to the coronavirus pandemic. The years-long investigation has been conducted to both understand the actions of our public health agencies, institutions, and officials, and the actions taken so that we can learn from deficiencies and ingrained proficiencies. We are learning from experiences and developing better pathways for processes, responses, and new ways forward so that the next time there is a public health emergency, such as a pandemic, our response will meet the high standards the American people expect, deserve, and pay for. This is not McCarthyism. This is not Stalinesque. This is not a witch-hunt. As you, Dr. Morens and Dr. Daszak have so eloquently labeled it before, this is seeking truth, justice, and the American way. While conducting this investigation, the Select Subcommittee uncovered extremely concerning behavior by Dr. Anthony Fauci's senior scientific advisor and the witness before us today, Dr. David Morens. Accordingly, on April 16, 2024, the Select Subcommittee announced a subpoena for Dr. Morens for documents related to the COVID-19 pandemic, specifically those found on his personal email accounts, which he had been using to communicate with other NIH officials and EcoHealth President, Dr. Peter Daszak. Government officials hiding from, we the people, is not the American way. The Select Subcommittee proceeded to conduct an extensive review of the communications and documents produced under subpoena by Dr. Morens. The information contained on these 30,000 pages of emails are deeply concerning and, in my opinion, reflects poorly upon Dr. Morens and the Office of the National Institute of Allergy and Infectious Disease under Dr. Fauci's leadership and the NIH, under Dr. Francis Collins, unfortunately. Today, we released a staff memo outlining the evidence gathered. We have evidence that Dr. Morens purposefully evaded public transparency required by the Freedom of Information Act by intentionally using a personal email account for official business. We have evidence that Dr. Morens unlawfully deleted government records and may have engaged with the NIH, FOIA Office--Freedom of Information Act Office--to assist this illegal action. We have evidence that Dr. Morens routinely acted as an intermediary between Dr. Daszak and Dr. Fauci, and we have evidence that Dr. Morens took affirmative steps to assist Dr. Daszak so that EcoHealth could have its grant reinstated after it was suspended under the Trump Administration and approved by NIH leadership. Dr. Morens, it, unfortunately, looks like you were not truthful in your interview with us. During that interview, you may not have been under oath. However, you were reminded by Select Subcommittee counsel that your answers were subject to criminal prosecution pursuant to Title 18, Section 1001 of the United States Code. In other words, lying in that interview before us would be a crime. When asked if you understood that requirement, you said you did. Today we may be able to find out where the truth lies. Is it in your testimony or is it in your emails? We recently had the president of EcoHealth Alliance, Dr. Peter Daszak, before the Select Subcommittee for a hearing, and we produced an extensive report outlining the wrongdoing and bad faith actions taken by EcoHealth and its president. Just 2 weeks after these investigative measures took place, NIH recommended that EcoHealth be immediately debarred from receiving Federal dollars. Dr. Morens provided nonpublic government information to Dr. Daszak, including internal deliberations and communications about EcoHealth occurring at the highest levels of NIH. This is not just a one-way street. We also found that Dr. Morens disseminated information from EcoHealth on behalf of EcoHealth to top NIH officials. In fact, we even uncovered an email from Dr. Morens to Dr. Daszak asking if he would get a kickback after the EcoHealth grant was reinstated. After the funding to EcoHealth was paused in 2020, Dr. Morens advocated for them to have their Federal funding reinstated, assisted EcoHealth in receiving that funding, provided EcoHealth with nonpublic information in order to help get that funding reinstated, and then requested a kickback. You know, joking about kickback or not, the entire process is wholly unacceptable, and I wish that was the full extent of it, but it is not. Frankly, some of the documents we received from Dr. Morens were difficult to read. I can't imagine saying some of the things, let alone putting them in writing. The Select Subcommittee uncovered communications in which Dr. Morens acted inappropriately and entirely unsuitably for a member of the public health service who receives a taxpayer-funded paycheck. These are just some of the unfortunate and unprofessional findings the Select Subcommittee has made during our investigation. It is very disturbing to witness this type of behavior from Dr. Fauci's senior advisor, but the evidence is clear and overwhelming. Dr. Fauci's NIAID was, unfortunately, less pristine than so many, including the media would have had us all believe. You, Dr. Morens, reported directly to Dr. Fauci. You served as his senior advisor for more than 2 decades. Did your boss know about this behavior? Did he condone it? Did he try to stop it? Did you participate in it? That we don't know, but given the breadth of this investigation, we continue our work to ensure that we thoroughly review each document produced. No stone will be left unturned. Put simply, Dr. Morens, you have a lot to answer for. The American people that we represent deserve honest answers. We all do. Today, I hope we can further our quest for information into the government's response to COVID-19 and provide the American people with honest answers about the actions taken by personnel at the National Institutes of Health during this time, especially at the leadership levels. Dr. Morens, you will be sworn in today and your answers will be under oath, and I strongly suggest you tell the truth, which I'm sure I don't need to advise you on that. I will remind you that you are testifying today under a subpoena. The terms of the subpoena require you to stay until the chair excuses you. I look forward to a robust and on-topic discussion today. Thank you, and I would now like to recognize Ranking Member Ruiz for the purpose of making an opening statement. Dr. Ruiz. Thank you, Mr. Chairman. For decades, our Federal public health and scientific institutions have diligently upheld a legacy of respect and decorum in their work to advance the public interest. And within these institutions, thousands upon thousands of Federal employees have reported to work every day with a goal of promoting our scientific enterprise and ensuring that every American can lead the healthiest life possible. As an emergency physician and public health expert, I hold the legacy of scientific advancement to safeguard human health in the highest regard. And through my tenure in Congress, including as a member of the Energy and Commerce Committee's Health Subcommittee, I have championed legislation to invest in our Federal scientific and public health work force, so that they can carry forward this crucial work. But there are times when individuals stray from this legacy and conduct themselves in a manner that is unbecoming of the thousands and thousands who strive to uphold the respect and decency that has come to be known of our Federal scientific and public health work force and leaders, and today, we will be hearing from one of these individuals. Dr. Morens, for nearly a year, the Select Subcommittee has been reviewing your conduct, and what we have found is deeply troubling to me. In internal documents you produced to the Select Subcommittee, you, on multiple occasions, alluded to the deletion of official emails, an act that likely constitutes the destruction of Federal records. And frequently, you blurred the line between your official duties and your personal viewpoints, including by communicating about official business on your personal email address with individuals who have pending interests before your Agency, and by representing yourself as a Federal official in the signature of your personal email correspondence. And while it is not a violation of the law to do so, you disparaged other members of the scientific community with language that is unbecoming of a representative of the Federal Government. What troubles me most about your conduct Dr. Morens, is the extent to which it is so willingly betrays decades of dedication, diligence, and decorum from the thousands of Federal scientists and public health workers who came before you, who have served alongside you, and who will serve on into the future, and that is why appropriate accountability for your actions is appropriate. It is not anti-science to hold you accountable for defying the public's trust and misusing official resources. To the contrary, taking your misconduct seriously is about ensuring that Americans, myself included, can continue to expect the highest degree of professionalism from our premier scientific institutions, as we have since their inception. Now, with all that in mind, I want to take a moment to make sure the record is clear on one thing at the outset of this hearing. While accountability for instances of misconduct is essential to ensuring the public's continued trust in our Federal institutions and their use of taxpayer dollars, Dr. Morens' testimony today is not a breakthrough moment in actually understanding the actual origins of the COVID-19 pandemic because the fact of the matter is that as of today, the origins of the novel coronavirus remain inconclusive. And if the Select Subcommittee wants to actually shed a light on the answers to this question, then we need to take an objective look at all the various pathways by which SARS-CoV-2 could have emerged, be they in a lab or nature. Now, before we hear from the witness, let me just conclude by saying it is my hope, Dr. Morens, that today you will offer some humility and remorse for your actions, which are a stain on the legacy of your colleagues at NIAID and throughout the Federal Government. At the same time, it is my hope that the members of this Select Subcommittee, while appropriately critical of your actions, will treat you with the same decency and respect that we expected of you as a Federal employee and steward of the public trust, so let's model the same behavior here today that we have come to expect of our Federal work force. Thank you, and I yield back. Dr. Wenstrup. Thank you. Our witness today is Dr. David Morens, Senior Scientific Advisor to the Director at the National Institute of Allergy and Infectious Diseases. Pursuant to Committee on Oversight and Accountability Rule 9(g), the witness will please stand and raise his right hand. Do you solemnly swear or affirm that the testimony that you are about to give is the truth, the whole truth, and nothing but the truth, so help you God? Dr. Morens. I do. Dr. Wenstrup. Thank you. Let the record show that the witness answered in the affirmative. The Select Subcommittee certainly appreciates you for being here today Dr. Morens, and we do look forward to your testimony. Dr. Morens, pursuant to House rules and committee practice, witnesses appearing before the Select Subcommittee are given the opportunity to make initial presentation summarizing their testimony after opening statements by the Chair and Ranking Member, which we have just done. Dr. Morens, it is our understanding through your counsel that you have declined to provide an opening statement. Is that correct? Dr. Morens. Yes, sir. Dr. Wenstrup. OK. Let the record reflect that the witness has declined the opportunity to provide an opening statement. We will, therefore, proceed directly with Member questions, so I now recognize myself for questions. On January 18, Dr. Morens, you sat for a transcribed interview with us. While not sworn in, you were advised by counsel that Title 18, Section 1001 applied to that testimony, and if you made false statements, you could be subject to criminal prosecution. Do you recall that? Dr. Morens. . Dr. Wenstrup. Your microphone is not on, I don't think, yes. Dr. Morens. Do I keep it on or only when I talk? Dr. Wenstrup. Whenever you are talking, yes. Dr. Morens. OK. Sorry. I think what you are referring to is telling me that even though I wasn't under oath, I was bound to tell the truth. Is that what you said? Dr. Wenstrup. Yes, and that you could be subject to criminal prosecution. Dr. Morens. Yes, you told me that. Dr. Wenstrup. OK. Today you are under oath, and we will be comparing your statements today to those you gave previously. The majority of my questions today will be simple ``yes'' or ``no'' questions. On April 21, 2021, you wrote, ``I can either send stuff to Tony  on his private email or hand it to him at work or at his house.'' Did you ever send information related to COVID- 19 to Dr. Fauci's personal email? Dr. Morens. I don't remember if I did. I may have, but I certainly told him some things that he asked me to tell him about the situation with Peter. Dr. Wenstrup. Thank you. On May 13, 2021, you wrote that you connected a reporter to Dr. Fauci via your secret back channel. What back channel did you have for Dr. Fauci? Dr. Morens. Well, all these terms like ``secret back channel'' and the other one you mentioned were just jokes, just, you know, jokes that I made in dealing with Peter because he was under death threats and was very depressed. And it was sort of the group of people who were Peter's friends, who were trying to cheer him up by making snarky jokes and euphemisms that were, you know, not true, but there was no back channel. The back channel to Tony was the same one that applies to everybody, and may I say---- Dr. Wenstrup. Which is? Dr. Morens. Huh? Dr. Wenstrup. Which is what? Dr. Morens. Well, I am going to tell you. Dr. Wenstrup. OK. Dr. Morens. Tony does not want me to connect anybody to him directly, and with one exception a couple of weeks ago, I never did. But the back channel was a regular channel within government where if somebody wanted to talk to Tony, I would tell them we have a regular process here. It is called ODAM, Office of Director AM Group, the inner circle, and the request to do something, it would be to talk to Tony or to give a talk or whatever, would go to this group. And they would meet in person with Tony every morning and say, you know, we got a message that so and so wants to talk to you or so and so wants something from you, and then he would decide, usually right there. I was never involved in that, at least not in recent years. I used to go to those meetings many years ago, but---- Dr. Wenstrup. So, is that the channel you are referring to? Dr. Morens. Yes, that is the channel. Dr. Wenstrup. OK. Dr. Morens. It is not really a back channel, but I am, you know, making snarky comments. It is a well-established, still functioning channel. I guess it is still functioning, but certainly, before I was put on administrative leave, that channel was still operating, and it is the way things were done. Dr. Wenstrup. So, there was a connection you said just in this statement. Now, you said there was a connection a couple of weeks ago that you did not do. What was that? Dr. Morens. I don't remember the details, but I think it was somebody, maybe Jerry Kirsh, who is a former NIH Institute Director, wanted to talk to Tony, and I think I said something like because he used to be a Director, he knows Tony personally. And I think I said something like, you can just talk to him directly. You don't have to go through me. Dr. Wenstrup. OK. In addition to your Gmail, do you also have a Proton mail account? Dr. Morens. I do, yes. Dr. Wenstrup. On January 18, you testified that you did not conduct official business via personal email. Dr. Morens, did you ever conduct official business via your personal email? Dr. Morens. Well, I didn't do anything that I thought was official business. I understand now that there is some discrepancy between what I thought and what you all may think about what is official business. But may I back up and tell you about this whole Gmail thing since Gmail versus NIH email, and record destruction, and FOIA seems to be the most important thing you are interested in, and rightly so. I have had a Gmail account for many years, and I don't know how long I have had the Proton account, but it is for a while, which I almost never used the Proton account, but I did use the Gmail account. And also, I should say that going back to at least 2013 and possibly to 2010, the IT people in my Institute put one icon on my government phone in which emails and Gmails were fused. That is to say, I had a blue icon that said ``mail.'' Every morning, I would get up and do email, you know, open up my NIH emails and Gmails, knowing they were fused. But I didn't think it was a problem because I could usually tell whether a mail I was looking at was a Gmail or a government mail, and I also knew how to go into my phone and do a few clicks and things and find out if I needed to find out, or I could go to my Gmail on the computer where there wasn't that fusion. So anyways, there is a longstanding problem with fusion of Gmail and email from---- Dr. Wenstrup. Dr. Morens, I will tell you, I can understand that. I have non-official emails on a separate phone that are fused or I can separate them, but not my official ones. And that doesn't account for telling people that you are doing official business with that they should contact you on your Gmail. Dr. Morens. That is true. I was just---- Dr. Wenstrup. And especially to avoid FOIA and to be able to potentially delete things you don't want in New York Times, which was your comment. On January 18, you testified ``no'' when asked if you ever deleted anything from your official account that could be considered a Federal record. Dr. Morens, are you aware that the destruction or attempted destruction of Federal records carries a potential punishment of both imprisonment and a fine? Dr. Morens. I was not aware of that, and I was not aware that anything I deleted, like emails, was a Federal record because we have Federal records training periodically, and the training, you know, that I recall we received defined ``a Federal record'' in a very different way than you may be thinking of, and none of it was defined as an email. Dr. Wenstrup. Well, that may be something to look into as to what your training looks like when it comes to Federal records because it is far different from mine. On October 5, 2021, you wrote, ``Peter, I just got news that a FOIA picked up an email I sent you saying Tony commented that he was brain dead. I deleted that email, but I now learn that every email I ever got since 1998 is captured and will be turned over whether or not instantly deleted.'' On June 28, 2021, you wrote, ``Peter Daszak emailed me and Tony congratulating Tony on standing up for science. That email fell into the hands of the Congressman, probably via FOIA, of someone who didn't delete it, as I did--as I did delete all of Peter's emails and others related to origin. Mine was erased long ago. I verified that today, and I feel pretty sure Tony's was, too.'' Dr. Morens, did you ever delete or attempt to delete a Federal record? Dr. Morens. No, but let me explain why it seems to be discrepant. You can't delete an email from NIH, you know, from an NIH computer system. They are all retained and can be accessed for any purpose, including FOIA. Now, I don't know what they normally do, whether when the FOIA is required or whether how far back they go or whatever, but it is my understanding that if they want to, they can go back all the way to the beginning. I came to NIH in 1998, and at that time, when I came there in 1998, we were instructed to delete emails and/or to move them into PST files frequently because they jammed the computer, and so I got into the habit of every morning, you know, looking at all my emails, and when I say email, I mean NIH email, looking at my NIH emails, and some of them can be dispensed with quickly and then just deleting them. Other ones that I would need to keep or thought I might keep would be moved into a PST file so that my inbox wouldn't crash. And I must say based on my understanding of what a Federal record was, I truly don't think I have ever seen a Federal record in 26 years of being at NIH, and if I am wrong about that, I apologize because it just never dawned on me. I have done work at the National Archives, and at one point about 10 or 15 years ago, I contacted a records person lady and said, you know, I have some documents that could be something the National Archives would want, and she said, no, I don't think so, you can destroy it, and I didn't destroy it. I still have it. Dr. Wenstrup. There is a difference between the Federal archives and your day-to-day work as a Federal employee employed by the American people. You seem to know a lot about FOIA. You investigated FOIA. You talk to the people that implement FOIA. And you need to know if you didn't, that it is a Federal offense if you even attempt to delete something that would be considered for the Federal record. I now recognize the Ranking Member Dr. Ruiz from California for 5 minutes of questions. Dr. Ruiz. Thank you. When I was named Ranking Member of the Select Subcommittee, I made a commitment to keep an open mind about how the pandemic started because understanding whether the novel coronavirus emerged from a lab or from nature is essential to better preventing and preparing for future public health threats and to better protecting the American people. Unless and until we see specific evidence on the origins of SARS-CoV-2, the scientific process requires that we examine all possible hypothesis with objectivity, which is why I have concerns, Dr. Morens, that you appear to have frequently denigrated and dismissed the gravity of this deductive process. In emails reviewed by the Select Subcommittee, you described laboratory-related origin theories as conspiracy theories and have said that considering these theories is ``wasting time'' and ``being crazy.'' Well, you have every right to evaluate the available evidence and to reach your own conclusion regarding the origins of the novel coronavirus, but the maligning of other viewpoints by someone in your position undermines scientific discourse and reflects poorly on the research institution in which you serve. And for the record, I want to make it abundantly clear that Select Subcommittee Democrats take seriously the charge of examining the various pathways by which SARS-CoV-2 came to be, including the possibility that it emerged from a lab. It is not our position that thoughtfully and objectively exploring these possibilities as ``wasting time'' or ``being crazy.'' In fact, two of the six agencies instructed by President Biden to take an objective look have found, one with low confidence and the other with moderate confidence, that it could have possibly been a lab leak. But let me remind everybody, too, that four of the others with low confidence believe that it came from animal transmission, so it is still inconclusive. But to the contrary, it is in the advancement of ensuring that our Nation and the global community are in the strongest position to prevent and prepare for future novel virus and pandemic. So Dr. Morens, with that in mind, let me ask you, is it your view today that all laboratory-related origin theories of COVID-19 are conspiracy theories? Dr. Morens. No, sir. Dr. Ruiz. And is it your view that evaluating lab-related origin theories is wasting time and being crazy? Dr. Morens. No. Dr. Ruiz. So, can I ask what has changed your perspective on these matters? Dr. Morens. I don't think my perspective has changed, and I discussed this in my previous---- Dr. Ruiz. I am referring to thinking that they are crazy or a waste of time. Has that changed, or do you still think that they are crazy? Dr. Morens. Well, they were made when I was communicating in private, off-the-government record, not as a government employee, but as a private citizen. And it was the same thing of dealing with Peter and these people of being snarky and sort of making, you know, it was the coin of the realm to try to cheer Peter up with snarky comments and often profane comments. I apologize for that. I shouldn't do that, and I never thought it would be, you know, put forward in front of the American people. I shouldn't have done that, obviously. I recognize that. I was trying to help a friend by cheering him up with black humor and things like that. I never thought it was crazy. As you said, I did believe from very early on that the evidence suggested that the virus arose from bats, and the evidence also suggested to me that the possibility of a lab leak or an engineering in the virus was extraordinarily low, but if anybody, a reasonable person disagreed with me and thought that it merited further investigation, it should. I mean, you know, I am only one scientist. There are other scientists. There are public officials who want to understand all this. Of course, if there is a reasonable belief out in the public domain that a lab leak occurred, efforts to find evidence of that should continue. Dr. Ruiz. Now, an important aspect of the scientific process is acknowledging what the available evidence does and does not show us. And so, I want to be clear that while I maintain an open mind to the various possibilities by which SARS-CoV-2 may have come to be, no evidence provided to the Select Subcommittee through our probe into federally funded research has demonstrated that the work performed under the NIAID grant to EcoHealth Alliance, including at the Wuhan Institute of Virology, led to the creation of SARS-CoV-2. The Select Subcommittee possesses no evidence demonstrating that any of the viruses studied under the grant could even possibly have been the progenitor virus. So, with 6 months remaining in this Congress, it is my hope that we take an objective, forward-looking approach to understanding COVID-19 origins. And with that, I thank you, and I yield back. Dr. Wenstrup. Now I recognize Ms. Malliotakis from New York for 5 minutes of questions. Ms. Malliotakis. Thank you. Dr. Morens, you used your personal email to conduct official NIAID business, and you shared nonpublic information with EcoHealth, an organization that was vying for Federal dollars from your Agency. Given your position and experience, you knew that this was against FOIA regulations, even indicated it in many of the emails in your personal Gmail. Can you explain why you chose to bypass official channels and how do you justify that? Dr. Morens. Yes. Well, let me go back to the very beginning. In early 2020, Peter Daszak, who has been a personal friend of mine for almost 20 years, I have had government interactions with him that would be on my NIH email, but almost all my interactions with him for years had been personal as a friend. And suddenly he was getting death threats, credible death threats, and his wife and his two daughters are getting credible death threats. And the FBI was investigating, and they were publishing these death threat people which are said to be QAnon. I don't even know who they are, but, you know, they were marching outside his house, and they were sending threatening things, and an Anthrax powder envelope was mailed to him, and it just freaked everybody out. Ms. Malliotakis. Why did you choose to use personal email? That is the question. Dr. Morens. Because that was not government business. What happens to a private citizen in a different situation, in my mind, is not government business. Ms. Malliotakis. Well, it is government business if you are advising him, you are advocating on his behalf. You are editing things, letters that he wanted to send to NIH. You did all that on personal email, correct? Dr. Morens. I don't remember, but if I did, I shouldn't have done that. That is wrong. Ms. Malliotakis. It is wrong, and that is why we are asking the question because you were using it for official business, and that is what we are trying to understand, why. Why were you trying to hide this from Members of Congress, from the government, from the public? Should it have been a Freedom of Information law? It does seem that you have a very cozy relationship with Peter Daszak. You indicated that he was a good friend. I mean, I have to after reading this email from Exhibit 6, on August 27, 2020, after NIH was awarded a $7.5 million grant to EcoHealth Alliance, you wrote to him and you asked, ``Do I get a kickback? Too much fooking--F-o-o-k-i-n-g-- money. Do you deserve it all? Let's discuss.'' Would you like to explain? Dr. Morens. That is typical black humor between people, like Peter and me and other folks who show up in these emails. Ms. Malliotakis. And he responded saying, ``Thanks for the kind words and, of course, there is a kickback.'' You think that is appropriate behavior between NIH, somebody who works for NIAID to a grantee who just received $7.5 million from the government? My question before I run out of time, is have you ever received any compensation from Peter Daszak or EcoHealth? Dr. Morens. No. Ms. Malliotakis. Have you ever received any compensation from any entity outside of your employer, NIAID? Dr. Morens. I don't know what the definition of ``compensation'' is. Ms. Malliotakis. Well, have you ever received any money? Dr. Morens. I get a pension. Ms. Malliotakis. OK. You have a pension, not government related. You have to ask that question when you put it in writing, asking him for a kickback. Dr. Morens. There are two parts to your question. Let me answer. All of this stuff was a bunch of snarky jokes, and I think we all knew that. Ms. Malliotakis. Well, I don't think any of us think it is a funny joke when you are representing the U.S. Government, you are representing an Agency, and you are asking a grantee ``Do I get a kickback? Do you deserve it all? Let's discuss.'' So, I am going to ask you one more time--remind you, you are under oath--did you ever receive any money from Peter Daszak, EcoHealth, or anybody else outside of your employer, NIAID, or the Federal Government directly? Dr. Morens. No, ma'am. Ms. Malliotakis. OK. Dr. Morens. With the exception of early after I joined NIH, I had a private corporation, and, you know, in which I used to do consulting. And shortly after I got to NIH, I realized there would always be a conflict. Ms. Malliotakis. OK. Dr. Morens. And that corporation has been silent for 20 years now. No income. Ms. Malliotakis. OK. Thank you very much. I yield back. Dr. Morens. May I say one more thing? Ms. Malliotakis. Yes. You have 2 seconds. Dr. Morens. I have already apologized for making snarky and profane comments, but I made them thinking that they were made on my private email in a manner that was just between a small group of friends and would never end up where it is ended up. It is embarrassing to me. I shouldn't have done it, but, you know, I accept that I did. I don't know what to say except I am sorry. Ms. Malliotakis. Thank you. Dr. Wenstrup. I now recognize Mrs. Dingell from Michigan for 5 minutes of questions. Mrs. Dingell. Thank you, Mr. Chairman. I have to say something as we start this, just that for 15 months, under the guise of investigating the pandemics origins, my Republican colleagues have been probing our Federal scientific and public health institutions. Right now, at this point, we have not meaningfully advanced the American public's understanding or the origins of SARS-CoV-2. I do believe that people are always looking for the partisan instead of taking an actually serious look at the various ways in which the virus could have emerged in a lab or in nature, and this investigation has really been about trying to pin the blame on NIH and NIAID for the COVID-19 pandemic. But to be perfectly clear, I take seriously the allegations of unauthorized disposition of NIH email records by you, Dr. Morens, and so I have your statements, Dr. Morens, and the emails showing a disdain for the Freedom of Information Act are really discouraging, very concerning. And you say in your answering of the questions that you did it as black humor, but I don't think you used black humor and hide the comments that you are trying to do on personal email. I think your conduct shows a blatant disregard for accountability to the taxpayers who fund NIAID's work, and, quite frankly, it really is disturbing. Dr. Morens, do you have any regret for the way in which you conducted yourself and the way it has reflected upon NIAID? Dr. Morens. Yes, I do. Mrs. Dingell. And do you realize that there are thousands of employees who have worked alongside you at both NIAID and NIH, who are now left to deal with the ramifications of your misconduct and its impact on the agencies? Dr. Morens. Well, that it might happen is very bothersome to me, and of almost everything that is happening, I really regret that. I am very loyal to NIH. They have been good to me. And I have nothing but good to say about the system at NIH, and that I may have brought embarrassment to them by my actions and my statements, it is just something I am very ashamed of. I can't put the toothpaste back in the tube. Mrs. Dingell. I just hope we are going to be very careful as you are telling us what the facts are because I am very disturbed by other people that may be thrown under the bus in some of the wild statements that you have made and your personal statements, and that you take accountability and don't lay blame on people. It is very hard for us to get to the truth. Maybe that is the way for me to say it. Dr. Morens. Ma'am, I am here to answer all your questions and tell you the truth, and any question you want to ask me, I will do my best to answer it to the fullest of my knowledge. Mrs. Dingell. I am just going to close here and say that the NIH and the National Archives and Records Administration have taken steps to investigate these matters, and I want and share my colleagues' desire from expeditious completion of the evaluation and appropriate next steps to hold you accountable. But in the meantime, I want everyone to keep in mind that although Republicans have tried to read into your emails for proof that Federal officials somehow sparked the COVID-19 pandemic, there simply is no evidence of it. There is a critical distinction. As I have said in recent hearings, I will always support holding Federal grantees and public servants to the highest standards of professional integrity, but I worry that we are once again blurring the lines between professional misconduct and the separate question of the origins of COVID- 19. And I hope that we do not conflict these issues, and I think what you have done has significantly contributed to that. Thank you, and I yield back. Dr. Wenstrup. Now I recognize the Chairman of the full committee, Mr. Comer from Kentucky, for 5 minutes of questions. Chairman Comer. Thank you, Mr. Chairman. On May 16, we heard from your boss, Dr. Lawrence Tabak, regarding some of your emails and avoiding the Freedom of Information Act. And I am sure, as you have already testified, you are aware that deleting Federal records is a crime, and as you have said, you previously testified that you did not delete any Federal records. But on February 24, 2021, you wrote, ``I learned from our FOIA lady here how to make emails disappear after I am FOIA'd, but before the search starts, so I think we are all safe. Plus, I deleted most of those earlier emails after sending them to Gmail.'' And the next day on February 25, 2021, you wrote, ``But I learned the tricks last year from an old friend, Marg Moore, who heads our FOIA Office and also hates FOIAs.'' ``Yes'' or ``no,'' is Marg Moore the FOIA lady you were referring to? Dr. Morens. She was at the time. I believe she has retired since then. Chairman Comer. Did the NIH FOIA Office instruct you on how to delete emails or avoid FOIA? Dr. Morens. No. Chairman Comer. On October 25, 2021, another scientist wrote, ``David is concerned about the privacy of texts and other messages from his cellphone to you and me because he has been using a government phone. This came from Tony.'' Sir, did you ever have any conversations with Dr. Fauci regarding using personal phone or email to communicate with Dr. Daszak? Dr. Morens. I don't remember it. It is possible, you know. I probably wouldn't have remembered and I don't remember it. He and I usually never talked about that kind of stuff. It would be very unusual if it happened. Chairman Comer. On January 18, you testified that you did not have any conversations with Dr. Fauci regarding EcoHealth. On October 25, 2021, you wrote, ``Peter, from Tony's numerous recent comments to me, they are trying to protect you,'' you meaning, EcoHealth and Dr. Daszak. Dr. Morens, did you ever have any conversations with Dr. Fauci regarding EcoHealth? Dr. Morens. Well, the ones you just mentioned, I don't have any recollection of that. Chairman Comer. No recollection? Dr. Morens. Huh? No recollection, no, but let me just say what I do remember, is one time in a face-to-face meeting, he referred, alluded to, or some stuff that was in the press. I don't even think he said what it was. But I assumed it was about Peter's grants and press reports about it and the ending of the grant. And I said to him sort of out of the blue, guessing what he was really thinking. I said to him, Tony, I know you would have never been involved in getting rid of that grant, and he didn't respond. He just sort of looked at me and---- Chairman Comer. So, Dr. Fauci was always a big defender of EcoHealth and they are---- Dr. Morens. Well---- Chairman Comer . Their right to receive Federal funding? Dr. Morens. I can't speak for him. I think he had great respect for them, and when the grant problems came about, I think he was troubled by it. In fact, I just thought of something that I forgot to say. At some point, somebody, it may not have been Tony, but it might have been Hugh Auchincloss, somebody said to me, you know, Peter is his own worst enemy because he made some mistakes on that grant. Chairman Comer. I would say that is a factual statement. On April 21, 2021, you wrote that Dr. Fauci is ``too smart to let colleagues send him stuff that could cause trouble.'' On June 16, 2020, you wrote, ``We are all smart enough to know to never have smoking guns, and we wouldn't put them in emails, and if we found them, we delete them.'' Now, did you ever have conversations with Dr. Fauci regarding deleting emails? Dr. Morens. I don't remember any such thing. Chairman Comer. You don't remember? Dr. Morens. No, sir. Tony and I don't have those kinds of conversations. Chairman Comer. Did you ever delete any official records? Dr. Morens. Not to my knowledge, I mean, but again, at the issue of defining what is a Federal record, I deleted a lot of emails. I do it every day. But in my mind, they are trivial things not related to government business. Chairman Comer. In response to my questions, Dr. Tabak said he absolutely agreed with every compliance action the NIH took against Dr. Daszak and EcoHealth. And over the past 2 weeks, both EcoHealth and Dr. Daszak have been suspended from receiving Federal funding, finally, and proposed for debarment. Do you agree with NIH's actions against EcoHealth? Dr. Morens. I have never seen the grant. I don't know what is in it. I can't really speak to that. But I can say I have known Peter Daszak for almost 20 years, and in my personal opinion, he is an honorable, decent---- Chairman Comer. So, have you had conversations with Dr. Daszak about this recent suspension? Dr. Morens. Not a conversation. I knew about it. He sent me an email or something---- Chairman Comer. So that occurred over email? Dr. Morens. Huh? Chairman Comer. You and Dr. Daszak communicated via email about his disbarment? Dr. Morens. I should say Gmail, not NIH email. You know, he was sending stuff to my NIH email for a long time, and I kept telling him don't do that, and that is how this this Gmail thing started. In 2020, he sent a message to me on my government NIH email, and I forget what it was, maybe I never knew what it was, but eventually that email was FOIA'd. Chairman Comer. OK. So---- Dr. Morens. Wait a second. Can I finish? Chairman Comer. Go ahead. Dr. Morens. Eventually, this email was FOIA'd, and Peter contacted me and said, you know, some friend you are. I send you an email with all my personal stuff, and it ends up in the newspaper, and that really struck me. That was a turning point for me because he was under death threats. Chairman Comer. Right, right, and I get it. I get it. Mr. Chairman, if I may, just one last ``yes'' or ``no'' question. Have you had any conversations with Dr. Daszak about this suspension? Yes or no. Dr. Morens. The suspension? Chairman Comer. The suspension. The disbarment, the suspension? Dr. Morens. Not conversation, but he has sent me an email with---- Chairman Comer. An email is a conversation. Your conversation via email then. You have had a conversation via email with Dr. Daszak? Dr. Morens. Well, if you call it a conversation, yes. You know, we didn't talk about it. He just sent it to me, and I read it or not. That is all. Chairman Comer. Thank you. I yield back. Dr. Wenstrup. I now recognize Ms. Ross from North Carolina for 5 minutes of questions. Ms. Ross. Thank you, Mr. Chairman. Dr. Morens, I really take very seriously these allegations of misconduct. And the unauthorized disposition of NIH email records, your blatant disregard for transparency obligations under FOIA and the manner in which you conducted yourself, including disparaging language toward others have differing perspectives, not only call into question your judgment, but also your character. And on a larger scale, they inflict serious damage on public trust for the entire scientific enterprise because when you work for the Federal Government, you are not just working for yourself. You are working for the people and you are working with your colleagues. Since the start of the pandemic, we have seen a decline in the public's confidence in science and public health. One study conducted by the Pew Research Center found that between April 2020 and October 2023, the number of Americans who reported that they had a great deal of trust in scientists, fell by 16 percent from 39 percent to 23 percent. And while proliferation of misinformation about COVID-19 has certainly fueled this decline, when the American public sees that one of the Federal Government's own scientists was potentially trying to hide their work-related conversations from the public by using a personal email, that will only lead to further distrust in our Nation's scientific community, and this decline in the confidence in the scientific enterprise has rippled and had health effects that we are seeing even now. For example, we have seen the effect of the distrust in science specifically, within our vaccine records. A recent survey from the Annenberg Public Policy Center found that the proportion of respondents who did not believe in vaccines that are approved in the United States, it nearly doubled from 9 percent to 16 percent between April 2021 and the fall of 2023, and with new variants of the coronavirus, fewer and fewer people are getting their booster shots. As we hold today's hearings, the United States is at the precipice of losing our measles elimination status due to repeated outbreaks of the disease that are popped up across the country, from Florida to Ohio to Missouri to California. This is especially concerning as 250,000 kindergarteners nationwide haven't received their updated measles immunization, leaving them unprotected from this deadly disease. That is not your fault, but what I am saying is when people don't trust scientists, they don't trust the science. So, you have answered this question in another way, but do you agree that your conduct as a scientist working for the Federal Government betrayed the highest ethical standards that are expected of you and are expected to maintain the trust of the American people? Dr. Morens. Well, that is a several-part statement, and let me answer it by saying I have always thought of myself as an ethical person. It is important to me to tell the truth and do decent things, and that is why I stuck my head up to defend Peter when he was under death threats obviously, and I thought all these things I was doing that were on my private email, my private Gmail, were outside the domain of my official job, a private citizen, but I have obviously made mistakes. I have mixed up emails and Gmails, and that has caused me to do a lot of the things you mentioned, but bring discredit on myself and on the government. I don't know what to say. I have apologized. I regret that. I wish I could take it back, but I can't. Ms. Ross. Thank you. It is imperative for the American public to trust the scientific community in order to best protect our Nation's public health. We are seeing in real time the consequences when trust declines. As members of the Select Subcommittee, it is critically important that we work to rebuild that trust in public health and science. Your actions have not helped these efforts. Thank you, and I yield back. Dr. Wenstrup. I now recognize Dr. Miller-Meeks from Iowa for 5 minutes of questions. Dr. Miller-Meeks. I thank you, Mr. Chairman, and I thank you, Dr. Morens, for testifying before the Select Subcommittee this afternoon. And if I can, I am just going to followup for a question that you were asked by Dr. Malliotakis in reference to whether or not you received any funding or moneys in relationship to the amount of funding going into an EcoHealth grant. So, to expand on that, did you receive any gift or anything of value during that exchange from Dr. Daszak of EcoHealth? Dr. Morens. One of Dr. Daszak's scientists, a guy named Kevin, well, I shouldn't mention his name, it doesn't matter. So, the EcoHealth people have their own private sector baseball cap, and I made a comment that that is a really cool hat, and he said, I have an extra one. This one is old and it has got some stains on it. I will just give it to you, and he did. Dr. Miller-Meeks. Well, thank you for that, and Dr. Morens, I can understand how very difficult it is for you to be here. You have had an illustrious career. You went to undergrad and medical school at a very prestigious university. I was on faculty at the University of Michigan. You are dual-Board certified, which is not an easy thing to do to have dual-Board certification. As a public health servant and a captain in the public health service, you have been on the forefront on some very important diseases, both virology and other infectious diseases, and autoimmune diseases such as Reye syndrome and Kawasaki disease. So, can you tell us just very briefly how difficult it is to get into medical school, especially in the 1970's and 1980's? Dr. Morens. I don't know. I was---- Dr. Miller-Meeks. Was it easy to get in med school? Dr. Morens. Pardon? Dr. Miller-Meeks. Is it easy to get into medical school? Dr. Morens. It was never easy. And particularly for somebody like me, when I applied to medical school, the only science course I have ever had was 9th grade general biology. Dr. Miller-Meeks. And do you know what Alpha Omega Alpha is? Dr. Morens. I believe that is an honorary, like, fraternities or society for medical students. Dr. Miller-Meeks. National Medical Honor Society. Is it easy to get into Alpha Omega Alpha? Dr. Morens. I don't believe it is. Dr. Miller-Meeks. Is it more prestigious to get in in the 3d year or the 4th year? Dr. Morens. I don't know. Dr. Miller-Meeks. OK. Do you know what a kilt is? Dr. Morens. A kilt? Dr. Miller-Meeks. Yes, sir, a kilt. Dr. Morens. K-i-l-t, like a Scottish kilt? Dr. Miller-Meeks. Yes. Dr. Morens. Yes. Dr. Miller-Meeks. OK. And do you know what a tragus is? Dr. Morens. Say again? Dr. Miller-Meeks. It is a Roman garb, such as Roman soldiers wear, sort of like a skirt. Dr. Morens. I don't think I know that word. Dr. Miller-Meeks. OK. Well, I left home at 16 to put myself through medical school. I was the last person who entered my medical school class at the University of Texas in 1982, the last person. By the third year, I was 12 out of 214 students Alpha Omega Alpha in the 3d year. I think merit is extraordinarily important. A tragus is a skirt. A kilt is a skirt. I don't think William Wallace was any less a hero in Scotland because he wore a kilt, nor do I think Roman soldiers were any less fierce, intelligent, or strategic because they wore a skirt. Now, although I have had differences, political and scientific differences, with Dr. Walensky. I have disagreed with her on infection acquired immunity. I have disagreed with her on school closures. I have disagreed with her on the lack of transparency of adverse outcomes from COVID-19 vaccines. I would have expected it when I was in medical school in 1982, and I can understand the embarrassment of having personal emails shared, but you were doing work-related stuff on your personal emails that you would have commented in an email, ``Dr. Fauci got Rochelle Walensky her job as CDC director by lobbying for her to Ron Klain. Well, she does wear a skirt. I poured a little cold water on her, but he was undeterred in thinking that she is the cat's pajama.'' So, let me just say, am I the cat's pajama? Do you know how many women sit on this subcommittee? Do you know what it takes for any of these women to get elected to Congress, because I find your comments to be disgusting. You had an illustrious career, an amazing track to get to where you are. You are trusted with one of the highest positions in government to combat public health crisis, and instead of doing your job, you are too busy worrying about avoiding FOIAs and challenging someone's position because they happened to wear a skirt. The American people deserve a whole lot better in their public servants. We don't need to worry about your trying to avoid FOIAs or what the quality of your mattress is, quite frankly, sir. You should be ashamed of your character and embarrassed. I am glad that you are, and you should in fact, apologize to this subcommittee, to Congress, and to our Nation. With that, I yield. Dr. Morens. May I apologize to you and the Committee. It is a misogynistic statement, and, you know, it was the same snarky joking stuff, but let me say I have been an advocate---- Dr. Miller-Meeks. Sir, that is not a snarky joke. That is an underlying behavior that indicates how you approach women and how you think of women, and it is disgusting. Dr. Wenstrup. The time has expired. I now recognize Ms. Tokuda from Hawaii for 5 minutes of questions. Ms. Tokuda. Thank you, Mr. Chair. I want to echo my colleague's sentiment that your behavior, your mishandling of Federal records and disregard for transparency obligations under the Freedom of Information Act, are an affront to the taxpayers whose contributions fund this Federal Government, and to whom we are all accountable, including yourself. In addition, they cast a shadow on the legacy of the millions of Federal workers who serve the public diligently and respectfully day in and day out. I want to be very clear on this point. Your troubling misconduct, Dr. Morens, is an anomaly, not the norm, and it is essential that you be held accountable for your misconduct so that the American people can remain confident that their taxpayer dollars are being invested in a Federal work force that is committed to serving our Nation responsibly and with the care that it deserves. So, let me ask you, Dr. Morens, do you feel any remorse for the way in which you handled the Federal records that have been reflected on the members of Federal work force who you have served alongside? Dr. Morens. You know, I am sorry, I am getting a little echo here, and I am not sure I am hearing every word you say. And I am also---- Ms. Tokuda. Do you feel any remorse for your handling of Federal records and how it has reflected on our Federal work force that serves alongside of you, the injustice you have done by making them look bad by your actions? Dr. Morens. To the extent that I have---- Ms. Tokuda. Do you feel sorry? Yes or no. It is a simple question. Dr. Morens. I have said that already. Ms. Tokuda. You feel sorry? You apologize? Dr. Morens. Yes, I do. Ms. Tokuda. To the work force, the Federal work force in which you have now cast a shadow over? Dr. Morens. Yes. Ms. Tokuda. So, can you say that you will, in fact, apologize for betraying your shared obligation of serving the American taxpayers with the utmost respect for transparency and accountability, that you let Americans down? Will you apologize for that? Dr. Morens. Ma'am, I would not use the word ``betray.'' I have let them down. Most of it was inadvertent, making poor choices and not understanding all these rules and regulations, but betrayal suggests a conscious act, and I never did that. I have great respect for the Federal work force. I have been in Federal Government employment for 48 consecutive years with lots of awards and accolades, and I have never had a hint of scandal. So, to have---- Ms. Tokuda. So, are you saying you are proud of your behavior, some of the behavior, and which was reflected here today in terms of comments you make, whether it be an official or non-official emails? Are you proud of this behavior? Dr. Morens. No. Ms. Tokuda. Is it up to the standards of the Federal Government and what taxpayers deserve? Dr. Morens. No, I am not. Ms. Tokuda. So, shouldn't this be a bit of a betrayal to the public, the ones you took an oath to, to make sure that you upheld your actions, your decisions, your comments? I consider it a betrayal, and we will agree to disagree on this. I am also disappointed, Dr. Morens, that someone in your position has taken such a brazen approach to blurring the lines between your official duties and your personal communications, as has been discussed by this panel, for example, in your personal email correspondence, including in your email signatures. So, this is not just something unintentional. You identify yourself with your role at NIAID, and you frequently referenced transferring correspondence from your official email address to your personal address, including when discussing matters where NIAID is actively engaged. In doing so, you are blurring the lines between whether you are taking actions in your official capacity with the Federal Agency or in your individual capacity pursuant to your personal interest. And, Dr. Morens, did you ever conduct government business through your personal email account? Dr. Morens. Not intentionally and---- Ms. Tokuda. Unintentionally or not, did you conduct government business through your personal email account? Dr. Morens. Well, some of the emails I have seen that you all have provided look pretty incriminating. I don't know what they are, I don't remember them, but, yes, it looks like I made a mistake on more than one occasion, but it certainly wasn't my intention to do that. And let me also---- Ms. Tokuda. Mistake or not, though--I am running short of time--you are admitting that you did official government business through your personal email from what you have ignored and seen today? Dr. Morens . Your definition of---- Ms. Tokuda. From what you have heard today, would you consider that to be official government business through your personal account? Dr. Morens. I don't know. I mean, I would have to look at all the emails---- Ms. Tokuda. OK. It seems like in our discussion, even talking with you here, it sounds like you would agree with us that you have conducted government business through your personal account. Did you ever misuse official resources to advance your personal interests or take contrary actions to NIAID's official policies or positions? Dr. Morens. I am sorry. I am getting feedback here and I can't---- Ms. Tokuda. Did you ever misuse official resources to advance your personal interest or take actions that were contrary to NIAID's official position? Dr. Morens. You know, I am not sure I know what that means, but if---- Ms. Tokuda. Did you misuse resources? Dr. Morens. I don't think so. Ms. Tokuda. Did you ever take contrary opinions to NIAID? Dr. Morens. Contrary opinions? Ms. Tokuda. Contrary opinions. OK. Clearly we have some miscommunications here, but similar to my colleagues on this dais here, I do believe you owe an apology and you have given one to the Federal work force. But the bottom line is all Americans, all taxpayers deserve an apology from you for your actions, the way you have conducted yourself both in a professional manner and through your personal correspondence as well, and with that, Chair, I yield back. Dr. Wenstrup. I now recognize Mrs. Lesko from Arizona for 5 minutes of questions. Mrs. Lesko. Thank you, Mr. Chair. I believe earlier today you said, sir, ``Tony,'' meaning Tony Fauci, ``does not want me to connect anything to him,'' and when asked by my colleagues did you use personal email for official business, you answer was, I didn't think it was doing official business, and then just now you said, not intentionally. Let me read some of the emails. The first email from you says, ``P.S., I forgot to say there is no worry about FOIAs. I can either send stuff to Tony on his private email or hand it to him at work or at his house. He is too smart to let colleagues send him stuff that could cause trouble.'' Next email from you said, ``I suggested Arthur try to interview Tony,'' meaning Tony Fauci, ``directly and connected him to our secret back channel. He emailed Tony a few hours ago.'' Next email from you, ``I forgot to clarify in my email yesterday that both my Gmail and phone calls are now safe. Text is not as it can be FOIA-ed as can my government email, so you and Peter,''--Peter Daszak--``and others should be able to email me on Gmail only, with the caveat that no other government employee is copied at a government address, as all government emails are potentially FOIA-able.'' Next email from you: ``This is sent from my Gmail account. Please send all replies here to Gmail. There are things I can't say except Tony is aware, and I have learned that there are ongoing efforts within NIH to steer through this with minimal damage to you, Peter, and colleagues and to NIH and NIAID.'' Next email: ``Jerry, my private Gmail account is where I sent this from after forwarding to myself from my NIH account. Please try to send only to my Gmail as we were doing a couple of weeks ago, but I messed up a few times and sent them from my NIH account because on my phone, the two are merged. And then when you respond by hitting reply, it goes to NIH. After some recent issues, I am going to try to strictly use only my Gmail in these discussions.'' Then the next email: ``I learned from our FOIA lady here how to make emails disappear after I was FOIA-ed, but before the search starts, so I think we are all safe. But I deleted most of these earlier emails after sending them to Gmail.'' Next email: ``With the help of our IT folks, I went over the whole computer and phone situation. Basically, my Gmail is now safe from FOIA. Thus, it should be safe to communicate safely with you, Peter, and others, as long as we use my private Gmail. I ask you both that nothing gets sent to me except to my Gmail.'' Sir, I believe you have lied here today to us, to Congress when you say, oh, I didn't know this, I didn't intentionally use my Gmail. Are you kidding me? Dr. Morens, do you want to change your testimony? Dr. Morens. No, I don't, because so many of these emails you just mentioned, I can't even remember them all, but the context is that this Gmail communication thing was set up purely to deal with personal things that were not government business and then other people---- Mrs. Lesko. Sir, with all due respect, how can you say that when you clearly, in all these emails, were intentionally avoiding FOIA? You said it in your own words, sir. Dr. Morens. Let's talk about what you mean by ``intentionally avoiding FOIA.'' I don't consider that telling them don't send me things because they could get FOIA-ed is potentially avoiding FOIA because those are personal things. And with respect to my NIH email, I couldn't possibly avoid FOIA because I had no control---- Mrs. Lesko. Sir, did you use, in most of these emails, your official signature? It said, ``David M. Morens, OD, NIAID, NIH.'' These were official. Dr. Morens. Well, let me tell you something else. I didn't mention---- Mrs. Lesko. And you forwarded from your NIH email to your personal email, and you said it right in your email. Dr. Morens. I learned only about a year ago that the fusion of my Gmail and my NIH email on my phone had another side effect too. And by the way, I finally got IT to take that off, to get rid of it so there is no more Gmail/email fusion. But after I asked them to take it off, I realized that if a Gmail or NIH email came to me and I replied to it, for some reason there was a default where the signature I had on Gmail, which said ``David Morens of Bethesda, Maryland'', or something, didn't go out, but the NIH email went out. I don't know how that happened. I didn't do it consciously---- Mrs. Lesko. Sir, I am sorry. I just don't believe you, and I yield back. Dr. Wenstrup. Dr. Morens, in my experience, I just want to say, I don't know what defect you are talking about. When you get an email from one email, you have to intentionally move it to another email. It doesn't automatically shift over to another email. Dr. Morens. I am sorry, I don't---- Dr. Wenstrup. I now recognize Mr. Mfume from Maryland for 5 minutes of questions. Mr. Mfume. Thank you very much, Mr. Chairman. I want to thank you and the Ranking Member. I mean, if this were not laughable, it would be laughable. I don't know what I am watching. I saw some of this in my office and got here a little while ago and caught the rest of it. Mr. Morens, this is a tale out of some sort of movie, and I am not trying to particularly characterize you except that I can't define you. I mean, you seem to be here, there, and everywhere on these questions, and I am trying to get what your testimony is here to this body other than ``I don't know,'' ``I don't remember,'' ``I am not sure.'' Much of your personal email account exchanges have been revealed, as we all know, by media outlets across the country in recent months, and many more had been turned over to this Select Committee, and, Dr. Morens, it appears that you yourself didn't even follow your own guidance. At least that is what I have come to believe here, and you've conflated personal and professional matters on both your official and your personal email accounts. That is correct, isn't it? Dr. Morens. I don't exactly know what the word ``conflated'' means, but mixed them up. Is that what it means? Mr. Mfume. Well, you want to take the Fifth Amendment? I mean, you don't seem to remember anything, and I find that amazing. Something does not seem right here. It is very unsettling to me and obviously to Members of this committee. We believe that every Federal grant applicant should have full and fair consideration that is consistent with Federal guidelines, and I am not sure that has occurred. I don't know what to make of this. So let me ask you, since you are under oath, what is it that you want this committee to know about these so many allegations that had been sent your way? Dr. Morens. I want this committee to know that however many mistakes I made and however bad they were, I was trying to do the right thing. I had a friend, a personal friend, who was in danger of being murdered and his family being murdered and everything centered around that, and I did what I could do. And pretty soon the Gmail thing, which I thought was desirable and legal, getting personal stuff away from---- Mr. Mfume. Sorry, you lost me. You lost me. What does a friend of yours who is close to being murdered have to do with the way that you performed your duties? Dr. Morens. I am sorry. I don't understand your question. Could you---- Mr. Mfume. I didn't understand your answer. You said I was dealing with a friend who was close to being murdered, and then you went on to say something else. I am trying to connect them. Dr. Morens. Let me just repeat. My reason for telling Peter and others to go to my Gmail is because Peter and later Peter Hotez and some others were under death threats, and anything they sent me on my government email could end up in the public domain, and then I would be responsible for making their peril even worse. Does that make sense, or can I explain it again? Mr. Mfume. Go ahead. Dr. Morens. All right. Let me go back again to what I said before. When Peter Daszak contacted me in early 2020 and let me know that an email that he had sent me to my government NIH email had ended up being published in a journal or something and that it was personally embarrassing to him, I said to him as I said several times to him, why are you sending it on my government email? This is not government business. It is your personal thing about your state of mind, about your security arrangements, that if known your address being published, if your security arrangements are known, then people trying to kill you, you know, could maybe do it, and I felt responsible for that. Peter was very upset, and I was upset too. Mr. Mfume. Dr. Morens, what else do you feel responsible for? Dr. Morens. Pardon? Mr. Mfume. What else do you feel responsible for? Dr. Morens. I am sorry. I am getting this echo here. Should I turn off my microphone? Mr. Mfume. Yes, you are using my time. Let me ask you, why didn't you report any of this to the Ethics Office? Dr. Morens. I don't know. I don't even know what our Ethics Office does, but Peter certainly reported it to the---- Mr. Mfume. I am not worried about Peter. I am talking about you. Peter is not here. I just want to know if you thought this was ethically incorrect or improper, why didn't you report it to the Ethics Office? Dr. Morens. What are you referring to? Is what being ethically improper? Mr. Mfume. What you just said. You asked him why was he sending this to one email account when it should have gone to another one. Dr. Morens. And you are asking me whether I thought what he was doing was unethical, what I was doing is unethical? Mr. Mfume. Sir, I think you are going to be haunted by your testimony today, and it is unfortunate. It is all on the record, and it doesn't make a lot of sense to many of us, certainly not to me. And I don't want to carry this on any further. Mr. Chairman, I am going to yield back any time that I have remaining. I thank you for the opportunity. Dr. Wenstrup. I now recognize Mr. Cloud from Texas for 5 minutes of questions. Mr. Cloud. Thank you, Mr. Chairman. Is this correct that this was your title, the Senior Adviser to National Institute of Allergy and Infectious Disease former Director, Dr. Anthony Fauci? Dr. Morens. I think my title is Senior Adviser to the Director, National Institute of Allergy and Infectious Diseases. Mr. Cloud. OK. And how long did you work with Dr. Fauci or for him? Dr. Morens. Twenty-six years. Mr. Cloud. And you would also consider him a personal friend? Dr. Morens. No. I mean---- Mr. Cloud. No? Dr. Morens. You know, he is a colleague, and Tony is a, you know, private guy. I have never gone out with him to have a beer or---- Mr. Cloud. You mentioned Peter Daszak is a personal friend---- Dr. Morens. Yes. Mr. Cloud . For 20 years. Is that correct? Dr. Morens. Probably a little less than 20 years, but somewhere in that range. Mr. Cloud. OK. And your statement today still is that you did not intend to avoid FOIA? Dr. Morens. Yes, sir. Mr. Cloud. In spite of the several emails we have saying otherwise. Is that correct? Dr. Morens. I think it is correct, but there are some elements of this, you know, that I don't think are being understood. You can't avoid FOIA---- Mr. Cloud. And you just said that you did no official business on your Gmail account. Is that correct? Dr. Morens. I tried to make sure I never did official business. Mr. Cloud. And that is not what you just said a few minutes ago. You said you never did. Here is an email from Peter to you: ``Attached is a single sheet with bullets explaining why Dr. Tabak was wrong and hopefully convincing folks at NIH to stop criticizing EHA's reporting compliance. Please don't share this letter yet. We will edit that and get it to NIH by Tuesday hopefully.'' You replied, ``Peter, this is an excellent draft. I will suggest some wordsmithing tweaks later today.'' He said, ``Thanks for the comments, David. I will incorporate them today.'' Do you think that is not official business? Dr. Morens. I would have to look at it. I don't know---- Mr. Cloud. OK. This is related to EHA. EHA is EcoHealth, is that right? Dr. Morens. Yes, but I mean--yes. Mr. Cloud. OK. So this is an organization who got a government grant that you are supposed to be overseeing, right? Dr. Morens. I don't have any grant oversight---- Mr. Cloud. Well, NIH. Dr. Morens. NIH does, but I'm---- Mr. Cloud. Sure, and you are the Senior Adviser to the head of---- Dr. Morens. Right, but I have no involvement in any grants, in any aspect of any grants. Mr. Cloud. Sure. Dr. Morens. And I don't know whether what you are referring to is a grant that was already funded or an application that a friend---- Mr. Cloud. Do you not see that as a conflict of interest for you to be advising someone who is working to get a Federal grant on how they are communicating and approaching and even suggesting tweak outline, tweak revisions? Dr. Morens. I think it would be a conflict of interest, as I understand it, helping someone---- Mr. Cloud. Is that why you used your Gmail instead of your official mail for communication with Peter? Dr. Morens. Using my Gmail, it was for a different purpose that was for avoiding more embarrassment and danger to him. Mr. Cloud. And specifically, as your emails say, avoiding FOIA, correct? Dr. Morens. No. Well, yes, I guess you could say that, avoiding him sending something that had nothing to do with NIH business, but could be FOIA-ed and embarrass him. Mr. Cloud. OK. Now, there has been this dialog that, you know, you are the one bad apple in a whole bunch. Before, you know, our last hearing, the communication was Peter was the one bad apple out of a whole bunch. Who was the FOIA lady that you mentioned? Dr. Morens. I think Marg Moore. Mr. Cloud. All right. Dr. Morens. Marg is Margaret. Margaret Moore. Mr. Cloud. OK. What tips did she give you about avoiding FOIA? Dr. Morens. Well, she gave me none about avoiding FOIA. That was a joke, but what she did say to me was--well, let me back up a little bit. Mr. Cloud. You are sure about that? Dr. Morens. Hmm? Mr. Cloud. Are you sure about that? We can subpoena her email too, you know---- Dr. Morens. Yes. Mr. Cloud . And we can call her to witness as well, so make sure your testimony is accurate. Dr. Morens. Yes. No, I am telling you what I know and remember, and it is the truth as far as I know it. When Peter had---- Mr. Cloud. Do you think you are the first employee that she gave advice on how to avoid FOIA? Dr. Morens. She didn't give me advice about how to avoid FOIA. Let me---- Mr. Cloud. You said she gave you advice on how to avoiding FOIA. Dr. Morens. That is what I said because that was sort of-- -- Mr. Cloud. So you were lying then, but you are telling us the truth now? Dr. Morens. I wasn't lying. I was making a joke with Peter. You know, I said something like I have a way to make it go away, but that was just a euphemism. May I tell you what she told me? Mr. Cloud. Sure. Dr. Morens. I was worried because I was getting so many FOIAs. I was worried that personal things were going to get into it, so I went and talked to her and said, how does this work because at that point in time I had no involvement in FOIAs. If I was going to be FOIA-ed, the FOIA Office would notify me and say do we have your permission to do a FOIA investigation, and I would say yes, and that is the end of what I heard. But I was worried that these personal things would get caught up in it, so I asked her how it worked. And she said, well, you really don't have to worry about personal things because when there is a FOIA request. We, the FOIA Office, negotiate to limit the scope of what they are looking for to, among other things, make sure that inadvertent stuff doesn't get in there. Mr. Cloud. You said a comment earlier that concerned me: the relationship between your organization, NIH, and EcoHealth should be one of oversight. To start off this hearing, you said, we all felt it was our job to cheer Peter up. I am just really concerned because Peter even admitted the last time that he did not do a good job of overseeing the grant that went to the Wuhan lab. It is clear that our government did not do a good job of overseeing EcoHealth. And it, to me, speaks to the culture that is at issue here when you think your job instead of oversight is to make sure that we are cheering up the people we should be overseeing. Thank you, Chairman. I yield back. Dr. Wenstrup. I now recognize Dr. McCormick from Georgia for 5 minutes of questions. Dr. McCormick. Thank you, Mr. Chairman. Dr. Morens, now, I am no lawyer, I am a doctor, but just looking through what evidence we have and what we subpoenaed and what we have gotten, it has become apparent that you and many employees at NIH and NIAID have been stonewalling and outright avoiding our subcommittee's investigation. Not only is it a violation of law, as far as I am understanding, but it also fosters a continual distrust of government and its officials and what we have been funding. Last July, this Select Subcommittee discovered the initial evidence of your misconduct and reported it to the National Archives and Records Administration, and at the National Archives' direction, NIH started an investigation into your use of personal email to conduct official business in the unlawful deletion of Federal records. I understand you talked about to avoid embarrassment. I think that has done just the opposite. When the investigation began, you were placed on paid administrative leave. In simpler terms, you have been continuing to receive your salary and your benefits but do not perform any official duties. As far as we have been notified, you have not been subject to any discipline or accountability to this point. Is that correct? Dr. Morens. Well, I would say that being placed on administrative leave is a discipline because I love my job and I would like to be back there doing work, and it is painful for me not to be able to work with my colleagues. And may I also say that that investigation of me that you referred to for destroying documents, exonerated me and said there is no evidence I destroyed any documents. Dr. McCormick. OK. Dr. Morens. And you probably have that information yourself. I have it. Dr. McCormick. I am not going to ask about the status of the investigation because I think that is inappropriate at this time, and I don't think it would be appropriate for you to comment on an ongoing investigation. But I hope the subcommittee receives the answers from the NIH as to the status of the investigation soon, which we still have not received because we don't think that it is appropriate to pay people who weren't able to do a job at the time. So I think we are both wasting our time. In your emails recovered through FOIA, you boasted to Dr. Daszak that you had a ``secret back channel'' to communicate with Dr. Fauci. That is what we have seen so far. We also have statements concerning the NIH, NIAID, and FOIAs, also an instruction on how to avoid document production through intentional misspellings of keywords to avoid triggering hits in automated search queries in response to FOIA requests and congressional oversight inquiries. Dr. Morens, do you deny these statements? Dr. Morens. You know, I am sorry, I am not sure I followed everything you said. I am also getting a little echo from your side, but let me move away from them. Let me turn off the microphone---- Dr. McCormick. May I reclaim that time that I am going to repeat, please? Dr. Wenstrup. Yes. Dr. McCormick. Thank you. We have statements concerning the NIH, NIAID, FOIA officer, instructions on how to avoid document production through intentional misspellings of keywords to avoid triggering hits on automatic search queries in response to FOIA requests and congressional oversight inquiries, that you had the secret back-channel ways to get a hold of Fauci, that you are trying to avoid queries through FOIA by misspellings and other things. That is what we have come to the conclusion on. Do you deny that? Dr. Morens. I think there is a misunderstanding because the secret back channel---- Dr. Wenstrup. Microphone. Dr. McCormick. Microphone. Dr. Wenstrup. Microphone. Dr. Morens. I am sorry. I think there is some misunderstanding here. The secret back channel joking terminology, to my knowledge, was never about FOIAs. Dr. McCormick. So you are going to joke about back channels to Fauci and about misspellings on queries? That is a joke? Not very funny to me. Dr. Morens. I would have to see this communication. It is confusing to me because, you know, I could walk into Tony's office and talk to him anytime I wanted. There is no need to have a back channel, and I had face-to-face meetings with him all the time. So the back-channel thing---- Dr. McCormick. So you deny these statements is what you are saying. Dr. Morens. I think there is a mix-up somewhere. Dr. McCormick. So you deny it, yes? Dr. Morens. I guess I do. Dr. McCormick. OK. Dr. Morens, we have your previous statement on FOIA documents here. Chairman, I request unanimous consent to submit these documents for the record. Dr. Wenstrup. Without objection. Dr. McCormick. OK. Based on your answer, you either lied to Congress on your transcribed interview or are lying here today. This caused me to believe that your behavior as senior scientific adviser to the director reflects much broader NIH- and NIAID-wide practice which really concerns me. This Select Subcommittee must bring HHS and the agencies beneath it to heal in every way possible over the final 7 months of this Select Subcommittee. I want to take a moment to thank the Chairman and my colleagues for their leadership thus far. We must earn back American people's trust and confidence. We must have full transparency. And with that I yield. Dr. Wenstrup. Dr. Morens, I am going to take a little time to read some statements and ask some more questions. On January 18, you were asked if you ever assisted in the drafting of correspondence that Dr. Daszak sent to the National Institutes of Health regarding EcoHealth's terminated grant. You answered ``no.'' On January 18, you were asked if you ever provided advice to Dr. Daszak regarding his grant termination. You answered ``no.'' In your Gmail on March 29, 2001, you responded to Dr. Daszak with edits to a letter that he sent to the NIH. On October 25, 2021, you responded to Dr. Daszak that you would edit an EcoHealth press release regarding the grant termination. On April 28, 2020, you responded to Dr. Daszak with edits to an EcoHealth press release regarding the grant termination. On October 25, 2021, you provided Dr. Daszak with advice regarding preparing a timeline regarding EcoHealth's late 5-year report submission. On December 7, 2021, you wrote to the chair of EcoHealth's board of directors to ``put in a word'' for Dr. Daszak. Did you ever advise Dr. Daszak on how to respond to NIH compliance actions? Yes or no. Dr. Morens. What is the word to compliance actions? Dr. Wenstrup. Did you ever advise Dr. Daszak on how to respond to NIH compliance actions? Dr. Morens. Well, yes, I did tell him multiple times---- Dr. Wenstrup. OK. That is all I am asking. Did you ever edit a letter Dr. Daszak sent to NIH in response to a compliance action? Dr. Morens. Well, I must have. I don't remember it, but I saw such a letter. Dr. Wenstrup. OK. Dr. Morens. I don't know what it was, but apparently, I helped him do it, but---- Dr. Wenstrup. Did you ever edit a press release that Dr. Daszak issued in response to a compliance action? Dr. Morens. Did I send a press---- Dr. Wenstrup. Did you ever edit a press release that Dr. Daszak issued in response to a compliance action? Dr. Morens. The fact that you are asking me says I must have, but I don't remember it. Dr. Wenstrup. OK. Did you ever advocate on behalf of Dr. Daszak to EcoHealth's board of directors? Dr. Morens. I sent a letter to Nancye Green, the head of the board of directors essentially saying, you know, my personal knowledge of Peter--shall I wait a minute? Dr. Wenstrup. Go ahead. Dr. Morens. This was in response to Peter saying, you know, the Board is worried about all these accusations against me, I could be fired, can you tell the board that I am a good person and, as far as you know, I am an upstanding guy. And I did that, but as a private citizen, not as representing NIH. Dr. Wenstrup. Thank you. I now recognize Ms. Greene from Georgia for 5 minutes of questions. Ms. Greene. Thank you, Mr. Chairman. Dr. Morens, your emails have been quite interesting. Reading them has been pretty shocking. On April 18, 2020, you wrote an email saying, ``Peter Daszak emailed me congratulating Tony on standing up for science. That email somehow fell into the hands of the Congressmen, probably via a FOIA of someone who didn't delete it, as I did delete all of Peter's emails and others relating to the origin when the shit started hitting the fan. Anyway, the Congressmen got a copy of Peter D's emails from someone at NIH, and he now wants to get any reply Tony and I or anyone else may have sent back to Peter. Mine was erased long ago. I verified that today, and I feel pretty sure Tony's was, too. The best way to avoid FOIA hassles is to delete all emails when you learn a subject is getting sensitive. In any case, there is nothing here except opportunities to hassle, harass, and huff and puff. You really got into some opportunities.'' You also wrote on June 16, 2020, you said, ``The FOIAs are dreadful and paranoia-inducing. In the old days, we had to do them ourselves by hand, I mean, finding and printing out thousands of emails coming in and going out. Now they sometimes FOIA text messages, too. Many FOIAs turn up thousands of pages of docs and, of course, most meaningless. We are all smart enough to know to never have smoking guns, and if we did, we wouldn't put them in emails, and if we found them, we would delete them.'' You wrote on February 24, 2021, you said, ``You are right, and I need to be more careful. However, as I mentioned once before, I learned from our FOIA lady here how to make emails disappear after I am FOIA-ed, but before the search starts, so I think we are all safe. Plus, I deleted most of those earlier emails after sending them to Gmail.'' Dr. Morens, who is your FOIA lady? Is it Hillary Clinton? Dr. Morens. Thank you for the humor. Ms. Greene. You are welcome. Dr. Morens. Thank you for the humor. I think, you know, you said about 10 things there and my brain can't keep them all in my head, but I think I have answered a lot of those questions. I told you who the FOIA lady was. I told you what she told me. I told the committee that it is impossible to avoid a FOIA and it is impossible to destroy an NIH document, an email document. Impossible to do it. Ms. Greene. Well, clearly because we have got your emails, and they are pretty shocking. Dr. Morens. There you go. Ms. Greene. I do appreciate humor as well, but you do receive a taxpayer paycheck, and when it comes to work emails, there are a lot of things that shouldn't really---- Dr. Morens. By the way, if I understood what you just said, let me just say that a lot of government emails come to my Gmail, stuff from CDC, my paycheck. Ms. Greene. This is all related to your job, though, regardless of which email account. Like I said, Hillary Clinton had a private server as well and she put a lot of things there and somehow they disappeared. Dr. Morens. . Ms. Greene. Dr. Morens, you also wrote on October 5, 2021, ``Peter, I just got news that the FOIA picked up an email I sent you saying that Tony commented he was brain dead, jokingly of course. However, Ron Johnson is all over it and now after me. Tony will be pissed, rightfully so. I deleted the email, but I now learned that every email I ever got since 1998 is captured and will be turned over whether or not I instantly deleted it, Gmail, phone texts. I need to scrupulously rely on those exclusively.'' On July 22, 2020, this one was actually pretty interesting: ``I am actually imbibing a double, or is it a triple, martini at the moment. Not sure of the amount of EtOH because I just poured until my elbow got sore, but the olive at the bottom is hard to see. No hot tub in my condo. I tried to negotiate a jacuzzi, but they balked and I caved. In any case, now that I am divorced, what good is a hot tub or Jacuzzi? If I am lucky enough to find a girlfriend, I will spring for a Jacuzzi, upgrade my wine cooler, get a mattress that will take more of a pounding and stop working so hard. In the meantime, I will work at my job of trying to make the boss look good.'' In the summer of 2020, COVID was raging, and I personally believe that Peter Daszak at EcoHealth had a lot to do with the fact that COVID was raging because experimenting on viruses that turn into basically a monster that has murdered millions and millions of people is something to take very seriously. I have one more question for you. This is where you emailed and talked about kickbacks. This was on August 27, 2020, after you were talking about covering up for Tony. You said, ``Of course, there is a kickback.'' And then you also referenced a kickback on August 27, 2020. You said, ``Do I get a kickback? Too much fooking money. Do you deserve it all? Let's discuss.'' Have you made any money off of EcoHealth, off of COVID-19, and off of COVID vaccines, Dr. Morens? Dr. Morens. No, no I have not. Ms. Greene. Then what were you talking about with kickbacks? Dr. Morens. That is a joke. Ms. Greene. That is not a joke. You were talking about kickbacks, and this is something that is very serious. As I said, millions of people died and millions of people were forced to take a vaccine they should have never had to take against their will. Thank you, Mr. Chairman. Dr. Wenstrup. Now I recognize Dr. Joyce from Pennsylvania for 5 minutes of questions. Dr. Joyce. Thank you, Chairman Wenstrup, for convening this important hearing. Over the past months, this subcommittee has heard testimony from Dr. Daszak of EcoHealth and NIH deputy director, Dr. Tabak. During that questioning of both of these witnesses, it has become clear to me that the NIH's current grant processes are inadequate to ensure the proper oversight of Federal funds. Dr. Daszak revealed that EcoHealth's renegotiated grant would rely on continued work from the Wuhan Institute of Virology, and Dr. Tabak confirmed that NIH was unaware of this continued collaboration when certifying EcoHealth's compliance. This means that based on false statements, NIH and NIAID approved Federal funding to go toward work involving the debarred Wuhan Institute of Virology. Dr. Morens, do you agree that the NIH must have a rigorous grant review process in order to ensure the grants that they provide are responsible use of the Federal taxpayers' dollars? Dr. Morens. Yes. Dr. Joyce. Do you agree that the strict review processes are especially important when evaluating a grantee who is out of compliance and determine if they are still receiving funding? Dr. Morens. Yes, but I mean---- Dr. Joyce. Thank you. ``Yes'' is the answer. On September 7, 2021, you wrote to Dr. Daszak in an email titled, ``For Urgent Review, Questions Raised by Ecohealth Alliance Grant Proposal.'' You wrote, ``Don't worry, behind the scenes NIH is sticking up for EcoHealth''--that is a quote--and proceeded to forward internal NIH communications to Dr. Daszak. What did you mean by saying that the NIH was sticking up for EcoHealth behind the scenes? Dr. Morens. I don't remember specifically, but I felt---- Dr. Joyce. Sounds nefarious, doesn't it? Dr. Morens. It sounds what? Dr. Joyce. It sounds like it is suspicious. It sounds nefarious. Dr. Morens. It does, yes. Dr. Joyce. It is concerning, isn't it? Dr. Morens. Yes. Dr. Joyce. Were you regularly colluding with Dr. Daszak in order to promote EcoHealth in the NIH? Dr. Morens. Did I collude with him? Dr. Joyce. Yes, that is my question. Dr. Morens. No. Dr. Joyce. Is using an unofficial email address to provide grantees with nonpublic information about grant consideration consistent with NIH standards review process? Dr. Morens. I think what I was referring to is stuff that was in the public domain. There was a newspaper---- Dr. Joyce. Why would you use a private email to do that? Dr. Morens. Because at one point I stopped communicating with Peter and the others on anything but Gmail. Dr. Joyce. Why would you do that? Dr. Morens. Well, I have already explained that because things that they tell me that are private things could get into the public domain if they send it to my---- Dr. Joyce. Well, you said it was in a public domain. Is personally editing grantee responses to NIH compliance efforts, as you did, with letters EcoHealth sent to NIH, consistent with NIH and NIAID's standard compliance process? Dr. Morens. It is probably not. I would have to go look at it, and I don't remember---- Dr. Joyce. It certainly is not. Do you believe that using your personal email in this way was consistent with NIH and NIAID policy, and are you aware of other NIH or NIAID employees who also conducted official work on unofficial emails? Dr. Morens. You know, I don't know of anybody specifically, but we get training on emails all the time, and in that training, we are told that it is a policy to try to separate them, so---- Dr. Joyce. Did you follow that policy? Dr. Morens. I try to, yes, and I may---- Dr. Joyce. We have evidence that you did not follow that policy. Trying to is not success. The government standards of the NIH should mean following policy. Do you agree that you failed to follow NIH policy? Dr. Morens. I do agree, but, you know---- Dr. Joyce. I find this to be quite concerning as we look to how we move forward, recognizing that NIH standards and NIH policies were failed. I think that your testimony here today continues to affirm to us that NIH policies have dismally failed when it came to COVID-19. Mr. Chairman, I thank you for the opportunity to have this hearing today, and I yield the balance of my time. Dr. Wenstrup. Thank you. Dr. Morens, it is not the intention of this committee to throw the baby out with the bathwater, and I agree with Dr. Ruiz, many public servants work diligently and honestly every day and I applaud those public servants. We applaud their work. But it is clear between your transcribed interview, the actions that we have seen through your emails, and your testimony today, that we have more investigating to do. And in closing, I just want to say thank you for appearing before us today. And with that, and without objection, all Members will have 5 legislative days within which to submit materials and to submit additional written questions for the witnesses, which will be forwarded to the witnesses for their response. Dr. Wenstrup. If there is no further business, without objection, this Select Subcommittee stands adjourned.  
+A HEARING WITH
+THE NATIONAL INSTITUTE OF ALLERGY
+AND INFECTIOUS DISEASES
+SENIOR SCIENTIFIC ADVISOR
+DR. DAVID MORENS
+----------
+Wednesday, May 22, 2024
+House of Representatives
+Committee on Oversight and Accountability
+Select Subcommittee on the Coronavirus Pandemic
+Washington, D.C.
+The Subcommittee met, pursuant to notice, at 3:31 p.m., in
+room 2154, Rayburn House Office Building, Hon. Brad Wenstrup
+ presiding.
+Present: Representatives Wenstrup, Comer, Malliotakis,
+Miller-Meeks, Lesko, Cloud, Joyce, Greene, McCormick, Ruiz,
+Dingell, Mfume, Ross, and Tokuda.
+Also present: Representatives Griffith and Castor.
+Dr. Wenstrup. The Select Subcommittee on the Coronavirus
+Pandemic will come to order. I want to welcome everyone.
+At the discretion of the chair and pursuant to an agreement
+with the Committee on Energy and Commerce, the Chairman and
+Ranking Member of the Committee on Energy and Commerce,
+Subcommittee on Oversight and Investigations, Mr. Morgan
+Griffith and Ms. Kathy Castor, are permitted to participate in
+today's hearings for the purposes of questions and give 3-
+minute opening statements if they so desire.
+Without objection, the chair may declare a recess at any
+time.
+I now recognize myself for the purpose of making an opening
+statement.
+Good afternoon, everyone. Dr. Morens, you wrote in an email
+that you have never said anything that you would not be happy
+to defend before a congressional Committee. Today serves that
+day. The Select Subcommittee has been thoroughly investigating
+the U.S. Government's response to the coronavirus pandemic. The
+years-long investigation has been conducted to both understand
+the actions of our public health agencies, institutions, and
+officials, and the actions taken so that we can learn from
+deficiencies and ingrained proficiencies. We are learning from
+experiences and developing better pathways for processes,
+responses, and new ways forward so that the next time there is
+a public health emergency, such as a pandemic, our response
+will meet the high standards the American people expect,
+deserve, and pay for. This is not McCarthyism. This is not
+Stalinesque. This is not a witch-hunt. As you, Dr. Morens and
+Dr. Daszak have so eloquently labeled it before, this is
+seeking truth, justice, and the American way.
+While conducting this investigation, the Select
+Subcommittee uncovered extremely concerning behavior by Dr.
+Anthony Fauci's senior scientific advisor and the witness
+before us today, Dr. David Morens. Accordingly, on April 16,
+2024, the Select Subcommittee announced a subpoena for Dr.
+Morens for documents related to the COVID-19 pandemic,
+specifically those found on his personal email accounts, which
+he had been using to communicate with other NIH officials and
+EcoHealth President, Dr. Peter Daszak. Government officials
+hiding from, we the people, is not the American way. The Select
+Subcommittee proceeded to conduct an extensive review of the
+communications and documents produced under subpoena by Dr.
+Morens. The information contained on these 30,000 pages of
+emails are deeply concerning and, in my opinion, reflects
+poorly upon Dr. Morens and the Office of the National Institute
+of Allergy and Infectious Disease under Dr. Fauci's leadership
+and the NIH, under Dr. Francis Collins, unfortunately.
+Today, we released a staff memo outlining the evidence
+gathered. We have evidence that Dr. Morens purposefully evaded
+public transparency required by the Freedom of Information Act
+by intentionally using a personal email account for official
+business. We have evidence that Dr. Morens unlawfully deleted
+government records and may have engaged with the NIH, FOIA
+Office--Freedom of Information Act Office--to assist this
+illegal action. We have evidence that Dr. Morens routinely
+acted as an intermediary between Dr. Daszak and Dr. Fauci, and
+we have evidence that Dr. Morens took affirmative steps to
+assist Dr. Daszak so that EcoHealth could have its grant
+reinstated after it was suspended under the Trump
+Administration and approved by NIH leadership.
+Dr. Morens, it, unfortunately, looks like you were not
+truthful in your interview with us. During that interview, you
+may not have been under oath. However, you were reminded by
+Select Subcommittee counsel that your answers were subject to
+criminal prosecution pursuant to Title 18, Section 1001 of the
+United States Code. In other words, lying in that interview
+before us would be a crime. When asked if you understood that
+requirement, you said you did. Today we may be able to find out
+where the truth lies. Is it in your testimony or is it in your
+emails?
+We recently had the president of EcoHealth Alliance, Dr.
+Peter Daszak, before the Select Subcommittee for a hearing, and
+we produced an extensive report outlining the wrongdoing and
+bad faith actions taken by EcoHealth and its president. Just 2
+weeks after these investigative measures took place, NIH
+recommended that EcoHealth be immediately debarred from
+receiving Federal dollars. Dr. Morens provided nonpublic
+government information to Dr. Daszak, including internal
+deliberations and communications about EcoHealth occurring at
+the highest levels of NIH. This is not just a one-way street.
+We also found that Dr. Morens disseminated information from
+EcoHealth on behalf of EcoHealth to top NIH officials. In fact,
+we even uncovered an email from Dr. Morens to Dr. Daszak asking
+if he would get a kickback after the EcoHealth grant was
+reinstated.
+After the funding to EcoHealth was paused in 2020, Dr.
+Morens advocated for them to have their Federal funding
+reinstated, assisted EcoHealth in receiving that funding,
+provided EcoHealth with nonpublic information in order to help
+get that funding reinstated, and then requested a kickback. You
+know, joking about kickback or not, the entire process is
+wholly unacceptable, and I wish that was the full extent of it,
+but it is not. Frankly, some of the documents we received from
+Dr. Morens were difficult to read. I can't imagine saying some
+of the things, let alone putting them in writing. The Select
+Subcommittee uncovered communications in which Dr. Morens acted
+inappropriately and entirely unsuitably for a member of the
+public health service who receives a taxpayer-funded paycheck.
+These are just some of the unfortunate and unprofessional
+findings the Select Subcommittee has made during our
+investigation. It is very disturbing to witness this type of
+behavior from Dr. Fauci's senior advisor, but the evidence is
+clear and overwhelming. Dr. Fauci's NIAID was, unfortunately,
+less pristine than so many, including the media would have had
+us all believe.
+You, Dr. Morens, reported directly to Dr. Fauci. You served
+as his senior advisor for more than 2 decades. Did your boss
+know about this behavior? Did he condone it? Did he try to stop
+it? Did you participate in it? That we don't know, but given
+the breadth of this investigation, we continue our work to
+ensure that we thoroughly review each document produced. No
+stone will be left unturned. Put simply, Dr. Morens, you have a
+lot to answer for. The American people that we represent
+deserve honest answers. We all do. Today, I hope we can further
+our quest for information into the government's response to
+COVID-19 and provide the American people with honest answers
+about the actions taken by personnel at the National Institutes
+of Health during this time, especially at the leadership
+levels.
+Dr. Morens, you will be sworn in today and your answers
+will be under oath, and I strongly suggest you tell the truth,
+which I'm sure I don't need to advise you on that. I will
+remind you that you are testifying today under a subpoena. The
+terms of the subpoena require you to stay until the chair
+excuses you. I look forward to a robust and on-topic discussion
+today. Thank you, and I would now like to recognize Ranking
+Member Ruiz for the purpose of making an opening statement.
+Dr. Ruiz. Thank you, Mr. Chairman. For decades, our Federal
+public health and scientific institutions have diligently
+upheld a legacy of respect and decorum in their work to advance
+the public interest. And within these institutions, thousands
+upon thousands of Federal employees have reported to work every
+day with a goal of promoting our scientific enterprise and
+ensuring that every American can lead the healthiest life
+possible. As an emergency physician and public health expert, I
+hold the legacy of scientific advancement to safeguard human
+health in the highest regard. And through my tenure in
+Congress, including as a member of the Energy and Commerce
+Committee's Health Subcommittee, I have championed legislation
+to invest in our Federal scientific and public health work
+force, so that they can carry forward this crucial work. But
+there are times when individuals stray from this legacy and
+conduct themselves in a manner that is unbecoming of the
+thousands and thousands who strive to uphold the respect and
+decency that has come to be known of our Federal scientific and
+public health work force and leaders, and today, we will be
+hearing from one of these individuals.
+Dr. Morens, for nearly a year, the Select Subcommittee has
+been reviewing your conduct, and what we have found is deeply
+troubling to me. In internal documents you produced to the
+Select Subcommittee, you, on multiple occasions, alluded to the
+deletion of official emails, an act that likely constitutes the
+destruction of Federal records. And frequently, you blurred the
+line between your official duties and your personal viewpoints,
+including by communicating about official business on your
+personal email address with individuals who have pending
+interests before your Agency, and by representing yourself as a
+Federal official in the signature of your personal email
+correspondence. And while it is not a violation of the law to
+do so, you disparaged other members of the scientific community
+with language that is unbecoming of a representative of the
+Federal Government.
+What troubles me most about your conduct Dr. Morens, is the
+extent to which it is so willingly betrays decades of
+dedication, diligence, and decorum from the thousands of
+Federal scientists and public health workers who came before
+you, who have served alongside you, and who will serve on into
+the future, and that is why appropriate accountability for your
+actions is appropriate. It is not anti-science to hold you
+accountable for defying the public's trust and misusing
+official resources. To the contrary, taking your misconduct
+seriously is about ensuring that Americans, myself included,
+can continue to expect the highest degree of professionalism
+from our premier scientific institutions, as we have since
+their inception.
+Now, with all that in mind, I want to take a moment to make
+sure the record is clear on one thing at the outset of this
+hearing. While accountability for instances of misconduct is
+essential to ensuring the public's continued trust in our
+Federal institutions and their use of taxpayer dollars, Dr.
+Morens' testimony today is not a breakthrough moment in
+actually understanding the actual origins of the COVID-19
+pandemic because the fact of the matter is that as of today,
+the origins of the novel coronavirus remain inconclusive. And
+if the Select Subcommittee wants to actually shed a light on
+the answers to this question, then we need to take an objective
+look at all the various pathways by which SARS-CoV-2 could have
+emerged, be they in a lab or nature. Now, before we hear from
+the witness, let me just conclude by saying it is my hope, Dr.
+Morens, that today you will offer some humility and remorse for
+your actions, which are a stain on the legacy of your
+colleagues at NIAID and throughout the Federal Government. At
+the same time, it is my hope that the members of this Select
+Subcommittee, while appropriately critical of your actions,
+will treat you with the same decency and respect that we
+expected of you as a Federal employee and steward of the public
+trust, so let's model the same behavior here today that we have
+come to expect of our Federal work force. Thank you, and I
+yield back.
+Dr. Wenstrup. Thank you. Our witness today is Dr. David
+Morens, Senior Scientific Advisor to the Director at the
+National Institute of Allergy and Infectious Diseases. Pursuant
+to Committee on Oversight and Accountability Rule 9(g), the
+witness will please stand and raise his right hand.
+Do you solemnly swear or affirm that the testimony that you
+are about to give is the truth, the whole truth, and nothing
+but the truth, so help you God?
+Dr. Morens. I do.
+Dr. Wenstrup. Thank you. Let the record show that the
+witness answered in the affirmative. The Select Subcommittee
+certainly appreciates you for being here today Dr. Morens, and
+we do look forward to your testimony.
+Dr. Morens, pursuant to House rules and committee practice,
+witnesses appearing before the Select Subcommittee are given
+the opportunity to make initial presentation summarizing their
+testimony after opening statements by the Chair and Ranking
+Member, which we have just done. Dr. Morens, it is our
+understanding through your counsel that you have declined to
+provide an opening statement. Is that correct?
+Dr. Morens. Yes, sir.
+Dr. Wenstrup. OK. Let the record reflect that the witness
+has declined the opportunity to provide an opening statement.
+We will, therefore, proceed directly with Member questions, so
+I now recognize myself for questions.
+On January 18, Dr. Morens, you sat for a transcribed
+interview with us. While not sworn in, you were advised by
+counsel that Title 18, Section 1001 applied to that testimony,
+and if you made false statements, you could be subject to
+criminal prosecution. Do you recall that?
+Dr. Morens. .
+Dr. Wenstrup. Your microphone is not on, I don't think,
+yes.
+Dr. Morens. Do I keep it on or only when I talk?
+Dr. Wenstrup. Whenever you are talking, yes.
+Dr. Morens. OK. Sorry. I think what you are referring to is
+telling me that even though I wasn't under oath, I was bound to
+tell the truth. Is that what you said?
+Dr. Wenstrup. Yes, and that you could be subject to
+criminal prosecution.
+Dr. Morens. Yes, you told me that.
+Dr. Wenstrup. OK. Today you are under oath, and we will be
+comparing your statements today to those you gave previously.
+The majority of my questions today will be simple ``yes'' or
+``no'' questions.
+On April 21, 2021, you wrote, ``I can either send stuff to
+Tony
+ on his private email or hand it to him at work or
+at his house.'' Did you ever send information related to COVID-
+19 to Dr. Fauci's personal email?
+Dr. Morens. I don't remember if I did. I may have, but I
+certainly told him some things that he asked me to tell him
+about the situation with Peter.
+Dr. Wenstrup. Thank you. On May 13, 2021, you wrote that
+you connected a reporter to Dr. Fauci via your secret back
+channel. What back channel did you have for Dr. Fauci?
+Dr. Morens. Well, all these terms like ``secret back
+channel'' and the other one you mentioned were just jokes,
+just, you know, jokes that I made in dealing with Peter because
+he was under death threats and was very depressed. And it was
+sort of the group of people who were Peter's friends, who were
+trying to cheer him up by making snarky jokes and euphemisms
+that were, you know, not true, but there was no back channel.
+The back channel to Tony was the same one that applies to
+everybody, and may I say----
+Dr. Wenstrup. Which is?
+Dr. Morens. Huh?
+Dr. Wenstrup. Which is what?
+Dr. Morens. Well, I am going to tell you.
+Dr. Wenstrup. OK.
+Dr. Morens. Tony does not want me to connect anybody to him
+directly, and with one exception a couple of weeks ago, I never
+did. But the back channel was a regular channel within
+government where if somebody wanted to talk to Tony, I would
+tell them we have a regular process here. It is called ODAM,
+Office of Director AM Group, the inner circle, and the request
+to do something, it would be to talk to Tony or to give a talk
+or whatever, would go to this group. And they would meet in
+person with Tony every morning and say, you know, we got a
+message that so and so wants to talk to you or so and so wants
+something from you, and then he would decide, usually right
+there. I was never involved in that, at least not in recent
+years. I used to go to those meetings many years ago, but----
+Dr. Wenstrup. So, is that the channel you are referring to?
+Dr. Morens. Yes, that is the channel.
+Dr. Wenstrup. OK.
+Dr. Morens. It is not really a back channel, but I am, you
+know, making snarky comments. It is a well-established, still
+functioning channel. I guess it is still functioning, but
+certainly, before I was put on administrative leave, that
+channel was still operating, and it is the way things were
+done.
+Dr. Wenstrup. So, there was a connection you said just in
+this statement. Now, you said there was a connection a couple
+of weeks ago that you did not do. What was that?
+Dr. Morens. I don't remember the details, but I think it
+was somebody, maybe Jerry Kirsh, who is a former NIH Institute
+Director, wanted to talk to Tony, and I think I said something
+like because he used to be a Director, he knows Tony
+personally. And I think I said something like, you can just
+talk to him directly. You don't have to go through me.
+Dr. Wenstrup. OK. In addition to your Gmail, do you also
+have a Proton mail account?
+Dr. Morens. I do, yes.
+Dr. Wenstrup. On January 18, you testified that you did not
+conduct official business via personal email. Dr. Morens, did
+you ever conduct official business via your personal email?
+Dr. Morens. Well, I didn't do anything that I thought was
+official business. I understand now that there is some
+discrepancy between what I thought and what you all may think
+about what is official business. But may I back up and tell you
+about this whole Gmail thing since Gmail versus NIH email, and
+record destruction, and FOIA seems to be the most important
+thing you are interested in, and rightly so.
+I have had a Gmail account for many years, and I don't know
+how long I have had the Proton account, but it is for a while,
+which I almost never used the Proton account, but I did use the
+Gmail account. And also, I should say that going back to at
+least 2013 and possibly to 2010, the IT people in my Institute
+put one icon on my government phone in which emails and Gmails
+were fused. That is to say, I had a blue icon that said
+``mail.'' Every morning, I would get up and do email, you know,
+open up my NIH emails and Gmails, knowing they were fused. But
+I didn't think it was a problem because I could usually tell
+whether a mail I was looking at was a Gmail or a government
+mail, and I also knew how to go into my phone and do a few
+clicks and things and find out if I needed to find out, or I
+could go to my Gmail on the computer where there wasn't that
+fusion. So anyways, there is a longstanding problem with fusion
+of Gmail and email from----
+Dr. Wenstrup. Dr. Morens, I will tell you, I can understand
+that. I have non-official emails on a separate phone that are
+fused or I can separate them, but not my official ones. And
+that doesn't account for telling people that you are doing
+official business with that they should contact you on your
+Gmail.
+Dr. Morens. That is true. I was just----
+Dr. Wenstrup. And especially to avoid FOIA and to be able
+to potentially delete things you don't want in New York Times,
+which was your comment. On January 18, you testified ``no''
+when asked if you ever deleted anything from your official
+account that could be considered a Federal record. Dr. Morens,
+are you aware that the destruction or attempted destruction of
+Federal records carries a potential punishment of both
+imprisonment and a fine?
+Dr. Morens. I was not aware of that, and I was not aware
+that anything I deleted, like emails, was a Federal record
+because we have Federal records training periodically, and the
+training, you know, that I recall we received defined ``a
+Federal record'' in a very different way than you may be
+thinking of, and none of it was defined as an email.
+Dr. Wenstrup. Well, that may be something to look into as
+to what your training looks like when it comes to Federal
+records because it is far different from mine. On October 5,
+2021, you wrote, ``Peter, I just got news that a FOIA picked up
+an email I sent you saying Tony commented that he was brain
+dead. I deleted that email, but I now learn that every email I
+ever got since 1998 is captured and will be turned over whether
+or not instantly deleted.'' On June 28, 2021, you wrote,
+``Peter Daszak emailed me and Tony congratulating Tony on
+standing up for science. That email fell into the hands of the
+Congressman, probably via FOIA, of someone who didn't delete
+it, as I did--as I did delete all of Peter's emails and others
+related to origin. Mine was erased long ago. I verified that
+today, and I feel pretty sure Tony's was, too.'' Dr. Morens,
+did you ever delete or attempt to delete a Federal record?
+Dr. Morens. No, but let me explain why it seems to be
+discrepant. You can't delete an email from NIH, you know, from
+an NIH computer system. They are all retained and can be
+accessed for any purpose, including FOIA. Now, I don't know
+what they normally do, whether when the FOIA is required or
+whether how far back they go or whatever, but it is my
+understanding that if they want to, they can go back all the
+way to the beginning. I came to NIH in 1998, and at that time,
+when I came there in 1998, we were instructed to delete emails
+and/or to move them into PST files frequently because they
+jammed the computer, and so I got into the habit of every
+morning, you know, looking at all my emails, and when I say
+email, I mean NIH email, looking at my NIH emails, and some of
+them can be dispensed with quickly and then just deleting them.
+Other ones that I would need to keep or thought I might keep
+would be moved into a PST file so that my inbox wouldn't crash.
+And I must say based on my understanding of what a Federal
+record was, I truly don't think I have ever seen a Federal
+record in 26 years of being at NIH, and if I am wrong about
+that, I apologize because it just never dawned on me. I have
+done work at the National Archives, and at one point about 10
+or 15 years ago, I contacted a records person lady and said,
+you know, I have some documents that could be something the
+National Archives would want, and she said, no, I don't think
+so, you can destroy it, and I didn't destroy it. I still have
+it.
+Dr. Wenstrup. There is a difference between the Federal
+archives and your day-to-day work as a Federal employee
+employed by the American people. You seem to know a lot about
+FOIA. You investigated FOIA. You talk to the people that
+implement FOIA. And you need to know if you didn't, that it is
+a Federal offense if you even attempt to delete something that
+would be considered for the Federal record. I now recognize the
+Ranking Member Dr. Ruiz from California for 5 minutes of
+questions.
+Dr. Ruiz. Thank you. When I was named Ranking Member of the
+Select Subcommittee, I made a commitment to keep an open mind
+about how the pandemic started because understanding whether
+the novel coronavirus emerged from a lab or from nature is
+essential to better preventing and preparing for future public
+health threats and to better protecting the American people.
+Unless and until we see specific evidence on the origins of
+SARS-CoV-2, the scientific process requires that we examine all
+possible hypothesis with objectivity, which is why I have
+concerns, Dr. Morens, that you appear to have frequently
+denigrated and dismissed the gravity of this deductive process.
+In emails reviewed by the Select Subcommittee, you
+described laboratory-related origin theories as conspiracy
+theories and have said that considering these theories is
+``wasting time'' and ``being crazy.'' Well, you have every
+right to evaluate the available evidence and to reach your own
+conclusion regarding the origins of the novel coronavirus, but
+the maligning of other viewpoints by someone in your position
+undermines scientific discourse and reflects poorly on the
+research institution in which you serve.
+And for the record, I want to make it abundantly clear that
+Select Subcommittee Democrats take seriously the charge of
+examining the various pathways by which SARS-CoV-2 came to be,
+including the possibility that it emerged from a lab. It is not
+our position that thoughtfully and objectively exploring these
+possibilities as ``wasting time'' or ``being crazy.'' In fact,
+two of the six agencies instructed by President Biden to take
+an objective look have found, one with low confidence and the
+other with moderate confidence, that it could have possibly
+been a lab leak. But let me remind everybody, too, that four of
+the others with low confidence believe that it came from animal
+transmission, so it is still inconclusive. But to the contrary,
+it is in the advancement of ensuring that our Nation and the
+global community are in the strongest position to prevent and
+prepare for future novel virus and pandemic.
+So Dr. Morens, with that in mind, let me ask you, is it
+your view today that all laboratory-related origin theories of
+COVID-19 are conspiracy theories?
+Dr. Morens. No, sir.
+Dr. Ruiz. And is it your view that evaluating lab-related
+origin theories is wasting time and being crazy?
+Dr. Morens. No.
+Dr. Ruiz. So, can I ask what has changed your perspective
+on these matters?
+Dr. Morens. I don't think my perspective has changed, and I
+discussed this in my previous----
+Dr. Ruiz. I am referring to thinking that they are crazy or
+a waste of time. Has that changed, or do you still think that
+they are crazy?
+Dr. Morens. Well, they were made when I was communicating
+in private, off-the-government record, not as a government
+employee, but as a private citizen. And it was the same thing
+of dealing with Peter and these people of being snarky and sort
+of making, you know, it was the coin of the realm to try to
+cheer Peter up with snarky comments and often profane comments.
+I apologize for that. I shouldn't do that, and I never thought
+it would be, you know, put forward in front of the American
+people. I shouldn't have done that, obviously. I recognize
+that.
+I was trying to help a friend by cheering him up with black
+humor and things like that. I never thought it was crazy. As
+you said, I did believe from very early on that the evidence
+suggested that the virus arose from bats, and the evidence also
+suggested to me that the possibility of a lab leak or an
+engineering in the virus was extraordinarily low, but if
+anybody, a reasonable person disagreed with me and thought that
+it merited further investigation, it should. I mean, you know,
+I am only one scientist. There are other scientists. There are
+public officials who want to understand all this. Of course, if
+there is a reasonable belief out in the public domain that a
+lab leak occurred, efforts to find evidence of that should
+continue.
+Dr. Ruiz. Now, an important aspect of the scientific
+process is acknowledging what the available evidence does and
+does not show us. And so, I want to be clear that while I
+maintain an open mind to the various possibilities by which
+SARS-CoV-2 may have come to be, no evidence provided to the
+Select Subcommittee through our probe into federally funded
+research has demonstrated that the work performed under the
+NIAID grant to EcoHealth Alliance, including at the Wuhan
+Institute of Virology, led to the creation of SARS-CoV-2. The
+Select Subcommittee possesses no evidence demonstrating that
+any of the viruses studied under the grant could even possibly
+have been the progenitor virus. So, with 6 months remaining in
+this Congress, it is my hope that we take an objective,
+forward-looking approach to understanding COVID-19 origins. And
+with that, I thank you, and I yield back.
+Dr. Wenstrup. Now I recognize Ms. Malliotakis from New York
+for 5 minutes of questions.
+Ms. Malliotakis. Thank you. Dr. Morens, you used your
+personal email to conduct official NIAID business, and you
+shared nonpublic information with EcoHealth, an organization
+that was vying for Federal dollars from your Agency. Given your
+position and experience, you knew that this was against FOIA
+regulations, even indicated it in many of the emails in your
+personal Gmail. Can you explain why you chose to bypass
+official channels and how do you justify that?
+Dr. Morens. Yes. Well, let me go back to the very
+beginning. In early 2020, Peter Daszak, who has been a personal
+friend of mine for almost 20 years, I have had government
+interactions with him that would be on my NIH email, but almost
+all my interactions with him for years had been personal as a
+friend. And suddenly he was getting death threats, credible
+death threats, and his wife and his two daughters are getting
+credible death threats. And the FBI was investigating, and they
+were publishing these death threat people which are said to be
+QAnon. I don't even know who they are, but, you know, they were
+marching outside his house, and they were sending threatening
+things, and an Anthrax powder envelope was mailed to him, and
+it just freaked everybody out.
+Ms. Malliotakis. Why did you choose to use personal email?
+That is the question.
+Dr. Morens. Because that was not government business. What
+happens to a private citizen in a different situation, in my
+mind, is not government business.
+Ms. Malliotakis. Well, it is government business if you are
+advising him, you are advocating on his behalf. You are editing
+things, letters that he wanted to send to NIH. You did all that
+on personal email, correct?
+Dr. Morens. I don't remember, but if I did, I shouldn't
+have done that. That is wrong.
+Ms. Malliotakis. It is wrong, and that is why we are asking
+the question because you were using it for official business,
+and that is what we are trying to understand, why. Why were you
+trying to hide this from Members of Congress, from the
+government, from the public? Should it have been a Freedom of
+Information law? It does seem that you have a very cozy
+relationship with Peter Daszak. You indicated that he was a
+good friend. I mean, I have to after reading this email from
+Exhibit 6, on August 27, 2020, after NIH was awarded a $7.5
+million grant to EcoHealth Alliance, you wrote to him and you
+asked, ``Do I get a kickback? Too much fooking--F-o-o-k-i-n-g--
+money. Do you deserve it all? Let's discuss.'' Would you like
+to explain?
+Dr. Morens. That is typical black humor between people,
+like Peter and me and other folks who show up in these emails.
+Ms. Malliotakis. And he responded saying, ``Thanks for the
+kind words and, of course, there is a kickback.'' You think
+that is appropriate behavior between NIH, somebody who works
+for NIAID to a grantee who just received $7.5 million from the
+government? My question before I run out of time, is have you
+ever received any compensation from Peter Daszak or EcoHealth?
+Dr. Morens. No.
+Ms. Malliotakis. Have you ever received any compensation
+from any entity outside of your employer, NIAID?
+Dr. Morens. I don't know what the definition of
+``compensation'' is.
+Ms. Malliotakis. Well, have you ever received any money?
+Dr. Morens. I get a pension.
+Ms. Malliotakis. OK. You have a pension, not government
+related. You have to ask that question when you put it in
+writing, asking him for a kickback.
+Dr. Morens. There are two parts to your question. Let me
+answer. All of this stuff was a bunch of snarky jokes, and I
+think we all knew that.
+Ms. Malliotakis. Well, I don't think any of us think it is
+a funny joke when you are representing the U.S. Government, you
+are representing an Agency, and you are asking a grantee ``Do I
+get a kickback? Do you deserve it all? Let's discuss.'' So, I
+am going to ask you one more time--remind you, you are under
+oath--did you ever receive any money from Peter Daszak,
+EcoHealth, or anybody else outside of your employer, NIAID, or
+the Federal Government directly?
+Dr. Morens. No, ma'am.
+Ms. Malliotakis. OK.
+Dr. Morens. With the exception of early after I joined NIH,
+I had a private corporation, and, you know, in which I used to
+do consulting. And shortly after I got to NIH, I realized there
+would always be a conflict.
+Ms. Malliotakis. OK.
+Dr. Morens. And that corporation has been silent for 20
+years now. No income.
+Ms. Malliotakis. OK. Thank you very much. I yield back.
+Dr. Morens. May I say one more thing?
+Ms. Malliotakis. Yes. You have 2 seconds.
+Dr. Morens. I have already apologized for making snarky and
+profane comments, but I made them thinking that they were made
+on my private email in a manner that was just between a small
+group of friends and would never end up where it is ended up.
+It is embarrassing to me. I shouldn't have done it, but, you
+know, I accept that I did. I don't know what to say except I am
+sorry.
+Ms. Malliotakis. Thank you.
+Dr. Wenstrup. I now recognize Mrs. Dingell from Michigan
+for 5 minutes of questions.
+Mrs. Dingell. Thank you, Mr. Chairman. I have to say
+something as we start this, just that for 15 months, under the
+guise of investigating the pandemics origins, my Republican
+colleagues have been probing our Federal scientific and public
+health institutions. Right now, at this point, we have not
+meaningfully advanced the American public's understanding or
+the origins of SARS-CoV-2. I do believe that people are always
+looking for the partisan instead of taking an actually serious
+look at the various ways in which the virus could have emerged
+in a lab or in nature, and this investigation has really been
+about trying to pin the blame on NIH and NIAID for the COVID-19
+pandemic.
+But to be perfectly clear, I take seriously the allegations
+of unauthorized disposition of NIH email records by you, Dr.
+Morens, and so I have your statements, Dr. Morens, and the
+emails showing a disdain for the Freedom of Information Act are
+really discouraging, very concerning. And you say in your
+answering of the questions that you did it as black humor, but
+I don't think you used black humor and hide the comments that
+you are trying to do on personal email. I think your conduct
+shows a blatant disregard for accountability to the taxpayers
+who fund NIAID's work, and, quite frankly, it really is
+disturbing. Dr. Morens, do you have any regret for the way in
+which you conducted yourself and the way it has reflected upon
+NIAID?
+Dr. Morens. Yes, I do.
+Mrs. Dingell. And do you realize that there are thousands
+of employees who have worked alongside you at both NIAID and
+NIH, who are now left to deal with the ramifications of your
+misconduct and its impact on the agencies?
+Dr. Morens. Well, that it might happen is very bothersome
+to me, and of almost everything that is happening, I really
+regret that. I am very loyal to NIH. They have been good to me.
+And I have nothing but good to say about the system at NIH, and
+that I may have brought embarrassment to them by my actions and
+my statements, it is just something I am very ashamed of. I
+can't put the toothpaste back in the tube.
+Mrs. Dingell. I just hope we are going to be very careful
+as you are telling us what the facts are because I am very
+disturbed by other people that may be thrown under the bus in
+some of the wild statements that you have made and your
+personal statements, and that you take accountability and don't
+lay blame on people. It is very hard for us to get to the
+truth. Maybe that is the way for me to say it.
+Dr. Morens. Ma'am, I am here to answer all your questions
+and tell you the truth, and any question you want to ask me, I
+will do my best to answer it to the fullest of my knowledge.
+Mrs. Dingell. I am just going to close here and say that
+the NIH and the National Archives and Records Administration
+have taken steps to investigate these matters, and I want and
+share my colleagues' desire from expeditious completion of the
+evaluation and appropriate next steps to hold you accountable.
+But in the meantime, I want everyone to keep in mind that
+although Republicans have tried to read into your emails for
+proof that Federal officials somehow sparked the COVID-19
+pandemic, there simply is no evidence of it. There is a
+critical distinction. As I have said in recent hearings, I will
+always support holding Federal grantees and public servants to
+the highest standards of professional integrity, but I worry
+that we are once again blurring the lines between professional
+misconduct and the separate question of the origins of COVID-
+19. And I hope that we do not conflict these issues, and I
+think what you have done has significantly contributed to that.
+Thank you, and I yield back.
+Dr. Wenstrup. Now I recognize the Chairman of the full
+committee, Mr. Comer from Kentucky, for 5 minutes of questions.
+Chairman Comer. Thank you, Mr. Chairman. On May 16, we
+heard from your boss, Dr. Lawrence Tabak, regarding some of
+your emails and avoiding the Freedom of Information Act. And I
+am sure, as you have already testified, you are aware that
+deleting Federal records is a crime, and as you have said, you
+previously testified that you did not delete any Federal
+records. But on February 24, 2021, you wrote, ``I learned from
+our FOIA lady here how to make emails disappear after I am
+FOIA'd, but before the search starts, so I think we are all
+safe. Plus, I deleted most of those earlier emails after
+sending them to Gmail.'' And the next day on February 25, 2021,
+you wrote, ``But I learned the tricks last year from an old
+friend, Marg Moore, who heads our FOIA Office and also hates
+FOIAs.'' ``Yes'' or ``no,'' is Marg Moore the FOIA lady you
+were referring to?
+Dr. Morens. She was at the time. I believe she has retired
+since then.
+Chairman Comer. Did the NIH FOIA Office instruct you on how
+to delete emails or avoid FOIA?
+Dr. Morens. No.
+Chairman Comer. On October 25, 2021, another scientist
+wrote, ``David is concerned about the privacy of texts and
+other messages from his cellphone to you and me because he has
+been using a government phone. This came from Tony.'' Sir, did
+you ever have any conversations with Dr. Fauci regarding using
+personal phone or email to communicate with Dr. Daszak?
+Dr. Morens. I don't remember it. It is possible, you know.
+I probably wouldn't have remembered and I don't remember it. He
+and I usually never talked about that kind of stuff. It would
+be very unusual if it happened.
+Chairman Comer. On January 18, you testified that you did
+not have any conversations with Dr. Fauci regarding EcoHealth.
+On October 25, 2021, you wrote, ``Peter, from Tony's numerous
+recent comments to me, they are trying to protect you,'' you
+meaning, EcoHealth and Dr. Daszak. Dr. Morens, did you ever
+have any conversations with Dr. Fauci regarding EcoHealth?
+Dr. Morens. Well, the ones you just mentioned, I don't have
+any recollection of that.
+Chairman Comer. No recollection?
+Dr. Morens. Huh? No recollection, no, but let me just say
+what I do remember, is one time in a face-to-face meeting, he
+referred, alluded to, or some stuff that was in the press. I
+don't even think he said what it was. But I assumed it was
+about Peter's grants and press reports about it and the ending
+of the grant. And I said to him sort of out of the blue,
+guessing what he was really thinking. I said to him, Tony, I
+know you would have never been involved in getting rid of that
+grant, and he didn't respond. He just sort of looked at me
+and----
+Chairman Comer. So, Dr. Fauci was always a big defender of
+EcoHealth and they are----
+Dr. Morens. Well----
+Chairman Comer . Their right to receive Federal
+funding?
+Dr. Morens. I can't speak for him. I think he had great
+respect for them, and when the grant problems came about, I
+think he was troubled by it. In fact, I just thought of
+something that I forgot to say. At some point, somebody, it may
+not have been Tony, but it might have been Hugh Auchincloss,
+somebody said to me, you know, Peter is his own worst enemy
+because he made some mistakes on that grant.
+Chairman Comer. I would say that is a factual statement. On
+April 21, 2021, you wrote that Dr. Fauci is ``too smart to let
+colleagues send him stuff that could cause trouble.'' On June
+16, 2020, you wrote, ``We are all smart enough to know to never
+have smoking guns, and we wouldn't put them in emails, and if
+we found them, we delete them.'' Now, did you ever have
+conversations with Dr. Fauci regarding deleting emails?
+Dr. Morens. I don't remember any such thing.
+Chairman Comer. You don't remember?
+Dr. Morens. No, sir. Tony and I don't have those kinds of
+conversations.
+Chairman Comer. Did you ever delete any official records?
+Dr. Morens. Not to my knowledge, I mean, but again, at the
+issue of defining what is a Federal record, I deleted a lot of
+emails. I do it every day. But in my mind, they are trivial
+things not related to government business.
+Chairman Comer. In response to my questions, Dr. Tabak said
+he absolutely agreed with every compliance action the NIH took
+against Dr. Daszak and EcoHealth. And over the past 2 weeks,
+both EcoHealth and Dr. Daszak have been suspended from
+receiving Federal funding, finally, and proposed for debarment.
+Do you agree with NIH's actions against EcoHealth?
+Dr. Morens. I have never seen the grant. I don't know what
+is in it. I can't really speak to that. But I can say I have
+known Peter Daszak for almost 20 years, and in my personal
+opinion, he is an honorable, decent----
+Chairman Comer. So, have you had conversations with Dr.
+Daszak about this recent suspension?
+Dr. Morens. Not a conversation. I knew about it. He sent me
+an email or something----
+Chairman Comer. So that occurred over email?
+Dr. Morens. Huh?
+Chairman Comer. You and Dr. Daszak communicated via email
+about his disbarment?
+Dr. Morens. I should say Gmail, not NIH email. You know, he
+was sending stuff to my NIH email for a long time, and I kept
+telling him don't do that, and that is how this this Gmail
+thing started. In 2020, he sent a message to me on my
+government NIH email, and I forget what it was, maybe I never
+knew what it was, but eventually that email was FOIA'd.
+Chairman Comer. OK. So----
+Dr. Morens. Wait a second. Can I finish?
+Chairman Comer. Go ahead.
+Dr. Morens. Eventually, this email was FOIA'd, and Peter
+contacted me and said, you know, some friend you are. I send
+you an email with all my personal stuff, and it ends up in the
+newspaper, and that really struck me. That was a turning point
+for me because he was under death threats.
+Chairman Comer. Right, right, and I get it. I get it. Mr.
+Chairman, if I may, just one last ``yes'' or ``no'' question.
+Have you had any conversations with Dr. Daszak about this
+suspension? Yes or no.
+Dr. Morens. The suspension?
+Chairman Comer. The suspension. The disbarment, the
+suspension?
+Dr. Morens. Not conversation, but he has sent me an email
+with----
+Chairman Comer. An email is a conversation. Your
+conversation via email then. You have had a conversation via
+email with Dr. Daszak?
+Dr. Morens. Well, if you call it a conversation, yes. You
+know, we didn't talk about it. He just sent it to me, and I
+read it or not. That is all.
+Chairman Comer. Thank you. I yield back.
+Dr. Wenstrup. I now recognize Ms. Ross from North Carolina
+for 5 minutes of questions.
+Ms. Ross. Thank you, Mr. Chairman. Dr. Morens, I really
+take very seriously these allegations of misconduct. And the
+unauthorized disposition of NIH email records, your blatant
+disregard for transparency obligations under FOIA and the
+manner in which you conducted yourself, including disparaging
+language toward others have differing perspectives, not only
+call into question your judgment, but also your character. And
+on a larger scale, they inflict serious damage on public trust
+for the entire scientific enterprise because when you work for
+the Federal Government, you are not just working for yourself.
+You are working for the people and you are working with your
+colleagues.
+Since the start of the pandemic, we have seen a decline in
+the public's confidence in science and public health. One study
+conducted by the Pew Research Center found that between April
+2020 and October 2023, the number of Americans who reported
+that they had a great deal of trust in scientists, fell by 16
+percent from 39 percent to 23 percent. And while proliferation
+of misinformation about COVID-19 has certainly fueled this
+decline, when the American public sees that one of the Federal
+Government's own scientists was potentially trying to hide
+their work-related conversations from the public by using a
+personal email, that will only lead to further distrust in our
+Nation's scientific community, and this decline in the
+confidence in the scientific enterprise has rippled and had
+health effects that we are seeing even now. For example, we
+have seen the effect of the distrust in science specifically,
+within our vaccine records. A recent survey from the Annenberg
+Public Policy Center found that the proportion of respondents
+who did not believe in vaccines that are approved in the United
+States, it nearly doubled from 9 percent to 16 percent between
+April 2021 and the fall of 2023, and with new variants of the
+coronavirus, fewer and fewer people are getting their booster
+shots.
+As we hold today's hearings, the United States is at the
+precipice of losing our measles elimination status due to
+repeated outbreaks of the disease that are popped up across the
+country, from Florida to Ohio to Missouri to California. This
+is especially concerning as 250,000 kindergarteners nationwide
+haven't received their updated measles immunization, leaving
+them unprotected from this deadly disease. That is not your
+fault, but what I am saying is when people don't trust
+scientists, they don't trust the science. So, you have answered
+this question in another way, but do you agree that your
+conduct as a scientist working for the Federal Government
+betrayed the highest ethical standards that are expected of you
+and are expected to maintain the trust of the American people?
+Dr. Morens. Well, that is a several-part statement, and let
+me answer it by saying I have always thought of myself as an
+ethical person. It is important to me to tell the truth and do
+decent things, and that is why I stuck my head up to defend
+Peter when he was under death threats obviously, and I thought
+all these things I was doing that were on my private email, my
+private Gmail, were outside the domain of my official job, a
+private citizen, but I have obviously made mistakes. I have
+mixed up emails and Gmails, and that has caused me to do a lot
+of the things you mentioned, but bring discredit on myself and
+on the government. I don't know what to say. I have apologized.
+I regret that. I wish I could take it back, but I can't.
+Ms. Ross. Thank you. It is imperative for the American
+public to trust the scientific community in order to best
+protect our Nation's public health. We are seeing in real time
+the consequences when trust declines. As members of the Select
+Subcommittee, it is critically important that we work to
+rebuild that trust in public health and science. Your actions
+have not helped these efforts. Thank you, and I yield back.
+Dr. Wenstrup. I now recognize Dr. Miller-Meeks from Iowa
+for 5 minutes of questions.
+Dr. Miller-Meeks. I thank you, Mr. Chairman, and I thank
+you, Dr. Morens, for testifying before the Select Subcommittee
+this afternoon. And if I can, I am just going to followup for a
+question that you were asked by Dr. Malliotakis in reference to
+whether or not you received any funding or moneys in
+relationship to the amount of funding going into an EcoHealth
+grant. So, to expand on that, did you receive any gift or
+anything of value during that exchange from Dr. Daszak of
+EcoHealth?
+Dr. Morens. One of Dr. Daszak's scientists, a guy named
+Kevin, well, I shouldn't mention his name, it doesn't matter.
+So, the EcoHealth people have their own private sector baseball
+cap, and I made a comment that that is a really cool hat, and
+he said, I have an extra one. This one is old and it has got
+some stains on it. I will just give it to you, and he did.
+Dr. Miller-Meeks. Well, thank you for that, and Dr. Morens,
+I can understand how very difficult it is for you to be here.
+You have had an illustrious career. You went to undergrad and
+medical school at a very prestigious university. I was on
+faculty at the University of Michigan. You are dual-Board
+certified, which is not an easy thing to do to have dual-Board
+certification. As a public health servant and a captain in the
+public health service, you have been on the forefront on some
+very important diseases, both virology and other infectious
+diseases, and autoimmune diseases such as Reye syndrome and
+Kawasaki disease. So, can you tell us just very briefly how
+difficult it is to get into medical school, especially in the
+1970's and 1980's?
+Dr. Morens. I don't know. I was----
+Dr. Miller-Meeks. Was it easy to get in med school?
+Dr. Morens. Pardon?
+Dr. Miller-Meeks. Is it easy to get into medical school?
+Dr. Morens. It was never easy. And particularly for
+somebody like me, when I applied to medical school, the only
+science course I have ever had was 9th grade general biology.
+Dr. Miller-Meeks. And do you know what Alpha Omega Alpha
+is?
+Dr. Morens. I believe that is an honorary, like,
+fraternities or society for medical students.
+Dr. Miller-Meeks. National Medical Honor Society. Is it
+easy to get into Alpha Omega Alpha?
+Dr. Morens. I don't believe it is.
+Dr. Miller-Meeks. Is it more prestigious to get in in the
+3d year or the 4th year?
+Dr. Morens. I don't know.
+Dr. Miller-Meeks. OK. Do you know what a kilt is?
+Dr. Morens. A kilt?
+Dr. Miller-Meeks. Yes, sir, a kilt.
+Dr. Morens. K-i-l-t, like a Scottish kilt?
+Dr. Miller-Meeks. Yes.
+Dr. Morens. Yes.
+Dr. Miller-Meeks. OK. And do you know what a tragus is?
+Dr. Morens. Say again?
+Dr. Miller-Meeks. It is a Roman garb, such as Roman
+soldiers wear, sort of like a skirt.
+Dr. Morens. I don't think I know that word.
+Dr. Miller-Meeks. OK. Well, I left home at 16 to put myself
+through medical school. I was the last person who entered my
+medical school class at the University of Texas in 1982, the
+last person. By the third year, I was 12 out of 214 students
+Alpha Omega Alpha in the 3d year. I think merit is
+extraordinarily important. A tragus is a skirt. A kilt is a
+skirt. I don't think William Wallace was any less a hero in
+Scotland because he wore a kilt, nor do I think Roman soldiers
+were any less fierce, intelligent, or strategic because they
+wore a skirt.
+Now, although I have had differences, political and
+scientific differences, with Dr. Walensky. I have disagreed
+with her on infection acquired immunity. I have disagreed with
+her on school closures. I have disagreed with her on the lack
+of transparency of adverse outcomes from COVID-19 vaccines. I
+would have expected it when I was in medical school in 1982,
+and I can understand the embarrassment of having personal
+emails shared, but you were doing work-related stuff on your
+personal emails that you would have commented in an email,
+``Dr. Fauci got Rochelle Walensky her job as CDC director by
+lobbying for her to Ron Klain. Well, she does wear a skirt. I
+poured a little cold water on her, but he was undeterred in
+thinking that she is the cat's pajama.''
+So, let me just say, am I the cat's pajama? Do you know how
+many women sit on this subcommittee? Do you know what it takes
+for any of these women to get elected to Congress, because I
+find your comments to be disgusting. You had an illustrious
+career, an amazing track to get to where you are. You are
+trusted with one of the highest positions in government to
+combat public health crisis, and instead of doing your job, you
+are too busy worrying about avoiding FOIAs and challenging
+someone's position because they happened to wear a skirt. The
+American people deserve a whole lot better in their public
+servants. We don't need to worry about your trying to avoid
+FOIAs or what the quality of your mattress is, quite frankly,
+sir. You should be ashamed of your character and embarrassed. I
+am glad that you are, and you should in fact, apologize to this
+subcommittee, to Congress, and to our Nation. With that, I
+yield.
+Dr. Morens. May I apologize to you and the Committee. It is
+a misogynistic statement, and, you know, it was the same snarky
+joking stuff, but let me say I have been an advocate----
+Dr. Miller-Meeks. Sir, that is not a snarky joke. That is
+an underlying behavior that indicates how you approach women
+and how you think of women, and it is disgusting.
+Dr. Wenstrup. The time has expired. I now recognize Ms.
+Tokuda from Hawaii for 5 minutes of questions.
+Ms. Tokuda. Thank you, Mr. Chair. I want to echo my
+colleague's sentiment that your behavior, your mishandling of
+Federal records and disregard for transparency obligations
+under the Freedom of Information Act, are an affront to the
+taxpayers whose contributions fund this Federal Government, and
+to whom we are all accountable, including yourself. In
+addition, they cast a shadow on the legacy of the millions of
+Federal workers who serve the public diligently and
+respectfully day in and day out. I want to be very clear on
+this point. Your troubling misconduct, Dr. Morens, is an
+anomaly, not the norm, and it is essential that you be held
+accountable for your misconduct so that the American people can
+remain confident that their taxpayer dollars are being invested
+in a Federal work force that is committed to serving our Nation
+responsibly and with the care that it deserves.
+So, let me ask you, Dr. Morens, do you feel any remorse for
+the way in which you handled the Federal records that have been
+reflected on the members of Federal work force who you have
+served alongside?
+Dr. Morens. You know, I am sorry, I am getting a little
+echo here, and I am not sure I am hearing every word you say.
+And I am also----
+Ms. Tokuda. Do you feel any remorse for your handling of
+Federal records and how it has reflected on our Federal work
+force that serves alongside of you, the injustice you have done
+by making them look bad by your actions?
+Dr. Morens. To the extent that I have----
+Ms. Tokuda. Do you feel sorry? Yes or no. It is a simple
+question.
+Dr. Morens. I have said that already.
+Ms. Tokuda. You feel sorry? You apologize?
+Dr. Morens. Yes, I do.
+Ms. Tokuda. To the work force, the Federal work force in
+which you have now cast a shadow over?
+Dr. Morens. Yes.
+Ms. Tokuda. So, can you say that you will, in fact,
+apologize for betraying your shared obligation of serving the
+American taxpayers with the utmost respect for transparency and
+accountability, that you let Americans down? Will you apologize
+for that?
+Dr. Morens. Ma'am, I would not use the word ``betray.'' I
+have let them down. Most of it was inadvertent, making poor
+choices and not understanding all these rules and regulations,
+but betrayal suggests a conscious act, and I never did that. I
+have great respect for the Federal work force. I have been in
+Federal Government employment for 48 consecutive years with
+lots of awards and accolades, and I have never had a hint of
+scandal. So, to have----
+Ms. Tokuda. So, are you saying you are proud of your
+behavior, some of the behavior, and which was reflected here
+today in terms of comments you make, whether it be an official
+or non-official emails? Are you proud of this behavior?
+Dr. Morens. No.
+Ms. Tokuda. Is it up to the standards of the Federal
+Government and what taxpayers deserve?
+Dr. Morens. No, I am not.
+Ms. Tokuda. So, shouldn't this be a bit of a betrayal to
+the public, the ones you took an oath to, to make sure that you
+upheld your actions, your decisions, your comments? I consider
+it a betrayal, and we will agree to disagree on this. I am also
+disappointed, Dr. Morens, that someone in your position has
+taken such a brazen approach to blurring the lines between your
+official duties and your personal communications, as has been
+discussed by this panel, for example, in your personal email
+correspondence, including in your email signatures. So, this is
+not just something unintentional. You identify yourself with
+your role at NIAID, and you frequently referenced transferring
+correspondence from your official email address to your
+personal address, including when discussing matters where NIAID
+is actively engaged. In doing so, you are blurring the lines
+between whether you are taking actions in your official
+capacity with the Federal Agency or in your individual capacity
+pursuant to your personal interest. And, Dr. Morens, did you
+ever conduct government business through your personal email
+account?
+Dr. Morens. Not intentionally and----
+Ms. Tokuda. Unintentionally or not, did you conduct
+government business through your personal email account?
+Dr. Morens. Well, some of the emails I have seen that you
+all have provided look pretty incriminating. I don't know what
+they are, I don't remember them, but, yes, it looks like I made
+a mistake on more than one occasion, but it certainly wasn't my
+intention to do that. And let me also----
+Ms. Tokuda. Mistake or not, though--I am running short of
+time--you are admitting that you did official government
+business through your personal email from what you have ignored
+and seen today?
+Dr. Morens . Your definition of----
+Ms. Tokuda. From what you have heard today, would you
+consider that to be official government business through your
+personal account?
+Dr. Morens. I don't know. I mean, I would have to look at
+all the emails----
+Ms. Tokuda. OK. It seems like in our discussion, even
+talking with you here, it sounds like you would agree with us
+that you have conducted government business through your
+personal account. Did you ever misuse official resources to
+advance your personal interests or take contrary actions to
+NIAID's official policies or positions?
+Dr. Morens. I am sorry. I am getting feedback here and I
+can't----
+Ms. Tokuda. Did you ever misuse official resources to
+advance your personal interest or take actions that were
+contrary to NIAID's official position?
+Dr. Morens. You know, I am not sure I know what that means,
+but if----
+Ms. Tokuda. Did you misuse resources?
+Dr. Morens. I don't think so.
+Ms. Tokuda. Did you ever take contrary opinions to NIAID?
+Dr. Morens. Contrary opinions?
+Ms. Tokuda. Contrary opinions. OK. Clearly we have some
+miscommunications here, but similar to my colleagues on this
+dais here, I do believe you owe an apology and you have given
+one to the Federal work force. But the bottom line is all
+Americans, all taxpayers deserve an apology from you for your
+actions, the way you have conducted yourself both in a
+professional manner and through your personal correspondence as
+well, and with that, Chair, I yield back.
+Dr. Wenstrup. I now recognize Mrs. Lesko from Arizona for 5
+minutes of questions.
+Mrs. Lesko. Thank you, Mr. Chair. I believe earlier today
+you said, sir, ``Tony,'' meaning Tony Fauci, ``does not want me
+to connect anything to him,'' and when asked by my colleagues
+did you use personal email for official business, you answer
+was, I didn't think it was doing official business, and then
+just now you said, not intentionally. Let me read some of the
+emails.
+The first email from you says, ``P.S., I forgot to say
+there is no worry about FOIAs. I can either send stuff to Tony
+on his private email or hand it to him at work or at his house.
+He is too smart to let colleagues send him stuff that could
+cause trouble.'' Next email from you said, ``I suggested Arthur
+try to interview Tony,'' meaning Tony Fauci, ``directly and
+connected him to our secret back channel. He emailed Tony a few
+hours ago.'' Next email from you, ``I forgot to clarify in my
+email yesterday that both my Gmail and phone calls are now
+safe. Text is not as it can be FOIA-ed as can my government
+email, so you and Peter,''--Peter Daszak--``and others should
+be able to email me on Gmail only, with the caveat that no
+other government employee is copied at a government address, as
+all government emails are potentially FOIA-able.''
+Next email from you: ``This is sent from my Gmail account.
+Please send all replies here to Gmail. There are things I can't
+say except Tony is aware, and I have learned that there are
+ongoing efforts within NIH to steer through this with minimal
+damage to you, Peter, and colleagues and to NIH and NIAID.''
+Next email: ``Jerry, my private Gmail account is where I sent
+this from after forwarding to myself from my NIH account.
+Please try to send only to my Gmail as we were doing a couple
+of weeks ago, but I messed up a few times and sent them from my
+NIH account because on my phone, the two are merged. And then
+when you respond by hitting reply, it goes to NIH. After some
+recent issues, I am going to try to strictly use only my Gmail
+in these discussions.''
+Then the next email: ``I learned from our FOIA lady here
+how to make emails disappear after I was FOIA-ed, but before
+the search starts, so I think we are all safe. But I deleted
+most of these earlier emails after sending them to Gmail.''
+Next email: ``With the help of our IT folks, I went over the
+whole computer and phone situation. Basically, my Gmail is now
+safe from FOIA. Thus, it should be safe to communicate safely
+with you, Peter, and others, as long as we use my private
+Gmail. I ask you both that nothing gets sent to me except to my
+Gmail.''
+Sir, I believe you have lied here today to us, to Congress
+when you say, oh, I didn't know this, I didn't intentionally
+use my Gmail. Are you kidding me? Dr. Morens, do you want to
+change your testimony?
+Dr. Morens. No, I don't, because so many of these emails
+you just mentioned, I can't even remember them all, but the
+context is that this Gmail communication thing was set up
+purely to deal with personal things that were not government
+business and then other people----
+Mrs. Lesko. Sir, with all due respect, how can you say that
+when you clearly, in all these emails, were intentionally
+avoiding FOIA? You said it in your own words, sir.
+Dr. Morens. Let's talk about what you mean by
+``intentionally avoiding FOIA.'' I don't consider that telling
+them don't send me things because they could get FOIA-ed is
+potentially avoiding FOIA because those are personal things.
+And with respect to my NIH email, I couldn't possibly avoid
+FOIA because I had no control----
+Mrs. Lesko. Sir, did you use, in most of these emails, your
+official signature? It said, ``David M. Morens, OD, NIAID,
+NIH.'' These were official.
+Dr. Morens. Well, let me tell you something else. I didn't
+mention----
+Mrs. Lesko. And you forwarded from your NIH email to your
+personal email, and you said it right in your email.
+Dr. Morens. I learned only about a year ago that the fusion
+of my Gmail and my NIH email on my phone had another side
+effect too. And by the way, I finally got IT to take that off,
+to get rid of it so there is no more Gmail/email fusion. But
+after I asked them to take it off, I realized that if a Gmail
+or NIH email came to me and I replied to it, for some reason
+there was a default where the signature I had on Gmail, which
+said ``David Morens of Bethesda, Maryland'', or something,
+didn't go out, but the NIH email went out. I don't know how
+that happened. I didn't do it consciously----
+Mrs. Lesko. Sir, I am sorry. I just don't believe you, and
+I yield back.
+Dr. Wenstrup. Dr. Morens, in my experience, I just want to
+say, I don't know what defect you are talking about. When you
+get an email from one email, you have to intentionally move it
+to another email. It doesn't automatically shift over to
+another email.
+Dr. Morens. I am sorry, I don't----
+Dr. Wenstrup. I now recognize Mr. Mfume from Maryland for 5
+minutes of questions.
+Mr. Mfume. Thank you very much, Mr. Chairman. I want to
+thank you and the Ranking Member. I mean, if this were not
+laughable, it would be laughable. I don't know what I am
+watching. I saw some of this in my office and got here a little
+while ago and caught the rest of it. Mr. Morens, this is a tale
+out of some sort of movie, and I am not trying to particularly
+characterize you except that I can't define you. I mean, you
+seem to be here, there, and everywhere on these questions, and
+I am trying to get what your testimony is here to this body
+other than ``I don't know,'' ``I don't remember,'' ``I am not
+sure.''
+Much of your personal email account exchanges have been
+revealed, as we all know, by media outlets across the country
+in recent months, and many more had been turned over to this
+Select Committee, and, Dr. Morens, it appears that you yourself
+didn't even follow your own guidance. At least that is what I
+have come to believe here, and you've conflated personal and
+professional matters on both your official and your personal
+email accounts. That is correct, isn't it?
+Dr. Morens. I don't exactly know what the word
+``conflated'' means, but mixed them up. Is that what it means?
+Mr. Mfume. Well, you want to take the Fifth Amendment? I
+mean, you don't seem to remember anything, and I find that
+amazing. Something does not seem right here. It is very
+unsettling to me and obviously to Members of this committee. We
+believe that every Federal grant applicant should have full and
+fair consideration that is consistent with Federal guidelines,
+and I am not sure that has occurred. I don't know what to make
+of this. So let me ask you, since you are under oath, what is
+it that you want this committee to know about these so many
+allegations that had been sent your way?
+Dr. Morens. I want this committee to know that however many
+mistakes I made and however bad they were, I was trying to do
+the right thing. I had a friend, a personal friend, who was in
+danger of being murdered and his family being murdered and
+everything centered around that, and I did what I could do. And
+pretty soon the Gmail thing, which I thought was desirable and
+legal, getting personal stuff away from----
+Mr. Mfume. Sorry, you lost me. You lost me. What does a
+friend of yours who is close to being murdered have to do with
+the way that you performed your duties?
+Dr. Morens. I am sorry. I don't understand your question.
+Could you----
+Mr. Mfume. I didn't understand your answer. You said I was
+dealing with a friend who was close to being murdered, and then
+you went on to say something else. I am trying to connect them.
+Dr. Morens. Let me just repeat. My reason for telling Peter
+and others to go to my Gmail is because Peter and later Peter
+Hotez and some others were under death threats, and anything
+they sent me on my government email could end up in the public
+domain, and then I would be responsible for making their peril
+even worse. Does that make sense, or can I explain it again?
+Mr. Mfume. Go ahead.
+Dr. Morens. All right. Let me go back again to what I said
+before. When Peter Daszak contacted me in early 2020 and let me
+know that an email that he had sent me to my government NIH
+email had ended up being published in a journal or something
+and that it was personally embarrassing to him, I said to him
+as I said several times to him, why are you sending it on my
+government email? This is not government business. It is your
+personal thing about your state of mind, about your security
+arrangements, that if known your address being published, if
+your security arrangements are known, then people trying to
+kill you, you know, could maybe do it, and I felt responsible
+for that. Peter was very upset, and I was upset too.
+Mr. Mfume. Dr. Morens, what else do you feel responsible
+for?
+Dr. Morens. Pardon?
+Mr. Mfume. What else do you feel responsible for?
+Dr. Morens. I am sorry. I am getting this echo here. Should
+I turn off my microphone?
+Mr. Mfume. Yes, you are using my time. Let me ask you, why
+didn't you report any of this to the Ethics Office?
+Dr. Morens. I don't know. I don't even know what our Ethics
+Office does, but Peter certainly reported it to the----
+Mr. Mfume. I am not worried about Peter. I am talking about
+you. Peter is not here. I just want to know if you thought this
+was ethically incorrect or improper, why didn't you report it
+to the Ethics Office?
+Dr. Morens. What are you referring to? Is what being
+ethically improper?
+Mr. Mfume. What you just said. You asked him why was he
+sending this to one email account when it should have gone to
+another one.
+Dr. Morens. And you are asking me whether I thought what he
+was doing was unethical, what I was doing is unethical?
+Mr. Mfume. Sir, I think you are going to be haunted by your
+testimony today, and it is unfortunate. It is all on the
+record, and it doesn't make a lot of sense to many of us,
+certainly not to me. And I don't want to carry this on any
+further. Mr. Chairman, I am going to yield back any time that I
+have remaining. I thank you for the opportunity.
+Dr. Wenstrup. I now recognize Mr. Cloud from Texas for 5
+minutes of questions.
+Mr. Cloud. Thank you, Mr. Chairman. Is this correct that
+this was your title, the Senior Adviser to National Institute
+of Allergy and Infectious Disease former Director, Dr. Anthony
+Fauci?
+Dr. Morens. I think my title is Senior Adviser to the
+Director, National Institute of Allergy and Infectious
+Diseases.
+Mr. Cloud. OK. And how long did you work with Dr. Fauci or
+for him?
+Dr. Morens. Twenty-six years.
+Mr. Cloud. And you would also consider him a personal
+friend?
+Dr. Morens. No. I mean----
+Mr. Cloud. No?
+Dr. Morens. You know, he is a colleague, and Tony is a, you
+know, private guy. I have never gone out with him to have a
+beer or----
+Mr. Cloud. You mentioned Peter Daszak is a personal
+friend----
+Dr. Morens. Yes.
+Mr. Cloud . For 20 years. Is that correct?
+Dr. Morens. Probably a little less than 20 years, but
+somewhere in that range.
+Mr. Cloud. OK. And your statement today still is that you
+did not intend to avoid FOIA?
+Dr. Morens. Yes, sir.
+Mr. Cloud. In spite of the several emails we have saying
+otherwise. Is that correct?
+Dr. Morens. I think it is correct, but there are some
+elements of this, you know, that I don't think are being
+understood. You can't avoid FOIA----
+Mr. Cloud. And you just said that you did no official
+business on your Gmail account. Is that correct?
+Dr. Morens. I tried to make sure I never did official
+business.
+Mr. Cloud. And that is not what you just said a few minutes
+ago. You said you never did. Here is an email from Peter to
+you: ``Attached is a single sheet with bullets explaining why
+Dr. Tabak was wrong and hopefully convincing folks at NIH to
+stop criticizing EHA's reporting compliance. Please don't share
+this letter yet. We will edit that and get it to NIH by Tuesday
+hopefully.'' You replied, ``Peter, this is an excellent draft.
+I will suggest some wordsmithing tweaks later today.'' He said,
+``Thanks for the comments, David. I will incorporate them
+today.'' Do you think that is not official business?
+Dr. Morens. I would have to look at it. I don't know----
+Mr. Cloud. OK. This is related to EHA. EHA is EcoHealth, is
+that right?
+Dr. Morens. Yes, but I mean--yes.
+Mr. Cloud. OK. So this is an organization who got a
+government grant that you are supposed to be overseeing, right?
+Dr. Morens. I don't have any grant oversight----
+Mr. Cloud. Well, NIH.
+Dr. Morens. NIH does, but I'm----
+Mr. Cloud. Sure, and you are the Senior Adviser to the head
+of----
+Dr. Morens. Right, but I have no involvement in any grants,
+in any aspect of any grants.
+Mr. Cloud. Sure.
+Dr. Morens. And I don't know whether what you are referring
+to is a grant that was already funded or an application that a
+friend----
+Mr. Cloud. Do you not see that as a conflict of interest
+for you to be advising someone who is working to get a Federal
+grant on how they are communicating and approaching and even
+suggesting tweak outline, tweak revisions?
+Dr. Morens. I think it would be a conflict of interest, as
+I understand it, helping someone----
+Mr. Cloud. Is that why you used your Gmail instead of your
+official mail for communication with Peter?
+Dr. Morens. Using my Gmail, it was for a different purpose
+that was for avoiding more embarrassment and danger to him.
+Mr. Cloud. And specifically, as your emails say, avoiding
+FOIA, correct?
+Dr. Morens. No. Well, yes, I guess you could say that,
+avoiding him sending something that had nothing to do with NIH
+business, but could be FOIA-ed and embarrass him.
+Mr. Cloud. OK. Now, there has been this dialog that, you
+know, you are the one bad apple in a whole bunch. Before, you
+know, our last hearing, the communication was Peter was the one
+bad apple out of a whole bunch. Who was the FOIA lady that you
+mentioned?
+Dr. Morens. I think Marg Moore.
+Mr. Cloud. All right.
+Dr. Morens. Marg is Margaret. Margaret Moore.
+Mr. Cloud. OK. What tips did she give you about avoiding
+FOIA?
+Dr. Morens. Well, she gave me none about avoiding FOIA.
+That was a joke, but what she did say to me was--well, let me
+back up a little bit.
+Mr. Cloud. You are sure about that?
+Dr. Morens. Hmm?
+Mr. Cloud. Are you sure about that? We can subpoena her
+email too, you know----
+Dr. Morens. Yes.
+Mr. Cloud . And we can call her to witness as
+well, so make sure your testimony is accurate.
+Dr. Morens. Yes. No, I am telling you what I know and
+remember, and it is the truth as far as I know it. When Peter
+had----
+Mr. Cloud. Do you think you are the first employee that she
+gave advice on how to avoid FOIA?
+Dr. Morens. She didn't give me advice about how to avoid
+FOIA. Let me----
+Mr. Cloud. You said she gave you advice on how to avoiding
+FOIA.
+Dr. Morens. That is what I said because that was sort of--
+--
+Mr. Cloud. So you were lying then, but you are telling us
+the truth now?
+Dr. Morens. I wasn't lying. I was making a joke with Peter.
+You know, I said something like I have a way to make it go
+away, but that was just a euphemism. May I tell you what she
+told me?
+Mr. Cloud. Sure.
+Dr. Morens. I was worried because I was getting so many
+FOIAs. I was worried that personal things were going to get
+into it, so I went and talked to her and said, how does this
+work because at that point in time I had no involvement in
+FOIAs. If I was going to be FOIA-ed, the FOIA Office would
+notify me and say do we have your permission to do a FOIA
+investigation, and I would say yes, and that is the end of what
+I heard. But I was worried that these personal things would get
+caught up in it, so I asked her how it worked. And she said,
+well, you really don't have to worry about personal things
+because when there is a FOIA request. We, the FOIA Office,
+negotiate to limit the scope of what they are looking for to,
+among other things, make sure that inadvertent stuff doesn't
+get in there.
+Mr. Cloud. You said a comment earlier that concerned me:
+the relationship between your organization, NIH, and EcoHealth
+should be one of oversight. To start off this hearing, you
+said, we all felt it was our job to cheer Peter up. I am just
+really concerned because Peter even admitted the last time that
+he did not do a good job of overseeing the grant that went to
+the Wuhan lab. It is clear that our government did not do a
+good job of overseeing EcoHealth. And it, to me, speaks to the
+culture that is at issue here when you think your job instead
+of oversight is to make sure that we are cheering up the people
+we should be overseeing. Thank you, Chairman. I yield back.
+Dr. Wenstrup. I now recognize Dr. McCormick from Georgia
+for 5 minutes of questions.
+Dr. McCormick. Thank you, Mr. Chairman. Dr. Morens, now, I
+am no lawyer, I am a doctor, but just looking through what
+evidence we have and what we subpoenaed and what we have
+gotten, it has become apparent that you and many employees at
+NIH and NIAID have been stonewalling and outright avoiding our
+subcommittee's investigation. Not only is it a violation of
+law, as far as I am understanding, but it also fosters a
+continual distrust of government and its officials and what we
+have been funding.
+Last July, this Select Subcommittee discovered the initial
+evidence of your misconduct and reported it to the National
+Archives and Records Administration, and at the National
+Archives' direction, NIH started an investigation into your use
+of personal email to conduct official business in the unlawful
+deletion of Federal records. I understand you talked about to
+avoid embarrassment. I think that has done just the opposite.
+When the investigation began, you were placed on paid
+administrative leave. In simpler terms, you have been
+continuing to receive your salary and your benefits but do not
+perform any official duties. As far as we have been notified,
+you have not been subject to any discipline or accountability
+to this point. Is that correct?
+Dr. Morens. Well, I would say that being placed on
+administrative leave is a discipline because I love my job and
+I would like to be back there doing work, and it is painful for
+me not to be able to work with my colleagues. And may I also
+say that that investigation of me that you referred to for
+destroying documents, exonerated me and said there is no
+evidence I destroyed any documents.
+Dr. McCormick. OK.
+Dr. Morens. And you probably have that information
+yourself. I have it.
+Dr. McCormick. I am not going to ask about the status of
+the investigation because I think that is inappropriate at this
+time, and I don't think it would be appropriate for you to
+comment on an ongoing investigation. But I hope the
+subcommittee receives the answers from the NIH as to the status
+of the investigation soon, which we still have not received
+because we don't think that it is appropriate to pay people who
+weren't able to do a job at the time. So I think we are both
+wasting our time.
+In your emails recovered through FOIA, you boasted to Dr.
+Daszak that you had a ``secret back channel'' to communicate
+with Dr. Fauci. That is what we have seen so far. We also have
+statements concerning the NIH, NIAID, and FOIAs, also an
+instruction on how to avoid document production through
+intentional misspellings of keywords to avoid triggering hits
+in automated search queries in response to FOIA requests and
+congressional oversight inquiries. Dr. Morens, do you deny
+these statements?
+Dr. Morens. You know, I am sorry, I am not sure I followed
+everything you said. I am also getting a little echo from your
+side, but let me move away from them. Let me turn off the
+microphone----
+Dr. McCormick. May I reclaim that time that I am going to
+repeat, please?
+Dr. Wenstrup. Yes.
+Dr. McCormick. Thank you. We have statements concerning the
+NIH, NIAID, FOIA officer, instructions on how to avoid document
+production through intentional misspellings of keywords to
+avoid triggering hits on automatic search queries in response
+to FOIA requests and congressional oversight inquiries, that
+you had the secret back-channel ways to get a hold of Fauci,
+that you are trying to avoid queries through FOIA by
+misspellings and other things. That is what we have come to the
+conclusion on. Do you deny that?
+Dr. Morens. I think there is a misunderstanding because the
+secret back channel----
+Dr. Wenstrup. Microphone.
+Dr. McCormick. Microphone.
+Dr. Wenstrup. Microphone.
+Dr. Morens. I am sorry. I think there is some
+misunderstanding here. The secret back channel joking
+terminology, to my knowledge, was never about FOIAs.
+Dr. McCormick. So you are going to joke about back channels
+to Fauci and about misspellings on queries? That is a joke? Not
+very funny to me.
+Dr. Morens. I would have to see this communication. It is
+confusing to me because, you know, I could walk into Tony's
+office and talk to him anytime I wanted. There is no need to
+have a back channel, and I had face-to-face meetings with him
+all the time. So the back-channel thing----
+Dr. McCormick. So you deny these statements is what you are
+saying.
+Dr. Morens. I think there is a mix-up somewhere.
+Dr. McCormick. So you deny it, yes?
+Dr. Morens. I guess I do.
+Dr. McCormick. OK. Dr. Morens, we have your previous
+statement on FOIA documents here. Chairman, I request unanimous
+consent to submit these documents for the record.
+Dr. Wenstrup. Without objection.
+Dr. McCormick. OK. Based on your answer, you either lied to
+Congress on your transcribed interview or are lying here today.
+This caused me to believe that your behavior as senior
+scientific adviser to the director reflects much broader NIH-
+and NIAID-wide practice which really concerns me. This Select
+Subcommittee must bring HHS and the agencies beneath it to heal
+in every way possible over the final 7 months of this Select
+Subcommittee. I want to take a moment to thank the Chairman and
+my colleagues for their leadership thus far. We must earn back
+American people's trust and confidence. We must have full
+transparency. And with that I yield.
+Dr. Wenstrup. Dr. Morens, I am going to take a little time
+to read some statements and ask some more questions. On January
+18, you were asked if you ever assisted in the drafting of
+correspondence that Dr. Daszak sent to the National Institutes
+of Health regarding EcoHealth's terminated grant. You answered
+``no.'' On January 18, you were asked if you ever provided
+advice to Dr. Daszak regarding his grant termination. You
+answered ``no.'' In your Gmail on March 29, 2001, you responded
+to Dr. Daszak with edits to a letter that he sent to the NIH.
+On October 25, 2021, you responded to Dr. Daszak that you would
+edit an EcoHealth press release regarding the grant
+termination. On April 28, 2020, you responded to Dr. Daszak
+with edits to an EcoHealth press release regarding the grant
+termination. On October 25, 2021, you provided Dr. Daszak with
+advice regarding preparing a timeline regarding EcoHealth's
+late 5-year report submission. On December 7, 2021, you wrote
+to the chair of EcoHealth's board of directors to ``put in a
+word'' for Dr. Daszak. Did you ever advise Dr. Daszak on how to
+respond to NIH compliance actions? Yes or no.
+Dr. Morens. What is the word to compliance actions?
+Dr. Wenstrup. Did you ever advise Dr. Daszak on how to
+respond to NIH compliance actions?
+Dr. Morens. Well, yes, I did tell him multiple times----
+Dr. Wenstrup. OK. That is all I am asking. Did you ever
+edit a letter Dr. Daszak sent to NIH in response to a
+compliance action?
+Dr. Morens. Well, I must have. I don't remember it, but I
+saw such a letter.
+Dr. Wenstrup. OK.
+Dr. Morens. I don't know what it was, but apparently, I
+helped him do it, but----
+Dr. Wenstrup. Did you ever edit a press release that Dr.
+Daszak issued in response to a compliance action?
+Dr. Morens. Did I send a press----
+Dr. Wenstrup. Did you ever edit a press release that Dr.
+Daszak issued in response to a compliance action?
+Dr. Morens. The fact that you are asking me says I must
+have, but I don't remember it.
+Dr. Wenstrup. OK. Did you ever advocate on behalf of Dr.
+Daszak to EcoHealth's board of directors?
+Dr. Morens. I sent a letter to Nancye Green, the head of
+the board of directors essentially saying, you know, my
+personal knowledge of Peter--shall I wait a minute?
+Dr. Wenstrup. Go ahead.
+Dr. Morens. This was in response to Peter saying, you know,
+the Board is worried about all these accusations against me, I
+could be fired, can you tell the board that I am a good person
+and, as far as you know, I am an upstanding guy. And I did
+that, but as a private citizen, not as representing NIH.
+Dr. Wenstrup. Thank you. I now recognize Ms. Greene from
+Georgia for 5 minutes of questions.
+Ms. Greene. Thank you, Mr. Chairman. Dr. Morens, your
+emails have been quite interesting. Reading them has been
+pretty shocking. On April 18, 2020, you wrote an email saying,
+``Peter Daszak emailed me congratulating Tony on standing up
+for science. That email somehow fell into the hands of the
+Congressmen, probably via a FOIA of someone who didn't delete
+it, as I did delete all of Peter's emails and others relating
+to the origin when the shit started hitting the fan. Anyway,
+the Congressmen got a copy of Peter D's emails from someone at
+NIH, and he now wants to get any reply Tony and I or anyone
+else may have sent back to Peter. Mine was erased long ago. I
+verified that today, and I feel pretty sure Tony's was, too.
+The best way to avoid FOIA hassles is to delete all emails when
+you learn a subject is getting sensitive. In any case, there is
+nothing here except opportunities to hassle, harass, and huff
+and puff. You really got into some opportunities.''
+You also wrote on June 16, 2020, you said, ``The FOIAs are
+dreadful and paranoia-inducing. In the old days, we had to do
+them ourselves by hand, I mean, finding and printing out
+thousands of emails coming in and going out. Now they sometimes
+FOIA text messages, too. Many FOIAs turn up thousands of pages
+of docs and, of course, most meaningless. We are all smart
+enough to know to never have smoking guns, and if we did, we
+wouldn't put them in emails, and if we found them, we would
+delete them.'' You wrote on February 24, 2021, you said, ``You
+are right, and I need to be more careful. However, as I
+mentioned once before, I learned from our FOIA lady here how to
+make emails disappear after I am FOIA-ed, but before the search
+starts, so I think we are all safe. Plus, I deleted most of
+those earlier emails after sending them to Gmail.''
+Dr. Morens, who is your FOIA lady? Is it Hillary Clinton?
+Dr. Morens. Thank you for the humor.
+Ms. Greene. You are welcome.
+Dr. Morens. Thank you for the humor. I think, you know, you
+said about 10 things there and my brain can't keep them all in
+my head, but I think I have answered a lot of those questions.
+I told you who the FOIA lady was. I told you what she told me.
+I told the committee that it is impossible to avoid a FOIA and
+it is impossible to destroy an NIH document, an email document.
+Impossible to do it.
+Ms. Greene. Well, clearly because we have got your emails,
+and they are pretty shocking.
+Dr. Morens. There you go.
+Ms. Greene. I do appreciate humor as well, but you do
+receive a taxpayer paycheck, and when it comes to work emails,
+there are a lot of things that shouldn't really----
+Dr. Morens. By the way, if I understood what you just said,
+let me just say that a lot of government emails come to my
+Gmail, stuff from CDC, my paycheck.
+Ms. Greene. This is all related to your job, though,
+regardless of which email account. Like I said, Hillary Clinton
+had a private server as well and she put a lot of things there
+and somehow they disappeared.
+Dr. Morens. .
+Ms. Greene. Dr. Morens, you also wrote on October 5, 2021,
+``Peter, I just got news that the FOIA picked up an email I
+sent you saying that Tony commented he was brain dead, jokingly
+of course. However, Ron Johnson is all over it and now after
+me. Tony will be pissed, rightfully so. I deleted the email,
+but I now learned that every email I ever got since 1998 is
+captured and will be turned over whether or not I instantly
+deleted it, Gmail, phone texts. I need to scrupulously rely on
+those exclusively.''
+On July 22, 2020, this one was actually pretty interesting:
+``I am actually imbibing a double, or is it a triple, martini
+at the moment. Not sure of the amount of EtOH because I just
+poured until my elbow got sore, but the olive at the bottom is
+hard to see. No hot tub in my condo. I tried to negotiate a
+jacuzzi, but they balked and I caved. In any case, now that I
+am divorced, what good is a hot tub or Jacuzzi? If I am lucky
+enough to find a girlfriend, I will spring for a Jacuzzi,
+upgrade my wine cooler, get a mattress that will take more of a
+pounding and stop working so hard. In the meantime, I will work
+at my job of trying to make the boss look good.'' In the summer
+of 2020, COVID was raging, and I personally believe that Peter
+Daszak at EcoHealth had a lot to do with the fact that COVID
+was raging because experimenting on viruses that turn into
+basically a monster that has murdered millions and millions of
+people is something to take very seriously.
+I have one more question for you. This is where you emailed
+and talked about kickbacks. This was on August 27, 2020, after
+you were talking about covering up for Tony. You said, ``Of
+course, there is a kickback.'' And then you also referenced a
+kickback on August 27, 2020. You said, ``Do I get a kickback?
+Too much fooking money. Do you deserve it all? Let's discuss.''
+Have you made any money off of EcoHealth, off of COVID-19, and
+off of COVID vaccines, Dr. Morens?
+Dr. Morens. No, no I have not.
+Ms. Greene. Then what were you talking about with
+kickbacks?
+Dr. Morens. That is a joke.
+Ms. Greene. That is not a joke. You were talking about
+kickbacks, and this is something that is very serious. As I
+said, millions of people died and millions of people were
+forced to take a vaccine they should have never had to take
+against their will. Thank you, Mr. Chairman.
+Dr. Wenstrup. Now I recognize Dr. Joyce from Pennsylvania
+for 5 minutes of questions.
+Dr. Joyce. Thank you, Chairman Wenstrup, for convening this
+important hearing. Over the past months, this subcommittee has
+heard testimony from Dr. Daszak of EcoHealth and NIH deputy
+director, Dr. Tabak. During that questioning of both of these
+witnesses, it has become clear to me that the NIH's current
+grant processes are inadequate to ensure the proper oversight
+of Federal funds. Dr. Daszak revealed that EcoHealth's
+renegotiated grant would rely on continued work from the Wuhan
+Institute of Virology, and Dr. Tabak confirmed that NIH was
+unaware of this continued collaboration when certifying
+EcoHealth's compliance. This means that based on false
+statements, NIH and NIAID approved Federal funding to go toward
+work involving the debarred Wuhan Institute of Virology. Dr.
+Morens, do you agree that the NIH must have a rigorous grant
+review process in order to ensure the grants that they provide
+are responsible use of the Federal taxpayers' dollars?
+Dr. Morens. Yes.
+Dr. Joyce. Do you agree that the strict review processes
+are especially important when evaluating a grantee who is out
+of compliance and determine if they are still receiving
+funding?
+Dr. Morens. Yes, but I mean----
+Dr. Joyce. Thank you. ``Yes'' is the answer. On September
+7, 2021, you wrote to Dr. Daszak in an email titled, ``For
+Urgent Review, Questions Raised by Ecohealth Alliance Grant
+Proposal.'' You wrote, ``Don't worry, behind the scenes NIH is
+sticking up for EcoHealth''--that is a quote--and proceeded to
+forward internal NIH communications to Dr. Daszak. What did you
+mean by saying that the NIH was sticking up for EcoHealth
+behind the scenes?
+Dr. Morens. I don't remember specifically, but I felt----
+Dr. Joyce. Sounds nefarious, doesn't it?
+Dr. Morens. It sounds what?
+Dr. Joyce. It sounds like it is suspicious. It sounds
+nefarious.
+Dr. Morens. It does, yes.
+Dr. Joyce. It is concerning, isn't it?
+Dr. Morens. Yes.
+Dr. Joyce. Were you regularly colluding with Dr. Daszak in
+order to promote EcoHealth in the NIH?
+Dr. Morens. Did I collude with him?
+Dr. Joyce. Yes, that is my question.
+Dr. Morens. No.
+Dr. Joyce. Is using an unofficial email address to provide
+grantees with nonpublic information about grant consideration
+consistent with NIH standards review process?
+Dr. Morens. I think what I was referring to is stuff that
+was in the public domain. There was a newspaper----
+Dr. Joyce. Why would you use a private email to do that?
+Dr. Morens. Because at one point I stopped communicating
+with Peter and the others on anything but Gmail.
+Dr. Joyce. Why would you do that?
+Dr. Morens. Well, I have already explained that because
+things that they tell me that are private things could get into
+the public domain if they send it to my----
+Dr. Joyce. Well, you said it was in a public domain. Is
+personally editing grantee responses to NIH compliance efforts,
+as you did, with letters EcoHealth sent to NIH, consistent with
+NIH and NIAID's standard compliance process?
+Dr. Morens. It is probably not. I would have to go look at
+it, and I don't remember----
+Dr. Joyce. It certainly is not. Do you believe that using
+your personal email in this way was consistent with NIH and
+NIAID policy, and are you aware of other NIH or NIAID employees
+who also conducted official work on unofficial emails?
+Dr. Morens. You know, I don't know of anybody specifically,
+but we get training on emails all the time, and in that
+training, we are told that it is a policy to try to separate
+them, so----
+Dr. Joyce. Did you follow that policy?
+Dr. Morens. I try to, yes, and I may----
+Dr. Joyce. We have evidence that you did not follow that
+policy. Trying to is not success. The government standards of
+the NIH should mean following policy. Do you agree that you
+failed to follow NIH policy?
+Dr. Morens. I do agree, but, you know----
+Dr. Joyce. I find this to be quite concerning as we look to
+how we move forward, recognizing that NIH standards and NIH
+policies were failed. I think that your testimony here today
+continues to affirm to us that NIH policies have dismally
+failed when it came to COVID-19. Mr. Chairman, I thank you for
+the opportunity to have this hearing today, and I yield the
+balance of my time.
+Dr. Wenstrup. Thank you. Dr. Morens, it is not the
+intention of this committee to throw the baby out with the
+bathwater, and I agree with Dr. Ruiz, many public servants work
+diligently and honestly every day and I applaud those public
+servants. We applaud their work. But it is clear between your
+transcribed interview, the actions that we have seen through
+your emails, and your testimony today, that we have more
+investigating to do. And in closing, I just want to say thank
+you for appearing before us today.
+And with that, and without objection, all Members will have
+5 legislative days within which to submit materials and to
+submit additional written questions for the witnesses, which
+will be forwarded to the witnesses for their response.
+Dr. Wenstrup. If there is no further business, without
+objection, this Select Subcommittee stands adjourned.
+[Whereupon, at 5:12 p.m., the Select Subcommittee was
+adjourned.]

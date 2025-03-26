@@ -1,1 +1,1494 @@
-INVESTING IN THE FUTURE: SAFEGUARDING MUNICIPAL BONDS FROM CLIMATE RISK ---------- WEDNESDAY, JANUARY 10, 2024 Committee on the Budget, U.S. Senate, Washington, DC. The hearing was convened, pursuant to notice, at 10:00 a.m., in the Dirksen Senate Office Building, Room SD-608, Hon. Sheldon Whitehouse, Chairman of the Committee, presiding. Present: Senators Whitehouse, Merkley, Kaine, Padilla, Grassley, Johnson, Braun, Kennedy, and R. Scott. Also present: Democratic Staff: Dan Dudis, Majority Staff Director; Melissa Kaplan-Pistiner, General Counsel; Matthew Bolden, Climate Policy Advisor. Republican Staff: Chris Conlin, Deputy Staff Director; Krisann Pearce, General Counsel; Jordan Pakula, Professional Staff Member; Ryan Flynn, Staff Assistant. Witnesses: Mr. Thomas G. Doe, President and Founder, Municipal Market Analytics Ms. Megan N. Kilgore, City Auditor, Columbus, Ohio Dr. Chris Hartshorn, Advisor, Zeus AI Dr. Matthew Kahn, Provost Professor of Economics and Spatial Sciences, University of Southern California Dr. Eric Leeper, Paul Goodloe McIntire Professor in Economics, University of Virginia OPENING STATEMENT OF CHAIRMAN WHITEHOUSE \1\ --------------------------------------------------------------------------- \1\ Prepared statement of Chairman Whitehouse appears in the appendix on page 28. --------------------------------------------------------------------------- Chairman Whitehouse. My distinguished colleague and Ranking Member, Senator Grassley, has an obligation to check in on another Committee before he comes here, and that starts at 10:00, so he's going to be here fairly soon, and I have his staff's permission to begin the hearing, so let me gavel it into order. And I welcome the witnesses, welcome all colleagues to the first hearing of the Senate Budget Committee in 2024, and what is our 12th hearing on the looming fiscal and economic dangers of climate change. In the year since we started, climate economic warnings have just gotten worse. We are barreling past warning sign after warning sign. The facts are bad. Last year was the hottest year on record. It set a new record for billion dollar disasters, including the deadliest wildfire in modern United States (U.S.) history, and a new worst for global fossil fuel emissions. Climate change disrupted global food markets with flooding, persistent drought and shipping bottlenecks, and raised sugar, cocoa, and olive oil prices as just a few examples, causing climate inflation around the world. Shattered weather records battered insurance markets. Vermont and New York's once in a thousand year storms triggered deadly floods. California saw its first ever tropical storm warning. El Paso had 44 consecutive days at or above 100 degrees, topped by Phoenix's 55 days at or above 110 degrees. The Dallas fed estimated the summer heatwave cost Texas $24 billion. Insurance companies are already cutting their losses and exiting markets on the frontline of climate change in Louisiana, Florida, and California. Follow the real estate economics here. Without insurance it's hard to get a mortgage. But if you can't get mortgages, property markets suffer, causing pain to families, communities, and ultimately the entire U.S. financial system. Look at when the 2008 mortgage crisis cascaded into the Great Recession. As this current insurance crisis spirals into a mortgage crisis, and then spills over into housing markets, property values will suffer. The former Chief Economist at Freddie Mac warned this Committee that in this mortgage crisis, ``Unlike during the experience of 2007-2008, these homeowners will have no expectation that the values of their homes will ever recover.'' I share my colleague's debt and deficit concern about the impending budgetary and fiscal crisis facing our nation. One front of that impending crisis is climate change's economic threat. A threat to families, neighborhoods, banks, federal housing lenders, real estate developers, insurers, investors, and to state and local tax bases, which brings us to the topic of today's hearing, the $4 trillion municipal bond market. Municipal bonds, much like the 30-year mortgage, are a bedrock of our American economic systems, enabling local governments to make investments that are essential for their communities. Basic public services, like water service, sewage treatment, electricity and roads. Local government bonds finance more than 70 percent of U.S. infrastructure, including airports, bridges, railways and seaports. Climate change now threatens that bond market. Historically, municipal bonds have a sterling reputation among investors with default rates of less than 1 percent. Investors lend their dollars to build a new school or highway, and typically receive a tax exempt stream of interest for the next 15 or even 30 years. These bonds, secured by government revenues, are among our most stable investments. Climate change undermines the stability in two ways. More intense storms, wildfires, droughts, heatwaves and floods impose higher costs on state and local governments, putting pressure on the spending side. And on the revenue side storm damage and insurance risk can undermine the municipal tax base. Already climatechange is making it harder for municipalities to service their bond payments, and making it harder for governments to raise new capital for needed climate investments. After a disaster, communities' local tax bases can be devastated. 5 years after the Camp Wildfire, only \1/3\ of the population has returned to Paradise, California. Hurricane Matthew undermined tax bases across small towns in North Carolina. After a disaster, population declines mean revenues decline, and bond markets are watching. 15 or 30 year municipal bonds start to look less safe. Moody's has already given notice to coastal communities. This risk comes home to roost in the federal budget. Over 40 percent of our national debt relates back to crises we did not prepare for adequately, like the mortgage meltdown and the COVID pandemic. Today we'll hear more evidence that climate change is just such a crisis, an impending budgetary and fiscal crisis facing our nation. It could well be the worst yet. We've heard warnings about a coastal properties values crash. A similar collapse in wildfire adjacent areas, a bursting of the international carbon bubble, of turmoil in insurance markets, of climate inflation, and now danger to a pillar of American investment, the municipal bond. Nothing says that these all don't come to pass. Ignoring all of this is akin to financial negligence. And if there's one thing the Budget Committee should be able to agree on is that we oughtn't be negligent, and with that I will turn to my distinguished Ranking Member, and also wish him a Happy New Year. This is the first time we've seen each other in person since the New Year. OPENING STATEMENT SENATOR GRASSLEY \2\ --------------------------------------------------------------------------- \2\ Prepared statement of Senator Grassley appears in the appendix on page 30. --------------------------------------------------------------------------- Senator Grassley. And I'm going to wish you in turn a Happy New Year, and your family as well. And as you would expect, I'm going to say that I have enjoyed the first year we've had, even though we've had some disagreement on the agenda of the Committee, and so I'm going to probably start out where you would expect me to start out. The purpose of the Budget Committee and the---- Chairman Whitehouse. Understood. Senator Grassley . Fiscal problems of our nation. One of my hopes for the year is for this Committee to turn its attention to the pressing fiscal challenges that we face as a nation. Our unsustainable fiscal outlook is a bipartisan problem because both parties talk about it, and it's going to require a bipartisan solution to resolve. That was the crux of the letter that Senator Scott and I, along with all the Republican members of this Committee, sent you in December. Your December 7th response suggests that you agree that reducing the federal deficit and shrinking national debt are good ideas, and yet you rejected our request to hold a bipartisan hearing focused on that matter. Yes, we do disagree on the merits of many policies and proposals, but for the good of our nation we must begin to find common ground to address a national debt that recently topped $34 trillion, and is growing at a historic pace. Yesterday the Congressional Budget Office (CBO) warned that the federal budget deficit totaled $509 billion in just the first 3 months of fiscal year 2024. That's $87 billion more than this time last year, and that's despite the fact that revenues are coming in 8 percent higher than a year ago. The Treasury Department recently reported that we ran a $1.7 trillion deficit in 2023, larger than all but 6 deficits recorded since 1946, as a share of gross domestic product (GDP). Now we now that Fitch Ratings has downgraded our credit rating, and Moody's Investor Service recently placed a negative outlook on the U.S. sovereign credit rating. This morning the Budget Committee holds its 13th climate change hearing this Congress. This has prevented us from discussing ways to improve our immediate and dire economic position. Climate discussion is always worthy of our time as legislators, and must be considered, and debated, and discussed. But climate change doomsday isn't just around the corner. Recent adaptation is the key to coping with any climate change. Today's hearing is about the role of climate change in the municipal bond market. The $4 trillion municipal bond market is very resilient according to Moody's. Over 99 percent of municipal bonds issued by cities, school districts, states and other local governments, are categorized as investment grade. The infrequency of general government defaults reflects a key feature of state and local governments. That is, they have the power to raise revenue through taxation unlike private sector counterparts. State and local governments understand the risks their jurisdictions face, and they're uniquely qualified to so adapt. Where there have been defaults in municipal bonds it's been in places that have been mismanaged for decades, such as the City of Detroit, and I haven't looked at Detroit lately, but I think they're making some progress coming out of the hole that they dug for themselves. In fact, according to Moody's they've never seen a bond that they rated default due to natural disasters. This includes rated bonds for Paradise, California, which suffered near complete destruction in 2018 California wildfire. Paradise has made every scheduled bond payment. I agree that municipal bond issuers face challenges. A big one is the extent to which municipalities rely on the federal government for transfers. Let's face it, we're broke. I welcome all today's witnesses, and look forward to hearing each of their testimonies. Thank you, Mr. Chairman. Chairman Whitehouse. Thank you, Senator Grassley. Let me take a moment to introduce our witnesses. I'll introduce all of you together, and then we'll go through your testimony. As you know, the practice in this Committee is to hold your statement to 5 minutes, have your complete testimony made a part of the record, and by adhering to that we give more time for the Senators who are present to ask questions, so thank you for accommodating us with that. Our first witness is Mr. Thomas Doe. Mr. Doe is the Founder and President of Municipal Market Analytics, a leading independent strategy, research, and advisory firm for the municipal bond industry. Clients include major investment firms, banks, securities dealers, financial advisers, bond issuers, and regulators. Mr. Doe served on the Municipal Securities Rulemaking Board (MSRB) from 2002 to 2005, and he's previously testified on the health of the industry to the Senate Banking Committee, and to the Securities and Exchange Commission. Welcome back to Washington, Mr. Doe. Our second witness is Ms. Megan Kilgore, the City Auditor of Columbus, Ohio. As City Auditor, she oversees a nearly $5 billion debt portfolio, and a $2 billion investment portfolio, and she administers the collection of approximately $1 billion in revenue every year. Prior to elected office, Ms. Kilgore was a Municipal Advisor, helping cities, counties, school districts, and economic development districts all over the country navigate complicated financing transactions. Ms. Kilgore, thank you for being with us today. Our third witness is Dr. Chris Hartshorn. Dr. Hartshorn is currently an adviser to Zues AI, a National Aeronautics and Space Administration (NASA) spinoff focused on next generation weathering modeling and forecasting, as well as a number of other environmental data science startups and a venture capital firm. Previously, Dr. Hartshorn helped build risQ and Level 11 Analytics, which became the leading providers of physical climate risk data for the municipal bond market, until their acquisition by Intercontinental Exchange in 2021. Thank you for being here today, Dr. Hartshorn. Following Dr. Hartshorn is Dr. Matthew Kahn. Dr. Kahn is a Provost Professor of Economics and Spatial Sciences at the University of Southern California. Dr. Kahn is also a visiting Fellow at the Hoover Institution, and a Research Associate at the National Bureau of Economic Research (NBER), and a Research Fellow at the Institute of Labor Economics (IZA). Dr. Kahn's research focuses on urban and environmental economics. He previously taught at Columbia, the Fletcher School at Tufts, the University of California, Los Angeles (UCLA), Harvard, Stanford, and the National University of Singapore. Thank you for being with us, Dr. Kahn. Our final witness is Dr. Eric Leeper, the Paul Goodloe McIntire Professor in Economics at the University of Virginia (UVA)--my at least law school alma mater, if that actually counts in UVA. You know, they take the undergrad and the law school differentiation pretty seriously. Dr. Leeper is also a distinguished visiting scholar at the Mercatus Center, a research associate at NBER, Director of the Virginia Center for Economic Policy at UVA, and external Advisor to the Swedish Central Bank, and a member of the Research Council of the Bundesbank. His work focuses on theoretical and empirical models of macroeconomic policy, with special emphasis on monetary, fiscal policy interactions. Fair description? Yes. That's good. Okay. Welcome, Dr. Leeper. Mr. Doe please proceed. STATEMENT OF THOMAS G. DOE, PRESIDENT AND FOUNDER, MUNICIPAL MARKET ANALYTICS \3\ --------------------------------------------------------------------------- \3\ Prepared statement of Mr. Doe appears in the appendix on page 32. --------------------------------------------------------------------------- Mr. Doe. Thank you, Chair Whitehouse, Ranking Member Grassley, and members of the Committee for inviting me here today. My discussions with state and local sustainability and resilience officers have revealed woeful ignorance regarding the capital markets essential role in financing their climate adaptation needs. My name is Tom Doe. I'm Founder and President of Municipal Market Analytics, and I've also served on the MSRB as Chair Whitehouse noted. I also serve on the Advisory Board of the Center of Municipal Finance at the University of Chicago's Harris School. Municipal bond issuance can serve as the initiative-taking financing tool to reduce the federal government's burden in responding to catastrophes via the Federal Emergency Management Agency (FEMA). To date, municipal investors have been able to downplay the climate issue because of FEMA's historical presence to backstop areas impacted by extreme weather events, and rating agencies' limited credit outlook to a few years into the future. Investors' positive expectations have inhibited issuers' proactive action to reduce the consequences of future climate- related risks. The Administration and Congress climate initiatives have been laudable. However, the federal government has emphasized mitigation over adaptation, and still, as Chair Whitehouse knows, global mitigation efforts to date will not halt the breech of the earth's 1.5-degree warming barrier. As a result, U.S. citizens will rely on state and local governments to execute needed adaptation and resilience measures. It is fair to characterize the municipal market as the best form of partnership between state, local, and federal governments. Municipal bonds have financed 75 percent of U.S. public infrastructure. They provide low-cost capital for state and local infrastructure needs, both large and small. Since 2004, the municipal market has raised an annual average of $400 billion for a variety of purposes. Its stability has created investor confidence, steady regulation has improved markets' integrity, state revolving fund programs have served as a shining example for financing future resilience needs. The pandemic reiterated that in the U.S. the avoidance of taxes is a motivational force for investors. Over the past 3 years states with population increases have an average state income tax of approximately 3 percent, while those who have lost population have a tax rate of approximately 7 percent. Ironically, the movement has been to states that have the greatest climate risks. These areas and elsewhere will need to finance adaptation projects to improve stormwater management, provide clean water, cool educational and healthcare facilities, secure the provision of electricity, make transportation systems resilient, while also anticipating catastrophic events. Municipals' tax exemption not only incentivizes high earners to invest in infrastructure, but also allows state and local governments to apply capital to where it is most needed. Once again, largely because of FEMA's historical backstop, investors and rating agencies have not significantly penalized the most climate-vulnerable state and local governments with lower prices or ratings. Hence, in the absence of the penalty, this provides a current opportunity for issuers to invest now before greater investor sensitivity evolves. State and local governments have an extremely low default rate, both on absolute and relative basis. Ninety percent of the $4 trillion public outstanding municipal bond debt is investment grade, suggesting that too great of an emphasis may have been placed on government officials' aspirations for the highest credit rating, instead of efficient market utilization. In other words, state and local governments could assume a greater debt burden to address climate risk. Greater debt might result in a possible lower rating today, but could put an issuer in a better position to stabilize or improve its future rating. This is admittedly a difficult needle to thread because climate instability poses an unprecedented systemic risk to municipals' hallmark credit quality. The Committee's prior hearings have revealed data sources to inform investors of climate risk and security offering documents. Fortunately, the government-financed Officer's Association in 2021, led in part by Florida's debt leadership, provided best practice guidance for climate disclosure. Also, the U.S. Securities and Exchange Commission (SEC) is continually reviewing state and local borrowing disclosure practices, which have been disappointingly inconsistent or silent regarding climate change's specific risks, and the plans to address them. It is egregious that state and local governments' easily- quantified climate risks are not clear to investors who deliver capital, and to the federal government who provides the critical subsidy. I appreciate your invitation to join you today, and look forward to the questions and discussion. Chairman Whitehouse. Thank you very much, Mr. Doe. Ms. Kilgore, please. STATEMENT OF MEGAN N. KILGORE, CITY AUDITOR, COLUMBUS, OHIO \4\ --------------------------------------------------------------------------- \4\ Prepared statement of Ms. Kilgore appears in the appendix on page 43. --------------------------------------------------------------------------- Ms. Kilgore. Chairman Whitehouse, Ranking Member Grassley, members of the Committee, thank you for inviting me here today. My name is Megan Kilgore. This marks my 20th year in the public finance industry. For the last 6 years, I have had the privilege of serving as the elected City Auditor of the City of Columbus, Ohio. My office is responsible for debt issuance, capital planning and rating agencies strategy, and investor relations. I am proud to say that we are the largest city in America to maintain the highest credit rating possible, Triple A from Standard & Poor's (S&P), Moody's, and Fitch, respectively. Prior to my elected service, as the Chair noted, I worked as a municipal Financial Advisor, helping clients, cities, counties, school districts, community colleges, all across the country plan for and finance their infrastructure. Any time we have a major initiative in our industry, local governments ask a number of good questions. Why? How? What? When? And who will pay for it? In my conversation, the why has been fairly evident, and local governments are becoming increasingly aware of the economic and societal risks of climate change. The remaining questions are where I would like to focus my time today, as my objective is to leave this Committee with solutions for increasing climate oriented project financing and implementation, both mitigation and adaptation. To date, of the hundreds and hundreds of bond issues that I have worked on, I have not issued, nor have I advised that a client issue, bonds that are designated as green, even if the projects could earn that designation. The primary reason for that is lack of definitive financial benefit. I have also not found there to be any incentive from a rating agency standpoint. Green debt is still considered debt, and carries no quality--credit quality advantage. In other words, municipal debt that is financing a renewable energy project with sizable long-term economic benefit is still on parity with a community pool. Our objectives at the City of Columbus are to get the best deal possible, and to maintain affordability for our residents. So in addition to the traditional municipal debt market, we also consider available federal funding. The good news is that there are incredible levels of federal programs available today. The Inflation Reduction Act (IRA), programs like Water Infrastructure Finance and Innovation Act (WIFIA), Transportation Infrastructure Finance and Innovation Act (TIFIA), rural specific programs, and numbers of other acronyms exist, but we lack a user friendly resource that wholly connects the dots. I can attest that even a Triple A, like the City of Columbus with a deep bench of experts, working through this complexity has been difficult, let alone many of my former clients who lack the similar financial and technical resources. So how do we get these necessary projects underway? I'd like to share opportunities that I see that could eliminate barriers to local governments' participation in more climate oriented projects. One, provide clear financial incentives for both local governments and investors. For instance, consider broadening the definition of municipal backed bonds, tax exemption for projects that reach certain climate metrics, and growing climate related opportunities with things like private activity bonds. Number two, help local governments overcome human capacity barriers by creating a federal office to serve as the single point of knowledge. There are over 50,000 local governments who issue debt, making it incredibly difficult to generate transformational change using a one size fits all approach. I am inspired by how the websites America is All In, and Rewiring America have done this using technology to create highly personalized tools that estimate, for instance, how much money homeowners can save by employing clean technologies. Which types of tax credits the homeowner may be eligible for, and how to go about applying. Similar to President Eisenhower's Public Roads Administration, we need this onestop shop to help local governments with project analysis, regional design, implementation, as well as a place to collect, analyze and communicate information regarding grant loan and financing sources and uses. Just imagine if a single source of information was available to my small hometown on the Ohio River. A site where users could see their location-specific estimates of physical climate risk exposure, alongside potential economic loss, types of projects that would best benefit that area, and corresponding funding opportunities. Number three, help smaller and lower credit communities achieve total funding needs. I saw a ton of success with the Super-Build America Bonds (BAB)-type structure under the Recovery Zone Economic Development Bonds. Such a reinvented program could help these local governments, especially those seeking last mile funding, use bonds to spread the costs of projects over a reasonable number of years, while keeping affordability in check. The solutions I see are big, transformative, and require our federal government to take action at a scale commensurate with the opportunities before us. Thank you for the time. Chairman Whitehouse. Thank you, Ms. Kilgore. Dr. Hartshorn. STATEMENT OF DR. CHRIS HARTSHORN, ADVISOR, ZEUS AI \5\ --------------------------------------------------------------------------- \5\ Prepared statement of Dr. Hartshorn appears in the appendix on page 45. --------------------------------------------------------------------------- Dr. Hartshorn. Good morning, Chairman Whitehouse, Ranking Member Grassley, and members of the Committee. Thank you for inviting me to testify at this hearing. It is an honor to do so, and to represent the hard work of many colleagues and collaborators. My name is Chris Hartshorn. I currently advise numerous entities operating at the finance industry and sustainability nexus. More relevant for this hearing, are my many years fully dedicated to building market leading capabilities focused on climate risk to U.S. fixed income debt instruments, including municipal bonds. Firstly, it is importantly to note that the municipals as defined by the municipal bond market, are a vast diaspora of overlapping debt issuers covering states, counties, utilities, school districts, transit systems, airports, hospitals, charter schools, retirement communities and many others. The implications of climate action to the population are broad and stark under this financial market municipal definition. With respect to climate risk, it is easiest for most to conceptualize property destroying, evacuation invoking perils, hurricanes, wildfires, floods and the like. As these acute events happen quickly, catalyze local, and often federal emergency responses, have quantified economic consequences and costs, and leave single named scars, Katrina, Sandy, Paradise, to name just three. Such climate risks are material to municipal finance, taking wildfires as one example. In the 5 years after a fire, the net fiscal effect of wildfires on a municipality is a decline in excess revenues of $97 per capita, equivalent to 11 percent of the per capital budget size, and a 25 percent increase in the probability of a budget deficit. For hurricanes, local governments experience significant declines in revenues, expenditures, and debt. In the 10 years after a hurricane strike these are initially offset by intergovernmental transfers, but ramp up 10 to 16 years after post--after a hurricane. The impacts of past floods also litter the official statements of the bond issuing community. Across these acute perils, rebuilding costs have been underpinned by FEMA Disaster Relief Fund (DRF) funding that has been on a bumpy, but nonetheless upward trajectory over recent decades. Another key constituent of post-disaster recovery has been property insurers that help re-establish property value. Noting that property taxes are a key revenue stream for many municipal bond issuers. It is noteworthy therefore, that in higher climate risk states, Florida, Louisiana, California, that major insurers are withdrawing from those markets. And those that remain are ramping up policy premiums, an outcome that will inevitably lead to a decrease in coverage, and anecdotally already has. The diminishing of this historically critical pillar of past disaster recovery, will only heighten the post-disaster financial pressure on the municipal and federal system. Other perils must be accounted for, for which the impacts are more chronic in nature. Heat, drought, sea level rising effects on water supply in many coastal areas. Heat is a good example, given we've just experienced the hottest year on record globally, and cities such as El Paso and Phoenix shattered their own records. This is a critical issue across much of the municipal U.S. for the health and safety of these served populations, and the municipal workforce, and for municipal infrastructure. Municipal sectors beyond cities also feel this heat. For example, school districts exposure to heat risk is already apparent. Temperature has been shown to have a direct impact on educational performance, noting that September, the start of a typical U.S. school year also set new records in 2023. In schools without functioning air-conditioning, a 1 degree Fahrenheit hotter school year reduces test scores by 1 percent versus expected learning gains. By some estimates, around $40 billion of new air-conditioning installation is required across U.S. K through 12 schools to address this. These K through 12 schools represent around 15 percent of the municipal bond market, while access to debt has shown to improve K through 12 educational outcomes, there is now a climate driven educational performance imperative to add to this mix. In reality, any combination of a given climate peril in a given sector within the municipal universe can be explored for underlying materiality, but the themes of present and future climate risk and cost would remain. Critically, mitigation funding can save the nation $6 in future disaster costs to every $1 spent on hazard mitigation. That 6x multiple needs to be seen in the context of the U.S.' estimated $2.6 trillion infrastructure deficit over the next 10 years. The question is how to maximize the upfront dollars to address this risk. This does not need to be a monolithic draw on the federal purse. The municipal bond market has held steady around $4 trillion over the last 15 years, but this is misleading. There is an undoubtedly willing capital just sitting on the sidelines. Again, thank you for the opportunity to address the Committee. I look forward to your questions. Chairman Whitehouse. Thank you, Dr. Hartshorn. Dr. Kahn. STATEMENT OF DR. MATTHEW KAHN, PROVOST PROFESSOR OF ECONOMICS AND SPATIAL SCIENCES, UNIVERSITY OF SOUTHERN CALIFORNIA \6\ --------------------------------------------------------------------------- \6\ Prepared statement of Dr. Kahn appears in the appendix on page 50. --------------------------------------------------------------------------- Dr. Kahn. Good morning, Chairman. Thank you Ranking Member Grassley and members of the Committee for inviting me to testify. I'm relentlessly optimistic about the way cities can adapt to the climate challenges. Climate change is not a catastrophic threat to the municipal bond market. Bond buyers have an incentive to do their due diligence. If a municipality faces rising climate impacts that imperil its abilities to repay debt, bond buyers will recognize this, and they will offer lower prices for bonds. The places that fail to adapt to new risks will pay higher interest rates, and higher insurance rates. To see why climate risk does not imperil the financial system, via municipal bond defaults, let's play out a hypothetical doomsday scenario. What does it take for a climate event to cause a financial crisis? The year is 2034. Over the last decade the climate has gotten worse. Storms are more frequent. The City of Chicago continues to issue new municipal debt. Chicago has huge public pension obligations. The city's bonds are rated as barely investment grade quality. Suppose a hedge fund buys these Chicago bonds, using money borrowed short-term from several banks. An unprecedented storm hits Chicago. Infrastructure is flooded and damaged. The city appeals to the federal government for disaster relief, but none arrives. Tax revenue plummets, a local economic depression ensues. The city defaults on all of its bonds. The hedge fund, who owns the bonds, goes under. Banks who lent Chicago bond buyers money now own worthless collateral and they fail. Still, only a few banks have failed. Depositors at other banks worried about the hidden risks run. The federal government does not bail out the banks or the depositors. Finally, we have a crisis. Folks, elementary economics shows that this scenario is implausible. Why? First, local property owners seek to enhance the value of the assets. They have an incentive to lobby local leaders to invest in resilience to reduce default risks. Property owners recognize that a municipal default leads to lower local quality of life and higher property taxes. Second, over the last 40 years, hurricane strikes have had a minor impact on municipal bond prices, and their impact on default rates has been tiny. While federal disaster relief helps cities to recover from shocks, this reduces bond default risk. It is arguable that the federal government has been too generous with respect to state and local aid, and this creates perverse incentives for local investment in resilience. Third, portfolio theory warns against putting all your eggs in one basket. Meaning super bond investors tend to be high net worth individuals and pension plans. They do not hold concentrated investments in any one city's bonds. A city's default will not cause these investors to fail. They invest in a spatially diversified asset portfolio. Fourth, climate science progress offers ever improving real time geo-coded predictions. These models inform predictions concerning which cities face severe medium-term climate risks. Cities predicted to face rising risks will experience rising insurance costs, and they will pay higher interest rates on their long-term debt relative to their short-term debt. The expectation of facing higher insurance prices, and higher interest rates provides an incentive for municipalities to invest their own money in adaptation. Fifth, as we grow richer, property owners are willing to pay more for safety, for products that enhance their safety, such as anti-flood equipment, and stronger windows. Firms have a profit motive to design these climate resilient products. My own research agenda has been this focus of how we unleash free markets, the profit motive to create a new menu of products that help us to adapt. Competition in adaptation product markets leads to lower prices. As more of a city's property owners make these investments, the overall local real estate capital stock becomes more resilient to disaster shocks. Going forward, Senators, big city municipal bond risk will mainly be determined by public pension obligations, and day to day quality of life concerns, leading to suburban flight, not by a change in the frequency of bad weather events beyond that which cities and bond investors are already planning for, thank you. Chairman Whitehouse. Thank you very much, Dr. Kahn. Dr. Leeper. STATEMENT OF DR. ERIC LEEPER, PAUL GOODLOE MCINTIRE PROFESSOR IN ECONOMICS, UNIVERSITY OF VIRGINIA \7\ --------------------------------------------------------------------------- \7\ Prepared statement of Dr. Leeper appears in the appendix on page 59. --------------------------------------------------------------------------- Dr. Leeper. Chairman Whitehouse, Ranking Member Grassley, Committee members, thank you for inviting me to talk today. Good morning. I'm Eric Leeper from the University of Virginia. Today I'd like to talk about federal budget policy and its implications for financing expenditures associated with climate change. I draw on consensus economic theory about optimal public finance at the macroeconomic level, and talk about growing weakness in the market for treasuries. Weakness that stems in large part from fiscal uncertainty in Washington. Treasury securities and municipal bonds, like any assets, derive their value from expected future payoffs discounted to the present. For government issued bonds, those payoffs are budget surpluses, excluding interest payments, what we call primary surpluses. Higher expected payoffs raise demand for and the value of bonds, so governments can borrow on more favorable terms. Bonds lose value as they have the last 4 years, when investors worry that surpluses don't lie in the future. Optimal public financial avoids sharp swings in tax rates and spending, swings that distort behavior and reduce social welfare. Large, temporary bursts in spending that arise from say a war, call for increased borrowing. When spending needs subside, policy generates primary budget surpluses to support the new debt. The expectation that surpluses will rise maintains the value of that debt. George Hall and Tom Sargent document that U.S. policymakers largely followed this advice after the two world wars. Hall and Sargent also examined the fight against COVID in this light. Large COVID related spending was financed by new debt issuance, marketable treasury debt grew by more than $7 trillion over the 3 years starting January of 2020. What we haven't seen is the follow through that optimal policy requires. The Congressional Budget Office projects primary deficits for the next 30 years. This tells us that nothing about today's budget process ensures that policy will generate the required surpluses. Budgetary consequences of climate change won't resemble the large, temporary spending bursts associated with wars or COVID. Instead, climate change seems likely to entail sustained elevated spending levels. Permanently higher spending on something new requires either permanently lower spending on something else, or permanently higher tax revenues. Ever increasing borrowing, whether in the muni or the treasury market, cannot be the answer. The lack of clear fiscal plans harms the economy today, and we're seeing some evidence of that in the treasury market. The price of the treasury bond portfolio has declined 18 percent since early 2020. The last time we saw declines like this was in the 1970s. Interest payments on outstanding debt are growing rapidly. Treasury has had to auction new bonds in weak markets to meet those payments. If as now, there are no prospects for future surpluses, it's hard to see inflation returning to the Fed's 2 percent target. Fiscal priorities change with every new administration or Congress. That's as it should be in a representative democracy. But to achieve those priorities there must be some constancy in fiscal behavior. If bond market weakness continues, the federal government may find it increasingly costly to borrow--to finance its priorities. The only fiscal constancy we have in the United States comes from a set of norms that have evolved informally over the country's history, and owe much to Alexander Hamilton. The Hamilton norm springs from his first report to Congress in 1790. He argued that proper provision for the public debt arises ``when it is well funded, and has acquired an adequate and stable value.'' By following this norm, the United States has earned a reputation for repaying its debt. Is that reputation now in jeopardy? If century's old norms can be wantonly tossed aside, then they're powerless to prevent fiscal policy from becoming a source of instability in the economy. Perhaps the time has come to institutionalize the norms through rules and procedures that have bite. Thank you very much. Chairman Whitehouse. Thank you very much. Let me start if I may, with Mr. Doe. You've suggested that the short horizon that bond rating agencies tend to look at, plus the surge of FEMA funding that comes into a community after a disaster creates a sort of an artificial, if you will, zone that doesn't contemplate the full risk. And Dr. Hartshorn suggested after that FEMA funding passes, there's a secondary period where municipal revenues and spending are affected by the disaster, but the federal support has been pulled, and that's a more fiscally challenging period for the municipalities, if I properly understood your testimony. Mr. Doe. Well, thanks for the question. The--first of all, it is one of the challenges that the rating agencies are of course critically important to the financial marketplace. Unfortunately, the outlook that they have with their rating is maybe 2 to 3 years, maybe 5 in some instances. It doesn't mean they're not considering long-term impacts, but the changes in that all important letter, right, that conveys the risk to an investor, is pretty stable for a short period of time. So the real challenge is---- Chairman Whitehouse. That's a short period of time in which federal FEMA support is likely to be present, but not for long in the municipal. Mr. Doe . And what the reality has been regarding FEMA is in place such as when a hurricane hits, when Katrina hit New Orleans. What happens is that the initial response by the municipal market is prices of those securities in the affected area are declining, and then afterwards the expectation, or the rebuilding that comes from the federal government via FEMA actually increases those prices. Chairman Whitehouse. Ms. Kilgore, do you see that in your experience as well? You live on the ground with this setup all the time. Ms. Kilgore. Senator, certainly, the rating agencies right now do have a shorter, in my opinion, horizon of which they're looking at our climate related projects. But again, I would say they're on parity with any other type of basic infrastructure, recognizing a little bit that we are seeking to plan for the future, but we would like to see there be more focus on that. Chairman Whitehouse. More focus on the period once the immediate surge of FEMA funding has pulled away, and you now have the more persistent problems still present in the fiscal outlook for the community. Ms. Kilgore. It is certainly, Senator, in my opinion, management is what separates good governments from great governments, and being able to proactively plan for the future, and try and get ahead of anything that we can possibility get ahead of, that's the most important part. Chairman Whitehouse. Mr. Doe, you used the following phrase, if I wrote it down correctly. ``Climate instability presents an unprecedented, systemic risk.'' That phrase, ``systemic risk,'' keeps popping up in these hearings. It has a relatively technical meaning among economists. Could you please describe what a systemic risk is? Mr. Doe. So a systemic risk would be not just an isolated specific stress for a specific issuance or state and local government, but across broadly, across the entire marketplace, so that all municipal bonds in this case would be impacted to some degree. Chairman Whitehouse. Understood. And Dr. Hartshorn, you have two companies that you founded that were bought by the Intercontinental Exchange. Can you explain a little bit first for the record of the Committee, what is the Intercontinental Exchange, and why were they interested in acquiring the expertise that those two entities provided? Dr. Hartshorn. Yeah. Thank you for the question. Intercontinental Exchange had a bunch of different businesses, I guess you would describe them. They are the owner of the New York Stock Exchange for one. They are one of leading data providers to the financial industry, in terms of pricing data, you know, data, the market, and they also operate a substantial mortgage data business. The reason why I believe, Intercontinental Exchange acquired us, they had seen the momentum in the market for our data. There was a screaming need especially from the buy side, from ratings agencies, and even bond insurers to get comprehensive data for the entire municipal bond system in terms of the physical climate risk to that system, which was substantially unavailable, and certainly across the entire realm of what I've described as municipal bonds data. Chairman Whitehouse. Thank you. Dr. Kahn, do you agree that the emissions from the combustion of fossil fuel amount to an economic negative externality that ought to be priced into the underlying product? Dr. Kahn. So in theory I do support a carbon tax, but I do worry that if only the United States adopts a carbon tax, that it has little effect because it's a global externality. Chairman Whitehouse. Yeah. Dr. Kahn. And it lowers the purchasing power of poor people. But as an economist, of course I support people internalizing the social costs of their actions. Chairman Whitehouse. Thank you. Let me just put into the Record, or the proceedings, Dr. Kahn's article called The Green Economy and Foreign Policy, an interview entitled Economist Matthew Kahn says human ingenuity is key to living with climate change, and an Openforum.com article that the Doctor wrote on July 24th, 2022, called are there still ``limits to growth''. And with that I'll turn it over to my distinguished colleague.  Senator Grassley. Thanks to all the witnesses, and Dr. Kahn, I've got something that you could probably spend the full 5 minutes on answering, but I'd like to have a short answer, so I can get a lot of questions in. We hear Democrats argue for a cascade of expensive and expansive federal climate proposals that will saddle us and local governments with debt and red tape. Democrats attempt to justify these proposals with apocalyptic hyperbole rooted in extreme Representative Concentration Pathways (RCP) 8.5 scenario. How can cities help themselves mitigate risk, and adapt to climate change without relying on more federal spending? Dr. Kahn. Senator, thank you. So I am optimistic that the RCP8.5 projection model overstates where global greenhouse gas emissions are going. I believe the work of Roger Pielke and others that the world's greenhouse gas emissions will grow, but at a less extreme rate, so we face less risk. To directly answer your question of what cities can do, similar to me having a checkup with the doctor, it's to become aware of emerging risks. Every city has its own topography, history, demographics. Every city needs to do the sort of self- checkup of what risks it faces, and then with engineers to identify cost effective solutions to mitigate the challenges. And then using its own funds. Senator, I think we agree of the importance of fiscal discipline of using the city's own funds to consider strategies that are cost-effective to adapt to the challenge, and to speak to insurers, and bond buyers of what risks are they worried about. So this set of actions can help a city be proactive to mitigate the physical risks, and to be attractive to insurers and bond buyers to be able to participate in municipal finance markets. Senator Grassley. And also to you when states and Local governments face budget challenges, they can restrain spending, and hopefully be able to tap rainy day funds. It's not appropriate for us to micromanage the state for the sake of climate change, or anything else for that matter. My state of Iowa is required to have a balanced budget. We don't take fiscal responsibility for granted, unlike here in Washington, D.C. How does fiscal discipline help cities mitigate severe weather risk, and could federal intervention in the matter lead to bad outcomes? Dr. Kahn. Thank you, Senator. Professor Leeper spoke about reputation in his remarks. If a city has a reputation for fiscal responsibility, firms and successful people will move with confidence to that city expecting good services and low taxes going forward. A city with a robust tax base can weather the storm. New York City after Sandy, a city that has a resilient, industrial base, an economic base, has the resources to protect itself when surprising contingencies emerge. Senator Grassley. And for you Dr. Leeper in 2020 the share of federal aid to state and local governments reached an all- time high, as a share of GDP, well over 4 percent. And of course, as we don't have to mention too often, or can mention too often, we're broke here in Washington, D.C. Are there more immediate and bigger risks to the broader economy than climate change? Dr. Leeper. Well, I think that right now one of the most pressing questions really is getting the fiscal house in order. No matter what you want to spend your money on you need to have sound fiscal underpinnings. And I think those are increasingly under threat these days. We celebrate when Congress manages to avoid shutting down the government. I think we can set the bar a little higher than that. Senator Grassley. And also for you we've heard a proposal to create an expensive new federal climate bureaucracy, doling out billions in green handouts to large corporations. This agency would be environmental, social, and corporate governance (ESG) police telling local governments across the country what to do. I've been trying to find out how the U.S. Environmental Protection Agency (EPA) has spent the billions of dollars in green grant programs that the democrats have already passed. Guess what? The EPA and the grantees still haven't told us. Is spending hundreds of billions of dollars for the sake of climate change advisable when the federal debt is cascading out of control? Dr. Leeper. Well, here I go back to what I said in my testimony that we are thinking about a sustained increase in spending levels. You cannot finance that through borrowing, it's just infeasible to do that forever. And so, just as when I planned to put my children through college, I pre-financed that spending. So to, the government needs to be thinking about how do you finance the spending that is being planned for climate change, because that's going to be a sustained increase in spending, and it can't be done through borrowing. Senator Grassley. Thank you both. Thank you. Chairman Whitehouse. Thank you, Senator Grassley. Senator Kaine. STATEMENT OF SENATOR KAINE Senator Kaine. Thank you. Mr. Chairman, thanks to the witnesses for this first Budget Committee Hearing of 2024. I spent a lot of time in the bond market as a former mayor and former governor. In fact, the first lesson that I learned as a public servant was a lesson from the bond market. In the time between my first election in Richmond City Council, and swearing in on July 1 of 1994. We had a bad calendar of budget and elections. The elections run May 1. The City Council would finish the budget on June 1, and the new Council would be sworn in on July 1. I came in in a clean sweep crowd. We pushed about 6 of the 9 City Council members out, and so the Council voting on the budget were all lame ducks, and they were all mad. And they just decided to kind of go wild. And they did a bunch of things, especially with the city's reserve fund that caused the bonding agencies to downgrade Richmond's bond rating right before we swore into office on July 1 of 1994. We were naive. We thought well, all we have to do is retract the action. The bond agency acted in the middle of June. We came in, we retracted the foolish budgetary moves made by our predecessors. We went to New York, and we said guess what guys, there's a new group in town. We've cleaned it all up. And the lesson that I learned from the bonding agencies is yeah, we get it. We're glad you did that, but when you lose our confidence, it takes you a while to win it back. And it took us 6 years of really persistent effort to get the bond rating upgrade back to where we were. I did that when I was Mayor, and then as Governor, I had the good fortunate to be Governor of Virginia, where we had been Triple A bond rated forever, and were able to maintain that, even during the recession of 2008-2009. I want to get at an underlying issue. For most cities, for most counties, the primary revenue source is property tax. There's other taxes, visitor, lodging, sales tax. We have a particular challenge in Virginia with climate that I just want to talk about, and I think I'm going to direct this question of Ms. Kilgore, my City Auditor. The Hampton Roads area of Virginia is Norfolk, Virginia Beach, Chesapeake, Suffolk, a number of communities that are very vulnerable to sea level rise. The Hampton Roads Planning District has a low estimate of sea level rise indicating that approximately 59,000 residential homes in Hampton Roads will be permanently or regularly inundated by the end of the century, that's the low estimate. And the high estimate is 175,000 homes. Freddie Mac has estimated that the total losses to coastal real estate are ``likely to be greater in total than those experienced during the housing crisis and Great Recession.'' So, Ms. Kilgore, my understanding, my recollection from Mayor and Governor is our ability to get bonds to fund projects in Richmond were based on our ability to pay off the bonds, or based on our revenue base. That revenue base was primarily real estate property tax collection. Can you imagine a scenario where a metropolitan area of 1.6 million people would lose 59,000 to 175,000 homes? Losing the real estate property tax attendant upon those dramatic numbers. How would that affect that region's ability to go into the bond market and get bonds to do projects necessary for quality of life in that metropolitan area? Ms. Kilgore. Thank you, Senator, for the question. Anytime with a major government I look at it as a very complicated recipe. And one day you have a little bit of eggs, you have a little bit of flour, and in each of those categories for our world it is revenue streams. And so, when things are a little bit tight you have to have an offset in another area. And a lot of the communication that I have with peers around the country, in large governments, all the way down to places where I grew up, is the fact that revenue base often dictates what folks can do. And so, for example, if you do have a tight, or even worse, downward trending revenue stream, revenue base, your capital plan is going to be very constrained. And so projects that are planning for several years out are going to fall victim to immediate, every single day needs, roads being repaved, things like that, which is why for me, it's so important that we have a menu of options, so that federal programs can come into play effectively to help get that last mile funding to keep things on track. Infrastructure, as you know, is an incredible multiplier, and will help regrow that community over time. Senator Kaine. And just using the example that I used about Hampton Roads, if even the low estimate occurs, and you see this shrinking of the residential real estate base and residential real estate values, the community will become more constrained on infrastructure investments at the very time where they might need more infrastructure investments to promote resilience against sea level rise. And last question really quickly, there may be outliers to this. I can think of a couple, but am I basically correct that for most cities and counties in the United States the real estate property collection is the most sizable revenue source? Ms. Kilgore. My suspicion is property taxes for most. For Ohio is the income tax, but yeah. There's certainly a number of ingredients across the country that support revenue streams. Senator Kaine. Great. Thank you. Thank you, Mr. Chair. Chairman Whitehouse. So quick, logistical interruption. I have been called to a meeting with Chairman Wyden, and I'm going to go attend that for a while. Senator Padilla has been kind enough to agree to take over chairing this hearing until I can return. Senator Johnson will be next to be recognized. Senator Johnson. Thank you, Mr. Chairman. Chairman Whitehouse. And I wish you all well until my return. STATEMENT OF SENATOR JOHNSON Senator Johnson. So, let me state at the outset I'm not a climate change denier. I'm just not a climate change alarmist. What I am is I'm a debt and deficit, U.S. federal government debt and deficit alarmist, and so I surely align myself with Dr. Leeper. Dr. Leeper, you're talking about the fact that the bond market has been weak for U.S. treasuries. As the Federal Reserve has been going in to, you know, going into the bond market floating debt, what is the cost to that debt? What is the interest rate they've been paying? On recent debt? I mean is there again, we have a different material levels through the government. Last year on public debt, the cost of that goes about 2.5 percent, correct? Dr. Leeper. Yeah, it's gone up. Senator Johnson. Did you know what the cost of our debt was in the last three decades of the last century? 70s, 80s and 90s? Dr. Leeper. It was substantially lower. Is that what you're saying? Senator Johnson. I think it was substantially higher wasn't it? Dr. Leeper. I'm not sure what you mean by the cost? Senator Johnson. So the interest cost, the interest rate. Again, I want you to describe what a debt crisis is going to look like. As we become less and less credit worthy, as creditors look at the United States and say they may not pay this money back. I'm still loaning the money, but I'm going to ask for a higher interest rate. And I think that's--I don't think we've factored that into this discussion. Dr. Leeper. I think that's correct. And a debt crisis in the United States would first manifest as very high inflation. And the reason for that is because these bonds are denominated in dollars. And they're just a promise to repay in dollars. And if I think that when I get repaid in dollars, the dollars are going to buy fewer goods, then I want to get rid of those bonds today. And the way I do that is I go out and buy stuff, it raises inflation. And so that would be the first instance, I think. Senator Johnson. So again, we don't focus enough on the numbers here. Again, here we're talking about climate, we can do something about the bond market, which I think is not realistic. I agree with, you know, Dr. Kahn. Last fiscal year 2022 our interest expense was $476 billion. Last year it's $659 billion. A $183 billion increase, 30 percent increase. According to CBO, in 10 years that expense will be $1.44 trillion. But again, that's an overall average interest rate of 3.1 percent compared to 2.5 percent for last year. I'm not so sure 3.1 percent is a realistic rate. I think that will be way too low. In 10 years, according to CBO, I think they're low balling. This is rosy scenario. We're going to go from 600--we went from 476 to 659. In 10 years according to CBO, $1.44 trillion and that's a low ball estimate, assuming a 3.1 percent interest rate. What could it be? What's realistic? And again, I'm looking at--I don't have the exact figures, but I saw one analysis that the last three decades of the last century as something with a 5.3 percent average interest expense on federal debt. Dr. Kahn. Yeah. And I think that the interest rate will follow the inflation rate, so if we start to see--this is why I'm worried that you cannot rely on the federal reserve alone to get inflation under control. It's as much a fiscal phenomenon as it is a monetary phenomenon. Senator Johnson. So again, if we were to go back, let's say the interest rate rolls to 5 percent, we would be looking at an interest expense of well over $2 trillion. Dr. Leeper. Exactly. Senator Johnson. That's what this Budget Committee ought to be focusing on. That's what we ought to be alarmed about, not about how something that you know I've entered into the record that there is no climate emergency. This 1,600 scientists, led by two Nobel Prize winning physicists declared, there's no climate emergency. We are spending, and by the way what will fuel that debt crisis is when we spend, according to Goldman Sachs, $1.2 trillion on these green energy boondoggles that were passed in the Inflation Reduction Act, that will fuel that deficit. That will increase interest rates. Isn't that a concern? Dr. Leeper. I think that's a very serious concern. Senator Johnson. That's all I have. Thanks. Senator Padilla. Thank you. Senator Merkley is next. STATEMENT OF SENATOR MERKLEY Senator Merkley. Awe thank you, Mr. Chairman, and Dr. Hartshorn, we had in 2020 Labor Day fires that burned six of our towns to the ground, and did serious damage to six others. When other similarly situated towns look to issue a municipal bond, are they going to be having to essentially pay a lot higher interest rate as a result? Dr. Hartshorn. There is that possibility, depending on how the market perceives their risk relative to how the risk was for the given issuer and the given set of cities that you're actually talking about. Senator Merkley. Yeah. Dr. Hartshorn. It's one of the reasons why that dataset that we put together was valuable. It provided a levelized benchmark for to compare risks across all issuers. Senator Merkley. Well, it's just one example. If we look to California where there is much broader swaths of fire, or New Mexico, I cannot imagine the market does not look pretty carefully at the towns situated in those increased fire risk zones. We can pretend that nothing's changing, but the facts are otherwise. I want to turn, Ms. Kilgore, to the fact that you had mentioned the idea of broadening the definition of municipal bond tax exemption for projects that reach certain climate metrics. Can you give a little example of what that might look like? Ms. Kilgore. Certainly. Thank you for the question, Senator. My recommendation is when you're looking at governments across the country, I ask myself two questions. Are they motivated? And are they able? And, I have had a number of conversations with local governments who are very motivated to try and move projects forward, but they lack either technical capacity, you know, internal human capacity, or perhaps the opportunity because of constrained revenue sources, to be able to get projects funded in their respective capital plans. So looking creatively to try and help them with the tools necessary to get those projects moving forward, and opening up some awareness, opportunities, incentivization, investor interest, et cetera, sir. Senator Merkley. Okay. But let me be a little more specific. What type of metric are we talking about? For example, if a city says we want to take all of our municipal buildings and convert them to heat pumps, and can buy renewable energy to power those heat pumps, having a significant decrease in carbon dioxide, would that be something like an example of a metric, like reductions in carbon dioxide that would be used to create such a category? Ms. Kilgore. Absolutely. And I think there is a good, perhaps bedrock of prior examples with water and sewer efforts across the country to mimic. Senator Merkley. Okay. Mr. Doe, so in the City of Stillwater, Oklahoma, borrowed money to do water projects. And their low-cost provider of the lending was Bank of America. But it turned down Bank of America because Bank of America has an ESG policy. And the result is they are paying $1.2 million more to finance the loan with the next highest bidder. What does such an ESG policy achieve for the town of Stillwater, other than paying more, delivering less? Mr. Doe. Well, the ESG, thanks for the question, but the ESG policies and the whole issues around that certainly has become politically weaponized, and what is has is kind of obfuscated the responses of the kind of responsible responses to funding projects to mitigate climate risk, or adaptation risk. So, to your point, is that yes, I mean that penalty that we are seeing in Oklahoma, we are seeing in Texas as well, is it that has been unfortunate. When the market though has responded in many cases, and again I can't remember the specifics about what the market conditions at the Stillwater issue, but that those bankers that have been--they eliminated from being able to underwrite a deal, have been replaced by other firms, and in some cases there has not been any negative impact at all. Senator Merkley. Yeah. Sometimes there is though, as there was in that case, and if I was a citizen of that town I'd be kind of frustrated that we're paying more for less, especially because Bank of America is financing fossil projects. It is not like they are not willing to be in that space. I want to turn--well no, I'm down to six seconds, so I will turn it back over to the Chair. Senator Padilla. Thank you Senator Merkley. Senator Kennedy is up next. STATEMENT OF SENATOR KENNEDY Senator Kennedy. Thank you, Mr. Chairman. Mr. Doe, as I understand your testimony, you are saying that at some point climate change is going to cause municipal bonds to default. Is that right? Mr. Doe. No. I would say that they will be under pressure just because of there being increased budgetary concerns. Senator Kennedy. Well, can they withstand that pressure? Mr. Doe. I think so. Senator Kennedy. Then what is the problem? Mr. Doe. The problem is that there might be a higher interest rate if there are issues that are not addressed by state and local governments. That if because of let us just say in anticipation of extreme weather events, that---- Senator Kennedy. So, you are worried that the interest rates will go up? Mr. Doe. Yes. Senator Kennedy. Okay. I looked on your website. You say, and I quote. I am quoting now, ``contribution to the municipal industry has been extensive as an analyst, strategist, and visionary of the industry's future.'' So, I want to tap your visionary expertise. At what point do you think climate change is going to cause interest rates on municipal bonds to rise to the point that they will--the interest rates will be prohibitive? When will all this happen? Mr. Doe. Well, I'll dust my crystal ball off, if I perhaps I think in 10 to 20 years. Senator Kennedy. 10 to 20 years. Okay. What do you think we ought to do about it? Mr. Doe. I think we ought to be able to identify where infrastructure is most vulnerable to weather events, and that infrastructure is then--appropriate dollars are used to modernize infrastructure. For example, in the town of Marshfield---- Senator Kennedy. I want to cut you off because I don't have too much time. Mr. Doe. Sure. Senator Kennedy. Do you think we ought to spend money? Mr. Doe. Wisely and appropriately. Senator Kennedy. Okay. Sure. Well, nobody around here ever stands up and says I have got a good idea, and I need to spend money unwisely and inappropriately. Mr. Doe. Correct. Senator Kennedy. You understand that? Mr. Doe. I do. Senator Kennedy. Okay. Do you support the world becoming carbon neutral by 2050? Would that solve? Do you support that? Mr. Doe. I don't think that's a reasonable expectation. Senator Kennedy. Yeah. But if it were, do you support it? Mr. Doe. It doesn't seem like it's a bad thing. Senator Kennedy. Okay. Do you support the United States becoming carbon neutral by 2050? Mr. Doe. This may not be possible. Senator Kennedy. But do you support it? Mr. Doe. If it were the right mix of power and energy in order to provide electricity that is needed for essential needs. Senator Kennedy. Well, you do understand that that is the goal of the most ardent proponents of climate change, do you not? Mr. Doe. I do understand that. Senator Kennedy. Okay. How much will that cost? Mr. Doe. I couldn't give a figure to that because it is outside my area of expertise. Senator Kennedy. Do you think we ought to just start spending money without an understanding of how much it is going to cost? Mr. Doe. I don't think that's ever wise. Senator Kennedy. Okay. Well, don't you think we ought to look into how much it is going to cost? Mr. Doe. Again, that's around that area, that's not an area of expertise. I am really focused on addressing the updating of infrastructure for our state and local governments. Senator Kennedy. You don't seem to have very many solutions, except what I take away from your testimony is that climate change is going to cause interest rates to rise on municipal bonds, so at some point the cost will become prohibitive, and we need to spend money on infrastructure to stop it. Where do you think this money will--should come from? Mr. Doe. I think state and local governments have the capacity to borrow because the rates are significantly low, and there is an opportunity now to do so and be proactive. Senator Kennedy. So, you think state and local governments ought to borrow the money? Mr. Doe. I do. I think they have the capacity to do so. Senator Kennedy. Just out of curiosity, what kind of car do you drive? Mr. Doe. I drive a Jeep Wagoneer. Senator Kennedy. Is it gas or electric? Mr. Doe. It's gas. Senator Kennedy. Okay. Do you have a gas stove? Mr. Doe. I do not. Senator Kennedy. Okay. Do you have a heat pump? Mr. Doe. I do not. Senator Kennedy. You don't? Mr. Doe. I do not. Senator Kennedy. Oh. Okay. How big a house do you live in? Mr. Doe. I live in a condominium 853 square feet. Senator Kennedy. Okay. I'm over. Thank you, Mr. Chairman. STATEMENT OF SENATOR PADILLA Senator Padilla. Thank you, Senator Kennedy. It is actually my opportunity to ask questions, and I will be followed by Senator Braun. Good morning, and thank you to all the witnesses for your participation today. I am proud to represent California. I know you are familiar with the most populous and diverse state in the nation, and it has been a leader on climate policy across the board. And in recent years, the urgency has been inspired by 2018, when the campfire devastated the town of Paradise, California, burning 95 percent of its structures, and claiming 85 lives. I know Senator Whitehouse touched on some of this dynamic earlier in the hearing, but despite federal assistance in the aftermath of the fire, the town has struggled to rebuild, with only \1/3\ of the residents that lived there prior to the disaster returning. This has decimated the local economy, as you can imagine. If you go to the tax base, and a dynamic similar to what Senator Kaine was talking about in his questions, it has resulted in the inability of the Town of Paradise to meet its financial obligations on previously issued municipal bonds. Right? The revenue is just not there at the moment. This type of systemic risk--financial risk, extends beyond wildfires, and has the potential to affect drought-stricken towns, heat-prone communities, or high-flood-risk areas across the country, all which have the potential to disproportionately impact both agricultural regions, as well as historically underserved communities. My question is for Mr. Doe. How can the federal government improve support to communities like Paradise to ensure that bond obligations are met, while also ensuring they have the ability to issue future bonds in the process of rebuilding and economic recovery? Mr. Doe. I think there are two ways. One is regarding the federal government. I think it is making it a priority for issuers of debt that are exposed to climate risk to disclose them appropriately. I think the second thing is that that way you are signaling to investors, and to the broader community of where there is area at risk, and that there are plans that are being made by those state and local governments to address those risks so that they are--when the federal government comes in after a disaster, the federal government is aware that those state and local governments have taken proactive action. The second thing is that I think the federal government's big role here is to assure that issuers, the state and local governments, that the tax exemption is secure, and that that will continue onward and be an important part of the financing effort, so that state and local governments can plan with confidence and assurance that there will be low interest rates going forward. Senator Padilla. Thank you. I know earlier in the hearing there was a suggestion that part of addressing the longer term challenges ensuring that local jurisdictions are doing the appropriate planning, or thinking ahead if you will. Now, municipal bonds can play an important role in funding capital projects that mitigate climate related risks. However, the up front costs of sustainable development projects are often substantial. This can leave ``grain projects'' out of reach for rural or underserved communities, limiting their ability to reduce their vulnerability to climate hazards, and it relies on federal dollars. A question for Ms. Kilgore. Do you agree that the average cost differential for climate adaptation projects can at times be a significant burden for some communities? And how does the federal government help bridge the gap for underserved and vulnerable communities through the Infrastructure Bill or the Inflation Reduction Act? Ms. Kilgore. Thank you, Senator. I think that sometimes we have to separate out infrastructure that is climate oriented from just the simple word ``infrastructure.'' For us, oftentimes our infrastructure today is inclusive of the technologies, or the materials necessary to plan for the future. For us, we do have a technical bench of experts to help us, and so when I'm talking to local communities, smaller communities, a lot of times it's that basic knowledge, awareness, education, in the tools to go about successfully employing those different loans. That is the piece that in my head is the sweet spot where we, as a federal--asking for your support to lean on there. Senator Padilla. Is there any additional steps you would recommend that Congress take to incentivize some of the infrastructure spot projects that are specifically geared towards changing weather patterns, or changing climate, frankly? Ms. Kilgore. I think you said earlier the most beautiful thing about our democracy is state sovereignty; one size fits all rarely works. And so, my sincere request would be to do a really good analysis, and have a data lake if you will, understand the governments across our country, where they are accessing funding. What their risks are at this time, and because until then I don't have an effective answer. I will just say from X percent you are going to be able to grow these types of projects because we don't have right now a holistic viewpoint as to where everyone is in the Nation. Senator Padilla. Thank you. Senator Braun. STATEMENT OF SENATOR BRAUN Senator Braun. Thank you. You know it has been an interesting discussion. We have heard systemic. We have heard I'd like to put an existential along with it, what the thread is currently. I want to give you a few givens. I come from the world of finance. This place, not hardly anyone has had finance 101, or understands the macroeconomics. And I think the proof is in the pudding. Dr. Leeper has talked about a little bit of that. So, in 2000, that's when Bush took office, we were $5 trillion in debt. So, cumulative up to that point, $5 trillion. Put two R's on the credit card, we're at $10 trillion. Obama comes in. So from there to 2016, we added $6 trillion more. We're at $16 trillion in 2016. You had the Coronavirus Aid, Relief, and Economic Security Act (CARES) and COVID and structural trillion dollar deficits annually, so we are about $26 to $27 at the end of the Trump years, but never now have we been at the level of where our deficits are close to 5 to 6 percent of our GDP, outside of a reason that would have driven it there. World War II, savers, investors, we paid it off. Now we're consumers and spenders by nature, and this is the worst place of all that. Have not done a budget in over 20 years, okay. And we have tried to do it in fix and spurts where you had some discipline in there. We unravel it almost as soon as we do it. Biden has put us out there with a budget. The only place it is publicly out there, $42 trillion in debt in 5 years, $52 trillion, in 10 years. Now, I want to go to Mr. Doe. What is more of an existential threat, 10 to 20 years where climate might drive up interest rates, which you just told Senator Kennedy, or the behavior of this institution that I think you can extrapolate very easily what's going to be the driver of interest rates. What do you fear more? Which is more inexorable? Which is more kind of hypothetical? Mr. Doe. There is no question you have touched on a key issue in terms of the federal deficit and the borrowing that has placed a great deal of risk on the entire U.S. economy, if not the globe. I think one thing I will say about the municipal bond market is that it has been interesting over the last 20 years the average issuance has remained steady at $400 billion. I think it is a real credit to state and local governments that even though they had the borrowing capability, that they have shown some restraint, but to come back to your point is I don't disagree with you. Senator Braun. So, you feel more comfortable really, with state and localities to probably navigate through whatever we do invest in infrastructure, as opposed to this place that will be borrowed from our kids and grandkids. Mr. Doe. I do. Senator Braun. That's good to know. You know, the other thing when you look at the reality of this place, you go back over 50 years, we have never been able to tease out more than about 17.5 percent in federal revenues of our GDP. I said earlier that is now up to a deficit of 5 to 6 percent since we have had Bidenomics. I want to ask Dr. Leeper this question. When it comes to the arithmetic we know that the climate issue is somewhat a bird in the bush in terms of what the financial cost is going to be. Mr. Doe has just said that. How quantifiable is it in terms of this current trajectory of borrowing and spending the modern monetary theory? Where does that take our country, future generations, at this current pace? Dr. Leeper. Thank you very much for the question. One thing I would like to say is that these trajectories that say the Congressional Budget Office regularly produces with exponentially growing debt as a share of GDP, are things that can't happen. And the reason they can't happen is because people are not going to be willing to absorb all of that debt. The price of that debt is going to get driven down, just as has been discussed about munis. Interest rates are going to take off. Inflation is going to take off. Senator Braun. So, we will be saddled with almost an unbearable interest cost along the way driving by the behavior and actions of the federal government in a nutshell? Dr. Leeper. Exactly. Yes. Senator Braun. And I think that is why it begs the question in this Committee, the Budget Committee. Shouldn't we be attending to that? And I can tell you in the 5 years I have been here, Chairman Enzi, who was a Certified Public Accountant (CPA) from Wyoming, attempted to do some of this discussion. It was too uncomfortable. He didn't do it. And I have just cited I think the last balanced budget was with the Clinton administration and Newt Gingrich, back in the late 90s. The easiest thing, the chip shot for this place, ought to be to just do a budget, quit borrowing from our kids and grandkids, and all of this gets mitigated, whether you are dealing with climate, or any other issue that might confront the federal government. And it sounds like everyone is more comfortable with actually more action being done by the states where there is responsibility, where there is budgeting, than there would be with this outfit. Everybody there, would you raise your hand if you think that makes sense? 3 out of 5 is not bad. Thank you. Senator Padilla. Thank you Senator Braun. Seeing no additional Senators here asking questions, we'll begin to bring this hearing to a close. I want to certainly thank the witnesses again for appearing before the Committee today. Their full, written statements will be included for the record. And as information for all Senators, questions for the record will be due by 12:00 noon tomorrow, with the signed, hard copies delivered to the Committee Clerk in Dirksen in 624. Copies delivered via email will also be accepted. We ask that the witnesses respectfully respond to our questions within 7 days of receiving them. And with no further business before the Committee today, this hearing is adjourned.   
+INVESTING IN THE FUTURE:
+SAFEGUARDING MUNICIPAL BONDS FROM
+CLIMATE RISK
+----------
+WEDNESDAY, JANUARY 10, 2024
+Committee on the Budget,
+U.S. Senate,
+Washington, DC.
+The hearing was convened, pursuant to notice, at 10:00
+a.m., in the Dirksen Senate Office Building, Room SD-608, Hon.
+Sheldon Whitehouse, Chairman of the Committee, presiding.
+Present: Senators Whitehouse, Merkley, Kaine, Padilla,
+Grassley, Johnson, Braun, Kennedy, and R. Scott.
+Also present: Democratic Staff: Dan Dudis, Majority Staff
+Director; Melissa Kaplan-Pistiner, General Counsel; Matthew
+Bolden, Climate Policy Advisor.
+Republican Staff: Chris Conlin, Deputy Staff Director;
+Krisann Pearce, General Counsel; Jordan Pakula, Professional
+Staff Member; Ryan Flynn, Staff Assistant.
+Witnesses:
+Mr. Thomas G. Doe, President and Founder, Municipal Market
+Analytics
+Ms. Megan N. Kilgore, City Auditor, Columbus, Ohio
+Dr. Chris Hartshorn, Advisor, Zeus AI
+Dr. Matthew Kahn, Provost Professor of Economics and
+Spatial Sciences, University of Southern California
+Dr. Eric Leeper, Paul Goodloe McIntire Professor in
+Economics, University of Virginia
+OPENING STATEMENT OF CHAIRMAN WHITEHOUSE \1\
+---------------------------------------------------------------------------
+\1\ Prepared statement of Chairman Whitehouse appears in the
+appendix on page 28.
+---------------------------------------------------------------------------
+Chairman Whitehouse. My distinguished colleague and Ranking
+Member, Senator Grassley, has an obligation to check in on
+another Committee before he comes here, and that starts at
+10:00, so he's going to be here fairly soon, and I have his
+staff's permission to begin the hearing, so let me gavel it
+into order.
+And I welcome the witnesses, welcome all colleagues to the
+first hearing of the Senate Budget Committee in 2024, and what
+is our 12th hearing on the looming fiscal and economic dangers
+of climate change. In the year since we started, climate
+economic warnings have just gotten worse.
+We are barreling past warning sign after warning sign. The
+facts are bad.
+Last year was the hottest year on record. It set a new
+record for billion dollar disasters, including the deadliest
+wildfire in modern United States (U.S.) history, and a new
+worst for global fossil fuel emissions. Climate change
+disrupted global food markets with flooding, persistent drought
+and shipping bottlenecks, and raised sugar, cocoa, and olive
+oil prices as just a few examples, causing climate inflation
+around the world.
+Shattered weather records battered insurance markets.
+Vermont and New York's once in a thousand year storms triggered
+deadly floods. California saw its first ever tropical storm
+warning. El Paso had 44 consecutive days at or above 100
+degrees, topped by Phoenix's 55 days at or above 110 degrees.
+The Dallas fed estimated the summer heatwave cost Texas $24
+billion.
+Insurance companies are already cutting their losses and
+exiting markets on the frontline of climate change in
+Louisiana, Florida, and California. Follow the real estate
+economics here. Without insurance it's hard to get a mortgage.
+But if you can't get mortgages, property markets suffer,
+causing pain to families, communities, and ultimately the
+entire U.S. financial system.
+Look at when the 2008 mortgage crisis cascaded into the
+Great Recession. As this current insurance crisis spirals into
+a mortgage crisis, and then spills over into housing markets,
+property values will suffer. The former Chief Economist at
+Freddie Mac warned this Committee that in this mortgage crisis,
+``Unlike during the experience of 2007-2008, these homeowners
+will have no expectation that the values of their homes will
+ever recover.''
+I share my colleague's debt and deficit concern about the
+impending budgetary and fiscal crisis facing our nation. One
+front of that impending crisis is climate change's economic
+threat. A threat to families, neighborhoods, banks, federal
+housing lenders, real estate developers, insurers, investors,
+and to state and local tax bases, which brings us to the topic
+of today's hearing, the $4 trillion municipal bond market.
+Municipal bonds, much like the 30-year mortgage, are a
+bedrock of our American economic systems, enabling local
+governments to make investments that are essential for their
+communities. Basic public services, like water service, sewage
+treatment, electricity and roads. Local government bonds
+finance more than 70 percent of U.S. infrastructure, including
+airports, bridges, railways and seaports.
+Climate change now threatens that bond market.
+Historically, municipal bonds have a sterling reputation among
+investors with default rates of less than 1 percent. Investors
+lend their dollars to build a new school or highway, and
+typically receive a tax exempt stream of interest for the next
+15 or even 30 years.
+These bonds, secured by government revenues, are among our
+most stable investments. Climate change undermines the
+stability in two ways. More intense storms, wildfires,
+droughts, heatwaves and floods impose higher costs on state and
+local governments, putting pressure on the spending side.
+And on the revenue side storm damage and insurance risk can
+undermine the municipal tax base. Already climatechange is
+making it harder for municipalities to service their bond payments, and
+making it harder for governments to raise new capital for needed
+climate investments.
+After a disaster, communities' local tax bases can be
+devastated. 5 years after the Camp Wildfire, only \1/3\ of the
+population has returned to Paradise, California. Hurricane
+Matthew undermined tax bases across small towns in North
+Carolina. After a disaster, population declines mean revenues
+decline, and bond markets are watching. 15 or 30 year municipal
+bonds start to look less safe.
+Moody's has already given notice to coastal communities.
+This risk comes home to roost in the federal budget. Over 40
+percent of our national debt relates back to crises we did not
+prepare for adequately, like the mortgage meltdown and the
+COVID pandemic.
+Today we'll hear more evidence that climate change is just
+such a crisis, an impending budgetary and fiscal crisis facing
+our nation. It could well be the worst yet. We've heard
+warnings about a coastal properties values crash. A similar
+collapse in wildfire adjacent areas, a bursting of the
+international carbon bubble, of turmoil in insurance markets,
+of climate inflation, and now danger to a pillar of American
+investment, the municipal bond.
+Nothing says that these all don't come to pass. Ignoring
+all of this is akin to financial negligence. And if there's one
+thing the Budget Committee should be able to agree on is that
+we oughtn't be negligent, and with that I will turn to my
+distinguished Ranking Member, and also wish him a Happy New
+Year. This is the first time we've seen each other in person
+since the New Year.
+OPENING STATEMENT SENATOR GRASSLEY \2\
+---------------------------------------------------------------------------
+\2\ Prepared statement of Senator Grassley appears in the appendix
+on page 30.
+---------------------------------------------------------------------------
+Senator Grassley. And I'm going to wish you in turn a Happy
+New Year, and your family as well. And as you would expect, I'm
+going to say that I have enjoyed the first year we've had, even
+though we've had some disagreement on the agenda of the
+Committee, and so I'm going to probably start out where you
+would expect me to start out.
+The purpose of the Budget Committee and the----
+Chairman Whitehouse. Understood.
+Senator Grassley . Fiscal problems of our
+nation. One of my hopes for the year is for this Committee to
+turn its attention to the pressing fiscal challenges that we
+face as a nation. Our unsustainable fiscal outlook is a
+bipartisan problem because both parties talk about it, and it's
+going to require a bipartisan solution to resolve.
+That was the crux of the letter that Senator Scott and I,
+along with all the Republican members of this Committee, sent
+you in December. Your December 7th response suggests that you
+agree that reducing the federal deficit and shrinking national
+debt are good ideas, and yet you rejected our request to hold a
+bipartisan hearing focused on that matter.
+Yes, we do disagree on the merits of many policies and
+proposals, but for the good of our nation we must begin to find
+common ground to address a national debt that recently topped
+$34 trillion, and is growing at a historic pace. Yesterday the
+Congressional Budget Office (CBO) warned that the federal
+budget deficit totaled $509 billion in just the first 3 months
+of fiscal year 2024.
+That's $87 billion more than this time last year, and
+that's despite the fact that revenues are coming in 8 percent
+higher than a year ago. The Treasury Department recently
+reported that we ran a $1.7 trillion deficit in 2023, larger
+than all but 6 deficits recorded since 1946, as a share of
+gross domestic product (GDP). Now we now that Fitch Ratings has
+downgraded our credit rating, and Moody's Investor Service
+recently placed a negative outlook on the U.S. sovereign credit
+rating.
+This morning the Budget Committee holds its 13th climate
+change hearing this Congress. This has prevented us from
+discussing ways to improve our immediate and dire economic
+position. Climate discussion is always worthy of our time as
+legislators, and must be considered, and debated, and
+discussed.
+But climate change doomsday isn't just around the corner.
+Recent adaptation is the key to coping with any climate change.
+Today's hearing is about the role of climate change in the
+municipal bond market. The $4 trillion municipal bond market is
+very resilient according to Moody's. Over 99 percent of
+municipal bonds issued by cities, school districts, states and
+other local governments, are categorized as investment grade.
+The infrequency of general government defaults reflects a
+key feature of state and local governments. That is, they have
+the power to raise revenue through taxation unlike private
+sector counterparts. State and local governments understand the
+risks their jurisdictions face, and they're uniquely qualified
+to so adapt.
+Where there have been defaults in municipal bonds it's been
+in places that have been mismanaged for decades, such as the
+City of Detroit, and I haven't looked at Detroit lately, but I
+think they're making some progress coming out of the hole that
+they dug for themselves. In fact, according to Moody's they've
+never seen a bond that they rated default due to natural
+disasters.
+This includes rated bonds for Paradise, California, which
+suffered near complete destruction in 2018 California wildfire.
+Paradise has made every scheduled bond payment. I agree that
+municipal bond issuers face challenges. A big one is the extent
+to which municipalities rely on the federal government for
+transfers.
+Let's face it, we're broke. I welcome all today's
+witnesses, and look forward to hearing each of their
+testimonies. Thank you, Mr. Chairman.
+Chairman Whitehouse. Thank you, Senator Grassley. Let me
+take a moment to introduce our witnesses. I'll introduce all of
+you together, and then we'll go through your testimony. As you
+know, the practice in this Committee is to hold your statement
+to 5 minutes, have your complete testimony made a part of the
+record, and by adhering to that we give more time for the
+Senators who are present to ask questions, so thank you for
+accommodating us with that.
+Our first witness is Mr. Thomas Doe. Mr. Doe is the Founder
+and President of Municipal Market Analytics, a leading
+independent strategy, research, and advisory firm for the
+municipal bond industry. Clients include major investment
+firms, banks, securities dealers, financial advisers, bond
+issuers, and regulators.
+Mr. Doe served on the Municipal Securities Rulemaking Board
+(MSRB) from 2002 to 2005, and he's previously testified on the
+health of the industry to the Senate Banking Committee, and to
+the Securities and Exchange Commission. Welcome back to
+Washington, Mr. Doe.
+Our second witness is Ms. Megan Kilgore, the City Auditor
+of Columbus, Ohio. As City Auditor, she oversees a nearly $5
+billion debt portfolio, and a $2 billion investment portfolio,
+and she administers the collection of approximately $1 billion
+in revenue every year.
+Prior to elected office, Ms. Kilgore was a Municipal
+Advisor, helping cities, counties, school districts, and
+economic development districts all over the country navigate
+complicated financing transactions. Ms. Kilgore, thank you for
+being with us today.
+Our third witness is Dr. Chris Hartshorn. Dr. Hartshorn is
+currently an adviser to Zues AI, a National Aeronautics and
+Space Administration (NASA) spinoff focused on next generation
+weathering modeling and forecasting, as well as a number of
+other environmental data science startups and a venture capital
+firm.
+Previously, Dr. Hartshorn helped build risQ and Level 11
+Analytics, which became the leading providers of physical
+climate risk data for the municipal bond market, until their
+acquisition by Intercontinental Exchange in 2021. Thank you for
+being here today, Dr. Hartshorn.
+Following Dr. Hartshorn is Dr. Matthew Kahn. Dr. Kahn is a
+Provost Professor of Economics and Spatial Sciences at the
+University of Southern California. Dr. Kahn is also a visiting
+Fellow at the Hoover Institution, and a Research Associate at
+the National Bureau of Economic Research (NBER), and a Research
+Fellow at the Institute of Labor Economics (IZA). Dr. Kahn's
+research focuses on urban and environmental economics.
+He previously taught at Columbia, the Fletcher School at
+Tufts, the University of California, Los Angeles (UCLA),
+Harvard, Stanford, and the National University of Singapore.
+Thank you for being with us, Dr. Kahn.
+Our final witness is Dr. Eric Leeper, the Paul Goodloe
+McIntire Professor in Economics at the University of Virginia
+(UVA)--my at least law school alma mater, if that actually
+counts in UVA. You know, they take the undergrad and the law
+school differentiation pretty seriously. Dr. Leeper is also a
+distinguished visiting scholar at the Mercatus Center, a
+research associate at NBER, Director of the Virginia Center for
+Economic Policy at UVA, and external Advisor to the Swedish
+Central Bank, and a member of the Research Council of the
+Bundesbank.
+His work focuses on theoretical and empirical models of
+macroeconomic policy, with special emphasis on monetary, fiscal
+policy interactions. Fair description? Yes. That's good. Okay.
+Welcome, Dr. Leeper. Mr. Doe please proceed.
+STATEMENT OF THOMAS G. DOE, PRESIDENT AND FOUNDER, MUNICIPAL
+MARKET ANALYTICS \3\
+---------------------------------------------------------------------------
+\3\ Prepared statement of Mr. Doe appears in the appendix on page
+32.
+---------------------------------------------------------------------------
+Mr. Doe. Thank you, Chair Whitehouse, Ranking Member
+Grassley, and members of the Committee for inviting me here
+today. My discussions with state and local sustainability and
+resilience officers have revealed woeful ignorance regarding
+the capital markets essential role in financing their climate
+adaptation needs.
+My name is Tom Doe. I'm Founder and President of Municipal
+Market Analytics, and I've also served on the MSRB as Chair
+Whitehouse noted. I also serve on the Advisory Board of the
+Center of Municipal Finance at the University of Chicago's
+Harris School. Municipal bond issuance can serve as the
+initiative-taking financing tool to reduce the federal
+government's burden in responding to catastrophes via the
+Federal Emergency Management Agency (FEMA).
+To date, municipal investors have been able to downplay the
+climate issue because of FEMA's historical presence to backstop
+areas impacted by extreme weather events, and rating agencies'
+limited credit outlook to a few years into the future.
+Investors' positive expectations have inhibited issuers'
+proactive action to reduce the consequences of future climate-
+related risks.
+The Administration and Congress climate initiatives have
+been laudable. However, the federal government has emphasized
+mitigation over adaptation, and still, as Chair Whitehouse
+knows, global mitigation efforts to date will not halt the
+breech of the earth's 1.5-degree warming barrier. As a result,
+U.S. citizens will rely on state and local governments to
+execute needed adaptation and resilience measures.
+It is fair to characterize the municipal market as the best
+form of partnership between state, local, and federal
+governments. Municipal bonds have financed 75 percent of U.S.
+public infrastructure. They provide low-cost capital for state
+and local infrastructure needs, both large and small.
+Since 2004, the municipal market has raised an annual
+average of $400 billion for a variety of purposes. Its
+stability has created investor confidence, steady regulation
+has improved markets' integrity, state revolving fund programs
+have served as a shining example for financing future
+resilience needs.
+The pandemic reiterated that in the U.S. the avoidance of
+taxes is a motivational force for investors. Over the past 3
+years states with population increases have an average state
+income tax of approximately 3 percent, while those who have
+lost population have a tax rate of approximately 7 percent.
+Ironically, the movement has been to states that have the
+greatest climate risks.
+These areas and elsewhere will need to finance adaptation
+projects to improve stormwater management, provide clean water,
+cool educational and healthcare facilities, secure the
+provision of electricity, make transportation systems
+resilient, while also anticipating catastrophic events.
+Municipals' tax exemption not only incentivizes high earners to
+invest in infrastructure, but also allows state and local
+governments to apply capital to where it is most needed.
+Once again, largely because of FEMA's historical backstop,
+investors and rating agencies have not significantly penalized
+the most climate-vulnerable state and local governments with
+lower prices or ratings. Hence, in the absence of the penalty,
+this provides a current opportunity for issuers to invest now
+before greater investor sensitivity evolves.
+State and local governments have an extremely low default
+rate, both on absolute and relative basis. Ninety percent of
+the $4 trillion public outstanding municipal bond debt is
+investment grade, suggesting that too great of an emphasis may
+have been placed on government officials' aspirations for the
+highest credit rating, instead of efficient market utilization.
+In other words, state and local governments could assume a
+greater debt burden to address climate risk. Greater debt might
+result in a possible lower rating today, but could put an
+issuer in a better position to stabilize or improve its future
+rating. This is admittedly a difficult needle to thread because
+climate instability poses an unprecedented systemic risk to
+municipals' hallmark credit quality.
+The Committee's prior hearings have revealed data sources
+to inform investors of climate risk and security offering
+documents. Fortunately, the government-financed Officer's
+Association in 2021, led in part by Florida's debt leadership,
+provided best practice guidance for climate disclosure. Also,
+the U.S. Securities and Exchange Commission (SEC) is
+continually reviewing state and local borrowing disclosure
+practices, which have been disappointingly inconsistent or
+silent regarding climate change's specific risks, and the plans
+to address them.
+It is egregious that state and local governments' easily-
+quantified climate risks are not clear to investors who deliver
+capital, and to the federal government who provides the
+critical subsidy. I appreciate your invitation to join you
+today, and look forward to the questions and discussion.
+Chairman Whitehouse. Thank you very much, Mr. Doe. Ms.
+Kilgore, please.
+STATEMENT OF MEGAN N. KILGORE, CITY AUDITOR, COLUMBUS, OHIO \4\
+---------------------------------------------------------------------------
+\4\ Prepared statement of Ms. Kilgore appears in the appendix on
+page 43.
+---------------------------------------------------------------------------
+Ms. Kilgore. Chairman Whitehouse, Ranking Member Grassley,
+members of the Committee, thank you for inviting me here today.
+My name is Megan Kilgore. This marks my 20th year in the public
+finance industry. For the last 6 years, I have had the
+privilege of serving as the elected City Auditor of the City of
+Columbus, Ohio.
+My office is responsible for debt issuance, capital
+planning and rating agencies strategy, and investor relations.
+I am proud to say that we are the largest city in America to
+maintain the highest credit rating possible, Triple A from
+Standard & Poor's (S&P), Moody's, and Fitch, respectively.
+Prior to my elected service, as the Chair noted, I worked
+as a municipal Financial Advisor, helping clients, cities,
+counties, school districts, community colleges, all across the
+country plan for and finance their infrastructure. Any time we
+have a major initiative in our industry, local governments ask
+a number of good questions. Why? How? What? When? And who will
+pay for it?
+In my conversation, the why has been fairly evident, and
+local governments are becoming increasingly aware of the
+economic and societal risks of climate change. The remaining
+questions are where I would like to focus my time today, as my
+objective is to leave this Committee with solutions for
+increasing climate oriented project financing and
+implementation, both mitigation and adaptation.
+To date, of the hundreds and hundreds of bond issues that I
+have worked on, I have not issued, nor have I advised that a
+client issue, bonds that are designated as green, even if the
+projects could earn that designation. The primary reason for
+that is lack of definitive financial benefit.
+I have also not found there to be any incentive from a
+rating agency standpoint. Green debt is still considered debt,
+and carries no quality--credit quality advantage. In other
+words, municipal debt that is financing a renewable energy
+project with sizable long-term economic benefit is still on
+parity with a community pool.
+Our objectives at the City of Columbus are to get the best
+deal possible, and to maintain affordability for our residents.
+So in addition to the traditional municipal debt market, we
+also consider available federal funding. The good news is that
+there are incredible levels of federal programs available
+today.
+The Inflation Reduction Act (IRA), programs like Water
+Infrastructure Finance and Innovation Act (WIFIA),
+Transportation Infrastructure Finance and Innovation Act
+(TIFIA), rural specific programs, and numbers of other acronyms
+exist, but we lack a user friendly resource that wholly
+connects the dots. I can attest that even a Triple A, like the
+City of Columbus with a deep bench of experts, working through
+this complexity has been difficult, let alone many of my former
+clients who lack the similar financial and technical resources.
+So how do we get these necessary projects underway? I'd
+like to share opportunities that I see that could eliminate
+barriers to local governments' participation in more climate
+oriented projects. One, provide clear financial incentives for
+both local governments and investors. For instance, consider
+broadening the definition of municipal backed bonds, tax
+exemption for projects that reach certain climate metrics, and
+growing climate related opportunities with things like private
+activity bonds.
+Number two, help local governments overcome human capacity
+barriers by creating a federal office to serve as the single
+point of knowledge. There are over 50,000 local governments who
+issue debt, making it incredibly difficult to generate
+transformational change using a one size fits all approach.
+I am inspired by how the websites America is All In, and
+Rewiring America have done this using technology to create
+highly personalized tools that estimate, for instance, how much
+money homeowners can save by employing clean technologies.
+Which types of tax credits the homeowner may be eligible
+for, and how to go about applying. Similar to President
+Eisenhower's Public Roads Administration, we need this onestop
+shop to help local governments with project analysis, regional design,
+implementation, as well as a place to collect, analyze and communicate
+information regarding grant loan and financing sources and uses.
+Just imagine if a single source of information was
+available to my small hometown on the Ohio River. A site where
+users could see their location-specific estimates of physical
+climate risk exposure, alongside potential economic loss, types
+of projects that would best benefit that area, and
+corresponding funding opportunities.
+Number three, help smaller and lower credit communities
+achieve total funding needs. I saw a ton of success with the
+Super-Build America Bonds (BAB)-type structure under the
+Recovery Zone Economic Development Bonds. Such a reinvented
+program could help these local governments, especially those
+seeking last mile funding, use bonds to spread the costs of
+projects over a reasonable number of years, while keeping
+affordability in check.
+The solutions I see are big, transformative, and require
+our federal government to take action at a scale commensurate
+with the opportunities before us. Thank you for the time.
+Chairman Whitehouse. Thank you, Ms. Kilgore. Dr. Hartshorn.
+STATEMENT OF DR. CHRIS HARTSHORN, ADVISOR, ZEUS AI \5\
+---------------------------------------------------------------------------
+\5\ Prepared statement of Dr. Hartshorn appears in the appendix on
+page 45.
+---------------------------------------------------------------------------
+Dr. Hartshorn. Good morning, Chairman Whitehouse, Ranking
+Member Grassley, and members of the Committee. Thank you for
+inviting me to testify at this hearing. It is an honor to do
+so, and to represent the hard work of many colleagues and
+collaborators.
+My name is Chris Hartshorn. I currently advise numerous
+entities operating at the finance industry and sustainability
+nexus. More relevant for this hearing, are my many years fully
+dedicated to building market leading capabilities focused on
+climate risk to U.S. fixed income debt instruments, including
+municipal bonds.
+Firstly, it is importantly to note that the municipals as
+defined by the municipal bond market, are a vast diaspora of
+overlapping debt issuers covering states, counties, utilities,
+school districts, transit systems, airports, hospitals, charter
+schools, retirement communities and many others.
+The implications of climate action to the population are
+broad and stark under this financial market municipal
+definition. With respect to climate risk, it is easiest for
+most to conceptualize property destroying, evacuation invoking
+perils, hurricanes, wildfires, floods and the like. As these
+acute events happen quickly, catalyze local, and often federal
+emergency responses, have quantified economic consequences and
+costs, and leave single named scars, Katrina, Sandy, Paradise,
+to name just three.
+Such climate risks are material to municipal finance,
+taking wildfires as one example. In the 5 years after a fire,
+the net fiscal effect of wildfires on a municipality is a
+decline in excess revenues of $97 per capita, equivalent to 11
+percent of the per capital budget size, and a 25 percent
+increase in the probability of a budget deficit.
+For hurricanes, local governments experience significant
+declines in revenues, expenditures, and debt. In the 10 years
+after a hurricane strike these are initially offset by
+intergovernmental transfers, but ramp up 10 to 16 years after
+post--after a hurricane. The impacts of past floods also litter
+the official statements of the bond issuing community.
+Across these acute perils, rebuilding costs have been
+underpinned by FEMA Disaster Relief Fund (DRF) funding that has
+been on a bumpy, but nonetheless upward trajectory over recent
+decades. Another key constituent of post-disaster recovery has
+been property insurers that help re-establish property value.
+Noting that property taxes are a key revenue stream for many
+municipal bond issuers.
+It is noteworthy therefore, that in higher climate risk
+states, Florida, Louisiana, California, that major insurers are
+withdrawing from those markets. And those that remain are
+ramping up policy premiums, an outcome that will inevitably
+lead to a decrease in coverage, and anecdotally already has.
+The diminishing of this historically critical pillar of
+past disaster recovery, will only heighten the post-disaster
+financial pressure on the municipal and federal system. Other
+perils must be accounted for, for which the impacts are more
+chronic in nature. Heat, drought, sea level rising effects on
+water supply in many coastal areas.
+Heat is a good example, given we've just experienced the
+hottest year on record globally, and cities such as El Paso and
+Phoenix shattered their own records. This is a critical issue
+across much of the municipal U.S. for the health and safety of
+these served populations, and the municipal workforce, and for
+municipal infrastructure.
+Municipal sectors beyond cities also feel this heat. For
+example, school districts exposure to heat risk is already
+apparent. Temperature has been shown to have a direct impact on
+educational performance, noting that September, the start of a
+typical U.S. school year also set new records in 2023.
+In schools without functioning air-conditioning, a 1 degree
+Fahrenheit hotter school year reduces test scores by 1 percent
+versus expected learning gains. By some estimates, around $40
+billion of new air-conditioning installation is required across
+U.S. K through 12 schools to address this.
+These K through 12 schools represent around 15 percent of
+the municipal bond market, while access to debt has shown to
+improve K through 12 educational outcomes, there is now a
+climate driven educational performance imperative to add to
+this mix.
+In reality, any combination of a given climate peril in a
+given sector within the municipal universe can be explored for
+underlying materiality, but the themes of present and future
+climate risk and cost would remain. Critically, mitigation
+funding can save the nation $6 in future disaster costs to
+every $1 spent on hazard mitigation.
+That 6x multiple needs to be seen in the context of the
+U.S.' estimated $2.6 trillion infrastructure deficit over the
+next 10 years.
+The question is how to maximize the upfront dollars to
+address this risk. This does not need to be a monolithic draw
+on the federal purse. The municipal bond market has held steady
+around $4 trillion over the last 15 years, but this is
+misleading. There is an undoubtedly willing capital just
+sitting on the sidelines.
+Again, thank you for the opportunity to address the
+Committee. I look forward to your questions.
+Chairman Whitehouse. Thank you, Dr. Hartshorn. Dr. Kahn.
+STATEMENT OF DR. MATTHEW KAHN, PROVOST PROFESSOR OF ECONOMICS
+AND SPATIAL SCIENCES, UNIVERSITY OF SOUTHERN CALIFORNIA \6\
+---------------------------------------------------------------------------
+\6\ Prepared statement of Dr. Kahn appears in the appendix on page
+50.
+---------------------------------------------------------------------------
+Dr. Kahn. Good morning, Chairman. Thank you Ranking Member
+Grassley and members of the Committee for inviting me to
+testify. I'm relentlessly optimistic about the way cities can
+adapt to the climate challenges. Climate change is not a
+catastrophic threat to the municipal bond market.
+Bond buyers have an incentive to do their due diligence.
+If a municipality faces rising climate impacts that imperil
+its abilities to repay debt, bond buyers will recognize this,
+and they will offer lower prices for bonds. The places that
+fail to adapt to new risks will pay higher interest rates, and
+higher insurance rates.
+To see why climate risk does not imperil the financial
+system, via municipal bond defaults, let's play out a
+hypothetical doomsday scenario. What does it take for a climate
+event to cause a financial crisis? The year is 2034. Over the
+last decade the climate has gotten worse.
+Storms are more frequent. The City of Chicago continues to
+issue new municipal debt. Chicago has huge public pension
+obligations. The city's bonds are rated as barely investment
+grade quality. Suppose a hedge fund buys these Chicago bonds,
+using money borrowed short-term from several banks. An
+unprecedented storm hits Chicago.
+Infrastructure is flooded and damaged. The city appeals to
+the federal government for disaster relief, but none arrives.
+Tax revenue plummets, a local economic depression ensues. The
+city defaults on all of its bonds. The hedge fund, who owns the
+bonds, goes under. Banks who lent Chicago bond buyers money now
+own worthless collateral and they fail.
+Still, only a few banks have failed. Depositors at other
+banks worried about the hidden risks run. The federal
+government does not bail out the banks or the depositors.
+Finally, we have a crisis. Folks, elementary economics shows
+that this scenario is implausible. Why?
+First, local property owners seek to enhance the value of
+the assets. They have an incentive to lobby local leaders to
+invest in resilience to reduce default risks. Property owners
+recognize that a municipal default leads to lower local quality
+of life and higher property taxes.
+Second, over the last 40 years, hurricane strikes have had
+a minor impact on municipal bond prices, and their impact on
+default rates has been tiny. While federal disaster relief
+helps cities to recover from shocks, this reduces bond default
+risk. It is arguable that the federal government has been too
+generous with respect to state and local aid, and this creates
+perverse incentives for local investment in resilience.
+Third, portfolio theory warns against putting all your eggs
+in one basket. Meaning super bond investors tend to be high net
+worth individuals and pension plans. They do not hold
+concentrated investments in any one city's bonds. A city's
+default will not cause these investors to fail. They invest in
+a spatially diversified asset portfolio.
+Fourth, climate science progress offers ever improving real
+time geo-coded predictions. These models inform predictions
+concerning which cities face severe medium-term climate risks.
+Cities predicted to face rising risks will experience rising
+insurance costs, and they will pay higher interest rates on
+their long-term debt relative to their short-term debt.
+The expectation of facing higher insurance prices, and
+higher interest rates provides an incentive for municipalities
+to invest their own money in adaptation. Fifth, as we grow
+richer, property owners are willing to pay more for safety, for
+products that enhance their safety, such as anti-flood
+equipment, and stronger windows.
+Firms have a profit motive to design these climate
+resilient products. My own research agenda has been this focus
+of how we unleash free markets, the profit motive to create a
+new menu of products that help us to adapt. Competition in
+adaptation product markets leads to lower prices.
+As more of a city's property owners make these investments,
+the overall local real estate capital stock becomes more
+resilient to disaster shocks. Going forward, Senators, big city
+municipal bond risk will mainly be determined by public pension
+obligations, and day to day quality of life concerns, leading
+to suburban flight, not by a change in the frequency of bad
+weather events beyond that which cities and bond investors are
+already planning for, thank you.
+Chairman Whitehouse. Thank you very much, Dr. Kahn. Dr.
+Leeper.
+STATEMENT OF DR. ERIC LEEPER, PAUL GOODLOE MCINTIRE PROFESSOR
+IN ECONOMICS, UNIVERSITY OF VIRGINIA \7\
+---------------------------------------------------------------------------
+\7\ Prepared statement of Dr. Leeper appears in the appendix on
+page 59.
+---------------------------------------------------------------------------
+Dr. Leeper. Chairman Whitehouse, Ranking Member Grassley,
+Committee members, thank you for inviting me to talk today.
+Good morning. I'm Eric Leeper from the University of Virginia.
+Today I'd like to talk about federal budget policy and its
+implications for financing expenditures associated with climate
+change.
+I draw on consensus economic theory about optimal public
+finance at the macroeconomic level, and talk about growing
+weakness in the market for treasuries. Weakness that stems in
+large part from fiscal uncertainty in Washington. Treasury
+securities and municipal bonds, like any assets, derive their
+value from expected future payoffs discounted to the present.
+For government issued bonds, those payoffs are budget
+surpluses, excluding interest payments, what we call primary
+surpluses. Higher expected payoffs raise demand for and the
+value of bonds, so governments can borrow on more favorable
+terms. Bonds lose value as they have the last 4 years, when
+investors worry that surpluses don't lie in the future.
+Optimal public financial avoids sharp swings in tax rates
+and spending, swings that distort behavior and reduce social
+welfare. Large, temporary bursts in spending that arise from
+say a war, call for increased borrowing. When spending needs
+subside, policy generates primary budget surpluses to support
+the new debt. The expectation that surpluses will rise
+maintains the value of that debt.
+George Hall and Tom Sargent document that U.S. policymakers
+largely followed this advice after the two world wars. Hall and
+Sargent also examined the fight against COVID in this light.
+Large COVID related spending was financed by new debt issuance,
+marketable treasury debt grew by more than $7 trillion over the
+3 years starting January of 2020.
+What we haven't seen is the follow through that optimal
+policy requires. The Congressional Budget Office projects
+primary deficits for the next 30 years. This tells us that
+nothing about today's budget process ensures that policy will
+generate the required surpluses.
+Budgetary consequences of climate change won't resemble the
+large, temporary spending bursts associated with wars or COVID.
+Instead, climate change seems likely to entail sustained
+elevated spending levels. Permanently higher spending on
+something new requires either permanently lower spending on
+something else, or permanently higher tax revenues.
+Ever increasing borrowing, whether in the muni or the
+treasury market, cannot be the answer. The lack of clear fiscal
+plans harms the economy today, and we're seeing some evidence
+of that in the treasury market. The price of the treasury bond
+portfolio has declined 18 percent since early 2020. The last
+time we saw declines like this was in the 1970s.
+Interest payments on outstanding debt are growing rapidly.
+Treasury has had to auction new bonds in weak markets to meet
+those payments. If as now, there are no prospects for future
+surpluses, it's hard to see inflation returning to the Fed's 2
+percent target.
+Fiscal priorities change with every new administration or
+Congress. That's as it should be in a representative democracy.
+But to achieve those priorities there must be some constancy in
+fiscal behavior. If bond market weakness continues, the federal
+government may find it increasingly costly to borrow--to
+finance its priorities.
+The only fiscal constancy we have in the United States
+comes from a set of norms that have evolved informally over the
+country's history, and owe much to Alexander Hamilton. The
+Hamilton norm springs from his first report to Congress in
+1790. He argued that proper provision for the public debt
+arises ``when it is well funded, and has acquired an adequate
+and stable value.''
+By following this norm, the United States has earned a
+reputation for repaying its debt. Is that reputation now in
+jeopardy? If century's old norms can be wantonly tossed aside,
+then they're powerless to prevent fiscal policy from becoming a
+source of instability in the economy.
+Perhaps the time has come to institutionalize the norms
+through rules and procedures that have bite. Thank you very
+much.
+Chairman Whitehouse. Thank you very much. Let me start if I
+may, with Mr. Doe. You've suggested that the short horizon that
+bond rating agencies tend to look at, plus the surge of FEMA
+funding that comes into a community after a disaster creates a
+sort of an artificial, if you will, zone that doesn't
+contemplate the full risk.
+And Dr. Hartshorn suggested after that FEMA funding passes,
+there's a secondary period where municipal revenues and
+spending are affected by the disaster, but the federal support
+has been pulled, and that's a more fiscally challenging period
+for the municipalities, if I properly understood your
+testimony.
+Mr. Doe. Well, thanks for the question. The--first of all,
+it is one of the challenges that the rating agencies are of
+course critically important to the financial marketplace.
+Unfortunately, the outlook that they have with their rating is
+maybe 2 to 3 years, maybe 5 in some instances. It doesn't mean
+they're not considering long-term impacts, but the changes in
+that all important letter, right, that conveys the risk to an
+investor, is pretty stable for a short period of time. So the
+real challenge is----
+Chairman Whitehouse. That's a short period of time in which
+federal FEMA support is likely to be present, but not for long
+in the municipal.
+Mr. Doe . And what the reality has been
+regarding FEMA is in place such as when a hurricane hits, when
+Katrina hit New Orleans. What happens is that the initial
+response by the municipal market is prices of those securities
+in the affected area are declining, and then afterwards the
+expectation, or the rebuilding that comes from the federal
+government via FEMA actually increases those prices.
+Chairman Whitehouse. Ms. Kilgore, do you see that in your
+experience as well? You live on the ground with this setup all
+the time.
+Ms. Kilgore. Senator, certainly, the rating agencies right
+now do have a shorter, in my opinion, horizon of which they're
+looking at our climate related projects. But again, I would say
+they're on parity with any other type of basic infrastructure,
+recognizing a little bit that we are seeking to plan for the
+future, but we would like to see there be more focus on that.
+Chairman Whitehouse. More focus on the period once the
+immediate surge of FEMA funding has pulled away, and you now
+have the more persistent problems still present in the fiscal
+outlook for the community.
+Ms. Kilgore. It is certainly, Senator, in my opinion,
+management is what separates good governments from great
+governments, and being able to proactively plan for the future,
+and try and get ahead of anything that we can possibility get
+ahead of, that's the most important part.
+Chairman Whitehouse. Mr. Doe, you used the following
+phrase, if I wrote it down correctly. ``Climate instability
+presents an unprecedented, systemic risk.'' That phrase,
+``systemic risk,'' keeps popping up in these hearings. It has a
+relatively technical meaning among economists. Could you please
+describe what a systemic risk is?
+Mr. Doe. So a systemic risk would be not just an isolated
+specific stress for a specific issuance or state and local
+government, but across broadly, across the entire marketplace,
+so that all municipal bonds in this case would be impacted to
+some degree.
+Chairman Whitehouse. Understood. And Dr. Hartshorn, you
+have two companies that you founded that were bought by the
+Intercontinental Exchange. Can you explain a little bit first
+for the record of the Committee, what is the Intercontinental
+Exchange, and why were they interested in acquiring the
+expertise that those two entities provided?
+Dr. Hartshorn. Yeah. Thank you for the question.
+Intercontinental Exchange had a bunch of different businesses,
+I guess you would describe them. They are the owner of the New
+York Stock Exchange for one. They are one of leading data
+providers to the financial industry, in terms of pricing data,
+you know, data, the market, and they also operate a substantial
+mortgage data business.
+The reason why I believe, Intercontinental Exchange
+acquired us, they had seen the momentum in the market for our
+data. There was a screaming need especially from the buy side,
+from ratings agencies, and even bond insurers to get
+comprehensive data for the entire municipal bond system in
+terms of the physical climate risk to that system, which was
+substantially unavailable, and certainly across the entire
+realm of what I've described as municipal bonds data.
+Chairman Whitehouse. Thank you. Dr. Kahn, do you agree that
+the emissions from the combustion of fossil fuel amount to an
+economic negative externality that ought to be priced into the
+underlying product?
+Dr. Kahn. So in theory I do support a carbon tax, but I do
+worry that if only the United States adopts a carbon tax, that
+it has little effect because it's a global externality.
+Chairman Whitehouse. Yeah.
+Dr. Kahn. And it lowers the purchasing power of poor
+people. But as an economist, of course I support people
+internalizing the social costs of their actions.
+Chairman Whitehouse. Thank you. Let me just put into the
+Record, or the proceedings, Dr. Kahn's article called The Green
+Economy and Foreign Policy, an interview entitled Economist
+Matthew Kahn says human ingenuity is key to living with climate
+change, and an Openforum.com article that the Doctor wrote on
+July 24th, 2022, called are there still ``limits to growth''.
+And with that I'll turn it over to my distinguished colleague.
+[The information of Senator Whitehouse appears in the
+index.]
+Senator Grassley. Thanks to all the witnesses, and Dr.
+Kahn, I've got something that you could probably spend the full
+5 minutes on answering, but I'd like to have a short answer, so
+I can get a lot of questions in. We hear Democrats argue for a
+cascade of expensive and expansive federal climate proposals
+that will saddle us and local governments with debt and red
+tape.
+Democrats attempt to justify these proposals with
+apocalyptic hyperbole rooted in extreme Representative
+Concentration Pathways (RCP) 8.5 scenario. How can cities help
+themselves mitigate risk, and adapt to climate change without
+relying on more federal spending?
+Dr. Kahn. Senator, thank you. So I am optimistic that the
+RCP8.5 projection model overstates where global greenhouse gas
+emissions are going. I believe the work of Roger Pielke and
+others that the world's greenhouse gas emissions will grow, but
+at a less extreme rate, so we face less risk.
+To directly answer your question of what cities can do,
+similar to me having a checkup with the doctor, it's to become
+aware of emerging risks. Every city has its own topography,
+history, demographics. Every city needs to do the sort of self-
+checkup of what risks it faces, and then with engineers to
+identify cost effective solutions to mitigate the challenges.
+And then using its own funds. Senator, I think we agree of
+the importance of fiscal discipline of using the city's own
+funds to consider strategies that are cost-effective to adapt
+to the challenge, and to speak to insurers, and bond buyers of
+what risks are they worried about. So this set of actions can
+help a city be proactive to mitigate the physical risks, and to
+be attractive to insurers and bond buyers to be able to
+participate in municipal finance markets.
+Senator Grassley. And also to you when states and Local
+governments face budget challenges, they can restrain spending,
+and hopefully be able to tap rainy day funds. It's not
+appropriate for us to micromanage the state for the sake of
+climate change, or anything else for that matter. My state of
+Iowa is required to have a balanced budget.
+We don't take fiscal responsibility for granted, unlike
+here in Washington, D.C. How does fiscal discipline help cities
+mitigate severe weather risk, and could federal intervention in
+the matter lead to bad outcomes?
+Dr. Kahn. Thank you, Senator. Professor Leeper spoke about
+reputation in his remarks. If a city has a reputation for
+fiscal responsibility, firms and successful people will move
+with confidence to that city expecting good services and low
+taxes going forward. A city with a robust tax base can weather
+the storm.
+New York City after Sandy, a city that has a resilient,
+industrial base, an economic base, has the resources to protect
+itself when surprising contingencies emerge.
+Senator Grassley. And for you Dr. Leeper in 2020 the share
+of federal aid to state and local governments reached an all-
+time high, as a share of GDP, well over 4 percent. And of
+course, as we don't have to mention too often, or can mention
+too often, we're broke here in Washington, D.C. Are there more
+immediate and bigger risks to the broader economy than climate
+change?
+Dr. Leeper. Well, I think that right now one of the most
+pressing questions really is getting the fiscal house in order.
+No matter what you want to spend your money on you need to have
+sound fiscal underpinnings. And I think those are increasingly
+under threat these days.
+We celebrate when Congress manages to avoid shutting down
+the government. I think we can set the bar a little higher than
+that.
+Senator Grassley. And also for you we've heard a proposal
+to create an expensive new federal climate bureaucracy, doling
+out billions in green handouts to large corporations. This
+agency would be environmental, social, and corporate governance
+(ESG) police telling local governments across the country what
+to do. I've been trying to find out how the U.S. Environmental
+Protection Agency (EPA) has spent the billions of dollars in
+green grant programs that the democrats have already passed.
+Guess what? The EPA and the grantees still haven't told us.
+Is spending hundreds of billions of dollars for the sake of
+climate change advisable when the federal debt is cascading out
+of control?
+Dr. Leeper. Well, here I go back to what I said in my
+testimony that we are thinking about a sustained increase in
+spending levels. You cannot finance that through borrowing,
+it's just infeasible to do that forever. And so, just as when I
+planned to put my children through college, I pre-financed that
+spending. So to, the government needs to be thinking about how
+do you finance the spending that is being planned for climate
+change, because that's going to be a sustained increase in
+spending, and it can't be done through borrowing.
+Senator Grassley. Thank you both. Thank you.
+Chairman Whitehouse. Thank you, Senator Grassley. Senator
+Kaine.
+STATEMENT OF SENATOR KAINE
+Senator Kaine. Thank you. Mr. Chairman, thanks to the
+witnesses for this first Budget Committee Hearing of 2024.
+I spent a lot of time in the bond market as a former mayor
+and former governor. In fact, the first lesson that I learned
+as a public servant was a lesson from the bond market. In the
+time between my first election in Richmond City Council, and
+swearing in on July 1 of 1994.
+We had a bad calendar of budget and elections. The
+elections run May 1. The City Council would finish the budget
+on June 1, and the new Council would be sworn in on July 1. I
+came in in a clean sweep crowd. We pushed about 6 of the 9 City
+Council members out, and so the Council voting on the budget
+were all lame ducks, and they were all mad.
+And they just decided to kind of go wild. And they did a
+bunch of things, especially with the city's reserve fund that
+caused the bonding agencies to downgrade Richmond's bond rating
+right before we swore into office on July 1 of 1994. We were
+naive. We thought well, all we have to do is retract the
+action. The bond agency acted in the middle of June. We came
+in, we retracted the foolish budgetary moves made by our
+predecessors.
+We went to New York, and we said guess what guys, there's a
+new group in town. We've cleaned it all up. And the lesson that
+I learned from the bonding agencies is yeah, we get it. We're
+glad you did that, but when you lose our confidence, it takes
+you a while to win it back. And it took us 6 years of really
+persistent effort to get the bond rating upgrade back to where
+we were.
+I did that when I was Mayor, and then as Governor, I had
+the good fortunate to be Governor of Virginia, where we had
+been Triple A bond rated forever, and were able to maintain
+that, even during the recession of 2008-2009. I want to get at
+an underlying issue. For most cities, for most counties, the
+primary revenue source is property tax.
+There's other taxes, visitor, lodging, sales tax. We have a
+particular challenge in Virginia with climate that I just want
+to talk about, and I think I'm going to direct this question of
+Ms. Kilgore, my City Auditor. The Hampton Roads area of
+Virginia is Norfolk, Virginia Beach, Chesapeake, Suffolk, a
+number of communities that are very vulnerable to sea level
+rise.
+The Hampton Roads Planning District has a low estimate of
+sea level rise indicating that approximately 59,000 residential
+homes in Hampton Roads will be permanently or regularly
+inundated by the end of the century, that's the low estimate.
+And the high estimate is 175,000 homes. Freddie Mac has
+estimated that the total losses to coastal real estate are
+``likely to be greater in total than those experienced during
+the housing crisis and Great Recession.''
+So, Ms. Kilgore, my understanding, my recollection from
+Mayor and Governor is our ability to get bonds to fund projects
+in Richmond were based on our ability to pay off the bonds, or
+based on our revenue base. That revenue base was primarily real
+estate property tax collection. Can you imagine a scenario
+where a metropolitan area of 1.6 million people would lose
+59,000 to 175,000 homes?
+Losing the real estate property tax attendant upon those
+dramatic numbers. How would that affect that region's ability
+to go into the bond market and get bonds to do projects
+necessary for quality of life in that metropolitan area?
+Ms. Kilgore. Thank you, Senator, for the question. Anytime
+with a major government I look at it as a very complicated
+recipe. And one day you have a little bit of eggs, you have a
+little bit of flour, and in each of those categories for our
+world it is revenue streams. And so, when things are a little
+bit tight you have to have an offset in another area. And a lot
+of the communication that I have with peers around the country,
+in large governments, all the way down to places where I grew
+up, is the fact that revenue base often dictates what folks can
+do.
+And so, for example, if you do have a tight, or even worse,
+downward trending revenue stream, revenue base, your capital
+plan is going to be very constrained. And so projects that are
+planning for several years out are going to fall victim to
+immediate, every single day needs, roads being repaved, things
+like that, which is why for me, it's so important that we have
+a menu of options, so that federal programs can come into play
+effectively to help get that last mile funding to keep things
+on track.
+Infrastructure, as you know, is an incredible multiplier,
+and will help regrow that community over time.
+Senator Kaine. And just using the example that I used about
+Hampton Roads, if even the low estimate occurs, and you see
+this shrinking of the residential real estate base and
+residential real estate values, the community will become more
+constrained on infrastructure investments at the very time
+where they might need more infrastructure investments to
+promote resilience against sea level rise.
+And last question really quickly, there may be outliers to
+this. I can think of a couple, but am I basically correct that
+for most cities and counties in the United States the real
+estate property collection is the most sizable revenue source?
+Ms. Kilgore. My suspicion is property taxes for most. For
+Ohio is the income tax, but yeah. There's certainly a number of
+ingredients across the country that support revenue streams.
+Senator Kaine. Great. Thank you. Thank you, Mr. Chair.
+Chairman Whitehouse. So quick, logistical interruption. I
+have been called to a meeting with Chairman Wyden, and I'm
+going to go attend that for a while. Senator Padilla has been
+kind enough to agree to take over chairing this hearing until I
+can return. Senator Johnson will be next to be recognized.
+Senator Johnson. Thank you, Mr. Chairman.
+Chairman Whitehouse. And I wish you all well until my
+return.
+STATEMENT OF SENATOR JOHNSON
+Senator Johnson. So, let me state at the outset I'm not a
+climate change denier. I'm just not a climate change alarmist.
+What I am is I'm a debt and deficit, U.S. federal government
+debt and deficit alarmist, and so I surely align myself with
+Dr. Leeper. Dr. Leeper, you're talking about the fact that the
+bond market has been weak for U.S. treasuries.
+As the Federal Reserve has been going in to, you know,
+going into the bond market floating debt, what is the cost to
+that debt? What is the interest rate they've been paying? On
+recent debt? I mean is there again, we have a different
+material levels through the government. Last year on public
+debt, the cost of that goes about 2.5 percent, correct?
+Dr. Leeper. Yeah, it's gone up.
+Senator Johnson. Did you know what the cost of our debt was
+in the last three decades of the last century? 70s, 80s and
+90s?
+Dr. Leeper. It was substantially lower. Is that what you're
+saying?
+Senator Johnson. I think it was substantially higher wasn't
+it?
+Dr. Leeper. I'm not sure what you mean by the cost?
+Senator Johnson. So the interest cost, the interest rate.
+Again, I want you to describe what a debt crisis is going to
+look like. As we become less and less credit worthy, as
+creditors look at the United States and say they may not pay
+this money back. I'm still loaning the money, but I'm going to
+ask for a higher interest rate.
+And I think that's--I don't think we've factored that into
+this discussion.
+Dr. Leeper. I think that's correct. And a debt crisis in
+the United States would first manifest as very high inflation.
+And the reason for that is because these bonds are denominated
+in dollars. And they're just a promise to repay in dollars. And
+if I think that when I get repaid in dollars, the dollars are
+going to buy fewer goods, then I want to get rid of those bonds
+today.
+And the way I do that is I go out and buy stuff, it raises
+inflation. And so that would be the first instance, I think.
+Senator Johnson. So again, we don't focus enough on the
+numbers here. Again, here we're talking about climate, we can
+do something about the bond market, which I think is not
+realistic. I agree with, you know, Dr. Kahn. Last fiscal year
+2022 our interest expense was $476 billion. Last year it's $659
+billion. A $183 billion increase, 30 percent increase.
+According to CBO, in 10 years that expense will be $1.44
+trillion. But again, that's an overall average interest rate of
+3.1 percent compared to 2.5 percent for last year. I'm not so
+sure 3.1 percent is a realistic rate. I think that will be way
+too low.
+In 10 years, according to CBO, I think they're low balling.
+This is rosy scenario. We're going to go from 600--we went from
+476 to 659. In 10 years according to CBO, $1.44 trillion and
+that's a low ball estimate, assuming a 3.1 percent interest
+rate. What could it be? What's realistic?
+And again, I'm looking at--I don't have the exact figures,
+but I saw one analysis that the last three decades of the last
+century as something with a 5.3 percent average interest
+expense on federal debt.
+Dr. Kahn. Yeah. And I think that the interest rate will
+follow the inflation rate, so if we start to see--this is why
+I'm worried that you cannot rely on the federal reserve alone
+to get inflation under control. It's as much a fiscal
+phenomenon as it is a monetary phenomenon.
+Senator Johnson. So again, if we were to go back, let's say
+the interest rate rolls to 5 percent, we would be looking at an
+interest expense of well over $2 trillion.
+Dr. Leeper. Exactly.
+Senator Johnson. That's what this Budget Committee ought to
+be focusing on. That's what we ought to be alarmed about, not
+about how something that you know I've entered into the record
+that there is no climate emergency. This 1,600 scientists, led
+by two Nobel Prize winning physicists declared, there's no
+climate emergency.
+We are spending, and by the way what will fuel that debt
+crisis is when we spend, according to Goldman Sachs, $1.2
+trillion on these green energy boondoggles that were passed in
+the Inflation Reduction Act, that will fuel that deficit. That
+will increase interest rates. Isn't that a concern?
+Dr. Leeper. I think that's a very serious concern.
+Senator Johnson. That's all I have. Thanks.
+Senator Padilla. Thank you. Senator Merkley is next.
+STATEMENT OF SENATOR MERKLEY
+Senator Merkley. Awe thank you, Mr. Chairman, and Dr.
+Hartshorn, we had in 2020 Labor Day fires that burned six of
+our towns to the ground, and did serious damage to six others.
+When other similarly situated towns look to issue a municipal
+bond, are they going to be having to essentially pay a lot
+higher interest rate as a result?
+Dr. Hartshorn. There is that possibility, depending on how
+the market perceives their risk relative to how the risk was
+for the given issuer and the given set of cities that you're
+actually talking about.
+Senator Merkley. Yeah.
+Dr. Hartshorn. It's one of the reasons why that dataset
+that we put together was valuable. It provided a levelized
+benchmark for to compare risks across all issuers.
+Senator Merkley. Well, it's just one example. If we look to
+California where there is much broader swaths of fire, or New
+Mexico, I cannot imagine the market does not look pretty
+carefully at the towns situated in those increased fire risk
+zones. We can pretend that nothing's changing, but the facts
+are otherwise.
+I want to turn, Ms. Kilgore, to the fact that you had
+mentioned the idea of broadening the definition of municipal
+bond tax exemption for projects that reach certain climate
+metrics. Can you give a little example of what that might look
+like?
+Ms. Kilgore. Certainly. Thank you for the question,
+Senator. My recommendation is when you're looking at
+governments across the country, I ask myself two questions. Are
+they motivated? And are they able? And, I have had a number of
+conversations with local governments who are very motivated to
+try and move projects forward, but they lack either technical
+capacity, you know, internal human capacity, or perhaps the
+opportunity because of constrained revenue sources, to be able
+to get projects funded in their respective capital plans.
+So looking creatively to try and help them with the tools
+necessary to get those projects moving forward, and opening up
+some awareness, opportunities, incentivization, investor
+interest, et cetera, sir.
+Senator Merkley. Okay. But let me be a little more
+specific. What type of metric are we talking about? For
+example, if a city says we want to take all of our municipal
+buildings and convert them to heat pumps, and can buy renewable
+energy to power those heat pumps, having a significant decrease
+in carbon dioxide, would that be something like an example of a
+metric, like reductions in carbon dioxide that would be used to
+create such a category?
+Ms. Kilgore. Absolutely. And I think there is a good,
+perhaps bedrock of prior examples with water and sewer efforts
+across the country to mimic.
+Senator Merkley. Okay. Mr. Doe, so in the City of
+Stillwater, Oklahoma, borrowed money to do water projects. And
+their low-cost provider of the lending was Bank of America. But
+it turned down Bank of America because Bank of America has an
+ESG policy. And the result is they are paying $1.2 million more
+to finance the loan with the next highest bidder.
+What does such an ESG policy achieve for the town of
+Stillwater, other than paying more, delivering less?
+Mr. Doe. Well, the ESG, thanks for the question, but the
+ESG policies and the whole issues around that certainly has
+become politically weaponized, and what is has is kind of
+obfuscated the responses of the kind of responsible responses
+to funding projects to mitigate climate risk, or adaptation
+risk.
+So, to your point, is that yes, I mean that penalty that we
+are seeing in Oklahoma, we are seeing in Texas as well, is it
+that has been unfortunate. When the market though has responded
+in many cases, and again I can't remember the specifics about
+what the market conditions at the Stillwater issue, but that
+those bankers that have been--they eliminated from being able
+to underwrite a deal, have been replaced by other firms, and in
+some cases there has not been any negative impact at all.
+Senator Merkley. Yeah. Sometimes there is though, as there
+was in that case, and if I was a citizen of that town I'd be
+kind of frustrated that we're paying more for less, especially
+because Bank of America is financing fossil projects. It is not
+like they are not willing to be in that space.
+I want to turn--well no, I'm down to six seconds, so I will
+turn it back over to the Chair.
+Senator Padilla. Thank you Senator Merkley. Senator Kennedy
+is up next.
+STATEMENT OF SENATOR KENNEDY
+Senator Kennedy. Thank you, Mr. Chairman. Mr. Doe, as I
+understand your testimony, you are saying that at some point
+climate change is going to cause municipal bonds to default. Is
+that right?
+Mr. Doe. No. I would say that they will be under pressure
+just because of there being increased budgetary concerns.
+Senator Kennedy. Well, can they withstand that pressure?
+Mr. Doe. I think so.
+Senator Kennedy. Then what is the problem?
+Mr. Doe. The problem is that there might be a higher
+interest rate if there are issues that are not addressed by
+state and local governments. That if because of let us just say
+in anticipation of extreme weather events, that----
+Senator Kennedy. So, you are worried that the interest
+rates will go up?
+Mr. Doe. Yes.
+Senator Kennedy. Okay. I looked on your website. You say,
+and I quote. I am quoting now, ``contribution to the municipal
+industry has been extensive as an analyst, strategist, and
+visionary of the industry's future.'' So, I want to tap your
+visionary expertise. At what point do you think climate change
+is going to cause interest rates on municipal bonds to rise to
+the point that they will--the interest rates will be
+prohibitive? When will all this happen?
+Mr. Doe. Well, I'll dust my crystal ball off, if I perhaps
+I think in 10 to 20 years.
+Senator Kennedy. 10 to 20 years. Okay. What do you think we
+ought to do about it?
+Mr. Doe. I think we ought to be able to identify where
+infrastructure is most vulnerable to weather events, and that
+infrastructure is then--appropriate dollars are used to
+modernize infrastructure. For example, in the town of
+Marshfield----
+Senator Kennedy. I want to cut you off because I don't have
+too much time.
+Mr. Doe. Sure.
+Senator Kennedy. Do you think we ought to spend money?
+Mr. Doe. Wisely and appropriately.
+Senator Kennedy. Okay. Sure. Well, nobody around here ever
+stands up and says I have got a good idea, and I need to spend
+money unwisely and inappropriately.
+Mr. Doe. Correct.
+Senator Kennedy. You understand that?
+Mr. Doe. I do.
+Senator Kennedy. Okay. Do you support the world becoming
+carbon neutral by 2050? Would that solve? Do you support that?
+Mr. Doe. I don't think that's a reasonable expectation.
+Senator Kennedy. Yeah. But if it were, do you support it?
+Mr. Doe. It doesn't seem like it's a bad thing.
+Senator Kennedy. Okay. Do you support the United States
+becoming carbon neutral by 2050?
+Mr. Doe. This may not be possible.
+Senator Kennedy. But do you support it?
+Mr. Doe. If it were the right mix of power and energy in
+order to provide electricity that is needed for essential
+needs.
+Senator Kennedy. Well, you do understand that that is the
+goal of the most ardent proponents of climate change, do you
+not?
+Mr. Doe. I do understand that.
+Senator Kennedy. Okay. How much will that cost?
+Mr. Doe. I couldn't give a figure to that because it is
+outside my area of expertise.
+Senator Kennedy. Do you think we ought to just start
+spending money without an understanding of how much it is going
+to cost?
+Mr. Doe. I don't think that's ever wise.
+Senator Kennedy. Okay. Well, don't you think we ought to
+look into how much it is going to cost?
+Mr. Doe. Again, that's around that area, that's not an area
+of expertise. I am really focused on addressing the updating of
+infrastructure for our state and local governments.
+Senator Kennedy. You don't seem to have very many
+solutions, except what I take away from your testimony is that
+climate change is going to cause interest rates to rise on
+municipal bonds, so at some point the cost will become
+prohibitive, and we need to spend money on infrastructure to
+stop it. Where do you think this money will--should come from?
+Mr. Doe. I think state and local governments have the
+capacity to borrow because the rates are significantly low, and
+there is an opportunity now to do so and be proactive.
+Senator Kennedy. So, you think state and local governments
+ought to borrow the money?
+Mr. Doe. I do. I think they have the capacity to do so.
+Senator Kennedy. Just out of curiosity, what kind of car do
+you drive?
+Mr. Doe. I drive a Jeep Wagoneer.
+Senator Kennedy. Is it gas or electric?
+Mr. Doe. It's gas.
+Senator Kennedy. Okay. Do you have a gas stove?
+Mr. Doe. I do not.
+Senator Kennedy. Okay. Do you have a heat pump?
+Mr. Doe. I do not.
+Senator Kennedy. You don't?
+Mr. Doe. I do not.
+Senator Kennedy. Oh. Okay. How big a house do you live in?
+Mr. Doe. I live in a condominium 853 square feet.
+Senator Kennedy. Okay. I'm over. Thank you, Mr. Chairman.
+STATEMENT OF SENATOR PADILLA
+Senator Padilla. Thank you, Senator Kennedy. It is actually
+my opportunity to ask questions, and I will be followed by
+Senator Braun. Good morning, and thank you to all the witnesses
+for your participation today. I am proud to represent
+California. I know you are familiar with the most populous and
+diverse state in the nation, and it has been a leader on
+climate policy across the board.
+And in recent years, the urgency has been inspired by 2018,
+when the campfire devastated the town of Paradise, California,
+burning 95 percent of its structures, and claiming 85 lives. I
+know Senator Whitehouse touched on some of this dynamic earlier
+in the hearing, but despite federal assistance in the aftermath
+of the fire, the town has struggled to rebuild, with only \1/3\
+of the residents that lived there prior to the disaster
+returning.
+This has decimated the local economy, as you can imagine.
+If you go to the tax base, and a dynamic similar to what
+Senator Kaine was talking about in his questions, it has
+resulted in the inability of the Town of Paradise to meet its
+financial obligations on previously issued municipal bonds.
+Right? The revenue is just not there at the moment. This
+type of systemic risk--financial risk, extends beyond
+wildfires, and has the potential to affect drought-stricken
+towns, heat-prone communities, or high-flood-risk areas across
+the country, all which have the potential to disproportionately
+impact both agricultural regions, as well as historically
+underserved communities.
+My question is for Mr. Doe. How can the federal government
+improve support to communities like Paradise to ensure that
+bond obligations are met, while also ensuring they have the
+ability to issue future bonds in the process of rebuilding and
+economic recovery?
+Mr. Doe. I think there are two ways. One is regarding the
+federal government. I think it is making it a priority for
+issuers of debt that are exposed to climate risk to disclose
+them appropriately. I think the second thing is that that way
+you are signaling to investors, and to the broader community of
+where there is area at risk, and that there are plans that are
+being made by those state and local governments to address
+those risks so that they are--when the federal government comes
+in after a disaster, the federal government is aware that those
+state and local governments have taken proactive action.
+The second thing is that I think the federal government's
+big role here is to assure that issuers, the state and local
+governments, that the tax exemption is secure, and that that
+will continue onward and be an important part of the financing
+effort, so that state and local governments can plan with
+confidence and assurance that there will be low interest rates
+going forward.
+Senator Padilla. Thank you. I know earlier in the hearing
+there was a suggestion that part of addressing the longer term
+challenges ensuring that local jurisdictions are doing the
+appropriate planning, or thinking ahead if you will. Now,
+municipal bonds can play an important role in funding capital
+projects that mitigate climate related risks.
+However, the up front costs of sustainable development
+projects are often substantial. This can leave ``grain
+projects'' out of reach for rural or underserved communities,
+limiting their ability to reduce their vulnerability to climate
+hazards, and it relies on federal dollars.
+A question for Ms. Kilgore. Do you agree that the average
+cost differential for climate adaptation projects can at times
+be a significant burden for some communities? And how does the
+federal government help bridge the gap for underserved and
+vulnerable communities through the Infrastructure Bill or the
+Inflation Reduction Act?
+Ms. Kilgore. Thank you, Senator. I think that sometimes we
+have to separate out infrastructure that is climate oriented
+from just the simple word ``infrastructure.'' For us,
+oftentimes our infrastructure today is inclusive of the
+technologies, or the materials necessary to plan for the
+future.
+For us, we do have a technical bench of experts to help us,
+and so when I'm talking to local communities, smaller
+communities, a lot of times it's that basic knowledge,
+awareness, education, in the tools to go about successfully
+employing those different loans.
+That is the piece that in my head is the sweet spot where
+we, as a federal--asking for your support to lean on there.
+Senator Padilla. Is there any additional steps you would
+recommend that Congress take to incentivize some of the
+infrastructure spot projects that are specifically geared
+towards changing weather patterns, or changing climate,
+frankly?
+Ms. Kilgore. I think you said earlier the most beautiful
+thing about our democracy is state sovereignty; one size fits
+all rarely works. And so, my sincere request would be to do a
+really good analysis, and have a data lake if you will,
+understand the governments across our country, where they are
+accessing funding. What their risks are at this time, and
+because until then I don't have an effective answer. I will
+just say from X percent you are going to be able to grow these
+types of projects because we don't have right now a holistic
+viewpoint as to where everyone is in the Nation.
+Senator Padilla. Thank you. Senator Braun.
+STATEMENT OF SENATOR BRAUN
+Senator Braun. Thank you. You know it has been an
+interesting discussion. We have heard systemic. We have heard
+I'd like to put an existential along with it, what the thread
+is currently. I want to give you a few givens. I come from the
+world of finance. This place, not hardly anyone has had finance
+101, or understands the macroeconomics.
+And I think the proof is in the pudding. Dr. Leeper has
+talked about a little bit of that. So, in 2000, that's when
+Bush took office, we were $5 trillion in debt. So, cumulative
+up to that point, $5 trillion. Put two R's on the credit card,
+we're at $10 trillion. Obama comes in.
+So from there to 2016, we added $6 trillion more. We're at
+$16 trillion in 2016. You had the Coronavirus Aid, Relief, and
+Economic Security Act (CARES) and COVID and structural trillion
+dollar deficits annually, so we are about $26 to $27 at the end
+of the Trump years, but never now have we been at the level of
+where our deficits are close to 5 to 6 percent of our GDP,
+outside of a reason that would have driven it there.
+World War II, savers, investors, we paid it off. Now we're
+consumers and spenders by nature, and this is the worst place
+of all that. Have not done a budget in over 20 years, okay. And
+we have tried to do it in fix and spurts where you had some
+discipline in there. We unravel it almost as soon as we do it.
+Biden has put us out there with a budget. The only place it
+is publicly out there, $42 trillion in debt in 5 years, $52
+trillion, in 10 years. Now, I want to go to Mr. Doe. What is
+more of an existential threat, 10 to 20 years where climate
+might drive up interest rates, which you just told Senator
+Kennedy, or the behavior of this institution that I think you
+can extrapolate very easily what's going to be the driver of
+interest rates.
+What do you fear more? Which is more inexorable? Which is
+more kind of hypothetical?
+Mr. Doe. There is no question you have touched on a key
+issue in terms of the federal deficit and the borrowing that
+has placed a great deal of risk on the entire U.S. economy, if
+not the globe. I think one thing I will say about the municipal
+bond market is that it has been interesting over the last 20
+years the average issuance has remained steady at $400 billion.
+I think it is a real credit to state and local governments
+that even though they had the borrowing capability, that they
+have shown some restraint, but to come back to your point is I
+don't disagree with you.
+Senator Braun. So, you feel more comfortable really, with
+state and localities to probably navigate through whatever we
+do invest in infrastructure, as opposed to this place that will
+be borrowed from our kids and grandkids.
+Mr. Doe. I do.
+Senator Braun. That's good to know. You know, the other
+thing when you look at the reality of this place, you go back
+over 50 years, we have never been able to tease out more than
+about 17.5 percent in federal revenues of our GDP. I said
+earlier that is now up to a deficit of 5 to 6 percent since we
+have had Bidenomics.
+I want to ask Dr. Leeper this question. When it comes to
+the arithmetic we know that the climate issue is somewhat a
+bird in the bush in terms of what the financial cost is going
+to be. Mr. Doe has just said that. How quantifiable is it in
+terms of this current trajectory of borrowing and spending the
+modern monetary theory?
+Where does that take our country, future generations, at
+this current pace?
+Dr. Leeper. Thank you very much for the question. One thing
+I would like to say is that these trajectories that say the
+Congressional Budget Office regularly produces with
+exponentially growing debt as a share of GDP, are things that
+can't happen.
+And the reason they can't happen is because people are not
+going to be willing to absorb all of that debt. The price of
+that debt is going to get driven down, just as has been
+discussed about munis. Interest rates are going to take off.
+Inflation is going to take off.
+Senator Braun. So, we will be saddled with almost an
+unbearable interest cost along the way driving by the behavior
+and actions of the federal government in a nutshell?
+Dr. Leeper. Exactly. Yes.
+Senator Braun. And I think that is why it begs the question
+in this Committee, the Budget Committee. Shouldn't we be
+attending to that? And I can tell you in the 5 years I have
+been here, Chairman Enzi, who was a Certified Public Accountant
+(CPA) from Wyoming, attempted to do some of this discussion.
+It was too uncomfortable. He didn't do it.
+And I have just cited I think the last balanced budget was
+with the Clinton administration and Newt Gingrich, back in the
+late 90s. The easiest thing, the chip shot for this place,
+ought to be to just do a budget, quit borrowing from our kids
+and grandkids, and all of this gets mitigated, whether you are
+dealing with climate, or any other issue that might confront
+the federal government.
+And it sounds like everyone is more comfortable with
+actually more action being done by the states where there is
+responsibility, where there is budgeting, than there would be
+with this outfit. Everybody there, would you raise your hand if
+you think that makes sense? 3 out of 5 is not bad. Thank you.
+Senator Padilla. Thank you Senator Braun. Seeing no
+additional Senators here asking questions, we'll begin to bring
+this hearing to a close. I want to certainly thank the
+witnesses again for appearing before the Committee today. Their
+full, written statements will be included for the record.
+And as information for all Senators, questions for the
+record will be due by 12:00 noon tomorrow, with the signed,
+hard copies delivered to the Committee Clerk in Dirksen in 624.
+Copies delivered via email will also be accepted. We ask that
+the witnesses respectfully respond to our questions within 7
+days of receiving them. And with no further business before the
+Committee today, this hearing is adjourned.
+[Whereupon, at 11:31 a.m., Wednesday, January 10, 2024 the
+hearing was adjourned.]
+

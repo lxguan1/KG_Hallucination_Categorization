@@ -1,1 +1,1616 @@
-WHITE HOUSE OVERREACH ON AI ---------- Thursday, March 21, 2024 U.S. House of Representatives Committee on Oversight and Accountability Subcommittee on Cybersecurity, Information Technology, and Government Innovation Washington, D.C. The Subcommittee met, pursuant to notice, at 10:04 a.m., in room 2154, Rayburn House Office Building, Hon. Nancy Mace  presiding. Present: Representatives Mace, Timmons, Burchett, Burlison, Connolly, Lynch, and Pressley. Ms. Mace. Good morning, everyone. The Subcommittee on Cybersecurity, Information Technology, and Government Innovation will come to order. Welcome, everyone. Without objection, the Chair may declare a recess at any time. I would like to now ask unanimous consent for Representative Don Beyer from Virginia to be waived on to the Subcommittee for today's hearing for the purpose of asking questions. So, without objection, so ordered. I will now recognize myself for the purpose of making an opening statement. Good morning. Turn that frown upside down. It is going to be OK. Last October 30, the White House released a monumentally lengthy executive order on artificial intelligence, and the EO is not just long, it is broad. It corrals dozens of Federal agencies into a massive posse that is to go out and ride herd on every aspect of this emerging technology. But why the stampede? We are only just starting to grasp how AI can help and also harm humanity. That is why Congress is moving cautiously in this space. We already have a plethora of laws in which AI uses are subject, ranging from anti-discrimination to consumer protection statutes, and unnecessary new laws could stifle AI innovation, slowing the arrival of life-enhancing and lifesaving breakthroughs. Not to mention, we do not want China on our heels, and we do not want to stifle innovation for the private sector or for our government agencies, especially in defense. That is why Congress is proceeding with a measured first do no harm approach. Where AI applications are not captured under an existing law, we need to close these loopholes. That is why I introduced a bill recently to ensure the distribution of nonconsensual pornography is not immune from criminal prosecution just because it has been altered via an AI deepfake process. But Congress wisely has not authorized the Administration to go out and regulate AI differently than other technologies. But this executive order does so anyway and invokes the emergency powers of the Defense Production Act, or DPA, to require AI developers to notify the government if they are even considering developing new AI systems. It also mandates they regularly hand over highly sensitive proprietary data, like testing results, to the Commerce Department. What does this have to do with defense production? The DPA gives the President extraordinary powers to ensure the supply of critical goods in time of war or national emergency, but we are not at war today, and if artificial intelligence is an emergency, it is not a temporary one. AI is not going to go away anytime soon, so the new executive powers this EO asserts have no logical sunset. The bottom line is that this use of the DPA appears to be executive overreach and, quite frankly, illegal. That is the view of the attorneys general of 20 states, including my own home state of South Carolina. These AGs last month wrote a letter to the Commerce Secretary that argued the reporting regime in the EO lacks legal authority because the DPA allows for the Federal Government to promote and prioritize production, not to gatekeep and regulate emerging technologies. I want to thank my Attorney General, Alan Wilson, for stepping up to the plate and being a part of this letter. What is more, the gatekeeping in this EO seems more likely to harm than help our national defense. What is the biggest national security concern around AI? It is the risk that we relinquish our current lead in AI to China, and that could have catastrophic implications for our military preparedness. But requiring potential new AI developers to share critical data about their most valuable assets with the government could scare away would-be innovators and impede more ChatGPT-type breakthroughs. Not only that, but they might take their technology elsewhere, and we want the best AI developers, the best AI programmers, the best AI tech right here in the United States. Also, how will the government protect that data it gets from AI firms? The EO could risk national security by mandating the creation of what Brookings Institution fellow, John Villasenor, calls a target list for any geopolitical adversary that might want to engage in cyber espionage or launch a large- scale cyberattack on U.S. AI computing infrastructure. He notes the government's poor record of preventing the exfiltration of data from Federal computer systems by malicious actors, including foreign enemies. To be clear, the government does need to be proactive with respect to artificial intelligence. The executive branch needs to harness AI to strengthen national defense, bolster homeland security, and improve the administration of benefit programs. That is why I am glad that the EO contains numerous provisions to strengthen the government's own AI workforce and to enhance the government's ability to contract with private sector AI providers. But as the rubber hits the road on this EO, with the implementation deadlines already having begun to kick in, I look forward to hearing from our panelists today about where they believe it exceeds the President's legitimate authority and where it could impede American innovation. With that, I will now yield to Ranking Member Connolly for his opening statement. Mr. Connolly. Thank you. AI helps doctors optimize medical treatments, scientists predict potential natural disasters, and Federal workers manage water supplies, and yet we know very well every scientific and technological advancement comes with its own risks. The Biden-Harris executive order on AI, the first of its kind ever, elegantly balances innovation with equity and potential with pragmatism. AI has already demonstrated massive and consequential effects on workforces and economies around the globe. The Biden-Harris executive order sets America on a path to lead the world in ethical, equitable, and transparent use of AI. As we enter the second hearing exploring the Biden-Harris EO, it is good to remember what our previous witnesses testified unanimously. One Republican witness, ``The AI executive order and OMB memo are important steps that focused on AI safety, investment, talent, and leadership, and are critical for America to lead in AI innovation and governance, but the executive branch cannot achieve this goal fully without Congress.'' Another Republican Majority witness: ``In sum, the AI executive order and OMB memo have taken a big first step, but it is only one step in a longer journey. Congress must now kick in.'' Another: ``The executive order recognizes the importance of the AI Risk Management Framework developed by the National Institute of Standards and Technology. We encourage the Administration to ensure that framework anchors the government's risk management efforts.'' These quotes all come from Majority-picked witnesses and agree that the Biden-Harris executive order promotes safe and responsible AI and puts us on the right path for a strong AI future in the United States, but they also recognize Congress has more work to do. Just last week, we had a hearing on deepfakes and learned how some AI training data sets contain known images of child sex abuse materials. As a result, some AI models trained off this data can further perpetuate the creation of additional terrible and shocking content. This example is just one way AI technology can cause harm when we allow it to go unregulated and unchecked. So, how should we respond? As we have noted, the Biden- Harris EO initiated a whole-of-government approach and private sector involvement to establish the United States as a global leader in ethical AI. Within the Federal Government, the EO directed more than 50 Federal agencies to take more than 100 different actions to guarantee responsible Federal use in the over 700 use cases already implemented across 24 Federal agencies. Every agency should now have a designated chief AI officer and internal AI governance board, which should work cohesively and collaboratively to manage the risks of AI while prudently removing barriers to innovation. In addition to the EO, President Biden established a Blueprint for an AI Bill of Rights to guide equitable uses of AI across the public and private sectors. It was another key step to ensure that every new technology comes with guarantees of civil rights, civil liberties, privacy, and equal opportunity. The blueprint also included private industry input from companies like Amazon, Anthropic, Google, Inflection, Microsoft, and OpenAI, each of whom committed to strengthening safety, security, and transparency as they proceed to innovate new AI algorithms and explore potential use cases for the technology. As the Federal Government continues to explore AI, we should look to partner with private sector partners to foster continued innovation and adoption of a secure and trustworthy AI. I plan to introduce a bill that responsibly accelerates the use of AI by our civil servants who are entrusted with carrying out our public-facing agencies' missions. AI must empower workers, not replace them. We can achieve this future if we build a robust educational foundation and one that benefits both government and the private sector. Congress must invest in programs that educate and train the next generation of skilled AI workers, which the Chair has just mentioned, and they need to thrive in the tech economy. Both the private and public sectors will need digital native workers who are steeped in the practices needed to put appropriate guardrails in place to help AI achieve its goals. Some of my colleagues and witnesses here today will say that regulation limits innovation and stifles growth. It can, but let me remind you of what our previous witness, Dr. Rumman Chowdhury, a Responsible AI fellow at Harvard, said, ``Brakes help you drive faster.'' This country has a strong history of creating rules of the road for innovative industries in ways that catalyze growth and foster trust in consumers. We look forward to exploring how best we can achieve that balance, and I look forward to today's hearing. Thank you. Ms. Mace. Thank you, Mr. Connolly. I am pleased to introduce our witnesses for today's hearing. Our first witness is Mr. Adam Thierer, Senior Fellow for the technology and innovation team at the R Street Institute. Our second witness is Ms. Jennifer Huddleston, Technology Policy Research Fellow at the Cato Institute. Our third witness is Mr. Neil Chilson, head of the AI policy at the Abundance Institute, and our fourth witness today is Dr. Nicol Turner Lee, Senior Fellow for Governance Studies and Director of the Center for Technology Innovation at Brookings Institution. Welcome, everyone. We are pleased to have you this morning. Pursuant to Committee Rule 9(g), the witnesses will please stand and raise their right hands. This is where it gets real. Do you solemnly swear or affirm that the testimony that you are about to give is the truth, the whole truth, and nothing but the truth, so help you God?  Ms. Mace. Let the record show the witnesses all answered in the affirmative. We appreciate all of you being here today and look forward to your testimony. I would like to remind the witnesses we have read your written statements, and they will appear in full in the hearing record. Please limit your oral arguments this morning to 5 minutes. As a reminder, please press the button on the microphone in front of you so that it is on, and the Members can hear you. When you begin to speak, the light in front of you will turn green. After 4 minutes, the light will turn yellow. When the red light comes up, your 5 minutes has expired, and we would ask that you please wrap up. So, I will now recognize Mr. Thierer to please begin your opening statement. STATEMENT OF ADAM THIERER RESIDENT SENIOR FELLOW, TECHNOLOGY AND INNOVATION R STREET INSTITUTE Mr. Thierer. Thank you. Chairwoman Mace, Ranking Member Connolly, and Members of the Subcommittee, thank you for holding this hearing and for the invitation to appear before you. My name is Adam Thierer, and I am a Senior Fellow at the R Street Institute where I focus on emerging technology issues. I also recently served as Commissioner for the U.S. Chamber of Commerce Commission on Artificial Intelligence, Competitiveness, Inclusion, and Innovation. My message here today boils down to three main points. First, it is important to recall the foundational principles behind the bipartisan National Framework for Digital Commerce that Congress and the Clinton Administration crafted a quarter century ago. Freedom to innovate was made America's policy default. Lawmakers rejected the inefficient, old regulatory models of the analog era, which constrained entrepreneurialism and competition. We allowed new digital technologies to be born free and to flourish without excessive micromanagement, and then we used ongoing multistakeholder efforts and flexible regulatory responses to address concerns. Europe took the opposite path, and today, heavy-handed technocratic mandates have ``regulated its way to last place,'' as a recent Wall Street Journal headline observed. In fact, 18 of the 25 largest digital technology companies in the world today are U.S. based, while it is difficult to name any that are headquartered in Europe. While some people have concerns about large technology companies today, we should agree that it is better that these firms are primarily based here in the United States instead of China, Europe, or other countries or continents. Further, there is a second point about the connection between AI policy and broader national objectives. A strong digital technology base is an important source of strength and prosperity, so it is essential that our Nation not shoot itself in the foot as the next great technological race gets underway with China and the rest of the world. Consider this scenario. When OpenAI launched ChatGPT in late 2022, it quickly became the most rapidly adopted digital technology in history, and competing U.S. services from U.S. developers followed quickly. Had a Chinese operator launched a major generative AI model first, it would have been a Sputnik moment for America. Luckily, it is instead foreign nations who are today left scratching their heads, wondering how America once again raced ahead of them on digital technology. Wise policy choices not only strengthen our economy and provide better products and jobs, but also bolster our national security and allow our values to shape information technology platforms and markets globally. We need a national AI policy that is flexible and pro-innovation to make sure our firms, workers, and values continue to lead the world in this fashion. This brings me to the Biden Administration's October executive order. This wide-ranging, 100-plus page directive has been praised by some as a logical response to congressional inaction on AI, but many others have rightly noted that it stretches executive authority over emerging technology well beyond statutory limits and raises the danger of overregulation. For example, the order flips the Defense Production Act on its head and converts a 1950's law, meant to encourage production, into an expansive regulatory edict intended to curtail some forms of algorithmic innovation. Twenty state attorneys general recently filed a letter with the Department of Commerce noting how the order is ``about regulating technological development, not about encouraging the production of anything,'' and also objecting to its effort to ``centralize government control over an emerging technology being developed by the private sector.'' The order also contains open-ended language about taking steps to combat algorithmic discrimination and pushes the Federal Trade Commission to get more aggressive in policing the AI marketplace. These steps open the door to a new regulatory regime for AI without any express authority from Congress. While other provisions of the order are more reasonable, Congress still needs to reassert itself to ensure that administrative overreach is curtailed and that agencies adhere to the Constitution and their congressionally delegated powers. Instead of these arbitrary, excessive mandates, Congress needs to craft an AI policy vision that does four things: first, it is rooted in a flexible, risk-based framework that relies more on ongoing, multistakeholder negotiations and evolutionary standards that are more closely matched to rapidly changing algorithmic technologies; second, which builds on existing government powers on a sectoral basis instead of trying to develop an entirely new regulatory superstructure for AI; third, which preempts state and local government AI laws that create confusing patchworks of conflicting mandates; and fourth and most importantly, gives algorithmic entrepreneurs a green light and avoids treating AI services as guilty until proven innocent as the executive order does. In sum, our Nation must create a positive innovation culture and avoid trapping our AI innovators in a regulatory cage if we hope to prosper economically and ensure a safer, more secure technological base. It is essential that we strike the right policy balance as we face serious competition from China and other nations who are looking to counter America's early lead in computational systems and data-driven technologies. Thank you for holding this hearing and thank you for the consideration of my views. I look forward to any questions you may have. Ms. Mace. Thank you. I now recognize Ms. Huddleston to begin her opening statement. JENNIFER HUDDLESTON TECHNOLOGY POLICY RESEARCH FELLOW CATO INSTITUTE Ms. Huddleston. Thank you, Chair Mace, Ranking Member Connolly, and distinguished Members of the Committee on Oversight and Accountability Subcommittee on Cybersecurity, Information Technology, and Innovation. My name is Jennifer Huddleston, and I am a Technology Policy Research Fellow at the Cato Institute, where my research focuses primarily on the intersection of law and technologies, including issues related to the governance of emerging technologies, such as artificial intelligence, better known as AI. Therefore, I welcome the opportunity to testify today regarding the recent AI executive order issued by the Biden Administration. In this testimony, I seek to focus on two key points: first, how the AI EO represents a significant shift in the U.S. approach to AI policy and to technology policy in general; and second, how the AI EO raises concerns about appropriate separation of powers at a time when Congress is debating the most sensible policy framework to consider for governing AI. To begin with, the AI EO represents a significant shift from a more permissionless approach to general purpose technology and technology policy in general, to a more permissioned or precautionary approach, such as those more commonly found in Europe. While much of the conversation around AI has been recently focused on the generative AI products like ChatGPT or DALL-E that became popular with consumers in late 2022, AI and machine learning has been part of our lives for far longer than many of us may realize. From tools that help detect potential credit card fraud, to our talk-to-text or autocompletes on our phones, to various things that help make us find better and faster search results, we have all been using artificial intelligence far longer than we may realize. AI is helping fight wildfires and enabling stroke victims to speak again, and it is estimated that AI could increase productivity by 1.5 percent per year and global GDP by $7 trillion over the next decade. All of this is to say, while much of the conversation is focused on the potential harms of AI, we should not forget the benefits as well. In fact, not all uses of AI can be predicted. As we have seen with the internet, one of the things that really allowed the U.S. to flourish and one of the reasons why the light touch approach gave rise to so many of the wonderful products that we have today, is that consumers and innovators were able to decide what products were the best applications, not government bureaucrats. While the AI EO may be the most significant AI policy that we have seen at an executive level, it is not the first executive that has mentioned AI. In fact, both the Trump Administration and the Biden Administration had comments on AI and the importance that it may serve for economic growth and its valuable tool in the future. Notably, the Biden Administration's executive order looks less favorably on the potential for a less regulatory approach to this technology, and it suggests that there is a case for action amongst agencies. It nudges agencies in a do-something direction more so than prior administrations, particularly in its invocation of the Defense Production Act. This brings me to the second point today. The AI EO should raise significant concerns about appropriate separation of powers. Not only does this represent a change in the overall approach to technology, it occurs at a time when Congress is actively debating this issue and it occurs by executive order, while we have seen many committees, including today's hearing, on a wide range of topics in both the House and the Senate, consider whether or not a further regulatory framework for AI is necessary. The most notable example of this is the AI EO's use of the Defense Production Act to justify its provisions. This law was originally designed to provide the executive with authority to meet a national security cris, but the AI EO evokes the Defense Production Act, not to respond to such a crisis, but, rather, to require innovators of AI products, deemed high risk, notify the government and submit to government-run red teaming regarding the potential risk of their innovation. This executive overreach cannot be presumed to have occurred because there is a need for immediate action or because there is a lack of attention on Congress' part, and the powers that it passes on to the administrative state should be considered carefully by Congress. As we know, once power is given to the administrative state, it is unlikely to be returned. The United States' light touch approach to the internet helped enabled its global leadership and realize the economic potential of this technology in the past years. This has benefited both consumers and innovators and entrepreneurs. As we encounter our next disruptive technology era with AI, we must consider not only the risk, but also the benefits of such technology, many of which we may be unable to predict. The United States has a chance to distinguish itself from more regulatory approaches once again and embrace an approach that allows consumers and innovators to use technology to find creative solutions to problems and needs. I thank you for this opportunity to testify before you, and I welcome your questions. Ms. Mace. Thank you. I now recognize Mr. Chilson to begin your opening statement. STATEMENT OF NEIL CHILSON HEAD OF AI POLICY THE ABUNDANCE INSTITUTE Mr. Chilson. Chair Mace, Ranking Member Connolly, and Subcommittee Members, good morning. I am Neil Chilson, the head of AI policy at the Abundance Institute. The Abundance Institute is a mission-driven, nonprofit (c)(3) dedicated to fostering widespread human prosperity by creating an environment where emerging technologies, including AI, can thrive. Thank you for having me here today to talk about the executive order on artificial intelligence. The artificial intelligence EO, as noted by the Chair, is long. In fact, it is the longest regulatory EO in history. According to data from the American Presidency Project, the AI EO is 88 times longer than the median executive order. By the numbers, it is the third longest executive order in American history, but the two EOs that are longer are a 1951 executive order containing the entire manual for the military court martial procedures and a 1980 EO revising that manual. The AI EO is also unusually regulatory because it directs actions by dozens of agencies and Federal officials. It mandates 136 different deliverables, such as reports, guidance documents, and dozens of new projects, processes, and plans. In short, the AI executive order is unprecedented. Our country's history includes many dramatic developments, including civil war, mass industrialization, two world wars, globalization, and global pandemics, yet no President has ever issued such a long and detailed executive order to reorient the Federal Government on a policy issue. The executive order will generate sweeping activity across the Federal Government, redirecting at least tens of millions of tax dollars and hundreds of thousands of hours of government effort. Some of that activity will be productive and appropriate, particularly where it focuses on the government's own use of AI, but the executive order overreaches in at least two ways. First, the President lacks the authority to impose the executive order's Section 4.2's obligations on private companies. The executive order claims authority under the Defense Production Act, which is a Korean War-era law intended to reduce one very specific type of national security risk-- threats to ``the ability of the domestic industrial base to supply materials and services that are needed for national defense and disaster recovery.'' But the DPA does not authorize Section 4.2 for three reasons. First, there is no threat to the ability of the domestic industrial base to supply AI capabilities. The U.S. leads the world in supplying AI capabilities. Indeed, the White House, if anything, seems concerned with an oversupply of AI capabilities. As the EO itself notes, AI capabilities are advancing at rapid speed. Second, even if there were such a threat, Section 4.2 will not increase production of AI capability. Section 4.2 surveils an entire industry segment for various potential risks unrelated to production. The only production Section 4.2 will promote will be the production of highly sensitive commercial and cybersecurity information from companies to the government. Third, and most fundamentally, the DPA simply cannot shortcut the constitutionally established method of democratic lawmaking in the U.S. As we have heard, Congress is actively considering 28 AI-related bills. The DPA does not empower the President to skip ahead of Congress on this. The EO overreaches in a second way. The executive order's definition of ``artificial intelligence'' is so broad that it covers common everyday software, from social media content moderation algorithms, to insurance models, to common consumer and business financial tools. This broad definition means that many of the regulatory actions spurred by the executive order could apply not just to AI companies, but to any software developer in industries, such as transportation, education, healthcare, or energy. Even were it desirable to revise the U.S.'s highly successful approach to software regulation, doing so through a Presidential executive order is inappropriate. Such a change deserves to be considered, refined, and decided by Congress. In conclusion, the executive order could have focused on establishing a positive vision for a future of AI while protecting civil rights from government misuse of these technologies. Instead, it usurps Congress, abusing the DPA to impose new regulations, and spurring regulatory action that will affect the entire software industry. This overreach calls for continued congressional oversight, democratic accountability, and potentially legislative or judicial course correction. Thank you, and I look forward to your questions. Ms. Mace. Thank you. I now recognize Dr. Lee for her 5- minute opening statement. STATEMENT OF DR. NICOL TURNER LEE SENIOR FELLOW, GOVERNANCE STUDIES, AND DIRECTOR, CENTER FOR TECHNOLOGY INNOVATION BROOKINGS INSTITUTION Dr. Turner Lee. Thank you, Chairwoman Mace, Ranking Member Connolly, and distinguished Members of the Subcommittee, for the invitation to testify on President's Biden's executive order on safe, secure, and trustworthy development and use of AI. I am Dr. Nicol Turner Lee, Senior Fellow at the Brookings Institution, which has a 100 year history of evidence-based, nonpartisan research, and I thank you, Chairwoman, for the mention. With that being said in my brief remarks, I just want to remind people that getting to the EO has been a long, deliberate, participatory process, and it has been one in which we have had several government actions proceeding and surrounding it, such as the Blueprint for an AI Bill of Rights released in October 2022, the National Institute of Standards and Technologies AI Risk Management Framework released in 2023, the securing of voluntary commitments by some of the top companies in July 2023, and the OMB guidance released shortly after October in November 2023. These actions reflect a whole- of-governance governance approach, and they are really important for us to achieve national guidance as AI becomes both an asset and concern for our national security interests. I want to also share that Congress must act quickly on many of these proposals in our decision to maintain our status as leaders in the global economy. Rather than say that this is overreach, I consider these efforts to be preparation toward a more responsible, inclusive AI ecosystem. This first formidable action on AI under the Blueprint for an AI Bill of Rights shared a nonbinding roadmap for the responsible use of artificial intelligence. We then proceeded to have NIST, who gave us the risk management framework as a multi-tool for organizations to design and manage trustworthy and responsible technologies that are meant to be voluntary, rights preserving, nonspecific, use case agnostic. NIST is also going to release a playbook that will be a companion to this, and we recently launched the AI Safety Institute Consortium to bring stakeholders together to jointly develop and diffuse best practices, standards, and other things. A few months later, as it was mentioned, the White House secured voluntary commitments from some of the leading U.S.- based AI companies that want to equally ensure safety, security, trust with advanced systems. They are willing to not only look at their own business models, but to find ways to engage in public reporting of their system capabilities, limitations, and guidelines for use. The most notable advancement, so far, is the Robust Watermarking Solution that these companies are working on together to ensure that we can authenticate AI-generated content. While the executive order may appear to be a variety of issues packaged into one, it is intentionally designed to be such. We have put in the work to make sure we have gotten to this point, and the EO will not only pursue the eight benchmarks that are outlined in its mandate, it also, on a cumulative level, has pursued us to look at best practice for AI use in criminal justice, education, healthcare, and other thoughtful processes that develop an astute and ready workforce. The actions to engage the Federal Government is probably the most ambitious, yet necessary, action to confirm our resilience among foreign actors and others who want to leverage malicious attacks. In my written statement, I opine more on the January 24 progress report issued by the White House, which suggests that we actually are meeting many of those benchmarks, even in light of some of the concerns of my colleagues. Going forward, if the U.S. wants to be a leader in innovation, we must be responsibly prepared to manage those risks. AI can be developed with positive intentions, such as saving the climate, and simultaneously lean into negative uses, such as a large-scale generation and dissemination of misinformation and deepfakes, activities that are quickly appending important democratic institutions, like voting and elections infrastructure. Moreover, the advanced capabilities of frontier models, like generative AI, will only deepen these effects, particularly if our government does not act quickly to get ahead of this technology. Again, instead of seeing this as overreach, this is a whole-of-government approach that is thoughtful, participatory, coordinated, and have been percolating for a matter of years. More importantly, if Congress does not act, states will, China will, and other nations who are not only leading us in comprehensive legislation, but will soon be the standards that are going to develop the AI ecosystem. That is why we have urgent assignment to move and legislate on what is actually in the EO. More so, instead of having a patchwork of state laws and local provisions, it is important that Congress be concerned about these interests of AI simply on the national security interests, simply on the public consumer protection concerns, and more so because we want to be the leaders in this technology. I urge Congress to consider that we already have many proposals that have some bipartisan support, like the National AI Commission Act, the Protect Elections from Deceptive AI Act, and let us move so that we do not have to continue this conversation again. Ms. Mace. Thank you so much. I will now recognize myself for 5 minutes. Generally, my questions will be for the entire panel. I am a big fan of ``yes'' or ``no,'' so if you want to elaborate, I would just ask that you make it quick because I would like to hear from a lot of voices here this morning. The executive order is actually one of the longest EOs ever written at over 100 pages, and it absolutely will encumber tech in a lot of ways, as we heard from our witnesses this morning. My first question is, the Commerce Department could not protect Secretary Raimondo's own email account from being hacked last year, yet this EO requires firms to share with the Agency on a daily basis the crown jewel secrets of the most powerful AI systems on earth. First question: can we trust Commerce to ensure this highly sensitive data does not fall into the hands of China or another foreign adversary? Yes or no. Mr. Thierer. No. Ms. Huddleston. I think we have seen that there is a need for a greater discussion of improving cybersecurity, both in the government and beyond. Mr. Chilson. No, and we should not have to. Dr. Turner Lee. Yes. Ms. Mace. OK. Thank you. According to the executive order, the over 100-page executive order, irresponsible use of AI could exacerbate ``social harms,'' including, ``disinformation.'' Should we trust the government to be the ultimate arbiter of what is disinformation and what may cause social harm in AI systems? Mr. Thierer? Mr. Thierer. No. Ms. Huddleston. No, and we should be concerned about the First Amendment approach of doing such. Mr. Chilson. Absolutely not. Dr. Turner Lee. I will say yes, and government, with our civil society, industry partners, alongside of us. Ms. Mace. Should AI model developers have to give the government all their test results and test data, even those concerning politics or religion? Mr. Thierer? Mr. Thierer. No. Ms. Huddleston. I think it is a highly concerning proposal with significant consequences for innovation. Mr. Chilson. No. Dr. Turner Lee. You know what I am going to say. Ms. Mace. You are going to say yes.  Dr. Turner Lee. Especially in high---- Ms. Mace. You are going to be the one dissenter this morning. Dr. Turner Lee. Yes, especially in high stakes. Ms. Mace. What are some of the, just very quickly, the risks if companies are giving their test data over to the government? Mr. Thierer? Mr. Thierer. There are security risks, of course. There are also concerns about how there might be speech meddling of various types, the sort of jawboning that could be associated with that sort of heavy-handed approach. Ms. Mace. What would the government do with such information potentially? Mr. Thierer. Well, it depends. We know in the past, there has been efforts by government authorities to utilize such information to try to curb certain types of behaviors or to try to intimidate certain people to do things against their will and without due process. Ms. Mace. Ms. Huddleston? Ms. Huddleston. Similarly, I think there are concerns about how this could have an impact on speech as well as innovation more generally, with the idea that innovators would have to seek permission from the government before engaging in their innovation, rather than having it play out in the marketplace of ideas. Mr. Chilson. I think one of the other big effects other than the government misuse would be the chilling effects it would have on people using tools like this to say things that they think the government might not want them to say. Dr. Turner Lee. And I would just suggest that I think we are conflating surveillance technology and how we actually look at government on the surveillance side versus what the EO is actually dictating, which is accountability, and the AI training data, and the test beds as we look at high-stakes applications. So, I would like us just to clarify that. Ms. Mace. OK. And then, well, my last point is, you know, I think we can all learn something, probably from recent history, the FBI's interpretation of the Hunter Biden laptop as Russian disinformation, and we had a number of over 20 former intel officers and folks that wrote a letter saying it was Russian disinformation. Come to find out, it was not. I think that is a concern that a lot of folks have on what the government will do with data, what the government will do with information, what the government will do with testing information, algorithms, code and programming product, et cetera. The EO requires companies even considering developing dual use foundation AI models to report to the government on an ongoing basis again about their most sensitive business secrets. Could the justification for using the DPA here be used in the future to demand highly sensitive plans and data from firms in any emerging technology field? Mr. Thierer? Mr. Thierer. Yes, it could, and we should avoid it for that reason. Ms. Mace. Ms. Huddelston? Ms. Huddleston. Yes, and it is concerning with the power that would give to the administrative state over technology, more generally. Mr. Chilson. The EO offers no limiting principle on the use of the DPA, and so I think we could expect that people will continue to walk down this road. Dr. Turner Lee. And I would just suggest that the invocation of the DPA is coming in absence of congressional action. If Congress were to provide some parameters on how we exercise some of the, you know, principles that are embedded in the EO, as well as things like congressional activities that we want to actually foster, I do not think we would have that problem. Congress just needs to act and legislate. Ms. Mace. All right. Thank you. I want to thank our participants on the panel today. We appreciate your time, your insight and expertise, and I will now yield 5 minutes to my esteemed colleague from Virginia. Mr. Connolly. Thank you. Mr. Chilson, I am a little puzzled. You spent a lot of time criticizing the EO because it was too long, and I guess sitting up here looking at a very complex subject that has never been addressed before, and that many other people sat where you are sitting, Republican witnesses, chosen witnesses, all praise the EO as, yes, it gives us a framework we can work with, and they were not worried too much about overreach, you know. They felt it gave us a platform we can build on as we learn more, as we experience more. Why are you so bothered by the fact of its length? Mr. Chilson. So, I cannot speak for what other people might think about the EO. I can only speak for my experience in Federal Government and watching the regulatory process. What concerns me about the length of the EO is its unprecedented nature because it looks like legislation. If you slap the bill number on top of it---- Mr. Connolly. OK. Can I interrupt you because I get that point, too, and I made a note of that. You went on to say it actually usurps the role of Congress. You said that. Well, you know, we do have a government with three branches, and we are a co-equal branch of government. So is the executive. And when one of those branches fails to act, that creates a vacuum that almost demands the others act, depending on the urgency of the situation. Now, it is nice to say, and I am a big champion of legislative prerogatives, and I believe Article I is Article I for a reason, and Article II is Article II for a reason, namely we are supposed to be the predominant arbiter of government. That was certainly what was in Madison's mind, but that is a different conversation. So, in the first session of the 117th Congress, we signed into law about a hundred bills, very far reaching in some cases, very visionary. In this Congress, 31, and half of them are post office namings. This is not a serious Congress. You mentioned, I think, 28 bills addressing AI. Not one has become law, and given our pace, it is unlikely any of them will become law in this Congress. We are not doing anything, and when that happens, it seems to me the President has an obligation to address an urgent and imminent subject like AI. And so, even though I share your passion about the prerogatives and responsibilities of the legislative branch, in this particular case, I have to defend the executive branch. They have not usurped Congress. They have actually done what Congress ought to do but is not going to do because we are not doing our jobs up here. In fact, we are not only not doing our jobs, we are actually regressing. So, in the appropriations bill, Nancy and I and others are going to vote on this week, apparently, they have zeroed out a congressionally created fund--by the way, I worked with Will Hurd on this, a Republican--the technology management fund, because apparently we do not need any more investment in technology. You know, we do not need more cyber capability. We do not need more AI training. We do not need any of that stuff. We do not need to protect data bases that you are worried about being compromised. And so, we are going to zero out the technology management fund created by Congress. So, we are going backward, we are not going forwards, and I just respectfully disagree with you. I do not think the executive order, I do not care how long it is myself, and I do not think that is a particularly viable critique. And with respect to usurping Congress, I do not think so. Now, the third critique I think you had in your testimony was overreach and echoed by your two colleagues on the other side of the panel. I want to give Dr. Turner Lee an opportunity to address that one. So, is it overreach? I mean, should we be worried that they have gone too far, and they are intruding in our lives, and they are going to compromise the ability of AI and all of its promise? Dr. Turner Lee. I would disagree with it being overreach. When I started in this space back in the early 2000's--I have been in technology since then when we were looking at regular data bases and stuff--we did not have any framework for predictive decisionmaking, and we had many conversations on algorithmic bias. We were seeing that people were having equal opportunities foreclosed simply because an algorithm made a decision. That was the very first basic step at looking at algorithmic discrimination and stuff like that. Now we have advanced capabilities through frontier models that are actually extracting data-text, voice, images--in ways that actually are so opaque and less transparent that we need more guidance. The technology continues to outpace policy in that matter. With that being the case, to your point, I think we have had many congressional bills that have come to the Floor, but they have been too late, so we have had to relitigate and remitigate what those bills are. In addition to that, we have been slow to the pace when it comes to data privacy protections, reevaluating our civil rights framework, things like that. I, in no way, think this is overreach. As a scholar at Brookings who is interested in trying to figure out proactive, evidence-based strategies to move forward, this is actually preparation. Without such preparation, as I said in my testimony orally as well as written, other countries are going to define the landscape for AI regulation, and we will be subjected to their rules, not just on the behavioral aspects, but also on those sides of the technical cadence. Mr. Connolly. Thank you. Madam Chair, I yield back. Ms. Mace. Thank you. I will now recognize Mr. Timmons for 5 minutes. Mr. Timmons. Thank you, Madam Chair. I guess, first, I just want to respond to my colleague's, across the aisle, indictment of this Congress. Us not doing anything this Congress is a response to my colleagues across the aisle spending about $7 trillion last Congress, and it has really caused my constituents a lot of problems. Inflation is through the roof. The cost of energy, groceries, interest rates are up. It is really costing Americans a lot. And so, we are struggling with our $34 trillion in debt. We are struggling with the fact that every hundred days we add a trillion dollars to our national debt, and really, our fiscal situation is out of control. So, we are very concerned about that, and we are going to try to find a path forward that is sustainable for the American people, that will give our kids and grandkids the American Dream for generations to come, but I am very fearful that that is not going to work out. So, we are going to focus on that. That said, we do need to address AI, and just because Congress is unable to address AI as quickly as we should does not give the President the right to legislate for us. It is just a really bad idea. You know, this has been tried again and again. I guess first, Mr. Chilson, who wrote this? I mean, this is very technical. It is very long as we keep saying, and, I mean, who wrote this? Mr. Chilson. I mean, it went through a White House process. I do not know many details about that process. It looks like a bunch of people wrote it. Mr. Timmons. It is extremely technical, right? I mean, it is extremely technical, so, I mean, people that have expertise that probably have an interest in a regulatory structure being placed on this. I mean, do you have any idea what groups were involved? Is there any transparency to that? Mr. Chilson. I do not. I think that is a good question for Congress to ask and an oversight committee to ask, and I do not have good information on that. I know there were a lot of participants. There were probably a lot of people who are asking for different things to be included in this, and that is, in part, why it ended up so long. Mr. Timmons. So, all the reporting requirements, does that not chill innovation? I mean, there are a lot of proprietary approaches to this. Is it going to chill innovation? Mr. Chilson. I think it could chill innovation in a couple of different ways. One, companies, when they are thinking about what sensitive data that they are going to have to report to the government, they are going to have to make a tradeoff. Like, are we going to grow big enough to meet the caps that put us over this reporting threshold, or are we going to stay under that and limit ourselves artificially in order to not have to comply with these specific rules? And I think that would be to the detriment of U.S. leadership in AI. Mr. Timmons. A lot of these companies are global. I mean, could they not just move their development overseas outside the jurisdiction of the U.S., or does the Defense Production Act somehow extend beyond our borders? Mr. Chilson. They absolutely could move overseas, and I know that there are jurisdictions that are actively recruiting AI startups and AI companies to move to their jurisdictions, promising them less constraining regulatory environments. Mr. Timmons. Dr. Lee, you used the term ``nonbinding.'' You were not referencing this executive order, were you? Dr. Turner Lee. In terms of the nonbinding reference, we know that much of the content that was in the AI Bill of Rights was nonbinding. It was more voluntary. And up until the executive order, as you all are aware, we really do not have any binding requirements unless the DPA is used for the test bed. Mr. Timmons. But---- Dr. Turner Lee. It only applies to certain aspects of the EO, as we know. Mr. Timmons. OK. So, my understanding is that there are criminal penalties for not abiding by the DPA, and this is using those authorities, so would it not be a criminal offense that would result in jail and a fine should a company not comply? And I guess another question is, who would that even apply to? Would that be, like, the CEO? Would it be the board members of the company? How does that work? Dr. Turner Lee. So, I am with you. There actually has to be more clarification on how that enforcement strategy looks like, but remember, the regime of the DPA applies to only specific aspects of the EO itself. And to your question, if I may, respectfully, who wrote this was the American people, right? It was accumulation of all these activities leading up to the actual EO itself. So, I wanted to clarify because I kind of have some insight into some of the stakeholders that participated. Mr. Timmons. I mean, I think some of the technical expertise of this--look, I got a master's degree in cybersecurity, and I understand this as well as anybody. Dr. Turner Lee. Yes. Mr. Timmons. And I am reading some of this, and, you know, it requires a quantity of computing power greater than 10 to the 26 integer. I do not think the American people have any idea what that means, so with all due respect, the American people did not write this. Mr. Thierer, do you have any understanding of how this would be enforced in regard to noncompliance? I mean, would the CEO or would board members go to jail? Like, how would that work? Mr. Thierer. I think that is a great question. Recall that in the letter that the 20 AGs sent, they actually referred to this ``opaque and undemocratic process'' by forcing AI developers to submit information, but it was unclear to the AGs themselves, and they asked the Department of Commerce, like, what is going on here? So, we do not have answers to your questions, Congressman. Mr. Timmons. So basically, we took a problem and made it worse. It seems that way. Mr. Thierer. I think so. Mr. Timmons. But again, Congress does need to act, to be fair, so maybe we should get our act together and address this in a way that can facilitate innovation and keep the United States on the forefront of being the best economy in the world. Thank you, Madam Chair. I yield back. Ms. Mace. Thank you. I will now turn it over for 5 minutes to Ms. Pressley. Ms. Pressley. Thank you, Madam Chair, and thank you to our witnesses for being here today. As a Member of the Financial Services Committee's bipartisan Working Group on Artificial Intelligence, I have no doubt that while AI presents opportunities for progress, it also poses significant risks, from undermining our privacy, to inciting political violence, to spreading disinformation. Congress has been slow to act, forcing the Biden-Harris Administration to take executive action to enforce standards and guardrails. The AI EO does just that, and to suggest that the White House is overstepping, especially when just last week, this Subcommittee heard devastating testimony on AI's infringement on the privacy and civil rights of women and girls. So that overreach characterization is absurd, in my opinion. Dr. Turner Lee, in what ways can AI pose disproportionate threats to people from marginalized backgrounds? Dr. Turner Lee. That is an area that I spend a lot of time with, and I think the effects on marginalized populations are a couple of things. One, the lack of transparency of AI systems, and particularly how they factor into predictive decisionmaking or eligibility concerns, can foreclose on equal opportunities. People do not know what those factors are that are going into credit decisions, housing decisions, criminal justice decisions, and the like. I would also say that people of color are disproportionately impacted by deepfakes and misinformation. The lack of transparency, actually, which is an issue. Deepfakes affect anybody in any state and any party when you actually look at it, but the lack of transparency particularly affects communities of color who have less agency. And then finally, I would just say criminal justice. I just spent a year and a half with the National Academies on facial recognition use in law enforcement, and in that application of AI, we also see a lot of vulnerabilities as well. Ms. Pressley. Thank you. Yes, AI algorithms trained on skewed, inaccurate, or unrepresentative data magnify human biases, lead to discriminatory outcomes. The previous Administration, for example, has an abysmal record of using technology to incarcerate and to persecute communities of color. The Trump Administration used AI to identify legal protesters during the George Floyd protest, to employ racist algorithms with Immigration and Customs Enforcement to profile Muslims entering the country, and haphazardly arrest Chinese Americans during its China initiative. Meanwhile, President Biden's executive order takes unprecedented action to allow innovation while protecting people's privacy and civil rights. Dr. Turner Lee, are the steps outlined in the Biden-Harris Administration's EO sufficient to address biases in AI that can lead to discriminatory outcomes? Dr. Turner Lee. I wholeheartedly agree. I applaud this Administration for including words like ``equity'' and ``parity'' as part of the EO in very outright ways so that we address this issue front hand. I also think, to your point and to the earlier conversation from my colleagues around the government use of AI, it is very clear in the EO this distinction between government surveillance that is used for malicious intent by government, versus resiliency, which is the Federal agencies just having clearer pathways on their use of AI generally, whether it is in benefits decisions, criminal justice decisions and actions, and so forth. Ms. Pressley. Thank you. And, Dr. Turner Lee, what elements of the EO can Congress strengthen to ensure that advances in AI technology are not used to further involve people with the criminal legal system? Dr. Turner Lee. I think that Congress can take some steps, and there has been some bipartisan support around the use of facial recognition technology and how we actually not necessarily ban it, but we have some guardrails that make sense for various communities. I think Congress can also act on data privacy legislation. That legislation will allow some sense of guidance on what data can be collected, and in the area of biometric collection that can also safeguard communities of color. I think conversations on election and AI infrastructure and architecture should be of concern, and it has been on a bipartisan level. I think all of us are concerned about the integrity of our elections based on artificial intelligence and generative AI. So, I think there is a host of them. I am happy to share more of those with you, Congresswoman, going forward. Ms. Pressley. Thank you, and, you know, certainly we have a responsibility to be innovative in our efforts in order to build reliable protections for everyone, especially those who have historically been left behind or targeted. So, I invite all my colleagues to link arms and minds, if you will, in carrying out that work. Whether it is the use of facial recognition technology to criminalize people of color, deep fake pornography to degrade women, or biased algorithms to keep vulnerable community members from accessing critical resources, existing equity concerns are at risk of being worsened for people in my district, the Massachusetts 7th, and across our country. Thank you, and I yield back. Ms. Mace. Thank you. I will now recognize Mr. Burchett for 5 minutes. I am looking forward to your questions on AI, sir. Mr. Burchett. Thank you, Chairlady. Mr. Thierer and Mr. Chilson, what is the historical background of the Defense Production Act? Mr. Thierer. Well, it was put in place, sir, to make sure that America had the proper productive capacity of the environment. Mr. Burchett. I realize that, but, I mean, I want to know the background. What caused it to be in place? Mr. Thierer. A concern about the lack of a productive capacity in certain sectors that the Federal Government felt were necessary to achieve various national security purposes. This was, of course, in the 1950s, a different time. Mr. Burchett. Right. That is what I was getting at, the Korean War. Mr. Thierer. Yes, a long time ago. Mr. Burchett. Yes, sir. And the primary purpose of the Defense Production Act is to allow the President to direct the production of materials and goods. Is that correct? Mr. Thierer. Yes, that is correct. Yes, that is correct. Mr. Burchett. OK. What materials or goods does Executive Order 14110 direct companies to produce? Mr. Chilson. Documents containing highly sensitive commercial and cybersecurity information. Mr. Burchett. OK. And what national security concerns exist regarding AI that justifies using the Defense Production Act? Mr. Chilson. Well, I think there are national security concerns around AI. We have heard a lot of talk about, you know, the rivalry with China and the importance of staying ahead, so there are concerns there. But as for ones that directly address the kinds of threats to interrupted production that the Defense Production Act is looking for, again, as Adam said, it turned the DPA on its head, which the DPA is to allow the government to spur production. And the executive order uses the DPA in order to discourage production on some levels, in part by imposing additional regulatory burdens on people who are producing at the highest level. Mr. Burchett. Has the Defense Production Act been used to extract information from companies rather than to encourage production? Either one of you all. Mr. Thierer. Not that I am aware of. Mr. Chilson. I have heard that there has been already an immediate request based on this use of the Defense Production Act, but I think in the past, I am not aware of another one. Mr. Burchett. Do you think using the Defense Production Act to regulate artificial intelligence is a bit of an overreach, and would Congress be better suited to regulate artificial intelligence? Mr. Thierer. Yes, Congressman, I think that is right. The authority begins here to decide what the Defense Production Act should do, and I think now we are witnessing pretty excessive overreach of the statute. Mr. Burchett. Do you all think that this executive order could stifle artificial intelligence innovation? Mr. Chilson. I do, and I think the use of the DPA here undermines some of the other important goals that Congresswoman Pressley was pointing out about government uses and the risks of government use of AI. Mr. Burchett. Ma'am, you were shaking your head. Dr. Turner Lee. May I respond? Yes. I actually disagree with that. I think, and going to my colleague here, who I have known for many years, I think what the Congresswoman was talking about does not require the use of the DPA, in all honesty. It actually just requires transparency, disclosure, that kind of stuff. I think the DPA was actually exercised based on just giving some push to us to do something as a national economy so that we make sure we are not behind others, particularly China, when it comes to AI. Mr. Burchett. Ms. Huddleston, you have not responded. Would you like to? Ms. Huddleston. I would agree with Mr. Chilson that I do think there are significant concerns about how the executive order could stifle innovation at a time when AI is still just emerging and we are just starting to understand the potential beneficial applications of it, as well as the potential risk. Mr. Burchett. Do you all think that the executive order strengthens the U.S.'s ability to maintain its lead over China? Ma'am? Dr. Turner Lee. I do, and, again, responding to my colleagues, when we talk about stifling innovation and invention in this country when it comes to AI, I think we have two different conversations going on. One is a conversation around the efficiency and use of AI in areas like, you know, occupational careers, different sub-stacks, technological applications. The other was around the sociotechnical application. How does the public interest benefit from the use of AI? Mr. Burchett. Right. Dr. Turner Lee. And I would just urge us to sort of not conflate those two areas. Mr. Burchett. Well, how does it do that? Dr. Turner Lee. When we have an informed populace that understands that technology is embedded in basically everything that we are doing today, our informed populace can make decisions that actually benefit their quality of life. When they do not know that these technologies or AI-generated content is happening, we are actually stifling our ability to move this Nation into a space where, to your point, we can stay competitive with our rivals. Mr. Burchett. Yes, my biggest fear with this, again, is we do not understand it. Heck, I do not understand it, and Chairlady Mace probably understands it, and my colleague across the aisle probably understands it. But here again, we are going to start regulating something we do not understand because we are government and we are supposed to, and then, again, it is just like cryptocurrency and everything else, dadgummit. We will end up hurting it, you know, so that is my concern. Chairlady, I yield back none of my time. Matter of fact, that is a negative amount of time, so I do not know if that penalizes me on the next or not. Ms. Mace. You did good, Mr. Burchett. I will now yield to Mr. Burlison for 5 minutes. Mr. Burlison. Thank you. Dr. Lee, would you say that democracy is important in the United States? Dr. Turner Lee. Yes. Mr. Burlison. Would you say at times it is a threat? Dr. Turner Lee. Yes. Mr. Burlison. I would agree. Let me ask you this. Would you think that an authoritarian state that does not represent the elected people is a threat to democracy? Dr. Turner Lee. I am happy I do not live in an authoritarian state, in a democracy that we have here in the United States, so I cannot tell you from personal experience. Mr. Burlison. Well, so, I humbly disagree because unfortunately, what we are seeing here, in my opinion, is an authoritarian move. This new executive order is not being conducted by the legislative body, people that were elected to represent the people of the United States. It is being written by people who have never run for office, to my knowledge, probably never run for office, do not have to answer to any voters whatsoever. So, Mr., is it Thierer? Mr. Thierer. Yes. Mr. Burlison. OK. In an analysis of the executive order last year, you stated that, ``The unilateral and heavy-handed administrative meddling in AI markets could undermine America's global competitiveness and even the Nation's geopolitical security, if taken too far.'' Has this executive order gone too far? Mr. Thierer. It very well could. You know, Congressman, just this week, Saudi Arabia announced historic investment in its AI capacity, something like $40 billion. Last September, the Government of the UAE came out with an open-source AI model that is 2.5 times larger than America's largest open-source AI model. So, it is not just China we face off against, it is all sorts of countries. Russia just developed one of its biggest supercomputers. If this executive order shoots ourselves in the foot as a Nation and holds back our innovative capacity, that has massive ramifications for our competitiveness and our geopolitical security. Mr. Burlison. Yes. My other question has to do with the fact that the executive order establishes an HHS AI task force tasked with developing a strategic plan to regulate aspects of AI in the healthcare industry, including research and discovery, drug and device safety, healthcare delivery and financing, and public health. Could this lead to an onslaught of additional regulations? Mr. Thierer. Absolutely, and we were already seeing it. We should keep in mind our Federal Government is massive; 438 Federal departments, 2.2 million civilian workers working at them. Every one of these agencies is interested in taking a look at AI. This executive order essentially gives them the green light to do so and says go for it without any express congressional intent. Mr. Burlison. As someone who worked in the healthcare IT industry for 20 years, I can tell you that this place does not aid, was not helpful in improving the lives of the American people when it passed, under the American Recovery and Reinvestment Act, the meaningful use criteria that every software electronic medical record system had to accommodate in order to continue to receive full reimbursement from Medicare. The outcome, my statement, the outcome is basically proven that, and that is that what that regulation did was shut down many electronic medical record companies across the United States, which forced doctors to consolidate, change their records, migrate them to a new platform, or to stand up a platform altogether. They were happy with a paper chart. Would you agree with me that that outcome, creating what is basically a duopoly in the healthcare IT space, is not good for doctors, not good for patients, not good for consumers? Mr. Thierer. Yes. Well, of course not, and, of course, this effort by the Administration is just going to add more compliance costs and regulations on top of it. I know you mentioned this at the last hearing on this, Congressman, that these sorts of burdens can compile and buildup on small innovators and force them to move or get out of the field. Mr. Burlison. Thank you. And, you know, at the end of the day, it was said that if we do not take action, the states will take action. Well, I seem to recall that the United States Constitution and this system of government did not create the states. In fact, it is the other way around. The states created the Federal Government. And in the Tenth Amendment, it specifically says, ``The powers not delegated to the United States by the Constitution nor prohibited to it to the states are reserved to the states, respectively, or to the people.'' So, my question to you, ``left to the states,'' wouldn't it be better to have a microcosm of experiments, especially in a field that we know so little about at this point in time? Mr. Thierer. It depends on the rules. There are a lot of proposals out there, a huge increase in the sort of compliance burden if we have too much of a patchwork. The leading law on AI hiring right now in the Nation is from New York City. Not New York State. New York City. You can imagine if every city has its own plan on AI, that could be a problem. Mr. Burlison. Thank you. My time has expired. Ms. Mace. All right. We are waiting on one more Member who is coming, so I am going to ask a few questions that I did not get to ask earlier, so I will now recognize myself for 5 minutes. So, the executive order came out at the end of October, and it said that Commerce would have to implement and get moving after 90 days, which would have been the end of January. Does anyone on the panel know if Commerce is doing anything related to this executive order at this juncture today, middle to end of March, soon to be April? Does anybody know? Mr. Chilson. They certainly are doing a lot, actually. Ms. Mace. Mm-hmm. Mr. Chilson. There are several rulemakings and other proceedings that are ongoing. NTIA, which is part of the Department of Commerce, has a rulemaking on open-source models, and so there is a lot of swirl at NTIA, and I think across Commerce, so yes. Dr. Turner Lee. And I would echo that, Chairwoman, that Commerce has actually started, like other Federal agencies, to go deeper into these issues. So, there are activities as well as comments that will come out shortly, I am sure, on that. Ms. Mace. Any movement on the DPA provisions of the EO? Mr. Chilson. I have only heard that there was a request to some companies in mid-December that they start filing information. The understanding of the DPA provisions as the executive order came out was that none of the current models met the threshold for reporting yet, and so that request that I have heard has gone out, it is not quite clear why that request had gone out, and so---- Ms. Mace. Because they had not met the threshold. Mr. Chilson. There is language in the DPA provision---- Ms. Mace. Mm-hmm. Mr. Chilson . That says if you are even thinking of getting over the threshold, you also have to report, and maybe that is---- Ms. Mace. And how do they report? How are companies---- Mr. Chilson. I do not know what the exact procedure is. The executive order does not lay that out in specific detail. I think it would be up to whatever the requests are that are coming in. In fact, the executive order does not give a ton of detail about what specific information. It gives general categories, but I am hearing that they are asking for quite a lot, including a lot of sensitive information. Ms. Mace. It gives them, basically, broad authority to do whatever. Mr. Chilson, it gives them broad authority, then because of that vagueness? Mr. Chilson. I think so. Ms. Mace. Mm-hmm. Mr. Chilson. Broad authority to request the information that fits into those buckets that are in the executive order. Ms. Mace. Gotcha. I think Dr. Lee wanted to chime in. Dr. Turner Lee. And just respectfully, we are also finding, though, with the progress report as well as my own research, that various Federal agencies, including NTIA, are becoming more transparent with their processes. So, I assume that we are actually going to see much more openness around what is happening around the executive order as they have been charged to take on certain aspects of that, Chairwoman. Ms. Mace. OK. And then this is a question for the entire panel. How does this EO stifle innovation, limit potentially investments in AI in the United States? Mr. Thierer. Well, I will just go back to the AG letter that really nailed it because they asked the Department of Commerce to answer some questions like you have just asked, Congresswoman. And when they referred to that opaque and undemocratic process of forcing AI developers to submit information for review behind closed doors, they also then talked about the danger of a bureaucratic and nebulous supervisory process that will discourage development, further entrench large incumbents, and do little to protect citizens. They asked a whole series of questions like you are asking to the Administration. I have not seen any answers back. Ms. Mace. Ms. Huddleston, how will this stifle innovation, stifle investment, because I believe that it will, having these encumbrances and burdens. Ms. Huddleston. And even in the places where the EO is vague, it signals to innovators that the government is expecting them to take a seek permission first approach, particularly for large, significant models and as this technology evolves. It signals that the Administration is kind of presuming this technology is a risk until proven otherwise. We saw during the internet era how this more precautionary approach for a general-purpose technology played out in Europe, that it led to not seeing the kind of development of companies that we saw in the U.S. And while there are many other factors to that, such an approach that requires innovators to seek government permission rather than consumers and innovators to decide in the market how a technology can progress may stifle innovators from going into certain areas, or may give rise to investors' concerns about whether a technology will be allowed to fully develop, particularly for those dual-use technologies. Ms. Mace. Mr. Chilson? Mr. Chilson. So, in addition to the DPA chilling effects that will happen under the authorities there to some of the largest models, I really do think, and to the earlier Congressman's point, that the very vague definition of ``artificial intelligence,'' which to my reading and I think some other experts' readings, could sweep in things like formulas in complicated spreadsheets. This is not ChatGPT-style AI. We are talking about software that people use every day and that industries use every day. The Federal Government has now been told, including HHS, hey, go make sure that all of these AI pieces of software are working well, that they are meeting the appropriate levels of quality. That has the potential to unleash a lot of regulation, not just on what we think of as AI, but software development generally, which would be really a sea change in how the U.S. approaches software development. Ms. Mace. I know Dr. Lee is going to disagree here. So why does it not, in your opinion, because to me it is so obvious. I am just curious on your perspective, why it would not stifle innovation or not stifle investment. Dr. Turner Lee. Well, as one who has been in the technology space for more than 30 years, I clearly know when we see these technology disruptors stifle innovation. I think in this case, what we are going to see is improved certainty and baselines for companies to better participate in the AI economy. Right now, it will provide some behavioral guidance as well as some product design guidance that I think will be helpful as we actually, again, leverage AI as a national security interest. The other thing I want to just continue to refresh and remind us, that this is just not about the DPA, right? It is about creating an AI workforce. It is about making sure that we have the right research. It is about ensuring that our Federal agencies are resilient, and it is about making sure consumers are protected at any time, at any point in which they are engaging these technologies. So, with that, I think the certainty will definitely not stifle innovation in many respects and will actually help us to innovate better. Ms. Mace. With regards to DPA, do we see this applied to any other technology? Is that a thing? Mr. Chilson. The DPA has been used to ensure the supply of materials that are needed for defense and for disaster recovery on a wide range of technologies. We have never seen it applied to AI, and we have never seen it applied not to ensure that there is sufficient production for defense, but more for a regulatory purpose, like it is being used here, to make sure it is safer or that it is more limited than it is. So, this is a very unprecedented use of the DPA. Ms. Mace. And then, you know, I sit on not just the Oversight Committee and Chair of the Cybersecurity Committee here on the Oversight Committee, but I sit on House Armed Services. I am privy to a lot of briefings, classified briefings, about what our adversaries are doing, what they are up to, technology wise, even AI. And, you know, one of my greatest concerns from a national security perspective is advances that some of our adversaries are. Like, you know, I feel China is right on our heels, and I do not want to, I guess, limit our ability to keep up with the technology. And, you know, I have met with a lot of different tech firms and seen a lot of the benefits of AI. One of them, for example, is a company that maps the world every single day with 200-plus satellites in space. They can map every inch of the earth every single day. Now, a year ago, this company, they were doing great. If you need to find a little widget or target or something on the map on earth, it could take a couple of hours, maybe take a couple of days, but they would eventually find it. With the avenue of AI, they have condensed it down to minutes and hours. Within 6 months, they have condensed down the amount of time that it takes to be able to find some particular piece of equipment or object here on earth, so huge advances. I would never, ever, ever, ever want to see government regulation, government requirements stifle our ability for this American company to advance technology as fast as it has. It has been remarkable, and I meet with this company about every 6 months, and the innovation that I see is tremendous. And there are a lot of applications with a lot of different agencies, and not just the public sector, not just DoD, but the private sector as well. And so, any thoughts on, with this kind of regulation happening, how we stay, at least not just one, two, but a couple steps ahead of our adversaries around the world. Mr. Thierer? Mr. Thierer. Yes, very briefly, Congresswoman, you are exactly right. Ms. Mace. You got some time. Mr. Thierer. But this is why I spoke in my testimony about the symbiotic relationship between a strong technology base and our national security interests because this is how we maintain a strong security for the United States. Second, we should point out that anything in this executive order that we are discussing does not apply in China, and it does not apply to these other nations I was just discussing---- Ms. Mace. That is right. Mr. Thierer . The UAE, Saudi Arabia, whatever else. Ms. Mace. They can do whatever they want. Mr. Thierer. Whatever they want, right? Ms. Mace. They do not have to follow U.S. law or regulation. Mr. Thierer. So, we cannot put our head into the sand and think that just because we are constraining our companies, they are constraining theirs. Ms. Mace. Ms. Huddleston. Ms. Huddleston. I just would like to add, I think the example you provided shows why it is so difficult to define AI, and why one of the concerns that I know Mr. Chilson expressed about the definitions in the executive order that could reach very far into everyday algorithms or everyday technologies that we are using can be concerning, is in the defense context, we often hear that mentioned as a high-risk scenario. But there are many technologies, things that may be doing auto captions for meetings or maybe helping to map certain areas that might be useful in the defense context but are being developed for these dual-use purposes. And we do not want to see a scenario where they cannot be used by, say, the Department of Defense as necessary, even though they are benign and beneficial technologies. Ms. Mace. Mr. Chilson? Mr. Chilson. Well, we do have a template for how the last disruptive technology, the last major disruptive sea change technology of the internet was treated by the U.S. Government. And there was a very specific choice, both in legislation and at the executive level, to let the market lead, to let innovators lead, to let them drive this technology forward because they can explore a lot of different approaches and uses in a way that we could never envision in the early 90s when some of these decisions were made. And so, I do think that that template, which requires action both by the White House, it can require action by the White House, and also it could be done by Congress as well, to take an open look at a structure that would allow for a lot of variation. Let us focus on some specific targeted harms but not tech specific. All the bad things that we have heard about AI, those things are bad whether or not they have been done with AI or with another tool. We should target those harms, we should treat those seriously, and we should deal with them, but there is no reason to target AI on these specifically. Ms. Mace. Dr. Lee? Dr. Turner Lee. Yes, and I will just say, just with my colleagues here, I think we can go back and look at the 5G revolution, right, as an example of where we sort of stood back on where we wanted to go as a Nation when it came to mobile wireless leadership, right? And we eventually had to catch up with China--I write a lot about that--and create our own regulatory guardrails ourselves to ensure that not only were we catching up with China, but we were also imparting in the United States a type of social capital and economic capital and innovation to actually expand those networks. The same thing should be said about how we look at the AI Act from the EU recently. I do not think anyone is really saying in the EO that we need to come up with this broad regulatory guidance that we all need to adhere to. I think what we are seeing in the EO is here are some areas that we need to take precaution with. Here are some areas where we need to advance leadership, whether it is in the workforce or whether it is in innovation, whether it is in the adjacent products and services that go with the supply chain. At the end of the day, we are the United States, right, and we are going to do things a little differently than everybody else, but without making this a Wild West when it comes to innovation and having some certainty that redeposits back into our American economy, you know, we are going to find ourselves in the same similar situations we have had with other technology disruptions. Ms. Mace. OK. Thank you all for your questions, and I will now yield to Mr. Lynch for 5 minutes. Mr. Lynch. Thank you very much, Madam Chair, and thank you for your relentless leadership on this issue. Much appreciated. I had a couple of hearings at the same time. That is how they do everything here. Everything happens at once, but I apologize. I was in a hearing down the corridor on Financial Services. I want to thank the witnesses. I have read your bios, and I appreciate the expertise and the intellect that you bring to this hearing. So, thank you very much for helping the Committee with its work. This is one of those areas that we are really grappling with. The velocity of change has been incredible, and I think we are racing to catch up. As reported by the United States intelligence community in its Worldwide Threat Assessment recently, Russia, China, North Korea, and other state actors are continuing to conduct malign influence operations aimed at disseminating disinformation and magnifying U.S. societal divisions and interfering with the upcoming U.S. elections. They are doing this in other countries as well, but we are principally concerned about this country and this election right now. So, as you might imagine, the introduction of generative AI sort of amplifies the possibilities of this exacerbated threat. I know that FBI Director Chris Wray recently testified to the Select Committee on the Chinese Communist Party. He said that, ``This election cycle, the U.S. will face more adversaries moving at a faster pace and enabled by new technology,'' speaking of AI. He also went on to say that advances in generative AI make it ``easier for both more and less sophisticated foreign adversaries to engage in malign influence.'' And today, virtually, as you know, anyone can weaponize AI to create fake but convincing photos, videos, and audio clips with the purpose of election interference or manipulation. Just recently, 2 days before the New Hampshire Presidential primary--I am sure you heard of it--thousands of residents of New Hampshire received robocalls that used an AI voice cloning software to imitate President Biden. It was rather convincing as well. The robocall encouraged recipients not to vote in the primary election and ``save your vote for the November election,'' so you can easily see how, you know, this technology might be used for nefarious purposes. Dr. Turner Lee, what effect can we expect AI-generated deepfakes and misinformation to have on Americans' trust, their trust in the election process? Dr. Turner Lee. Thank you for that, and I am very happy that you brought this up as part of this conversation. As the Brennan Center has reported on a variety of their reports, we definitely need to address AI-generated content that is leading into misinformation and disinformation to ensure that we have an informed electorate and to also have electoral infrastructure in process that is not harmed by malicious actors or other malfeasances that are relying on synthetic media or artificially generated content that will dissuade voters. And that, I think, applies to everybody in this room, regardless of your party, your residents, et cetera. You know, we all need to make sure we are going to the polls with that kind of information. With that being said, it is really important for us to get a handle on this. I think one of the things that we did not do in this panel that we often do in others is we sort of talk about AI and generative AI as if they are the same thing. You know, generative AI has more advanced capabilities of extraction of voice, image, text in ways that we cannot often find out where it originated from. And so having, as we see in the executive order, these industries commit to helping us with a better digital watermarking system, being able to have conversations around copyright protections, really determining ways in which we engage the public in general education so that they are more informed about misinformation, I think are particularly important. And Congress has actually had some bipartisan action on this that I think we should take heed of if we are going to get these elections right now and into the future. I would just also suggest to you, Congressman, that states are also taking this very seriously. My colleagues at Brookings, we are looking at, you know, what states are doing, and I think there are some synergies between Federal action and concern and state action and concern. And so again, broadening the scope of making sure that this is a priority for Congress, I think, is key. Mr. Lynch. Thank you. I just want to ask, are there countermeasures that are at hand to allow us to sort of push back on some of this and reveal its, you know, I guess, negative nature and its falsity? Mr. Thierer. Yes. I will just mention one---- Mr. Lynch. Sure. Mr. Thierer . And my colleagues will have more. Representative Rochester has a really good bill having to do with AI literacy and education, and trying to find ways to teach our electorate and our citizens that there are dangers out there, including misinformation in campaigns and elsewhere in the market. So, that is a good baby step to take to partially get at this problem, which is a serious one. Mr. Lynch. I was thinking more about technology that could vet, you know, to look at. I know it is incredibly difficult, and the technology is changing so quickly, but are there proven methods that might allow us to uncover quickly, you know, a message that is not from its proposed source? Ms. Huddleston. We have seen the industry start to evolve to respond to these concerns, and there will be different actions from different players, just as there are different natures of what exactly AI looks like. So, how a certain social media platform may respond to concerns about AI-generated images in an election context or in an election ad context may look different than how a search engine does or how another tool does when it is, for example, dealing with voice as opposed to video. We have seen that, oftentimes, allowing these different norms to play out will allow consumers to get appropriate amounts of information in that context because it will look different on each platform and each tool, as opposed to a government one-size-fits-all approach, where not only do you have concerns about the potential impact on speech, you also have concerns about, given the broad definition of AI, how much content could this apply to, and might it bring in things that are more common. So, for example, something that removes an object in the background using an AI editing tool but gets labeled as AI generated or AI manipulated because it used an AI tool rather than a human graphic designer or something. Mr. Lynch. Thank you. Madam Chair, I appreciate the courtesy you have extended me, and I will yield back because I know I am way over time. Ms. Mace. No, you are good. Thank you, Mr. Lynch, and in closing, I want to thank our panelists for being with us today and providing their testimony and answering our questions. We want to make sure that the United States is the clear winner, the clear innovator in all technology, including AI. We do not want to stifle innovation. We do not want to stifle investment in AI or its innovation in any way, shape, or form. There is a lot at risk here, and we do not want our adversaries getting ahead of us or giving them the room or the rope to get ahead of us at all, so thank you again. And with that, and without objection, all Members will have 5 legislative days within which to submit materials and to submit additional written questions for our witnesses, which will then be forwarded to the witnesses for their response. If there is no further business, without objection, the Subcommittee stands adjourned.  
+WHITE HOUSE OVERREACH ON AI
+----------
+Thursday, March 21, 2024
+U.S. House of Representatives
+Committee on Oversight and Accountability
+Subcommittee on Cybersecurity, Information Technology, and Government
+Innovation
+Washington, D.C.
+The Subcommittee met, pursuant to notice, at 10:04 a.m., in
+room 2154, Rayburn House Office Building, Hon. Nancy Mace
+ presiding.
+Present: Representatives Mace, Timmons, Burchett, Burlison,
+Connolly, Lynch, and Pressley.
+Ms. Mace. Good morning, everyone. The Subcommittee on
+Cybersecurity, Information Technology, and Government
+Innovation will come to order. Welcome, everyone.
+Without objection, the Chair may declare a recess at any
+time.
+I would like to now ask unanimous consent for
+Representative Don Beyer from Virginia to be waived on to the
+Subcommittee for today's hearing for the purpose of asking
+questions. So, without objection, so ordered.
+I will now recognize myself for the purpose of making an
+opening statement.
+Good morning. Turn that frown upside down. It is going to
+be OK. Last October 30, the White House released a monumentally
+lengthy executive order on artificial intelligence, and the EO
+is not just long, it is broad. It corrals dozens of Federal
+agencies into a massive posse that is to go out and ride herd
+on every aspect of this emerging technology. But why the
+stampede? We are only just starting to grasp how AI can help
+and also harm humanity. That is why Congress is moving
+cautiously in this space.
+We already have a plethora of laws in which AI uses are
+subject, ranging from anti-discrimination to consumer
+protection statutes, and unnecessary new laws could stifle AI
+innovation, slowing the arrival of life-enhancing and
+lifesaving breakthroughs. Not to mention, we do not want China
+on our heels, and we do not want to stifle innovation for the
+private sector or for our government agencies, especially in
+defense. That is why Congress is proceeding with a measured
+first do no harm approach. Where AI applications are not
+captured under an existing law, we need to close these
+loopholes. That is why I introduced a bill recently to ensure
+the distribution of nonconsensual pornography is not immune
+from criminal prosecution just because it has been altered via
+an AI deepfake process.
+But Congress wisely has not authorized the Administration
+to go out and regulate AI differently than other technologies.
+But this executive order does so anyway and invokes the
+emergency powers of the Defense Production Act, or DPA, to
+require AI developers to notify the government if they are even
+considering developing new AI systems. It also mandates they
+regularly hand over highly sensitive proprietary data, like
+testing results, to the Commerce Department. What does this
+have to do with defense production?
+The DPA gives the President extraordinary powers to ensure
+the supply of critical goods in time of war or national
+emergency, but we are not at war today, and if artificial
+intelligence is an emergency, it is not a temporary one. AI is
+not going to go away anytime soon, so the new executive powers
+this EO asserts have no logical sunset.
+The bottom line is that this use of the DPA appears to be
+executive overreach and, quite frankly, illegal. That is the
+view of the attorneys general of 20 states, including my own
+home state of South Carolina. These AGs last month wrote a
+letter to the Commerce Secretary that argued the reporting
+regime in the EO lacks legal authority because the DPA allows
+for the Federal Government to promote and prioritize
+production, not to gatekeep and regulate emerging technologies.
+I want to thank my Attorney General, Alan Wilson, for stepping
+up to the plate and being a part of this letter.
+What is more, the gatekeeping in this EO seems more likely
+to harm than help our national defense. What is the biggest
+national security concern around AI? It is the risk that we
+relinquish our current lead in AI to China, and that could have
+catastrophic implications for our military preparedness. But
+requiring potential new AI developers to share critical data
+about their most valuable assets with the government could
+scare away would-be innovators and impede more ChatGPT-type
+breakthroughs. Not only that, but they might take their
+technology elsewhere, and we want the best AI developers, the
+best AI programmers, the best AI tech right here in the United
+States.
+Also, how will the government protect that data it gets
+from AI firms? The EO could risk national security by mandating
+the creation of what Brookings Institution fellow, John
+Villasenor, calls a target list for any geopolitical adversary
+that might want to engage in cyber espionage or launch a large-
+scale cyberattack on U.S. AI computing infrastructure. He notes
+the government's poor record of preventing the exfiltration of
+data from Federal computer systems by malicious actors,
+including foreign enemies.
+To be clear, the government does need to be proactive with
+respect to artificial intelligence. The executive branch needs
+to harness AI to strengthen national defense, bolster homeland
+security, and improve the administration of benefit programs.
+That is why I am glad that the EO contains numerous provisions
+to strengthen the government's own AI workforce and to enhance
+the government's ability to contract with private sector AI
+providers. But as the rubber hits the road on this EO, with the
+implementation deadlines already having begun to kick in, I
+look forward to hearing from our panelists today about where
+they believe it exceeds the President's legitimate authority
+and where it could impede American innovation.
+With that, I will now yield to Ranking Member Connolly for
+his opening statement.
+Mr. Connolly. Thank you. AI helps doctors optimize medical
+treatments, scientists predict potential natural disasters, and
+Federal workers manage water supplies, and yet we know very
+well every scientific and technological advancement comes with
+its own risks. The Biden-Harris executive order on AI, the
+first of its kind ever, elegantly balances innovation with
+equity and potential with pragmatism. AI has already
+demonstrated massive and consequential effects on workforces
+and economies around the globe. The Biden-Harris executive
+order sets America on a path to lead the world in ethical,
+equitable, and transparent use of AI.
+As we enter the second hearing exploring the Biden-Harris
+EO, it is good to remember what our previous witnesses
+testified unanimously. One Republican witness, ``The AI
+executive order and OMB memo are important steps that focused
+on AI safety, investment, talent, and leadership, and are
+critical for America to lead in AI innovation and governance,
+but the executive branch cannot achieve this goal fully without
+Congress.'' Another Republican Majority witness: ``In sum, the
+AI executive order and OMB memo have taken a big first step,
+but it is only one step in a longer journey. Congress must now
+kick in.'' Another: ``The executive order recognizes the
+importance of the AI Risk Management Framework developed by the
+National Institute of Standards and Technology. We encourage
+the Administration to ensure that framework anchors the
+government's risk management efforts.'' These quotes all come
+from Majority-picked witnesses and agree that the Biden-Harris
+executive order promotes safe and responsible AI and puts us on
+the right path for a strong AI future in the United States, but
+they also recognize Congress has more work to do.
+Just last week, we had a hearing on deepfakes and learned
+how some AI training data sets contain known images of child
+sex abuse materials. As a result, some AI models trained off
+this data can further perpetuate the creation of additional
+terrible and shocking content. This example is just one way AI
+technology can cause harm when we allow it to go unregulated
+and unchecked.
+So, how should we respond? As we have noted, the Biden-
+Harris EO initiated a whole-of-government approach and private
+sector involvement to establish the United States as a global
+leader in ethical AI. Within the Federal Government, the EO
+directed more than 50 Federal agencies to take more than 100
+different actions to guarantee responsible Federal use in the
+over 700 use cases already implemented across 24 Federal
+agencies. Every agency should now have a designated chief AI
+officer and internal AI governance board, which should work
+cohesively and collaboratively to manage the risks of AI while
+prudently removing barriers to innovation.
+In addition to the EO, President Biden established a
+Blueprint for an AI Bill of Rights to guide equitable uses of
+AI across the public and private sectors. It was another key
+step to ensure that every new technology comes with guarantees
+of civil rights, civil liberties, privacy, and equal
+opportunity. The blueprint also included private industry input
+from companies like Amazon, Anthropic, Google, Inflection,
+Microsoft, and OpenAI, each of whom committed to strengthening
+safety, security, and transparency as they proceed to innovate
+new AI algorithms and explore potential use cases for the
+technology.
+As the Federal Government continues to explore AI, we
+should look to partner with private sector partners to foster
+continued innovation and adoption of a secure and trustworthy
+AI. I plan to introduce a bill that responsibly accelerates the
+use of AI by our civil servants who are entrusted with carrying
+out our public-facing agencies' missions. AI must empower
+workers, not replace them. We can achieve this future if we
+build a robust educational foundation and one that benefits
+both government and the private sector. Congress must invest in
+programs that educate and train the next generation of skilled
+AI workers, which the Chair has just mentioned, and they need
+to thrive in the tech economy. Both the private and public
+sectors will need digital native workers who are steeped in the
+practices needed to put appropriate guardrails in place to help
+AI achieve its goals.
+Some of my colleagues and witnesses here today will say
+that regulation limits innovation and stifles growth. It can,
+but let me remind you of what our previous witness, Dr. Rumman
+Chowdhury, a Responsible AI fellow at Harvard, said, ``Brakes
+help you drive faster.'' This country has a strong history of
+creating rules of the road for innovative industries in ways
+that catalyze growth and foster trust in consumers. We look
+forward to exploring how best we can achieve that balance, and
+I look forward to today's hearing. Thank you.
+Ms. Mace. Thank you, Mr. Connolly. I am pleased to
+introduce our witnesses for today's hearing. Our first witness
+is Mr. Adam Thierer, Senior Fellow for the technology and
+innovation team at the R Street Institute. Our second witness
+is Ms. Jennifer Huddleston, Technology Policy Research Fellow
+at the Cato Institute. Our third witness is Mr. Neil Chilson,
+head of the AI policy at the Abundance Institute, and our
+fourth witness today is Dr. Nicol Turner Lee, Senior Fellow for
+Governance Studies and Director of the Center for Technology
+Innovation at Brookings Institution. Welcome, everyone. We are
+pleased to have you this morning.
+Pursuant to Committee Rule 9(g), the witnesses will please
+stand and raise their right hands. This is where it gets real.
+Do you solemnly swear or affirm that the testimony that you
+are about to give is the truth, the whole truth, and nothing
+but the truth, so help you God?
+
+Ms. Mace. Let the record show the witnesses all answered in
+the affirmative. We appreciate all of you being here today and
+look forward to your testimony.
+I would like to remind the witnesses we have read your
+written statements, and they will appear in full in the hearing
+record. Please limit your oral arguments this morning to 5
+minutes. As a reminder, please press the button on the
+microphone in front of you so that it is on, and the Members
+can hear you. When you begin to speak, the light in front of
+you will turn green. After 4 minutes, the light will turn
+yellow. When the red light comes up, your 5 minutes has
+expired, and we would ask that you please wrap up.
+So, I will now recognize Mr. Thierer to please begin your
+opening statement.
+STATEMENT OF ADAM THIERER
+RESIDENT SENIOR FELLOW, TECHNOLOGY AND INNOVATION
+R STREET INSTITUTE
+Mr. Thierer. Thank you. Chairwoman Mace, Ranking Member
+Connolly, and Members of the Subcommittee, thank you for
+holding this hearing and for the invitation to appear before
+you. My name is Adam Thierer, and I am a Senior Fellow at the R
+Street Institute where I focus on emerging technology issues. I
+also recently served as Commissioner for the U.S. Chamber of
+Commerce Commission on Artificial Intelligence,
+Competitiveness, Inclusion, and Innovation.
+My message here today boils down to three main points.
+First, it is important to recall the foundational principles
+behind the bipartisan National Framework for Digital Commerce
+that Congress and the Clinton Administration crafted a quarter
+century ago. Freedom to innovate was made America's policy
+default. Lawmakers rejected the inefficient, old regulatory
+models of the analog era, which constrained entrepreneurialism
+and competition. We allowed new digital technologies to be born
+free and to flourish without excessive micromanagement, and
+then we used ongoing multistakeholder efforts and flexible
+regulatory responses to address concerns. Europe took the
+opposite path, and today, heavy-handed technocratic mandates
+have ``regulated its way to last place,'' as a recent Wall
+Street Journal headline observed. In fact, 18 of the 25 largest
+digital technology companies in the world today are U.S. based,
+while it is difficult to name any that are headquartered in
+Europe. While some people have concerns about large technology
+companies today, we should agree that it is better that these
+firms are primarily based here in the United States instead of
+China, Europe, or other countries or continents.
+Further, there is a second point about the connection
+between AI policy and broader national objectives. A strong
+digital technology base is an important source of strength and
+prosperity, so it is essential that our Nation not shoot itself
+in the foot as the next great technological race gets underway
+with China and the rest of the world. Consider this scenario.
+When OpenAI launched ChatGPT in late 2022, it quickly became
+the most rapidly adopted digital technology in history, and
+competing U.S. services from U.S. developers followed quickly.
+Had a Chinese operator launched a major generative AI model
+first, it would have been a Sputnik moment for America.
+Luckily, it is instead foreign nations who are today left
+scratching their heads, wondering how America once again raced
+ahead of them on digital technology. Wise policy choices not
+only strengthen our economy and provide better products and
+jobs, but also bolster our national security and allow our
+values to shape information technology platforms and markets
+globally. We need a national AI policy that is flexible and
+pro-innovation to make sure our firms, workers, and values
+continue to lead the world in this fashion.
+This brings me to the Biden Administration's October
+executive order. This wide-ranging, 100-plus page directive has
+been praised by some as a logical response to congressional
+inaction on AI, but many others have rightly noted that it
+stretches executive authority over emerging technology well
+beyond statutory limits and raises the danger of
+overregulation. For example, the order flips the Defense
+Production Act on its head and converts a 1950's law, meant to
+encourage production, into an expansive regulatory edict
+intended to curtail some forms of algorithmic innovation.
+Twenty state attorneys general recently filed a letter with the
+Department of Commerce noting how the order is ``about
+regulating technological development, not about encouraging the
+production of anything,'' and also objecting to its effort to
+``centralize government control over an emerging technology
+being developed by the private sector.''
+The order also contains open-ended language about taking
+steps to combat algorithmic discrimination and pushes the
+Federal Trade Commission to get more aggressive in policing the
+AI marketplace. These steps open the door to a new regulatory
+regime for AI without any express authority from Congress.
+While other provisions of the order are more reasonable,
+Congress still needs to reassert itself to ensure that
+administrative overreach is curtailed and that agencies adhere
+to the Constitution and their congressionally delegated powers.
+Instead of these arbitrary, excessive mandates, Congress
+needs to craft an AI policy vision that does four things:
+first, it is rooted in a flexible, risk-based framework that
+relies more on ongoing, multistakeholder negotiations and
+evolutionary standards that are more closely matched to rapidly
+changing algorithmic technologies; second, which builds on
+existing government powers on a sectoral basis instead of
+trying to develop an entirely new regulatory superstructure for
+AI; third, which preempts state and local government AI laws
+that create confusing patchworks of conflicting mandates; and
+fourth and most importantly, gives algorithmic entrepreneurs a
+green light and avoids treating AI services as guilty until
+proven innocent as the executive order does.
+In sum, our Nation must create a positive innovation
+culture and avoid trapping our AI innovators in a regulatory
+cage if we hope to prosper economically and ensure a safer,
+more secure technological base. It is essential that we strike
+the right policy balance as we face serious competition from
+China and other nations who are looking to counter America's
+early lead in computational systems and data-driven
+technologies.
+Thank you for holding this hearing and thank you for the
+consideration of my views. I look forward to any questions you
+may have.
+Ms. Mace. Thank you. I now recognize Ms. Huddleston to
+begin her opening statement.
+JENNIFER HUDDLESTON
+TECHNOLOGY POLICY RESEARCH FELLOW
+CATO INSTITUTE
+Ms. Huddleston. Thank you, Chair Mace, Ranking Member
+Connolly, and distinguished Members of the Committee on
+Oversight and Accountability Subcommittee on Cybersecurity,
+Information Technology, and Innovation. My name is Jennifer
+Huddleston, and I am a Technology Policy Research Fellow at the
+Cato Institute, where my research focuses primarily on the
+intersection of law and technologies, including issues related
+to the governance of emerging technologies, such as artificial
+intelligence, better known as AI. Therefore, I welcome the
+opportunity to testify today regarding the recent AI executive
+order issued by the Biden Administration.
+In this testimony, I seek to focus on two key points:
+first, how the AI EO represents a significant shift in the U.S.
+approach to AI policy and to technology policy in general; and
+second, how the AI EO raises concerns about appropriate
+separation of powers at a time when Congress is debating the
+most sensible policy framework to consider for governing AI.
+To begin with, the AI EO represents a significant shift
+from a more permissionless approach to general purpose
+technology and technology policy in general, to a more
+permissioned or precautionary approach, such as those more
+commonly found in Europe. While much of the conversation around
+AI has been recently focused on the generative AI products like
+ChatGPT or DALL-E that became popular with consumers in late
+2022, AI and machine learning has been part of our lives for
+far longer than many of us may realize. From tools that help
+detect potential credit card fraud, to our talk-to-text or
+autocompletes on our phones, to various things that help make
+us find better and faster search results, we have all been
+using artificial intelligence far longer than we may realize.
+AI is helping fight wildfires and enabling stroke victims to
+speak again, and it is estimated that AI could increase
+productivity by 1.5 percent per year and global GDP by $7
+trillion over the next decade.
+All of this is to say, while much of the conversation is
+focused on the potential harms of AI, we should not forget the
+benefits as well. In fact, not all uses of AI can be predicted.
+As we have seen with the internet, one of the things that
+really allowed the U.S. to flourish and one of the reasons why
+the light touch approach gave rise to so many of the wonderful
+products that we have today, is that consumers and innovators
+were able to decide what products were the best applications,
+not government bureaucrats.
+While the AI EO may be the most significant AI policy that
+we have seen at an executive level, it is not the first
+executive that has mentioned AI. In fact, both the Trump
+Administration and the Biden Administration had comments on AI
+and the importance that it may serve for economic growth and
+its valuable tool in the future. Notably, the Biden
+Administration's executive order looks less favorably on the
+potential for a less regulatory approach to this technology,
+and it suggests that there is a case for action amongst
+agencies. It nudges agencies in a do-something direction more
+so than prior administrations, particularly in its invocation
+of the Defense Production Act.
+This brings me to the second point today. The AI EO should
+raise significant concerns about appropriate separation of
+powers. Not only does this represent a change in the overall
+approach to technology, it occurs at a time when Congress is
+actively debating this issue and it occurs by executive order,
+while we have seen many committees, including today's hearing,
+on a wide range of topics in both the House and the Senate,
+consider whether or not a further regulatory framework for AI
+is necessary.
+The most notable example of this is the AI EO's use of the
+Defense Production Act to justify its provisions. This law was
+originally designed to provide the executive with authority to
+meet a national security cris, but the AI EO evokes the Defense
+Production Act, not to respond to such a crisis, but, rather,
+to require innovators of AI products, deemed high risk, notify
+the government and submit to government-run red teaming
+regarding the potential risk of their innovation. This
+executive overreach cannot be presumed to have occurred because
+there is a need for immediate action or because there is a lack
+of attention on Congress' part, and the powers that it passes
+on to the administrative state should be considered carefully
+by Congress. As we know, once power is given to the
+administrative state, it is unlikely to be returned.
+The United States' light touch approach to the internet
+helped enabled its global leadership and realize the economic
+potential of this technology in the past years. This has
+benefited both consumers and innovators and entrepreneurs. As
+we encounter our next disruptive technology era with AI, we
+must consider not only the risk, but also the benefits of such
+technology, many of which we may be unable to predict. The
+United States has a chance to distinguish itself from more
+regulatory approaches once again and embrace an approach that
+allows consumers and innovators to use technology to find
+creative solutions to problems and needs.
+I thank you for this opportunity to testify before you, and
+I welcome your questions.
+Ms. Mace. Thank you. I now recognize Mr. Chilson to begin
+your opening statement.
+STATEMENT OF NEIL CHILSON
+HEAD OF AI POLICY
+THE ABUNDANCE INSTITUTE
+Mr. Chilson. Chair Mace, Ranking Member Connolly, and
+Subcommittee Members, good morning. I am Neil Chilson, the head
+of AI policy at the Abundance Institute. The Abundance
+Institute is a mission-driven, nonprofit (c)(3) dedicated to
+fostering widespread human prosperity by creating an
+environment where emerging technologies, including AI, can
+thrive. Thank you for having me here today to talk about the
+executive order on artificial intelligence.
+The artificial intelligence EO, as noted by the Chair, is
+long. In fact, it is the longest regulatory EO in history.
+According to data from the American Presidency Project, the AI
+EO is 88 times longer than the median executive order. By the
+numbers, it is the third longest executive order in American
+history, but the two EOs that are longer are a 1951 executive
+order containing the entire manual for the military court
+martial procedures and a 1980 EO revising that manual. The AI
+EO is also unusually regulatory because it directs actions by
+dozens of agencies and Federal officials. It mandates 136
+different deliverables, such as reports, guidance documents,
+and dozens of new projects, processes, and plans.
+In short, the AI executive order is unprecedented. Our
+country's history includes many dramatic developments,
+including civil war, mass industrialization, two world wars,
+globalization, and global pandemics, yet no President has ever
+issued such a long and detailed executive order to reorient the
+Federal Government on a policy issue.
+The executive order will generate sweeping activity across
+the Federal Government, redirecting at least tens of millions
+of tax dollars and hundreds of thousands of hours of government
+effort. Some of that activity will be productive and
+appropriate, particularly where it focuses on the government's
+own use of AI, but the executive order overreaches in at least
+two ways. First, the President lacks the authority to impose
+the executive order's Section 4.2's obligations on private
+companies. The executive order claims authority under the
+Defense Production Act, which is a Korean War-era law intended
+to reduce one very specific type of national security risk--
+threats to ``the ability of the domestic industrial base to
+supply materials and services that are needed for national
+defense and disaster recovery.''
+But the DPA does not authorize Section 4.2 for three
+reasons. First, there is no threat to the ability of the
+domestic industrial base to supply AI capabilities. The U.S.
+leads the world in supplying AI capabilities. Indeed, the White
+House, if anything, seems concerned with an oversupply of AI
+capabilities. As the EO itself notes, AI capabilities are
+advancing at rapid speed. Second, even if there were such a
+threat, Section 4.2 will not increase production of AI
+capability. Section 4.2 surveils an entire industry segment for
+various potential risks unrelated to production. The only
+production Section 4.2 will promote will be the production of
+highly sensitive commercial and cybersecurity information from
+companies to the government. Third, and most fundamentally, the
+DPA simply cannot shortcut the constitutionally established
+method of democratic lawmaking in the U.S. As we have heard,
+Congress is actively considering 28 AI-related bills. The DPA
+does not empower the President to skip ahead of Congress on
+this.
+The EO overreaches in a second way. The executive order's
+definition of ``artificial intelligence'' is so broad that it
+covers common everyday software, from social media content
+moderation algorithms, to insurance models, to common consumer
+and business financial tools. This broad definition means that
+many of the regulatory actions spurred by the executive order
+could apply not just to AI companies, but to any software
+developer in industries, such as transportation, education,
+healthcare, or energy. Even were it desirable to revise the
+U.S.'s highly successful approach to software regulation, doing
+so through a Presidential executive order is inappropriate.
+Such a change deserves to be considered, refined, and decided
+by Congress.
+In conclusion, the executive order could have focused on
+establishing a positive vision for a future of AI while
+protecting civil rights from government misuse of these
+technologies. Instead, it usurps Congress, abusing the DPA to
+impose new regulations, and spurring regulatory action that
+will affect the entire software industry. This overreach calls
+for continued congressional oversight, democratic
+accountability, and potentially legislative or judicial course
+correction. Thank you, and I look forward to your questions.
+Ms. Mace. Thank you. I now recognize Dr. Lee for her 5-
+minute opening statement.
+STATEMENT OF DR. NICOL TURNER LEE
+SENIOR FELLOW, GOVERNANCE STUDIES, AND
+DIRECTOR, CENTER FOR TECHNOLOGY INNOVATION
+BROOKINGS INSTITUTION
+Dr. Turner Lee. Thank you, Chairwoman Mace, Ranking Member
+Connolly, and distinguished Members of the Subcommittee, for
+the invitation to testify on President's Biden's executive
+order on safe, secure, and trustworthy development and use of
+AI. I am Dr. Nicol Turner Lee, Senior Fellow at the Brookings
+Institution, which has a 100 year history of evidence-based,
+nonpartisan research, and I thank you, Chairwoman, for the
+mention.
+With that being said in my brief remarks, I just want to
+remind people that getting to the EO has been a long,
+deliberate, participatory process, and it has been one in which
+we have had several government actions proceeding and
+surrounding it, such as the Blueprint for an AI Bill of Rights
+released in October 2022, the National Institute of Standards
+and Technologies AI Risk Management Framework released in 2023,
+the securing of voluntary commitments by some of the top
+companies in July 2023, and the OMB guidance released shortly
+after October in November 2023. These actions reflect a whole-
+of-governance governance approach, and they are really
+important for us to achieve national guidance as AI becomes
+both an asset and concern for our national security interests.
+I want to also share that Congress must act quickly on many
+of these proposals in our decision to maintain our status as
+leaders in the global economy. Rather than say that this is
+overreach, I consider these efforts to be preparation toward a
+more responsible, inclusive AI ecosystem. This first formidable
+action on AI under the Blueprint for an AI Bill of Rights
+shared a nonbinding roadmap for the responsible use of
+artificial intelligence. We then proceeded to have NIST, who
+gave us the risk management framework as a multi-tool for
+organizations to design and manage trustworthy and responsible
+technologies that are meant to be voluntary, rights preserving,
+nonspecific, use case agnostic. NIST is also going to release a
+playbook that will be a companion to this, and we recently
+launched the AI Safety Institute Consortium to bring
+stakeholders together to jointly develop and diffuse best
+practices, standards, and other things.
+A few months later, as it was mentioned, the White House
+secured voluntary commitments from some of the leading U.S.-
+based AI companies that want to equally ensure safety,
+security, trust with advanced systems. They are willing to not
+only look at their own business models, but to find ways to
+engage in public reporting of their system capabilities,
+limitations, and guidelines for use. The most notable
+advancement, so far, is the Robust Watermarking Solution that
+these companies are working on together to ensure that we can
+authenticate AI-generated content.
+While the executive order may appear to be a variety of
+issues packaged into one, it is intentionally designed to be
+such. We have put in the work to make sure we have gotten to
+this point, and the EO will not only pursue the eight
+benchmarks that are outlined in its mandate, it also, on a
+cumulative level, has pursued us to look at best practice for
+AI use in criminal justice, education, healthcare, and other
+thoughtful processes that develop an astute and ready
+workforce. The actions to engage the Federal Government is
+probably the most ambitious, yet necessary, action to confirm
+our resilience among foreign actors and others who want to
+leverage malicious attacks.
+In my written statement, I opine more on the January 24
+progress report issued by the White House, which suggests that
+we actually are meeting many of those benchmarks, even in light
+of some of the concerns of my colleagues. Going forward, if the
+U.S. wants to be a leader in innovation, we must be responsibly
+prepared to manage those risks. AI can be developed with
+positive intentions, such as saving the climate, and
+simultaneously lean into negative uses, such as a large-scale
+generation and dissemination of misinformation and deepfakes,
+activities that are quickly appending important democratic
+institutions, like voting and elections infrastructure.
+Moreover, the advanced capabilities of frontier models, like
+generative AI, will only deepen these effects, particularly if
+our government does not act quickly to get ahead of this
+technology. Again, instead of seeing this as overreach, this is
+a whole-of-government approach that is thoughtful,
+participatory, coordinated, and have been percolating for a
+matter of years.
+More importantly, if Congress does not act, states will,
+China will, and other nations who are not only leading us in
+comprehensive legislation, but will soon be the standards that
+are going to develop the AI ecosystem. That is why we have
+urgent assignment to move and legislate on what is actually in
+the EO. More so, instead of having a patchwork of state laws
+and local provisions, it is important that Congress be
+concerned about these interests of AI simply on the national
+security interests, simply on the public consumer protection
+concerns, and more so because we want to be the leaders in this
+technology.
+I urge Congress to consider that we already have many
+proposals that have some bipartisan support, like the National
+AI Commission Act, the Protect Elections from Deceptive AI Act,
+and let us move so that we do not have to continue this
+conversation again.
+Ms. Mace. Thank you so much. I will now recognize myself
+for 5 minutes.
+Generally, my questions will be for the entire panel. I am
+a big fan of ``yes'' or ``no,'' so if you want to elaborate, I
+would just ask that you make it quick because I would like to
+hear from a lot of voices here this morning. The executive
+order is actually one of the longest EOs ever written at over
+100 pages, and it absolutely will encumber tech in a lot of
+ways, as we heard from our witnesses this morning.
+My first question is, the Commerce Department could not
+protect Secretary Raimondo's own email account from being
+hacked last year, yet this EO requires firms to share with the
+Agency on a daily basis the crown jewel secrets of the most
+powerful AI systems on earth. First question: can we trust
+Commerce to ensure this highly sensitive data does not fall
+into the hands of China or another foreign adversary? Yes or
+no.
+Mr. Thierer. No.
+Ms. Huddleston. I think we have seen that there is a need
+for a greater discussion of improving cybersecurity, both in
+the government and beyond.
+Mr. Chilson. No, and we should not have to.
+Dr. Turner Lee. Yes.
+Ms. Mace. OK. Thank you. According to the executive order,
+the over 100-page executive order, irresponsible use of AI
+could exacerbate ``social harms,'' including,
+``disinformation.'' Should we trust the government to be the
+ultimate arbiter of what is disinformation and what may cause
+social harm in AI systems? Mr. Thierer?
+Mr. Thierer. No.
+Ms. Huddleston. No, and we should be concerned about the
+First Amendment approach of doing such.
+Mr. Chilson. Absolutely not.
+Dr. Turner Lee. I will say yes, and government, with our
+civil society, industry partners, alongside of us.
+Ms. Mace. Should AI model developers have to give the
+government all their test results and test data, even those
+concerning politics or religion? Mr. Thierer?
+Mr. Thierer. No.
+Ms. Huddleston. I think it is a highly concerning proposal
+with significant consequences for innovation.
+Mr. Chilson. No.
+Dr. Turner Lee. You know what I am going to say.
+Ms. Mace. You are going to say yes.
+
+Dr. Turner Lee. Especially in high----
+Ms. Mace. You are going to be the one dissenter this
+morning.
+Dr. Turner Lee. Yes, especially in high stakes.
+Ms. Mace. What are some of the, just very quickly, the
+risks if companies are giving their test data over to the
+government? Mr. Thierer?
+Mr. Thierer. There are security risks, of course. There are
+also concerns about how there might be speech meddling of
+various types, the sort of jawboning that could be associated
+with that sort of heavy-handed approach.
+Ms. Mace. What would the government do with such
+information potentially?
+Mr. Thierer. Well, it depends. We know in the past, there
+has been efforts by government authorities to utilize such
+information to try to curb certain types of behaviors or to try
+to intimidate certain people to do things against their will
+and without due process.
+Ms. Mace. Ms. Huddleston?
+Ms. Huddleston. Similarly, I think there are concerns about
+how this could have an impact on speech as well as innovation
+more generally, with the idea that innovators would have to
+seek permission from the government before engaging in their
+innovation, rather than having it play out in the marketplace
+of ideas.
+Mr. Chilson. I think one of the other big effects other
+than the government misuse would be the chilling effects it
+would have on people using tools like this to say things that
+they think the government might not want them to say.
+Dr. Turner Lee. And I would just suggest that I think we
+are conflating surveillance technology and how we actually look
+at government on the surveillance side versus what the EO is
+actually dictating, which is accountability, and the AI
+training data, and the test beds as we look at high-stakes
+applications. So, I would like us just to clarify that.
+Ms. Mace. OK. And then, well, my last point is, you know, I
+think we can all learn something, probably from recent history,
+the FBI's interpretation of the Hunter Biden laptop as Russian
+disinformation, and we had a number of over 20 former intel
+officers and folks that wrote a letter saying it was Russian
+disinformation. Come to find out, it was not. I think that is a
+concern that a lot of folks have on what the government will do
+with data, what the government will do with information, what
+the government will do with testing information, algorithms,
+code and programming product, et cetera.
+The EO requires companies even considering developing dual
+use foundation AI models to report to the government on an
+ongoing basis again about their most sensitive business
+secrets. Could the justification for using the DPA here be used
+in the future to demand highly sensitive plans and data from
+firms in any emerging technology field? Mr. Thierer?
+Mr. Thierer. Yes, it could, and we should avoid it for that
+reason.
+Ms. Mace. Ms. Huddelston?
+Ms. Huddleston. Yes, and it is concerning with the power
+that would give to the administrative state over technology,
+more generally.
+Mr. Chilson. The EO offers no limiting principle on the use
+of the DPA, and so I think we could expect that people will
+continue to walk down this road.
+Dr. Turner Lee. And I would just suggest that the
+invocation of the DPA is coming in absence of congressional
+action. If Congress were to provide some parameters on how we
+exercise some of the, you know, principles that are embedded in
+the EO, as well as things like congressional activities that we
+want to actually foster, I do not think we would have that
+problem. Congress just needs to act and legislate.
+Ms. Mace. All right. Thank you. I want to thank our
+participants on the panel today. We appreciate your time, your
+insight and expertise, and I will now yield 5 minutes to my
+esteemed colleague from Virginia.
+Mr. Connolly. Thank you. Mr. Chilson, I am a little
+puzzled. You spent a lot of time criticizing the EO because it
+was too long, and I guess sitting up here looking at a very
+complex subject that has never been addressed before, and that
+many other people sat where you are sitting, Republican
+witnesses, chosen witnesses, all praise the EO as, yes, it
+gives us a framework we can work with, and they were not
+worried too much about overreach, you know. They felt it gave
+us a platform we can build on as we learn more, as we
+experience more. Why are you so bothered by the fact of its
+length?
+Mr. Chilson. So, I cannot speak for what other people might
+think about the EO. I can only speak for my experience in
+Federal Government and watching the regulatory process. What
+concerns me about the length of the EO is its unprecedented
+nature because it looks like legislation. If you slap the bill
+number on top of it----
+Mr. Connolly. OK. Can I interrupt you because I get that
+point, too, and I made a note of that. You went on to say it
+actually usurps the role of Congress. You said that. Well, you
+know, we do have a government with three branches, and we are a
+co-equal branch of government. So is the executive. And when
+one of those branches fails to act, that creates a vacuum that
+almost demands the others act, depending on the urgency of the
+situation. Now, it is nice to say, and I am a big champion of
+legislative prerogatives, and I believe Article I is Article I
+for a reason, and Article II is Article II for a reason, namely
+we are supposed to be the predominant arbiter of government.
+That was certainly what was in Madison's mind, but that is a
+different conversation.
+So, in the first session of the 117th Congress, we signed
+into law about a hundred bills, very far reaching in some
+cases, very visionary. In this Congress, 31, and half of them
+are post office namings. This is not a serious Congress. You
+mentioned, I think, 28 bills addressing AI. Not one has become
+law, and given our pace, it is unlikely any of them will become
+law in this Congress. We are not doing anything, and when that
+happens, it seems to me the President has an obligation to
+address an urgent and imminent subject like AI. And so, even
+though I share your passion about the prerogatives and
+responsibilities of the legislative branch, in this particular
+case, I have to defend the executive branch. They have not
+usurped Congress. They have actually done what Congress ought
+to do but is not going to do because we are not doing our jobs
+up here. In fact, we are not only not doing our jobs, we are
+actually regressing.
+So, in the appropriations bill, Nancy and I and others are
+going to vote on this week, apparently, they have zeroed out a
+congressionally created fund--by the way, I worked with Will
+Hurd on this, a Republican--the technology management fund,
+because apparently we do not need any more investment in
+technology. You know, we do not need more cyber capability. We
+do not need more AI training. We do not need any of that stuff.
+We do not need to protect data bases that you are worried about
+being compromised. And so, we are going to zero out the
+technology management fund created by Congress. So, we are
+going backward, we are not going forwards, and I just
+respectfully disagree with you. I do not think the executive
+order, I do not care how long it is myself, and I do not think
+that is a particularly viable critique. And with respect to
+usurping Congress, I do not think so.
+Now, the third critique I think you had in your testimony
+was overreach and echoed by your two colleagues on the other
+side of the panel. I want to give Dr. Turner Lee an opportunity
+to address that one. So, is it overreach? I mean, should we be
+worried that they have gone too far, and they are intruding in
+our lives, and they are going to compromise the ability of AI
+and all of its promise?
+Dr. Turner Lee. I would disagree with it being overreach.
+When I started in this space back in the early 2000's--I have
+been in technology since then when we were looking at regular
+data bases and stuff--we did not have any framework for
+predictive decisionmaking, and we had many conversations on
+algorithmic bias. We were seeing that people were having equal
+opportunities foreclosed simply because an algorithm made a
+decision. That was the very first basic step at looking at
+algorithmic discrimination and stuff like that. Now we have
+advanced capabilities through frontier models that are actually
+extracting data-text, voice, images--in ways that actually are
+so opaque and less transparent that we need more guidance. The
+technology continues to outpace policy in that matter. With
+that being the case, to your point, I think we have had many
+congressional bills that have come to the Floor, but they have
+been too late, so we have had to relitigate and remitigate what
+those bills are. In addition to that, we have been slow to the
+pace when it comes to data privacy protections, reevaluating
+our civil rights framework, things like that. I, in no way,
+think this is overreach.
+As a scholar at Brookings who is interested in trying to
+figure out proactive, evidence-based strategies to move
+forward, this is actually preparation. Without such
+preparation, as I said in my testimony orally as well as
+written, other countries are going to define the landscape for
+AI regulation, and we will be subjected to their rules, not
+just on the behavioral aspects, but also on those sides of the
+technical cadence.
+Mr. Connolly. Thank you. Madam Chair, I yield back.
+Ms. Mace. Thank you. I will now recognize Mr. Timmons for 5
+minutes.
+Mr. Timmons. Thank you, Madam Chair. I guess, first, I just
+want to respond to my colleague's, across the aisle, indictment
+of this Congress. Us not doing anything this Congress is a
+response to my colleagues across the aisle spending about $7
+trillion last Congress, and it has really caused my
+constituents a lot of problems. Inflation is through the roof.
+The cost of energy, groceries, interest rates are up. It is
+really costing Americans a lot. And so, we are struggling with
+our $34 trillion in debt. We are struggling with the fact that
+every hundred days we add a trillion dollars to our national
+debt, and really, our fiscal situation is out of control. So,
+we are very concerned about that, and we are going to try to
+find a path forward that is sustainable for the American
+people, that will give our kids and grandkids the American
+Dream for generations to come, but I am very fearful that that
+is not going to work out. So, we are going to focus on that.
+That said, we do need to address AI, and just because
+Congress is unable to address AI as quickly as we should does
+not give the President the right to legislate for us. It is
+just a really bad idea. You know, this has been tried again and
+again. I guess first, Mr. Chilson, who wrote this? I mean, this
+is very technical. It is very long as we keep saying, and, I
+mean, who wrote this?
+Mr. Chilson. I mean, it went through a White House process.
+I do not know many details about that process. It looks like a
+bunch of people wrote it.
+Mr. Timmons. It is extremely technical, right? I mean, it
+is extremely technical, so, I mean, people that have expertise
+that probably have an interest in a regulatory structure being
+placed on this. I mean, do you have any idea what groups were
+involved? Is there any transparency to that?
+Mr. Chilson. I do not. I think that is a good question for
+Congress to ask and an oversight committee to ask, and I do not
+have good information on that. I know there were a lot of
+participants. There were probably a lot of people who are
+asking for different things to be included in this, and that
+is, in part, why it ended up so long.
+Mr. Timmons. So, all the reporting requirements, does that
+not chill innovation? I mean, there are a lot of proprietary
+approaches to this. Is it going to chill innovation?
+Mr. Chilson. I think it could chill innovation in a couple
+of different ways. One, companies, when they are thinking about
+what sensitive data that they are going to have to report to
+the government, they are going to have to make a tradeoff.
+Like, are we going to grow big enough to meet the caps that put
+us over this reporting threshold, or are we going to stay under
+that and limit ourselves artificially in order to not have to
+comply with these specific rules? And I think that would be to
+the detriment of U.S. leadership in AI.
+Mr. Timmons. A lot of these companies are global. I mean,
+could they not just move their development overseas outside the
+jurisdiction of the U.S., or does the Defense Production Act
+somehow extend beyond our borders?
+Mr. Chilson. They absolutely could move overseas, and I
+know that there are jurisdictions that are actively recruiting
+AI startups and AI companies to move to their jurisdictions,
+promising them less constraining regulatory environments.
+Mr. Timmons. Dr. Lee, you used the term ``nonbinding.'' You
+were not referencing this executive order, were you?
+Dr. Turner Lee. In terms of the nonbinding reference, we
+know that much of the content that was in the AI Bill of Rights
+was nonbinding. It was more voluntary. And up until the
+executive order, as you all are aware, we really do not have
+any binding requirements unless the DPA is used for the test
+bed.
+Mr. Timmons. But----
+Dr. Turner Lee. It only applies to certain aspects of the
+EO, as we know.
+Mr. Timmons. OK. So, my understanding is that there are
+criminal penalties for not abiding by the DPA, and this is
+using those authorities, so would it not be a criminal offense
+that would result in jail and a fine should a company not
+comply? And I guess another question is, who would that even
+apply to? Would that be, like, the CEO? Would it be the board
+members of the company? How does that work?
+Dr. Turner Lee. So, I am with you. There actually has to be
+more clarification on how that enforcement strategy looks like,
+but remember, the regime of the DPA applies to only specific
+aspects of the EO itself. And to your question, if I may,
+respectfully, who wrote this was the American people, right? It
+was accumulation of all these activities leading up to the
+actual EO itself. So, I wanted to clarify because I kind of
+have some insight into some of the stakeholders that
+participated.
+Mr. Timmons. I mean, I think some of the technical
+expertise of this--look, I got a master's degree in
+cybersecurity, and I understand this as well as anybody.
+Dr. Turner Lee. Yes.
+Mr. Timmons. And I am reading some of this, and, you know,
+it requires a quantity of computing power greater than 10 to
+the 26 integer. I do not think the American people have any
+idea what that means, so with all due respect, the American
+people did not write this. Mr. Thierer, do you have any
+understanding of how this would be enforced in regard to
+noncompliance? I mean, would the CEO or would board members go
+to jail? Like, how would that work?
+Mr. Thierer. I think that is a great question. Recall that
+in the letter that the 20 AGs sent, they actually referred to
+this ``opaque and undemocratic process'' by forcing AI
+developers to submit information, but it was unclear to the AGs
+themselves, and they asked the Department of Commerce, like,
+what is going on here? So, we do not have answers to your
+questions, Congressman.
+Mr. Timmons. So basically, we took a problem and made it
+worse. It seems that way.
+Mr. Thierer. I think so.
+Mr. Timmons. But again, Congress does need to act, to be
+fair, so maybe we should get our act together and address this
+in a way that can facilitate innovation and keep the United
+States on the forefront of being the best economy in the world.
+Thank you, Madam Chair. I yield back.
+Ms. Mace. Thank you. I will now turn it over for 5 minutes
+to Ms. Pressley.
+Ms. Pressley. Thank you, Madam Chair, and thank you to our
+witnesses for being here today. As a Member of the Financial
+Services Committee's bipartisan Working Group on Artificial
+Intelligence, I have no doubt that while AI presents
+opportunities for progress, it also poses significant risks,
+from undermining our privacy, to inciting political violence,
+to spreading disinformation. Congress has been slow to act,
+forcing the Biden-Harris Administration to take executive
+action to enforce standards and guardrails. The AI EO does just
+that, and to suggest that the White House is overstepping,
+especially when just last week, this Subcommittee heard
+devastating testimony on AI's infringement on the privacy and
+civil rights of women and girls. So that overreach
+characterization is absurd, in my opinion.
+Dr. Turner Lee, in what ways can AI pose disproportionate
+threats to people from marginalized backgrounds?
+Dr. Turner Lee. That is an area that I spend a lot of time
+with, and I think the effects on marginalized populations are a
+couple of things. One, the lack of transparency of AI systems,
+and particularly how they factor into predictive decisionmaking
+or eligibility concerns, can foreclose on equal opportunities.
+People do not know what those factors are that are going into
+credit decisions, housing decisions, criminal justice
+decisions, and the like. I would also say that people of color
+are disproportionately impacted by deepfakes and
+misinformation. The lack of transparency, actually, which is an
+issue. Deepfakes affect anybody in any state and any party when
+you actually look at it, but the lack of transparency
+particularly affects communities of color who have less agency.
+And then finally, I would just say criminal justice. I just
+spent a year and a half with the National Academies on facial
+recognition use in law enforcement, and in that application of
+AI, we also see a lot of vulnerabilities as well.
+Ms. Pressley. Thank you. Yes, AI algorithms trained on
+skewed, inaccurate, or unrepresentative data magnify human
+biases, lead to discriminatory outcomes. The previous
+Administration, for example, has an abysmal record of using
+technology to incarcerate and to persecute communities of
+color. The Trump Administration used AI to identify legal
+protesters during the George Floyd protest, to employ racist
+algorithms with Immigration and Customs Enforcement to profile
+Muslims entering the country, and haphazardly arrest Chinese
+Americans during its China initiative. Meanwhile, President
+Biden's executive order takes unprecedented action to allow
+innovation while protecting people's privacy and civil rights.
+Dr. Turner Lee, are the steps outlined in the Biden-Harris
+Administration's EO sufficient to address biases in AI that can
+lead to discriminatory outcomes?
+Dr. Turner Lee. I wholeheartedly agree. I applaud this
+Administration for including words like ``equity'' and
+``parity'' as part of the EO in very outright ways so that we
+address this issue front hand. I also think, to your point and
+to the earlier conversation from my colleagues around the
+government use of AI, it is very clear in the EO this
+distinction between government surveillance that is used for
+malicious intent by government, versus resiliency, which is the
+Federal agencies just having clearer pathways on their use of
+AI generally, whether it is in benefits decisions, criminal
+justice decisions and actions, and so forth.
+Ms. Pressley. Thank you. And, Dr. Turner Lee, what elements
+of the EO can Congress strengthen to ensure that advances in AI
+technology are not used to further involve people with the
+criminal legal system?
+Dr. Turner Lee. I think that Congress can take some steps,
+and there has been some bipartisan support around the use of
+facial recognition technology and how we actually not
+necessarily ban it, but we have some guardrails that make sense
+for various communities. I think Congress can also act on data
+privacy legislation. That legislation will allow some sense of
+guidance on what data can be collected, and in the area of
+biometric collection that can also safeguard communities of
+color. I think conversations on election and AI infrastructure
+and architecture should be of concern, and it has been on a
+bipartisan level. I think all of us are concerned about the
+integrity of our elections based on artificial intelligence and
+generative AI. So, I think there is a host of them. I am happy
+to share more of those with you, Congresswoman, going forward.
+Ms. Pressley. Thank you, and, you know, certainly we have a
+responsibility to be innovative in our efforts in order to
+build reliable protections for everyone, especially those who
+have historically been left behind or targeted. So, I invite
+all my colleagues to link arms and minds, if you will, in
+carrying out that work. Whether it is the use of facial
+recognition technology to criminalize people of color, deep
+fake pornography to degrade women, or biased algorithms to keep
+vulnerable community members from accessing critical resources,
+existing equity concerns are at risk of being worsened for
+people in my district, the Massachusetts 7th, and across our
+country. Thank you, and I yield back.
+Ms. Mace. Thank you. I will now recognize Mr. Burchett for
+5 minutes. I am looking forward to your questions on AI, sir.
+Mr. Burchett. Thank you, Chairlady. Mr. Thierer and Mr.
+Chilson, what is the historical background of the Defense
+Production Act?
+Mr. Thierer. Well, it was put in place, sir, to make sure
+that America had the proper productive capacity of the
+environment.
+Mr. Burchett. I realize that, but, I mean, I want to know
+the background. What caused it to be in place?
+Mr. Thierer. A concern about the lack of a productive
+capacity in certain sectors that the Federal Government felt
+were necessary to achieve various national security purposes.
+This was, of course, in the 1950s, a different time.
+Mr. Burchett. Right. That is what I was getting at, the
+Korean War.
+Mr. Thierer. Yes, a long time ago.
+Mr. Burchett. Yes, sir. And the primary purpose of the
+Defense Production Act is to allow the President to direct the
+production of materials and goods. Is that correct?
+Mr. Thierer. Yes, that is correct. Yes, that is correct.
+Mr. Burchett. OK. What materials or goods does Executive
+Order 14110 direct companies to produce?
+Mr. Chilson. Documents containing highly sensitive
+commercial and cybersecurity information.
+Mr. Burchett. OK. And what national security concerns exist
+regarding AI that justifies using the Defense Production Act?
+Mr. Chilson. Well, I think there are national security
+concerns around AI. We have heard a lot of talk about, you
+know, the rivalry with China and the importance of staying
+ahead, so there are concerns there. But as for ones that
+directly address the kinds of threats to interrupted production
+that the Defense Production Act is looking for, again, as Adam
+said, it turned the DPA on its head, which the DPA is to allow
+the government to spur production. And the executive order uses
+the DPA in order to discourage production on some levels, in
+part by imposing additional regulatory burdens on people who
+are producing at the highest level.
+Mr. Burchett. Has the Defense Production Act been used to
+extract information from companies rather than to encourage
+production? Either one of you all.
+Mr. Thierer. Not that I am aware of.
+Mr. Chilson. I have heard that there has been already an
+immediate request based on this use of the Defense Production
+Act, but I think in the past, I am not aware of another one.
+Mr. Burchett. Do you think using the Defense Production Act
+to regulate artificial intelligence is a bit of an overreach,
+and would Congress be better suited to regulate artificial
+intelligence?
+Mr. Thierer. Yes, Congressman, I think that is right. The
+authority begins here to decide what the Defense Production Act
+should do, and I think now we are witnessing pretty excessive
+overreach of the statute.
+Mr. Burchett. Do you all think that this executive order
+could stifle artificial intelligence innovation?
+Mr. Chilson. I do, and I think the use of the DPA here
+undermines some of the other important goals that Congresswoman
+Pressley was pointing out about government uses and the risks
+of government use of AI.
+Mr. Burchett. Ma'am, you were shaking your head.
+Dr. Turner Lee. May I respond? Yes. I actually disagree
+with that. I think, and going to my colleague here, who I have
+known for many years, I think what the Congresswoman was
+talking about does not require the use of the DPA, in all
+honesty. It actually just requires transparency, disclosure,
+that kind of stuff. I think the DPA was actually exercised
+based on just giving some push to us to do something as a
+national economy so that we make sure we are not behind others,
+particularly China, when it comes to AI.
+Mr. Burchett. Ms. Huddleston, you have not responded. Would
+you like to?
+Ms. Huddleston. I would agree with Mr. Chilson that I do
+think there are significant concerns about how the executive
+order could stifle innovation at a time when AI is still just
+emerging and we are just starting to understand the potential
+beneficial applications of it, as well as the potential risk.
+Mr. Burchett. Do you all think that the executive order
+strengthens the U.S.'s ability to maintain its lead over China?
+Ma'am?
+Dr. Turner Lee. I do, and, again, responding to my
+colleagues, when we talk about stifling innovation and
+invention in this country when it comes to AI, I think we have
+two different conversations going on. One is a conversation
+around the efficiency and use of AI in areas like, you know,
+occupational careers, different sub-stacks, technological
+applications. The other was around the sociotechnical
+application. How does the public interest benefit from the use
+of AI?
+Mr. Burchett. Right.
+Dr. Turner Lee. And I would just urge us to sort of not
+conflate those two areas.
+Mr. Burchett. Well, how does it do that?
+Dr. Turner Lee. When we have an informed populace that
+understands that technology is embedded in basically everything
+that we are doing today, our informed populace can make
+decisions that actually benefit their quality of life. When
+they do not know that these technologies or AI-generated
+content is happening, we are actually stifling our ability to
+move this Nation into a space where, to your point, we can stay
+competitive with our rivals.
+Mr. Burchett. Yes, my biggest fear with this, again, is we
+do not understand it. Heck, I do not understand it, and
+Chairlady Mace probably understands it, and my colleague across
+the aisle probably understands it. But here again, we are going
+to start regulating something we do not understand because we
+are government and we are supposed to, and then, again, it is
+just like cryptocurrency and everything else, dadgummit. We
+will end up hurting it, you know, so that is my concern.
+Chairlady, I yield back none of my time. Matter of fact, that
+is a negative amount of time, so I do not know if that
+penalizes me on the next or not.
+Ms. Mace. You did good, Mr. Burchett. I will now yield to
+Mr. Burlison for 5 minutes.
+Mr. Burlison. Thank you. Dr. Lee, would you say that
+democracy is important in the United States?
+Dr. Turner Lee. Yes.
+Mr. Burlison. Would you say at times it is a threat?
+Dr. Turner Lee. Yes.
+Mr. Burlison. I would agree. Let me ask you this. Would you
+think that an authoritarian state that does not represent the
+elected people is a threat to democracy?
+Dr. Turner Lee. I am happy I do not live in an
+authoritarian state, in a democracy that we have here in the
+United States, so I cannot tell you from personal experience.
+Mr. Burlison. Well, so, I humbly disagree because
+unfortunately, what we are seeing here, in my opinion, is an
+authoritarian move. This new executive order is not being
+conducted by the legislative body, people that were elected to
+represent the people of the United States. It is being written
+by people who have never run for office, to my knowledge,
+probably never run for office, do not have to answer to any
+voters whatsoever. So, Mr., is it Thierer?
+Mr. Thierer. Yes.
+Mr. Burlison. OK. In an analysis of the executive order
+last year, you stated that, ``The unilateral and heavy-handed
+administrative meddling in AI markets could undermine America's
+global competitiveness and even the Nation's geopolitical
+security, if taken too far.'' Has this executive order gone too
+far?
+Mr. Thierer. It very well could. You know, Congressman,
+just this week, Saudi Arabia announced historic investment in
+its AI capacity, something like $40 billion. Last September,
+the Government of the UAE came out with an open-source AI model
+that is 2.5 times larger than America's largest open-source AI
+model. So, it is not just China we face off against, it is all
+sorts of countries. Russia just developed one of its biggest
+supercomputers. If this executive order shoots ourselves in the
+foot as a Nation and holds back our innovative capacity, that
+has massive ramifications for our competitiveness and our
+geopolitical security.
+Mr. Burlison. Yes. My other question has to do with the
+fact that the executive order establishes an HHS AI task force
+tasked with developing a strategic plan to regulate aspects of
+AI in the healthcare industry, including research and
+discovery, drug and device safety, healthcare delivery and
+financing, and public health. Could this lead to an onslaught
+of additional regulations?
+Mr. Thierer. Absolutely, and we were already seeing it. We
+should keep in mind our Federal Government is massive; 438
+Federal departments, 2.2 million civilian workers working at
+them. Every one of these agencies is interested in taking a
+look at AI. This executive order essentially gives them the
+green light to do so and says go for it without any express
+congressional intent.
+Mr. Burlison. As someone who worked in the healthcare IT
+industry for 20 years, I can tell you that this place does not
+aid, was not helpful in improving the lives of the American
+people when it passed, under the American Recovery and
+Reinvestment Act, the meaningful use criteria that every
+software electronic medical record system had to accommodate in
+order to continue to receive full reimbursement from Medicare.
+The outcome, my statement, the outcome is basically proven
+that, and that is that what that regulation did was shut down
+many electronic medical record companies across the United
+States, which forced doctors to consolidate, change their
+records, migrate them to a new platform, or to stand up a
+platform altogether. They were happy with a paper chart. Would
+you agree with me that that outcome, creating what is basically
+a duopoly in the healthcare IT space, is not good for doctors,
+not good for patients, not good for consumers?
+Mr. Thierer. Yes. Well, of course not, and, of course, this
+effort by the Administration is just going to add more
+compliance costs and regulations on top of it. I know you
+mentioned this at the last hearing on this, Congressman, that
+these sorts of burdens can compile and buildup on small
+innovators and force them to move or get out of the field.
+Mr. Burlison. Thank you. And, you know, at the end of the
+day, it was said that if we do not take action, the states will
+take action. Well, I seem to recall that the United States
+Constitution and this system of government did not create the
+states. In fact, it is the other way around. The states created
+the Federal Government. And in the Tenth Amendment, it
+specifically says, ``The powers not delegated to the United
+States by the Constitution nor prohibited to it to the states
+are reserved to the states, respectively, or to the people.''
+So, my question to you, ``left to the states,'' wouldn't it be
+better to have a microcosm of experiments, especially in a
+field that we know so little about at this point in time?
+Mr. Thierer. It depends on the rules. There are a lot of
+proposals out there, a huge increase in the sort of compliance
+burden if we have too much of a patchwork. The leading law on
+AI hiring right now in the Nation is from New York City. Not
+New York State. New York City. You can imagine if every city
+has its own plan on AI, that could be a problem.
+Mr. Burlison. Thank you. My time has expired.
+Ms. Mace. All right. We are waiting on one more Member who
+is coming, so I am going to ask a few questions that I did not
+get to ask earlier, so I will now recognize myself for 5
+minutes.
+So, the executive order came out at the end of October, and
+it said that Commerce would have to implement and get moving
+after 90 days, which would have been the end of January. Does
+anyone on the panel know if Commerce is doing anything related
+to this executive order at this juncture today, middle to end
+of March, soon to be April? Does anybody know?
+Mr. Chilson. They certainly are doing a lot, actually.
+Ms. Mace. Mm-hmm.
+Mr. Chilson. There are several rulemakings and other
+proceedings that are ongoing. NTIA, which is part of the
+Department of Commerce, has a rulemaking on open-source models,
+and so there is a lot of swirl at NTIA, and I think across
+Commerce, so yes.
+Dr. Turner Lee. And I would echo that, Chairwoman, that
+Commerce has actually started, like other Federal agencies, to
+go deeper into these issues. So, there are activities as well
+as comments that will come out shortly, I am sure, on that.
+Ms. Mace. Any movement on the DPA provisions of the EO?
+Mr. Chilson. I have only heard that there was a request to
+some companies in mid-December that they start filing
+information. The understanding of the DPA provisions as the
+executive order came out was that none of the current models
+met the threshold for reporting yet, and so that request that I
+have heard has gone out, it is not quite clear why that request
+had gone out, and so----
+Ms. Mace. Because they had not met the threshold.
+Mr. Chilson. There is language in the DPA provision----
+Ms. Mace. Mm-hmm.
+Mr. Chilson . That says if you are even
+thinking of getting over the threshold, you also have to
+report, and maybe that is----
+Ms. Mace. And how do they report? How are companies----
+Mr. Chilson. I do not know what the exact procedure is. The
+executive order does not lay that out in specific detail. I
+think it would be up to whatever the requests are that are
+coming in. In fact, the executive order does not give a ton of
+detail about what specific information. It gives general
+categories, but I am hearing that they are asking for quite a
+lot, including a lot of sensitive information.
+Ms. Mace. It gives them, basically, broad authority to do
+whatever. Mr. Chilson, it gives them broad authority, then
+because of that vagueness?
+Mr. Chilson. I think so.
+Ms. Mace. Mm-hmm.
+Mr. Chilson. Broad authority to request the information
+that fits into those buckets that are in the executive order.
+Ms. Mace. Gotcha. I think Dr. Lee wanted to chime in.
+Dr. Turner Lee. And just respectfully, we are also finding,
+though, with the progress report as well as my own research,
+that various Federal agencies, including NTIA, are becoming
+more transparent with their processes. So, I assume that we are
+actually going to see much more openness around what is
+happening around the executive order as they have been charged
+to take on certain aspects of that, Chairwoman.
+Ms. Mace. OK. And then this is a question for the entire
+panel. How does this EO stifle innovation, limit potentially
+investments in AI in the United States?
+Mr. Thierer. Well, I will just go back to the AG letter
+that really nailed it because they asked the Department of
+Commerce to answer some questions like you have just asked,
+Congresswoman. And when they referred to that opaque and
+undemocratic process of forcing AI developers to submit
+information for review behind closed doors, they also then
+talked about the danger of a bureaucratic and nebulous
+supervisory process that will discourage development, further
+entrench large incumbents, and do little to protect citizens.
+They asked a whole series of questions like you are asking to
+the Administration. I have not seen any answers back.
+Ms. Mace. Ms. Huddleston, how will this stifle innovation,
+stifle investment, because I believe that it will, having these
+encumbrances and burdens.
+Ms. Huddleston. And even in the places where the EO is
+vague, it signals to innovators that the government is
+expecting them to take a seek permission first approach,
+particularly for large, significant models and as this
+technology evolves. It signals that the Administration is kind
+of presuming this technology is a risk until proven otherwise.
+We saw during the internet era how this more precautionary
+approach for a general-purpose technology played out in Europe,
+that it led to not seeing the kind of development of companies
+that we saw in the U.S. And while there are many other factors
+to that, such an approach that requires innovators to seek
+government permission rather than consumers and innovators to
+decide in the market how a technology can progress may stifle
+innovators from going into certain areas, or may give rise to
+investors' concerns about whether a technology will be allowed
+to fully develop, particularly for those dual-use technologies.
+Ms. Mace. Mr. Chilson?
+Mr. Chilson. So, in addition to the DPA chilling effects
+that will happen under the authorities there to some of the
+largest models, I really do think, and to the earlier
+Congressman's point, that the very vague definition of
+``artificial intelligence,'' which to my reading and I think
+some other experts' readings, could sweep in things like
+formulas in complicated spreadsheets. This is not ChatGPT-style
+AI. We are talking about software that people use every day and
+that industries use every day. The Federal Government has now
+been told, including HHS, hey, go make sure that all of these
+AI pieces of software are working well, that they are meeting
+the appropriate levels of quality. That has the potential to
+unleash a lot of regulation, not just on what we think of as
+AI, but software development generally, which would be really a
+sea change in how the U.S. approaches software development.
+Ms. Mace. I know Dr. Lee is going to disagree here. So why
+does it not, in your opinion, because to me it is so obvious. I
+am just curious on your perspective, why it would not stifle
+innovation or not stifle investment.
+Dr. Turner Lee. Well, as one who has been in the technology
+space for more than 30 years, I clearly know when we see these
+technology disruptors stifle innovation. I think in this case,
+what we are going to see is improved certainty and baselines
+for companies to better participate in the AI economy. Right
+now, it will provide some behavioral guidance as well as some
+product design guidance that I think will be helpful as we
+actually, again, leverage AI as a national security interest.
+The other thing I want to just continue to refresh and remind
+us, that this is just not about the DPA, right? It is about
+creating an AI workforce. It is about making sure that we have
+the right research. It is about ensuring that our Federal
+agencies are resilient, and it is about making sure consumers
+are protected at any time, at any point in which they are
+engaging these technologies. So, with that, I think the
+certainty will definitely not stifle innovation in many
+respects and will actually help us to innovate better.
+Ms. Mace. With regards to DPA, do we see this applied to
+any other technology? Is that a thing?
+Mr. Chilson. The DPA has been used to ensure the supply of
+materials that are needed for defense and for disaster recovery
+on a wide range of technologies. We have never seen it applied
+to AI, and we have never seen it applied not to ensure that
+there is sufficient production for defense, but more for a
+regulatory purpose, like it is being used here, to make sure it
+is safer or that it is more limited than it is. So, this is a
+very unprecedented use of the DPA.
+Ms. Mace. And then, you know, I sit on not just the
+Oversight Committee and Chair of the Cybersecurity Committee
+here on the Oversight Committee, but I sit on House Armed
+Services. I am privy to a lot of briefings, classified
+briefings, about what our adversaries are doing, what they are
+up to, technology wise, even AI. And, you know, one of my
+greatest concerns from a national security perspective is
+advances that some of our adversaries are. Like, you know, I
+feel China is right on our heels, and I do not want to, I
+guess, limit our ability to keep up with the technology.
+And, you know, I have met with a lot of different tech
+firms and seen a lot of the benefits of AI. One of them, for
+example, is a company that maps the world every single day with
+200-plus satellites in space. They can map every inch of the
+earth every single day. Now, a year ago, this company, they
+were doing great. If you need to find a little widget or target
+or something on the map on earth, it could take a couple of
+hours, maybe take a couple of days, but they would eventually
+find it. With the avenue of AI, they have condensed it down to
+minutes and hours. Within 6 months, they have condensed down
+the amount of time that it takes to be able to find some
+particular piece of equipment or object here on earth, so huge
+advances.
+I would never, ever, ever, ever want to see government
+regulation, government requirements stifle our ability for this
+American company to advance technology as fast as it has. It
+has been remarkable, and I meet with this company about every 6
+months, and the innovation that I see is tremendous. And there
+are a lot of applications with a lot of different agencies, and
+not just the public sector, not just DoD, but the private
+sector as well. And so, any thoughts on, with this kind of
+regulation happening, how we stay, at least not just one, two,
+but a couple steps ahead of our adversaries around the world.
+Mr. Thierer?
+Mr. Thierer. Yes, very briefly, Congresswoman, you are
+exactly right.
+Ms. Mace. You got some time.
+Mr. Thierer. But this is why I spoke in my testimony about
+the symbiotic relationship between a strong technology base and
+our national security interests because this is how we maintain
+a strong security for the United States. Second, we should
+point out that anything in this executive order that we are
+discussing does not apply in China, and it does not apply to
+these other nations I was just discussing----
+Ms. Mace. That is right.
+Mr. Thierer . The UAE, Saudi Arabia, whatever
+else.
+Ms. Mace. They can do whatever they want.
+Mr. Thierer. Whatever they want, right?
+Ms. Mace. They do not have to follow U.S. law or
+regulation.
+Mr. Thierer. So, we cannot put our head into the sand and
+think that just because we are constraining our companies, they
+are constraining theirs.
+Ms. Mace. Ms. Huddleston.
+Ms. Huddleston. I just would like to add, I think the
+example you provided shows why it is so difficult to define AI,
+and why one of the concerns that I know Mr. Chilson expressed
+about the definitions in the executive order that could reach
+very far into everyday algorithms or everyday technologies that
+we are using can be concerning, is in the defense context, we
+often hear that mentioned as a high-risk scenario. But there
+are many technologies, things that may be doing auto captions
+for meetings or maybe helping to map certain areas that might
+be useful in the defense context but are being developed for
+these dual-use purposes. And we do not want to see a scenario
+where they cannot be used by, say, the Department of Defense as
+necessary, even though they are benign and beneficial
+technologies.
+Ms. Mace. Mr. Chilson?
+Mr. Chilson. Well, we do have a template for how the last
+disruptive technology, the last major disruptive sea change
+technology of the internet was treated by the U.S. Government.
+And there was a very specific choice, both in legislation and
+at the executive level, to let the market lead, to let
+innovators lead, to let them drive this technology forward
+because they can explore a lot of different approaches and uses
+in a way that we could never envision in the early 90s when
+some of these decisions were made. And so, I do think that that
+template, which requires action both by the White House, it can
+require action by the White House, and also it could be done by
+Congress as well, to take an open look at a structure that
+would allow for a lot of variation. Let us focus on some
+specific targeted harms but not tech specific. All the bad
+things that we have heard about AI, those things are bad
+whether or not they have been done with AI or with another
+tool. We should target those harms, we should treat those
+seriously, and we should deal with them, but there is no reason
+to target AI on these specifically.
+Ms. Mace. Dr. Lee?
+Dr. Turner Lee. Yes, and I will just say, just with my
+colleagues here, I think we can go back and look at the 5G
+revolution, right, as an example of where we sort of stood back
+on where we wanted to go as a Nation when it came to mobile
+wireless leadership, right? And we eventually had to catch up
+with China--I write a lot about that--and create our own
+regulatory guardrails ourselves to ensure that not only were we
+catching up with China, but we were also imparting in the
+United States a type of social capital and economic capital and
+innovation to actually expand those networks.
+The same thing should be said about how we look at the AI
+Act from the EU recently. I do not think anyone is really
+saying in the EO that we need to come up with this broad
+regulatory guidance that we all need to adhere to. I think what
+we are seeing in the EO is here are some areas that we need to
+take precaution with. Here are some areas where we need to
+advance leadership, whether it is in the workforce or whether
+it is in innovation, whether it is in the adjacent products and
+services that go with the supply chain.
+At the end of the day, we are the United States, right, and
+we are going to do things a little differently than everybody
+else, but without making this a Wild West when it comes to
+innovation and having some certainty that redeposits back into
+our American economy, you know, we are going to find ourselves
+in the same similar situations we have had with other
+technology disruptions.
+Ms. Mace. OK. Thank you all for your questions, and I will
+now yield to Mr. Lynch for 5 minutes.
+Mr. Lynch. Thank you very much, Madam Chair, and thank you
+for your relentless leadership on this issue. Much appreciated.
+I had a couple of hearings at the same time. That is how they
+do everything here. Everything happens at once, but I
+apologize. I was in a hearing down the corridor on Financial
+Services. I want to thank the witnesses. I have read your bios,
+and I appreciate the expertise and the intellect that you bring
+to this hearing. So, thank you very much for helping the
+Committee with its work. This is one of those areas that we are
+really grappling with. The velocity of change has been
+incredible, and I think we are racing to catch up.
+As reported by the United States intelligence community in
+its Worldwide Threat Assessment recently, Russia, China, North
+Korea, and other state actors are continuing to conduct malign
+influence operations aimed at disseminating disinformation and
+magnifying U.S. societal divisions and interfering with the
+upcoming U.S. elections. They are doing this in other countries
+as well, but we are principally concerned about this country
+and this election right now. So, as you might imagine, the
+introduction of generative AI sort of amplifies the
+possibilities of this exacerbated threat.
+I know that FBI Director Chris Wray recently testified to
+the Select Committee on the Chinese Communist Party. He said
+that, ``This election cycle, the U.S. will face more
+adversaries moving at a faster pace and enabled by new
+technology,'' speaking of AI. He also went on to say that
+advances in generative AI make it ``easier for both more and
+less sophisticated foreign adversaries to engage in malign
+influence.''
+And today, virtually, as you know, anyone can weaponize AI
+to create fake but convincing photos, videos, and audio clips
+with the purpose of election interference or manipulation. Just
+recently, 2 days before the New Hampshire Presidential
+primary--I am sure you heard of it--thousands of residents of
+New Hampshire received robocalls that used an AI voice cloning
+software to imitate President Biden. It was rather convincing
+as well. The robocall encouraged recipients not to vote in the
+primary election and ``save your vote for the November
+election,'' so you can easily see how, you know, this
+technology might be used for nefarious purposes.
+Dr. Turner Lee, what effect can we expect AI-generated
+deepfakes and misinformation to have on Americans' trust, their
+trust in the election process?
+Dr. Turner Lee. Thank you for that, and I am very happy
+that you brought this up as part of this conversation. As the
+Brennan Center has reported on a variety of their reports, we
+definitely need to address AI-generated content that is leading
+into misinformation and disinformation to ensure that we have
+an informed electorate and to also have electoral
+infrastructure in process that is not harmed by malicious
+actors or other malfeasances that are relying on synthetic
+media or artificially generated content that will dissuade
+voters. And that, I think, applies to everybody in this room,
+regardless of your party, your residents, et cetera. You know,
+we all need to make sure we are going to the polls with that
+kind of information.
+With that being said, it is really important for us to get
+a handle on this. I think one of the things that we did not do
+in this panel that we often do in others is we sort of talk
+about AI and generative AI as if they are the same thing. You
+know, generative AI has more advanced capabilities of
+extraction of voice, image, text in ways that we cannot often
+find out where it originated from. And so having, as we see in
+the executive order, these industries commit to helping us with
+a better digital watermarking system, being able to have
+conversations around copyright protections, really determining
+ways in which we engage the public in general education so that
+they are more informed about misinformation, I think are
+particularly important. And Congress has actually had some
+bipartisan action on this that I think we should take heed of
+if we are going to get these elections right now and into the
+future.
+I would just also suggest to you, Congressman, that states
+are also taking this very seriously. My colleagues at
+Brookings, we are looking at, you know, what states are doing,
+and I think there are some synergies between Federal action and
+concern and state action and concern. And so again, broadening
+the scope of making sure that this is a priority for Congress,
+I think, is key.
+Mr. Lynch. Thank you. I just want to ask, are there
+countermeasures that are at hand to allow us to sort of push
+back on some of this and reveal its, you know, I guess,
+negative nature and its falsity?
+Mr. Thierer. Yes. I will just mention one----
+Mr. Lynch. Sure.
+Mr. Thierer . And my colleagues will have more.
+Representative Rochester has a really good bill having to do
+with AI literacy and education, and trying to find ways to
+teach our electorate and our citizens that there are dangers
+out there, including misinformation in campaigns and elsewhere
+in the market. So, that is a good baby step to take to
+partially get at this problem, which is a serious one.
+Mr. Lynch. I was thinking more about technology that could
+vet, you know, to look at. I know it is incredibly difficult,
+and the technology is changing so quickly, but are there proven
+methods that might allow us to uncover quickly, you know, a
+message that is not from its proposed source?
+Ms. Huddleston. We have seen the industry start to evolve
+to respond to these concerns, and there will be different
+actions from different players, just as there are different
+natures of what exactly AI looks like. So, how a certain social
+media platform may respond to concerns about AI-generated
+images in an election context or in an election ad context may
+look different than how a search engine does or how another
+tool does when it is, for example, dealing with voice as
+opposed to video. We have seen that, oftentimes, allowing these
+different norms to play out will allow consumers to get
+appropriate amounts of information in that context because it
+will look different on each platform and each tool, as opposed
+to a government one-size-fits-all approach, where not only do
+you have concerns about the potential impact on speech, you
+also have concerns about, given the broad definition of AI, how
+much content could this apply to, and might it bring in things
+that are more common. So, for example, something that removes
+an object in the background using an AI editing tool but gets
+labeled as AI generated or AI manipulated because it used an AI
+tool rather than a human graphic designer or something.
+Mr. Lynch. Thank you. Madam Chair, I appreciate the
+courtesy you have extended me, and I will yield back because I
+know I am way over time.
+Ms. Mace. No, you are good. Thank you, Mr. Lynch, and in
+closing, I want to thank our panelists for being with us today
+and providing their testimony and answering our questions. We
+want to make sure that the United States is the clear winner,
+the clear innovator in all technology, including AI. We do not
+want to stifle innovation. We do not want to stifle investment
+in AI or its innovation in any way, shape, or form. There is a
+lot at risk here, and we do not want our adversaries getting
+ahead of us or giving them the room or the rope to get ahead of
+us at all, so thank you again.
+And with that, and without objection, all Members will have
+5 legislative days within which to submit materials and to
+submit additional written questions for our witnesses, which
+will then be forwarded to the witnesses for their response.
+If there is no further business, without objection, the
+Subcommittee stands adjourned.
+

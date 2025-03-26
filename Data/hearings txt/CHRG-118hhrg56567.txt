@@ -1,1 +1,1583 @@
-WASTEFUL SPENDING AND INEFFICIENCIES: EXAMINING DOD PLATFORM PERFORMANCE AND COSTS ---------- Wednesday, July 24, 2024 U.S. House of Representatives Committee on Oversight and Accountability Subcommittee on National Security, the Border, and Foreign Affairs Washington, D.C. The Subcommittee met, pursuant to notice, at 9:45 a.m., in room 2154, Rayburn House Office Building, Hon. Glenn Grothman  presiding. Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Perry, Garcia, and Lynch. Mr. Grothman. This hearing of the Subcommittee on National Security, the Border, and Foreign Affairs will come to order. Welcome, everyone. Without objection, the Chair may declare a recess at any time. I will point out that we are scheduled to be on the floor at 10:30, so we probably have a bifurcated hearing here today. Everybody will get a break halfway through. I recognize myself for the purpose of making an opening statement. I ask unanimous consent that Representative Mike Waltz of Florida be waived on to the Subcommittee for today's hearing for the purpose of asking questions. We value his expertise, so we want him here. Without objection, so ordered. Good morning. I want to thank everyone for being here today and I appreciate the witnesses who have taken the time to join us for this important discussion. The purpose of today's hearing is to address the ongoing issues of wasteful spending within the Department of Defense and sometimes misguided spending. Specifically, we are focused on the performance and costs of several platforms. The Department of Defense platform is a term of art used to describe specific vehicles, facilities, or equipment used to accomplish a particular mission. As stewards of taxpayer dollars, it is our duty to ensure that every cent spent by DoD contributes to the safety and security of our Nation in the most efficient manner. Let us start by acknowledging the stark reality we face. There are so many DoD programs that are plagued by cost overruns, design delays, and performance issues. Sadly, this Subcommittee has had no shortage of programs to examine when it comes to oversight of DoD, and it drives me up a wall, because really, is the Department of Defense not the most important agency? Just last month the Subcommittee had a hearing regarding the V-22 Osprey program, which despite its unique capabilities, has been mired by mechanical issues and a troubling safety record. Last year, we examined various ship building issues, such as Littoral combat ship. This platform has seen costs soar from an estimated $200 million per unit to $600 million. Even worse, these ships have suffered from structural defects and engine failures resulting in several being decommissioned after only a few years of service. Today, we will also discuss other platforms that are often overly praised so much so that we ignore the real issues they face. For example, the Gerald R. Ford class--the Gerald R. Ford class aircraft carrier platform has experienced considerable waste. Initially projected at $13.3 billion, the costs have ballooned to $120 billion for the program, with mechanical problems delaying full deployment of--by 15 years. These carriers are supposed to be the backbone of our naval capabilities, yet they are failing to meet the basic--failing to meet basic operational expectations. Additionally, we must also ensure that DoD is addressing the rapidly evolving threats of the future while also being cost-effective. The American taxpayer cannot afford to spend millions of dollars on single- shot missiles when more cost-effective solutions would exist to counter $100 drones. We must--they act like money is free, or there are not better things we can do with it. We must also address the larger systemic issues of the DoD that allow such waste and inefficiencies to persist. The Department has consistently failed comprehensive audits revealing significant problems in accounting and data management. The lack of financial accountability leads to waste and abuse of taxpayer funds. To address these issues, we must implement stronger oversight and enforcement mechanisms with DoD. Both contractors and DoD officials must be held accountable for cost overruns, delays, and performance issues. We must ensure that program managers have the proper authority and resources needed to effectively manage these programs and make necessary changes as problems arise. I hope our witnesses today can shine a light on issues within the defense procurement process and help us understand what needs to be done to ensure our military is equipped with reliable cost-effective systems. The American people and our service men deserve to know that their hard-earned tax dollars are being spent wisely and that our servicemembers have the best tools available to protect our Nation. This hearing is not just about pointing out problems, but finding solutions. We owe it to our servicemembers, our taxpayers, and our country to get it right. Thank you again for our witnesses for being here today, and I look forward to a productive discussion. I recognize Ranking Member Garcia for his opening statement. Mr. Garcia. Thank you, Mr. Chairman, and thank you to our witnesses for being here today. We appreciate your time. I am also glad to be here on a really important subject, but one that has been bipartisan as far as this Subcommittee goes. We have had really productive hearings on Navy ship-building challenges, the failure of DoD to pass an audit, which I think everyone is concerned about, and on the V-22 osprey. We know the Defense Department requested nearly $850 billion for their Fiscal Year 2025 budget. Obviously, this is an enormous amount of American taxpayer resources, and so whenever there is an opportunity to look for inefficiency in waste, we should always strive to do so. The Department of Defense, as we know, still cannot pass an audit, so it goes without saying that these problems are bigger than any single administration, or any President or any political party. The Department of Defense weapon systems acquisition process was first added to the GAO's office list of government operations at high risk for waste, fraud, and abuse in 1990. We continue to struggle with systems that come in late and way over budget. We know that sole source suppliers can create many monopolies and exploit their market power to overcharge the military, and this is true not just in DoD, but in other departments and in states and cities across the country. Now, bipartisan Oversight Committee investigations found that defense contractors have gouged taxpayers and the DoD by buying companies with sole source contracts for spare parts, and then, of course, raising those prices dramatically. DoD and the IG found that we have wasted billions of dollars over the last 20 years from overcharging just on spare parts alone. We all think that is, of course, unacceptable. We know it is not just contractors. We spent billions of dollars on the little combat ship, for example, the LCS that we all are aware of following the launch of the program in 2005. That vessel, just as an example, cost over $500 million per ship, more than double the initial cost. The vessels constantly broke down and DoD relied on contractors for so much of the maintenance that our Navy personnel could not fix their own ships. And to add insult to injury, the Navy has admitted that that ship itself, and I quote, ``does not provide the lethality or survivability needed in a high-end fight,'' end quote. So, essentially, we know what that means. The ship basically is unable to really achieve its mission, it would be easy to destroy in a real war. Now, these are many of the programs we now have struggled for years. Just a few weeks ago, unfortunately, there was an amendment that was brought to the defense spending bill from Ranking Member Smith and Congressman Norcross that would have reduced the number of F-35 aircraft, for example, until programs and failures in the program were actually addressed. The F-35 program is projected to cost $2 trillion over its life cycle, but has been dysfunctional for years. In July 2023, the DoD stopped accepting F-35 aircraft deliveries until the enterprise could successfully deliver tests and field the next version of the operational flight program. Now we know that we only began receiving deliveries again just last Friday, a full year after inaction. Now, it is clear that we need more accountability not just from this program but so many other programs across DoD. Every cent that we waste could be invested in priorities like healthcare, education, or the fight against climate change or reinvesting in programs that are actually working. Now, I also want to be fair. We know that developing systems sometimes are very difficult. Technology oftentimes has to be changed, so we are all aware of those challenges. As we face real tradeoffs, it is easy to say that we should reduce bureaucracy and try to make it easy for new companies to do business with DoD to increase competition. I think we can also all agree that it is important to have safeguards in oversight to make sure that contractors deliver material that will not put our servicemembers in actual any danger. Our defense needs and budgetary decisions can be unpredictable, but in many ways, we keep making some of the same mistakes. And so, I join the Chairman. I share the concerns and look forward to productive conversation today with the witnesses that I want to thank again about how we can invest our taxpayer dollars more effectively. Thank you. Mr. Grothman. Thank you. I am pleased to introduce our witnesses today. Mr. Moshe Schwartz is serving as an expert in defense acquisition and industrial-based policy. He spent 15 years providing analysis and legislative support to Congress on acquisition policy and industrial-based issues including as a specialist at the congressional Research Service and a senior analyst at GAO. Second, Ms. MacKenzie Eaglen is a senior fellow at the American Enterprise Institute where she works on defense strategy, defense budgets, and military readiness. She is also one of the 12-member U.S. Army War College Board of Visitors which offers advice about academic program objectives and effectiveness, and serves on the U.S. Army Science Board, an advisory body that provides guidance on such scientific and other matters to the army senior leadership. Next, we have Mr. Bryan Clark, senior fellow and Director for the Center of Defense Concepts and Technology at the Hudson Institute. He is an expert in naval operations, electronic warfare, autonomous systems, military competitions, and war gaming. He is a former Navy officer who had served as a special assistant to the Chief of Naval Operations. And finally, Mr. Dylan Hedtler-Gaudette is the Director of Government Affairs at the Project on Governmental Oversight. He has experience in a wide range of issues to include Pentagon accountability and Federal spending issues. Thank you for participating in today's hearing. Pursuant to Committee rule 9(g), the witnesses will please stand and raise your right hands. Do you solemnly swear or affirm that the testimony you are about to give is the truth, the whole truth and nothing but the truth, so help you God? Let the record show that the witnesses answered in the affirmative. We got all four today. Thank you. You may take a seat. We appreciate you being here today and look forward to your testimony. Let me remind the witnesses we have already read your statements. They will appear in full in the hearing record. For time purposes, see if you can limit your oral statement to 5 minutes. As a reminder, please press the button on the microphone in front of you so that when it is on we can all hear you. When you begin to speak, the light in front of you will turn green. After 4 minutes, the light will turn yellow. When the red light comes on, your 5 minutes have expired, and we ask you to wrap up as quickly as possible. Now, we are going to lead off with Mr. Schwartz for his opening statement. STATEMENT OF MOSHE SCHWARTZ SENIOR FELLOW OF ACQUISITION POLICY NATIONAL DEFENSE INDUSTRIAL ASSOCIATION Mr. Schwartz. Thank you. Chairman Grothman, Ranking Member Garcia, members of the Subcommittee, thank you for inviting me to testify today. The views I express are my own and not necessarily those of NDIA. Our defense acquisition system takes too long to deliver capability, costs more than it should, and often does not access or fails to adopt the most cutting-edge capabilities industry has to offer. In addition, our defense industrial base is shrinking. This is a problem. In this testimony, I would like to make five points: First, workforce is the key to successful acquisition. Better acquisition cannot be achieved through multiple audits, more regulation, or legislative fiat. Rather, giving the few capable people the authority to do their job, putting them in positions to succeed, holding them accountable and minimizing red tape, that is the recipe for better acquisition. But that is not what we do. Instead, we measure people on compliance and process. In 2021, GAO reported that agencies, including DoD, relied, and I quote, primarily on process-oriented metrics when managing their procurement organizations. In other words, compliance and process were more important than performance. If we empower the workforce and focus on outcomes, we can then hold people accountable. As one program executive officer said to me when expressing frustration over multiple layers of approval processes, I was hired to make decisions. If you do not like my decisions, fire me, but let me do my job. That brings me to the second point. We need to streamline the acquisition rules and regulations. There are just too many and they are too complicated. Done right, streamlining will increase accountability by clarifying lines of authority, shortening timelines, and improving outcomes without undermining oversight. This is not about getting rid of regulations wholesale. The approach industry takes is this. Fewer regulations more consistently applied by an empowered workforce. More consistently applied and enforcing regulations is key to this approach. We should encourage using commercial buying processes. We should review thresholds to ensure that the cost and delay of imposing requirements on relatively lower dollar acquisitions do not outweigh potential savings. We should take a holistic approach to measuring procurement. And we should streamline the approval processes. For example, the Office of the National Cyber Director recently reported that current regulations on cybersecurity outcomes are increasing costs through administrative burdens. Many companies reported that complying with the regulations threw resources away from actual cybersecurity efforts. A similar situation exists in supply chains where a variety of statutes are inconsistent and overly complicated resulting in increased costs, delayed delivery, and confusion as to who, in fact, is making decisions. This brings me to the third point. DoD needs to modernize its IT systems and improve its use of data. Data analytics can improve all aspects of procurement. But DoD's IT and business systems are hampering its ability to leverage data. First, DoD is using too many outdated systems. A recent DoD inspector general report found that DoD plans to spend more than $725 million in the next 4 years on systems that the controller's office itself said can and should be retired. And that is only financial systems. Second, DoD faces cultural and bureaucratic challenges in adopting modern IT systems as exhibited in a stalled effort to replace the defense travel system with modern improving commercial IT solution. DoD is working to improve its data architecture. Earlier this year, DLA awarded a contract to adopt commercial supply chain and business network capabilities to help identify contractors and drive efficiency. Such efforts can dramatically improve acquisition. This brings me to my fourth point. Sometimes our focus on driving down procurement costs and adding excessive regulation has a negative long-term effect. 70 percent of the life-cycle cost of weapon systems is operation and maintenance, yet we are not investing sufficiently in these areas. This is significantly hurting readiness and increasing costs. It is cheaper to maintain systems that we already have than to buy more systems to make up for readiness gaps caused by maintenance failures. And finally, my last point, we can be smarter in helping small businesses. DoD consistently meets its small business goals, but the number of small businesses working with DoD is declining. The targets and set asides are often an end, in and of themselves, rather than a catalyst for expanding small business participation or identifying critical capabilities. DoD and Congress can take other approaches to expand small business participation. One example, small businesses generally do not have the resources to build or maintain secure compartment information facilities, or SCIFs, creating a barrier to entry. Allowing access to underutilized SCIF spaces or establishing new SCIFs in excess GSA facilities could help small and other businesses increase competition and provide new capabilities to the Department. Thank you for the opportunity to share these thoughts and I look forward to questions. Mr. Grothman. OK. We will move on to Ms. Eaglen for her opening statement. STATEMENT OF MACKENZIE EAGLEN SENIOR FELLOW AMERICAN ENTERPRISE INSTITUTE Ms. Eaglen. Thank you, Chairman Grothman and Ranking Member Garcia. It is not only a pleasure to be before you today, but this Subcommittee was the source of my first job on Capitol Hill, not--well, we will not talk about how long ago, but it was as a Pentagon fellow under the stewardship of Christopher Shays of Connecticut. It was a terrific experience, and I thank you for the opportunity to be here today. Despite a fundamental shift in roles where the Pentagon is no longer the inventor driving government research and development, it must now innovate largely with existing product on the commercial market. The Pentagon has continued using a system ill designed for the digital and information age. This has led to many of the concerns that you have and that you have both raised in your opening remarks. It is also a process that has workarounds on the edges, but is still in use for major systems at a time the military faces peer competitors who do not have these same handcuffs of purchasing and an acquisition system that is of the Soviet style of management and increasingly falling behind our one pacing threat competitor in China. What used to take the government 5 years to buy now takes 25 years from senior leader idea to product execution at full rate production. From characterizations of effort ranging from, quote, ``unbelievably slow'' to, quote, ``too late.'' The Pentagon cannot seem to break out of neutral and stop playing catch-up, even as military balance is shifting away from America, particularly in the Indo-Pacific. While Congress has been generous granting middle tier and other transactional authorities to help the Pentagon go faster and these efforts are yielding fruit, the incentives in the larger traditional Pentagon acquisition system and approach are skewed or flawed. There are many stakeholders in this traditional system, however, which is why it does not wither on the vine. The risk aversion, the emphasis on compliance and value and low cost over speed and relevance are all built in, and they create a barrier wall of compliance designed to keep others out, particularly startups and small businesses. The nonprofit Silicon Valley Defense Group recently found that of the top 100 national security startups of 2024, they collectively earned just $6 billion in awards from the Defense Department and the majority of this went to a single company, Spacex. But stealth, GPS, precision-guided munitions, and MWraps were all taken outside the traditional system for purchasing with different budgeting, different requirements process, and different processes in general to succeed in going faster at the speed of relevance. Even if Congress and the Pentagon used all available authorities to a maximum extent, more flexible funds are needed from appropriators and--which allows for speed and a new premium by contracting officers to go faster. It would also help if we had a shorter and less bureaucratic requirements generation process, a risk-taking culture in the defense workforce where failure is not punished, and program managers are willing to work with different and new companies. The entire Department of Defense needs to be at an operation warp speed tempo where urgency and humility are the watch words, and the Armed Forces reward speed and fielded capability over compliance or perfection. One officer has stated entire swaths of the Defense Department are going through the motions, a preference for process over time and urgency. Under a warp speed-like posture, the Pentagon should cut development and production times to enable immediate implementation of available technology into the systems the military possesses today, while gathering data from that implementation to strengthen the new technology still in design. Accepting a unilateral drawdown of train manpower capacity and posture throughout the next decade would hurt the Armed Forces and our ability to maintain a balance of power across three theaters of the world. The Pentagon has, for 3 decades, delayed modernization critical to the sustainment of credible U.S. conventional combat power. Backs against the wall now, we must not cede American military supremacy to a dusty death, but rather, revise the pace of productivity by accepting that the Armed Forces cannot survive on buying time to gain capability but rather buy capability to gain time. Thank you. Mr. Grothman. Thank you. Bryan Clark. By the way, that was great testimony. STATEMENT OF BRYAN CLARK SENIOR FELLOW HUDSON INSTITUTE Mr. Clark. Chairman Grothman and Ranking Member Garcia, and members of the Committee, thank you very much for allowing us to participate in today's hearing, and to testify about the impact of overspending on defense capabilities and the implications for our long-term readiness. I am going to focus my remarks on one area in particular, that is the original sin of a lot of the programs you identified, so Littoral combat ship, F-35, Ford class carrier. All the problems that they have, in many ways, derive from the overly ambitious requirements that were established for them at their origin. This continues today in new programs like the Armies, of Reconnaissance Aircraft program, and some additional programs that are being pursued by the Department like the Navy's next generation destroyer, next generation submarine. These overly ambitious requirements set up a situation where the schedule that is available to program managers and the amount of money available to them is just insufficient to be able to deliver the program on time with the performance characteristics that are demanded by the requirements process. In many ways, that is because our requirements process evolved out of a cold war model where the U.S. military was superior and simply had to build its next generation of capabilities to stay ahead of competitors. Today, we have a lot of peer competitors out there and arguably technically empowered countries and organizations such as the Houthis are stressing U.S. forces because they are taking advantage of commercially available systems that are now empowered with commercial technology from communications to sensing to drones. So, the fact that the technological playing field has been leveled means that the U.S. can no longer have the luxury of this long-term development process where we build overly ambitious requirements and then eventually develop the capability to meet those decades in the future. We have to go faster, as MacKenzie highlighted. We also have to do so in a way that is affordable, and we cannot continue to just spend more money on a capability that does not deliver. The biggest impact we see also is operations and support costs, because these overly ambitious requirements will tend to demand higher expenditures for maintenance, higher expenditures for operations, and for crewing. Those things are now constraining the force design of all the U.S. military services. We no longer can build a bigger military not because we cannot afford it, but we cannot crew it and we cannot afford to maintain it down the road. The overly ambitious requirements we started with are generally the driver of those things. So, we need to think about maybe a new approach. Instead of establishing requirements in isolation based on analysis of what projected future needs of desires of the leadership might be, we instead need to look at what is needed in the near term to address today's problems or the problems of the next few years and identify how we can evolve today's capabilities to address those needs. In program management, we often talk about the iron triangle of defense where a program manager is balancing cost of a program, the schedule of a program, and the performance of a program against one another. With requirements established in advance and fixed by the requirements process, program managers are really only left to be able to adjust schedule because the cost available to the program is set by DoD budgets. That means programs are delayed, increasing the cost down the road, and increasing the expenditure down decades into the future. A new iron triangle would instead allow program managers to vary the performance of a system based on operational concepts developed with operators, and also, to adjust the cost of the program based on the amount of money available in the budget. So, giving the ability of program managers to adjust all three variables in the iron triangle would allow them to be able to deliver capability faster and more relevant capability for today, rather than relevant capability for the future. This new approach is embodied in some of the DoD's reforms, such as the middle tier of acquisition and some of the more developmental experiments that are going on in different parts of the Department. The problem is these experimental efforts to change the approach to acquisition are a side project and they are not part of the main body of acquisition. We need to take these side projects, like middle tier of acquisition, like rapid capabilities offices, and make those the main line of acquisition, and instead of focusing on performance at all costs, instead of look--look instead at achieving relevant capability with a relevant capacity by varying the operational concepts and tactics that operators use. That is how commercial businesses pursue new capability development and that is how the DoD should be doing it as well. Thank you for your time and I am looking forward to your questions. Mr. Grothman. Thank you very much. Dylan Hedtler-Gaudette. STATEMENT OF DYLAN HEDTLER-GAUDETTE DIRECTOR OF GOVERNMENT AFFAIRS PROJECT ON GOVERNMENT OVERSIGHT Mr. Hedtler-Gaudette. Thank you, Chairman Grothman, Ranking Member Garcia, and members of the Subcommittee. My name is Dylan Hedtler-Gaudette and I am the Director of Government Affairs at the Project on Government Oversight, or POGO. I appreciate the opportunity to be here and speak with you today about the perennial issue of wasteful spending and inefficiency at the Department of Defense. One brief bit of history here as I begin my statement. Back in 1981, when my organization was founded, we went by a different name. We were the Project on Military Procurement. We were also the ones who exposed the now infamous examples of scandalous spending at the Pentagon, including $436 hammers, $600 toilet sets, and $7,600 coffee makers. Needless to say, we go way back on this issue. But even more importantly than representing POGO here today, one thing I want to be sure to do is bring the perspective of the American taxpayer to this table. You will hear a lot today about how acquisition and procurement rules at the Department of Defense are creating pain points that is making it more difficult for the military to obtain what it needs in a timely manner. You will also likely hear that the exclusive reason for these problems is bureaucratic bloat and process creep at the Department itself. To an extent, there is validity to these arguments. The Pentagon is large, it is Byzantine, it is labyrinthian, there are many different fiefdoms and many different organs at the Pentagon, sometimes working at cross purposes, which has a tendency to create stovepipes and red tape. With that said, it is also important to remember that there are two other stakeholders who bear a significant amount of responsibility for creating the problem and thus bear some responsibility for solving it: Congress and the defense industry itself. Congress had the power of the purse, which means that it gets to make decisions about how much is spent and where that money goes in terms of the defense budget. Congress also has, obviously, the power to pass laws and pass policy related to defense. Most importantly, though, Congress has the power and the obligation to conduct real-time rigorous oversight to monitor and to analyze the implementation and execution of those funding and policy decisions. As a quick side note, this hearing is exactly an example of that kind of oversight. On the other side of the coin, you have the defense industry. An extraordinarily large, extraordinarily powerful, extraordinarily influential special interest group who has made it its mission to whittle away and water down oversight accountability and transparency mechanisms in acquisition and procurement processes and policies. What this has led to is the military and the American taxpayer being ripped off to the tune of billions of dollars over the years. One brief bit of context here. Last year we spent over $6 trillion in total on the Federal budget. We only took in about $4.5 trillion in Federal revenues. That is a deficit of about $1.5 trillion. We are rapidly approaching an annual Pentagon budget of $1 trillion. All of this is set against the backdrop of over $35 trillion in national debt. To say that this fiscal and budgetary situation is unsustainable would be an understatement. Let us also take a quick trip down memory lane. As recently as Fiscal Year 2000, we were spending a little bit south of $300 billion on the defense budget. In this current Fiscal Year cycle, we are going to be spending a little bit south of $900 billion. We are talking roughly a 300 percent increase. I do not think that we can say with any degree of confidence that we are 300 percent safer today than we were 25 years ago. I do not think that we can say with any degree of confidence that our military servicemembers and their families are 300 percent better equipped, or 300 percent better cared for than they were 25 years ago. You will likely hear that the solution to all of these problems is so-called acquisition reform. Please remember that it was acquisition reform in the 1990's and continuing through today that has systematically weakened and undermined pre- existing oversight accountability and transparency rules such as those found in the Truth in Negotiations Act, TINA. We also have an entire area of acquisition and procurement for commercial items and commercial products that has become a rich and fertile soil for contractor malfeasance, price gouging, and general shady business. All of this has happened under the auspices of acquisition reform. We think it is time for Congress to step in, and more assertively, play its role as the maker of policy and appropriator of funds while taking seriously its oversight responsibilities, particularly when it comes to major acquisitions, programs, and platforms. One thing Congress can do to help is also make much-needed reform to the Pentagon budgeting process. The unfunded priority list, for example, does not make any sense and leads to ever- increasing Pentagon budgets and more bloat and more waste. It is also high time to require the DoD to pass a financial audit and to create meaningful penalties if they do not. After all, bad budget process leads to bad budget outcomes. My takeaway here is clear for you. We can achieve a strong and effective military with more agile and more innovative acquisition and procurement without sacrificing the country's financial and budgetary future and without ripping off the American taxpayer. We will only achieve this, however, if the Department and Congress work hand in hand. We could call it a grand bargain of sorts to streamline processes, cut red tape, while also restoring, maintaining, and reinvigorating oversight accountability and transparency. Thank you for inviting me to testify today and I look forward to answering your questions. Mr. Grothman. Thank you. OK. I will lead things off for Ms. Eaglen. What is the most critical modernization needs facing the U.S. military, and how far behind are we? Ms. Eaglen. I would argue that U.S. conventional deterrent is at a nadir at the same time we are trying to modernize our nuclear deterrent. And so, this is what I call the terrible 20's. So, you have a modernization crunch across our conventional and strategic forces where the bills are all coming due roughly this decade, because most of what was bought in the 80's, it is aging out at about the same time. So, if I had to prioritize, I would say the Pentagon is prioritizing the nuclear deterrent, and some things in the conventional forces portfolio are being sacrificed for that, and I would argue that that is not wise if our peer competitors and pacing threat, for example, in China see that we are weak in one area. Of course, that is the area they will seek to exploit and make more vulnerable what is already. I would prioritize within the conventional forces portfolio a couple of different capabilities. First, of course, is under sea. Ranging from manned and unmanned capability, but particularly attack submarines as a top priority. I would focus on the need for competition within--maintaining competition for future fighter development, such as the NGAD program. To do that, Congress would need to agree to continue F-15 procurement after this year when it is slated to end. Having one fighter production house in the United States is not healthy for the kind of competition you and Ranking Member Garcia outlined in your opening statements, but the Pentagon has to pay for that up front. It does not come without a cost, and historically, Congress has shown they do not want to do that. Last is the size of the U.S. Army. The Active-Duty force--I do not believe Congress would have ever actually voted on the Army shrinking by nearly 100,000 Active-Duty soldiers in the last 5 years, which is essentially what has happened because of the recruiting challenges facing the U.S. Army. This standing force is considered one of our bulwarks against aggression around the world, and we need a large and capable army. Mr. Grothman. That was so good, we will go with you again. The GAO study from May of last year found that since May 2018, one F-35 prime contractor lost over 1 million spare parts totaling $85 million, of which less than 2 percent had been reviewed by the F-35 joint program office. What do you believe can be done to increase accountability in this program? To what degree is it just an attitude problem or an arrogance problem in the Department of Defense? Ms. Eaglen. There is a culture problem at the Defense Department, but I would start, though, even sort of to the left of that and strongly encourage Congress to never again approve a program that starts with a J, joint. That--they become super- sized, oversized, and totally unmanageable programs. It is basically three totally separate fighter jets under one umbrella, and it has led to many of the predictable and knowable problems that we have with this program today. So, avoiding joint programs at all costs is one way to get at better oversight, more targeted accountability for these contractors. Something of the size and scope and magnitude of this program, it was, again, knowable. Holding contractors accountable as well comes from more direct and active management from the program managers and offices themselves. The Pentagon does need more resources, and I want to echo one of the points on data analytics. The Department's business systems are woefully--we are talking the days of the floppy disk over there and fax machines still required for a lot of companies to even still submit contracts to the award--excuse me, contract bids to the Department. So, updating business systems would certainly help with tracking some of this, and the audit, of course, where you identify ahead of time improper payments, and to the Ranking Member's opening statement, the types of problems that you outlined, sir. Mr. Grothman. OK. Same GAO report found the Department of Defense has over 19,000 spare parts in the global spares pool that have been waiting between a few months--in the global spares pool that have been waiting between a few months to 5 years for disposition, instruction from the F-35 joint program office. Can you explain how the F-35 joint program office would event get to the point of having 19,000 spares laying around? That is for you. Ms. Eaglen. Oh, Mr. Clark. I am sorry, Mr. Clark. Mr. Clark. Yes. So, I think part of the--clearly, data analytics and IT systems that are managing these are a problem. The bigger problem is the role of the prime contractor and managing spare parts inventories. Right now, the contractor blockade is having to both use parts to be able to field new airplanes and field parts to be able to support existing airplanes that are out in the fleet. And because of that divergence of responsibilities, I think that is part of where you get this confusion about where parts are, because some are going to the factory, some are going to the field. Mr. Grothman. Thank you. I think I am over my time. I expect to return later. We will go with the Ranking Member, Mr. Garcia. Mr. Garcia. Thank you. Mr. Hedtler-Gaudette, I know you have written and talked about extensively the conflicts of interest that can happen when Members of Congress hold and trade defense contractor stocks. I think this is a very important point, and actually personally I have co-sponsored numerous bills before Congress that look at banning individual stocks within the performance of Congress. I strongly believe in that. But can you talk a little bit more about how these conflicts of interest can weaken our oversight into some of the Department's more troubled programs. Mr. Hedtler-Gaudette. Sure. Thank you. And I agree that Members of Congress as well as other officials in the government, including officials at the Department of Defense, holding direct financial stakes in defense companies is problematic at best. I mean, at the very least, it creates the appearance of potential corruption and the appearance of impropriety, even if there is no actual or real corruption or impropriety. It just looks really bad and feeds into an already pretty large and metastasizing feeling of lack of trust on the part of the public, and we do not want to make that any worse than it already is. But to be more precise in answering your question, I think it is just a truism that if your financial bottom line is tethered or tied to the performance of an individual company or, you know, an industry more broadly, there is a natural human inclination toward wanting to do what you can to increase your own financial standing. If you happen to be in a position of extraordinary power, there are 535 people in the U.S. Congress who have that extraordinary power and they have access to information and insight that we, as the rest of the public do not have. You can see why there is a huge conflict of interest there. Again, I just want to stress even if we do not have a smoking-gun causal link between one Member of Congress as a vote and their financial portfolio or one Member of Congress's announcement of an investigation or oversight activity and their financial portfolio, you know, we can see how it looks really bad and it creates bad optics, and so anything we can do to mitigate conflicts of interest, real or perceived, is going to be a good thing overall. It is not just Congress as I mentioned. There are folks at the Department of Defense who are invested in the defense industry despite having real power to make real decisions that would impact the defense industry, impact individual companies, and also impact their own financial portfolios. Mr. Garcia. Thank you. I also want to just return briefly to the contractor price gouging issue. We know there are two problems here. First, as we rely on the single-source suppliers and also that we also have a system where larger companies can come in and buy in small suppliers and of course raise prices while bidding regulations and safeguards. We know that this is a core problem, and we all want to make it easier to do business with DoD, especially for small businesses. Now, I know, oftentimes, we talk about cutting the red tape, but sometimes red tape is actually oversight. I know this to be true just through my work as mayor of my former city. We had a fairly good-sized city, $2 billion budget, over 6,000 employees. Oftentimes, when folks would cut the red tape, we would come back with, well, we would like to as well, but we also want to make sure that we are not wastefully spending resources within our city departments. Again, can you talk, Mr. Hedtler-Gaudette, about how we can make sure that our regulations on contractors are most effective? Mr. Hedtler-Gaudette. Sure. There is an old expression that I believe it goes an ounce of prevention is worth a pound of cure, and I think we need to operationalize that principle here when it comes to contracting. The more we can do to, up front, provide Department of Defense officials, specifically contracting and procurement offices, with the really pertinent and relevant information they need, specifically around cost and price, you know, the more upfront upstream mechanisms we can have to make sure that contracts are fair and reasonable, the prices and terms therein are fair and reasonable, and that the American taxpayer is receiving a good deal. The more we can do on the front end, the better, because it is very hard to fix these problems in a post-hoc sort of retroactive way. So, that is why those up-front mechanisms are so important, and they are just basic due diligence. So, I referenced in my opening statement the Truth in Negotiations Act, or TINA. Now, TINA, would not say it is the only mechanism, but it is one of the primary mechanisms we have for ensuring that cost and price information is provided what it should be provided at the outset of contract negotiations. But because of the sort of changing thresholds, changing thresholds and standards that apply in TINA when someone has to provide that cost and price information, you know, we have seen the law get watered down, and it has not been as effective as it could be over the years. One thing we would certainly advocate and propose as a restoration of reporting thresholds under TINA and perhaps even a strengthening and tightening of those up front, that way we are ensuring integrity at the front end of the process as opposed to trying to recoup money at the back end of the process if we run into malfeasance or price gouging. Mr. Garcia. Thank you. I just want to just conclude just by--I appreciate that. I just want to conclude by saying that we also have a lot of work to do on national security, particularly intelligence estimates right now in the war in Ukraine, Russia is producing almost three times more munitions than the U.S. and Europe, and we know they can do it at a lower cost, so this conversation is a serious conversation about national security, security of the Ukrainian allies, and I hope we can continue looking at this very serious issue. Thank you, Mr. Chairman. Mr. Grothman. Thank you very much. Ms. Foxx. Ms. Foxx. Thank you, Mr. Chairman, and thanks to our witnesses. I appreciate, Chairman Grothman, your holding this hearing. I have worked to address inefficiencies in defense acquisitions and sustainment, and I understand how pervasive waste is within the Department of Defense, and how big this problem is, so thank you for your attention to this issue. Mr. Schwartz, in your testimony, you emphasized the need to decrease barriers for small businesses to participate in the defense market. I agree with that position and I am very concerned that the Department has grown so reliant on a shrinking number of commercial firms which stifles competition and leads to increased costs. What would you say is the biggest reason for the decrease in small businesses contracting with the DoD? Mr. Schwartz. Thank you for that question. In the polls that I have seen and the surveys that I have seen, the industrial base generally is saying it is the rules and regulations. In my testimony, I said fewer regulations, but I agree with my colleague from POGO, more consistently enforced. It is not about just getting rid of regulations, but we have a problem, the defense industrial base, from Fiscal Year 2010 to Fiscal Year 2020, the small businesses decreased by 43 percent. That is not my data. That is the government's data. It is not just small businesses. Other businesses, every other business fell annually by 7.3 percent. That is an even higher percentage. Now, you can say that was only until 2020. It has happened every year since then. Last year, entire government contracting dropped by 2 percent, companies working with the government. So, it is the regulations, it is the bureaucracy. And it is not regulations just for regulations sake. When I was at the 809 panel, we found regulations that required vending machines to accept dollar coins. We found regulations that required printers to print on two sides. We found contract clauses that required seat belts to be put in the contract, to wear seat belts while driving on base even though every state had that law already. It is that volume of work and that churn of regulation that small businesses cannot keep up with and know what the rules are. It is the cybersecurity regulations, and I am not saying we do not need cybersecurity regulations, but when ONCD, the Office of National Cyber, says that our regulations are causing companies to shift money to compliance from actual cyber defense, that is a problem, and I think that is a lot of the driving force. Ms. Foxx. We have too many bureaucrats in the Department writing picayune rules. So, what steps can we take legislatively to increase small businesses' participation in defense contracting? Mr. Schwartz. I may make a couple of suggestions, and there are a number of them, and I would love to have this conversation at length, but one is what I mentioned in testimony, SCIFs, security compartmentalized facilities. Small businesses do not necessarily have the resources to create their own SCIFs, so outside of the Washington area, to the extent that there could be like a WeWorks model for SCIFs, that could be very helpful to allow companies to view, bid on, and then actually execute work that might be classified is one. Another one is I think the point you were making; I hope I understood that, is simplify the regulations so small businesses can simply understand what is required of us and not have to spend a lot of money on lawyers or other people to explain to them what is required, what is not, and not have to change their IT systems all the time. Things like that. Ms. Foxx. Well, I appreciate the fact that you are giving us some of the barriers that face small businesses in competing for sustainment contracts. I would like to follow up with you on getting more information on what those barriers are and making sure that we look at that in terms of anything we can do legislatively. I have a constituent that maintains that DoD should leverage FAA certificates and commercial best practices to increase the number and types of businesses that can compete for contracts and lower sustainment costs for certain aircraft. That makes a lot of sense. And I think we need to look at more ideas like that to increase small business participation and achieve the best outcomes for our servicemembers and the taxpayers. We need more people competing for these contracts and doing the work, and my experience as a former small business owner is that often, the small business owner will be better at doing this than the larger company, although I think the prejudice among DoD is to go to the larger companies, and we need to look at that and make sure that the way contracts are written, the way people are assessing companies is fair to all concerned. Thank you, Mr. Chairman. I yield back. Mr. Grothman. Thank you much. As far as the future, we are going to go to Mr. Lynch, we are going to go to Mr. Perry, and then we are going to go across the street for a field trip. Mr. Lynch. Thank you, Mr. Chairman. I want to thank the witnesses for your willingness to help the Committee with this work. Just a little background, I come out of the construction industry, so contract administration is something that I am familiar with. That is my educational background. My degree is in--bachelor's degree is in construction management. I am a former president of the iron workers union in Boston, so administering those contracts is-- was a daily task for me. I have to say, though, the Department of Defense, their contracting process is so complex, so labyrinthine, and so opaque, and that is not just overseas and in construction, but also within our national labs. The process by which a certain contractor gets--you know, wins a bid is absolutely smoke and mirrors in our country. There is no competition. We have a regular rotation of people coming out of the military going to work for the national labs or these big contracting outfits, and then, because of relationships and friendships, that takes over. Those relationships take over. We never have truly open competitive bidding within the Department of Defense. So, I came on this Committee back on September 11, 2001, the day of the attacks. I was elected in Massachusetts in a special election. And I ended up doing over 50 trips to Iraq and Afghanistan just because we were--we were hemorrhaging money, and there was no accountability. So, when I came back here after having seen what was going on over there, Mr. Hedtler-Gaudette, I offered a bill called the Commission on Wartime Contracting, and that is not an original idea. Truman actually came up with it during the Second World War. He saw the amount of money that the country was spending on defense projects and the amount of waste fraud and abuse that was going on. So, my bill basically mirrors what he was doing and also what we were doing in this Committee with respect to the special inspector general on Iraq and Afghanistan reconstruction. So, I am very, very proud that POGO endorsed my legislation. We need to have someone monitoring this onsite, you know, at the National Labs who is what I would describe as a taxpayer representative. Someone who actually is there to watch out for the best interest of a taxpayer, because as my colleagues have pointed out, we are just puking money here to the Pentagon, and there is no accountability and no serious effort at unwinding this labyrinthine process where, you know, our taxpayers are being robbed of, you know, precious resources at the same time that the goal and the mission of our Department of Defense is not being met. We are falling further behind. So, Mr. Chairman, I have filed that bill again. It addresses some of the issues that you have validly raised not just in this hearing, but previously, and I am just hoping that at some point, we might get together here on this Committee and actually, put out some legislation that actually addresses what is going on here. We just had a major, major IT failure because of CrowdStrike, and, you know, it is sort of a single-source repository for cybersecurity, and yet--and this was global because of its connection to the Microsoft system, but--so the Europeans are experiencing the same discomfort we are. We have had massive failures that have affected not only the day-to-day activity of the American people with failures of, you know, thousands and thousands of flights canceled, but also, we have got some serious concerns about the readiness of our national security. So, I want to thank the witnesses. You have all been very good with providing different perspectives to us. But I would like to insist that we actually take up some legislation and try to get some stuff passed rather than have these periodic hearings that are very well-intentioned and informative, but we got--the time for action has long since passed, and I just think we've got to come together on this. Thank you, Mr. Chairman. I yield back. Mr. Grothman. Very good. Now we are going to go to Mr. Perry, and when he is done, we will break up for a second and we will reconvene 15 minutes after the final vote is closed. Mr. Perry. Mr. Perry. Thank you, Mr. Chairman. Ladies and gentlemen, thanks for being here. I am not sure who to address these questions to, but I am going to just pick on one particular program that seems egregious to me, and that is the F-35. I have got this GAO report here. And if you are familiar with things like operational readiness rates or mission capable or fully mission capable, then you are going to know what I am talking about and I think we can probably get through this. I am looking at three variants, the 35 Alpha, Bravo, and Charlie, and I am looking at mission-capable rates by variant, so you know the different services, branches use different variants. The high-water mark for the 35 Alpha, this is mission capable, so that 70 percent in 2020. Looks like 2023 we are about 50--a little over 50 percent. 67 percent high water mark for the Bravo, and at about 60 percent in 2023 for the Charlie model. We have gone from 56 mission-capable percent to about 62 percent in 2023. Then we get to fully mission capable, fully mission capable. I am going to use some kind of just anecdotes to explain to my colleagues what that might mean, but for the Alpha model, we are down right now in 23 to 36 percent. We are at a midpoint now for the Bravo variant at 14.9 percent, so 15 percent, and we're up on the Charlie model from about 7 percent in 2019 to a whopping 19.2 percent. What that means fully mission capable, we used to go to the range. You had one aircraft that would fire rockets. You had another aircraft where the mini gun would work. And so, you had to qualify in rockets and you had to qualify in mini guns, so you would fly that one to shoot this weapon system, fly this one to shoot that weapon system. Maybe your transponder works in this one, but it does not work in that one. There is something that does not work that means the aircraft is not fully mission cable, and we are looking at all these variants the best of which right now is at 36 percent. Now, this aircraft has been around, the program has been around for about 20 years. First flight took place in 2006. We are talking about a $2 trillion cost to own and maintain these aircraft, which is way above budget. And it appears to me the answer from the commands and the contractor is to just fly less, and then they can meet their requirement. We are going to fly less and, you know, God bless these contractors that make these awesome weapon systems. It is awesome they work, but it is not awesome when they do not. When you are e facing the enemy and you need to go to missiles, but you have only got guns, that is not helpful at that moment. The focus needs to be on the warfighter, right? And what they need. And as a guy who spent a lot of time in the seat, there is one thing and one thing alone that makes proficient aviators, especially under duress, and that is, time in the seat. And so, reducing time in the seat so that the aircraft can meet cost projections that can--I do not know how to say this, but imperils, the very people that the aircraft was built for, like it imperils the mission. It defies what the hell we are doing here. And so, my question for you in the macro sense is, is it-- look, no one wants to say this. This is like saying Voldemort, right? But is this aircraft like--are we beyond the point of just throwing bad money after more bad money or good money, and at what point do we say we have made a mistake here, it is time to move on? Like our aviators, these pilots, they are going to be nonproficient because the aircraft are not capable of doing the job, or they are going to be nonproficient because they are not flying them, because we have got to meet cost estimates. What the hell is the answer here? Mr. Clark. So, Congressman, you are absolutely right. Those mission-capable rates are about half of what they should be. And if you look at other aircraft, older aircraft, they are comparably employed. They would have much high mission capable rates. It is a much more complex airplane than I think anybody expected it to be, and the requirements they established for it set it up to fail in this way, because it is just so complex, it is so sophisticated, it has got so many potential failure modes that it creates a situation where when it gets out to the field, it is expensive to operate and maintain. And then beyond that, it has a lot more opportunities not to work. So, we have set it up for failure in this way. The F-35 was supposed to be the bulk of the fleet. It was supposed to be the thousands of the F-16 and for the--basically your daily driver. It is no longer that way. We now have to treat it like a special aircraft that we employ for certain situations where we need stealth or censor fusion or the capabilities it offers, and rather than to buy other aircraft to be the things that fly around the flagpole and do the general operations, the air superiority that we need, F-15EX, the Navy was buying more F-18s for a while, we may find ourselves buying more F-16s, that is what happens is we end up at this high low force or expensive less expensive force in the aviation community just to fill out the air wings. But that is a situation that we set up by asking for this airplane to do too much in too short of time with technology that was not ready to measure up to the missions. Mr. Perry. I know I am way over time here, and we have got to go vote, but you have kind of described the problem maybe better than I have, or whatever. But what is the answer? Like, what is the--do we keep investing in this thing, or do we just say, Look, we can only afford one Ferrari in the garage for the days we want to go fast, but on the other days when we have got to go to the grocery store and pack up the station wagon, we have got to buy these--what is the answer? Mr. Clark. We will have to probably buy fewer of them going forward and buy other aircraft and begin to fill out the air wings and get those cheaper flight hours. Moshe? Mr. Schwartz. If I can just add, I just want to mention one thing that my colleague said, which is it is set up for failure. I think too often the Department of Defense we are setting them up for failure, and it is a lot of people. So, in this case F-35 was the requirements. Too often the requirements are setting up for failure. For the CVN 78 with the Gerald Ford class, the cost was setting it up for failure. The cost estimate of the Navy was below 50 percent. You are going to have cost estimate not because someone is doing something wrong, but because your estimate is unrealistic. And I think to take a step back from this program, one thing to consider and one answer is let us re-examine how we are costing, how we are budgeting, how we are looking at requirements so we start right, because once you start wrong, you have already baked in problems. Ms. Eaglen. Just quickly, we should avoid programs that are too big to fail at all costs. This was overly ambitious. It should have been three separate programs for the three separate aircraft. Mr. Perry. I yield. Mr. Grothman. Thank you. Pursuant to the previous order, the Chair declares the Committee in recess subject to the call of the Chair. It is my intent to begin again 15 minutes after the vote is called across the street.  Mr. Grothman. The Committee will come to order. I think we have Mr. Sessions up next, but he is not here quite yet. So, what we will do--and Mr. Garcia is fine with us starting. We checked. So, we will start with Mr. Gosar, and if we do not have anyone back on a timely basis, I will go again. Mr. Gosar. Thank you, Mr. Chairman. In my district alone, I represent Luke Air Force Base, Marine Corps Air Station, Yuma, and the Yuma proving grounds. When Yuma hosted the war games in March and in October, residents hear the jets overhead, and their comment is always, ``That is the sound of freedom.'' Especially after the recent assassination attempt on President Trump, national security is on the forefront of our minds. As elected officials, it is our job to ensure the responsible use of taxpayer dollars to create a robust national security posture. Warfare has changed. So, defense spending must change too. Look at Israel and look at Ukraine. Land warfare has become almost obsolete, and it has shifted to an airplane missile and space defenses. We must prevent waste, fraud, and abuse, and restore confidence in the military. Ms. Eaglen--did I say it right? Ms. Eaglen. Yes. Mr. Gosar. OK. This past February, a helicopter crash tragically claimed the lives of five marines. One 23-year-old, Alec Langen, was from my district in Chandler, Arizona. The CH-53E Super Stallion helicopter has been involved in fatal accidents since 1984. My question to you, if the DoD has now eliminated these critical issues after 4 years later, is this about oversight or is this about retirement for this aircraft? Ms. Eaglen. Congressman Gosar, do you mean retirement early, meaning it is time to retire the aircraft? Mr. Gosar. Yes. Ms. Eaglen. Yes, it is time. And that is why the CH-53K is under construction. And the service needs more of them now to replace these older frames. All across the services hulls, air frames, and chassis of vehicles reach their limits. And you can patch them up, and you can make them somewhat new and extend service lives, but there comes a point at which there is no more Band-Aids on top of Band-Aids. Mr. Gosar. Right. I hear you. The military assessed and tested directed energy weapons since the sixties, but recent investments have skyrocketed. In Fiscal Year 2024 alone, directed energy weapons received over $1.1 billion in appropriations. Can you describe to me what a directed energy weapon is? Is this like an EMP? Mr. Clark, I will ask you that. Mr. Clark. Yes. Sure, Congressman. So directed energy can either be high-power microwave, so a form of electromagnetic energy, or a laser. So those are the two forms of directed energy that the DoD is pursuing right now. And they are both useful for shooting down drones, airplanes maybe, potentially cruise missiles, and they have been used to blind satellites as well, particularly lasers. So those are the two different ways that you can do it using directed energy. Mr. Gosar. OK. A GAO report published May 25, 2023, claims these weapons can be used to deny human entrance to a specific area. Is that true? Mr. Clark. That is true. The active denial system that was pursued in the early to the mid-2010's was designed to essentially heat up human skin, just like a microwave oven might, to force people to leave an area. That system was never fully fielded, so it was more of a research test object. Mr. Gosar. Could it be used on a fence? Mr. Clark. It could be used on a fence, yes. Mr. Gosar. OK. What other purposes do these DEs have? Mr. Clark. So directed energy is mostly being pursued now to deal with the drone threat, so high-power microwave in particular is really effective at taking down drones by disrupting their electronics, and it confuses the computer and forces it to reboot, or it causes the drone to land in response. So, those high-power microwave weapons can be an inexpensive way to deal with drone swarms. Mr. Gosar. OK. So, as a Member of Congress, you see this balloon, how do we now and how do we get oversight of that kind of program? Mr. Clark. Yes. The key is to look at the ones that are going to have the most potential utility in the nearest term against the threat. So high-power microwave systems seem like they offer the best opportunity to do that. They are mature. They can be used against a wide variety of threats, and a lot of tests and demonstrations have shown them to be workable. So, I think that is probably where we need to focus the attention is on high-power microwave rather than laser. Mr. Gosar. Mr. Clark, in October 2020, a DoD press release revealed the BioIndustrial Manufacturing and Design Ecosystem, or BioMADE, received $87 million in Federal dollars to produce cell-cultured meat and protein products to reduce carbon emissions on military basis. Now, I am a meat-and-potatoes guy. Based on your experience with the strategy and force planning from the Navy and DoD, does the lab-grown meat contribute to the U.S. national security posture? Mr. Clark. Probably not. It definitely should be something that is pursued by commercial or private industry. Mr. Gosar. Thank you. I appreciate that. I have run out of time and yield back to Mr. Chairman. Mr. Grothman. Thanks. I request unanimous consent to have an additional 5 minutes for myself to ask more questions. This question is for Ms. Eaglen. With the cost of the remaining four carriers expected to only increase and the timeline for the delivery being pushed back to the 2030's, do you believe these ships are worth the significant investment with the rapid evolvement, the rapid evolution of drones and hypersonic missiles on the battlefield? And I believe they have been involved in some war games that you might be familiar with. Do you guys think the investment in aircraft carriers is worth it? And I guess the last question, could it result in a huge humanitarian disaster to rely too heavily on them? Ms. Eaglen. Well, I will start. I am sure my colleagues want to weigh in. But, in a war versus a peer competitor, Mr. Chairman, almost everything on the surface of the Earth will be a vulnerable target. So, aircraft carriers are not unique among them, although, of course, they are pretty large. But that is-- if we get to the war, it means the U.S. military has failed in its core duty to keep the peace and uphold deterrence. So, winning the war is half the job. Keeping the peace and maintaining deterrence is the first part of that. And I would say, you know, managing the balance of power across the Middle East and Eurasia, great power competition, it requires presence and flexibility, and these are unmatched in the carrier. These are floating American cities of sovereign territory jam packed with combat power on the top of it that combatant commanders cannot get enough of for deterrence and competition. We are an 11-carrier Navy in a 15-carrier world. So, if you want these crisis response tools, I would argue there is a great case for the carrier. However, what you put in and on it, that is what I think fundamentally needs to be revisited by Congress with many more capable unmanned systems in particular. Mr. Grothman. OK. Either of you other guys have a comment on the aircraft carrier? Like I said, I have heard about some war games in which the carriers were sunk. Mr. Clark. Right. Mr. Grothman. You know, it was a different world, the Battle of Midway, but some people felt that the Battle of Midway aircraft carriers were a little bit obsolete in 1942. Mr. Clark. Right, yes, sir. So, it depends how you use them. So, in war games, which we have conducted plenty of, war games are--or rather air carriers are vulnerable in that initial strike. So, the question is, do you use them as the opening set of salvos if you are going against the Chinese to help defend Taiwan? Probably not. You would probably use stealth bombers and submarines to do most of those initial strikes. Carriers, though, have great utility in crisis response. We are seeing how they can be employed in the Middle East today where we do not have a lot of airfields, and we are able to use aircraft carriers to project air power to attack Houthi missile sites, to defend Israel from attack from Iran, to do air defense for Israel. So, there is a lot of versatility in the aircraft carrier, but it is mostly in the crisis response role and in the stabilization role that happens after the first few salvos of a great power war, like, between China and the United States. And that is what the war games have revealed is you do not want to use the carriers as your first set of platforms that you put out there in the fight. You use something that is more survivable initially, and then you bring in the carriers later. Mr. Grothman. Do you other guys have any comments on it? Mr. Clark. One other thing I will add is we have done--we are doing a force design study for the Navy right now, and we found that carriers, maybe the number could be reduced to help manage the cost associated with particularly the operations and sustainment costs for them down the road. But there is some number that you need, between 8 and 11--8 and 10 really, to be able to maintain the kind of presence for the crisis response that we are seeing, for example, in the Middle East today. And the cost of the Ford carrier, if you look at the predecessor, the Nimitz carrier, it is only a couple billion dollars more than you might expect the Nimitz class to cost if you were just to buy the Nimitz class today. So, with inflation, you know, the cost of the Ford is probably not too out of bounds. Mr. Grothman. OK. Do you think the evolution--could you address the idea that with the evolution and improvement of drones and hypersonic missiles, does that have an effect on your equation? Mr. Clark. Absolutely. But we should think about drones being employed from the carrier as well. The aircraft carriers are just a floating airport, and what is on the carrier is the most important element of it. So, instead of maybe having an air wing that is composed entirely of F-35s, we should have an air wing that is much more composed of uncrewed systems---- Mr. Grothman. With drones on there? Mr. Clark. Drones on there. Mr. Grothman. Bingo. How many people are on an aircraft carrier if one were to go down? Ms. Eaglen. Five-thousand. Mr. Grothman. Pardon? Ms. Eaglen. Five-thousand. Mr. Grothman. That is what I thought. It is a lot of people. OK. I will give you another question as I wait for my buddies here to show up. I ran into a couple of people back home, not in the Department of Defense field, but in other fields, feeling--one in the construction area, one in the food area. They felt some of this diversity stuff, whatever they call it, was increasing the cost to the government just shockingly. And I wondered, are requirements, rather than just build the best aircraft carrier as quickly as you can and cheaply as you can, including these other requirements of who you have got to hire, who you have got to subcontract with, do you know, even anecdotally, is that adding to the cost here? Mr. Clark. Well, I will just say, from what I have seen in my own experience, there are set asides clearly for disadvantaged groups in the contracting process, particularly for smaller contracts. It is unclear to what degree that increases costs to the government. But if you are constraining the amount of competition you are able to get for a contract, there is that possibility that you are going to end up paying more in the end for it. Mr. Grothman. Yes. And not only more but maybe you are leaving some high-quality people on the table that you maybe would not normally do in your own life, right? People I would think in their own life when you buy stuff, you do not--you just buy the best product that you can for the most reasonable price. You do not ask the Ford dealer, ``By the way, you know, what is the background of the engineers on this thing, or whatever.'' I am now going to take a delay because all of these people expressed interest and are thrilled to be on the Committee, as am I. Maybe I just have to call myself 10 times in a row, because I love to do it, but my colleagues might get mad. So, we will say the Committee will suspend momentarily, and we will wait for a couple of other people to come back out here because we were all, you know, taking votes across the street, and people run into their buddies and then wander over here.  Mr. Grothman. OK. Apparently, Mr. Biggs is in the processor near the process of asking questions in another hearing. Paul Gosar is always in good, so we are going to give--I will make a unanimous consent request that Paul Gosar have an additional 5 minutes. Without objection, so ordered. Go ahead, Mr. Gosar. Mr. Gosar. Thank you very much, Mr. Chairman. A GAO report published on Monday revealed this administration authorized almost $24 billion in equipment and services to Ukraine under the President drawdown authority. Now, this is not new. Both sides do it. But what happens is our Nation digs itself deeper and deeper into this $35 trillion debt. I encourage this whole Committee to consider my legislation, H.R. 4615, the National Emergency Expenditure Reporting Transparency Act, requiring the full disclosure of Federal funds used to implement national emergencies as declared by a President. Article I powers give those to Congress, except in a national emergency. So, we want to make sure that we have all of those blessings that it be able to be held accountable for our spending habits. Since the beginning of this Congress, I have led a bicameral and a bipartisan effort demanding the national emergency expenditure reports as currently required by law be conducted. There is either a lack of reporting or nonreporting related to more than 40 ongoing national emergencies. And that is kind of what I want to talk to you, Mr. Clark, about. Do you see a need to have a declaration of a national emergency with Libya? Mr. Clark. In terms of our making a declaration to allow us to support the Libyan Government? Mr. Gosar. Well, that is not an emergency, is it? Mr. Clark. Right, unclear. Is it an emergency for the United States? Probably not. Mr. Gosar. Yes. And I think a lot of this is overdone, you know, from both sides in that we have a national emergency with the Congo. We have a national emergency with Syria, Libya, Sudan, you name it. And it does not need to be there. The problem we have is each administration takes advantage of it. They are able to move money around, so we have really two ledgers. We have this one we always talk about, but then there is a hidden one that is not talked about, and it is significant. In fact, the Cato Institute did a report on this after they heard me whining and crying and screaming. They found that, since Bill Clinton, up until now, we have spent over $11 trillion, $11 trillion in these national emergencies. There is no accountability. There is no nothing. Well, we have got to change that. If we are going to redirect this, I am happy to share that with an administration, a President, but they have got to come back to us with the checks and balances. So, I just wanted to let you know that. One thing else I wanted to ask you is that, since World War I, the DoD has conducted psychological operations, what are known as military information support operations. Mr. Clark, does the DoD still fund these psychological operations? Mr. Clark. So, DoD funds military information support operations, MISO, and under some new names now, but those are designed, you know, not to necessarily affect civilian populations. Those are designed as part of military operations to influence the thinking of your adversary. Mr. Gosar. Right. Mr. Clark. Yes. Mr. Gosar. OK. And, last but not least, do you agree with me that war has changed, particularly this last kind of seeing, you know, these tanks that were once really prized are now victims of their own success, you know, with the simple drone? Can you try and address that? Mr. Clark. Yes. What we are seeing is a major shift in the character of war toward new technologies, like drones and commercially available sensors and commercial communication systems being the way that you make kill chains as opposed to tanks and missiles and government-owned satellites. So, we are seeing this transition to empower countries and organizations that are able to use these commercially available technologies to string together effective kill chains. And we see the Houthis doing it as well in the Red Sea. We should be taking advantage of those technologies as well. I think the problem the U.S. has is we often think of just how to defend ourselves against these threats, but instead we should be looking at ways we can exploit them and take advantage of them to affect our enemies. Mr. Gosar. In your opinion, each one of your opinions--I will start with you, Mr. Schwartz--how effective do you think we are in that transition? Could we be better, or is there something else we need to be doing to make it better? Mr. Schwartz. In which transition? Mr. Gosar. Transition to the new type of warfare. Mr. Schwartz. Oh, I think there is a lot we can be doing better. So, 2 years ago USD (R&E), Research and Engineering, put out 14 critical technologies. Twelve of those technologies--possibly 13, depending on how you interpret it-- but 12 of those technologies are either completely or partly led by commercial industry, right. These technologies are being led by industry. So, my colleague was talking about how the Houthis are leveraging commercial technologies. It used to be that DoD would go to industry and say, ``Do this.'' Now they are going to industry and saying, how do you do that? And that is a fundamental change that is understood but not necessarily completely, deeply internalized in the Department. So, I think it is critical for the transformation of warfare because warfare is moving so quickly. It is not just that warfare has changed. The plane of warfare has changed: 15 years ago, we were not talking about space. Fifteen years ago, we were not talking about cyber. So, it is not just the evolution of warfare, which always happens, albeit much faster now, but the planes are changing and can change in the future. So, we need industry to partner with them and get those technologies. It does not mean everything should be commercial. A lot should. It does not mean everything can be commercial, but we need that. Mr. Gosar. Ms. Eaglen. Ms. Eaglen. It is a great question, Congressman Gosar. And I would say the state--how is the transition going to what I would argue is sort of human machine integration, robotics, unmanned, autonomous, semiautonomous systems operating alongside U.S. military forces, I would say poorly. It is not nearly--the Defense Department is not keeping up with the technological change and refresh that is available in the commercial and the private markets. Part of this is a culture challenge at the Department, and we talked earlier about, you know, the carrier air wings. There are products available right now today that are fully autonomous and unmanned that should be sitting and parked on a carrier deck at this moment. But really across the services, you know, we should have the loyal wingman concept, right. So, you have a manned fighter or a bomber. Next to it you have an unmanned tanking drone. Next to that you have an unmanned payload carrying or weapons carrying drone, and the three go together, so like a 1 to 3--1 to 2--oh, excuse me, 2 to 1 ratio. The Department--other countries, friends and allies--we are seeing it, of course, in Ukraine, but friends and allies, Australia is growing faster, and many other countries are showing that these models work. The Defense Department, I worry that not only are they going too slow, it is going to take a crisis to wake them up to how it is going. Mr. Gosar. Mr. Clark. Mr. Clark. Yes , I agree that we are not going fast enough. We have done a lot of work looking at new concepts the Department could be pursuing, and a lot of this comes down to the Department needs to think differently about how it is going to fight and begin to equip itself in that new way and learn some of the lessons of Ukraine, learn some of the lessons that we are seeing in the Middle East today and begin to look at ways to bring technologies like high-power microwave, uncrewed systems or drones into the force, and then you write them in a way that takes advantage of them without necessarily throwing out the existing military we have today. There is a way to make it work together, but the key will be---- Mr. Gosar. The emphasis. Mr. Clark . Doing it affordably. Mr. Gosar. And the balance of that. Mr. Clark. Right. Mr. Gosar. Mr. Hedtler-Gaudette, do you have an opinion? Mr. Hedtler-Gaudette. Yes , thank you. I just want to pause here for a moment. I understand this might make me kind of the skunk at the garden party here, but I think it is also important to remember that when we try to move too fast, we often break things. And I know that that was actually a buzz phrase in the tech world for a while, ``move fast and break things,'' but I think it is important to be careful about how we undertake this acquisition. I agree with you that it is a necessary transition, but when we are asking the Pentagon, an agency that cannot even account for where its assets are, to undertake a complex transition and do it completely, I think we are really asking for a disaster in the making. And, again, I am just going to be the broken record here. The disaster in the making I am talking about is all going to be paid for by the American taxpayer. So, I just wanted to exercise caution and prudence as we think about how we are going to make these transitions and how we are going to prepare for the 2lst century. You know, I think it goes without saying I agree with my colleagues that we are still operating mostly in the 20th century. I do not know if you have tried to use the Pentagon website recently, but it looks like it came straight from 1998. So, I think there is definitely a lot that needs to be done there. Mr. Gosar. So, real quick follow-up---- Mr. Grothman. This is the last question. Mr. Gosar. Yes. So how do we equip ourselves to be the oversight? Help me, help us how to figure out how to oversee this process. Do you have any ideas, Mr. Hedtler-Gaudette? I mean, you know, we were watching movies like ``The Terminator.'' It is here. It is actually almost here. So, tell me how you could-- how we could set ourselves up to be that arbiter or to be that checks and balance. Mr. Hedtler-Gaudette. The one thing to do is to have hearings like this. And I want to, again, commend Chairman Grothman for holding this hearing and you, Congressman Gosar, for being a very active participant in this hearing. We need to have more of them, and they need to be more rigorous, and they need to be more regular. We also need to follow up oversight activities and investigations with actual action. So, it is one thing to tell DoD or to tell a misbehaving contractor that they are not doing the right thing, but unless there is actual penalties or consequences on the other side of those words, I do not think it is going to change behavior very much. So, in addition to the, you know, examining and overseeing and investigating these issues, we need to also actually push forward some reforms to make these, you know, bad outcomes a little bit less bad in the short term and then try to really change the trajectory of where the Pentagon is going moving forward. You know, I mentioned earlier some reforms around how sort of contract and acquisitions are determined and negotiated at the front end. I think that is a big part of why we are , you know, seeing the things we are seeing because I do not think anyone is happy. I do not think the people who push for acquisition reform are happy because we are not getting innovation and we are not getting agile and quick and efficient acquisition. But we are also--you know, people like me are not happy either because we are continuing to see a lot of waste and a lot of things like price gouging and overcharging. But we are in the worst of all worlds at the moment, and I think Congress does have that role to play. And I think using the power of the purse more frequently is also really important. Obviously, hitting people where it hurts in the wallet is usually the most effective way to catalyze change. Mr. Gosar. Yes. Mr. Clark. Mr. Clark. I would say the most important thing would be for Congress to get involved in making sure the requirements are set so that you get relevant capability, not the absolute best capability, and that you can generate relevant capacity with that level of capability, because we have to do this within a cost constraint. And, if the DoD aims for the best that it can get, it is going to necessarily get less, and it is probably going to take longer and cost more. So, you've got to push for relevant capability and relevant capacity, not just the best. Mr. Grothman. Thank you much. We are going to wrap things up now. I guess I will make a little statement. I appreciate you all being here today. The reason we had the hearing is I think we have seen from the past that the Department of Defense, which is overwhelmingly dominating our discretionary budget, never looks good in these sort of hearings. And I think it is a cliche saying the military is fighting the last war. I think that is true big time of our military right now. I think as far as getting done with what they are getting done on a cheaper basis would open up money for the other things that they should be dealing with that they are not dealing with now because they claim they do not have the money. So, we may wind up having other hearings examining the Department of Defense in the future. Maybe--I do not know if they pay attention to it, but maybe the Armed Services Committee will learn a little bit from what we are doing here. Now I will say that with that, without objection, all members have 5 legislative days within which to submit materials and additional written questions for the witnesses which will be forwarded to the witnesses. If there is no further business, without objection, the Subcommittee stands adjourned. 
+WASTEFUL SPENDING AND INEFFICIENCIES:
+EXAMINING DOD PLATFORM PERFORMANCE
+AND COSTS
+----------
+Wednesday, July 24, 2024
+U.S. House of Representatives
+Committee on Oversight and Accountability
+Subcommittee on National Security, the Border, and Foreign Affairs
+Washington, D.C.
+The Subcommittee met, pursuant to notice, at 9:45 a.m., in
+room 2154, Rayburn House Office Building, Hon. Glenn Grothman
+ presiding.
+Present: Representatives Grothman, Gosar, Foxx, Sessions,
+Biggs, Perry, Garcia, and Lynch.
+Mr. Grothman. This hearing of the Subcommittee on National
+Security, the Border, and Foreign Affairs will come to order.
+Welcome, everyone. Without objection, the Chair may declare a
+recess at any time. I will point out that we are scheduled to
+be on the floor at 10:30, so we probably have a bifurcated
+hearing here today. Everybody will get a break halfway through.
+I recognize myself for the purpose of making an opening
+statement. I ask unanimous consent that Representative Mike
+Waltz of Florida be waived on to the Subcommittee for today's
+hearing for the purpose of asking questions. We value his
+expertise, so we want him here. Without objection, so ordered.
+Good morning. I want to thank everyone for being here today
+and I appreciate the witnesses who have taken the time to join
+us for this important discussion. The purpose of today's
+hearing is to address the ongoing issues of wasteful spending
+within the Department of Defense and sometimes misguided
+spending. Specifically, we are focused on the performance and
+costs of several platforms. The Department of Defense platform
+is a term of art used to describe specific vehicles,
+facilities, or equipment used to accomplish a particular
+mission.
+As stewards of taxpayer dollars, it is our duty to ensure
+that every cent spent by DoD contributes to the safety and
+security of our Nation in the most efficient manner. Let us
+start by acknowledging the stark reality we face. There are so
+many DoD programs that are plagued by cost overruns, design
+delays, and performance issues. Sadly, this Subcommittee has
+had no shortage of programs to examine when it comes to
+oversight of DoD, and it drives me up a wall, because really,
+is the Department of Defense not the most important agency?
+Just last month the Subcommittee had a hearing regarding
+the V-22 Osprey program, which despite its unique capabilities,
+has been mired by mechanical issues and a troubling safety
+record. Last year, we examined various ship building issues,
+such as Littoral combat ship. This platform has seen costs soar
+from an estimated $200 million per unit to $600 million. Even
+worse, these ships have suffered from structural defects and
+engine failures resulting in several being decommissioned after
+only a few years of service.
+Today, we will also discuss other platforms that are often
+overly praised so much so that we ignore the real issues they
+face. For example, the Gerald R. Ford class--the Gerald R. Ford
+class aircraft carrier platform has experienced considerable
+waste. Initially projected at $13.3 billion, the costs have
+ballooned to $120 billion for the program, with mechanical
+problems delaying full deployment of--by 15 years.
+These carriers are supposed to be the backbone of our naval
+capabilities, yet they are failing to meet the basic--failing
+to meet basic operational expectations. Additionally, we must
+also ensure that DoD is addressing the rapidly evolving threats
+of the future while also being cost-effective. The American
+taxpayer cannot afford to spend millions of dollars on single-
+shot missiles when more cost-effective solutions would exist to
+counter $100 drones. We must--they act like money is free, or
+there are not better things we can do with it.
+We must also address the larger systemic issues of the DoD
+that allow such waste and inefficiencies to persist. The
+Department has consistently failed comprehensive audits
+revealing significant problems in accounting and data
+management. The lack of financial accountability leads to waste
+and abuse of taxpayer funds. To address these issues, we must
+implement stronger oversight and enforcement mechanisms with
+DoD.
+Both contractors and DoD officials must be held accountable
+for cost overruns, delays, and performance issues. We must
+ensure that program managers have the proper authority and
+resources needed to effectively manage these programs and make
+necessary changes as problems arise.
+I hope our witnesses today can shine a light on issues
+within the defense procurement process and help us understand
+what needs to be done to ensure our military is equipped with
+reliable cost-effective systems. The American people and our
+service men deserve to know that their hard-earned tax dollars
+are being spent wisely and that our servicemembers have the
+best tools available to protect our Nation.
+This hearing is not just about pointing out problems, but
+finding solutions. We owe it to our servicemembers, our
+taxpayers, and our country to get it right. Thank you again for
+our witnesses for being here today, and I look forward to a
+productive discussion.
+I recognize Ranking Member Garcia for his opening
+statement.
+Mr. Garcia. Thank you, Mr. Chairman, and thank you to our
+witnesses for being here today. We appreciate your time. I am
+also glad to be here on a really important subject, but one
+that has been bipartisan as far as this Subcommittee goes. We
+have had really productive hearings on Navy ship-building
+challenges, the failure of DoD to pass an audit, which I think
+everyone is concerned about, and on the V-22 osprey.
+We know the Defense Department requested nearly $850
+billion for their Fiscal Year 2025 budget. Obviously, this is
+an enormous amount of American taxpayer resources, and so
+whenever there is an opportunity to look for inefficiency in
+waste, we should always strive to do so.
+The Department of Defense, as we know, still cannot pass an
+audit, so it goes without saying that these problems are bigger
+than any single administration, or any President or any
+political party. The Department of Defense weapon systems
+acquisition process was first added to the GAO's office list of
+government operations at high risk for waste, fraud, and abuse
+in 1990. We continue to struggle with systems that come in late
+and way over budget. We know that sole source suppliers can
+create many monopolies and exploit their market power to
+overcharge the military, and this is true not just in DoD, but
+in other departments and in states and cities across the
+country.
+Now, bipartisan Oversight Committee investigations found
+that defense contractors have gouged taxpayers and the DoD by
+buying companies with sole source contracts for spare parts,
+and then, of course, raising those prices dramatically. DoD and
+the IG found that we have wasted billions of dollars over the
+last 20 years from overcharging just on spare parts alone. We
+all think that is, of course, unacceptable. We know it is not
+just contractors. We spent billions of dollars on the little
+combat ship, for example, the LCS that we all are aware of
+following the launch of the program in 2005. That vessel, just
+as an example, cost over $500 million per ship, more than
+double the initial cost. The vessels constantly broke down and
+DoD relied on contractors for so much of the maintenance that
+our Navy personnel could not fix their own ships.
+And to add insult to injury, the Navy has admitted that
+that ship itself, and I quote, ``does not provide the lethality
+or survivability needed in a high-end fight,'' end quote. So,
+essentially, we know what that means. The ship basically is
+unable to really achieve its mission, it would be easy to
+destroy in a real war.
+Now, these are many of the programs we now have struggled
+for years. Just a few weeks ago, unfortunately, there was an
+amendment that was brought to the defense spending bill from
+Ranking Member Smith and Congressman Norcross that would have
+reduced the number of F-35 aircraft, for example, until
+programs and failures in the program were actually addressed.
+The F-35 program is projected to cost $2 trillion over its life
+cycle, but has been dysfunctional for years.
+In July 2023, the DoD stopped accepting F-35 aircraft
+deliveries until the enterprise could successfully deliver
+tests and field the next version of the operational flight
+program. Now we know that we only began receiving deliveries
+again just last Friday, a full year after inaction.
+Now, it is clear that we need more accountability not just
+from this program but so many other programs across DoD. Every
+cent that we waste could be invested in priorities like
+healthcare, education, or the fight against climate change or
+reinvesting in programs that are actually working.
+Now, I also want to be fair. We know that developing
+systems sometimes are very difficult. Technology oftentimes has
+to be changed, so we are all aware of those challenges. As we
+face real tradeoffs, it is easy to say that we should reduce
+bureaucracy and try to make it easy for new companies to do
+business with DoD to increase competition. I think we can also
+all agree that it is important to have safeguards in oversight
+to make sure that contractors deliver material that will not
+put our servicemembers in actual any danger.
+Our defense needs and budgetary decisions can be
+unpredictable, but in many ways, we keep making some of the
+same mistakes. And so, I join the Chairman. I share the
+concerns and look forward to productive conversation today with
+the witnesses that I want to thank again about how we can
+invest our taxpayer dollars more effectively. Thank you.
+Mr. Grothman. Thank you. I am pleased to introduce our
+witnesses today. Mr. Moshe Schwartz is serving as an expert in
+defense acquisition and industrial-based policy. He spent 15
+years providing analysis and legislative support to Congress on
+acquisition policy and industrial-based issues including as a
+specialist at the congressional Research Service and a senior
+analyst at GAO.
+Second, Ms. MacKenzie Eaglen is a senior fellow at the
+American Enterprise Institute where she works on defense
+strategy, defense budgets, and military readiness. She is also
+one of the 12-member U.S. Army War College Board of Visitors
+which offers advice about academic program objectives and
+effectiveness, and serves on the U.S. Army Science Board, an
+advisory body that provides guidance on such scientific and
+other matters to the army senior leadership.
+Next, we have Mr. Bryan Clark, senior fellow and Director
+for the Center of Defense Concepts and Technology at the Hudson
+Institute. He is an expert in naval operations, electronic
+warfare, autonomous systems, military competitions, and war
+gaming. He is a former Navy officer who had served as a special
+assistant to the Chief of Naval Operations.
+And finally, Mr. Dylan Hedtler-Gaudette is the Director of
+Government Affairs at the Project on Governmental Oversight. He
+has experience in a wide range of issues to include Pentagon
+accountability and Federal spending issues.
+Thank you for participating in today's hearing. Pursuant to
+Committee rule 9(g), the witnesses will please stand and raise
+your right hands. Do you solemnly swear or affirm that the
+testimony you are about to give is the truth, the whole truth
+and nothing but the truth, so help you God? Let the record show
+that the witnesses answered in the affirmative. We got all four
+today. Thank you. You may take a seat.
+We appreciate you being here today and look forward to your
+testimony. Let me remind the witnesses we have already read
+your statements. They will appear in full in the hearing
+record. For time purposes, see if you can limit your oral
+statement to 5 minutes. As a reminder, please press the button
+on the microphone in front of you so that when it is on we can
+all hear you. When you begin to speak, the light in front of
+you will turn green. After 4 minutes, the light will turn
+yellow. When the red light comes on, your 5 minutes have
+expired, and we ask you to wrap up as quickly as possible.
+Now, we are going to lead off with Mr. Schwartz for his
+opening statement.
+STATEMENT OF MOSHE SCHWARTZ
+SENIOR FELLOW OF ACQUISITION POLICY
+NATIONAL DEFENSE INDUSTRIAL ASSOCIATION
+Mr. Schwartz. Thank you. Chairman Grothman, Ranking Member
+Garcia, members of the Subcommittee, thank you for inviting me
+to testify today. The views I express are my own and not
+necessarily those of NDIA.
+Our defense acquisition system takes too long to deliver
+capability, costs more than it should, and often does not
+access or fails to adopt the most cutting-edge capabilities
+industry has to offer. In addition, our defense industrial base
+is shrinking. This is a problem.
+In this testimony, I would like to make five points: First,
+workforce is the key to successful acquisition. Better
+acquisition cannot be achieved through multiple audits, more
+regulation, or legislative fiat. Rather, giving the few capable
+people the authority to do their job, putting them in positions
+to succeed, holding them accountable and minimizing red tape,
+that is the recipe for better acquisition. But that is not what
+we do. Instead, we measure people on compliance and process.
+In 2021, GAO reported that agencies, including DoD, relied,
+and I quote, primarily on process-oriented metrics when
+managing their procurement organizations. In other words,
+compliance and process were more important than performance. If
+we empower the workforce and focus on outcomes, we can then
+hold people accountable. As one program executive officer said
+to me when expressing frustration over multiple layers of
+approval processes, I was hired to make decisions. If you do
+not like my decisions, fire me, but let me do my job.
+That brings me to the second point. We need to streamline
+the acquisition rules and regulations. There are just too many
+and they are too complicated. Done right, streamlining will
+increase accountability by clarifying lines of authority,
+shortening timelines, and improving outcomes without
+undermining oversight. This is not about getting rid of
+regulations wholesale.
+The approach industry takes is this. Fewer regulations more
+consistently applied by an empowered workforce. More
+consistently applied and enforcing regulations is key to this
+approach. We should encourage using commercial buying
+processes. We should review thresholds to ensure that the cost
+and delay of imposing requirements on relatively lower dollar
+acquisitions do not outweigh potential savings. We should take
+a holistic approach to measuring procurement. And we should
+streamline the approval processes.
+For example, the Office of the National Cyber Director
+recently reported that current regulations on cybersecurity
+outcomes are increasing costs through administrative burdens.
+Many companies reported that complying with the regulations
+threw resources away from actual cybersecurity efforts. A
+similar situation exists in supply chains where a variety of
+statutes are inconsistent and overly complicated resulting in
+increased costs, delayed delivery, and confusion as to who, in
+fact, is making decisions.
+This brings me to the third point. DoD needs to modernize
+its IT systems and improve its use of data. Data analytics can
+improve all aspects of procurement. But DoD's IT and business
+systems are hampering its ability to leverage data. First, DoD
+is using too many outdated systems. A recent DoD inspector
+general report found that DoD plans to spend more than $725
+million in the next 4 years on systems that the controller's
+office itself said can and should be retired. And that is only
+financial systems.
+Second, DoD faces cultural and bureaucratic challenges in
+adopting modern IT systems as exhibited in a stalled effort to
+replace the defense travel system with modern improving
+commercial IT solution. DoD is working to improve its data
+architecture. Earlier this year, DLA awarded a contract to
+adopt commercial supply chain and business network capabilities
+to help identify contractors and drive efficiency. Such efforts
+can dramatically improve acquisition.
+This brings me to my fourth point. Sometimes our focus on
+driving down procurement costs and adding excessive regulation
+has a negative long-term effect. 70 percent of the life-cycle
+cost of weapon systems is operation and maintenance, yet we are
+not investing sufficiently in these areas. This is
+significantly hurting readiness and increasing costs. It is
+cheaper to maintain systems that we already have than to buy
+more systems to make up for readiness gaps caused by
+maintenance failures.
+And finally, my last point, we can be smarter in helping
+small businesses. DoD consistently meets its small business
+goals, but the number of small businesses working with DoD is
+declining. The targets and set asides are often an end, in and
+of themselves, rather than a catalyst for expanding small
+business participation or identifying critical capabilities.
+DoD and Congress can take other approaches to expand small
+business participation. One example, small businesses generally
+do not have the resources to build or maintain secure
+compartment information facilities, or SCIFs, creating a
+barrier to entry. Allowing access to underutilized SCIF spaces
+or establishing new SCIFs in excess GSA facilities could help
+small and other businesses increase competition and provide new
+capabilities to the Department.
+Thank you for the opportunity to share these thoughts and I
+look forward to questions.
+Mr. Grothman. OK. We will move on to Ms. Eaglen for her
+opening statement.
+STATEMENT OF MACKENZIE EAGLEN
+SENIOR FELLOW
+AMERICAN ENTERPRISE INSTITUTE
+Ms. Eaglen. Thank you, Chairman Grothman and Ranking Member
+Garcia. It is not only a pleasure to be before you today, but
+this Subcommittee was the source of my first job on Capitol
+Hill, not--well, we will not talk about how long ago, but it
+was as a Pentagon fellow under the stewardship of Christopher
+Shays of Connecticut. It was a terrific experience, and I thank
+you for the opportunity to be here today.
+Despite a fundamental shift in roles where the Pentagon is
+no longer the inventor driving government research and
+development, it must now innovate largely with existing product
+on the commercial market. The Pentagon has continued using a
+system ill designed for the digital and information age. This
+has led to many of the concerns that you have and that you have
+both raised in your opening remarks.
+It is also a process that has workarounds on the edges, but
+is still in use for major systems at a time the military faces
+peer competitors who do not have these same handcuffs of
+purchasing and an acquisition system that is of the Soviet
+style of management and increasingly falling behind our one
+pacing threat competitor in China.
+What used to take the government 5 years to buy now takes
+25 years from senior leader idea to product execution at full
+rate production. From characterizations of effort ranging from,
+quote, ``unbelievably slow'' to, quote, ``too late.'' The
+Pentagon cannot seem to break out of neutral and stop playing
+catch-up, even as military balance is shifting away from
+America, particularly in the Indo-Pacific.
+While Congress has been generous granting middle tier and
+other transactional authorities to help the Pentagon go faster
+and these efforts are yielding fruit, the incentives in the
+larger traditional Pentagon acquisition system and approach are
+skewed or flawed. There are many stakeholders in this
+traditional system, however, which is why it does not wither on
+the vine. The risk aversion, the emphasis on compliance and
+value and low cost over speed and relevance are all built in,
+and they create a barrier wall of compliance designed to keep
+others out, particularly startups and small businesses.
+The nonprofit Silicon Valley Defense Group recently found
+that of the top 100 national security startups of 2024, they
+collectively earned just $6 billion in awards from the Defense
+Department and the majority of this went to a single company,
+Spacex. But stealth, GPS, precision-guided munitions, and
+MWraps were all taken outside the traditional system for
+purchasing with different budgeting, different requirements
+process, and different processes in general to succeed in going
+faster at the speed of relevance.
+Even if Congress and the Pentagon used all available
+authorities to a maximum extent, more flexible funds are needed
+from appropriators and--which allows for speed and a new
+premium by contracting officers to go faster. It would also
+help if we had a shorter and less bureaucratic requirements
+generation process, a risk-taking culture in the defense
+workforce where failure is not punished, and program managers
+are willing to work with different and new companies.
+The entire Department of Defense needs to be at an
+operation warp speed tempo where urgency and humility are the
+watch words, and the Armed Forces reward speed and fielded
+capability over compliance or perfection. One officer has
+stated entire swaths of the Defense Department are going
+through the motions, a preference for process over time and
+urgency. Under a warp speed-like posture, the Pentagon should
+cut development and production times to enable immediate
+implementation of available technology into the systems the
+military possesses today, while gathering data from that
+implementation to strengthen the new technology still in
+design.
+Accepting a unilateral drawdown of train manpower capacity
+and posture throughout the next decade would hurt the Armed
+Forces and our ability to maintain a balance of power across
+three theaters of the world. The Pentagon has, for 3 decades,
+delayed modernization critical to the sustainment of credible
+U.S. conventional combat power. Backs against the wall now, we
+must not cede American military supremacy to a dusty death, but
+rather, revise the pace of productivity by accepting that the
+Armed Forces cannot survive on buying time to gain capability
+but rather buy capability to gain time. Thank you.
+Mr. Grothman. Thank you. Bryan Clark. By the way, that was
+great testimony.
+STATEMENT OF BRYAN CLARK
+SENIOR FELLOW
+HUDSON INSTITUTE
+Mr. Clark. Chairman Grothman and Ranking Member Garcia, and
+members of the Committee, thank you very much for allowing us
+to participate in today's hearing, and to testify about the
+impact of overspending on defense capabilities and the
+implications for our long-term readiness. I am going to focus
+my remarks on one area in particular, that is the original sin
+of a lot of the programs you identified, so Littoral combat
+ship, F-35, Ford class carrier. All the problems that they
+have, in many ways, derive from the overly ambitious
+requirements that were established for them at their origin.
+This continues today in new programs like the Armies, of
+Reconnaissance Aircraft program, and some additional programs
+that are being pursued by the Department like the Navy's next
+generation destroyer, next generation submarine. These overly
+ambitious requirements set up a situation where the schedule
+that is available to program managers and the amount of money
+available to them is just insufficient to be able to deliver
+the program on time with the performance characteristics that
+are demanded by the requirements process.
+In many ways, that is because our requirements process
+evolved out of a cold war model where the U.S. military was
+superior and simply had to build its next generation of
+capabilities to stay ahead of competitors. Today, we have a lot
+of peer competitors out there and arguably technically
+empowered countries and organizations such as the Houthis are
+stressing U.S. forces because they are taking advantage of
+commercially available systems that are now empowered with
+commercial technology from communications to sensing to drones.
+So, the fact that the technological playing field has been
+leveled means that the U.S. can no longer have the luxury of
+this long-term development process where we build overly
+ambitious requirements and then eventually develop the
+capability to meet those decades in the future. We have to go
+faster, as MacKenzie highlighted. We also have to do so in a
+way that is affordable, and we cannot continue to just spend
+more money on a capability that does not deliver.
+The biggest impact we see also is operations and support
+costs, because these overly ambitious requirements will tend to
+demand higher expenditures for maintenance, higher expenditures
+for operations, and for crewing. Those things are now
+constraining the force design of all the U.S. military
+services. We no longer can build a bigger military not because
+we cannot afford it, but we cannot crew it and we cannot afford
+to maintain it down the road. The overly ambitious requirements
+we started with are generally the driver of those things.
+So, we need to think about maybe a new approach. Instead of
+establishing requirements in isolation based on analysis of
+what projected future needs of desires of the leadership might
+be, we instead need to look at what is needed in the near term
+to address today's problems or the problems of the next few
+years and identify how we can evolve today's capabilities to
+address those needs.
+In program management, we often talk about the iron
+triangle of defense where a program manager is balancing cost
+of a program, the schedule of a program, and the performance of
+a program against one another.
+With requirements established in advance and fixed by the
+requirements process, program managers are really only left to
+be able to adjust schedule because the cost available to the
+program is set by DoD budgets. That means programs are delayed,
+increasing the cost down the road, and increasing the
+expenditure down decades into the future.
+A new iron triangle would instead allow program managers to
+vary the performance of a system based on operational concepts
+developed with operators, and also, to adjust the cost of the
+program based on the amount of money available in the budget.
+So, giving the ability of program managers to adjust all three
+variables in the iron triangle would allow them to be able to
+deliver capability faster and more relevant capability for
+today, rather than relevant capability for the future.
+This new approach is embodied in some of the DoD's reforms,
+such as the middle tier of acquisition and some of the more
+developmental experiments that are going on in different parts
+of the Department. The problem is these experimental efforts to
+change the approach to acquisition are a side project and they
+are not part of the main body of acquisition. We need to take
+these side projects, like middle tier of acquisition, like
+rapid capabilities offices, and make those the main line of
+acquisition, and instead of focusing on performance at all
+costs, instead of look--look instead at achieving relevant
+capability with a relevant capacity by varying the operational
+concepts and tactics that operators use. That is how commercial
+businesses pursue new capability development and that is how
+the DoD should be doing it as well.
+Thank you for your time and I am looking forward to your
+questions.
+Mr. Grothman. Thank you very much.
+Dylan Hedtler-Gaudette.
+STATEMENT OF DYLAN HEDTLER-GAUDETTE
+DIRECTOR OF GOVERNMENT AFFAIRS
+PROJECT ON GOVERNMENT OVERSIGHT
+Mr. Hedtler-Gaudette. Thank you, Chairman Grothman, Ranking
+Member Garcia, and members of the Subcommittee. My name is
+Dylan Hedtler-Gaudette and I am the Director of Government
+Affairs at the Project on Government Oversight, or POGO. I
+appreciate the opportunity to be here and speak with you today
+about the perennial issue of wasteful spending and inefficiency
+at the Department of Defense.
+One brief bit of history here as I begin my statement. Back
+in 1981, when my organization was founded, we went by a
+different name. We were the Project on Military Procurement. We
+were also the ones who exposed the now infamous examples of
+scandalous spending at the Pentagon, including $436 hammers,
+$600 toilet sets, and $7,600 coffee makers. Needless to say, we
+go way back on this issue.
+But even more importantly than representing POGO here
+today, one thing I want to be sure to do is bring the
+perspective of the American taxpayer to this table. You will
+hear a lot today about how acquisition and procurement rules at
+the Department of Defense are creating pain points that is
+making it more difficult for the military to obtain what it
+needs in a timely manner.
+You will also likely hear that the exclusive reason for
+these problems is bureaucratic bloat and process creep at the
+Department itself. To an extent, there is validity to these
+arguments. The Pentagon is large, it is Byzantine, it is
+labyrinthian, there are many different fiefdoms and many
+different organs at the Pentagon, sometimes working at cross
+purposes, which has a tendency to create stovepipes and red
+tape.
+With that said, it is also important to remember that there
+are two other stakeholders who bear a significant amount of
+responsibility for creating the problem and thus bear some
+responsibility for solving it: Congress and the defense
+industry itself. Congress had the power of the purse, which
+means that it gets to make decisions about how much is spent
+and where that money goes in terms of the defense budget.
+Congress also has, obviously, the power to pass laws and
+pass policy related to defense. Most importantly, though,
+Congress has the power and the obligation to conduct real-time
+rigorous oversight to monitor and to analyze the implementation
+and execution of those funding and policy decisions. As a quick
+side note, this hearing is exactly an example of that kind of
+oversight.
+On the other side of the coin, you have the defense
+industry. An extraordinarily large, extraordinarily powerful,
+extraordinarily influential special interest group who has made
+it its mission to whittle away and water down oversight
+accountability and transparency mechanisms in acquisition and
+procurement processes and policies. What this has led to is the
+military and the American taxpayer being ripped off to the tune
+of billions of dollars over the years.
+One brief bit of context here. Last year we spent over
+$6 trillion in total on the Federal budget. We only took in
+about $4.5 trillion in Federal revenues. That is a deficit of
+about $1.5 trillion. We are rapidly approaching an annual
+Pentagon budget of $1 trillion. All of this is set against the
+backdrop of over $35 trillion in national debt. To say that
+this fiscal and budgetary situation is unsustainable would be
+an understatement.
+Let us also take a quick trip down memory lane. As recently
+as Fiscal Year 2000, we were spending a little bit south of
+$300 billion on the defense budget. In this current Fiscal Year
+cycle, we are going to be spending a little bit south of $900
+billion. We are talking roughly a 300 percent increase. I do
+not think that we can say with any degree of confidence that we
+are 300 percent safer today than we were 25 years ago. I do not
+think that we can say with any degree of confidence that our
+military servicemembers and their families are 300 percent
+better equipped, or 300 percent better cared for than they were
+25 years ago.
+You will likely hear that the solution to all of these
+problems is so-called acquisition reform. Please remember that
+it was acquisition reform in the 1990's and continuing through
+today that has systematically weakened and undermined pre-
+existing oversight accountability and transparency rules such
+as those found in the Truth in Negotiations Act, TINA.
+We also have an entire area of acquisition and procurement
+for commercial items and commercial products that has become a
+rich and fertile soil for contractor malfeasance, price
+gouging, and general shady business. All of this has happened
+under the auspices of acquisition reform.
+We think it is time for Congress to step in, and more
+assertively, play its role as the maker of policy and
+appropriator of funds while taking seriously its oversight
+responsibilities, particularly when it comes to major
+acquisitions, programs, and platforms.
+One thing Congress can do to help is also make much-needed
+reform to the Pentagon budgeting process. The unfunded priority
+list, for example, does not make any sense and leads to ever-
+increasing Pentagon budgets and more bloat and more waste.
+It is also high time to require the DoD to pass a financial
+audit and to create meaningful penalties if they do not. After
+all, bad budget process leads to bad budget outcomes.
+My takeaway here is clear for you. We can achieve a strong
+and effective military with more agile and more innovative
+acquisition and procurement without sacrificing the country's
+financial and budgetary future and without ripping off the
+American taxpayer. We will only achieve this, however, if the
+Department and Congress work hand in hand. We could call it a
+grand bargain of sorts to streamline processes, cut red tape,
+while also restoring, maintaining, and reinvigorating oversight
+accountability and transparency.
+Thank you for inviting me to testify today and I look
+forward to answering your questions.
+Mr. Grothman. Thank you.
+OK. I will lead things off for Ms. Eaglen. What is the most
+critical modernization needs facing the U.S. military, and how
+far behind are we?
+Ms. Eaglen. I would argue that U.S. conventional deterrent
+is at a nadir at the same time we are trying to modernize our
+nuclear deterrent. And so, this is what I call the terrible
+20's. So, you have a modernization crunch across our
+conventional and strategic forces where the bills are all
+coming due roughly this decade, because most of what was bought
+in the 80's, it is aging out at about the same time.
+So, if I had to prioritize, I would say the Pentagon is
+prioritizing the nuclear deterrent, and some things in the
+conventional forces portfolio are being sacrificed for that,
+and I would argue that that is not wise if our peer competitors
+and pacing threat, for example, in China see that we are weak
+in one area. Of course, that is the area they will seek to
+exploit and make more vulnerable what is already.
+I would prioritize within the conventional forces portfolio
+a couple of different capabilities. First, of course, is under
+sea. Ranging from manned and unmanned capability, but
+particularly attack submarines as a top priority. I would focus
+on the need for competition within--maintaining competition for
+future fighter development, such as the NGAD program. To do
+that, Congress would need to agree to continue F-15 procurement
+after this year when it is slated to end.
+Having one fighter production house in the United States is
+not healthy for the kind of competition you and Ranking Member
+Garcia outlined in your opening statements, but the Pentagon
+has to pay for that up front. It does not come without a cost,
+and historically, Congress has shown they do not want to do
+that.
+Last is the size of the U.S. Army. The Active-Duty force--I
+do not believe Congress would have ever actually voted on the
+Army shrinking by nearly 100,000 Active-Duty soldiers in the
+last 5 years, which is essentially what has happened because of
+the recruiting challenges facing the U.S. Army. This standing
+force is considered one of our bulwarks against aggression
+around the world, and we need a large and capable army.
+Mr. Grothman. That was so good, we will go with you again.
+The GAO study from May of last year found that since May 2018,
+one F-35 prime contractor lost over 1 million spare parts
+totaling $85 million, of which less than 2 percent had been
+reviewed by the F-35 joint program office. What do you believe
+can be done to increase accountability in this program? To what
+degree is it just an attitude problem or an arrogance problem
+in the Department of Defense?
+Ms. Eaglen. There is a culture problem at the Defense
+Department, but I would start, though, even sort of to the left
+of that and strongly encourage Congress to never again approve
+a program that starts with a J, joint. That--they become super-
+sized, oversized, and totally unmanageable programs. It is
+basically three totally separate fighter jets under one
+umbrella, and it has led to many of the predictable and
+knowable problems that we have with this program today.
+So, avoiding joint programs at all costs is one way to get
+at better oversight, more targeted accountability for these
+contractors. Something of the size and scope and magnitude of
+this program, it was, again, knowable. Holding contractors
+accountable as well comes from more direct and active
+management from the program managers and offices themselves.
+The Pentagon does need more resources, and I want to echo
+one of the points on data analytics. The Department's business
+systems are woefully--we are talking the days of the floppy
+disk over there and fax machines still required for a lot of
+companies to even still submit contracts to the award--excuse
+me, contract bids to the Department.
+So, updating business systems would certainly help with
+tracking some of this, and the audit, of course, where you
+identify ahead of time improper payments, and to the Ranking
+Member's opening statement, the types of problems that you
+outlined, sir.
+Mr. Grothman. OK. Same GAO report found the Department of
+Defense has over 19,000 spare parts in the global spares pool
+that have been waiting between a few months--in the global
+spares pool that have been waiting between a few months to 5
+years for disposition, instruction from the F-35 joint program
+office. Can you explain how the F-35 joint program office would
+event get to the point of having 19,000 spares laying around?
+That is for you.
+Ms. Eaglen. Oh, Mr. Clark. I am sorry, Mr. Clark.
+Mr. Clark. Yes. So, I think part of the--clearly, data
+analytics and IT systems that are managing these are a problem.
+The bigger problem is the role of the prime contractor and
+managing spare parts inventories. Right now, the contractor
+blockade is having to both use parts to be able to field new
+airplanes and field parts to be able to support existing
+airplanes that are out in the fleet. And because of that
+divergence of responsibilities, I think that is part of where
+you get this confusion about where parts are, because some are
+going to the factory, some are going to the field.
+Mr. Grothman. Thank you. I think I am over my time. I
+expect to return later. We will go with the Ranking Member, Mr.
+Garcia.
+Mr. Garcia. Thank you.
+Mr. Hedtler-Gaudette, I know you have written and talked
+about extensively the conflicts of interest that can happen
+when Members of Congress hold and trade defense contractor
+stocks. I think this is a very important point, and actually
+personally I have co-sponsored numerous bills before Congress
+that look at banning individual stocks within the performance
+of Congress. I strongly believe in that. But can you talk a
+little bit more about how these conflicts of interest can
+weaken our oversight into some of the Department's more
+troubled programs.
+Mr. Hedtler-Gaudette. Sure. Thank you. And I agree that
+Members of Congress as well as other officials in the
+government, including officials at the Department of Defense,
+holding direct financial stakes in defense companies is
+problematic at best. I mean, at the very least, it creates the
+appearance of potential corruption and the appearance of
+impropriety, even if there is no actual or real corruption or
+impropriety. It just looks really bad and feeds into an already
+pretty large and metastasizing feeling of lack of trust on the
+part of the public, and we do not want to make that any worse
+than it already is.
+But to be more precise in answering your question, I think
+it is just a truism that if your financial bottom line is
+tethered or tied to the performance of an individual company
+or, you know, an industry more broadly, there is a natural
+human inclination toward wanting to do what you can to increase
+your own financial standing.
+If you happen to be in a position of extraordinary power,
+there are 535 people in the U.S. Congress who have that
+extraordinary power and they have access to information and
+insight that we, as the rest of the public do not have. You can
+see why there is a huge conflict of interest there.
+Again, I just want to stress even if we do not have a
+smoking-gun causal link between one Member of Congress as a
+vote and their financial portfolio or one Member of Congress's
+announcement of an investigation or oversight activity and
+their financial portfolio, you know, we can see how it looks
+really bad and it creates bad optics, and so anything we can do
+to mitigate conflicts of interest, real or perceived, is going
+to be a good thing overall. It is not just Congress as I
+mentioned. There are folks at the Department of Defense who are
+invested in the defense industry despite having real power to
+make real decisions that would impact the defense industry,
+impact individual companies, and also impact their own
+financial portfolios.
+Mr. Garcia. Thank you. I also want to just return briefly
+to the contractor price gouging issue. We know there are two
+problems here. First, as we rely on the single-source suppliers
+and also that we also have a system where larger companies can
+come in and buy in small suppliers and of course raise prices
+while bidding regulations and safeguards. We know that this is
+a core problem, and we all want to make it easier to do
+business with DoD, especially for small businesses.
+Now, I know, oftentimes, we talk about cutting the red
+tape, but sometimes red tape is actually oversight. I know this
+to be true just through my work as mayor of my former city. We
+had a fairly good-sized city, $2 billion budget, over 6,000
+employees. Oftentimes, when folks would cut the red tape, we
+would come back with, well, we would like to as well, but we
+also want to make sure that we are not wastefully spending
+resources within our city departments.
+Again, can you talk, Mr. Hedtler-Gaudette, about how we can
+make sure that our regulations on contractors are most
+effective?
+Mr. Hedtler-Gaudette. Sure. There is an old expression that
+I believe it goes an ounce of prevention is worth a pound of
+cure, and I think we need to operationalize that principle here
+when it comes to contracting. The more we can do to, up front,
+provide Department of Defense officials, specifically
+contracting and procurement offices, with the really pertinent
+and relevant information they need, specifically around cost
+and price, you know, the more upfront upstream mechanisms we
+can have to make sure that contracts are fair and reasonable,
+the prices and terms therein are fair and reasonable, and that
+the American taxpayer is receiving a good deal. The more we can
+do on the front end, the better, because it is very hard to fix
+these problems in a post-hoc sort of retroactive way. So, that
+is why those up-front mechanisms are so important, and they are
+just basic due diligence.
+So, I referenced in my opening statement the Truth in
+Negotiations Act, or TINA. Now, TINA, would not say it is the
+only mechanism, but it is one of the primary mechanisms we have
+for ensuring that cost and price information is provided what
+it should be provided at the outset of contract negotiations.
+But because of the sort of changing thresholds, changing
+thresholds and standards that apply in TINA when someone has to
+provide that cost and price information, you know, we have seen
+the law get watered down, and it has not been as effective as
+it could be over the years.
+One thing we would certainly advocate and propose as a
+restoration of reporting thresholds under TINA and perhaps even
+a strengthening and tightening of those up front, that way we
+are ensuring integrity at the front end of the process as
+opposed to trying to recoup money at the back end of the
+process if we run into malfeasance or price gouging.
+Mr. Garcia. Thank you. I just want to just conclude just
+by--I appreciate that. I just want to conclude by saying that
+we also have a lot of work to do on national security,
+particularly intelligence estimates right now in the war in
+Ukraine, Russia is producing almost three times more munitions
+than the U.S. and Europe, and we know they can do it at a lower
+cost, so this conversation is a serious conversation about
+national security, security of the Ukrainian allies, and I hope
+we can continue looking at this very serious issue. Thank you,
+Mr. Chairman.
+Mr. Grothman. Thank you very much.
+Ms. Foxx.
+Ms. Foxx. Thank you, Mr. Chairman, and thanks to our
+witnesses. I appreciate, Chairman Grothman, your holding this
+hearing. I have worked to address inefficiencies in defense
+acquisitions and sustainment, and I understand how pervasive
+waste is within the Department of Defense, and how big this
+problem is, so thank you for your attention to this issue.
+Mr. Schwartz, in your testimony, you emphasized the need to
+decrease barriers for small businesses to participate in the
+defense market. I agree with that position and I am very
+concerned that the Department has grown so reliant on a
+shrinking number of commercial firms which stifles competition
+and leads to increased costs. What would you say is the biggest
+reason for the decrease in small businesses contracting with
+the DoD?
+Mr. Schwartz. Thank you for that question. In the polls
+that I have seen and the surveys that I have seen, the
+industrial base generally is saying it is the rules and
+regulations. In my testimony, I said fewer regulations, but I
+agree with my colleague from POGO, more consistently enforced.
+It is not about just getting rid of regulations, but we have a
+problem, the defense industrial base, from Fiscal Year 2010 to
+Fiscal Year 2020, the small businesses decreased by 43 percent.
+That is not my data. That is the government's data.
+It is not just small businesses. Other businesses, every
+other business fell annually by 7.3 percent. That is an even
+higher percentage. Now, you can say that was only until 2020.
+It has happened every year since then. Last year, entire
+government contracting dropped by 2 percent, companies working
+with the government. So, it is the regulations, it is the
+bureaucracy. And it is not regulations just for regulations
+sake.
+When I was at the 809 panel, we found regulations that
+required vending machines to accept dollar coins. We found
+regulations that required printers to print on two sides. We
+found contract clauses that required seat belts to be put in
+the contract, to wear seat belts while driving on base even
+though every state had that law already. It is that volume of
+work and that churn of regulation that small businesses cannot
+keep up with and know what the rules are.
+It is the cybersecurity regulations, and I am not saying we
+do not need cybersecurity regulations, but when ONCD, the
+Office of National Cyber, says that our regulations are causing
+companies to shift money to compliance from actual cyber
+defense, that is a problem, and I think that is a lot of the
+driving force.
+Ms. Foxx. We have too many bureaucrats in the Department
+writing picayune rules. So, what steps can we take
+legislatively to increase small businesses' participation in
+defense contracting?
+Mr. Schwartz. I may make a couple of suggestions, and there
+are a number of them, and I would love to have this
+conversation at length, but one is what I mentioned in
+testimony, SCIFs, security compartmentalized facilities. Small
+businesses do not necessarily have the resources to create
+their own SCIFs, so outside of the Washington area, to the
+extent that there could be like a WeWorks model for SCIFs, that
+could be very helpful to allow companies to view, bid on, and
+then actually execute work that might be classified is one.
+Another one is I think the point you were making; I hope I
+understood that, is simplify the regulations so small
+businesses can simply understand what is required of us and not
+have to spend a lot of money on lawyers or other people to
+explain to them what is required, what is not, and not have to
+change their IT systems all the time. Things like that.
+Ms. Foxx. Well, I appreciate the fact that you are giving
+us some of the barriers that face small businesses in competing
+for sustainment contracts. I would like to follow up with you
+on getting more information on what those barriers are and
+making sure that we look at that in terms of anything we can do
+legislatively.
+I have a constituent that maintains that DoD should
+leverage FAA certificates and commercial best practices to
+increase the number and types of businesses that can compete
+for contracts and lower sustainment costs for certain aircraft.
+That makes a lot of sense. And I think we need to look at more
+ideas like that to increase small business participation and
+achieve the best outcomes for our servicemembers and the
+taxpayers.
+We need more people competing for these contracts and doing
+the work, and my experience as a former small business owner is
+that often, the small business owner will be better at doing
+this than the larger company, although I think the prejudice
+among DoD is to go to the larger companies, and we need to look
+at that and make sure that the way contracts are written, the
+way people are assessing companies is fair to all concerned.
+Thank you, Mr. Chairman. I yield back.
+Mr. Grothman. Thank you much. As far as the future, we are
+going to go to Mr. Lynch, we are going to go to Mr. Perry, and
+then we are going to go across the street for a field trip.
+Mr. Lynch. Thank you, Mr. Chairman.
+I want to thank the witnesses for your willingness to help
+the Committee with this work. Just a little background, I come
+out of the construction industry, so contract administration is
+something that I am familiar with. That is my educational
+background. My degree is in--bachelor's degree is in
+construction management. I am a former president of the iron
+workers union in Boston, so administering those contracts is--
+was a daily task for me.
+I have to say, though, the Department of Defense, their
+contracting process is so complex, so labyrinthine, and so
+opaque, and that is not just overseas and in construction, but
+also within our national labs. The process by which a certain
+contractor gets--you know, wins a bid is absolutely smoke and
+mirrors in our country. There is no competition. We have a
+regular rotation of people coming out of the military going to
+work for the national labs or these big contracting outfits,
+and then, because of relationships and friendships, that takes
+over. Those relationships take over. We never have truly open
+competitive bidding within the Department of Defense.
+So, I came on this Committee back on September 11, 2001,
+the day of the attacks. I was elected in Massachusetts in a
+special election. And I ended up doing over 50 trips to Iraq
+and Afghanistan just because we were--we were hemorrhaging
+money, and there was no accountability.
+So, when I came back here after having seen what was going
+on over there, Mr. Hedtler-Gaudette, I offered a bill called
+the Commission on Wartime Contracting, and that is not an
+original idea. Truman actually came up with it during the
+Second World War. He saw the amount of money that the country
+was spending on defense projects and the amount of waste fraud
+and abuse that was going on. So, my bill basically mirrors what
+he was doing and also what we were doing in this Committee with
+respect to the special inspector general on Iraq and
+Afghanistan reconstruction.
+So, I am very, very proud that POGO endorsed my
+legislation. We need to have someone monitoring this onsite,
+you know, at the National Labs who is what I would describe as
+a taxpayer representative. Someone who actually is there to
+watch out for the best interest of a taxpayer, because as my
+colleagues have pointed out, we are just puking money here to
+the Pentagon, and there is no accountability and no serious
+effort at unwinding this labyrinthine process where, you know,
+our taxpayers are being robbed of, you know, precious resources
+at the same time that the goal and the mission of our
+Department of Defense is not being met. We are falling further
+behind.
+So, Mr. Chairman, I have filed that bill again. It
+addresses some of the issues that you have validly raised not
+just in this hearing, but previously, and I am just hoping that
+at some point, we might get together here on this Committee and
+actually, put out some legislation that actually addresses what
+is going on here.
+We just had a major, major IT failure because of
+CrowdStrike, and, you know, it is sort of a single-source
+repository for cybersecurity, and yet--and this was global
+because of its connection to the Microsoft system, but--so the
+Europeans are experiencing the same discomfort we are. We have
+had massive failures that have affected not only the day-to-day
+activity of the American people with failures of, you know,
+thousands and thousands of flights canceled, but also, we have
+got some serious concerns about the readiness of our national
+security.
+So, I want to thank the witnesses. You have all been very
+good with providing different perspectives to us. But I would
+like to insist that we actually take up some legislation and
+try to get some stuff passed rather than have these periodic
+hearings that are very well-intentioned and informative, but we
+got--the time for action has long since passed, and I just
+think we've got to come together on this.
+Thank you, Mr. Chairman. I yield back.
+Mr. Grothman. Very good. Now we are going to go to Mr.
+Perry, and when he is done, we will break up for a second and
+we will reconvene 15 minutes after the final vote is closed.
+Mr. Perry.
+Mr. Perry. Thank you, Mr. Chairman.
+Ladies and gentlemen, thanks for being here. I am not sure
+who to address these questions to, but I am going to just pick
+on one particular program that seems egregious to me, and that
+is the F-35. I have got this GAO report here. And if you are
+familiar with things like operational readiness rates or
+mission capable or fully mission capable, then you are going to
+know what I am talking about and I think we can probably get
+through this.
+I am looking at three variants, the 35 Alpha, Bravo, and
+Charlie, and I am looking at mission-capable rates by variant,
+so you know the different services, branches use different
+variants. The high-water mark for the 35 Alpha, this is mission
+capable, so that 70 percent in 2020. Looks like 2023 we are
+about 50--a little over 50 percent. 67 percent high water mark
+for the Bravo, and at about 60 percent in 2023 for the Charlie
+model. We have gone from 56 mission-capable percent to about 62
+percent in 2023.
+Then we get to fully mission capable, fully mission
+capable. I am going to use some kind of just anecdotes to
+explain to my colleagues what that might mean, but for the
+Alpha model, we are down right now in 23 to 36 percent. We are
+at a midpoint now for the Bravo variant at 14.9 percent, so 15
+percent, and we're up on the Charlie model from about 7 percent
+in 2019 to a whopping 19.2 percent. What that means fully
+mission capable, we used to go to the range. You had one
+aircraft that would fire rockets. You had another aircraft
+where the mini gun would work. And so, you had to qualify in
+rockets and you had to qualify in mini guns, so you would fly
+that one to shoot this weapon system, fly this one to shoot
+that weapon system. Maybe your transponder works in this one,
+but it does not work in that one. There is something that does
+not work that means the aircraft is not fully mission cable,
+and we are looking at all these variants the best of which
+right now is at 36 percent.
+Now, this aircraft has been around, the program has been
+around for about 20 years. First flight took place in 2006. We
+are talking about a $2 trillion cost to own and maintain these
+aircraft, which is way above budget. And it appears to me the
+answer from the commands and the contractor is to just fly
+less, and then they can meet their requirement. We are going to
+fly less and, you know, God bless these contractors that make
+these awesome weapon systems. It is awesome they work, but it
+is not awesome when they do not. When you are e facing the
+enemy and you need to go to missiles, but you have only got
+guns, that is not helpful at that moment.
+The focus needs to be on the warfighter, right? And what
+they need. And as a guy who spent a lot of time in the seat,
+there is one thing and one thing alone that makes proficient
+aviators, especially under duress, and that is, time in the
+seat. And so, reducing time in the seat so that the aircraft
+can meet cost projections that can--I do not know how to say
+this, but imperils, the very people that the aircraft was built
+for, like it imperils the mission. It defies what the hell we
+are doing here.
+And so, my question for you in the macro sense is, is it--
+look, no one wants to say this. This is like saying Voldemort,
+right? But is this aircraft like--are we beyond the point of
+just throwing bad money after more bad money or good money, and
+at what point do we say we have made a mistake here, it is time
+to move on? Like our aviators, these pilots, they are going to
+be nonproficient because the aircraft are not capable of doing
+the job, or they are going to be nonproficient because they are
+not flying them, because we have got to meet cost estimates.
+What the hell is the answer here?
+Mr. Clark. So, Congressman, you are absolutely right. Those
+mission-capable rates are about half of what they should be.
+And if you look at other aircraft, older aircraft, they are
+comparably employed. They would have much high mission capable
+rates. It is a much more complex airplane than I think anybody
+expected it to be, and the requirements they established for it
+set it up to fail in this way, because it is just so complex,
+it is so sophisticated, it has got so many potential failure
+modes that it creates a situation where when it gets out to the
+field, it is expensive to operate and maintain. And then beyond
+that, it has a lot more opportunities not to work. So, we have
+set it up for failure in this way.
+The F-35 was supposed to be the bulk of the fleet. It was
+supposed to be the thousands of the F-16 and for the--basically
+your daily driver. It is no longer that way. We now have to
+treat it like a special aircraft that we employ for certain
+situations where we need stealth or censor fusion or the
+capabilities it offers, and rather than to buy other aircraft
+to be the things that fly around the flagpole and do the
+general operations, the air superiority that we need, F-15EX,
+the Navy was buying more F-18s for a while, we may find
+ourselves buying more F-16s, that is what happens is we end up
+at this high low force or expensive less expensive force in the
+aviation community just to fill out the air wings. But that is
+a situation that we set up by asking for this airplane to do
+too much in too short of time with technology that was not
+ready to measure up to the missions.
+Mr. Perry. I know I am way over time here, and we have got
+to go vote, but you have kind of described the problem maybe
+better than I have, or whatever. But what is the answer? Like,
+what is the--do we keep investing in this thing, or do we just
+say, Look, we can only afford one Ferrari in the garage for the
+days we want to go fast, but on the other days when we have got
+to go to the grocery store and pack up the station wagon, we
+have got to buy these--what is the answer?
+Mr. Clark. We will have to probably buy fewer of them going
+forward and buy other aircraft and begin to fill out the air
+wings and get those cheaper flight hours.
+Moshe?
+Mr. Schwartz. If I can just add, I just want to mention one
+thing that my colleague said, which is it is set up for
+failure. I think too often the Department of Defense we are
+setting them up for failure, and it is a lot of people. So, in
+this case F-35 was the requirements. Too often the requirements
+are setting up for failure.
+For the CVN 78 with the Gerald Ford class, the cost was
+setting it up for failure. The cost estimate of the Navy was
+below 50 percent. You are going to have cost estimate not
+because someone is doing something wrong, but because your
+estimate is unrealistic. And I think to take a step back from
+this program, one thing to consider and one answer is let us
+re-examine how we are costing, how we are budgeting, how we are
+looking at requirements so we start right, because once you
+start wrong, you have already baked in problems.
+Ms. Eaglen. Just quickly, we should avoid programs that are
+too big to fail at all costs. This was overly ambitious. It
+should have been three separate programs for the three separate
+aircraft.
+Mr. Perry. I yield.
+Mr. Grothman. Thank you. Pursuant to the previous order,
+the Chair declares the Committee in recess subject to the call
+of the Chair. It is my intent to begin again 15 minutes after
+the vote is called across the street.
+
+Mr. Grothman. The Committee will come to order.
+I think we have Mr. Sessions up next, but he is not here
+quite yet. So, what we will do--and Mr. Garcia is fine with us
+starting. We checked. So, we will start with Mr. Gosar, and if
+we do not have anyone back on a timely basis, I will go again.
+Mr. Gosar. Thank you, Mr. Chairman.
+In my district alone, I represent Luke Air Force Base,
+Marine Corps Air Station, Yuma, and the Yuma proving grounds.
+When Yuma hosted the war games in March and in October,
+residents hear the jets overhead, and their comment is always,
+``That is the sound of freedom.''
+Especially after the recent assassination attempt on
+President Trump, national security is on the forefront of our
+minds. As elected officials, it is our job to ensure the
+responsible use of taxpayer dollars to create a robust national
+security posture. Warfare has changed. So, defense spending
+must change too. Look at Israel and look at Ukraine.
+Land warfare has become almost obsolete, and it has shifted
+to an airplane missile and space defenses. We must prevent
+waste, fraud, and abuse, and restore confidence in the
+military.
+Ms. Eaglen--did I say it right?
+Ms. Eaglen. Yes.
+Mr. Gosar. OK. This past February, a helicopter crash
+tragically claimed the lives of five marines. One 23-year-old,
+Alec Langen, was from my district in Chandler, Arizona.
+The CH-53E Super Stallion helicopter has been involved in
+fatal accidents since 1984. My question to you, if the DoD has
+now eliminated these critical issues after 4 years later, is
+this about oversight or is this about retirement for this
+aircraft?
+Ms. Eaglen. Congressman Gosar, do you mean retirement
+early, meaning it is time to retire the aircraft?
+Mr. Gosar. Yes.
+Ms. Eaglen. Yes, it is time. And that is why the CH-53K is
+under construction. And the service needs more of them now to
+replace these older frames. All across the services hulls, air
+frames, and chassis of vehicles reach their limits. And you can
+patch them up, and you can make them somewhat new and extend
+service lives, but there comes a point at which there is no
+more Band-Aids on top of Band-Aids.
+Mr. Gosar. Right. I hear you.
+The military assessed and tested directed energy weapons
+since the sixties, but recent investments have skyrocketed. In
+Fiscal Year 2024 alone, directed energy weapons received over
+$1.1 billion in appropriations.
+Can you describe to me what a directed energy weapon is? Is
+this like an EMP? Mr. Clark, I will ask you that.
+Mr. Clark. Yes. Sure, Congressman.
+So directed energy can either be high-power microwave, so a
+form of electromagnetic energy, or a laser. So those are the
+two forms of directed energy that the DoD is pursuing right
+now. And they are both useful for shooting down drones,
+airplanes maybe, potentially cruise missiles, and they have
+been used to blind satellites as well, particularly lasers.
+So those are the two different ways that you can do it
+using directed energy.
+Mr. Gosar. OK. A GAO report published May 25, 2023, claims
+these weapons can be used to deny human entrance to a specific
+area. Is that true?
+Mr. Clark. That is true. The active denial system that was
+pursued in the early to the mid-2010's was designed to
+essentially heat up human skin, just like a microwave oven
+might, to force people to leave an area. That system was never
+fully fielded, so it was more of a research test object.
+Mr. Gosar. Could it be used on a fence?
+Mr. Clark. It could be used on a fence, yes.
+Mr. Gosar. OK. What other purposes do these DEs have?
+Mr. Clark. So directed energy is mostly being pursued now
+to deal with the drone threat, so high-power microwave in
+particular is really effective at taking down drones by
+disrupting their electronics, and it confuses the computer and
+forces it to reboot, or it causes the drone to land in
+response. So, those high-power microwave weapons can be an
+inexpensive way to deal with drone swarms.
+Mr. Gosar. OK. So, as a Member of Congress, you see this
+balloon, how do we now and how do we get oversight of that kind
+of program?
+Mr. Clark. Yes. The key is to look at the ones that are
+going to have the most potential utility in the nearest term
+against the threat. So high-power microwave systems seem like
+they offer the best opportunity to do that. They are mature.
+They can be used against a wide variety of threats, and a lot
+of tests and demonstrations have shown them to be workable. So,
+I think that is probably where we need to focus the attention
+is on high-power microwave rather than laser.
+Mr. Gosar. Mr. Clark, in October 2020, a DoD press release
+revealed the BioIndustrial Manufacturing and Design Ecosystem,
+or BioMADE, received $87 million in Federal dollars to produce
+cell-cultured meat and protein products to reduce carbon
+emissions on military basis. Now, I am a meat-and-potatoes guy.
+Based on your experience with the strategy and force
+planning from the Navy and DoD, does the lab-grown meat
+contribute to the U.S. national security posture?
+Mr. Clark. Probably not. It definitely should be something
+that is pursued by commercial or private industry.
+Mr. Gosar. Thank you. I appreciate that.
+I have run out of time and yield back to Mr. Chairman.
+Mr. Grothman. Thanks.
+I request unanimous consent to have an additional 5 minutes
+for myself to ask more questions.
+This question is for Ms. Eaglen. With the cost of the
+remaining four carriers expected to only increase and the
+timeline for the delivery being pushed back to the 2030's, do
+you believe these ships are worth the significant investment
+with the rapid evolvement, the rapid evolution of drones and
+hypersonic missiles on the battlefield?
+And I believe they have been involved in some war games
+that you might be familiar with. Do you guys think the
+investment in aircraft carriers is worth it? And I guess the
+last question, could it result in a huge humanitarian disaster
+to rely too heavily on them?
+Ms. Eaglen. Well, I will start. I am sure my colleagues
+want to weigh in. But, in a war versus a peer competitor, Mr.
+Chairman, almost everything on the surface of the Earth will be
+a vulnerable target. So, aircraft carriers are not unique among
+them, although, of course, they are pretty large. But that is--
+if we get to the war, it means the U.S. military has failed in
+its core duty to keep the peace and uphold deterrence.
+So, winning the war is half the job. Keeping the peace and
+maintaining deterrence is the first part of that.
+And I would say, you know, managing the balance of power
+across the Middle East and Eurasia, great power competition, it
+requires presence and flexibility, and these are unmatched in
+the carrier. These are floating American cities of sovereign
+territory jam packed with combat power on the top of it that
+combatant commanders cannot get enough of for deterrence and
+competition.
+We are an 11-carrier Navy in a 15-carrier world. So, if you
+want these crisis response tools, I would argue there is a
+great case for the carrier. However, what you put in and on it,
+that is what I think fundamentally needs to be revisited by
+Congress with many more capable unmanned systems in particular.
+Mr. Grothman. OK. Either of you other guys have a comment
+on the aircraft carrier? Like I said, I have heard about some
+war games in which the carriers were sunk.
+Mr. Clark. Right.
+Mr. Grothman. You know, it was a different world, the
+Battle of Midway, but some people felt that the Battle of
+Midway aircraft carriers were a little bit obsolete in 1942.
+Mr. Clark. Right, yes, sir. So, it depends how you use
+them. So, in war games, which we have conducted plenty of, war
+games are--or rather air carriers are vulnerable in that
+initial strike. So, the question is, do you use them as the
+opening set of salvos if you are going against the Chinese to
+help defend Taiwan? Probably not. You would probably use
+stealth bombers and submarines to do most of those initial
+strikes.
+Carriers, though, have great utility in crisis response. We
+are seeing how they can be employed in the Middle East today
+where we do not have a lot of airfields, and we are able to use
+aircraft carriers to project air power to attack Houthi missile
+sites, to defend Israel from attack from Iran, to do air
+defense for Israel.
+So, there is a lot of versatility in the aircraft carrier,
+but it is mostly in the crisis response role and in the
+stabilization role that happens after the first few salvos of a
+great power war, like, between China and the United States. And
+that is what the war games have revealed is you do not want to
+use the carriers as your first set of platforms that you put
+out there in the fight. You use something that is more
+survivable initially, and then you bring in the carriers later.
+Mr. Grothman. Do you other guys have any comments on it?
+Mr. Clark. One other thing I will add is we have done--we
+are doing a force design study for the Navy right now, and we
+found that carriers, maybe the number could be reduced to help
+manage the cost associated with particularly the operations and
+sustainment costs for them down the road. But there is some
+number that you need, between 8 and 11--8 and 10 really, to be
+able to maintain the kind of presence for the crisis response
+that we are seeing, for example, in the Middle East today.
+And the cost of the Ford carrier, if you look at the
+predecessor, the Nimitz carrier, it is only a couple billion
+dollars more than you might expect the Nimitz class to cost if
+you were just to buy the Nimitz class today. So, with
+inflation, you know, the cost of the Ford is probably not too
+out of bounds.
+Mr. Grothman. OK. Do you think the evolution--could you
+address the idea that with the evolution and improvement of
+drones and hypersonic missiles, does that have an effect on
+your equation?
+Mr. Clark. Absolutely. But we should think about drones
+being employed from the carrier as well. The aircraft carriers
+are just a floating airport, and what is on the carrier is the
+most important element of it. So, instead of maybe having an
+air wing that is composed entirely of F-35s, we should have an
+air wing that is much more composed of uncrewed systems----
+Mr. Grothman. With drones on there?
+Mr. Clark. Drones on there.
+Mr. Grothman. Bingo.
+How many people are on an aircraft carrier if one were to
+go down?
+Ms. Eaglen. Five-thousand.
+Mr. Grothman. Pardon?
+Ms. Eaglen. Five-thousand.
+Mr. Grothman. That is what I thought. It is a lot of
+people.
+OK. I will give you another question as I wait for my
+buddies here to show up.
+I ran into a couple of people back home, not in the
+Department of Defense field, but in other fields, feeling--one
+in the construction area, one in the food area. They felt some
+of this diversity stuff, whatever they call it, was increasing
+the cost to the government just shockingly.
+And I wondered, are requirements, rather than just build
+the best aircraft carrier as quickly as you can and cheaply as
+you can, including these other requirements of who you have got
+to hire, who you have got to subcontract with, do you know,
+even anecdotally, is that adding to the cost here?
+Mr. Clark. Well, I will just say, from what I have seen in
+my own experience, there are set asides clearly for
+disadvantaged groups in the contracting process, particularly
+for smaller contracts. It is unclear to what degree that
+increases costs to the government. But if you are constraining
+the amount of competition you are able to get for a contract,
+there is that possibility that you are going to end up paying
+more in the end for it.
+Mr. Grothman. Yes. And not only more but maybe you are
+leaving some high-quality people on the table that you maybe
+would not normally do in your own life, right? People I would
+think in their own life when you buy stuff, you do not--you
+just buy the best product that you can for the most reasonable
+price. You do not ask the Ford dealer, ``By the way, you know,
+what is the background of the engineers on this thing, or
+whatever.''
+I am now going to take a delay because all of these people
+expressed interest and are thrilled to be on the Committee, as
+am I. Maybe I just have to call myself 10 times in a row,
+because I love to do it, but my colleagues might get mad. So,
+we will say the Committee will suspend momentarily, and we will
+wait for a couple of other people to come back out here because
+we were all, you know, taking votes across the street, and
+people run into their buddies and then wander over here.
+
+Mr. Grothman. OK. Apparently, Mr. Biggs is in the processor
+near the process of asking questions in another hearing. Paul
+Gosar is always in good, so we are going to give--I will make a
+unanimous consent request that Paul Gosar have an additional 5
+minutes.
+Without objection, so ordered.
+Go ahead, Mr. Gosar.
+Mr. Gosar. Thank you very much, Mr. Chairman.
+A GAO report published on Monday revealed this
+administration authorized almost $24 billion in equipment and
+services to Ukraine under the President drawdown authority.
+Now, this is not new. Both sides do it. But what happens is our
+Nation digs itself deeper and deeper into this $35 trillion
+debt.
+I encourage this whole Committee to consider my
+legislation, H.R. 4615, the National Emergency Expenditure
+Reporting Transparency Act, requiring the full disclosure of
+Federal funds used to implement national emergencies as
+declared by a President. Article I powers give those to
+Congress, except in a national emergency. So, we want to make
+sure that we have all of those blessings that it be able to be
+held accountable for our spending habits.
+Since the beginning of this Congress, I have led a
+bicameral and a bipartisan effort demanding the national
+emergency expenditure reports as currently required by law be
+conducted. There is either a lack of reporting or nonreporting
+related to more than 40 ongoing national emergencies.
+And that is kind of what I want to talk to you, Mr. Clark,
+about. Do you see a need to have a declaration of a national
+emergency with Libya?
+Mr. Clark. In terms of our making a declaration to allow us
+to support the Libyan Government?
+Mr. Gosar. Well, that is not an emergency, is it?
+Mr. Clark. Right, unclear. Is it an emergency for the
+United States? Probably not.
+Mr. Gosar. Yes. And I think a lot of this is overdone, you
+know, from both sides in that we have a national emergency with
+the Congo. We have a national emergency with Syria, Libya,
+Sudan, you name it. And it does not need to be there.
+The problem we have is each administration takes advantage
+of it. They are able to move money around, so we have really
+two ledgers. We have this one we always talk about, but then
+there is a hidden one that is not talked about, and it is
+significant.
+In fact, the Cato Institute did a report on this after they
+heard me whining and crying and screaming. They found that,
+since Bill Clinton, up until now, we have spent over $11
+trillion, $11 trillion in these national emergencies. There is
+no accountability. There is no nothing.
+Well, we have got to change that. If we are going to
+redirect this, I am happy to share that with an administration,
+a President, but they have got to come back to us with the
+checks and balances. So, I just wanted to let you know that.
+One thing else I wanted to ask you is that, since World War
+I, the DoD has conducted psychological operations, what are
+known as military information support operations.
+Mr. Clark, does the DoD still fund these psychological
+operations?
+Mr. Clark. So, DoD funds military information support
+operations, MISO, and under some new names now, but those are
+designed, you know, not to necessarily affect civilian
+populations. Those are designed as part of military operations
+to influence the thinking of your adversary.
+Mr. Gosar. Right.
+Mr. Clark. Yes.
+Mr. Gosar. OK. And, last but not least, do you agree with
+me that war has changed, particularly this last kind of seeing,
+you know, these tanks that were once really prized are now
+victims of their own success, you know, with the simple drone?
+Can you try and address that?
+Mr. Clark. Yes. What we are seeing is a major shift in the
+character of war toward new technologies, like drones and
+commercially available sensors and commercial communication
+systems being the way that you make kill chains as opposed to
+tanks and missiles and government-owned satellites. So, we are
+seeing this transition to empower countries and organizations
+that are able to use these commercially available technologies
+to string together effective kill chains. And we see the
+Houthis doing it as well in the Red Sea.
+We should be taking advantage of those technologies as
+well. I think the problem the U.S. has is we often think of
+just how to defend ourselves against these threats, but instead
+we should be looking at ways we can exploit them and take
+advantage of them to affect our enemies.
+Mr. Gosar. In your opinion, each one of your opinions--I
+will start with you, Mr. Schwartz--how effective do you think
+we are in that transition? Could we be better, or is there
+something else we need to be doing to make it better?
+Mr. Schwartz. In which transition?
+Mr. Gosar. Transition to the new type of warfare.
+Mr. Schwartz. Oh, I think there is a lot we can be doing
+better. So, 2 years ago USD (R&E), Research and Engineering,
+put out 14 critical technologies. Twelve of those
+technologies--possibly 13, depending on how you interpret it--
+but 12 of those technologies are either completely or partly
+led by commercial industry, right. These technologies are being
+led by industry.
+So, my colleague was talking about how the Houthis are
+leveraging commercial technologies. It used to be that DoD
+would go to industry and say, ``Do this.'' Now they are going
+to industry and saying, how do you do that? And that is a
+fundamental change that is understood but not necessarily
+completely, deeply internalized in the Department.
+So, I think it is critical for the transformation of
+warfare because warfare is moving so quickly. It is not just
+that warfare has changed. The plane of warfare has changed: 15
+years ago, we were not talking about space. Fifteen years ago,
+we were not talking about cyber. So, it is not just the
+evolution of warfare, which always happens, albeit much faster
+now, but the planes are changing and can change in the future.
+So, we need industry to partner with them and get those
+technologies. It does not mean everything should be commercial.
+A lot should. It does not mean everything can be commercial,
+but we need that.
+Mr. Gosar. Ms. Eaglen.
+Ms. Eaglen. It is a great question, Congressman Gosar. And
+I would say the state--how is the transition going to what I
+would argue is sort of human machine integration, robotics,
+unmanned, autonomous, semiautonomous systems operating
+alongside U.S. military forces, I would say poorly. It is not
+nearly--the Defense Department is not keeping up with the
+technological change and refresh that is available in the
+commercial and the private markets.
+Part of this is a culture challenge at the Department, and
+we talked earlier about, you know, the carrier air wings. There
+are products available right now today that are fully
+autonomous and unmanned that should be sitting and parked on a
+carrier deck at this moment. But really across the services,
+you know, we should have the loyal wingman concept, right. So,
+you have a manned fighter or a bomber. Next to it you have an
+unmanned tanking drone. Next to that you have an unmanned
+payload carrying or weapons carrying drone, and the three go
+together, so like a 1 to 3--1 to 2--oh, excuse me, 2 to 1
+ratio.
+The Department--other countries, friends and allies--we are
+seeing it, of course, in Ukraine, but friends and allies,
+Australia is growing faster, and many other countries are
+showing that these models work. The Defense Department, I worry
+that not only are they going too slow, it is going to take a
+crisis to wake them up to how it is going.
+Mr. Gosar. Mr. Clark.
+Mr. Clark. Yes , I agree that we are not going fast enough.
+We have done a lot of work looking at new concepts the
+Department could be pursuing, and a lot of this comes down to
+the Department needs to think differently about how it is going
+to fight and begin to equip itself in that new way and learn
+some of the lessons of Ukraine, learn some of the lessons that
+we are seeing in the Middle East today and begin to look at
+ways to bring technologies like high-power microwave, uncrewed
+systems or drones into the force, and then you write them in a
+way that takes advantage of them without necessarily throwing
+out the existing military we have today. There is a way to make
+it work together, but the key will be----
+Mr. Gosar. The emphasis.
+Mr. Clark . Doing it affordably.
+Mr. Gosar. And the balance of that.
+Mr. Clark. Right.
+Mr. Gosar. Mr. Hedtler-Gaudette, do you have an opinion?
+Mr. Hedtler-Gaudette. Yes , thank you.
+I just want to pause here for a moment. I understand this
+might make me kind of the skunk at the garden party here, but I
+think it is also important to remember that when we try to move
+too fast, we often break things. And I know that that was
+actually a buzz phrase in the tech world for a while, ``move
+fast and break things,'' but I think it is important to be
+careful about how we undertake this acquisition.
+I agree with you that it is a necessary transition, but
+when we are asking the Pentagon, an agency that cannot even
+account for where its assets are, to undertake a complex
+transition and do it completely, I think we are really asking
+for a disaster in the making. And, again, I am just going to be
+the broken record here. The disaster in the making I am talking
+about is all going to be paid for by the American taxpayer.
+So, I just wanted to exercise caution and prudence as we
+think about how we are going to make these transitions and how
+we are going to prepare for the 2lst century. You know, I think
+it goes without saying I agree with my colleagues that we are
+still operating mostly in the 20th century. I do not know if
+you have tried to use the Pentagon website recently, but it
+looks like it came straight from 1998. So, I think there is
+definitely a lot that needs to be done there.
+Mr. Gosar. So, real quick follow-up----
+Mr. Grothman. This is the last question.
+Mr. Gosar. Yes. So how do we equip ourselves to be the
+oversight? Help me, help us how to figure out how to oversee
+this process.
+Do you have any ideas, Mr. Hedtler-Gaudette? I mean, you
+know, we were watching movies like ``The Terminator.'' It is
+here. It is actually almost here. So, tell me how you could--
+how we could set ourselves up to be that arbiter or to be that
+checks and balance.
+Mr. Hedtler-Gaudette. The one thing to do is to have
+hearings like this. And I want to, again, commend Chairman
+Grothman for holding this hearing and you, Congressman Gosar,
+for being a very active participant in this hearing. We need to
+have more of them, and they need to be more rigorous, and they
+need to be more regular.
+We also need to follow up oversight activities and
+investigations with actual action. So, it is one thing to tell
+DoD or to tell a misbehaving contractor that they are not doing
+the right thing, but unless there is actual penalties or
+consequences on the other side of those words, I do not think
+it is going to change behavior very much.
+So, in addition to the, you know, examining and overseeing
+and investigating these issues, we need to also actually push
+forward some reforms to make these, you know, bad outcomes a
+little bit less bad in the short term and then try to really
+change the trajectory of where the Pentagon is going moving
+forward.
+You know, I mentioned earlier some reforms around how sort
+of contract and acquisitions are determined and negotiated at
+the front end. I think that is a big part of why we are , you
+know, seeing the things we are seeing because I do not think
+anyone is happy. I do not think the people who push for
+acquisition reform are happy because we are not getting
+innovation and we are not getting agile and quick and efficient
+acquisition. But we are also--you know, people like me are not
+happy either because we are continuing to see a lot of waste
+and a lot of things like price gouging and overcharging.
+But we are in the worst of all worlds at the moment, and I
+think Congress does have that role to play. And I think using
+the power of the purse more frequently is also really
+important. Obviously, hitting people where it hurts in the
+wallet is usually the most effective way to catalyze change.
+Mr. Gosar. Yes.
+Mr. Clark.
+Mr. Clark. I would say the most important thing would be
+for Congress to get involved in making sure the requirements
+are set so that you get relevant capability, not the absolute
+best capability, and that you can generate relevant capacity
+with that level of capability, because we have to do this
+within a cost constraint. And, if the DoD aims for the best
+that it can get, it is going to necessarily get less, and it is
+probably going to take longer and cost more.
+So, you've got to push for relevant capability and relevant
+capacity, not just the best.
+Mr. Grothman. Thank you much.
+We are going to wrap things up now. I guess I will make a
+little statement.
+I appreciate you all being here today. The reason we had
+the hearing is I think we have seen from the past that the
+Department of Defense, which is overwhelmingly dominating our
+discretionary budget, never looks good in these sort of
+hearings. And I think it is a cliche saying the military is
+fighting the last war. I think that is true big time of our
+military right now.
+I think as far as getting done with what they are getting
+done on a cheaper basis would open up money for the other
+things that they should be dealing with that they are not
+dealing with now because they claim they do not have the money.
+So, we may wind up having other hearings examining the
+Department of Defense in the future. Maybe--I do not know if
+they pay attention to it, but maybe the Armed Services
+Committee will learn a little bit from what we are doing here.
+Now I will say that with that, without objection, all
+members have 5 legislative days within which to submit
+materials and additional written questions for the witnesses
+which will be forwarded to the witnesses.
+If there is no further business, without objection, the
+Subcommittee stands adjourned.

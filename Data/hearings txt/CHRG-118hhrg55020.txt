@@ -1,1 +1,869 @@
-MADE IN CHINA: IS GSA COMPLYING WITH PURCHASING RESTRICTIONS? ---------- Thursday, February 29, 2024 U.S. House of Representatives Committee on Oversight and Accountability Subcommittee on Cybersecurity, Information Technology, and Government Innovation Washington, D.C. The Subcommittee met, pursuant to notice, at 2:31 p.m., in room 2154, Rayburn House Office Building, Hon. Nancy Mace  presiding. Present: Representatives Mace and Connolly. Ms. Mace. Good afternoon, everyone. The Subcommittee on Cybersecurity, Information Technology, and Government Innovation will now come to order. We welcome everyone this afternoon. Without objection, the Chair may declare a recess at any time. I will now recognize myself for the purpose of making an opening statement. Good afternoon, and welcome to this hearing of the Subcommittee on Cybersecurity, Information Technology, and Government Innovation. The American people and those of us who serve on their behalf here in Congress are angry that foreign adversaries, such as China, are using cyber warfare to attack and weaken our Nation. Earlier this month, for instance, a Federal cybersecurity advisory confirmed that PRC state-sponsored actors are pre- positioning for possible disruptive cyber-attacks against the U.S. critical infrastructure. These actors are hacking into computer systems, then lying low and undetected for, in some cases, years--a tactic termed ``living off the land''--so that they can be activated to wreak havoc should a major conflict with the U.S. arise. The threat is real, but there are laws on the books designed to create safeguards and guardrails. This includes restrictions on what the Federal Government buys. Each year, Uncle Sam purchases about $100 billion in IT products and services alone. Numerous bans and prohibitions exist to both further U.S. trade policy objectives and to ensure our national security. No agency has a more crucial role in ensuring these bans and prohibitions are enforced than the General Services Administration, or GSA. The GSA serves as the primary government-wide purchasing agent. It manages tens of billions of dollars in annual contract spending. That brings us to the GSA Office of Inspector General report that is the subject of today's hearing. Last month, the OIG issued a report entitled ``GSA Purchased Chinese- Manufactured Videoconference Cameras and Justified It Using Misleading Market Research.'' The report raises issues that we will explore today. The IG found that GSA, via two separate purchases occurring in March and October 2022, bought 150 videoconference cameras made in the PRC, in violation of the Trade Agreements Act, or the TAA. With limited exceptions, the TAA prohibits agencies from buying products made in China or other non-TAA-compliant nations, such as Russia and Iran. Security vulnerabilities with these specific cameras were documented by a private security company and the subject of a CISA public alert. The IG found that the cameras were bought by a GSA contracting officer who relied on egregiously flawed information provided by her own GSA colleagues. This was, quote, ``inaccurate, incomplete, and misleading market research'' indicating no other cameras were available for purchase that could meet the agency's need. According to the IG report, the GSA CIO, who is testifying today, signed off on both camera purchases, though he later acknowledged he did so without having reviewed the market research performed by his staff. Mr. Shive also signed off on the GSA management response to the IG report. That response did not contest the factual narrative laid out in the report or the IG's assertion that the purchase of the cameras was a violation of TAA. GSA, in fact, concurred with nearly all the IG's recommendations, including that the GSA Administrator should take appropriate action against GSA IT and GSA IDT personnel to address the misleading information provided to the contracting officer. However, GSA has since provided arguments and documents to our Committee staff that challenge key elements of the IG report, including that the camera purchases violated the law. So, we will hear their side of the story today, and I hope we can learn why it was omitted from GSA's management response to the IG report. More broadly, I hope GSA can give us some assurance today that it is going to fix the problems the IG identified and ensure, going forward, that it is complying with laws that promote safe purchasing. With that, I will now yield to Ranking Member Connolly for his opening statement. Mr. Connolly. Thank you, Madam Chairwoman. The General Services Administration has become a bit of a frequent flier with this Committee, in the worst kind of way. GSA has hardly covered itself in glory. On issues ranging from the highly flawed decision on a new FBI headquarters, to the Old Post Office lease agreement, to ascertainment of the winner of the 2020 Presidential election, to login.gov, to the FBI headquarters again, GSA has repeatedly made misrepresentations to this Congress, sidestepped agency policy and the Constitution itself, and disregarded both the letter and spirit of the law. In 2018, I requested that GSA's own Office of Inspector General review GSA's revised plan for the Federal Bureau of Investigation's headquarters consolidation. The GSA OIG's review found that then-Administrator of GSA, Emily Murphy, misled Congress while under oath when she attempted to conceal her meetings with then-President Trump regarding the FBI headquarters and the decision to move it to the suburbs rather than stay in downtown Washington, DC. Donald Trump is a self-interested businessman when it comes to the location of the FBI--or was at that time. And a President to the American people ought not to be involved in contract negotiations or in deciding to pull the award of a contract for a new headquarters for a major agency of the Federal Government. He wanted to prevent the construction of a rival hotel, potentially, on a now commercially developed FBI site downtown. GSA had already faced congressional inquiries as to how Donald Trump won the rights to convert the Old Post Office into the Trump International Hotel. The Trump Organization signed a lease with GSA that said, quote, ``no elected official of the government shall be admitted to any share or part of this lease or to any benefit that may arise therefrom.'' In the words of GSA's OIG again, former President Trump's continued interest in the hotel was a ``possible violation'' of the Foreign Emoluments Clause of the Constitution. And in putting on the question, GSA ignored the Constitution. The Committee tried to perform further oversight, but GSA rebuffed all requests. As the Oversight Democrats found in their recent investigation, Donald Trump then collected millions of dollars from foreign governments at the Trump International Hotel under a GSA lease while he was the President, in violation of the Emoluments Clause of the U.S. Constitution. In 2020, after President Biden won the Presidential election, then-Administrator Murphy ignored the law and refused to issue a letter of ascertainment for 16 full days. When Administrator Murphy finally issued the letter, she broke with precedent by refusing to call the clear victor President-elect Biden. While the letter fulfilled her duty technically, its content exposed her egregiously false belief that President Biden did not win the election, further fueling Donald Trump's harmful election lies and helping lay the groundwork for the violent January 6th insurrection. No less than a year ago, the GSA OIG found that GSA officials misrepresented login.gov's compliance with Federal digital identity standards. GSA then billed agencies more than $10 million for services that failed to meet required security and privacy standards. While login.gov has since worked to remediate these issues, GSA's noncompliance and its officials' misleading actions eroded the trust between the agency, the Federal Government, and the people we all serve. This past fall, GSA announced its decision to select Greenbelt, Maryland, as the site for the new FBI headquarters amid an overwhelming amount of evidence indicating that GSA's own site-selection process was fouled by political interference. GSA first changed the weighting of the original site- selection criteria over FBI Director Wray's objections. And he is the client here. Then, they changed the individual tasked with confirming the final site selection from a career official to a political appointee. Finally, that same political appointee overturned the unanimous decision from a panel of career officials and then promptly left the agency after the damage she inflicted. You do not have to just take my word for it. The FBI Director, Christopher Wray, in an email to his colleagues, wrote, quote, ``We have concerns about the fairness and transparency in the process and GSA's failure to adhere to its own site-selection plan,'' and stated that the FBI identified concerns about a potential conflict of interest involving the site-selection authority and whether changes that individual made in the final stage of the process adhered to the site- selection criteria. And, of course, we know she did not, because she went in and changed the weight, the final weight, unanimously provided by that site-selection committee of professionals--two from GSA, one from the FBI--in every category. And it just so happened every category she changed was changed in the direction of Maryland, at the expense of Virginia, despite the professional findings of the site-selection panel. Despite these controversies, I want to acknowledge the leaders at GSA's Office of the Chief Information Officer for their tireless work on IT modernization and procurement efforts. The Office of the CIO has been engaged as a partner in improving the digital experience of the Federal Government, and we applaud that. They deserve credit for managing the effectiveness of more than $800 million in 51 different transformative IT investments across 29 Federal agencies through the administration of the Technology Modernization Fund. GSA also spearheaded implementation of the FedRAMP Authorization Act. The legislation, which I championed into enactment last Congress, enforces a standardized approach to security assessments and authorizations for cloud-computing products and services to better safeguard sensitive data and systems. Unfortunately, the GSA's OIG's report that is the focus of today's hearing provides yet another instance in which GSA did not follow proper processes and policies. The GSA OIG report made two concerning claims. First, the report claims that GSA Office of Digital Infrastructure Technologies employees misled a contracting officer with quote, ``egregiously flawed information,'' unquote, that led to the purchase of 150 Chinese-made videoconference cameras. GSA has the responsibility to explain how this error happened and what changes have been implemented to prevent that mistake from happening again. Second, the report claims that GSA failed--I am almost done--to address the camera's known security vulnerabilities. Security concerns about Chinese-made products are not new. As stewards of Federal IT procurement government-wide, GSA, especially, must show preeminent expertise and diligence in buying the right IT to ensure government works and is secured. While GSA has made the case, they have not violated any laws, the American people deserve to know why they piloted products that would not have complied with the Trade Agreements Act, if they were bought at the amount necessary to serve the full organization; why GSA believed dividing the acquisition into multiple purchases would fall below the TAA threshold; and why IDT said there were no TAA-compliant options when the GSA OIG found compliant options in abundance. Today, GSA must once again begin the work to regain the trust of the American people and of this Committee. I look forward to hearing from GSA today about how it will address the problems enumerated in the Inspector General report. And I yield back. Ms. Mace. Thank you, Mr. Connolly. I am pleased to introduce our witnesses for today's hearing. Our first witness is Mr. David Shive, Chief Information Officer at U.S. General Services Administration, or GSA. Our second witness is Mr. Robert Erickson, Acting Inspector General at GSA's Office of Inspector General. Welcome, and we are pleased to have both of you this afternoon. Pursuant to Committee Rule 9(g), the witnesses will please stand and raise your right hands. Do you solemnly swear or affirm that the testimony that you are about to give is the truth, the whole truth, and nothing but the truth, so help you God? Let the record show that the witnesses answered in the affirmative. We appreciate both of you being here today and look forward to your testimony. Let me remind the witnesses that we have read your written statements, and they will appear in full in the hearing record. Please limit your oral arguments to 5 minutes. As a reminder, please press the button on the microphone in front of you so that it is on, and the Members can hear you. When you begin to speak, the light in front of you will turn green. After 4 minutes, the light will turn yellow. When the red light comes on, your 5 minutes has expired, and we would ask that you please wrap it up. So, I recognize Mr. Shive to please begin his opening statement. STATEMENT OF DAVID SHIVE CHIEF INFORMATION OFFICER U.S. GENERAL SERVICES ADMINISTRATION Mr. Shive. Great. Thanks for the opportunity to testify today. Good afternoon, Chair Mace, Ranking Member Connolly, and the Members of the Subcommittee. My name is David Shive, and I am the Chief Information Officer at the U.S. General Services Administration. I appreciate the opportunity to appear before you today. GSA relies on a connected workforce operating across the country to meet our mission. Videoconferencing equipment allows for seamless interaction, productive collaboration, and enhanced user experiences. In February 2022, in light of increasing office presence, employees provided feedback that indicated new requirements for videoconferencing, and, thus, new equipment was needed. The existing solution was obsolete, and employees suggested that a portable camera with a 360-degree view capability would address the shortcoming of the legacy solutions. A joint pilot program between the Office of GSA IT and other offices sought to evaluate products that would improve collaboration and the user experience with modern telecommunications and videoconferencing infrastructure. The team engaged in discussions with technology vendors to better understand their offerings, and GSA IT conducted market research to identify portable and cost-effective solutions. GSA's decision to pilot equipment from Owl Labs was based in part on its unique capability of a 360-degree view and portability. It also required no installation, was compact and easy to relocate and store, and was one of the least expensive among the options. GSA accepts that we could have done a better job documenting our requirements, including the need for a camera with a 360-degree view of field that allows participants to easily track who is speaking. However, I am unaware of any evidence suggesting that GSA IT personnel sought to intentionally mislead acquisition officials. As a result of this audit, GSA has put in place new processes and improved documentation requirements. The team has strengthened our alternatives of analysis documentation that allows for possible solutions to be adequately analyzed and locked down once the analysis is completed. GSA IT has also partnered with acquisition experts that focus primarily on market research to bolster any future efforts. Procurement training courses with respect to Buy America Act and Trade Agreement Act are now required for IT personnel regularly involved in procurement actions. GSA fully supports the purchase and use of American-made products wherever possible and is committed to complying with all acquisition statutes, including the BAA and the TAA. GSA was in full compliance with the BAA for both the first and second procurement of Owl cameras. The TAA did not apply to either of these acquisitions because neither equaled or exceeded the threshold of $183,000. The value of an acquisition is a determining factor in the applicability of any of our trade agreements. The applicability of BAA versus TAA is mutually exclusive, and the determination by the contracting officer of which statute to apply in any acquisition is dictated by the dollar value. It is not aggregated across multiple acquisitions. GSA's requirements did not reach the threshold to invoke TAA. Foreign acquisition rules are complicated. In 2018, GSA raised BAA approval levels to the head of the contracting activity and is updating TAA policy to match. This will help ensure that GSA continues to correctly apply both laws. Most importantly, GSA's deployment of Owl cameras in its work environment was done in a manner that was secure, and that remains true today. In line with our security protocols, GSA voluntarily removed older Owls from use that the vendor indicated would no longer be supported. For the remaining Owl devices, our security assessment determined that the cybersecurity risks were low. GSA chose to intentionally configure them for use in a more limited manner in order to further reduce any potential vulnerabilities. While these choices made the devices inherently more secure, it did create other challenges. GSA has since strengthened how we manage the devices and software-updating protocols so that, going forward, we can effectively locate and ensure timely updates of the devices that might be needed. Specifically, we have developed an Owl device user agreement that improves the responsibility and accountability related to timely patching of software. In addition, we have formalized the standard operating procedures for the management of the devices with processes and actions in place if policies are not adhered to. The current inventory of Owls are all fully patched with respect to security updates. GSA is committed to delivering the best value in government services while ensuring the security of our technology environment, as well as prudently utilizing taxpayer money. GSA appreciates the IG's recommendations to improve our internal processes, which helped to improve our security posture and IT purchases. We are confident that we have complied with all procurement rules, have maintained robust mitigations to reduce security risks, and at no time intentionally misled acquisition officials. We believe that the actions taken so far as a result of our internal reviews, along with implementing the recommendations made by our IG partners, will strengthen our processes. Thank you. Ms. Mace. OK. I will now recognize Mr. Erickson to please begin your opening statement. STATEMENT OF ROBERT C. ERICKSON, JR. DEPUTY INSPECTOR GENERAL U.S. GENERAL SERVICES ADMINISTRATION Mr. Erickson. Thank you. Chairwoman Mace, Ranking Member Connolly, and Members of the Subcommittee, good afternoon. I am here today to answer your questions regarding our January 2024 audit report that found that GSA purchased Chinese-made videoconference cameras and justified it with misleading information. As you have already noted, the Trade Agreements Act requires Federal agencies to buy only goods that are made in America or a TAA-designated country with limited exceptions. China is not on that list. Agencies are allowed to buy TAA noncompliant products if no TAA-compliant product on the market meets the needs of the government. In 2022, our office was contacted by a senior GSA employee who was concerned that GSA's purchase and use of Chinese-made videoconference cameras violated the TAA. In response, we initiated an audit and found that employees in GSA IT misled a GSA contracting officer to justify purchasing 150 Chinese-made cameras. Before completing the purchases, the contracting officer requested information from GSA IT to justify the request for the TAA-noncompliant cameras. As part of the request, the contracting officer asked whether there were any TAA-compliant alternatives and why GSA IT needed a specific Chinese-made camera. In response, GSA IT provided misleading market research in support of the TAA-noncompliant cameras. They failed to disclose that comparable TAA-compliant alternatives were available. Additionally, we found that these cameras had known security risks that need to be addressed with a software update. As of mid-September 2023, there were dozens of these cameras that had not been undated to address the security problems. In our report, we made several recommendations to the GSA Administrator for corrective actions. Agency leadership agreed in writing to all of our recommendations, except our recommendation that GSA return or otherwise dispose of the Chinese-made cameras. Despite the fact that GSA employees we interviewed during our audit agreed that TAA applied, and GSA concurred with all but one of our recommendations, GSA now asserts that TAA does not apply. Legally, this assertion fails for three reasons. First, the Federal Acquisition Regulation states, in determining whether the TAA threshold has been met, the contracting officer should use the total estimated value of the projected recurring awards for the same type of product and not divide an acquisition with the intent of reducing the estimated value below the TAA threshold. Second, GSA's own policy for a similar acquisition vehicle states that, for the purpose of determining the applicability of the TAA, the total value of the acquisition is the estimated dollar amount of the entire contract. Third, a D.C. Federal court noted that the Federal Acquisition Regulation, quote, ``suggests the value of the acquisition refers to the overall annual value of the contract and not the value of each transaction under that contract,'' end quote. In addition, GSA's argument does not pass the common-sense test. These purchases were made as part of a pilot to purchase additional cameras for the entire agency. If you accept GSA's assertion, they could purchase 170 of these Chinese-made cameras per day for a year, spending $44 million, and still not cross the TAA threshold. Today's hearing can be boiled down to two simple facts. First, the GSA contracting officer stated that she would not have purchased these cameras if she had been provided with complete and accurate information. Second, as noted previously, you cannot split the purchases to avoid the limits of the TAA. This concludes my brief summary of our audit regarding the GSA's purchase of Chinese-made cameras, and I am happy to answer any questions you may have. Ms. Mace. All right. Thank you so much. I will now recognize myself for 5 minutes. My first few questions will go to you, Mr. Shive. You are the subject of an IG audit report. You are also one of the GSA officials who signed the Agency's written response to that report. Your testimony states that the cameras purchased did not violate the TAA. So, why does the GSA formal written response to the IG report not reflect that? Mr. Shive. Yes, thank you for the question. I appreciate it, and I appreciate the opportunity to add some clarity there. When we signed the written response, we were agreeing to the recommendations. We were signing and saying that we agreed to the recommendations that the IG put forward. We were not saying that we agreed with everything that the IG said. Ms. Mace. OK. You signed concurrence memos for the videoconference camera purchases. You told the IG you do not usually get so involved in purchases but here you did, and you signed off without reviewing the market research your staff prepared. Why did you treat these purchases differently? Mr. Shive. Because the document showed up on my desk, I was obligated to take a look at it and read it and understand it. Ms. Mace. Do documents not normally show up on your desk or---- Mr. Shive. They do all the time. Ms. Mace. OK. Mr. Shive. They do all the time. And this one, it was something that I had not seen before, so I asked questions of why was---- Ms. Mace. You mean the cameras, or the documents, or the type of contract purchase? Mr. Shive. The document asking for me to sign off. Ms. Mace. OK. You had not seen a document like that before? What does---- Mr. Shive. No. Ms. Mace . That mean? What do you mean by that? Mr. Shive. Correct. That is the first time I had seen a document like that. And so, it was a determination of--I forget what the right word is--nonavailability and not a waiver. And so, when I looked at that, I said, what are we--what is not available? And they said, there is no TAA-compliant infrastructure out there that are suitable for purchase that meet the requirements of the agency. And I said, OK, I understand that, and I signed. Ms. Mace. So, what about the requirements that there was nothing out--no other alternatives? Is it the 360 thing? Mr. Shive. So that is part of it, the 360-degree view. And the other is the ultra-portability of the device. Ms. Mace. Do you see 360-degree view as a requirement? Mr. Shive. Absolutely, yes. Ms. Mace. Why would that be? Mr. Shive. So, we were coming out of the pandemic and starting to work in a hybrid work environment---- Ms. Mace. But you did not buy these until February 2022. So, we were coming out of the pandemic. More people should be at work than at home. Was that not the case at your agency? Mr. Shive. We were coming out of the pandemic then at the Agency. Ms. Mace. So, at the end of the pandemic, when people were coming back to work, you decided you needed 360-degree cameras? Mr. Shive. No, we decided that that would be a good thing beforehand, and then we did the work to develop a pilot, because---- Ms. Mace. So is this---- Mr. Shive . We perform our purchases based on actual information. Ms. Mace. So, this was a pilot for a potentially bigger purchase? Mr. Shive. Potentially, yes. Ms. Mace. OK. So, why would you put your own signature on a memo supported by materials you did not review, not even enough to spot egregious errors relied upon to justify buying cameras made in China? If you were not familiar with the documents, why would you sign them? Mr. Shive. Well, I was familiar with it. Ms. Mace. OK. You agreed with the IG that appropriate disciplinary action should be taken in response to the findings of the IG report. Who will action be taken against, and what kind of disciplinary action will be taken? Mr. Shive. Yes, it has already been taken. So, what we did is, we did a fulsome analysis of both the market research and interviewed the people involved---- Ms. Mace. Uh-huh. Mr. Shive . And determined that nobody intentionally misled the contracting officer; and said, OK, this is a training opportunity. So, we have trained not only this person but corresponding staff in two ways. One, we have given them training on BAA and TAA compliance. And the other is, we have trained them on what proper market research would look like, specifically documentation, so that the documentation could be---- Ms. Mace. Was the 360-degree requirement, as you call it, in the documentation---- Mr. Shive. That---- Ms. Mace . Requirements or contract? It was not? Mr. Shive. That was one of the places where we agreed with the IG; it did not show up. It showed up in any number of places, including email exchanges with people---- Ms. Mace. Why were these cameras bought? Was it because they were cool? Like, why--I mean, why do you need a 360-degree camera? Are you the only agency in the Federal Government that bought these cameras from China? Mr. Shive. I do not know what other---- Ms. Mace. But why did you need a 360-degree--OK. It is the end of the pandemic; people are coming back to work. I would think you would need fewer cameras than more. But why the 360? Mr. Shive. So, the way that most conference rooms are laid out, there is a table with a ring of people sitting---- Ms. Mace. I am familiar. Mr. Shive . Around it. People who are offsite, if there is a camera that only---- Ms. Mace. How many people are offsite at your agency? Mr. Shive. I do not have that number, but I am happy to get that for you. Ms. Mace. You do not know how many people work from home? Mr. Shive. I know percentages, and---- Ms. Mace. OK. Mr. Shive.  It is different---- Ms. Mace. What is the percentage of people that work from home at your agency? Mr. Shive. It is different every day. I do not have the exact number. Ms. Mace. On average? Mr. Shive. On average, 30, 40 percent of people are onsite every day. Ms. Mace. OK. OK. So, based on data that we have seen, your agency seems to be an outlier, even for Federal agencies, in terms of employees that are working from home. Mr. Shive. Right. Ms. Mace. GAO found that the GSA's D.C. headquarters building was only about 10-percent occupied on a typical workday a year ago. So, has that number changed? Mr. Shive. Well, so headquarters is not representative of the entire GSA enterprise. Think of field offices and remote sites. Ms. Mace. Uh-huh. Mr. Shive. Property managers are---- Ms. Mace. So, there are more people elsewhere; thus, the D.C. is an outlier. Mr. Shive. I am sorry, I did not hear---- Ms. Mace. The D.C. headquarters is an outlier compared to the rest of the agency offices. Mr. Shive. It could be, but I am not that aware of those numbers. Ms. Mace. OK. What percent--OK, so you have got that. All right. So, my next questions will be for Mr. Erickson. And then I will give you extra time if you would like it. Mr. Connolly. Yes, no problem. Uh-huh. Ms. Mace. Your office issued an audit saying GSA broke the law when it bought these cameras made in China. If GSA feels that an IG report falsely accuses them of breaking the law, shouldn't GSA say so in their formal response in the report--to the report? Mr. Erickson. Thank you for the question. That is exactly right. They had many opportunities to read the report. They have a discussion draft which they get, and they--we discuss it with them and have meetings with them. They have the draft report and then the final report. And they simply did not say anything in their written response to our audit report. Ms. Mace. Why would that be, you think? Mr. Erickson. I do not know the answer to that, ma'am. You would just have to ask the GSA. Ms. Mace. According to your report, GSA staff provided misleading data to their own colleague, information that was used to justify buying the PRC China-made cameras. Was this done intentionally or gross incompetence, in your opinion? Mr. Erickson. We did not find any evidence of intent. Ms. Mace. OK. Just complete incompetence. All right. Could staff who Mr. Shive relied upon so much that he signed off on their work without checking it out--I guess they would be grossly incompetent here, from your response. Can agencies get around the TAA ban of products made in China simply by breaking big purchases up into a series of smaller purchases throughout the year? Mr. Erickson. No, ma'am. That would completely eviscerate the rule, and they cannot do it that way. Our position is--and this was going to be a bigger purchase. It was going to be scaled up to purchase a lot of Chinese video cameras. Ms. Mace. Do you see a need to have 360-degree cameras? Is that like a--I have never seen that need before at a Federal agency. Do you think that there is a need for that, a requirement for that? Mr. Erickson. I will say, it was not a requirement of the procurement. There were 13 requirements for the procurement, and that--the 360-degree camera angle was not one of the requirements. Ms. Mace. Have you found flaws in GSA's procedure for enforcing procurement bans with respect to the Multiple Awards Schedule? Mr. Erickson. We have. We have written a report about that, and it is currently--they are working on the corrective action plan for that. Ms. Mace. All right. I will now yield to Mr. Connolly. Mr. Connolly. Thank you, Madam Chairwoman. By the way, Mr. Shive, in answer to the Chairwoman's question about what percentage of the workforce is at headquarters every day, does that include Administrator Carnahan? Is she at the headquarters every day? Mr. Shive. Not that I am aware of. Mr. Connolly. In fact, does she not spend a fair amount of time back in Missouri? Mr. Shive. I do not really track her movements, personally. We can give you what---- Mr. Connolly. Well, yes, I think the Committee would be very interested in her location attendance. Because one would assume that the Administrator would want to be hands-on, especially given all of the controversial issues GSA deals with and its record. Mr. Erickson, I read your report. You used the word in your testimony ``misleading'' or ``misled'' multiple times. You just heard Mr. Shive testify, ``we did not mislead at all.'' Comment. And if you could bring that mic closer to you, so we can hear you. Thank you. Mr. Erickson. Mr. Connolly, we got that evidence from the contracting officer. She said that she--and two of our auditors were present when she said it--were egregiously misled. We followed up---- Mr. Connolly. ``Egregiously misled.'' Mr. Erickson. Yes. And we followed up and asked her after the report came out, and she confirmed that that was the intent of her words. Mr. Connolly. Right. So, Mr. Shive, your own employees are testifying before the IG that--the word ``egregious,'' not just misled, egregiously misled. Do you wish to modify your testimony that there was no misleading? Mr. Shive. No, but I would like to clarify. The comments were ``egregiously flawed'' and ``intentionally misled.'' Those are two separate things that are being conflated here. So---- Mr. Connolly. Mr. Erickson has just testified that what she said to his auditors was ``egregiously misled,'' not ``egregiously flawed.'' Is that correct, Mr. Erickson? While you are looking that up, Mr. Erickson said that he was told by GSA employees that Meeting Owl, the Chinese camera, was the, quote, ``only product that would fit their needs,'' unquote. In retrospect, that was not a true statement, was it, Mr. Shive? Mr. Shive. Well, according to the requirements that were commonly discussed by the entire procurement and technology teams, we still have not been able to find another camera that is highly portable, has a 360-degree view, and also contains the other 13 requirements that were detailed. Mr. Connolly. Mr. Erickson, did your auditors find there were alternatives available to the Chinese Meeting Owl camera? Mr. Erickson. Yes, they did. They did market research---- Mr. Connolly. So, again, we have got contradiction here, Mr. Shive, from the auditor, from the IG, saying, that is not true, that is just not true. And when we say that it is more a matter of incompetence than, say, deliberate intent, I guess I would gently suggest that it was easier to just deal with a product that was cheaper and available and decide there were no competing alternatives and not have to look into it and do the work to actually examine the merits of the competing products. I think that is a more likely explanation of what happened than just sheer incompetence. And all the re-training about how to do it is great, but it does not get at the fact that I just made a unilateral decision and explained it that way because it is a lot easier. And now I want to get into Chinese. So, Mr. Erickson, you know, here is the United States saying, ``Do not use Huawei.'' We not only have tried to ban it here, we have gone to Europe and told our partners, ``Get off Huawei. Get out of it.'' We have developed an alternative to the Chinese 5G because we are worried about security. And we have done that with our allies and here at home. There are states that have even tried to ban TikTok because of its Chinese connections and compromise of privacy and security. So, what could go wrong with having the lead agency of the Federal Government that sets standards for everyone else deciding to buy a Chinese product--a camera, no less--and, by the way, misleading what alternatives were available, and deliberately--deliberately--parceling this out so that they would technically, from their point of view, not be subject to the legal requirements otherwise, in terms of the dollar threshold, that would have prevented this? What could go wrong with a Chinese product like Meeting Owl? What should I worry about? What is wrong with a Chinese product? Mr. Erickson. We were worried---- Mr. Connolly. Apparently, GSA did not think there was anything wrong with it. Mr. Erickson. We were worried about Chinese surveillance and it--you know, the firewall being breached and information that is not supposed to leave the government, you know, leaving the government, getting out. Mr. Connolly. And did you find any similar concern expressed at GSA when you brought to their attention this procurement and the concerns about it? Mr. Erickson. We did not really address that, but they--we did address the security concerns and the software updates that needed to happen, and they took that suggestion rather positively. Mr. Connolly. I know it is maybe a little bit beyond your field, but isn't there a concern here that the standards- setting agency of the Federal Government, GSA, which tells us all kinds of products we can buy and cannot buy and, you know, sets standards for all Federal agencies except DOD, is essentially saying here, ``Nothing wrong with this Chinese product; have at it. Everyone else should buy them too''? Isn't that the risk of the message, whether it is witting or unwitting, with this procurement? Mr. Erickson. That is the risk, sir. Mr. Connolly. And doesn't that fly in the face of not only congressional intent but the policies of the Administration and this government? Mr. Erickson. It does. And we believe it violates the Trade Agreements Act as well. Mr. Connolly. So, it is actually a violation of law. Mr. Erickson. Yes, sir. Mr. Connolly. Mr. Shive, you have heard people were deliberately misled; it is a violation of law; there are security concerns. You--GSA circumvented the threshold requirements by parceling this out so that--which, according to Mr. Erickson, even that does not work, because it is a cumulative number. So, that was wrong to begin with, but you tried it--not you personally. This sounds like a major, major problem in terms of, not only a procurement, but the whole tainted process that went on at GSA, which seems to be to circumvent the law and to mislead others for convenience. Your comment? Mr. Shive. So, GSA--we maintain that we did not break the law, that we did not procure these devices with the intent to break up procurements. If you take a look at the total purchase price of the procurements now, they do not even--they still do not meet the TAA compliance threshold. Regarding the cybersecurity---- Mr. Connolly. But that is only because it was a pilot program. As Mr. Erickson has testified, your intent was to buy a lot more of these after you piloted it. Mr. Shive. Absolutely not. And we told the IG that we had no intention to buy additional Owl cameras. We told them in writing that we had no additional intent. Mr. Connolly. Mr. Erickson, real quickly? Mr. Erickson. I believe the evidence showed that we were told that this was part of a pilot project, and they were going to scale up and---- Mr. Connolly. Exactly. Mr. Erickson . Buy more video cameras for the agency. Mr. Connolly. Yep. Mr. Shive. And that is exactly right, that it is part of a pilot designed to inform larger purchases. When you move to the larger purchase phase, there is no indication, there is no predisposition that you are going to buy the same infrastructure. You buy pilot infrastructure---- Mr. Connolly. Mr. Shive, I am sorry, that does not even pass the  test. You have already got GSA employees saying there was no other product. So, that would argue, no, once we have the pilot, we are going to scale up with this product. There seemed to be no sensitivity or care that it was Chinese and that there was security concerns inherent in a Chinese camera because we have experience with other Chinese technologies that ought to--red lights ought to go on. And it was in violation, frankly, of U.S. Government policy. And that is strange given the fact, you know, you are the General Services Administration, charged with this very mission on behalf of the Federal Government. It is a very troubling episode. And I just want to say, Madam Chairwoman, I once again appreciate the independent work and independent judgment brought to this subject by the IG. Because we rely on you for that analysis and that objectivity. We look forward to other studies undertaken by your office, but we really appreciate what you have uncovered here. And I know that we are going to continue to pursue this. I thank the Chair. Ms. Mace. Thank you. And I want to thank our witnesses for being here today. In closing, I want to thank our panelists for their testimony. I want to thank the IG for being here today. And it is just--it is just so confusing, Mr. Shive, in your testimony, to say, this was the only camera that met our requirements, this was a pilot program that met our requirements, and yet you are not going to buy more of these cameras, but if you do, it will be a different camera, even though there is no other camera on the market that fits your requirements. Like, the math does not work for me. And that level of, sort of, incompetence is why people in this country do not have a lot of faith in our agencies, when they come here and say things that do not--that just do not make sense and they do not add up. And I do want to leave you with this, Mr. Shive. China is not our friend. There have been many instances, dozens and dozens of instances, where Communist-China-aligned bad actors have tried to hack our software, our systems, our agencies, over and over and over again. We have had--we know that there have been spy balloons over our country and other countries around the world. We know they have tried to hack our systems. I mean, I just--to think that buying Chinese equipment that could be used to spy on us and our government is a good idea is a terrible idea. And I hope that you never do it again. And I hope you get rid of what you have and give it to somebody else, maybe give it to Russia, because I do not want that stuff in our Federal Government or in our agencies. So, the last thing I want to say to you, Mr. Shive, is, in closing, I am going to request that you get back to the Committee on an actual answer with a real percentage and numbers of GSA employees who work remotely and your teleworking rates. Because my understanding is, it is far and significantly higher than just about any other agency. And even still with that number, it does not warrant Chinese cameras that could spy on the U.S. Government. I would like to yield to you if you have any final remarks, Mr. Connolly. Mr. Connolly. No, thank you. Ms. Mace. With that, without objection, all Members will have 5 legislative days within which to submit materials and to submit additional written questions for the witnesses, which will be forwarded to the witnesses for their response. Ms. Mace. And if there is no further business, without objection, the Subcommittee stands adjourned.  
+MADE IN CHINA:
+IS GSA COMPLYING WITH
+PURCHASING RESTRICTIONS?
+----------
+Thursday, February 29, 2024
+U.S. House of Representatives
+Committee on Oversight and Accountability
+Subcommittee on Cybersecurity, Information Technology, and Government
+Innovation
+Washington, D.C.
+The Subcommittee met, pursuant to notice, at 2:31 p.m., in
+room 2154, Rayburn House Office Building, Hon. Nancy Mace
+ presiding.
+Present: Representatives Mace and Connolly.
+Ms. Mace. Good afternoon, everyone.
+The Subcommittee on Cybersecurity, Information Technology,
+and Government Innovation will now come to order.
+We welcome everyone this afternoon.
+Without objection, the Chair may declare a recess at any
+time.
+I will now recognize myself for the purpose of making an
+opening statement.
+Good afternoon, and welcome to this hearing of the
+Subcommittee on Cybersecurity, Information Technology, and
+Government Innovation.
+The American people and those of us who serve on their
+behalf here in Congress are angry that foreign adversaries,
+such as China, are using cyber warfare to attack and weaken our
+Nation.
+Earlier this month, for instance, a Federal cybersecurity
+advisory confirmed that PRC state-sponsored actors are pre-
+positioning for possible disruptive cyber-attacks against the
+U.S. critical infrastructure. These actors are hacking into
+computer systems, then lying low and undetected for, in some
+cases, years--a tactic termed ``living off the land''--so that
+they can be activated to wreak havoc should a major conflict
+with the U.S. arise.
+The threat is real, but there are laws on the books
+designed to create safeguards and guardrails. This includes
+restrictions on what the Federal Government buys. Each year,
+Uncle Sam purchases about $100 billion in IT products and
+services alone. Numerous bans and prohibitions exist to both
+further U.S. trade policy objectives and to ensure our national
+security.
+No agency has a more crucial role in ensuring these bans
+and prohibitions are enforced than the General Services
+Administration, or GSA. The GSA serves as the primary
+government-wide purchasing agent. It manages tens of billions
+of dollars in annual contract spending.
+That brings us to the GSA Office of Inspector General
+report that is the subject of today's hearing. Last month, the
+OIG issued a report entitled ``GSA Purchased Chinese-
+Manufactured Videoconference Cameras and Justified It Using
+Misleading Market Research.'' The report raises issues that we
+will explore today.
+The IG found that GSA, via two separate purchases occurring
+in March and October 2022, bought 150 videoconference cameras
+made in the PRC, in violation of the Trade Agreements Act, or
+the TAA. With limited exceptions, the TAA prohibits agencies
+from buying products made in China or other non-TAA-compliant
+nations, such as Russia and Iran.
+Security vulnerabilities with these specific cameras were
+documented by a private security company and the subject of a
+CISA public alert.
+The IG found that the cameras were bought by a GSA
+contracting officer who relied on egregiously flawed
+information provided by her own GSA colleagues. This was,
+quote, ``inaccurate, incomplete, and misleading market
+research'' indicating no other cameras were available for
+purchase that could meet the agency's need.
+According to the IG report, the GSA CIO, who is testifying
+today, signed off on both camera purchases, though he later
+acknowledged he did so without having reviewed the market
+research performed by his staff.
+Mr. Shive also signed off on the GSA management response to
+the IG report. That response did not contest the factual
+narrative laid out in the report or the IG's assertion that the
+purchase of the cameras was a violation of TAA.
+GSA, in fact, concurred with nearly all the IG's
+recommendations, including that the GSA Administrator should
+take appropriate action against GSA IT and GSA IDT personnel to
+address the misleading information provided to the contracting
+officer.
+However, GSA has since provided arguments and documents to
+our Committee staff that challenge key elements of the IG
+report, including that the camera purchases violated the law.
+So, we will hear their side of the story today, and I hope
+we can learn why it was omitted from GSA's management response
+to the IG report.
+More broadly, I hope GSA can give us some assurance today
+that it is going to fix the problems the IG identified and
+ensure, going forward, that it is complying with laws that
+promote safe purchasing.
+With that, I will now yield to Ranking Member Connolly for
+his opening statement.
+Mr. Connolly. Thank you, Madam Chairwoman.
+The General Services Administration has become a bit of a
+frequent flier with this Committee, in the worst kind of way.
+GSA has hardly covered itself in glory.
+On issues ranging from the highly flawed decision on a new
+FBI headquarters, to the Old Post Office lease agreement, to
+ascertainment of the winner of the 2020 Presidential election,
+to login.gov, to the FBI headquarters again, GSA has repeatedly
+made misrepresentations to this Congress, sidestepped agency
+policy and the Constitution itself, and disregarded both the
+letter and spirit of the law.
+In 2018, I requested that GSA's own Office of Inspector
+General review GSA's revised plan for the Federal Bureau of
+Investigation's headquarters consolidation. The GSA OIG's
+review found that then-Administrator of GSA, Emily Murphy,
+misled Congress while under oath when she attempted to conceal
+her meetings with then-President Trump regarding the FBI
+headquarters and the decision to move it to the suburbs rather
+than stay in downtown Washington, DC.
+Donald Trump is a self-interested businessman when it comes
+to the location of the FBI--or was at that time. And a
+President to the American people ought not to be involved in
+contract negotiations or in deciding to pull the award of a
+contract for a new headquarters for a major agency of the
+Federal Government. He wanted to prevent the construction of a
+rival hotel, potentially, on a now commercially developed FBI
+site downtown.
+GSA had already faced congressional inquiries as to how
+Donald Trump won the rights to convert the Old Post Office into
+the Trump International Hotel. The Trump Organization signed a
+lease with GSA that said, quote, ``no elected official of the
+government shall be admitted to any share or part of this lease
+or to any benefit that may arise therefrom.''
+In the words of GSA's OIG again, former President Trump's
+continued interest in the hotel was a ``possible violation'' of
+the Foreign Emoluments Clause of the Constitution. And in
+putting on the question, GSA ignored the Constitution.
+The Committee tried to perform further oversight, but GSA
+rebuffed all requests.
+As the Oversight Democrats found in their recent
+investigation, Donald Trump then collected millions of dollars
+from foreign governments at the Trump International Hotel under
+a GSA lease while he was the President, in violation of the
+Emoluments Clause of the U.S. Constitution.
+In 2020, after President Biden won the Presidential
+election, then-Administrator Murphy ignored the law and refused
+to issue a letter of ascertainment for 16 full days.
+When Administrator Murphy finally issued the letter, she
+broke with precedent by refusing to call the clear victor
+President-elect Biden. While the letter fulfilled her duty
+technically, its content exposed her egregiously false belief
+that President Biden did not win the election, further fueling
+Donald Trump's harmful election lies and helping lay the
+groundwork for the violent January 6th insurrection.
+No less than a year ago, the GSA OIG found that GSA
+officials misrepresented login.gov's compliance with Federal
+digital identity standards. GSA then billed agencies more than
+$10 million for services that failed to meet required security
+and privacy standards.
+While login.gov has since worked to remediate these issues,
+GSA's noncompliance and its officials' misleading actions
+eroded the trust between the agency, the Federal Government,
+and the people we all serve.
+This past fall, GSA announced its decision to select
+Greenbelt, Maryland, as the site for the new FBI headquarters
+amid an overwhelming amount of evidence indicating that GSA's
+own site-selection process was fouled by political
+interference.
+GSA first changed the weighting of the original site-
+selection criteria over FBI Director Wray's objections. And he
+is the client here. Then, they changed the individual tasked
+with confirming the final site selection from a career official
+to a political appointee. Finally, that same political
+appointee overturned the unanimous decision from a panel of
+career officials and then promptly left the agency after the
+damage she inflicted.
+You do not have to just take my word for it. The FBI
+Director, Christopher Wray, in an email to his colleagues,
+wrote, quote, ``We have concerns about the fairness and
+transparency in the process and GSA's failure to adhere to its
+own site-selection plan,'' and stated that the FBI identified
+concerns about a potential conflict of interest involving the
+site-selection authority and whether changes that individual
+made in the final stage of the process adhered to the site-
+selection criteria.
+And, of course, we know she did not, because she went in
+and changed the weight, the final weight, unanimously provided
+by that site-selection committee of professionals--two from
+GSA, one from the FBI--in every category. And it just so
+happened every category she changed was changed in the
+direction of Maryland, at the expense of Virginia, despite the
+professional findings of the site-selection panel.
+Despite these controversies, I want to acknowledge the
+leaders at GSA's Office of the Chief Information Officer for
+their tireless work on IT modernization and procurement
+efforts. The Office of the CIO has been engaged as a partner in
+improving the digital experience of the Federal Government, and
+we applaud that.
+They deserve credit for managing the effectiveness of more
+than $800 million in 51 different transformative IT investments
+across 29 Federal agencies through the administration of the
+Technology Modernization Fund.
+GSA also spearheaded implementation of the FedRAMP
+Authorization Act. The legislation, which I championed into
+enactment last Congress, enforces a standardized approach to
+security assessments and authorizations for cloud-computing
+products and services to better safeguard sensitive data and
+systems.
+Unfortunately, the GSA's OIG's report that is the focus of
+today's hearing provides yet another instance in which GSA did
+not follow proper processes and policies. The GSA OIG report
+made two concerning claims.
+First, the report claims that GSA Office of Digital
+Infrastructure Technologies employees misled a contracting
+officer with quote, ``egregiously flawed information,''
+unquote, that led to the purchase of 150 Chinese-made
+videoconference cameras. GSA has the responsibility to explain
+how this error happened and what changes have been implemented
+to prevent that mistake from happening again.
+Second, the report claims that GSA failed--I am almost
+done--to address the camera's known security vulnerabilities.
+Security concerns about Chinese-made products are not new. As
+stewards of Federal IT procurement government-wide, GSA,
+especially, must show preeminent expertise and diligence in
+buying the right IT to ensure government works and is secured.
+While GSA has made the case, they have not violated any
+laws, the American people deserve to know why they piloted
+products that would not have complied with the Trade Agreements
+Act, if they were bought at the amount necessary to serve the
+full organization; why GSA believed dividing the acquisition
+into multiple purchases would fall below the TAA threshold; and
+why IDT said there were no TAA-compliant options when the GSA
+OIG found compliant options in abundance.
+Today, GSA must once again begin the work to regain the
+trust of the American people and of this Committee. I look
+forward to hearing from GSA today about how it will address the
+problems enumerated in the Inspector General report.
+And I yield back.
+Ms. Mace. Thank you, Mr. Connolly.
+I am pleased to introduce our witnesses for today's
+hearing. Our first witness is Mr. David Shive, Chief
+Information Officer at U.S. General Services Administration, or
+GSA. Our second witness is Mr. Robert Erickson, Acting
+Inspector General at GSA's Office of Inspector General.
+Welcome, and we are pleased to have both of you this
+afternoon.
+Pursuant to Committee Rule 9(g), the witnesses will please
+stand and raise your right hands.
+Do you solemnly swear or affirm that the testimony that you
+are about to give is the truth, the whole truth, and nothing
+but the truth, so help you God?
+Let the record show that the witnesses answered in the
+affirmative.
+We appreciate both of you being here today and look forward
+to your testimony.
+Let me remind the witnesses that we have read your written
+statements, and they will appear in full in the hearing record.
+Please limit your oral arguments to 5 minutes.
+As a reminder, please press the button on the microphone in
+front of you so that it is on, and the Members can hear you.
+When you begin to speak, the light in front of you will
+turn green. After 4 minutes, the light will turn yellow. When
+the red light comes on, your 5 minutes has expired, and we
+would ask that you please wrap it up.
+So, I recognize Mr. Shive to please begin his opening
+statement.
+STATEMENT OF DAVID SHIVE
+CHIEF INFORMATION OFFICER
+U.S. GENERAL SERVICES ADMINISTRATION
+Mr. Shive. Great. Thanks for the opportunity to testify
+today.
+Good afternoon, Chair Mace, Ranking Member Connolly, and
+the Members of the Subcommittee. My name is David Shive, and I
+am the Chief Information Officer at the U.S. General Services
+Administration. I appreciate the opportunity to appear before
+you today.
+GSA relies on a connected workforce operating across the
+country to meet our mission. Videoconferencing equipment allows
+for seamless interaction, productive collaboration, and
+enhanced user experiences.
+In February 2022, in light of increasing office presence,
+employees provided feedback that indicated new requirements for
+videoconferencing, and, thus, new equipment was needed. The
+existing solution was obsolete, and employees suggested that a
+portable camera with a 360-degree view capability would address
+the shortcoming of the legacy solutions.
+A joint pilot program between the Office of GSA IT and
+other offices sought to evaluate products that would improve
+collaboration and the user experience with modern
+telecommunications and videoconferencing infrastructure. The
+team engaged in discussions with technology vendors to better
+understand their offerings, and GSA IT conducted market
+research to identify portable and cost-effective solutions.
+GSA's decision to pilot equipment from Owl Labs was based
+in part on its unique capability of a 360-degree view and
+portability. It also required no installation, was compact and
+easy to relocate and store, and was one of the least expensive
+among the options.
+GSA accepts that we could have done a better job
+documenting our requirements, including the need for a camera
+with a 360-degree view of field that allows participants to
+easily track who is speaking. However, I am unaware of any
+evidence suggesting that GSA IT personnel sought to
+intentionally mislead acquisition officials.
+As a result of this audit, GSA has put in place new
+processes and improved documentation requirements. The team has
+strengthened our alternatives of analysis documentation that
+allows for possible solutions to be adequately analyzed and
+locked down once the analysis is completed.
+GSA IT has also partnered with acquisition experts that
+focus primarily on market research to bolster any future
+efforts. Procurement training courses with respect to Buy
+America Act and Trade Agreement Act are now required for IT
+personnel regularly involved in procurement actions. GSA fully
+supports the purchase and use of American-made products
+wherever possible and is committed to complying with all
+acquisition statutes, including the BAA and the TAA.
+GSA was in full compliance with the BAA for both the first
+and second procurement of Owl cameras. The TAA did not apply to
+either of these acquisitions because neither equaled or
+exceeded the threshold of $183,000. The value of an acquisition
+is a determining factor in the applicability of any of our
+trade agreements. The applicability of BAA versus TAA is
+mutually exclusive, and the determination by the contracting
+officer of which statute to apply in any acquisition is
+dictated by the dollar value. It is not aggregated across
+multiple acquisitions. GSA's requirements did not reach the
+threshold to invoke TAA.
+Foreign acquisition rules are complicated. In 2018, GSA
+raised BAA approval levels to the head of the contracting
+activity and is updating TAA policy to match. This will help
+ensure that GSA continues to correctly apply both laws.
+Most importantly, GSA's deployment of Owl cameras in its
+work environment was done in a manner that was secure, and that
+remains true today. In line with our security protocols, GSA
+voluntarily removed older Owls from use that the vendor
+indicated would no longer be supported. For the remaining Owl
+devices, our security assessment determined that the
+cybersecurity risks were low. GSA chose to intentionally
+configure them for use in a more limited manner in order to
+further reduce any potential vulnerabilities.
+While these choices made the devices inherently more
+secure, it did create other challenges. GSA has since
+strengthened how we manage the devices and software-updating
+protocols so that, going forward, we can effectively locate and
+ensure timely updates of the devices that might be needed.
+Specifically, we have developed an Owl device user
+agreement that improves the responsibility and accountability
+related to timely patching of software. In addition, we have
+formalized the standard operating procedures for the management
+of the devices with processes and actions in place if policies
+are not adhered to.
+The current inventory of Owls are all fully patched with
+respect to security updates.
+GSA is committed to delivering the best value in government
+services while ensuring the security of our technology
+environment, as well as prudently utilizing taxpayer money. GSA
+appreciates the IG's recommendations to improve our internal
+processes, which helped to improve our security posture and IT
+purchases.
+We are confident that we have complied with all procurement
+rules, have maintained robust mitigations to reduce security
+risks, and at no time intentionally misled acquisition
+officials.
+We believe that the actions taken so far as a result of our
+internal reviews, along with implementing the recommendations
+made by our IG partners, will strengthen our processes.
+Thank you.
+Ms. Mace. OK.
+I will now recognize Mr. Erickson to please begin your
+opening statement.
+STATEMENT OF ROBERT C. ERICKSON, JR.
+DEPUTY INSPECTOR GENERAL
+U.S. GENERAL SERVICES ADMINISTRATION
+Mr. Erickson. Thank you. Chairwoman Mace, Ranking Member
+Connolly, and Members of the Subcommittee, good afternoon.
+I am here today to answer your questions regarding our
+January 2024 audit report that found that GSA purchased
+Chinese-made videoconference cameras and justified it with
+misleading information.
+As you have already noted, the Trade Agreements Act
+requires Federal agencies to buy only goods that are made in
+America or a TAA-designated country with limited exceptions.
+China is not on that list. Agencies are allowed to buy TAA
+noncompliant products if no TAA-compliant product on the market
+meets the needs of the government.
+In 2022, our office was contacted by a senior GSA employee
+who was concerned that GSA's purchase and use of Chinese-made
+videoconference cameras violated the TAA. In response, we
+initiated an audit and found that employees in GSA IT misled a
+GSA contracting officer to justify purchasing 150 Chinese-made
+cameras.
+Before completing the purchases, the contracting officer
+requested information from GSA IT to justify the request for
+the TAA-noncompliant cameras. As part of the request, the
+contracting officer asked whether there were any TAA-compliant
+alternatives and why GSA IT needed a specific Chinese-made
+camera. In response, GSA IT provided misleading market research
+in support of the TAA-noncompliant cameras. They failed to
+disclose that comparable TAA-compliant alternatives were
+available.
+Additionally, we found that these cameras had known
+security risks that need to be addressed with a software
+update. As of mid-September 2023, there were dozens of these
+cameras that had not been undated to address the security
+problems.
+In our report, we made several recommendations to the GSA
+Administrator for corrective actions. Agency leadership agreed
+in writing to all of our recommendations, except our
+recommendation that GSA return or otherwise dispose of the
+Chinese-made cameras.
+Despite the fact that GSA employees we interviewed during
+our audit agreed that TAA applied, and GSA concurred with all
+but one of our recommendations, GSA now asserts that TAA does
+not apply. Legally, this assertion fails for three reasons.
+First, the Federal Acquisition Regulation states, in
+determining whether the TAA threshold has been met, the
+contracting officer should use the total estimated value of the
+projected recurring awards for the same type of product and not
+divide an acquisition with the intent of reducing the estimated
+value below the TAA threshold.
+Second, GSA's own policy for a similar acquisition vehicle
+states that, for the purpose of determining the applicability
+of the TAA, the total value of the acquisition is the estimated
+dollar amount of the entire contract.
+Third, a D.C. Federal court noted that the Federal
+Acquisition Regulation, quote, ``suggests the value of the
+acquisition refers to the overall annual value of the contract
+and not the value of each transaction under that contract,''
+end quote.
+In addition, GSA's argument does not pass the common-sense
+test. These purchases were made as part of a pilot to purchase
+additional cameras for the entire agency. If you accept GSA's
+assertion, they could purchase 170 of these Chinese-made
+cameras per day for a year, spending $44 million, and still not
+cross the TAA threshold.
+Today's hearing can be boiled down to two simple facts.
+First, the GSA contracting officer stated that she would not
+have purchased these cameras if she had been provided with
+complete and accurate information. Second, as noted previously,
+you cannot split the purchases to avoid the limits of the TAA.
+This concludes my brief summary of our audit regarding the
+GSA's purchase of Chinese-made cameras, and I am happy to
+answer any questions you may have.
+Ms. Mace. All right. Thank you so much.
+I will now recognize myself for 5 minutes.
+My first few questions will go to you, Mr. Shive. You are
+the subject of an IG audit report. You are also one of the GSA
+officials who signed the Agency's written response to that
+report.
+Your testimony states that the cameras purchased did not
+violate the TAA. So, why does the GSA formal written response
+to the IG report not reflect that?
+Mr. Shive. Yes, thank you for the question. I appreciate
+it, and I appreciate the opportunity to add some clarity there.
+When we signed the written response, we were agreeing to
+the recommendations. We were signing and saying that we agreed
+to the recommendations that the IG put forward. We were not
+saying that we agreed with everything that the IG said.
+Ms. Mace. OK.
+You signed concurrence memos for the videoconference camera
+purchases. You told the IG you do not usually get so involved
+in purchases but here you did, and you signed off without
+reviewing the market research your staff prepared.
+Why did you treat these purchases differently?
+Mr. Shive. Because the document showed up on my desk, I was
+obligated to take a look at it and read it and understand it.
+Ms. Mace. Do documents not normally show up on your desk
+or----
+Mr. Shive. They do all the time.
+Ms. Mace. OK.
+Mr. Shive. They do all the time.
+And this one, it was something that I had not seen before,
+so I asked questions of why was----
+Ms. Mace. You mean the cameras, or the documents, or the
+type of contract purchase?
+Mr. Shive. The document asking for me to sign off.
+Ms. Mace. OK. You had not seen a document like that before?
+What does----
+Mr. Shive. No.
+Ms. Mace . That mean? What do you mean by that?
+Mr. Shive. Correct. That is the first time I had seen a
+document like that. And so, it was a determination of--I forget
+what the right word is--nonavailability and not a waiver.
+And so, when I looked at that, I said, what are we--what is
+not available? And they said, there is no TAA-compliant
+infrastructure out there that are suitable for purchase that
+meet the requirements of the agency. And I said, OK, I
+understand that, and I signed.
+Ms. Mace. So, what about the requirements that there was
+nothing out--no other alternatives? Is it the 360 thing?
+Mr. Shive. So that is part of it, the 360-degree view. And
+the other is the ultra-portability of the device.
+Ms. Mace. Do you see 360-degree view as a requirement?
+Mr. Shive. Absolutely, yes.
+Ms. Mace. Why would that be?
+Mr. Shive. So, we were coming out of the pandemic and
+starting to work in a hybrid work environment----
+Ms. Mace. But you did not buy these until February 2022.
+So, we were coming out of the pandemic. More people should be
+at work than at home. Was that not the case at your agency?
+Mr. Shive. We were coming out of the pandemic then at the
+Agency.
+Ms. Mace. So, at the end of the pandemic, when people were
+coming back to work, you decided you needed 360-degree cameras?
+Mr. Shive. No, we decided that that would be a good thing
+beforehand, and then we did the work to develop a pilot,
+because----
+Ms. Mace. So is this----
+Mr. Shive . We perform our purchases based on
+actual information.
+Ms. Mace. So, this was a pilot for a potentially bigger
+purchase?
+Mr. Shive. Potentially, yes.
+Ms. Mace. OK.
+So, why would you put your own signature on a memo
+supported by materials you did not review, not even enough to
+spot egregious errors relied upon to justify buying cameras
+made in China? If you were not familiar with the documents, why
+would you sign them?
+Mr. Shive. Well, I was familiar with it.
+Ms. Mace. OK.
+You agreed with the IG that appropriate disciplinary action
+should be taken in response to the findings of the IG report.
+Who will action be taken against, and what kind of disciplinary
+action will be taken?
+Mr. Shive. Yes, it has already been taken.
+So, what we did is, we did a fulsome analysis of both the
+market research and interviewed the people involved----
+Ms. Mace. Uh-huh.
+Mr. Shive . And determined that nobody
+intentionally misled the contracting officer; and said, OK,
+this is a training opportunity. So, we have trained not only
+this person but corresponding staff in two ways.
+One, we have given them training on BAA and TAA compliance.
+And the other is, we have trained them on what proper market
+research would look like, specifically documentation, so that
+the documentation could be----
+Ms. Mace. Was the 360-degree requirement, as you call it,
+in the documentation----
+Mr. Shive. That----
+Ms. Mace . Requirements or contract? It was
+not?
+Mr. Shive. That was one of the places where we agreed with
+the IG; it did not show up. It showed up in any number of
+places, including email exchanges with people----
+Ms. Mace. Why were these cameras bought? Was it because
+they were cool? Like, why--I mean, why do you need a 360-degree
+camera? Are you the only agency in the Federal Government that
+bought these cameras from China?
+Mr. Shive. I do not know what other----
+Ms. Mace. But why did you need a 360-degree--OK. It is the
+end of the pandemic; people are coming back to work. I would
+think you would need fewer cameras than more. But why the 360?
+Mr. Shive. So, the way that most conference rooms are laid
+out, there is a table with a ring of people sitting----
+Ms. Mace. I am familiar.
+Mr. Shive . Around it. People who are offsite,
+if there is a camera that only----
+Ms. Mace. How many people are offsite at your agency?
+Mr. Shive. I do not have that number, but I am happy to get
+that for you.
+Ms. Mace. You do not know how many people work from home?
+Mr. Shive. I know percentages, and----
+Ms. Mace. OK.
+Mr. Shive.  It is different----
+Ms. Mace. What is the percentage of people that work from
+home at your agency?
+Mr. Shive. It is different every day. I do not have the
+exact number.
+Ms. Mace. On average?
+Mr. Shive. On average, 30, 40 percent of people are onsite
+every day.
+Ms. Mace. OK. OK. So, based on data that we have seen, your
+agency seems to be an outlier, even for Federal agencies, in
+terms of employees that are working from home.
+Mr. Shive. Right.
+Ms. Mace. GAO found that the GSA's D.C. headquarters
+building was only about 10-percent occupied on a typical
+workday a year ago.
+So, has that number changed?
+Mr. Shive. Well, so headquarters is not representative of
+the entire GSA enterprise. Think of field offices and remote
+sites.
+Ms. Mace. Uh-huh.
+Mr. Shive. Property managers are----
+Ms. Mace. So, there are more people elsewhere; thus, the
+D.C. is an outlier.
+Mr. Shive. I am sorry, I did not hear----
+Ms. Mace. The D.C. headquarters is an outlier compared to
+the rest of the agency offices.
+Mr. Shive. It could be, but I am not that aware of those
+numbers.
+Ms. Mace. OK. What percent--OK, so you have got that. All
+right.
+So, my next questions will be for Mr. Erickson.
+And then I will give you extra time if you would like it.
+Mr. Connolly. Yes, no problem. Uh-huh.
+Ms. Mace. Your office issued an audit saying GSA broke the
+law when it bought these cameras made in China.
+If GSA feels that an IG report falsely accuses them of
+breaking the law, shouldn't GSA say so in their formal response
+in the report--to the report?
+Mr. Erickson. Thank you for the question.
+That is exactly right. They had many opportunities to read
+the report. They have a discussion draft which they get, and
+they--we discuss it with them and have meetings with them. They
+have the draft report and then the final report.
+And they simply did not say anything in their written
+response to our audit report.
+Ms. Mace. Why would that be, you think?
+Mr. Erickson. I do not know the answer to that, ma'am. You
+would just have to ask the GSA.
+Ms. Mace. According to your report, GSA staff provided
+misleading data to their own colleague, information that was
+used to justify buying the PRC China-made cameras.
+Was this done intentionally or gross incompetence, in your
+opinion?
+Mr. Erickson. We did not find any evidence of intent.
+Ms. Mace. OK. Just complete incompetence. All right.
+Could staff who Mr. Shive relied upon so much that he
+signed off on their work without checking it out--I guess they
+would be grossly incompetent here, from your response.
+Can agencies get around the TAA ban of products made in
+China simply by breaking big purchases up into a series of
+smaller purchases throughout the year?
+Mr. Erickson. No, ma'am. That would completely eviscerate
+the rule, and they cannot do it that way.
+Our position is--and this was going to be a bigger
+purchase. It was going to be scaled up to purchase a lot of
+Chinese video cameras.
+Ms. Mace. Do you see a need to have 360-degree cameras? Is
+that like a--I have never seen that need before at a Federal
+agency. Do you think that there is a need for that, a
+requirement for that?
+Mr. Erickson. I will say, it was not a requirement of the
+procurement. There were 13 requirements for the procurement,
+and that--the 360-degree camera angle was not one of the
+requirements.
+Ms. Mace. Have you found flaws in GSA's procedure for
+enforcing procurement bans with respect to the Multiple Awards
+Schedule?
+Mr. Erickson. We have. We have written a report about that,
+and it is currently--they are working on the corrective action
+plan for that.
+Ms. Mace. All right.
+I will now yield to Mr. Connolly.
+Mr. Connolly. Thank you, Madam Chairwoman.
+By the way, Mr. Shive, in answer to the Chairwoman's
+question about what percentage of the workforce is at
+headquarters every day, does that include Administrator
+Carnahan? Is she at the headquarters every day?
+Mr. Shive. Not that I am aware of.
+Mr. Connolly. In fact, does she not spend a fair amount of
+time back in Missouri?
+Mr. Shive. I do not really track her movements, personally.
+We can give you what----
+Mr. Connolly. Well, yes, I think the Committee would be
+very interested in her location attendance. Because one would
+assume that the Administrator would want to be hands-on,
+especially given all of the controversial issues GSA deals with
+and its record.
+Mr. Erickson, I read your report. You used the word in your
+testimony ``misleading'' or ``misled'' multiple times.
+You just heard Mr. Shive testify, ``we did not mislead at
+all.'' Comment.
+And if you could bring that mic closer to you, so we can
+hear you. Thank you.
+Mr. Erickson. Mr. Connolly, we got that evidence from the
+contracting officer. She said that she--and two of our auditors
+were present when she said it--were egregiously misled. We
+followed up----
+Mr. Connolly. ``Egregiously misled.''
+Mr. Erickson. Yes. And we followed up and asked her after
+the report came out, and she confirmed that that was the intent
+of her words.
+Mr. Connolly. Right.
+So, Mr. Shive, your own employees are testifying before the
+IG that--the word ``egregious,'' not just misled, egregiously
+misled. Do you wish to modify your testimony that there was no
+misleading?
+Mr. Shive. No, but I would like to clarify. The comments
+were ``egregiously flawed'' and ``intentionally misled.'' Those
+are two separate things that are being conflated here. So----
+Mr. Connolly. Mr. Erickson has just testified that what she
+said to his auditors was ``egregiously misled,'' not
+``egregiously flawed.''
+Is that correct, Mr. Erickson?
+While you are looking that up, Mr. Erickson said that he
+was told by GSA employees that Meeting Owl, the Chinese camera,
+was the, quote, ``only product that would fit their needs,''
+unquote.
+In retrospect, that was not a true statement, was it, Mr.
+Shive?
+Mr. Shive. Well, according to the requirements that were
+commonly discussed by the entire procurement and technology
+teams, we still have not been able to find another camera that
+is highly portable, has a 360-degree view, and also contains
+the other 13 requirements that were detailed.
+Mr. Connolly. Mr. Erickson, did your auditors find there
+were alternatives available to the Chinese Meeting Owl camera?
+Mr. Erickson. Yes, they did. They did market research----
+Mr. Connolly. So, again, we have got contradiction here,
+Mr. Shive, from the auditor, from the IG, saying, that is not
+true, that is just not true.
+And when we say that it is more a matter of incompetence
+than, say, deliberate intent, I guess I would gently suggest
+that it was easier to just deal with a product that was cheaper
+and available and decide there were no competing alternatives
+and not have to look into it and do the work to actually
+examine the merits of the competing products.
+I think that is a more likely explanation of what happened
+than just sheer incompetence. And all the re-training about how
+to do it is great, but it does not get at the fact that I just
+made a unilateral decision and explained it that way because it
+is a lot easier.
+And now I want to get into Chinese.
+So, Mr. Erickson, you know, here is the United States
+saying, ``Do not use Huawei.'' We not only have tried to ban it
+here, we have gone to Europe and told our partners, ``Get off
+Huawei. Get out of it.''
+We have developed an alternative to the Chinese 5G because
+we are worried about security. And we have done that with our
+allies and here at home.
+There are states that have even tried to ban TikTok because
+of its Chinese connections and compromise of privacy and
+security.
+So, what could go wrong with having the lead agency of the
+Federal Government that sets standards for everyone else
+deciding to buy a Chinese product--a camera, no less--and, by
+the way, misleading what alternatives were available, and
+deliberately--deliberately--parceling this out so that they
+would technically, from their point of view, not be subject to
+the legal requirements otherwise, in terms of the dollar
+threshold, that would have prevented this?
+What could go wrong with a Chinese product like Meeting
+Owl? What should I worry about? What is wrong with a Chinese
+product?
+Mr. Erickson. We were worried----
+Mr. Connolly. Apparently, GSA did not think there was
+anything wrong with it.
+Mr. Erickson. We were worried about Chinese surveillance
+and it--you know, the firewall being breached and information
+that is not supposed to leave the government, you know, leaving
+the government, getting out.
+Mr. Connolly. And did you find any similar concern
+expressed at GSA when you brought to their attention this
+procurement and the concerns about it?
+Mr. Erickson. We did not really address that, but they--we
+did address the security concerns and the software updates that
+needed to happen, and they took that suggestion rather
+positively.
+Mr. Connolly. I know it is maybe a little bit beyond your
+field, but isn't there a concern here that the standards-
+setting agency of the Federal Government, GSA, which tells us
+all kinds of products we can buy and cannot buy and, you know,
+sets standards for all Federal agencies except DOD, is
+essentially saying here, ``Nothing wrong with this Chinese
+product; have at it. Everyone else should buy them too''? Isn't
+that the risk of the message, whether it is witting or
+unwitting, with this procurement?
+Mr. Erickson. That is the risk, sir.
+Mr. Connolly. And doesn't that fly in the face of not only
+congressional intent but the policies of the Administration and
+this government?
+Mr. Erickson. It does. And we believe it violates the Trade
+Agreements Act as well.
+Mr. Connolly. So, it is actually a violation of law.
+Mr. Erickson. Yes, sir.
+Mr. Connolly. Mr. Shive, you have heard people were
+deliberately misled; it is a violation of law; there are
+security concerns. You--GSA circumvented the threshold
+requirements by parceling this out so that--which, according to
+Mr. Erickson, even that does not work, because it is a
+cumulative number. So, that was wrong to begin with, but you
+tried it--not you personally.
+This sounds like a major, major problem in terms of, not
+only a procurement, but the whole tainted process that went on
+at GSA, which seems to be to circumvent the law and to mislead
+others for convenience.
+Your comment?
+Mr. Shive. So, GSA--we maintain that we did not break the
+law, that we did not procure these devices with the intent to
+break up procurements. If you take a look at the total purchase
+price of the procurements now, they do not even--they still do
+not meet the TAA compliance threshold.
+Regarding the cybersecurity----
+Mr. Connolly. But that is only because it was a pilot
+program. As Mr. Erickson has testified, your intent was to buy
+a lot more of these after you piloted it.
+Mr. Shive. Absolutely not. And we told the IG that we had
+no intention to buy additional Owl cameras. We told them in
+writing that we had no additional intent.
+Mr. Connolly. Mr. Erickson, real quickly?
+Mr. Erickson. I believe the evidence showed that we were
+told that this was part of a pilot project, and they were going
+to scale up and----
+Mr. Connolly. Exactly.
+Mr. Erickson . Buy more video cameras for the
+agency.
+Mr. Connolly. Yep.
+Mr. Shive. And that is exactly right, that it is part of a
+pilot designed to inform larger purchases. When you move to the
+larger purchase phase, there is no indication, there is no
+predisposition that you are going to buy the same
+infrastructure. You buy pilot infrastructure----
+Mr. Connolly. Mr. Shive, I am sorry, that does not even
+pass the  test. You have already got GSA employees
+saying there was no other product. So, that would argue, no,
+once we have the pilot, we are going to scale up with this
+product.
+There seemed to be no sensitivity or care that it was
+Chinese and that there was security concerns inherent in a
+Chinese camera because we have experience with other Chinese
+technologies that ought to--red lights ought to go on.
+And it was in violation, frankly, of U.S. Government
+policy. And that is strange given the fact, you know, you are
+the General Services Administration, charged with this very
+mission on behalf of the Federal Government.
+It is a very troubling episode.
+And I just want to say, Madam Chairwoman, I once again
+appreciate the independent work and independent judgment
+brought to this subject by the IG.
+Because we rely on you for that analysis and that
+objectivity. We look forward to other studies undertaken by
+your office, but we really appreciate what you have uncovered
+here. And I know that we are going to continue to pursue this.
+I thank the Chair.
+Ms. Mace. Thank you.
+And I want to thank our witnesses for being here today.
+In closing, I want to thank our panelists for their
+testimony. I want to thank the IG for being here today.
+And it is just--it is just so confusing, Mr. Shive, in your
+testimony, to say, this was the only camera that met our
+requirements, this was a pilot program that met our
+requirements, and yet you are not going to buy more of these
+cameras, but if you do, it will be a different camera, even
+though there is no other camera on the market that fits your
+requirements. Like, the math does not work for me.
+And that level of, sort of, incompetence is why people in
+this country do not have a lot of faith in our agencies, when
+they come here and say things that do not--that just do not
+make sense and they do not add up.
+And I do want to leave you with this, Mr. Shive. China is
+not our friend. There have been many instances, dozens and
+dozens of instances, where Communist-China-aligned bad actors
+have tried to hack our software, our systems, our agencies,
+over and over and over again. We have had--we know that there
+have been spy balloons over our country and other countries
+around the world. We know they have tried to hack our systems.
+I mean, I just--to think that buying Chinese equipment that
+could be used to spy on us and our government is a good idea is
+a terrible idea. And I hope that you never do it again. And I
+hope you get rid of what you have and give it to somebody else,
+maybe give it to Russia, because I do not want that stuff in
+our Federal Government or in our agencies.
+So, the last thing I want to say to you, Mr. Shive, is, in
+closing, I am going to request that you get back to the
+Committee on an actual answer with a real percentage and
+numbers of GSA employees who work remotely and your teleworking
+rates. Because my understanding is, it is far and significantly
+higher than just about any other agency. And even still with
+that number, it does not warrant Chinese cameras that could spy
+on the U.S. Government.
+I would like to yield to you if you have any final remarks,
+Mr. Connolly.
+Mr. Connolly. No, thank you.
+Ms. Mace. With that, without objection, all Members will
+have 5 legislative days within which to submit materials and to
+submit additional written questions for the witnesses, which
+will be forwarded to the witnesses for their response.
+Ms. Mace. And if there is no further business, without
+objection, the Subcommittee stands adjourned.
+

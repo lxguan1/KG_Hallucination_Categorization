@@ -1,1 +1,1622 @@
-OVERSIGHT OF THE CRIMINAL JUSTICE INFORMATION SERVICES (CJIS) DIVISION ---------- Tuesday, December 17, 2024 House of Representatives Subcommittee on Crime and Federal Government Surveillance Committee on the Judiciary Washington, DC The Subcommittee met, pursuant to notice, at 10:29 a.m., in Room 2141, Rayburn House Office Building, the Hon. Andy Biggs  presiding. Present: Representatives Biggs, Tiffany, Nehls, Moore, Kiley, Lee, Fry, McBath, Johnson, and Garcia. Also present: Representative Lee Carter. Mr. Biggs. The Subcommittee will come to order. Without objection, the Chair is authorized to declare a recess at any time. We welcome everyone to today's hearing on Oversight of the Criminal Justice Information Services Division of the FBI. I now recognize the gentleman from Alabama, Mr. Moore, to lead us in the pledge of allegiance. All. I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation, under God, indivisible, with liberty and justice for all. Mr. Biggs. Thank you, Mr. Moore. I now recognize Ms. McBath to introduce us into a moment of silence. Ms. McBath. Thank you, Mr. Chair. Gun violence has ripped apart another community and traumatized more students in their place of learning. Just yesterday, another teacher and another teenager lost their lives, and children lost their sense of security to preventable gun violence. We have the tools, and we have the means to stop these horrors and help stop this from happening. With the permission of the Chair, I ask all of you to please join me in a moment of silence. Mr. Biggs. All of you please join us in a respectful moment of silence.  Mr. Biggs. Thank you. I now recognize myself for an opening statement. We welcome everyone to today's hearing on Oversight of the Criminal Justice Information Services Division of the FBI. The CJIS was created in 1992 with the purpose of serving as a central operating system and location for Criminal Justice Information Services. The CJIS Division provides support to law enforcement, national security partners, and the intelligence community, while also offering some services to the public. These functions include the Uniform Crime Reporting system as well as the National Instant Criminal Background Check System; so, that's UCR and NICS. With a 986-acre campus in Clarksburg, West Virginia, with more than 3,000 employees and contractors, CJIS is the largest division in the FBI. Since 1930, the FBI has collected and published crime data through its UCR program. The UCR program compiles crime data submitted by State and local law enforcement agencies across the country and publishes the information in annual reports. More than 18,000 city, county, State, Tribal, and Federal law enforcement agencies reported crime data to the FBI in 2023. However, the submission of crime data to the FBI is voluntary. According to one estimate, over 30 percent of police departments nationwide did not report crime data to the FBI. The crime data published by the FBI's UCR program helps inform policymakers and the public about the State of crime in the United States. The crime data also plays an important role in how Federal grant dollars are allocated to State and local jurisdictions. For example, the Edward Byrne Memorial Justice Assistance Grant, the JAG program, which is managed by the Bureau of Justice Assistance at the Department of Justice, allocates Federal grant dollars to State and local jurisdictions based on the population of the jurisdiction and the number of violent crimes reported to the FBI. In January 2021, the FBI retired the outdated Summary Reporting System, SRS, and made the National Incident-Based Reporting System, NIBRS, the only method for law enforcement agencies to report crime data to the FBI. The NIBRS program allows law enforcement agencies to report much more detailed crime data, such as the date and time of the crime, the relationship between victim and offender, drug types and quantities, specific property involved in the crime, and many other data points. The data that gets submitted to NIBRS also includes assaults on law enforcement officers and hate crimes. In 2022, there were 19,139 law enforcement agencies enrolled in the program, but only 12,725 of them reported crime data. The FBI has been estimating crime data since 1960, but in 2017, the Justice Department's Bureau of Justice Statistics and the FBI worked together to develop the NIBRS estimation project. When an agency fails to submit crime data, whether for a single month or an entire year, the NIBRS estimation methodology quote, ``approximates what the expected value would be for that missing data.'' The FBI concedes that the estimates themselves are subject to levels of uncertainty caused by incomplete NIBRS reporting, which brings us to one of the topics that we will surely explore today. In September 2023, the FBI released UCR data purporting to show a 2.1 percent decrease in violent crime across the country from 2021-2022. That was touted in virtually every hearing by my colleagues across the aisle, that there had been this remarkable decrease in violent crime under the Biden Administration. At some point between September-October 2024, the FBI revised its 2022 data to show that violent crime had actually increased by 4.5 percent from 2021. The FBI did not publicize its revision of 2022 violent crime data, and the only way you could see this change was to download the FBI's updated crime data and compare it to the previous year. The FBI instead disclosed the revision in a footnote to its 2023 UCR Crime in the Nation's survey, which stated the original 2022 numbers had been updated. This update included thousands of murders, rapes, and other violent crimes that were originally omitted from the FBI's crime data. The FBI did not mention the significant data revision in its September 2024 press release about violent crime data for 2023. The FBI's revision of violent crime data confirms what the Committee's oversight has shown. The Biden-Harris crime epidemic continues to escalate and far-left State and local policymakers place the interests of criminals over the needs of their communities. Radical procriminal policies, including defunding the police, bail reform, make it harder to put violent offenders behind bars and keep them out of American neighborhoods. While the Biden-Harris Administration claims that crime is down, a reported 40 percent of Americans said in 2023 that they are afraid to walk alone at night even within very close proximity of their home. That's the highest percentage in 30 years. The initial 2022 data, before it was corrected, was heralded as historic declines in the crime rate. Despite having the true data, the FBI never issued a clarification where the incorrect statistics were used to push a false narrative. Media even used the incorrect data to fact-check President-elect Trump's correct assertion at the time that violent crime had risen during the Biden-Harris Administration. While there may be an innocent and reasonable explanation for this revision and lack of reporting the revision, there's nonetheless an appearance of partisanship in what went on here. It is not unlike what happened with the Hunter Biden laptop where 51 people were out there saying it looked like Russian disinformation, and the FBI remained mute instead of actually revealing that the Hunter Biden laptop was true, which they knew over a year before they ever released that. I hope today's hearing helps us clarify what exactly happened here, and I hope it doesn't happen again. With that, I'm going to yield back and recognize the Ranking Member, Ms. McBath, for an opening statement. Ms. McBath. Thank you, Mr. Chair. I would like to take a moment of privilege to welcome our colleague, Congresswoman Erica Lee Carter. It's an honor to have her with us today to observe and to serve with us, and we are really very proud of the legacy that you continue to carry on behalf of our dear colleague Representative Sheila Jackson Lee. Welcome. The FBI's Criminal Justice Information Services Division, known as CJIS, is an information hub that provides a range of tools and services to law enforcement, national security partners, and the general public. It facilitates background checks on prospective firearms purchasers, compiles criminal history reports of suspects, and maintains fingerprint databases, playing an essential role in supporting law enforcement and helping to keep Americans safe. I am pleased to welcome CJIS' Acting Director, Timothy Ferguson, here with us today, and I look forward to hearing from him about what Congress can do to best assist CJIS with the services that it provides to law enforcement and the American public. To the extent my Republican colleagues want to spend their time today discussing uniform crime data reporting about the year 2021, I would urge them to work with us to reconsider their focus. We are now at the end of 2024. While we know that data shows that the violent crime rate has been dropping nationwide for several years, there is more that we must do to fight violence in this country. Violent crime is not a partisan issue for me. It is deeply personal. Gun violence and hatred took my son Jordan from me 12 years ago. I vowed that his death would not be in vain and have devoted every minute of my life to working to prevent other parents from joining this ever-growing club of parents who have lost their children to preventable gun violence. This year, firearms have been responsible for the loss of nearly 16,000 American lives, and yet another mass shooting at a K-12 school just yesterday. That is why I am particularly interested in hearing from Mr. Ferguson about CJIS' role in maintaining the National Instant Criminal Background Check System, the NIC System, and how that system helps to keep firearms out of the hands of those who are not permitted to have them. I also hope to hear about how CJIS has and will continue to implement the Bipartisan Safer Communities Act--that legislation was made several months ago. I am very, very grateful for your presence today. I hope that this next Congress my colleagues across the aisle will focus on additional legislation that will help to reduce violent crime even further, like banning assault weapons, establishing a Federal extremist protection order system, investing in community violence intervention programs that have been shown to actually reduce violence, and giving law enforcement the funding that they need to keep us and our officers and our communities safe. As we close out the 118th Congress, I look forward to hearing from Mr. Ferguson about CJIS' role in protecting the safety of all Americans. Thank you. I yield back. Mr. Biggs. The gentlelady yields back. I now recognize the Chair of the Full Committee, Mr. Jordan, for his opening statement. Chair Jordan. Thank you, Mr. Chair. I don't have an opening statement. We welcome the Director and look forward to his testimony and thank the Chair for putting this together. Mr. Biggs. Thank you, Chair Jordan. Without objection, Ms. Lee Carter will be permitted to participate in today's hearing for the purpose of questioning the witness if a Member yields her time for that purpose. We welcome you. Glad to see you here. We miss your mother, and she served on this Committee a long time, probably a lot longer than me, as I reckon it. We're certainly glad to welcome you here today. Thank you for being here. Ms. Lee Carter. Thank you. Mr. Biggs. Today is the last hearing that Scott Titus will be with us. He's been working with the Majority party on Judiciary for the last year or two--18 months. He's with DHS, HSI. He's done a great job. He's been invaluable in providing us with information, and helping us understand that particular agency. Scott, you'll be missed, and we wish you and your family the best as you go--as you leave this bubble and go back to the reality in Kansas City. Thank you. Thanks for being with us. Without objection, all other opening statements will be included in the record. We will now introduce today's witness, who is Mr. Timothy Ferguson. Mr. Ferguson is the Acting Assistant Director of the Criminal Justice Information Services Division at the Federal Bureau of Investigation. He's held that position since April 2024. We welcome him and thank him for appearing today. We will begin by swearing you in, Mr. Ferguson, and ask that you please rise and raise your right hand. Do you swear or affirm, under penalty of perjury, that the testimony you're about to give is true and correct to the best of your knowledge, information, and belief, so help you God? The record will reflect the witness has answered in the affirmative. You may be seated. Thank you. Please know that your written testimony will be entered into the record in its entirety. Accordingly, we ask that you summarize your testimony. You'll have five minutes to summarize your testimony. There's a clock in front of you. As it begins to wind down, it sounds a siren, et cetera--it does not, but you'll see it coming to the five minutes, and that's when we ask you to wrap it up. I'll probably tap on this just a little bit, not too loud, because I don't want to mess up your flow, but we would like you to wrap at five minutes. Now, Mr. Ferguson, you're recognized for your opening statement. STATEMENT OF TIMOTHY A. FERGUSON Mr. Ferguson. Good morning, Chair Biggs, Ranking Member McBath, and the Members of the Subcommittee. Today I'm honored to be here representing the men and women of the Federal Bureau of Investigation's Criminal Justice Information Services Division in Clarksburg, West Virginia. The CJIS Division is one of the largest divisions in the FBI and serves a unique role that provides vital services not only to law enforcement and criminal justice agencies, but also the public we serve. Our North central West Virginia campus is home to thousands of employees, who are responsible for many public-facing programs that keep Americans safe 24 hours a day, seven days a week. When the public calls 1-800-CALL-FBI or sends a submission through tips.fbi.gov, the CJIS Division triages and disseminates those tips to our field offices and other local, State, and Federal partners. Dissemination of those tips saves lives. Our employees are making firearms eligibility determinations in an accurate and timely manner ensuring citizens are able to exercise their Second Amendment right while keeping weapons out of the hands of those prohibited from possessing them. Last year, we possessed nearly 10 million firearms background checks. We manage the National Crime Information Center, or NCIC, a lifeline for law enforcement, with an average of 10 million daily transactions. The CJIS Division also houses the Next Generation Identification System, a fingerprint and criminal history repository that contains 86 million criminal fingerprints and processes a daily average of 220,000 prints. The program celebrated its 100th anniversary this year, and for more than 90 years, the Uniform Crime Reporting program, or UCR, has been viewed as an authoritative source for understanding the scope of crime in the Nation. Our teams now work with over 19,000 law enforcement agencies to collect, validate, and publish that data. We have a no-fail mission, and I cannot be prouder of our workforce, our ability to manage services and systems 24/7, and the significant contribution we make to public and officer safety. Our employees serve with professionalism and integrity. On their behalf, I would like to express my appreciation for your time and interest in learning more about the CJIS Division. I would like to speak briefly about UCR and our Crime in the Nation reports. The UCR program collects data on crimes reported to law enforcement via the Summary Reporting System, or SRS, and the National Incident-Based Reporting System, or NIBRS. SRS was created in the 1920s, and NIBRS was initiated in the 1980s and provides more granularity in reported offenses than SRS, such as specific circumstances and context for crimes, like location, time of day, and whether the incident was cleared. In 2016, the UCR program began transitioning to a NIBRS- only collection with a deadline of January 1, 2021. This transition was recommended by law enforcement partners and endorsed by the CJIS Advisory Board, which comprises representatives from criminal justice and national security agencies and organizations throughout the United States, including the International Association of Chiefs of Police, the Major City Chiefs Association, and the Major County Sheriffs of America. During the period between 2016-2021, many law enforcement agencies transitioned to submitting crime through NIBRS while others continued to submit through SRS. The FBI publishes an annual report entitled ``Crime in the Nation'' that describes crime data submitted by law enforcement agencies from around the country. The publication also includes spreadsheets containing underlying data so users can conduct their own reviews and analyses. Each year, some of the more than 19,000 law enforcement agencies around the country submit incomplete or no data, and CJIS uses statistical methods to estimate the crime for those agencies to provide a comprehensive view of crime in the Nation. Typically, however, the agencies that contribute data cover more than 80 percent of the population. While a substantial portion of agencies around the country transitioned to NIBRS-only reporting by the January 2021 deadline, we nonetheless had gaps as numerous agencies, including some large agencies representing significant populations, did not submit data. When it came time to publish the NIBRS-only Crime in the Nation 2021 Annual Report in September 2022, only about 65 percent of the population was represented by NIBRS- participating agencies. The UCR program was unable to apply the traditional estimation methods, which require a statistically acceptable level of participation to develop year-to-year national trends. To close that gap of missing information, the UCR program resumed collecting SRS in 2022. In 2023, to produce meaningful estimates for the two-year trend between 2021-2022, we manually sourced 2021 data from large agencies that did not submit NIBRS to supplement what was reported that year for a statistically acceptable level of participation and a more representative trend. The trend determined that reported crime decreased an estimated 1.7 percent from 2021-2022. Each Crime in the Nation report contains a table showing crime rates for the previous 20 years. When we released the Crime in the Nation 2023 report in September of this year, in one of the many steps we're taking to become more transparent with the data reporting test, we automated that 20-year table. This allowed the system to automatically pull data reported to the FBI to generate trends for all years in the table. The SRS data manually sourced in 2022 filled in the gaps for 2021 and demonstrated that the year-to-year trend was not included in that automation process. This meant the crime estimate for 2021 appeared lower because it did not include the manually sourced crime data, and as a result, it appeared that the violent crime rose from 2021-2022. There are many intricacies when it comes to data. Please know the CJIS Division is dedicated to being transparent in the process. Mr. Biggs. So, if you could wrap up--I let you go for almost a minute extra, so-- Mr. Ferguson. Yes, sir.   Mr. Biggs. Thank you. Thanks, Director. Now, we're going to proceed under the five-minute rule with questions, and I recognize the gentleman from Wisconsin, Mr. Tiffany. Mr. Tiffany. Thank you, Mr. Chair. Director Ferguson, we see there's about 30 percent of municipalities are not reporting. Is that accurate? Mr. Ferguson. That is not an accurate statement. So, for 2023 reporting, we had approximately 94 percent population coverage and 83 percent of agencies either reporting SRS or NIBRS to the UCR program. Mr. Tiffany. It wasn't that way in 2021. Is that what you're saying? Mr. Ferguson. That's correct. Mr. Tiffany. So, are there any large municipalities that are included in those that are not reporting? Mr. Ferguson. Most of the large in-population cities have transitioned to NIBRS, or we are collecting that through SRS. So, we are collecting the most in-population cities. Mr. Tiffany. Are any of them not included? Mr. Ferguson. Not to my knowledge. Mr. Tiffany. They're all included? Mr. Ferguson. They should all be included, the most in- population cities should all be included within the SRS or NIBRS reporting. Mr. Tiffany. Who's responsible within your agency for notifying the public of the crime data? Mr. Ferguson. Ultimately, the buck stops with me as the Acting Assistant Director for the CJIS Division. Mr. Tiffany. There's this press release October 16, 2023, ``FBI Releases 2022 Crime in the Nation Statistics,'' a very prominent press release, but there was not a similar press release put out in regard to the revision that was done just recently. Why was there not a press release put out in regard to the revision? Mr. Ferguson. Sure, I appreciate the question. So, to be clear, we did not revise any of the data. When we received notification from various agencies, including news agencies and outlets requesting information about the 2021 data and why it appeared lower, that's when we were notified, what we understood, that the automation process did not include the manual data that we had put in there. As a result of that, we were able to update our Crime Data Explorer, which is where all the data is housed, and be a little bit more articulate about what the data shows and how--the fact it's actually missing data. Mr. Tiffany. Isn't one of the purposes of what you do to make sure that the public is aware if crime is going up so that--just from a public safety standpoint, isn't that one of the purposes of having this data? Mr. Ferguson. I would say that the main thing for us in the CJIS Division is that we want to make sure that we're providing accurate, unbiased data for individuals to make decisions off that data. We don't want to-- Mr. Tiffany. If crime is going up, isn't it worthwhile for the public to know that? Mr. Ferguson. Absolutely. Mr. Tiffany. Why didn't you put out a press release? Why didn't you put out a press release saying we--regardless of the circumstances, you changing methodologies, stuff that you're using to measure crime, why wouldn't you tell the American public that with a prominent press release just as you did when you said that crime was going down and people across America knew it was not? Mr. Ferguson. So, I stand behind the 2022 report, which shows the information that was published in 2022 for 2021 stats, and it's important to make sure that we're very crystal clear here, that we did not change any of the crime numbers for 2021-2022. We stand beside those numbers. Mr. Tiffany. Professor Carl Moody at William and Mary College has done extensive study in regard to crime. Are you familiar with Professor Moody? Mr. Ferguson. I'm not familiar with him. Mr. Tiffany. He said that huge changes in--very small changes over the last 20 years that he's been studying crime, he said the huge changes, especially without an explanation, make it difficult to trust the FBI data. Is that how the public should view this, that it's very difficult to trust this data? Mr. Ferguson. I certainly understand the angst with the crime data, but I do want to be clear that we have no intention whatsoever of deceiving the American people with the numbers that we receive. We want to put the information out there unbiased for decisionmaking purposes, for legislators, lawmakers, policymakers, and law enforcement. Our goal is to make sure that we're providing information that is provided to us by local law enforcement in an unbiased way. Mr. Tiffany. Are you planning to stay with the FBI as the new administration comes in? Mr. Ferguson. Yes, sir. Mr. Tiffany. Do you make a commitment to work with the new Director or the Director designee Kash Patel? Mr. Ferguson. I will make a commitment, as an executive of the FBI, I will work with anyone that is nominated and confirmed by the Senate for the Director. Mr. Tiffany. Do you have ideas to help him make the FBI a better agency? We've detailed in the Judiciary Committee so many times the failures that have been out there, the 51 in regard to the Hunter Biden laptop and Catholics in Richmond, Virginia. It's well detailed. Do you have ideas to help Mr. Patel as he comes in to be the new FBI Director to make this a better agency that will now have the trust of the American people? Mr. Biggs. The gentleman's time has expired, but you may answer the question. Mr. Ferguson. Thank you, sir. My scope of employment in the CJIS Division, I certainly have ideas on how we can continue to improve the background check process, how we can improve the information shared with law enforcement partners, and how we can improve biometrics within the CJIS scope of work. I certainly have ideas on how we can improve the CJIS Division. Mr. Tiffany. I yield back, Mr. Chair. Mr. Biggs. The gentleman yields. The Chair recognizes the gentlelady from Georgia, Ms. McBath. Ms. McBath. Thank you, Mr. Chair. Infrastructure and funding have proven to be hurdles for the cities attempting to switch to the NIBRS system. How many cities are still struggling right now to make that switch? How can Congress help as they make that transition and they make that switch? Mr. Ferguson. Thank you, ma'am. I don't have the numbers here in front of me for the number of agencies that have not transitioned to NIBRS yet. What I will say is we do conduct extensive outreach with the agencies who have not transitioned to NIBRS. I would also like to highlight very quickly that the law enforcement agencies want to switch. So, incentivizing them is not necessary, if that makes sense, because they want to switch to NIBRS because they understand the value in the NIBRS program and the NIBRS system, and how it will be useful to the American public as well as to policymakers and law enforcement. Ms. McBath. Thank you. We know that the Bipartisan Safer Communities Act was very pivotal legislation for gun violence awareness. Among some of its functions it included updated language so that domestic violence offenses, including dating relationships, were included. How has NIBRS adjusted to include this additional information? Mr. Ferguson. So, with the NIBRS system I don't have specifically what the question asks with regard to the incident, but that would be captured within that incident. It's really important for us to highlight the fact that we do have to do extensive research and education for our law enforcement partners because, particularly with things with the dating relationships, we want to make sure that's documented in those offense reports, so that we can make determinations down the road on firearms eligibility should that come to fruition. Ms. McBath. OK. Thank you so much. I'd also like to take a point of privilege to express my gratitude to Jill Ginstling for her contributions to the Judiciary Committee. This is her last hearing with us, and Jill has been instrumental in supporting and furthering the work of the Committee in the 118th Congress both through the Subcommittee on Crime and her extensive involvement in the oversight of the Federal Government. We are forever grateful for the countless hours that she has dedicated to serving the Committee, our Members, and the country. We know that great things are ahead for her, and we wish her the best of luck in her future endeavors. Thank you, Jill. I would like to yield the balance of my time to our colleague, Ms. Lee Carter. Ms. Lee Carter. Thank you, Ranking Member McBath and Chair Biggs, for the opportunity to join here today. Thank you for all the staff who's worked so hard on this Committee over the years. It's a privilege to be a Member of the same Judiciary Committee--I'm the newest one--and to round out the important work in the 118th Congress. The critical issue of criminal justice and oversight of Federal agencies within this jurisdiction are ones my mother, the late Congresswoman Jackson Lee, held to the highest standards and scrutiny in ensuring justice, fairness, and dignity for all Americans. Assistant Director Ferguson, my only question is--and thank you all for--I really want to thank you for releasing a hate crime report. It's important that we acknowledge these types of crimes by race, by gender, and by sexual orientation. In my local community, Houston, we hear those stories. We've had a lot of attacks against transgender Black women, and they deserve to be heard. Their voices deserve to be acknowledged. What type of incentives have you offered to local law enforcement, and what have you seen as successful maybe to bring them along to participate in data collection? Mr. Ferguson. So, what I would say again, I think the value that we provide in the CJIS Division with our State and local partners is that education. Again, the value they provide to us is they've already been incentivized because they want this. The law enforcement partners want to be partners with us in making sure we're getting accurate crime data out so that it can be used across all aspects of American life, from the public safety to the legislative and policymaking to academia. So, we're constantly working with our local and State partners to make sure that we're educating them on what we want to see or what should be seen within the NIBRS report. Again, it's really important to know that this is something that they want and that they're asking for as well. Ms. Lee Carter. I hope we can continue to support data collection work. I yield the balance of my time. Thank you. Mr. Biggs. Ms. McBath, do you yield back as well? Ms. McBath. I yield. Mr. Biggs. Thank you. The gentlelady yields. The Chair now recognizes the Chair of the entire Judiciary Committee, Chair Jordan, the gentleman from Ohio. Chair Jordan. Thank you. Thank you, Mr. Chair. So, Director, did you lie, or did you guess? Mr. Ferguson. I'm sorry, sir. Can you-- Chair Jordan. When it came to the numbers, you were off. You said violent crime went down, and it actually went up. I want to know, were you lying to the country, or were you just guessing? Mr. Ferguson. So, if you're referring to the 2021 data, I want to be clear that the information that we have--our most complete data set from the information we collected shows that the crime went down. So, I think when there is a question about-- Chair Jordan. Oh, so you're saying you weren't lying or you weren't guessing; you just got it wrong? Mr. Ferguson. I'm sorry. I don't understand. Chair Jordan. Well, my understanding is you reported violent crime went down 2.1 percent for the year that you were reporting on, when in actual fact it went up 4.5 percent. You were off by a pretty large margin. I want to know what was the reason for you being off, and having to adjust that figure and say, ``No, no, no.'' We said--I think you even said in the press release it was a historic decline when in actual fact, it had increased. I want to know again what was the reason for you getting it wrong? Guessing, lying, or you just screwed up? Mr. Ferguson. I want to be clear that the report that we issued in 2022 that showed the decline from 2021-2022 is, in fact, true and accurate. What is being misinterpreted right now is that our automation numbers that are shown in the system now do not show that manually sourced data. The team really wanted to make sure they got it right. We only had 65 percent of the law enforcement agency population coverage when we got the 2021 numbers. Chair Jordan. Let me ask you a simple question. Did it go up or down? Mr. Ferguson. It went down, according to the data set that we have. Chair Jordan. Then what was the number you reported that went up? What was that number? Mr. Ferguson. We did not report a number that went up. Chair Jordan. The footnote that said it increased 4.5 percent; that's wrong? Something has got to be wrong because, on one hand, you say it went up. On the other hand, previously you said it went down. I mean, which one is right? Mr. Ferguson. I'm not familiar with the footnote that said that crime went up by 4.5 percent. Chair Jordan. The 4.5 percent increase in violent crime. Mr. Ferguson. I'm not familiar with that. I'll have to look into it. Chairman Jordan. You're not familiar with that? That's the whole reason you're here. Mr. Ferguson. I'm not familiar with a footnote in our system that says that crime--violent crime went up 4.5 percent in 2021-2022. Chair Jordan. You had to--you submitted that report. You said it went up 4.5 percent, and you're saying that's not true? Mr. Ferguson. According to the data that we have for 2021- 2022, violent crime went down. Chair Jordan. Violent crime went down. Then what was the 4.5 percent that said it went up? Where did that come from? Were you just making it up? The Chair talked about it in his opening statement. This whole Committee, the stuff we put together that we looked at for our preparation for the Committee all said it went up. You're saying, ``Nope, that's not true.'' Mr. Ferguson. I believe that the 4.5 percent number came from outside sources that are looking at the data as it sits today, that is incomplete. It only has the 65 percent of law enforcement population coverage in 2021-- Chair Jordan. So, you stand by the number you reported earlier this fall, the 2.1 percent decline in violent crime? Mr. Ferguson. Yes, sir. Chair Jordan. Really? Mr. Ferguson. Yes, sir. Chair Jordan. Oh, I think that would be a surprise to most people. Most people we talked to feel like violent crime has increased. It certainly seems that way. You're saying it didn't, it didn't at all. So, how was the interpretation made that said it went up 4.5 percent? Mr. Ferguson. So, if you look at the system as it sits today, if you go into the Crime Data Explorer and look at the 2021 numbers--it's an automated system because we're trying to go to monthly releases. So, as a result of that, it's an automated system that pulled only what was reported to the FBI in the NIBRS program in 2021, which was only 65 percent of the population. To try and get it right, our team went out and manually sourced data from agencies that did not submit NIBRS, like New York City, Phoenix, Chicago, and used those numbers to supplement the NIBRS reporting in 2021 to be able to have a more true and accurate depiction of Crime in the Nation. Chair Jordan. What was that number? When you put it all together, what was that number? Mr. Ferguson. For the number of coverage was at about 78 percent of the--78.5 percent. Chair Jordan. No. Did it go up or down? Mr. Ferguson. It went down. Chair Jordan. Went down. OK. That's still not all of it? That's 78 percent? Mr. Ferguson. Yes, sir, that's correct. Chair Jordan. OK. You stand by that? Mr. Ferguson. Yes, sir. Chair Jordan. OK. So, that's where we're at. All right. This has been the whole concern is that, on one hand, you said one thing; on the other hand, we had something reported that people analyzed and said, ``No, no, no. It actually went up.'' We would like to get the accurate information. Yes, I yield to the Chair. Mr. Biggs. Thanks, Mr. Chair. Director, I want to ask a question because this probably gets to the nub of it, right? So, you said 78 percent--you based your data on 78 percent participation rate ultimately, right? Because whoever didn't participate, you went and looked at whatever the public reporting was, right? Mr. Ferguson. Yes, sir. In addition to that, the extra 22 percent, we used traditional NIBRS estimation methods to look at likely-- Mr. Biggs. So, let's leave the estimation methods off for a second, because I don't have time to get into that. I want to ask this question: If I understand what you're saying today, if you looked at the automated responses--that's what these people who are independent researchers look at, and that's where they would have derived 4.5 percent growth in the crime rate. Is that fair? Mr. Ferguson. Yes, sir, that's fair. Mr. Biggs. OK. Time has expired. Now, let me recognize Mr. Garcia from Illinois. Mr. Garcia. Thank you, Mr. Chair, and to the witness. I seek unanimous to enter into the record the UCR Summary Crime Report to the Nation of 2023, which shows that, on page 3 of the report that the FBI submitted in this division of CJIS, shows that crime went down. Mr. Biggs. Without objection. Mr. Garcia. Thank you, Mr. Chair. I would like to switch over to an extremely important topic under CJIS purview, the National Instant Criminal Background Check System, or NICS. I represent a district that includes a part of Chicago and its western burbs, and in my district, like in many across the country, reducing gun violence is a primary concern. We've got a lot of work to do on this topic, and a lot of it is beyond the scope of this hearing, but I believe in a fundamental reinvestment in communities disproportionately harmed by gun violence. That being said, there are many commonsense steps that we can take to reduce gun violence, and NICS is a vital frontline tool to keep guns away from dangerous individuals. I'm proud to have supported the Bipartisan Safer Communities Act, which, among other things, are overdue changes that strengthen the background checks done by NICS. Director Ferguson, can you briefly address how NICS has changed over time to enhance the efficiency and accuracy of background checks, including through improvements made by the Bipartisan Safer Communities Act? Mr. Ferguson. Yes, sir. Thank you very much for the opportunity to talk about the great men and women in the NICS section and the work that they're doing over there. With the implementation of the Bipartisan Safer Communities Act, we implemented that as soon as it was passed. Since the implementation of that act, we have done approximately 359,000 under 21 gun background checks. So, as you're familiar with the Bipartisan Safer Communities Act, under 21 requires us to do multiple things. One is to check with the State repositories for criminal history, as well as mental health for juveniles, as well as to contact local law enforcement in the jurisdiction where the individual resides. So, as a result of these three enhanced background checks, again, we have conducted over 359,000 under 21 checks. In addition to that, we've hit just over 960 denials based on that and the rest of them proceeds. It has been a little bit of a difficult effort to explain to our law enforcement partners why we're contacting them, but we have made some significant strides. We started off in the single digits with the number of responses we were getting from the State criminal history and mental health repositories, as well as law enforcement agencies, but now we're at an average of over 70 percent responses from all those agencies to our inquiries. We still have some work to do. There are still some agencies--or excuse me. There's still some States out there that do prohibit the sharing of juvenile mental health and criminal history information even if it's to the NICS background check system. We still have some more work to do, but we're working through that process, and the amazing men and women in the NICS section are doing a phenomenal job of implementing that, as well as the provisions of the Brady Handgun Act. Mr. Garcia. Thank you. Please keep working on that because the increase in participation is critical. Can you provide some examples on how these improvements have helped individuals with, say, mental health concerns or a criminal record from getting a gun? Mr. Ferguson. So, in my position here, I'm very lucky that I get to see pockets of excellence across the entire division. On a daily basis, we're seeing the denials--if there is a denial that comes in on an under 21 check, those are reported to me on a daily basis. I am seeing that individuals who have some mental health issues or have been adjudicated as mental defective have been denied, as well as a myriad of other different offenses in which people happen to be denied for that. I want to highlight specifically again what I mentioned before, that we're just over 960 denials with over 359,000--or 354,000 checks that have come in for under 21. Mr. Garcia. Thank you. Let me switch gears to a data security topic. It's of primary importance for a government agency like CJIS that handles sensitive personal information. What measures does your division take to ensure that data confidentiality is protected within the NICS system? You've got about 15 seconds. Mr. Ferguson. That's a great question. I would say that we are obviously implementing the Executive Order that was passed here recently with regard to cybersecurity, so we're implementing those processes as well as the implementation of the NIST standards for cybersecurity excellence. We're, also, implementing those procedures as well. Mr. Garcia. Thank you, Mr. Ferguson. I yield back, Mr. Chair. Mr. Biggs. The gentleman yields. The Chair now recognizes the gentleman from Texas, Mr. Nehls. Mr. Nehls. Thank you, Mr. Chair. Mr. Ferguson, thank you for being here. With 19,000 law enforcement agencies reporting--are there 19,000 agencies reporting? Is it required to report their crime? Mr. Ferguson. No, sir, it's not required. Mr. Nehls. Do you believe there should be some law that would require a law enforcement agency to report their crimes, so their communities--if I was going to move into some place, I'd want to be able to go to a website to see how many index crimes, the robbery rate, murders, all that. Mr. Ferguson. What I can tell you is that with my experience, the law enforcement agencies we work with, they want to do this. Mr. Nehls. They do? Mr. Ferguson. They do want to report this stuff to us, yes. Mr. Nehls. Most of them? Mr. Ferguson. All the 19,000 that are in the program right now want to. Mr. Nehls. OK. All right. If I was the mayor of Chicago or New York over the past couple of years, do you think I would really be willing to release all that information to the FBI, so the American people can see an increase in crime? Mr. Ferguson. I'm not certain of the process that would be followed by the mayor to stop the reporting of Uniform Crime Reporting to the FBI. Mr. Nehls. Well, if there's no teeth behind it. If New York City, Chicago, and L.A., big cities--you talk about, what is the 78 percent participation rate--when you have those three big cities with the millions of people in it, they didn't report in 2021. How in the hell would anybody, even on the city council or anybody in that community even know, do we have enough police? Also, in the UCR and NIBRS, I'm a little experienced with this because I was a sheriff, but it also shows the solve rates of the crimes; what is the average solve rate? Explain to people, what's the average solve rate on a burglary in the United States of America? Mr. Ferguson. I don't have the numbers in front of me. Mr. Nehls. Oh, it's less than 10 percent. We don't solve too many of them. The point I'm making, this is good information for the American people to have at their disposal as it relates to whether they want to move into a certain community within a certain State. Why would New York--I'll tell you why. Why would Chicago, L.A., and New York City not want to report their crime? Because it's bad. It's bad news. Politics gets involved. If you don't have to report it, why should I? I wouldn't report it. I think this Committee should look at it and say maybe we should require it because, if you don't report it, you're hiding something, because I loved reporting my crime in the UCR because we solved more crime than anybody. It was something for me to motivate my personnel with. Being an elected sheriff, I was sharing with people: ``We solve more crime and have less crime than all the surrounding counties.'' It was good news to share. If you're one of those municipalities where crime is out of control--and we've seen it in these large cities, Chicago, L.A., and New York--you're not going to want to report it. Do you believe that we should withhold any type of grant funding? You are asking for grant funding, all of it, for municipalities that refuse to report. Mr. Ferguson. So, while it would be improper for me to talk about withholding funding, what I can say is that the law enforcement agencies that report, we're at almost 85 percent of law enforcement agencies that are reporting, covering 94 percent of the population. Mr. Nehls. Have you ever changed the report? Has a large agency or any one of the agencies ever called you up one day and said, ``Hey, buddy, you reported this, but we sent you that?'' Mr. Ferguson. Not to my knowledge, no. Mr. Nehls. OK. Here's one, here's one. Baltimore reported-- now you would think the city of Baltimore would know how many homicides they have. Come on, pretty simple index crime. They reported 262 murders in 2023, and you reported they only had 225. How does that happen? Mr. Ferguson. I'll have to look into that one. Mr. Nehls. That's a problem. You wonder why your agency is not trusted, why the FBI needs to have a complete overhaul. The Milwaukee Police Department reported a seven percent increase in robberies, but the FBI showed a 13 percent decrease. Who's manipulating this data? Mr. Ferguson. What I can tell you is that the law enforcement agencies have the ability to change their data at any given time. We don't stop them from doing that. We produce a static report that's static for that time period. At any given time, they can change their crime status, but we have no desire to do anything but get it right. Mr. Nehls. The Washington Examiner had a report back on April 5, 2024, that exposes your inaccurate information in the reporting that we've seen out of the FBI. It needs to be addressed, and I'm hoping this Committee can look at holding large agencies accountable. I know the UCR is a little different from NIBRS. It's a little bit more complex, a little bit more complicated, but I think we should require agencies to provide that information, whether it's good or bad, because I think the American people have a right to know. Mr. Garcia. Would the gentleman yield for-- Mr. Nehls. Sure. Time is out. Mr. Chair? Mr. Garcia. Does Chicago report, Mr. Ferguson, its data to the FBI-- Mr. Nehls. They didn't report in 2021, that's clear. Mr. Biggs. Sorry, Mr. Garcia. Time has expired. For every gentlemen up here, both of you guys, it's expired. The Chair recognizes now the gentleman from Alabama, Mr. Moore. Mr. Moore. Thank you, Mr. Chair. Mr. Ferguson, thank you for being here. What criteria does NICS use to determine whether an individual is prohibited from purchasing a firearm? Mr. Ferguson. The National Instant Background Check System searches three databases. We search Triple I, NCIC, and the NICS indices to determine if a person is prohibited from purchasing a firearm. Mr. Moore. So, what is Triple I? Mr. Ferguson. Triple I is the InterState Identification Index. I apologize, that is the criminal history index that is maintained within the Next Generation Identification System. Mr. Moore. I got you. How often are denials reviewed to ensure accuracy and fairness? Mr. Ferguson. I'm sorry, sir? Mr. Moore. How often are the denials reviewed to ensure accuracy and fairness? Mr. Ferguson. How can the-- Mr. Moore. How often are the denials reviewed? Sorry, maybe I said it wrong. I don't know. Mr. Ferguson. How often? Over the course of Fiscal Year 2024, we had approximately 10,000 requests for review of denials--or excuse me. Let me make sure I have the numbers right on that. Eighteen thousand was the number, 18,500 requests for review on denials. Out of those, 10,000 were sustained and approximately 3,000 were overturned. Mr. Moore. OK. Of the 116,578 denials in 2023, how many denials involved confirmed criminal activity versus administrative or technical errors? Mr. Ferguson. For the 2023 numbers, I don't have that in front of me, but I can get a report for you, sir. Mr. Moore. Do you have any idea what the percentage maybe were technical errors or possible administrative issues? Mr. Ferguson. Across the board for the years past, we've had a very small percentage of those because, as you're aware, the background check is a biographic search. There are occasions where there will be matching numbers or somewhat close numbers for Social Security numbers or names that will be a match, and there will be a denial based on that process. Mr. Moore. So, what steps are taken to address the wrongful denials and to clear individuals that may be unjustly flagged? Mr. Ferguson. So, we're very adamant that we need to make sure that we are working with providing that customer service and that value to those individuals who have been denied. We work every single day, generally speaking, with individuals who contact us. We have a tip line that they can call and talk to us about a denial. Then we'll walk them through the process to where we give them what we call the voluntary appeals file. We'll give them a PIN. So, in the event that this ever happens in the future, they'll have a PIN so they can give the PIN to the Federal firearms licensee so that they will not be denied anymore, unless there's, obviously, another issue down the road. Mr. Moore. How do you ensure that law-abiding citizens are not improperly denied their Second Amendment rights? Mr. Ferguson. We continue to--we have a quality assurance program that we use within the NICS section to make sure that we're getting it right. We take a sampling of all of the transactions that come in, and we have a pretty robust QA program that looks at that. What we do is, if we find discrepancies, we'll work with the individuals who attempted to purchase the firearm to get them through that discrepancy. We also learn from that. We use that for our training to train our people to make sure that we're getting it right. I'm very proud of the fact that, over the last 35 months, actually, we have hit our immediate determination rate of 90 percent or better over the last 35 months. What that means is, within the first 15-30 minutes of a person standing at a gun counter, over 90 percent of the time, we're able to make an adjudication right there at that moment and allow them to either purchase if they're not prohibited or deny it if it's a prohibited person. Mr. Moore. What happens if you don't make the adjudication within 30 minutes while they're waiting there at their Ace Hardware, or whatever it is, to buy shotgun? What happens? Mr. Ferguson. So, generally speaking, what happens is that the remainder of those will be transferred over to the NICS section where we have legal instrument examiners who are looking at those as they're coming in. We adjudicate the majority of those within 30 minutes of receiving those if we can, and then the remainder of those may be delayed because we have to try to get some more records. One of the issues we're having in a lot of different States is we'll have dispositions that aren't entered into the system, so we'll see a person that's been arrested for a particular crime that may be prohibiting, but there's no disposition. So, we're not really sure if that person is prohibited or not. What we're having to do--that's an example. What we're having to do at that point is we have to delay, and we have to contact that law enforcement agency or court system and request those records to make sure the person is lawfully able to purchase a firearm. Mr. Moore. My understanding is, if you don't get an answer within three days, they're required to sell you the firearm. Is that correct? Mr. Ferguson. Yes, sir, that's correct, according to the provisions of the Brady Handgun Act. Mr. Moore. OK. Mr. Ferguson. They're authorized to; the FFLs are allowed to, yes. Mr. Moore. Got you. OK. With that, Mr. Chair, I'll yield back. Thank you. Mr. Biggs. Thank you. The Chair now recognizes the gentleman from California, Mr. Kiley. Mr. Kiley. Good morning, Director. There's been some confusion about the methodology behind the calculation of the crime rate and the reporting statistics. I want to try and clear a few things up. So, typically, I believe you testified that the jurisdictions that report sort of voluntarily make up 80 percent of jurisdictions reported. Is that right? Mr. Ferguson. For the law enforcement agencies that cover. For this year, 83 percent of the law enforcement agencies, covering 94 percent of the population. Mr. Kiley. OK. Your usual methodology to fill in the gaps is you use the existing data to identify comparable jurisdictions to the missing jurisdictions, and then use that to come up with an overall holistic estimate. Is that right? Mr. Ferguson. Yes. I apologize; I'm not a statistician, but, yes, that's--at a high level, yes, that's what we're doing. Mr. Kiley. The problem, in 2021-2022, you said you only had 65 percent of jurisdictions report, and from a statistical point of view, that wasn't sufficient to then use your typical methodology to fill in the gaps with the like jurisdiction comparison? Mr. Ferguson. Yes, sir. Mr. Kiley. Is that right? Mr. Ferguson. Yes, sir, that's correct. Mr. Kiley. Then, to reach that threshold, you went out and manually collected statistics from jurisdictions that hadn't voluntarily reported. Is that right? Mr. Ferguson. We collected data from the agencies that had not transitioned to NIBRS yet. Mr. Kiley. Right. So, then you kept doing that until you had enough data overall to use your typical jurisdiction estimation method to come up with a nationwide estimate. Is that right? Mr. Ferguson. Yes, sir. Mr. Kiley. OK. What did the--and you're claiming that then that number, based on (A) those reported voluntarily; (B) those you manually collected; and (C) the estimates you came up with from the jurisdictions that were still missing, that this comprised the 1.2 percent decline or whatever it was. Is that right? Mr. Ferguson. That is correct. Mr. Kiley. What does this manual collection process look like? I guess that's what I'm curious about. Mr. Ferguson. Essentially, what we're doing is we're going to the, for lack of a better term, the CompStats; for instance, Chicago as an example has a CompStat that's available, publicly available information that shows their crime data. We would go to there and collect that data for that time period from those jurisdictions. Mr. Kiley. Do you know what percent that hadn't initially reported then reported in response to those inquiries? Mr. Ferguson. What percentage we used, the manual percentage? Mr. Kiley. Yes. How much was still missing is what I'm asking? Mr. Ferguson. We collected an additional, approximately, 14 percent, so that got us up to about 78-79 percent of data that we had collected from the law enforcement agencies. Mr. Kiley. OK, did you contact everyone of all the missing jurisdictions, or how do you go back deciding who to manually collect? Mr. Ferguson. We definitely wanted to make sure that we hit the most in-population cities. As I mentioned before, the cities like Phoenix, Chicago--not Chicago--Phoenix, New York, I think Chicago is one of them, so we went to the most in- population cities to gather that data. Mr. Kiley. When you did that, did they all say, ``Oh, sorry, we forgot; here's the data,'' or did some still not provide it? How did that go? Mr. Ferguson. No, we didn't have any issues collecting that data. It was manually sourced, and it was publicly available. Mr. Kiley. It was manually sourced and publicly--so what does that mean? Mr. Ferguson. That just means we went out and got it. We didn't ingest it into the system. We went out physically, got it manually--or we went out and got it from the agencies, and then it was publicly available. Mr. Kiley. The agencies had already published the data; they just hadn't bothered to send it to the FBI? Mr. Ferguson. The issue with 2021 was that it was a NIBRS- only collection. So, those cities were the ones that were still using the old SRS process and had not transitioned to NIBRS yet. Mr. Kiley. It seems to me like there's a lot of opportunities for statistical bias to creep in here based on who you decided to ask for it, based on who decided to hand it over. Then, not only is that manually collected data then going into the numbers, but it's being used as the basis to extrapolate the numbers for other jurisdictions. So, you had never done this before. Have the statisticians assured you this was statistically sound? Do you understand why we have questions? Mr. Ferguson. That is correct. We have some tremendous professional data scientists and statisticians that work in the UCR program that do phenomenal work. Mr. Kiley. Uh-huh. Mr. Ferguson. I would absolutely say that this got us to a statistically significant level of response to be able to show that crime trend. Mr. Kiley. Because it seems odd that you had the automatic update that actually shows crime went up, but then when you manually corrected it, it shows it went down. Actually, some of the missing jurisdictions were L.A. and San Francisco, some very high-crime areas. Why do you think there was that change in the directionality of the crime rate? Mr. Ferguson. I'm not sure that I understand your question. Just to reiterate, what is being shown now, what you can see now in this system does not contain that manually sourced data, which is the reason why it appears they're too low, because the jurisdictions that did not provide NIBRS data and is not included in that dataset right here. Mr. Kiley. So, when President Joe Biden came out and said there was a record decline in crime, do you think that was correct? Mr. Ferguson. I would have to go back and take a look at the crime trends from the previous several years as to whether or not that would--that our report was reporting historically low crimes. I'm not certain about that. I would have to go back and look at the report. Mr. Kiley. At the very least, the report only talks about reported crimes, right? Mr. Biggs. The gentleman's time has expired. Mr. Kiley. So, it wouldn't account for in areas like--well, throughout my State of California, where a lot of crime is unreported, that wouldn't be baked into your report, correct? Mr. Ferguson. Yes, sir, that's correct. Mr. Kiley. My time has expired. I yield back. Mr. Biggs. The gentleman's time has expired. Thank you. The Chair now recognizes the gentleman from South Carolina, Mr. Fry. Mr. Fry. Thank you, Mr. Chair. Great to be here. I'm going to follow in the same vein. I think that methodology is really important here. Americans want and expect to have accurate data to make sure that it's accurate, and the concern that we've seen up here today is that the data was publicly heralded by the Biden Administration as a drop in violent crime nationwide. Of course, when you revised it, it turned out to be not so true, but it was only because of sourcing it or finding it yourself. There wasn't a press release about it. I just think accuracy is important, and I worry about the methodology. I wanted to drill down into some of the methodologies. When you compile this data on a particular jurisdiction, you look at either publicly sourced information or reporting. Is that right? Mr. Ferguson. Are you referring to the 2021 data? Mr. Fry. Any set of data, when you're compiling a yearly assessment of crime, violent crime, you look at your publicly sourced information about violent crime in that jurisdiction or a self-reporting from that jurisdiction, correct? Mr. Ferguson. We do not use publicly sourced, manually sourced data during the typical Crime in the Nation reporting. We use what is reported to us from the law enforcement agencies. Mr. Fry. OK. When you are compiling the statistics about it, not just the raw data, you look at the population of the jurisdiction too? Mr. Ferguson. We do, correct. Mr. Fry. OK. So, if there's one violent crime and there's a thousand people that live in that jurisdiction, how is that rectified in your report? Mr. Ferguson. I would have to go back and take a look at the report. I apologize. Again, I'm not a statistician. Mr. Fry. Correct. Mr. Ferguson. I can tell you the report does show the offense compared to the number of people within that population. Mr. Fry. All right. So, hypothetically--I'm going to give you a hypothetical just because I want to understand how this is compiled. If there's a town of a thousand people and they have a giant music festival and there's crimes that are committed at that music festival, it would be logged in as a crime in that jurisdiction. Is that correct? Mr. Ferguson. Yes, sir, that's correct. Mr. Fry. Despite the fact that it was maybe--and, again, it's totally hypothetical. There's no town to this. If a thousand people said they have 20,000 people for a music concert once a year, if there were crimes that were committed in that jurisdiction, that would be reported? Mr. Ferguson. That's correct. Mr. Fry. That necessarily wouldn't be accurate, correct? That's not the town violent crime overall. It's just this one isolated event. Is that fair to say? Mr. Ferguson. I think that's a great point, and we try to take a look for if we notice any anomalies based on previous years reporting, as an example, that would be 9/11, we would have reported that the almost 3,000 individuals who were--that was basically a homicide in the city of New York. Mr. Fry. Right. Mr. Ferguson. We would have separated those from the crime reporting to make sure that we didn't unnecessarily skew numbers based on anomalies such as that. Those are rare, but on occasion, I will say, yes, we have seen some anomalies in the past based on that. Mr. Fry. What would you say--so, for me, the interesting thing, does this data count in any which way for events such as that or maybe even transient populations? Mr. Ferguson. To the best that we're able to do so, we do. The reason that we stop the collection, or we say April 1st is our deadline because we want to have that entire time between April 1st and when we publish the report in September/October timeframe to work with those jurisdictions and those agencies to make sure, if there's anomalies, that we can have those conversations, but again, those are generally pretty rare. Mr. Fry. How do you account for jurisdictions--tourism- related jurisdictions in Florida, the Carolinas, and Georgia, who have maybe 20,000-30,000 full-time residents, but, in the summertime, you're swelling to 100,000 a week? Mr. Ferguson. Yes. That's a great question, and I think that goes back to the work that we do collaborating with those local law enforcement agencies and the State agencies to make sure that we're trying to get it right, as right as we can. Mr. Fry. Well, I would hope that in the future that this happens, because that does actually happen, that jurisdictions--if you look at tourism-related jurisdictions, a lot of them, the numbers seem very disproportionate to the rest of the country. You take a city of 20,000 or 30,000 people, full-time residents, but you swell them to a half a million on any given week in the summertime or whenever their peak season is, it doesn't tell the full truth; does it? Mr. Ferguson. I would say that there would probably be some anomalies in there, yes. Mr. Fry. OK. Well, I would hope that, in the future, the FBI would look at that, and it's just a critique of how these things are computed, because I don't think that it tells the full story when you're looking at the jurisdictions that have seasonal destination populations. With that, Mr. Chair, I yield back. Thank you. Mr. Biggs. The gentleman yields. I now recognize myself for five minutes. So, the NIBRS estimation methodology approximates what the expected value would be for missing data. Is that right? Mr. Ferguson. Yes, sir, that's correct. Mr. Biggs. The FBI concedes that the estimates themselves are subject to levels of uncertainty caused by incomplete NIBRS reporting, right? Mr. Ferguson. Yes, sir. Mr. Biggs. You've mentioned anomalies here. So, if an agency only reports partial data to the FBI, the methodology will, quote, Identify an agency that matches an agency characteristics and has the closest number of total incidents among agencies with matching characteristics. So, essentially you're forcing a regression to the mean, right? Mr. Ferguson. So, in the event that--what I would say, first, what we would try to do is to work through the local law enforcement agency that did not submit data. Mr. Biggs. You're regressing to the mean. That's just the way that you're estimating. You are regressing to the mean. That's what a statistician would tell you. You're trying to regress to the mean, which means that you're boxing out the anomalies that you just talked about, which means that, if you have a jurisdiction that has a no-arrest policy and literally does not make an arrest, or they make an arrest, hold them in jail overnight, and discharge the person without further prosecution, you have anomalies. Is that not true? Mr. Ferguson. I'm not sure how the local jurisdiction would report that, but yes, sir, that could be--that could possibly be true. Mr. Biggs. So, the reason I mention that is because, originally, when you guys did this and you didn't get the reporting from L.A., for instance, and L.A. was having massive amounts of people come in, and they raised the amount of money you could actually steal from a store before they would actually even arrest or investigate, those are anomalies because those are crimes. They're not prosecuted, and they're not charged. Right? Mr. Ferguson. So, it would be hard for me to--it would be hard for me to answer a hypothetical on that, but what I would-- Mr. Biggs. That's not hypothetical. We all saw it on the news. I know, Mr. Ferguson, you saw it on the news just like I did. I know, in my own State, we have a city of about a half a million people that says, ``Look, you know, you can--unless it's a shoplift of over $2,500, we're not coming.'' That's a crime, right? It then becomes an unreported crime. So, what I'm trying to get at here is the data that you are putting together, because it is voluntary and because it remains open to the providers of the information--not you guys because you're taking whatever information you have, and you're making a static determination: OK, they reported this; this is what's in there, or they didn't report it and we're going to do one of two things. We're going to go on the internet and see if they've put something publicly like Phoenix does. Phoenix puts its crime data publicly. You guys are going to take that and incorporate that into your--I can't remember what you called, like, the hand sorting or where you guys go out, right? That's a fair statement, right? Mr. Ferguson. That was the only one time that we did that was in-- Mr. Biggs. So, you've never done that since then. Mr. Ferguson. That's correct. Mr. Biggs. So, if they don't actually respond, now you just-- Mr. Ferguson. We will do one of two things. We will work with the law enforcement agency, reach out to the law enforcement agency to try to attempt to get that information if there's missing data, or we'll apply the traditional NIBRS estimation. Mr. Biggs. Which is where you're saying, Well, Phoenix is a little bit bigger than Houston maybe, and Houston's numbers are this, similarly situated. They both have high illegal migrant populations rolling through them, so we're going to say that maybe Phoenix would have roughly the same amount. Is that fair? Mr. Ferguson. That sounds to be a fair statement. Mr. Biggs. So, this is the problem that we may be having on our side is that this doesn't sound like something I would rely on, because Phoenix is very different than Houston. Phoenix has, like Houston, literally thousands of drop houses for illegal aliens coming through, thousands, and they commit crimes, but they're not reported necessarily. That vacuum leaves a hole in the statistical data where the statistical data set that you guys are relaying on a data set that's reported to you. I get that. What happens is it may not be accurately reflecting that municipality, that jurisdiction's crime rate. Mr. Ferguson. I probably should do a little bit of clarification there. To your point, I understand--completely understand the angst with regard to these numbers. They're not perfect. They probably never will be, but I will say--I would like to highlight the fact that we did have 94 percent of the population covered this year, but I would say that-- Mr. Biggs. Yes, but you had 94 percent of the population self-reporting. As the Disraeli said, ``There are three kinds of lies. There's lies, damn lies, and statistics.'' If you were self-reporting, I can self-report that I'm 6,4", weigh 180 pounds, and I'm chiseled stone, but that's garbage in. When you put garbage in, you get garbage out. That's the issue that I think that we're having here. Not to say that you guys are committing garbage, but you get information that you're relying on people who are incentivized, quite frankly, to skew the data they are providing to you and to the public. We have found that out as we've looked at other jurisdictions. The Chair recognizes now Ms. Lee from Florida for five minutes. Ms. Lee. Thank you, Mr. Chair, and thank you for being here today. I would like to discuss some of the broader crime trends that we have been seeing over the last few years. I was reviewing the website of the Bureau and the Crime Data Explorer, and it specifically references 2023 numbers and suggests that, in all categories except for one, that in categories of murder, rape, burglary, and other things, that violent crime is down really in all respects except for motor vehicle theft. What I was interested in discussing today was a little bit of a broader timeline, specifically going back to look at the time period of 2020 to the present. It's correct, is it not, that the rate of many of these violent crimes, if examined from 2020 to present, is actually going up. Mr. Ferguson. I apologize; I don't have the report here in front of me, and I don't want to testify to the fact that I haven't seen it--or I don't have it in front of me here, and I can testify to that, but we do provide those rates for that time period, for that report; that's correct. Ms. Lee. OK. So, it wouldn't be something that you were prepared to testify about here today if I were to tell you that, over that span of time, the incidents of rape have actually gone up. Is that right? Mr. Ferguson. I think that there was a time period within the definition of ``rape'' that might have changed within the UCR program, and I'd have to go back, and I can certainly get you an answer on that. I'm not sure if some of those were double counted by the agencies based on the definition of ``rape,'' but I can certainly get that information for you. Ms. Lee. Well, that actually touches on another question that I wanted to ask you. In these materials there that are providing for the public information about the increases or decreases in crimes, I see that there is a ``rape'' referred to as revised definition and ``rape'' legacy definition. Are you familiar with the distinction between the revised definition and the legacy definition? Mr. Ferguson. I am familiar that there was a change in the ``rape'' definition. I would have to go back and take a look at exactly what that definition is. When the change came about, it was publicized to all our law enforcement agencies so that, whenever it was captured in the statistics, that it would capture accurately. Ms. Lee. Now, and it's also true, is it not, that, in compiling these statistics and preparing these reports and sharing with the public, you rely on accurate reporting from State and local law enforcement agencies about incidents of these types of crimes and their areas. Mr. Ferguson. Yes, ma'am. Ms. Lee. So, if you were not getting full and complete information from State and local law enforcement agencies, then it would be impossible for you to accurately prepare a compilation number of violent crime trends across the United States of America. Mr. Ferguson. If they did not report that, that would be correct. We would not be able to provide that national trend for accuracy. Ms. Lee. So, tell us what you are doing to ensure. Do you have any sort of audit, any sort of review, or any sort of verification process to develop a comfort level for yourself that you're getting full and complete information from municipalities and States to prepare this data? Mr. Ferguson. That's a great question. Thank you for that. So, we are obviously relying on the municipalities to provide that information to us. What I can say is a couple of things. One is that we use technology to see if there's any anomalies. If something is significantly off, it will alert one of the statisticians to take a look at that, to contact that local jurisdiction to say, Hey, either your numbers for hate crime look like they're way up; they look like they're way down, and you didn't report anything in June, July, and August. Is this right? Do we want to work through that process? In addition to that, we also have a quality assurance program within our statisticians and, again, relying on the data that we received from our law enforcement partners. So, we do the QA internally. In addition to that, we have a two-week time period where we notify the law enforcement agencies that, ``This is the numbers that we have for you; please go in and QA and verify.'' Ms. Lee. Verify that it's right. Thank you, Mr. Ferguson. I yield the balance of my time to the Chair. Mr. Biggs. I yield that time, if possible, to Chair Jordan. Chair Jordan. Thank you, Mr. Chair. I want to go back to this manual collection. Did the manual collection that you've talked about a lot, did that change the violent crime statistics? Did that change the number you had? Mr. Ferguson. That would have changed the numbers because it would have obviously added an additional 18 percent of the population. Chair Jordan. Did it change it--how did it change it? Did it make the violent crime numbers go down or go up? Mr. Ferguson. It would have made the violent crime numbers go down, because what you're seeing in the report now, if you looked at the report, which is where the issue comes in with the 4.5 percent increase, if we didn't use that manual inner data that we went out and got from those law enforcement agencies, then you would see that percentage of increase. So, because we went out and manually sourced that crime data-- Chair Jordan. Do you always go out and do this manual collection? Does that happen every single year? Mr. Ferguson. No, sir. That is the only time we've ever done that. Chair Jordan. So, the only time you ever have done it resulted in what was reported as violent crime going up; actually, you reported it as violent crime going down. Mr. Ferguson. With the numbers that we had, the data set that we had, it reported that violent crime was going down. Chair Jordan. You've never done that before. Mr. Ferguson. No, sir. Chair Jordan. I find that interesting. Right? You've never done it before, but this time, oh, violent crime went up. We are going to go do something we have never done before, and as a result of that, violent crime went down. Shazam, we can report that, and that gets you in the political context during the debate and everything else. You find that interesting? Mr. Ferguson. What I will say is that we--our desire in the CJIS Division is to get it right and get the information out there to the public for whatever use they need and our desire to try to make sure that we had a statistically significant number to create those trends. Unfortunately, no good deed goes unpunished, and we're trying to-- Chair Jordan. Well, in years prior, when you didn't go do the manual, what was the reporting percent coming in? Was it much higher, or was it relatively the same as it was in this particular year? Mr. Ferguson. I would have to go back and look. I would say it is relatively the same when we had the--because we had 78 percent of the population covered, I believe it was 78 percent of the population covered with a 2021 data set, I would say relatively the same. Chair Jordan. So, if it was the same, why did you do it? Why did you do it this for this particular year when you reported it four weeks before the election? Mr. Ferguson. I'm sorry, let me clarify. Had we not manually sourced that data to get up to 70 percent of the population covered, we would have only had 65 percent or less of the population covered, and when we looked at that, we said we wanted to make sure that we're providing the most information that we can, and we recognize these agencies did not submit data. So, we want to go out and get this-- Chair Jordan. What's the lowest number you've ever went with in other years? Was it close to the 60-some percent? Mr. Ferguson. I apologize. I do not know the answer to that question, but I would say 65 percent in my estimation is not statistically significant. Mr. Chair Jordan. I appreciate the Chair. I just think it's interesting hat the one-year that they go do something that they've never done before happens to be the year that it's going to get reported four weeks before an election, and it changes the outcome. That's sort of the whole point. I yield back. Mr. Biggs. Thanks, Mr. Chair. The Chair now recognizes the gentleman from Georgia, Mr. Johnson, for his five minutes. Mr. Johnson. Thank you, Mr. Chair. Acting Assistant Director Tim Ferguson, thank you for coming to talk to us today. You lead a large and important workforce of more than 3,000 employees and contractors, and you have a distinguished career in which you served in various capacities with the FBI for more than 22 years, including Chief of the Digital Forensics and Analytics Section and Chief of the Field Operation Section. Thank you for your service, sir. Mr. Ferguson. Thank you. Mr. Johnson. We should be commending you for all the work that your division does to keep Americans safe 24 hours a day, seven days a week, including managing the FBI's tip lines, conducting background checks for firearm purchases, and maintaining robust databases for information sharing. Instead, regrettably, MAGA Republicans called you here to drag you through the mud over a conspiracy theory because manually input data was pulled into one data table, but not another. They are ignoring the bottom line that your most complete data set shows that reported crime decreased from 2021-2022, and this is why I want to spend the rest of my time talking about the excellent work that your division does and how your division helped bring crime levels down. Acting Assistant Director Ferguson, can you discuss any recent initiatives or projects undertaken by the Criminal Justice Information Services Division that had a significant impact on the law enforcement community? Mr. Ferguson. Yes, sir. Thank you very much for that question. Beginning of February of this year, in an effort to continue the increase in information sharing from the CJIS division and the tips that we receive to our law enforcement partners, we began a new initiative where we are sharing tips that we received directly with State and local law enforcement agencies. This is something that's new and innovative within the CJIS division, and it's actually thanks to the work that the NICS section did with regard to ZIP code mapping for the implementation of the NICS Denial Notification Act. We were able to use that and with our National Threat Operations Section and use that ZIP code mapping to be able to send tips directly to State and local partners. So, we don't have to rely on sending it to the field office and the field office sending it to the local law enforcement partners. We can send it directly to our law enforcement partners. Mr. Johnson. That's great. The National Crime Information Center is a vital crime data system available to law enforcement agencies at all hours of the day and night, and it contains over 18.4 million records. Assistant Director Ferguson, how does the NCIC support information sharing and communication between law enforcement agencies at the national level? Mr. Ferguson. What a phenomenal system that that is, the National Crime Information Center and the work that the CJIS Division staff does on implementing the processes within NCIC, updating NCIC. It contains 22 separate files. We have over 10 million hits per day. In other words, 10 million inquiries per day from law enforcement, and it is absolutely a lifeline, especially when it comes to officer safety, because within NCIC is the Wants and Warrants file. So, if an individual is pulled over or is encountered by law enforcement and that person has a warrant, or has violent tendencies, that officer is made aware of that, and it makes those officers safe. Right now, we're probably going to hit one of our historic highs for the number of officers that have been killed in the line of duty this year, and NCIC saves lives of those officers on the street. Mr. Johnson. Thank you. Reducing gun violence is very important. Just yesterday, another community was shaken by gun violence when a student killed two people and injured six others at her Wisconsin school. In Philadelphia, last weekend, dozens of people were shot, and four died. We combat this scourge in part by conducting thorough background checks before allowing people to purchase firearms. Acting Assistant Director Ferguson, how does the NCIS collaborate with Federal, State, and local agencies to ensure the completeness and accuracy of firearm background check information, and how has the NCIS evolved over time to enhance the efficiency and accuracy of background checks? Mr. Ferguson. That's a great question, and I don't think I have time to answer it completely, but what I will say is that the NICS section, I'm appreciative of the legislative body here for the support that they provided to the NICS section for the resources that we have. As a result of that, we are able to automate quite a bit of the services that we provide. As I mentioned before, we have a 90 percent immediate determination rate for the last 35 months, 90 plus percent for the last 35 months to be able to make that determination within the first 15-30 minutes of a person being at the gun counter being able to provide that service, that value to the community. Again, the automation methods that we're working through, we just have an amazing team of folks over in NICS that are committed to protecting the Second Amendment and protecting the American people. Mr. Biggs. Gentleman's time is expired. Thank you. I have an article I want to admit to the record by unanimous consent: ``FBI Quietly Revises Violent Crime Stats,'' dated October 16, 2024. Without objection, so ordered. Mr. Biggs. That concludes today's hearing. Thank you Assistant--excuse me, Assistant Director Ferguson. Are you Assistant Director? Mr. Ferguson. Acting-- Mr. Biggs. Acting Director. Mr. Ferguson. Acting Assistant Director, yes, sir. Mr. Biggs. OK. Well. Thank you for being here today, Mr. Ferguson. With that, we're going to adjourn.  All materials submitted for the record by Members of the Sub- committee on Crime and Federal Government Surveillance can be found at: https://docs.house.gov/Committee/Calendar/ByEvent .aspx?EventID=117762. 
+OVERSIGHT OF THE CRIMINAL JUSTICE INFORMATION SERVICES (CJIS) DIVISION
+----------
+Tuesday, December 17, 2024
+House of Representatives
+Subcommittee on Crime and Federal Government Surveillance
+Committee on the Judiciary
+Washington, DC
+The Subcommittee met, pursuant to notice, at 10:29 a.m., in
+Room 2141, Rayburn House Office Building, the Hon. Andy Biggs
+ presiding.
+Present: Representatives Biggs, Tiffany, Nehls, Moore,
+Kiley, Lee, Fry, McBath, Johnson, and Garcia.
+Also present: Representative Lee Carter.
+Mr. Biggs. The Subcommittee will come to order.
+Without objection, the Chair is authorized to declare a
+recess at any time.
+We welcome everyone to today's hearing on Oversight of the
+Criminal Justice Information Services Division of the FBI.
+I now recognize the gentleman from Alabama, Mr. Moore, to
+lead us in the pledge of allegiance.
+All. I pledge allegiance to the Flag of the United States
+of America, and to the Republic for which it stands, one
+Nation, under God, indivisible, with liberty and justice for
+all.
+Mr. Biggs. Thank you, Mr. Moore.
+I now recognize Ms. McBath to introduce us into a moment of
+silence.
+Ms. McBath. Thank you, Mr. Chair.
+Gun violence has ripped apart another community and
+traumatized more students in their place of learning. Just
+yesterday, another teacher and another teenager lost their
+lives, and children lost their sense of security to preventable
+gun violence. We have the tools, and we have the means to stop
+these horrors and help stop this from happening.
+With the permission of the Chair, I ask all of you to
+please join me in a moment of silence.
+Mr. Biggs. All of you please join us in a respectful moment
+of silence.
+
+Mr. Biggs. Thank you.
+I now recognize myself for an opening statement.
+We welcome everyone to today's hearing on Oversight of the
+Criminal Justice Information Services Division of the FBI.
+The CJIS was created in 1992 with the purpose of serving as
+a central operating system and location for Criminal Justice
+Information Services. The CJIS Division provides support to law
+enforcement, national security partners, and the intelligence
+community, while also offering some services to the public.
+These functions include the Uniform Crime Reporting system as
+well as the National Instant Criminal Background Check System;
+so, that's UCR and NICS.
+With a 986-acre campus in Clarksburg, West Virginia, with
+more than 3,000 employees and contractors, CJIS is the largest
+division in the FBI. Since 1930, the FBI has collected and
+published crime data through its UCR program. The UCR program
+compiles crime data submitted by State and local law
+enforcement agencies across the country and publishes the
+information in annual reports. More than 18,000 city, county,
+State, Tribal, and Federal law enforcement agencies reported
+crime data to the FBI in 2023.
+However, the submission of crime data to the FBI is
+voluntary. According to one estimate, over 30 percent of police
+departments nationwide did not report crime data to the FBI.
+The crime data published by the FBI's UCR program helps inform
+policymakers and the public about the State of crime in the
+United States.
+The crime data also plays an important role in how Federal
+grant dollars are allocated to State and local jurisdictions.
+For example, the Edward Byrne Memorial Justice Assistance
+Grant, the JAG program, which is managed by the Bureau of
+Justice Assistance at the Department of Justice, allocates
+Federal grant dollars to State and local jurisdictions based on
+the population of the jurisdiction and the number of violent
+crimes reported to the FBI.
+In January 2021, the FBI retired the outdated Summary
+Reporting System, SRS, and made the National Incident-Based
+Reporting System, NIBRS, the only method for law enforcement
+agencies to report crime data to the FBI. The NIBRS program
+allows law enforcement agencies to report much more detailed
+crime data, such as the date and time of the crime, the
+relationship between victim and offender, drug types and
+quantities, specific property involved in the crime, and many
+other data points. The data that gets submitted to NIBRS also
+includes assaults on law enforcement officers and hate crimes.
+In 2022, there were 19,139 law enforcement agencies
+enrolled in the program, but only 12,725 of them reported crime
+data. The FBI has been estimating crime data since 1960, but in
+2017, the Justice Department's Bureau of Justice Statistics and
+the FBI worked together to develop the NIBRS estimation
+project. When an agency fails to submit crime data, whether for
+a single month or an entire year, the NIBRS estimation
+methodology quote, ``approximates what the expected value would
+be for that missing data.''
+The FBI concedes that the estimates themselves are subject
+to levels of uncertainty caused by incomplete NIBRS reporting,
+which brings us to one of the topics that we will surely
+explore today.
+In September 2023, the FBI released UCR data purporting to
+show a 2.1 percent decrease in violent crime across the country
+from 2021-2022. That was touted in virtually every hearing by
+my colleagues across the aisle, that there had been this
+remarkable decrease in violent crime under the Biden
+Administration. At some point between September-October 2024,
+the FBI revised its 2022 data to show that violent crime had
+actually increased by 4.5 percent from 2021. The FBI did not
+publicize its revision of 2022 violent crime data, and the only
+way you could see this change was to download the FBI's updated
+crime data and compare it to the previous year. The FBI instead
+disclosed the revision in a footnote to its 2023 UCR Crime in
+the Nation's survey, which stated the original 2022 numbers had
+been updated. This update included thousands of murders, rapes,
+and other violent crimes that were originally omitted from the
+FBI's crime data. The FBI did not mention the significant data
+revision in its September 2024 press release about violent
+crime data for 2023.
+The FBI's revision of violent crime data confirms what the
+Committee's oversight has shown. The Biden-Harris crime
+epidemic continues to escalate and far-left State and local
+policymakers place the interests of criminals over the needs of
+their communities. Radical procriminal policies, including
+defunding the police, bail reform, make it harder to put
+violent offenders behind bars and keep them out of American
+neighborhoods.
+While the Biden-Harris Administration claims that crime is
+down, a reported 40 percent of Americans said in 2023 that they
+are afraid to walk alone at night even within very close
+proximity of their home. That's the highest percentage in 30
+years.
+The initial 2022 data, before it was corrected, was
+heralded as historic declines in the crime rate. Despite having
+the true data, the FBI never issued a clarification where the
+incorrect statistics were used to push a false narrative. Media
+even used the incorrect data to fact-check President-elect
+Trump's correct assertion at the time that violent crime had
+risen during the Biden-Harris Administration.
+While there may be an innocent and reasonable explanation
+for this revision and lack of reporting the revision, there's
+nonetheless an appearance of partisanship in what went on here.
+It is not unlike what happened with the Hunter Biden laptop
+where 51 people were out there saying it looked like Russian
+disinformation, and the FBI remained mute instead of actually
+revealing that the Hunter Biden laptop was true, which they
+knew over a year before they ever released that.
+I hope today's hearing helps us clarify what exactly
+happened here, and I hope it doesn't happen again.
+With that, I'm going to yield back and recognize the
+Ranking Member, Ms. McBath, for an opening statement.
+Ms. McBath. Thank you, Mr. Chair.
+I would like to take a moment of privilege to welcome our
+colleague, Congresswoman Erica Lee Carter. It's an honor to
+have her with us today to observe and to serve with us, and we
+are really very proud of the legacy that you continue to carry
+on behalf of our dear colleague Representative Sheila Jackson
+Lee. Welcome.
+The FBI's Criminal Justice Information Services Division,
+known as CJIS, is an information hub that provides a range of
+tools and services to law enforcement, national security
+partners, and the general public. It facilitates background
+checks on prospective firearms purchasers, compiles criminal
+history reports of suspects, and maintains fingerprint
+databases, playing an essential role in supporting law
+enforcement and helping to keep Americans safe.
+I am pleased to welcome CJIS' Acting Director, Timothy
+Ferguson, here with us today, and I look forward to hearing
+from him about what Congress can do to best assist CJIS with
+the services that it provides to law enforcement and the
+American public.
+To the extent my Republican colleagues want to spend their
+time today discussing uniform crime data reporting about the
+year 2021, I would urge them to work with us to reconsider
+their focus. We are now at the end of 2024. While we know that
+data shows that the violent crime rate has been dropping
+nationwide for several years, there is more that we must do to
+fight violence in this country.
+Violent crime is not a partisan issue for me. It is deeply
+personal. Gun violence and hatred took my son Jordan from me 12
+years ago. I vowed that his death would not be in vain and have
+devoted every minute of my life to working to prevent other
+parents from joining this ever-growing club of parents who have
+lost their children to preventable gun violence. This year,
+firearms have been responsible for the loss of nearly 16,000
+American lives, and yet another mass shooting at a K-12 school
+just yesterday.
+That is why I am particularly interested in hearing from
+Mr. Ferguson about CJIS' role in maintaining the National
+Instant Criminal Background Check System, the NIC System, and
+how that system helps to keep firearms out of the hands of
+those who are not permitted to have them.
+I also hope to hear about how CJIS has and will continue to
+implement the Bipartisan Safer Communities Act--that
+legislation was made several months ago.
+I am very, very grateful for your presence today. I hope
+that this next Congress my colleagues across the aisle will
+focus on additional legislation that will help to reduce
+violent crime even further, like banning assault weapons,
+establishing a Federal extremist protection order system,
+investing in community violence intervention programs that have
+been shown to actually reduce violence, and giving law
+enforcement the funding that they need to keep us and our
+officers and our communities safe.
+As we close out the 118th Congress, I look forward to
+hearing from Mr. Ferguson about CJIS' role in protecting the
+safety of all Americans.
+Thank you. I yield back.
+Mr. Biggs. The gentlelady yields back.
+I now recognize the Chair of the Full Committee, Mr.
+Jordan, for his opening statement.
+Chair Jordan. Thank you, Mr. Chair.
+I don't have an opening statement. We welcome the Director
+and look forward to his testimony and thank the Chair for
+putting this together.
+Mr. Biggs. Thank you, Chair Jordan.
+Without objection, Ms. Lee Carter will be permitted to
+participate in today's hearing for the purpose of questioning
+the witness if a Member yields her time for that purpose.
+We welcome you. Glad to see you here. We miss your mother,
+and she served on this Committee a long time, probably a lot
+longer than me, as I reckon it. We're certainly glad to welcome
+you here today. Thank you for being here.
+Ms. Lee Carter. Thank you.
+Mr. Biggs. Today is the last hearing that Scott Titus will
+be with us. He's been working with the Majority party on
+Judiciary for the last year or two--18 months. He's with DHS,
+HSI. He's done a great job. He's been invaluable in providing
+us with information, and helping us understand that particular
+agency.
+Scott, you'll be missed, and we wish you and your family
+the best as you go--as you leave this bubble and go back to the
+reality in Kansas City. Thank you. Thanks for being with us.
+Without objection, all other opening statements will be
+included in the record.
+We will now introduce today's witness, who is Mr. Timothy
+Ferguson. Mr. Ferguson is the Acting Assistant Director of the
+Criminal Justice Information Services Division at the Federal
+Bureau of Investigation. He's held that position since April
+2024. We welcome him and thank him for appearing today.
+We will begin by swearing you in, Mr. Ferguson, and ask
+that you please rise and raise your right hand.
+Do you swear or affirm, under penalty of perjury, that the
+testimony you're about to give is true and correct to the best
+of your knowledge, information, and belief, so help you God?
+The record will reflect the witness has answered in the
+affirmative.
+You may be seated.
+Thank you.
+Please know that your written testimony will be entered
+into the record in its entirety. Accordingly, we ask that you
+summarize your testimony. You'll have five minutes to summarize
+your testimony. There's a clock in front of you. As it begins
+to wind down, it sounds a siren, et cetera--it does not, but
+you'll see it coming to the five minutes, and that's when we
+ask you to wrap it up. I'll probably tap on this just a little
+bit, not too loud, because I don't want to mess up your flow,
+but we would like you to wrap at five minutes.
+Now, Mr. Ferguson, you're recognized for your opening
+statement.
+STATEMENT OF TIMOTHY A. FERGUSON
+Mr. Ferguson. Good morning, Chair Biggs, Ranking Member
+McBath, and the Members of the Subcommittee. Today I'm honored
+to be here representing the men and women of the Federal Bureau
+of Investigation's Criminal Justice Information Services
+Division in Clarksburg, West Virginia.
+The CJIS Division is one of the largest divisions in the
+FBI and serves a unique role that provides vital services not
+only to law enforcement and criminal justice agencies, but also
+the public we serve. Our North central West Virginia campus is
+home to thousands of employees, who are responsible for many
+public-facing programs that keep Americans safe 24 hours a day,
+seven days a week. When the public calls 1-800-CALL-FBI or
+sends a submission through tips.fbi.gov, the CJIS Division
+triages and disseminates those tips to our field offices and
+other local, State, and Federal partners. Dissemination of
+those tips saves lives.
+Our employees are making firearms eligibility
+determinations in an accurate and timely manner ensuring
+citizens are able to exercise their Second Amendment right
+while keeping weapons out of the hands of those prohibited from
+possessing them. Last year, we possessed nearly 10 million
+firearms background checks.
+We manage the National Crime Information Center, or NCIC, a
+lifeline for law enforcement, with an average of 10 million
+daily transactions. The CJIS Division also houses the Next
+Generation Identification System, a fingerprint and criminal
+history repository that contains 86 million criminal
+fingerprints and processes a daily average of 220,000 prints.
+The program celebrated its 100th anniversary this year, and for
+more than 90 years, the Uniform Crime Reporting program, or
+UCR, has been viewed as an authoritative source for
+understanding the scope of crime in the Nation. Our teams now
+work with over 19,000 law enforcement agencies to collect,
+validate, and publish that data.
+We have a no-fail mission, and I cannot be prouder of our
+workforce, our ability to manage services and systems 24/7, and
+the significant contribution we make to public and officer
+safety. Our employees serve with professionalism and integrity.
+On their behalf, I would like to express my appreciation for
+your time and interest in learning more about the CJIS
+Division.
+I would like to speak briefly about UCR and our Crime in
+the Nation reports. The UCR program collects data on crimes
+reported to law enforcement via the Summary Reporting System,
+or SRS, and the National Incident-Based Reporting System, or
+NIBRS. SRS was created in the 1920s, and NIBRS was initiated in
+the 1980s and provides more granularity in reported offenses
+than SRS, such as specific circumstances and context for
+crimes, like location, time of day, and whether the incident
+was cleared.
+In 2016, the UCR program began transitioning to a NIBRS-
+only collection with a deadline of January 1, 2021. This
+transition was recommended by law enforcement partners and
+endorsed by the CJIS Advisory Board, which comprises
+representatives from criminal justice and national security
+agencies and organizations throughout the United States,
+including the International Association of Chiefs of Police,
+the Major City Chiefs Association, and the Major County
+Sheriffs of America. During the period between 2016-2021, many
+law enforcement agencies transitioned to submitting crime
+through NIBRS while others continued to submit through SRS.
+The FBI publishes an annual report entitled ``Crime in the
+Nation'' that describes crime data submitted by law enforcement
+agencies from around the country. The publication also includes
+spreadsheets containing underlying data so users can conduct
+their own reviews and analyses.
+Each year, some of the more than 19,000 law enforcement
+agencies around the country submit incomplete or no data, and
+CJIS uses statistical methods to estimate the crime for those
+agencies to provide a comprehensive view of crime in the
+Nation. Typically, however, the agencies that contribute data
+cover more than 80 percent of the population. While a
+substantial portion of agencies around the country transitioned
+to NIBRS-only reporting by the January 2021 deadline, we
+nonetheless had gaps as numerous agencies, including some large
+agencies representing significant populations, did not submit
+data. When it came time to publish the NIBRS-only Crime in the
+Nation 2021 Annual Report in September 2022, only about 65
+percent of the population was represented by NIBRS-
+participating agencies. The UCR program was unable to apply the
+traditional estimation methods, which require a statistically
+acceptable level of participation to develop year-to-year
+national trends.
+To close that gap of missing information, the UCR program
+resumed collecting SRS in 2022. In 2023, to produce meaningful
+estimates for the two-year trend between 2021-2022, we manually
+sourced 2021 data from large agencies that did not submit NIBRS
+to supplement what was reported that year for a statistically
+acceptable level of participation and a more representative
+trend. The trend determined that reported crime decreased an
+estimated 1.7 percent from 2021-2022.
+Each Crime in the Nation report contains a table showing
+crime rates for the previous 20 years. When we released the
+Crime in the Nation 2023 report in September of this year, in
+one of the many steps we're taking to become more transparent
+with the data reporting test, we automated that 20-year table.
+This allowed the system to automatically pull data reported to
+the FBI to generate trends for all years in the table. The SRS
+data manually sourced in 2022 filled in the gaps for 2021 and
+demonstrated that the year-to-year trend was not included in
+that automation process. This meant the crime estimate for 2021
+appeared lower because it did not include the manually sourced
+crime data, and as a result, it appeared that the violent crime
+rose from 2021-2022.
+There are many intricacies when it comes to data. Please
+know the CJIS Division is dedicated to being transparent in the
+process.
+Mr. Biggs. So, if you could wrap up--I let you go for
+almost a minute extra, so--
+Mr. Ferguson. Yes, sir.
+
+
+Mr. Biggs. Thank you. Thanks, Director.
+Now, we're going to proceed under the five-minute rule with
+questions, and I recognize the gentleman from Wisconsin, Mr.
+Tiffany.
+Mr. Tiffany. Thank you, Mr. Chair.
+Director Ferguson, we see there's about 30 percent of
+municipalities are not reporting. Is that accurate?
+Mr. Ferguson. That is not an accurate statement. So, for
+2023 reporting, we had approximately 94 percent population
+coverage and 83 percent of agencies either reporting SRS or
+NIBRS to the UCR program.
+Mr. Tiffany. It wasn't that way in 2021. Is that what
+you're saying?
+Mr. Ferguson. That's correct.
+Mr. Tiffany. So, are there any large municipalities that
+are included in those that are not reporting?
+Mr. Ferguson. Most of the large in-population cities have
+transitioned to NIBRS, or we are collecting that through SRS.
+So, we are collecting the most in-population cities.
+Mr. Tiffany. Are any of them not included?
+Mr. Ferguson. Not to my knowledge.
+Mr. Tiffany. They're all included?
+Mr. Ferguson. They should all be included, the most in-
+population cities should all be included within the SRS or
+NIBRS reporting.
+Mr. Tiffany. Who's responsible within your agency for
+notifying the public of the crime data?
+Mr. Ferguson. Ultimately, the buck stops with me as the
+Acting Assistant Director for the CJIS Division.
+Mr. Tiffany. There's this press release October 16, 2023,
+``FBI Releases 2022 Crime in the Nation Statistics,'' a very
+prominent press release, but there was not a similar press
+release put out in regard to the revision that was done just
+recently.
+Why was there not a press release put out in regard to the
+revision?
+Mr. Ferguson. Sure, I appreciate the question.
+So, to be clear, we did not revise any of the data. When we
+received notification from various agencies, including news
+agencies and outlets requesting information about the 2021 data
+and why it appeared lower, that's when we were notified, what
+we understood, that the automation process did not include the
+manual data that we had put in there. As a result of that, we
+were able to update our Crime Data Explorer, which is where all
+the data is housed, and be a little bit more articulate about
+what the data shows and how--the fact it's actually missing
+data.
+Mr. Tiffany. Isn't one of the purposes of what you do to
+make sure that the public is aware if crime is going up so
+that--just from a public safety standpoint, isn't that one of
+the purposes of having this data?
+Mr. Ferguson. I would say that the main thing for us in the
+CJIS Division is that we want to make sure that we're providing
+accurate, unbiased data for individuals to make decisions off
+that data. We don't want to--
+Mr. Tiffany. If crime is going up, isn't it worthwhile for
+the public to know that?
+Mr. Ferguson. Absolutely.
+Mr. Tiffany. Why didn't you put out a press release? Why
+didn't you put out a press release saying we--regardless of the
+circumstances, you changing methodologies, stuff that you're
+using to measure crime, why wouldn't you tell the American
+public that with a prominent press release just as you did when
+you said that crime was going down and people across America
+knew it was not?
+Mr. Ferguson. So, I stand behind the 2022 report, which
+shows the information that was published in 2022 for 2021
+stats, and it's important to make sure that we're very crystal
+clear here, that we did not change any of the crime numbers for
+2021-2022. We stand beside those numbers.
+Mr. Tiffany. Professor Carl Moody at William and Mary
+College has done extensive study in regard to crime. Are you
+familiar with Professor Moody?
+Mr. Ferguson. I'm not familiar with him.
+Mr. Tiffany. He said that huge changes in--very small
+changes over the last 20 years that he's been studying crime,
+he said the huge changes, especially without an explanation,
+make it difficult to trust the FBI data.
+Is that how the public should view this, that it's very
+difficult to trust this data?
+Mr. Ferguson. I certainly understand the angst with the
+crime data, but I do want to be clear that we have no intention
+whatsoever of deceiving the American people with the numbers
+that we receive. We want to put the information out there
+unbiased for decisionmaking purposes, for legislators,
+lawmakers, policymakers, and law enforcement. Our goal is to
+make sure that we're providing information that is provided to
+us by local law enforcement in an unbiased way.
+Mr. Tiffany. Are you planning to stay with the FBI as the
+new administration comes in?
+Mr. Ferguson. Yes, sir.
+Mr. Tiffany. Do you make a commitment to work with the new
+Director or the Director designee Kash Patel?
+Mr. Ferguson. I will make a commitment, as an executive of
+the FBI, I will work with anyone that is nominated and
+confirmed by the Senate for the Director.
+Mr. Tiffany. Do you have ideas to help him make the FBI a
+better agency? We've detailed in the Judiciary Committee so
+many times the failures that have been out there, the 51 in
+regard to the Hunter Biden laptop and Catholics in Richmond,
+Virginia. It's well detailed. Do you have ideas to help Mr.
+Patel as he comes in to be the new FBI Director to make this a
+better agency that will now have the trust of the American
+people?
+Mr. Biggs. The gentleman's time has expired, but you may
+answer the question.
+Mr. Ferguson. Thank you, sir.
+My scope of employment in the CJIS Division, I certainly
+have ideas on how we can continue to improve the background
+check process, how we can improve the information shared with
+law enforcement partners, and how we can improve biometrics
+within the CJIS scope of work. I certainly have ideas on how we
+can improve the CJIS Division.
+Mr. Tiffany. I yield back, Mr. Chair.
+Mr. Biggs. The gentleman yields.
+The Chair recognizes the gentlelady from Georgia, Ms.
+McBath.
+Ms. McBath. Thank you, Mr. Chair.
+Infrastructure and funding have proven to be hurdles for
+the cities attempting to switch to the NIBRS system. How many
+cities are still struggling right now to make that switch? How
+can Congress help as they make that transition and they make
+that switch?
+Mr. Ferguson. Thank you, ma'am.
+I don't have the numbers here in front of me for the number
+of agencies that have not transitioned to NIBRS yet. What I
+will say is we do conduct extensive outreach with the agencies
+who have not transitioned to NIBRS.
+I would also like to highlight very quickly that the law
+enforcement agencies want to switch. So, incentivizing them is
+not necessary, if that makes sense, because they want to switch
+to NIBRS because they understand the value in the NIBRS program
+and the NIBRS system, and how it will be useful to the American
+public as well as to policymakers and law enforcement.
+Ms. McBath. Thank you.
+We know that the Bipartisan Safer Communities Act was very
+pivotal legislation for gun violence awareness. Among some of
+its functions it included updated language so that domestic
+violence offenses, including dating relationships, were
+included.
+How has NIBRS adjusted to include this additional
+information?
+Mr. Ferguson. So, with the NIBRS system I don't have
+specifically what the question asks with regard to the
+incident, but that would be captured within that incident. It's
+really important for us to highlight the fact that we do have
+to do extensive research and education for our law enforcement
+partners because, particularly with things with the dating
+relationships, we want to make sure that's documented in those
+offense reports, so that we can make determinations down the
+road on firearms eligibility should that come to fruition.
+Ms. McBath. OK. Thank you so much.
+I'd also like to take a point of privilege to express my
+gratitude to Jill Ginstling for her contributions to the
+Judiciary Committee. This is her last hearing with us, and Jill
+has been instrumental in supporting and furthering the work of
+the Committee in the 118th Congress both through the
+Subcommittee on Crime and her extensive involvement in the
+oversight of the Federal Government. We are forever grateful
+for the countless hours that she has dedicated to serving the
+Committee, our Members, and the country. We know that great
+things are ahead for her, and we wish her the best of luck in
+her future endeavors.
+Thank you, Jill.
+I would like to yield the balance of my time to our
+colleague, Ms. Lee Carter.
+Ms. Lee Carter. Thank you, Ranking Member McBath and Chair
+Biggs, for the opportunity to join here today.
+Thank you for all the staff who's worked so hard on this
+Committee over the years.
+It's a privilege to be a Member of the same Judiciary
+Committee--I'm the newest one--and to round out the important
+work in the 118th Congress. The critical issue of criminal
+justice and oversight of Federal agencies within this
+jurisdiction are ones my mother, the late Congresswoman Jackson
+Lee, held to the highest standards and scrutiny in ensuring
+justice, fairness, and dignity for all Americans.
+Assistant Director Ferguson, my only question is--and thank
+you all for--I really want to thank you for releasing a hate
+crime report. It's important that we acknowledge these types of
+crimes by race, by gender, and by sexual orientation.
+In my local community, Houston, we hear those stories.
+We've had a lot of attacks against transgender Black women, and
+they deserve to be heard. Their voices deserve to be
+acknowledged.
+What type of incentives have you offered to local law
+enforcement, and what have you seen as successful maybe to
+bring them along to participate in data collection?
+Mr. Ferguson. So, what I would say again, I think the value
+that we provide in the CJIS Division with our State and local
+partners is that education. Again, the value they provide to us
+is they've already been incentivized because they want this.
+The law enforcement partners want to be partners with us in
+making sure we're getting accurate crime data out so that it
+can be used across all aspects of American life, from the
+public safety to the legislative and policymaking to academia.
+So, we're constantly working with our local and State
+partners to make sure that we're educating them on what we want
+to see or what should be seen within the NIBRS report. Again,
+it's really important to know that this is something that they
+want and that they're asking for as well.
+Ms. Lee Carter. I hope we can continue to support data
+collection work.
+I yield the balance of my time. Thank you.
+Mr. Biggs. Ms. McBath, do you yield back as well?
+Ms. McBath. I yield.
+Mr. Biggs. Thank you.
+The gentlelady yields.
+The Chair now recognizes the Chair of the entire Judiciary
+Committee, Chair Jordan, the gentleman from Ohio.
+Chair Jordan. Thank you. Thank you, Mr. Chair.
+So, Director, did you lie, or did you guess?
+Mr. Ferguson. I'm sorry, sir. Can you--
+Chair Jordan. When it came to the numbers, you were off.
+You said violent crime went down, and it actually went up. I
+want to know, were you lying to the country, or were you just
+guessing?
+Mr. Ferguson. So, if you're referring to the 2021 data, I
+want to be clear that the information that we have--our most
+complete data set from the information we collected shows that
+the crime went down. So, I think when there is a question
+about--
+Chair Jordan. Oh, so you're saying you weren't lying or you
+weren't guessing; you just got it wrong?
+Mr. Ferguson. I'm sorry. I don't understand.
+Chair Jordan. Well, my understanding is you reported
+violent crime went down 2.1 percent for the year that you were
+reporting on, when in actual fact it went up 4.5 percent. You
+were off by a pretty large margin. I want to know what was the
+reason for you being off, and having to adjust that figure and
+say, ``No, no, no.'' We said--I think you even said in the
+press release it was a historic decline when in actual fact, it
+had increased.
+I want to know again what was the reason for you getting it
+wrong? Guessing, lying, or you just screwed up?
+Mr. Ferguson. I want to be clear that the report that we
+issued in 2022 that showed the decline from 2021-2022 is, in
+fact, true and accurate. What is being misinterpreted right now
+is that our automation numbers that are shown in the system now
+do not show that manually sourced data. The team really wanted
+to make sure they got it right. We only had 65 percent of the
+law enforcement agency population coverage when we got the 2021
+numbers.
+Chair Jordan. Let me ask you a simple question. Did it go
+up or down?
+Mr. Ferguson. It went down, according to the data set that
+we have.
+Chair Jordan. Then what was the number you reported that
+went up? What was that number?
+Mr. Ferguson. We did not report a number that went up.
+Chair Jordan. The footnote that said it increased 4.5
+percent; that's wrong? Something has got to be wrong because,
+on one hand, you say it went up. On the other hand, previously
+you said it went down. I mean, which one is right?
+Mr. Ferguson. I'm not familiar with the footnote that said
+that crime went up by 4.5 percent.
+Chair Jordan. The 4.5 percent increase in violent crime.
+Mr. Ferguson. I'm not familiar with that. I'll have to look
+into it.
+Chairman Jordan. You're not familiar with that? That's the
+whole reason you're here.
+Mr. Ferguson. I'm not familiar with a footnote in our
+system that says that crime--violent crime went up 4.5 percent
+in 2021-2022.
+Chair Jordan. You had to--you submitted that report. You
+said it went up 4.5 percent, and you're saying that's not true?
+Mr. Ferguson. According to the data that we have for 2021-
+2022, violent crime went down.
+Chair Jordan. Violent crime went down. Then what was the
+4.5 percent that said it went up? Where did that come from?
+Were you just making it up? The Chair talked about it in his
+opening statement. This whole Committee, the stuff we put
+together that we looked at for our preparation for the
+Committee all said it went up. You're saying, ``Nope, that's
+not true.''
+Mr. Ferguson. I believe that the 4.5 percent number came
+from outside sources that are looking at the data as it sits
+today, that is incomplete. It only has the 65 percent of law
+enforcement population coverage in 2021--
+Chair Jordan. So, you stand by the number you reported
+earlier this fall, the 2.1 percent decline in violent crime?
+Mr. Ferguson. Yes, sir.
+Chair Jordan. Really?
+Mr. Ferguson. Yes, sir.
+Chair Jordan. Oh, I think that would be a surprise to most
+people. Most people we talked to feel like violent crime has
+increased. It certainly seems that way. You're saying it
+didn't, it didn't at all.
+So, how was the interpretation made that said it went up
+4.5 percent?
+Mr. Ferguson. So, if you look at the system as it sits
+today, if you go into the Crime Data Explorer and look at the
+2021 numbers--it's an automated system because we're trying to
+go to monthly releases. So, as a result of that, it's an
+automated system that pulled only what was reported to the FBI
+in the NIBRS program in 2021, which was only 65 percent of the
+population.
+To try and get it right, our team went out and manually
+sourced data from agencies that did not submit NIBRS, like New
+York City, Phoenix, Chicago, and used those numbers to
+supplement the NIBRS reporting in 2021 to be able to have a
+more true and accurate depiction of Crime in the Nation.
+Chair Jordan. What was that number? When you put it all
+together, what was that number?
+Mr. Ferguson. For the number of coverage was at about 78
+percent of the--78.5 percent.
+Chair Jordan. No. Did it go up or down?
+Mr. Ferguson. It went down.
+Chair Jordan. Went down.
+OK. That's still not all of it? That's 78 percent?
+Mr. Ferguson. Yes, sir, that's correct.
+Chair Jordan. OK. You stand by that?
+Mr. Ferguson. Yes, sir.
+Chair Jordan. OK. So, that's where we're at.
+All right. This has been the whole concern is that, on one
+hand, you said one thing; on the other hand, we had something
+reported that people analyzed and said, ``No, no, no. It
+actually went up.''
+We would like to get the accurate information.
+Yes, I yield to the Chair.
+Mr. Biggs. Thanks, Mr. Chair.
+Director, I want to ask a question because this probably
+gets to the nub of it, right? So, you said 78 percent--you
+based your data on 78 percent participation rate ultimately,
+right? Because whoever didn't participate, you went and looked
+at whatever the public reporting was, right?
+Mr. Ferguson. Yes, sir. In addition to that, the extra 22
+percent, we used traditional NIBRS estimation methods to look
+at likely--
+Mr. Biggs. So, let's leave the estimation methods off for a
+second, because I don't have time to get into that.
+I want to ask this question: If I understand what you're
+saying today, if you looked at the automated responses--that's
+what these people who are independent researchers look at, and
+that's where they would have derived 4.5 percent growth in the
+crime rate. Is that fair?
+Mr. Ferguson. Yes, sir, that's fair.
+Mr. Biggs. OK. Time has expired.
+Now, let me recognize Mr. Garcia from Illinois.
+Mr. Garcia. Thank you, Mr. Chair, and to the witness.
+I seek unanimous to enter into the record the UCR Summary
+Crime Report to the Nation of 2023, which shows that, on page 3
+of the report that the FBI submitted in this division of CJIS,
+shows that crime went down.
+Mr. Biggs. Without objection.
+Mr. Garcia. Thank you, Mr. Chair.
+I would like to switch over to an extremely important topic
+under CJIS purview, the National Instant Criminal Background
+Check System, or NICS.
+I represent a district that includes a part of Chicago and
+its western burbs, and in my district, like in many across the
+country, reducing gun violence is a primary concern. We've got
+a lot of work to do on this topic, and a lot of it is beyond
+the scope of this hearing, but I believe in a fundamental
+reinvestment in communities disproportionately harmed by gun
+violence.
+That being said, there are many commonsense steps that we
+can take to reduce gun violence, and NICS is a vital frontline
+tool to keep guns away from dangerous individuals. I'm proud to
+have supported the Bipartisan Safer Communities Act, which,
+among other things, are overdue changes that strengthen the
+background checks done by NICS.
+Director Ferguson, can you briefly address how NICS has
+changed over time to enhance the efficiency and accuracy of
+background checks, including through improvements made by the
+Bipartisan Safer Communities Act?
+Mr. Ferguson. Yes, sir. Thank you very much for the
+opportunity to talk about the great men and women in the NICS
+section and the work that they're doing over there.
+With the implementation of the Bipartisan Safer Communities
+Act, we implemented that as soon as it was passed. Since the
+implementation of that act, we have done approximately 359,000
+under 21 gun background checks. So, as you're familiar with the
+Bipartisan Safer Communities Act, under 21 requires us to do
+multiple things. One is to check with the State repositories
+for criminal history, as well as mental health for juveniles,
+as well as to contact local law enforcement in the jurisdiction
+where the individual resides.
+So, as a result of these three enhanced background checks,
+again, we have conducted over 359,000 under 21 checks. In
+addition to that, we've hit just over 960 denials based on that
+and the rest of them proceeds. It has been a little bit of a
+difficult effort to explain to our law enforcement partners why
+we're contacting them, but we have made some significant
+strides.
+We started off in the single digits with the number of
+responses we were getting from the State criminal history and
+mental health repositories, as well as law enforcement
+agencies, but now we're at an average of over 70 percent
+responses from all those agencies to our inquiries. We still
+have some work to do. There are still some agencies--or excuse
+me. There's still some States out there that do prohibit the
+sharing of juvenile mental health and criminal history
+information even if it's to the NICS background check system.
+We still have some more work to do, but we're working through
+that process, and the amazing men and women in the NICS section
+are doing a phenomenal job of implementing that, as well as the
+provisions of the Brady Handgun Act.
+Mr. Garcia. Thank you. Please keep working on that because
+the increase in participation is critical.
+Can you provide some examples on how these improvements
+have helped individuals with, say, mental health concerns or a
+criminal record from getting a gun?
+Mr. Ferguson. So, in my position here, I'm very lucky that
+I get to see pockets of excellence across the entire division.
+On a daily basis, we're seeing the denials--if there is a
+denial that comes in on an under 21 check, those are reported
+to me on a daily basis. I am seeing that individuals who have
+some mental health issues or have been adjudicated as mental
+defective have been denied, as well as a myriad of other
+different offenses in which people happen to be denied for
+that.
+I want to highlight specifically again what I mentioned
+before, that we're just over 960 denials with over 359,000--or
+354,000 checks that have come in for under 21.
+Mr. Garcia. Thank you.
+Let me switch gears to a data security topic. It's of
+primary importance for a government agency like CJIS that
+handles sensitive personal information. What measures does your
+division take to ensure that data confidentiality is protected
+within the NICS system? You've got about 15 seconds.
+Mr. Ferguson. That's a great question.
+I would say that we are obviously implementing the
+Executive Order that was passed here recently with regard to
+cybersecurity, so we're implementing those processes as well as
+the implementation of the NIST standards for cybersecurity
+excellence. We're, also, implementing those procedures as well.
+Mr. Garcia. Thank you, Mr. Ferguson.
+I yield back, Mr. Chair.
+Mr. Biggs. The gentleman yields.
+The Chair now recognizes the gentleman from Texas, Mr.
+Nehls.
+Mr. Nehls. Thank you, Mr. Chair.
+Mr. Ferguson, thank you for being here.
+With 19,000 law enforcement agencies reporting--are there
+19,000 agencies reporting? Is it required to report their
+crime?
+Mr. Ferguson. No, sir, it's not required.
+Mr. Nehls. Do you believe there should be some law that
+would require a law enforcement agency to report their crimes,
+so their communities--if I was going to move into some place,
+I'd want to be able to go to a website to see how many index
+crimes, the robbery rate, murders, all that.
+Mr. Ferguson. What I can tell you is that with my
+experience, the law enforcement agencies we work with, they
+want to do this.
+Mr. Nehls. They do?
+Mr. Ferguson. They do want to report this stuff to us, yes.
+Mr. Nehls. Most of them?
+Mr. Ferguson. All the 19,000 that are in the program right
+now want to.
+Mr. Nehls. OK. All right. If I was the mayor of Chicago or
+New York over the past couple of years, do you think I would
+really be willing to release all that information to the FBI,
+so the American people can see an increase in crime?
+Mr. Ferguson. I'm not certain of the process that would be
+followed by the mayor to stop the reporting of Uniform Crime
+Reporting to the FBI.
+Mr. Nehls. Well, if there's no teeth behind it. If New York
+City, Chicago, and L.A., big cities--you talk about, what is
+the 78 percent participation rate--when you have those three
+big cities with the millions of people in it, they didn't
+report in 2021. How in the hell would anybody, even on the city
+council or anybody in that community even know, do we have
+enough police?
+Also, in the UCR and NIBRS, I'm a little experienced with
+this because I was a sheriff, but it also shows the solve rates
+of the crimes; what is the average solve rate? Explain to
+people, what's the average solve rate on a burglary in the
+United States of America?
+Mr. Ferguson. I don't have the numbers in front of me.
+Mr. Nehls. Oh, it's less than 10 percent. We don't solve
+too many of them.
+The point I'm making, this is good information for the
+American people to have at their disposal as it relates to
+whether they want to move into a certain community within a
+certain State. Why would New York--I'll tell you why. Why would
+Chicago, L.A., and New York City not want to report their
+crime? Because it's bad. It's bad news. Politics gets involved.
+If you don't have to report it, why should I? I wouldn't report
+it.
+I think this Committee should look at it and say maybe we
+should require it because, if you don't report it, you're
+hiding something, because I loved reporting my crime in the UCR
+because we solved more crime than anybody. It was something for
+me to motivate my personnel with. Being an elected sheriff, I
+was sharing with people: ``We solve more crime and have less
+crime than all the surrounding counties.'' It was good news to
+share. If you're one of those municipalities where crime is out
+of control--and we've seen it in these large cities, Chicago,
+L.A., and New York--you're not going to want to report it.
+Do you believe that we should withhold any type of grant
+funding? You are asking for grant funding, all of it, for
+municipalities that refuse to report.
+Mr. Ferguson. So, while it would be improper for me to talk
+about withholding funding, what I can say is that the law
+enforcement agencies that report, we're at almost 85 percent of
+law enforcement agencies that are reporting, covering 94
+percent of the population.
+Mr. Nehls. Have you ever changed the report? Has a large
+agency or any one of the agencies ever called you up one day
+and said, ``Hey, buddy, you reported this, but we sent you
+that?''
+Mr. Ferguson. Not to my knowledge, no.
+Mr. Nehls. OK. Here's one, here's one. Baltimore reported--
+now you would think the city of Baltimore would know how many
+homicides they have. Come on, pretty simple index crime. They
+reported 262 murders in 2023, and you reported they only had
+225. How does that happen?
+Mr. Ferguson. I'll have to look into that one.
+Mr. Nehls. That's a problem. You wonder why your agency is
+not trusted, why the FBI needs to have a complete overhaul.
+The Milwaukee Police Department reported a seven percent
+increase in robberies, but the FBI showed a 13 percent
+decrease.
+Who's manipulating this data?
+Mr. Ferguson. What I can tell you is that the law
+enforcement agencies have the ability to change their data at
+any given time. We don't stop them from doing that. We produce
+a static report that's static for that time period. At any
+given time, they can change their crime status, but we have no
+desire to do anything but get it right.
+Mr. Nehls. The Washington Examiner had a report back on
+April 5, 2024, that exposes your inaccurate information in the
+reporting that we've seen out of the FBI. It needs to be
+addressed, and I'm hoping this Committee can look at holding
+large agencies accountable.
+I know the UCR is a little different from NIBRS. It's a
+little bit more complex, a little bit more complicated, but I
+think we should require agencies to provide that information,
+whether it's good or bad, because I think the American people
+have a right to know.
+Mr. Garcia. Would the gentleman yield for--
+Mr. Nehls. Sure. Time is out.
+Mr. Chair?
+Mr. Garcia. Does Chicago report, Mr. Ferguson, its data to
+the FBI--
+Mr. Nehls. They didn't report in 2021, that's clear.
+Mr. Biggs. Sorry, Mr. Garcia. Time has expired. For every
+gentlemen up here, both of you guys, it's expired.
+The Chair recognizes now the gentleman from Alabama, Mr.
+Moore.
+Mr. Moore. Thank you, Mr. Chair.
+Mr. Ferguson, thank you for being here.
+What criteria does NICS use to determine whether an
+individual is prohibited from purchasing a firearm?
+Mr. Ferguson. The National Instant Background Check System
+searches three databases. We search Triple I, NCIC, and the
+NICS indices to determine if a person is prohibited from
+purchasing a firearm.
+Mr. Moore. So, what is Triple I?
+Mr. Ferguson. Triple I is the InterState Identification
+Index. I apologize, that is the criminal history index that is
+maintained within the Next Generation Identification System.
+Mr. Moore. I got you. How often are denials reviewed to
+ensure accuracy and fairness?
+Mr. Ferguson. I'm sorry, sir?
+Mr. Moore. How often are the denials reviewed to ensure
+accuracy and fairness?
+Mr. Ferguson. How can the--
+Mr. Moore. How often are the denials reviewed? Sorry, maybe
+I said it wrong. I don't know.
+Mr. Ferguson. How often? Over the course of Fiscal Year
+2024, we had approximately 10,000 requests for review of
+denials--or excuse me. Let me make sure I have the numbers
+right on that.
+Eighteen thousand was the number, 18,500 requests for
+review on denials. Out of those, 10,000 were sustained and
+approximately 3,000 were overturned.
+Mr. Moore. OK. Of the 116,578 denials in 2023, how many
+denials involved confirmed criminal activity versus
+administrative or technical errors?
+Mr. Ferguson. For the 2023 numbers, I don't have that in
+front of me, but I can get a report for you, sir.
+Mr. Moore. Do you have any idea what the percentage maybe
+were technical errors or possible administrative issues?
+Mr. Ferguson. Across the board for the years past, we've
+had a very small percentage of those because, as you're aware,
+the background check is a biographic search. There are
+occasions where there will be matching numbers or somewhat
+close numbers for Social Security numbers or names that will be
+a match, and there will be a denial based on that process.
+Mr. Moore. So, what steps are taken to address the wrongful
+denials and to clear individuals that may be unjustly flagged?
+Mr. Ferguson. So, we're very adamant that we need to make
+sure that we are working with providing that customer service
+and that value to those individuals who have been denied. We
+work every single day, generally speaking, with individuals who
+contact us. We have a tip line that they can call and talk to
+us about a denial. Then we'll walk them through the process to
+where we give them what we call the voluntary appeals file.
+We'll give them a PIN. So, in the event that this ever
+happens in the future, they'll have a PIN so they can give the
+PIN to the Federal firearms licensee so that they will not be
+denied anymore, unless there's, obviously, another issue down
+the road.
+Mr. Moore. How do you ensure that law-abiding citizens are
+not improperly denied their Second Amendment rights?
+Mr. Ferguson. We continue to--we have a quality assurance
+program that we use within the NICS section to make sure that
+we're getting it right. We take a sampling of all of the
+transactions that come in, and we have a pretty robust QA
+program that looks at that. What we do is, if we find
+discrepancies, we'll work with the individuals who attempted to
+purchase the firearm to get them through that discrepancy.
+We also learn from that. We use that for our training to
+train our people to make sure that we're getting it right. I'm
+very proud of the fact that, over the last 35 months, actually,
+we have hit our immediate determination rate of 90 percent or
+better over the last 35 months. What that means is, within the
+first 15-30 minutes of a person standing at a gun counter, over
+90 percent of the time, we're able to make an adjudication
+right there at that moment and allow them to either purchase if
+they're not prohibited or deny it if it's a prohibited person.
+Mr. Moore. What happens if you don't make the adjudication
+within 30 minutes while they're waiting there at their Ace
+Hardware, or whatever it is, to buy shotgun? What happens?
+Mr. Ferguson. So, generally speaking, what happens is that
+the remainder of those will be transferred over to the NICS
+section where we have legal instrument examiners who are
+looking at those as they're coming in. We adjudicate the
+majority of those within 30 minutes of receiving those if we
+can, and then the remainder of those may be delayed because we
+have to try to get some more records.
+One of the issues we're having in a lot of different States
+is we'll have dispositions that aren't entered into the system,
+so we'll see a person that's been arrested for a particular
+crime that may be prohibiting, but there's no disposition. So,
+we're not really sure if that person is prohibited or not.
+What we're having to do--that's an example. What we're
+having to do at that point is we have to delay, and we have to
+contact that law enforcement agency or court system and request
+those records to make sure the person is lawfully able to
+purchase a firearm.
+Mr. Moore. My understanding is, if you don't get an answer
+within three days, they're required to sell you the firearm. Is
+that correct?
+Mr. Ferguson. Yes, sir, that's correct, according to the
+provisions of the Brady Handgun Act.
+Mr. Moore. OK.
+Mr. Ferguson. They're authorized to; the FFLs are allowed
+to, yes.
+Mr. Moore. Got you. OK.
+With that, Mr. Chair, I'll yield back. Thank you.
+Mr. Biggs. Thank you.
+The Chair now recognizes the gentleman from California, Mr.
+Kiley.
+Mr. Kiley. Good morning, Director.
+There's been some confusion about the methodology behind
+the calculation of the crime rate and the reporting statistics.
+I want to try and clear a few things up.
+So, typically, I believe you testified that the
+jurisdictions that report sort of voluntarily make up 80
+percent of jurisdictions reported. Is that right?
+Mr. Ferguson. For the law enforcement agencies that cover.
+For this year, 83 percent of the law enforcement agencies,
+covering 94 percent of the population.
+Mr. Kiley. OK. Your usual methodology to fill in the gaps
+is you use the existing data to identify comparable
+jurisdictions to the missing jurisdictions, and then use that
+to come up with an overall holistic estimate. Is that right?
+Mr. Ferguson. Yes. I apologize; I'm not a statistician,
+but, yes, that's--at a high level, yes, that's what we're
+doing.
+Mr. Kiley. The problem, in 2021-2022, you said you only had
+65 percent of jurisdictions report, and from a statistical
+point of view, that wasn't sufficient to then use your typical
+methodology to fill in the gaps with the like jurisdiction
+comparison?
+Mr. Ferguson. Yes, sir.
+Mr. Kiley. Is that right?
+Mr. Ferguson. Yes, sir, that's correct.
+Mr. Kiley. Then, to reach that threshold, you went out and
+manually collected statistics from jurisdictions that hadn't
+voluntarily reported. Is that right?
+Mr. Ferguson. We collected data from the agencies that had
+not transitioned to NIBRS yet.
+Mr. Kiley. Right. So, then you kept doing that until you
+had enough data overall to use your typical jurisdiction
+estimation method to come up with a nationwide estimate. Is
+that right?
+Mr. Ferguson. Yes, sir.
+Mr. Kiley. OK. What did the--and you're claiming that then
+that number, based on (A) those reported voluntarily; (B) those
+you manually collected; and (C) the estimates you came up with
+from the jurisdictions that were still missing, that this
+comprised the 1.2 percent decline or whatever it was. Is that
+right?
+Mr. Ferguson. That is correct.
+Mr. Kiley. What does this manual collection process look
+like? I guess that's what I'm curious about.
+Mr. Ferguson. Essentially, what we're doing is we're going
+to the, for lack of a better term, the CompStats; for instance,
+Chicago as an example has a CompStat that's available, publicly
+available information that shows their crime data. We would go
+to there and collect that data for that time period from those
+jurisdictions.
+Mr. Kiley. Do you know what percent that hadn't initially
+reported then reported in response to those inquiries?
+Mr. Ferguson. What percentage we used, the manual
+percentage?
+Mr. Kiley. Yes. How much was still missing is what I'm
+asking?
+Mr. Ferguson. We collected an additional, approximately, 14
+percent, so that got us up to about 78-79 percent of data that
+we had collected from the law enforcement agencies.
+Mr. Kiley. OK, did you contact everyone of all the missing
+jurisdictions, or how do you go back deciding who to manually
+collect?
+Mr. Ferguson. We definitely wanted to make sure that we hit
+the most in-population cities. As I mentioned before, the
+cities like Phoenix, Chicago--not Chicago--Phoenix, New York, I
+think Chicago is one of them, so we went to the most in-
+population cities to gather that data.
+Mr. Kiley. When you did that, did they all say, ``Oh,
+sorry, we forgot; here's the data,'' or did some still not
+provide it? How did that go?
+Mr. Ferguson. No, we didn't have any issues collecting that
+data. It was manually sourced, and it was publicly available.
+Mr. Kiley. It was manually sourced and publicly--so what
+does that mean?
+Mr. Ferguson. That just means we went out and got it. We
+didn't ingest it into the system. We went out physically, got
+it manually--or we went out and got it from the agencies, and
+then it was publicly available.
+Mr. Kiley. The agencies had already published the data;
+they just hadn't bothered to send it to the FBI?
+Mr. Ferguson. The issue with 2021 was that it was a NIBRS-
+only collection. So, those cities were the ones that were still
+using the old SRS process and had not transitioned to NIBRS
+yet.
+Mr. Kiley. It seems to me like there's a lot of
+opportunities for statistical bias to creep in here based on
+who you decided to ask for it, based on who decided to hand it
+over. Then, not only is that manually collected data then going
+into the numbers, but it's being used as the basis to
+extrapolate the numbers for other jurisdictions. So, you had
+never done this before. Have the statisticians assured you this
+was statistically sound? Do you understand why we have
+questions?
+Mr. Ferguson. That is correct. We have some tremendous
+professional data scientists and statisticians that work in the
+UCR program that do phenomenal work.
+Mr. Kiley. Uh-huh.
+Mr. Ferguson. I would absolutely say that this got us to a
+statistically significant level of response to be able to show
+that crime trend.
+Mr. Kiley. Because it seems odd that you had the automatic
+update that actually shows crime went up, but then when you
+manually corrected it, it shows it went down. Actually, some of
+the missing jurisdictions were L.A. and San Francisco, some
+very high-crime areas. Why do you think there was that change
+in the directionality of the crime rate?
+Mr. Ferguson. I'm not sure that I understand your question.
+Just to reiterate, what is being shown now, what you can see
+now in this system does not contain that manually sourced data,
+which is the reason why it appears they're too low, because the
+jurisdictions that did not provide NIBRS data and is not
+included in that dataset right here.
+Mr. Kiley. So, when President Joe Biden came out and said
+there was a record decline in crime, do you think that was
+correct?
+Mr. Ferguson. I would have to go back and take a look at
+the crime trends from the previous several years as to whether
+or not that would--that our report was reporting historically
+low crimes. I'm not certain about that. I would have to go back
+and look at the report.
+Mr. Kiley. At the very least, the report only talks about
+reported crimes, right?
+Mr. Biggs. The gentleman's time has expired.
+Mr. Kiley. So, it wouldn't account for in areas like--well,
+throughout my State of California, where a lot of crime is
+unreported, that wouldn't be baked into your report, correct?
+Mr. Ferguson. Yes, sir, that's correct.
+Mr. Kiley. My time has expired.
+I yield back.
+Mr. Biggs. The gentleman's time has expired. Thank you.
+The Chair now recognizes the gentleman from South Carolina,
+Mr. Fry.
+Mr. Fry. Thank you, Mr. Chair. Great to be here.
+I'm going to follow in the same vein. I think that
+methodology is really important here. Americans want and expect
+to have accurate data to make sure that it's accurate, and the
+concern that we've seen up here today is that the data was
+publicly heralded by the Biden Administration as a drop in
+violent crime nationwide. Of course, when you revised it, it
+turned out to be not so true, but it was only because of
+sourcing it or finding it yourself. There wasn't a press
+release about it. I just think accuracy is important, and I
+worry about the methodology.
+I wanted to drill down into some of the methodologies. When
+you compile this data on a particular jurisdiction, you look at
+either publicly sourced information or reporting. Is that
+right?
+Mr. Ferguson. Are you referring to the 2021 data?
+Mr. Fry. Any set of data, when you're compiling a yearly
+assessment of crime, violent crime, you look at your publicly
+sourced information about violent crime in that jurisdiction or
+a self-reporting from that jurisdiction, correct?
+Mr. Ferguson. We do not use publicly sourced, manually
+sourced data during the typical Crime in the Nation reporting.
+We use what is reported to us from the law enforcement
+agencies.
+Mr. Fry. OK. When you are compiling the statistics about
+it, not just the raw data, you look at the population of the
+jurisdiction too?
+Mr. Ferguson. We do, correct.
+Mr. Fry. OK. So, if there's one violent crime and there's a
+thousand people that live in that jurisdiction, how is that
+rectified in your report?
+Mr. Ferguson. I would have to go back and take a look at
+the report. I apologize. Again, I'm not a statistician.
+Mr. Fry. Correct.
+Mr. Ferguson. I can tell you the report does show the
+offense compared to the number of people within that
+population.
+Mr. Fry. All right. So, hypothetically--I'm going to give
+you a hypothetical just because I want to understand how this
+is compiled.
+If there's a town of a thousand people and they have a
+giant music festival and there's crimes that are committed at
+that music festival, it would be logged in as a crime in that
+jurisdiction. Is that correct?
+Mr. Ferguson. Yes, sir, that's correct.
+Mr. Fry. Despite the fact that it was maybe--and, again,
+it's totally hypothetical. There's no town to this. If a
+thousand people said they have 20,000 people for a music
+concert once a year, if there were crimes that were committed
+in that jurisdiction, that would be reported?
+Mr. Ferguson. That's correct.
+Mr. Fry. That necessarily wouldn't be accurate, correct?
+That's not the town violent crime overall. It's just this one
+isolated event. Is that fair to say?
+Mr. Ferguson. I think that's a great point, and we try to
+take a look for if we notice any anomalies based on previous
+years reporting, as an example, that would be 9/11, we would
+have reported that the almost 3,000 individuals who were--that
+was basically a homicide in the city of New York.
+Mr. Fry. Right.
+Mr. Ferguson. We would have separated those from the crime
+reporting to make sure that we didn't unnecessarily skew
+numbers based on anomalies such as that. Those are rare, but on
+occasion, I will say, yes, we have seen some anomalies in the
+past based on that.
+Mr. Fry. What would you say--so, for me, the interesting
+thing, does this data count in any which way for events such as
+that or maybe even transient populations?
+Mr. Ferguson. To the best that we're able to do so, we do.
+The reason that we stop the collection, or we say April 1st is
+our deadline because we want to have that entire time between
+April 1st and when we publish the report in September/October
+timeframe to work with those jurisdictions and those agencies
+to make sure, if there's anomalies, that we can have those
+conversations, but again, those are generally pretty rare.
+Mr. Fry. How do you account for jurisdictions--tourism-
+related jurisdictions in Florida, the Carolinas, and Georgia,
+who have maybe 20,000-30,000 full-time residents, but, in the
+summertime, you're swelling to 100,000 a week?
+Mr. Ferguson. Yes. That's a great question, and I think
+that goes back to the work that we do collaborating with those
+local law enforcement agencies and the State agencies to make
+sure that we're trying to get it right, as right as we can.
+Mr. Fry. Well, I would hope that in the future that this
+happens, because that does actually happen, that
+jurisdictions--if you look at tourism-related jurisdictions, a
+lot of them, the numbers seem very disproportionate to the rest
+of the country. You take a city of 20,000 or 30,000 people,
+full-time residents, but you swell them to a half a million on
+any given week in the summertime or whenever their peak season
+is, it doesn't tell the full truth; does it?
+Mr. Ferguson. I would say that there would probably be some
+anomalies in there, yes.
+Mr. Fry. OK. Well, I would hope that, in the future, the
+FBI would look at that, and it's just a critique of how these
+things are computed, because I don't think that it tells the
+full story when you're looking at the jurisdictions that have
+seasonal destination populations.
+With that, Mr. Chair, I yield back. Thank you.
+Mr. Biggs. The gentleman yields.
+I now recognize myself for five minutes. So, the NIBRS
+estimation methodology approximates what the expected value
+would be for missing data. Is that right?
+Mr. Ferguson. Yes, sir, that's correct.
+Mr. Biggs. The FBI concedes that the estimates themselves
+are subject to levels of uncertainty caused by incomplete NIBRS
+reporting, right?
+Mr. Ferguson. Yes, sir.
+Mr. Biggs. You've mentioned anomalies here. So, if an
+agency only reports partial data to the FBI, the methodology
+will, quote,
+Identify an agency that matches an agency characteristics and
+has the closest number of total incidents among agencies with
+matching characteristics.
+So, essentially you're forcing a regression to the mean, right?
+Mr. Ferguson. So, in the event that--what I would say,
+first, what we would try to do is to work through the local law
+enforcement agency that did not submit data.
+Mr. Biggs. You're regressing to the mean. That's just the
+way that you're estimating. You are regressing to the mean.
+That's what a statistician would tell you. You're trying to
+regress to the mean, which means that you're boxing out the
+anomalies that you just talked about, which means that, if you
+have a jurisdiction that has a no-arrest policy and literally
+does not make an arrest, or they make an arrest, hold them in
+jail overnight, and discharge the person without further
+prosecution, you have anomalies. Is that not true?
+Mr. Ferguson. I'm not sure how the local jurisdiction would
+report that, but yes, sir, that could be--that could possibly
+be true.
+Mr. Biggs. So, the reason I mention that is because,
+originally, when you guys did this and you didn't get the
+reporting from L.A., for instance, and L.A. was having massive
+amounts of people come in, and they raised the amount of money
+you could actually steal from a store before they would
+actually even arrest or investigate, those are anomalies
+because those are crimes. They're not prosecuted, and they're
+not charged. Right?
+Mr. Ferguson. So, it would be hard for me to--it would be
+hard for me to answer a hypothetical on that, but what I
+would--
+Mr. Biggs. That's not hypothetical. We all saw it on the
+news. I know, Mr. Ferguson, you saw it on the news just like I
+did. I know, in my own State, we have a city of about a half a
+million people that says, ``Look, you know, you can--unless
+it's a shoplift of over $2,500, we're not coming.'' That's a
+crime, right? It then becomes an unreported crime. So, what I'm
+trying to get at here is the data that you are putting
+together, because it is voluntary and because it remains open
+to the providers of the information--not you guys because
+you're taking whatever information you have, and you're making
+a static determination: OK, they reported this; this is what's
+in there, or they didn't report it and we're going to do one of
+two things. We're going to go on the internet and see if
+they've put something publicly like Phoenix does. Phoenix puts
+its crime data publicly. You guys are going to take that and
+incorporate that into your--I can't remember what you called,
+like, the hand sorting or where you guys go out, right? That's
+a fair statement, right?
+Mr. Ferguson. That was the only one time that we did that
+was in--
+Mr. Biggs. So, you've never done that since then.
+Mr. Ferguson. That's correct.
+Mr. Biggs. So, if they don't actually respond, now you
+just--
+Mr. Ferguson. We will do one of two things. We will work
+with the law enforcement agency, reach out to the law
+enforcement agency to try to attempt to get that information if
+there's missing data, or we'll apply the traditional NIBRS
+estimation.
+Mr. Biggs. Which is where you're saying,
+Well, Phoenix is a little bit bigger than Houston maybe, and
+Houston's numbers are this, similarly situated. They both have
+high illegal migrant populations rolling through them, so we're
+going to say that maybe Phoenix would have roughly the same
+amount.
+Is that fair?
+Mr. Ferguson. That sounds to be a fair statement.
+Mr. Biggs. So, this is the problem that we may be having on
+our side is that this doesn't sound like something I would rely
+on, because Phoenix is very different than Houston. Phoenix
+has, like Houston, literally thousands of drop houses for
+illegal aliens coming through, thousands, and they commit
+crimes, but they're not reported necessarily. That vacuum
+leaves a hole in the statistical data where the statistical
+data set that you guys are relaying on a data set that's
+reported to you. I get that. What happens is it may not be
+accurately reflecting that municipality, that jurisdiction's
+crime rate.
+Mr. Ferguson. I probably should do a little bit of
+clarification there. To your point, I understand--completely
+understand the angst with regard to these numbers. They're not
+perfect. They probably never will be, but I will say--I would
+like to highlight the fact that we did have 94 percent of the
+population covered this year, but I would say that--
+Mr. Biggs. Yes, but you had 94 percent of the population
+self-reporting. As the Disraeli said, ``There are three kinds
+of lies. There's lies, damn lies, and statistics.''
+If you were self-reporting, I can self-report that I'm
+6,4", weigh 180 pounds, and I'm chiseled stone, but that's
+garbage in. When you put garbage in, you get garbage out.
+That's the issue that I think that we're having here. Not to
+say that you guys are committing garbage, but you get
+information that you're relying on people who are incentivized,
+quite frankly, to skew the data they are providing to you and
+to the public. We have found that out as we've looked at other
+jurisdictions.
+The Chair recognizes now Ms. Lee from Florida for five
+minutes.
+Ms. Lee. Thank you, Mr. Chair, and thank you for being here
+today.
+I would like to discuss some of the broader crime trends
+that we have been seeing over the last few years. I was
+reviewing the website of the Bureau and the Crime Data
+Explorer, and it specifically references 2023 numbers and
+suggests that, in all categories except for one, that in
+categories of murder, rape, burglary, and other things, that
+violent crime is down really in all respects except for motor
+vehicle theft.
+What I was interested in discussing today was a little bit
+of a broader timeline, specifically going back to look at the
+time period of 2020 to the present. It's correct, is it not,
+that the rate of many of these violent crimes, if examined from
+2020 to present, is actually going up.
+Mr. Ferguson. I apologize; I don't have the report here in
+front of me, and I don't want to testify to the fact that I
+haven't seen it--or I don't have it in front of me here, and I
+can testify to that, but we do provide those rates for that
+time period, for that report; that's correct.
+Ms. Lee. OK. So, it wouldn't be something that you were
+prepared to testify about here today if I were to tell you
+that, over that span of time, the incidents of rape have
+actually gone up. Is that right?
+Mr. Ferguson. I think that there was a time period within
+the definition of ``rape'' that might have changed within the
+UCR program, and I'd have to go back, and I can certainly get
+you an answer on that. I'm not sure if some of those were
+double counted by the agencies based on the definition of
+``rape,'' but I can certainly get that information for you.
+Ms. Lee. Well, that actually touches on another question
+that I wanted to ask you. In these materials there that are
+providing for the public information about the increases or
+decreases in crimes, I see that there is a ``rape'' referred to
+as revised definition and ``rape'' legacy definition. Are you
+familiar with the distinction between the revised definition
+and the legacy definition?
+Mr. Ferguson. I am familiar that there was a change in the
+``rape'' definition. I would have to go back and take a look at
+exactly what that definition is. When the change came about, it
+was publicized to all our law enforcement agencies so that,
+whenever it was captured in the statistics, that it would
+capture accurately.
+Ms. Lee. Now, and it's also true, is it not, that, in
+compiling these statistics and preparing these reports and
+sharing with the public, you rely on accurate reporting from
+State and local law enforcement agencies about incidents of
+these types of crimes and their areas.
+Mr. Ferguson. Yes, ma'am.
+Ms. Lee. So, if you were not getting full and complete
+information from State and local law enforcement agencies, then
+it would be impossible for you to accurately prepare a
+compilation number of violent crime trends across the United
+States of America.
+Mr. Ferguson. If they did not report that, that would be
+correct. We would not be able to provide that national trend
+for accuracy.
+Ms. Lee. So, tell us what you are doing to ensure. Do you
+have any sort of audit, any sort of review, or any sort of
+verification process to develop a comfort level for yourself
+that you're getting full and complete information from
+municipalities and States to prepare this data?
+Mr. Ferguson. That's a great question. Thank you for that.
+So, we are obviously relying on the municipalities to provide
+that information to us. What I can say is a couple of things.
+One is that we use technology to see if there's any anomalies.
+If something is significantly off, it will alert one of the
+statisticians to take a look at that, to contact that local
+jurisdiction to say,
+Hey, either your numbers for hate crime look like they're way
+up; they look like they're way down, and you didn't report
+anything in June, July, and August. Is this right? Do we want
+to work through that process?
+In addition to that, we also have a quality assurance
+program within our statisticians and, again, relying on the
+data that we received from our law enforcement partners. So, we
+do the QA internally. In addition to that, we have a two-week
+time period where we notify the law enforcement agencies that,
+``This is the numbers that we have for you; please go in and QA
+and verify.''
+Ms. Lee. Verify that it's right. Thank you, Mr. Ferguson.
+I yield the balance of my time to the Chair.
+Mr. Biggs. I yield that time, if possible, to Chair Jordan.
+Chair Jordan. Thank you, Mr. Chair.
+I want to go back to this manual collection. Did the manual
+collection that you've talked about a lot, did that change the
+violent crime statistics? Did that change the number you had?
+Mr. Ferguson. That would have changed the numbers because
+it would have obviously added an additional 18 percent of the
+population.
+Chair Jordan. Did it change it--how did it change it? Did
+it make the violent crime numbers go down or go up?
+Mr. Ferguson. It would have made the violent crime numbers
+go down, because what you're seeing in the report now, if you
+looked at the report, which is where the issue comes in with
+the 4.5 percent increase, if we didn't use that manual inner
+data that we went out and got from those law enforcement
+agencies, then you would see that percentage of increase. So,
+because we went out and manually sourced that crime data--
+Chair Jordan. Do you always go out and do this manual
+collection? Does that happen every single year?
+Mr. Ferguson. No, sir. That is the only time we've ever
+done that.
+Chair Jordan. So, the only time you ever have done it
+resulted in what was reported as violent crime going up;
+actually, you reported it as violent crime going down.
+Mr. Ferguson. With the numbers that we had, the data set
+that we had, it reported that violent crime was going down.
+Chair Jordan. You've never done that before.
+Mr. Ferguson. No, sir.
+Chair Jordan. I find that interesting. Right? You've never
+done it before, but this time, oh, violent crime went up. We
+are going to go do something we have never done before, and as
+a result of that, violent crime went down. Shazam, we can
+report that, and that gets you in the political context during
+the debate and everything else. You find that interesting?
+Mr. Ferguson. What I will say is that we--our desire in the
+CJIS Division is to get it right and get the information out
+there to the public for whatever use they need and our desire
+to try to make sure that we had a statistically significant
+number to create those trends. Unfortunately, no good deed goes
+unpunished, and we're trying to--
+Chair Jordan. Well, in years prior, when you didn't go do
+the manual, what was the reporting percent coming in? Was it
+much higher, or was it relatively the same as it was in this
+particular year?
+Mr. Ferguson. I would have to go back and look. I would say
+it is relatively the same when we had the--because we had 78
+percent of the population covered, I believe it was 78 percent
+of the population covered with a 2021 data set, I would say
+relatively the same.
+Chair Jordan. So, if it was the same, why did you do it?
+Why did you do it this for this particular year when you
+reported it four weeks before the election?
+Mr. Ferguson. I'm sorry, let me clarify. Had we not
+manually sourced that data to get up to 70 percent of the
+population covered, we would have only had 65 percent or less
+of the population covered, and when we looked at that, we said
+we wanted to make sure that we're providing the most
+information that we can, and we recognize these agencies did
+not submit data. So, we want to go out and get this--
+Chair Jordan. What's the lowest number you've ever went
+with in other years? Was it close to the 60-some percent?
+Mr. Ferguson. I apologize. I do not know the answer to that
+question, but I would say 65 percent in my estimation is not
+statistically significant.
+Mr. Chair Jordan. I appreciate the Chair. I just think it's
+interesting hat the one-year that they go do something that
+they've never done before happens to be the year that it's
+going to get reported four weeks before an election, and it
+changes the outcome. That's sort of the whole point.
+I yield back.
+Mr. Biggs. Thanks, Mr. Chair.
+The Chair now recognizes the gentleman from Georgia, Mr.
+Johnson, for his five minutes.
+Mr. Johnson. Thank you, Mr. Chair.
+Acting Assistant Director Tim Ferguson, thank you for
+coming to talk to us today. You lead a large and important
+workforce of more than 3,000 employees and contractors, and you
+have a distinguished career in which you served in various
+capacities with the FBI for more than 22 years, including Chief
+of the Digital Forensics and Analytics Section and Chief of the
+Field Operation Section. Thank you for your service, sir.
+Mr. Ferguson. Thank you.
+Mr. Johnson. We should be commending you for all the work
+that your division does to keep Americans safe 24 hours a day,
+seven days a week, including managing the FBI's tip lines,
+conducting background checks for firearm purchases, and
+maintaining robust databases for information sharing.
+Instead, regrettably, MAGA Republicans called you here to
+drag you through the mud over a conspiracy theory because
+manually input data was pulled into one data table, but not
+another. They are ignoring the bottom line that your most
+complete data set shows that reported crime decreased from
+2021-2022, and this is why I want to spend the rest of my time
+talking about the excellent work that your division does and
+how your division helped bring crime levels down.
+Acting Assistant Director Ferguson, can you discuss any
+recent initiatives or projects undertaken by the Criminal
+Justice Information Services Division that had a significant
+impact on the law enforcement community?
+Mr. Ferguson. Yes, sir. Thank you very much for that
+question. Beginning of February of this year, in an effort to
+continue the increase in information sharing from the CJIS
+division and the tips that we receive to our law enforcement
+partners, we began a new initiative where we are sharing tips
+that we received directly with State and local law enforcement
+agencies. This is something that's new and innovative within
+the CJIS division, and it's actually thanks to the work that
+the NICS section did with regard to ZIP code mapping for the
+implementation of the NICS Denial Notification Act. We were
+able to use that and with our National Threat Operations
+Section and use that ZIP code mapping to be able to send tips
+directly to State and local partners. So, we don't have to rely
+on sending it to the field office and the field office sending
+it to the local law enforcement partners. We can send it
+directly to our law enforcement partners.
+Mr. Johnson. That's great. The National Crime Information
+Center is a vital crime data system available to law
+enforcement agencies at all hours of the day and night, and it
+contains over 18.4 million records. Assistant Director
+Ferguson, how does the NCIC support information sharing and
+communication between law enforcement agencies at the national
+level?
+Mr. Ferguson. What a phenomenal system that that is, the
+National Crime Information Center and the work that the CJIS
+Division staff does on implementing the processes within NCIC,
+updating NCIC. It contains 22 separate files. We have over 10
+million hits per day. In other words, 10 million inquiries per
+day from law enforcement, and it is absolutely a lifeline,
+especially when it comes to officer safety, because within NCIC
+is the Wants and Warrants file. So, if an individual is pulled
+over or is encountered by law enforcement and that person has a
+warrant, or has violent tendencies, that officer is made aware
+of that, and it makes those officers safe. Right now, we're
+probably going to hit one of our historic highs for the number
+of officers that have been killed in the line of duty this
+year, and NCIC saves lives of those officers on the street.
+Mr. Johnson. Thank you. Reducing gun violence is very
+important. Just yesterday, another community was shaken by gun
+violence when a student killed two people and injured six
+others at her Wisconsin school. In Philadelphia, last weekend,
+dozens of people were shot, and four died. We combat this
+scourge in part by conducting thorough background checks before
+allowing people to purchase firearms. Acting Assistant Director
+Ferguson, how does the NCIS collaborate with Federal, State,
+and local agencies to ensure the completeness and accuracy of
+firearm background check information, and how has the NCIS
+evolved over time to enhance the efficiency and accuracy of
+background checks?
+Mr. Ferguson. That's a great question, and I don't think I
+have time to answer it completely, but what I will say is that
+the NICS section, I'm appreciative of the legislative body here
+for the support that they provided to the NICS section for the
+resources that we have. As a result of that, we are able to
+automate quite a bit of the services that we provide. As I
+mentioned before, we have a 90 percent immediate determination
+rate for the last 35 months, 90 plus percent for the last 35
+months to be able to make that determination within the first
+15-30 minutes of a person being at the gun counter being able
+to provide that service, that value to the community. Again,
+the automation methods that we're working through, we just have
+an amazing team of folks over in NICS that are committed to
+protecting the Second Amendment and protecting the American
+people.
+Mr. Biggs. Gentleman's time is expired. Thank you.
+I have an article I want to admit to the record by
+unanimous consent: ``FBI Quietly Revises Violent Crime Stats,''
+dated October 16, 2024.
+Without objection, so ordered.
+Mr. Biggs. That concludes today's hearing. Thank you
+Assistant--excuse me, Assistant Director Ferguson. Are you
+Assistant Director?
+Mr. Ferguson. Acting--
+Mr. Biggs. Acting Director.
+Mr. Ferguson. Acting Assistant Director, yes, sir.
+Mr. Biggs. OK. Well. Thank you for being here today, Mr.
+Ferguson.
+With that, we're going to adjourn.
+
+All materials submitted for the record by Members of the
+Sub-
+committee on Crime and Federal Government Surveillance can
+be found at: https://docs.house.gov/Committee/Calendar/ByEvent
+.aspx?EventID=117762.

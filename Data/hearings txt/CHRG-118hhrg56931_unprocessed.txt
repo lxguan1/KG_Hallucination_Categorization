@@ -1,1 +1,1444 @@
-  PROTECTING EMERGING TECHNOLOGIES FOR PEACE AND STABILITY IN THE INDO-PACIFIC ======================================================================= HEARING BEFORE THE SUBCOMMITTEE INDO-PACIFIC OF THE COMMITTEE ON FOREIGN AFFAIRS HOUSE OF REPRESENTATIVES ONE HUNDRED EIGHTEENTH CONGRESS SECOND SESSION __________ JANUARY 17, 2024 __________ Serial No. 118-75 __________ Printed for the use of the Committee on Foreign Affairs  __________ U.S. GOVERNMENT PUBLISHING OFFICE 53-137 PDF WASHINGTON : 2024 Available: http://www.foreignaffairs.house.gov/, http:// docs.house.gov, or http://www.govinfo.gov ----------------------------------------------------------------------------------- COMMITTEE ON FOREIGN AFFAIRS MICHAEL T. McCAUL, Texas, Chairman CHRISTOPHER H. SMITH, New Jersey GREGORY MEEKS, New York, Ranking JOE WILSON, South Carolina Member SCOTT PERRY, Pennsylvania BRAD SHERMAN, California DARRELL ISSA, California GERALD E. CONNOLLY, Virginia ANN WAGNER, Missouri WILLIAM KEATING, Massachusetts BRIAN MAST, Florida AMI BERA, California KEN BUCK, Colorado JOAQUIN CASTRO, Texas TIM BURCHETT, Tennessee DINA TITUS, Nevada MARK E. GREEN, Tennessee TED LIEU, California ANDY BARR, Kentucky SUSAN WILD, Pennsylvania RONNY JACKSON, Texas DEAN PHILLIPS, Minnesota YOUNG KIM, California COLIN ALLRED, Texas MARIA ELVIRA SALAZAR, Florida ANDY KIM, New Jersey BILL HUIZENGA, Michigan SARA JACOBS, California AUMUA AMATA COLEMAN RADEWAGEN, KATHY MANNING, North Carolina American Samoa SHEILA CHERFILUS-McCORMICK, FRENCH HILL, Arkansas Florida WARREN DAVIDSON, Ohio GREG STANTON, Arizona JIM BAIRD, Indiana MADELEINE DEAN, Pennsylvania MICHAEL WALTZ, Florida JARED MOSKOWITZ, Florida THOMAS KEAN, JR., New Jersey JONATHAN JACKSON, Illinois MICHAEL LAWLER, New York SYDNEY KAMLAGER-DOVE, California CORY MILLS, Florida JIM COSTA, California RICH McCORMICK, Georgia JASON CROW, Colorado NATHANIEL MORAN, Texas GABE AMO, rhode Island JOHN JAMES, Michigan BRAD SCHNEIDER, Illinois KEITH SELF, Texas Brendan Shields, Majority Staff Director Sophia Lafargue, Minority Staff Director ------ Subcommittee on Indo-Pacific YOUNG KIM, California, Chair ANN WAGNER, Missouri AMI BERA, California, Ranking KEN BUCK, Colorado Member MARK GREEN, Tennesse ANDY KIM, New Jersey ANDY BARR, Kentucky BRAD SHERMAN, California AUMUA AMATA COLEMAN RADAWAGEN, GERALD CONNOLLY, Virginia American Samoa WILLIAM KEATING, Massachusetts WARREN DAVIDSON, Ohio JOAQUIN CASTRO, Texas MICHAEL WALTZ, Florida Daniel Markus, Subcommittee Staff Director C O N T E N T S ---------- Page WITNESSES Fick, Hon. Nathan, Ambassador at Large, Bureau of Cyberspace and Digital Policy, U.S. State Department.......................... 6 Kang, Honorable C.S. Eliot, Assistant Secretary, Bureau of International Security and Nonproliferation, U.S. State Department..................................................... 13 Rozman Kendler, Honorable Thea D., Assistant Secretary, Export Administration, Bureau of Industry and Security, U.S. Department of Commerce......................................... 23 APPENDIX Hearing Notice................................................... 49 Hearing Minutes.................................................. 51 Hearing Attendance............................................... 52 PROTECTING EMERGING TECHNOLOGIES FOR PEACE AND STABILITY IN THE INDO- PACIFIC Wednesday, January 17, 2024 House of Representatives, Subcommittee on the Indo-Pacific, Committee on Foreign Affairs, Washington, DC. The subcommittee met, pursuant to notice, at 2:08 p.m., in room 210, House Visitor Center, Hon. Young Kim (chair of the subcommittee) presiding. Mrs. Kim of California. The Subcommittee on the Indo- Pacific of the Foreign Affairs Committee will come to order. The purpose of this hearing is to examine our existing bilateral and multilateral engagement on critical and emerging technology with our allies and partners in the Indo-Pacific. I now recognize myself for an opening statement. I want to welcome everyone to the Indo-Pacific Subcommittee's hearing entitled Protecting Emerging Technologies for Peace and Stability in the Indo-Pacific. The Indo-Pacific region is important for U.S. technology for at least two reasons. First, Chairman Xi Jinping has made technological superiority a cornerstone to the Chinese Communist Party's national and military competitiveness. In 2013, Xi said during an inspection of the Chinese Academy of Sciences that high-end science and technology is a national weapon in modern times. Since then, through his military-civil fusion and Made in China 2025 programs, the CCP has aimed to catch up and surpass the United States in technological power and strengthen the People's Liberation Army through reform and technology. Successive U.S. Administrations have concluded that it is in the interest of our national security to impose costs and degrade certain capabilities for the Chinese Communist Party. Second, to maintain the United States' technological advantage, we must work with other like-minded and technology- advanced countries, like Japan, South Korea, and Singapore. These are three of the top-ten countries in the world with that expertise. We must cooperate with these countries on research and development, manufacturing, and implementation of high-end technology. At the same time, like-minded countries need to work with us to ensure the technology we share or jointly develop do not end up in the hands of the CCP. For example, I was proud to introduce the KOALA Act. This provides a defense technology trade exemption for one of our closest allies in the region, Australia. The KOALA Act contributed significantly to the final implementation law that passed in the Fiscal Year 2024 NDAA. The cooperation of this magnitude will help to deter the Chinese and advance our national security but only if states implement the law correctly and provides the exemption to which the Australians are clearly eligible for. Today's hearing will tackle these issues. We will discuss several tools today that are vital to ensuring our collective technologies do not fall into the hands of the CCP, like export controls, sanctions, and research security. We will also look at existing and proposed bilateral and plurilateral structures that can work together to reduce regulatory barriers to technology cooperation and to harmonize export controls. So I look forward to our fruitful discussion on what more we and our allies and partners can do on these fronts. In just a few days, I will be leading a bipartisan CODEL to Singapore, Malaysia, and Vietnam to discuss PRC influence in the region, South China Sea issues, and technology cooperation. In preparation for this trip, I would particularly like to hear from our witnesses what Southeast Asian countries are doing to protect critical technologies from the hands of the CCP and where there are opportunities for more tech cooperation with these countries. So I thank our witnesses for your willingness to testify today, and I look forward to a detailed discussion about U.S. Government efforts in this regard. The Chair now recognizes the ranking member, the gentleman from California, Mr. Bera, for your opening statements that you have. Mr. Bera. Thank you, Chairwoman Kim, for holding this hearing and for your partnership on this important topic of Protecting Emerging Technologies to Ensure Peace and Stability in the Indo-Pacific. This subcommittee hearing is a nice complement to the full committee hearing that we had earlier this morning looking at outbound investments and how we can protect our outbound investments but also address the national security concerns that affect not only us but our partners in the West. As we saw in that hearing this morning and I think as you'll see in the subcommittee hearing, this really is not a partisan issue. This is an issue that Democrats and Republicans both in this Congress but across Administrations understand and, you know, whereas two decades ago, we would have hoped, as China built a middle class and it developed an entrepreneurial class, that it would become a responsible member of the global economic order. Unfortunately, we have seen out of Beijing, we've seen out of Xi Jinping, particular policies, and one that we talked about this morning was kind of the civilian-military policy doctrine which really blurs the line on that cooperation. I do want to point out and applaud the Biden Administration for supercharging our export control policy in the face of the tremendous geopolitical change and challenge that we see in the Indo-Pacific. The Administration's expansive export controls go further than any previous Administration. And in 2022, BIS imposed unprecedented export controls to restrict the PRC from obtaining advanced computing chips, develop and maintain some super computers, and manufacture of advanced semiconductors. These controls were expanded this past fall; and, again, I think it is a step in the right direction. I look forward to hearing the testimony of the witnesses today. I look forward to working with the chairwoman, as well as the chairman and ranking member of the full subcommittee and across Congress. I think, as the chairwoman rightfully pointed out, it is not just our policies, but it is the policies of working with our like-minded, like-valued allies as we look to both protect these important investments, important infrastructures, but then also as we work with the private sector to make sure they understand, it was pointed out in that civilian-military policy doctrine that they may be looking at making reasonable investments in the PRC, that how those investments may undermine our own national security. So I think Congress does have to do a job helping the private sector understand where those investments may have detrimental effects. So, again, I look forward to hearing from the witnesses. And with that, I will yield back. Mrs. Kim of California. Thank you, ranking member. Other members of the committee are reminded that opening statements may be submitted for the record. And we are pleased to have a distinguished panel of witnesses before us today on this very important topic. Mr. Nathan Fick is the Ambassador at Large for the Bureau of Cyberspace and Digital Policy at the U.S. State Department. Mr. C.S. Eliot Kang is the Assistant Secretary for the Bureau of International Security and Nonproliferation at the Department of State. Ms. Thea Rozman Kendler is the Assistant Secretary for the Bureau of International Security and Nonproliferation at the State Department, Department of Commerce. Thank you for being here today. Your full statements will be made a part of the record, and I will ask each of you to keep your spoken remarks to 5 minutes in order to allow time for member questions. So let me now recognize Ambassador Fick for your opening statement. STATEMENT OF HON. NATHAN FICK, AMBASSADOR AT LARGE, BUREAU OF CYBERSPACE AND DIGITAL POLICY, U.S. STATE DEPARTMENT Mr. Fick. Chairwoman Kim, Ranking Member Bera, distinguished members of the subcommittee, on behalf of the Department of State, thank you for the opportunity to speak with you today. I'm honored to provide an overview of our work advancing U.S. technology policy priorities globally and our efforts to strengthen U.S. technology leadership in the Indo- Pacific. At the State Department, I oversee the organizations that lead and coordinate the department's work on cyberspace, digital policy, digital freedom, and emerging technologies: the Bureau of Cyberspace and Digital Policy, known as CDP, and the Office of the Special Envoy for Critical and Emerging Technology, S/TECH for short. Building on years of bipartisan work to establish these organizations, Secretary Blinken launched both in 2022 as part of a comprehensive effort to consolidate our technology diplomacy efforts, to upgrade and to elevate and integrate them, and to make technology issues more central to U.S. foreign policy. We thank the committee for your sustained support of this mission, particularly for the creation of a dedicated Cyberspace, Digital Connectivity, and Related Technology, that's CDT for short, for an assistance fund in the recently passed 2023 State Department Authorization Act. At our core, we believe in technology's power to solve major challenges and support American prosperity and global security. As a Marine combat veteran, a technology entrepreneur, an executive, and now the first person to hold this role at the State Department, I see tech innovation as an increasingly foundational source of geopolitical power driving more and more of what is and is not possible in our foreign and national security policies. Technology is increasingly ``the game,'' and we must engage in this geopolitical competition boldly and with urgency on behalf of our values and our interests. We face well-resourced and technologically capable competitors and adversaries who possess authoritarian visions and use long-term technology-based strategies to advance those aspirations. These competitors most notably include the PRC, which wields all elements of national power to try to bend the rules- based international order in its favor, to build economic and technical dependencies, and to lock in long-term influence. A key tenet of our work is building digital solidarity with allies and partners across a growing set of technology topics of high geopolitical significance, including innovation and industry leadership, cyber incident response capacity building, information communication technology supply chain diversification, trusted digital infrastructure project support, and the rights respecting uses of technology. These efforts cut across the digital ecosystem from basic cybersecurity protections to 5G networks to other aspects of digital infrastructure, including data centers, low-earth-orbit satellites, and undersea cables, as well as to the new generation of enabling technologies, including AI. Foreign assistance is an important element of our engagement on these topics. For example, we plan to leverage foreign assistance funding to support a major undersea cable and cybersecurity resilience project together with Australia and private sector partners to connect strategically important Pacific Island countries to trusted digital infrastructure. And I will be in the region next week, I think just shortly after you, Chairwoman Kim, to build on this work. The creation of the dedicated foreign assistance fund in the State Auth is an important step in streamlining work like this Pacific Island project, providing the U.S. with the agility to move at the speed of technology and, importantly, also at the speed of our competitors. Funding assistance instrument will be critical to making long-term investments in Indo-Pacific stability. More broadly, we've launched high-level dialogs on critical and emerging tech with Singapore, the Republic of Korea, and India, together with White House and interagency partners. We also engage closely, of course, with our Quad partners on critical and emerging technologies and the cybersecurity of our critical infrastructure. We support elements of AUKUS with Australia and the United Kingdom. We are strengthening U.S. diplomatic capabilities internally, and I do not want to lose sight of this, with a goal of having a trained cyber and digital officer in every U.S. mission around the world by the end of next year. The U.S., thanks to our robust innovation economy, is the world's leading provider of cybersecurity and digital technology products and services, and the State Department works on behalf of the American people to promote stability and trusted digital ecosystems around the world. Thank you for the opportunity to appear before you today. I look forward to your questions.   Mrs. Kim of California. Thank you, Ambassador Fick. I now recognize Assistant Secretary Kang for your opening statement. STATEMENT OF HON. C.S. ELIOT KANG, ASSISTANT SECRETARY, BUREAU OF INTERNATIONAL SECURITY AND NONPROLIFERATION, U.S. STATE DEPARTMENT Mr. Kang. Chairwoman Kim, Ranking Member Bera, and distinguished members of the subcommittee---- Mrs. Kim of California. Turn your mike on, please. Mr. Kang . Thank you for inviting me to testify today on this very important topic. The mission of the State Department's Bureau of International Security and Nonproliferation, known as ISN, is to prevent, protect, and promote. We prevent the proliferation of weapons of mass destruction, WMD. We protect critical and emerging technologies, such as AI, which can be used to develop or improve WMD. Their protection stems from national security concerns, not economic competitiveness. To the extent that we promote, however, we promote civil nuclear cooperation. It is important that civil nuclear cooperation are conducted under the highest standard of safety, security, and nonproliferation. So we leverage diplomatic relationships, negotiate and implement nonproliferation agreements and treaties, offer capacity-building programs, and work multilaterally on export controls and sanctions. ISN partners closely with the Office of the Special Envoy for Critical and Emerging Technology and the Bureau of Cyberspace and Digital Policy. And we work hand-in-glove with the National Security Council and their interagency. ISN also has a deep and longstanding partnership with the intelligence community. For almost a decade, ISN has been sounding the alarm about the Chinese Community Party's growing ambition to develop the PLA through its civil-military fusion strategy, MCF for short. This MCF strategy which merges the PRC's and commercial innovation ecosystem decreases our confidence in the ability to ensure that U.S. technologies exported to PRC will be used only for legitimate civilian uses. So we have been coordinating with the interagency and especially with our indispensable partner, the Commerce Department's BIS, to counter CCP's MCF strategy. This partnership includes developing advanced semiconductor export restrictions to the PRC, such as the October 22 and October 23 rules on AI-enabling chips and chip manufacturing equipment. And as diplomats, ISN works tirelessly with our allies and partners on export control diplomacy, some of which we do not discuss beyond our confidential diplomatic exchanges. Thanks to the work of this committee and a strong bipartisan supporting Congress, the CHIPS Act and its International Technology Security and Innovation fund, known as ITSI, are making a profound contribution to this diplomatic effort. With ITSI, we are developing the Semiconductor Protect Fusion Cell to counter MCF by providing access to open source data to better recognize and raise awareness of the problematic PRC end users and disrupt any illicit activities. ISN also manages other foreign assistance programs to strengthen regional regulatory systems, improve implementation and enforcement measures, and enhance research security among partners. While PRC looms large in our work, we are also concerned with Russia. As Russia's illegal war in Ukraine continues, we are tackling Russia's growing ties with the DPRK. Just last week, in response to the deliveries of DPRK's military equipment and munition to Russia, ISN used its sanctions authority to block proliferation networks facilitating these transfers. And we are vigilant about what Russia may be providing to the DPRK in exchange. After all, nothing is free. Everything has to be paid for. Chairwoman Kim, we recognize that critical emerging technologies have global supply chains. Hence, ISN takes a global approach to protecting these technologies, including engaging like-minded partners in multilateral diplomatic efforts and expanding bilateral cooperation. However, the Indo-Pacific is particularly important, a region rich with technology innovators and critical suppliers. So ISN is deeply involved in the larger effort to maintain a free and open Indo-Pacific by promoting cooperation with our allies and partners. Indeed, ISN's critical work on AUKUS Pillar 1, a game-changing partnership, exemplifies our commitment to the region. Thank you again for inviting me to testify today. I look forward to your questions.   Mrs. Kim of California. Thank you, Assistant Secretary Kang. I now recognize Assistant Secretary Kendler for her opening statement. STATEMENT OF HON. THEA D. ROZMAN KENDLER, ASSISTANT SECRETARY, EXPORT ADMINISTRATION, BUREAU OF INDUSTRY AND SECURITY, U.S. DEPARTMENT OF COMMERCE Ms. Kendler. Thank you, Chairwoman Kim, Ranking Member Bera, distinguished members of this committee. Thank you for inviting me to testify about the Biden-Harris Administration's ongoing efforts at the Commerce Department's Bureau of Industry and Security, or BIS, to advance U.S. national security and foreign policy interests, protecting emerging technologies for peace and stability in the Indo-Pacific. I appreciate the opportunity to work with you and your teams on these critical issues to ensure that we are effectively countering China's military modernization and human rights abuses and identifying and controlling technologies critical to protecting our national security while we also degrade Russia's ability to wage war in Ukraine. We cannot accomplish these goals without collaboration with allies and partners on multilateral export controls and the expansion of international technology partnerships. Through our bureau's licensing officers, trade data and industry analysts, and our growing international policy and intelligence analysis teams, we identify sensitive U.S. technologies that would give our adversaries an advantage, and we develop the policies and strategies to protect such technologies. We assess the availability of foreign technology and the effectiveness of our controls, as well as foreign end users that require extra scrutiny. We then adopt controls that address both technology and end users. Technology controls are based on the performance specifications of an item. The country-wide controls we put in place on advanced semiconductors and semiconductor manufacturing equipment to China are an example of these technology controls. End user controls deny items to particular entities. We impose these controls through additions to our Entity List when there are specific and articulable facts that an entity is engaged in activities contrary to U.S. national security or foreign policy interests. Of the 787 China-based entities currently on the Entity List, 303, more than a third, have been added in this Administration. Many in the last 2 years have been added for companies that are shipping items to Russia. For approximately 70 years, a foundation of U.S. dual-use export controls has been the government's close work with allies and partners to coordinate our policies to control the spread of weapons of mass destruction and conventional weapons. These efforts are steered through four multilateral regimes and, for most of the world and certain of our partners, these regimes are so intrinsic to global export control systems that those country's domestic laws may not conceive of controls adopted through any other mechanism. Through technical expert meetings and other international engagements, we at the Bureau of Industry and Security are committed to the important efforts of these regimes. With our interagency partners, including the State Department, BIS has developed countless proposals over the years to add new items, remove items, and modify parameters of the control lists. At the same time, we recognize that the world has changed dramatically since establishment of these regimes after the cold war. The digital revolution complicates strategies built around the control of tangible goods. In this difficult moment, we are fortunate to have vibrant export controls collaborations, particularly with the partners in the Indo-Pacific. They have joined us in the global export control coalition of 39 major economies that have adopted substantially similar controls on Russia following Putin's brutal invasion of Ukraine, an effort that has reinvigorated our connections with export control counterparts in the Indo- Pacific and Europe. We also welcome partner engagement in safeguarding our core technologies, particularly in the face of China's challenges to global peace and security, including through the military-civil fusion strategy exacerbated by China's form of government in which the government can coerce companies to act contrary to their interests when it is in the government's interest. Through export controls we are working to cultivate trusted ecosystems that will allow emerging technologies to develop in a safe space. Export controls set a clean line about who we trust when it comes to dual-use technologies. Through these ecosystems, partners that share our values, our commitment to a rules-based order, and our security outlook benefit from trade in these technologies, while others do not. In the Indo-Pacific, our partnerships are key to fostering trusted technology ecosystems, combating economic coercion, and preventing the misuse of sensitive technologies to undermine our national security and that of our allies and partners. We maintain a host of formal and informal international engagements with other implementing agencies across the region, which I look forward to discussing with you during this hearing. U.S. export controls have been and will always be most effective when deployed in conjunction with those governments that share our values. As technology evolves, we will protect our national security by coordinating with our closest allies and partners, ensuring that the fruits of advanced technologies are applied to our shared security and prosperity. Thank you. And I welcome your questions.   Mrs. Kim of California. Thank you, Ms. Kendler. I now recognize myself for 5 minutes of questioning, and I want to start by saying that last year the Administration decided to remove the Chinese Ministry of Public Security's Institute of Forensic Science (IFS) from the Commerce Entity List. So, Ms. Kendler, since you were before our Oversight and Accountability Subcommittee and testified recently, can you explain to us why IFS was added to the Entity List to begin with? Ms. Kendler. Congresswoman, I appreciate your concern about this entity and its activities in China, its placement on our Entity List. I cannot speak specifically to an entity beyond the information that is in the public record. We have national security concerns and foreign policy concerns associated---- Mrs. Kim of California. From my understanding, IFS was added due to their egregious abuse of the Uyghur Muslims through genomics. So, Ms. Kendler and, Mr. Kang, please chime in, can you explain to us the interagency process that led to the decision to remove IFS from the Entity List? Ms. Kendler. Congresswoman, it is very important to us at the Commerce Department to--our regulations require that we have unanimous interagency agreement whenever an entity is removed from the Entity List. It is very important to us that we have the equities of all four departments that participate in the End-User Review Committee, that's Commerce, Defense, Energy, and State, and that we consider the equities of all four of those agencies whenever an entity is removed from our list. Mrs. Kim of California. Mr. Kang, do you want to add to that briefly? Mr. Kang. Yes. What I could add is that tackling fentanyl, which has been declared a national emergency by the President and is one of the top Administration priorities to get a handle on a problem, a crisis, that kills up to more than 100,000 ordinary Americans, and removing IFS allowed us to get better cooperation from China. Mrs. Kim of California. Can we talk about that just a little bit? I want to know exactly when the decision was made to remove IFS. Like, how far in advance was that decided from the time President Biden with Xi Jinping in San Francisco November of last year? I know they had a conversation. They talked about establishing a working group to tackle the fentanyl and all of that, but I am specifically interested in knowing when that decision was made. Ms. Kendler. Congresswoman, we at the Commerce Department do run the process for the End-User Review Committee, and I should note that we have around a hundred entities on the Entity List that are related to human rights abuses in Xinjiang specifically. We also have entities on the Entity List that are there for other human rights abuses in China. Specifically as to the timing, that's something that is in the interagency process, and I would be happy to get back to you within the bounds of our legal authorities of what we can provide. Mrs. Kim of California. Well, I want to emphasize, as you mentioned, the human rights should not be a bargaining chip to secure high-level meetings with the CCP. Rather, it should be the priority of meetings with our CCP counterparts. Let me move on. You know, we have a series of multilateral engagements with our partners and allies in the Indo-Pacific on technology issues, including the Quad working group on critical and emerging technology and the ASEAN Committee on Science, Technology, and Innovation. Ambassador Fick, this is something that I think you can speak to. Do we have the diplomatic structures to engage in discussions at the working group level on specific sectors of technology cooperation? If so, what sectors have a stronger diplomatic framework or which are lacking? Mr. Fick. Thank you, Congresswoman, for the question. I believe that the creation of these new organizations at the State Department is an effort on our part to do exactly what I believe you're asking, which is ensure that we have the organization, the expertise, and the senior representation to engage with our counterparts bilaterally and multilaterally on these topics everywhere of geopolitical significance to the United States. I will be representing us, for example, at the ASEAN Digital Ministerial Meeting in Singapore in a couple of weeks. And the areas where we have the closest cooperation include cybersecurity capacity building, ensuring---- Mrs. Kim of California. Will you be leading our discussions on our end on all of these structural engagements? Mr. Fick. I am not sure that I can categorically say all, but I do represent us on the digital ministerial track with ASEAN, the G20, the G7, and other similar organizations, yes. Mrs. Kim of California. Thank you. My time is up, so now let me recognize Ranking Member Bera for 5 minutes of questioning. Mr. Bera. Great. Thanks, Chairwoman. Maybe this is a question for Ambassador Fick. Certainly, the focus of this subcommittee hearing is investment export controls on critical technologies. An area that I have been thinking about a little bit, which I think is a bit harder to get a grasp on, but I think, Ambassador Fick, with your experience in the private sector and the technology sector, should we, as Congress, be thinking about, you know, where funding for venture companies come from and if let's say the PRC is funding dollars in venture that are then going to U.S. startup companies that are looking at critical technology? Like, how do we track that? How should we think about that because that also seems to be an area of potential vulnerability where it looks like a U.S. startup is working on this, but outside investors could--is that an area we should be spending time thinking about and how should we think about that? Mr. Fick. Congressman, it is a bit outside the remit of my current role, but I did spend 10 years as an operating partner at a venture firm, and so it brings some perspective to the question. I think it is important that we think about these investment issues both inbound and outbound and, certainly, PRC or other investment dollars as limited partners into these funds usually come with strings attached around required partnerships or technology transfer. And so a congressional role in shining a light on that, making it clear, and encouraging investors in the United States to look a layer or two deeper would, in fact, make us more secure. Mr. Bera. Ms. Kendler. Ms. Kendler. Thank you. This is a really important topic to be discussing. I was out in Silicon Valley last fall having conversations exactly on this topic, making sure that we have educated nascent U.S. startups about export controls because, no matter where the money is coming from, the technology flow is controlled under export controls, depending on the nature of the technology or the end recipient of the technology. So those laws remain in place as implemented by Commerce with our colleagues regardless of who is investing in the technologies. Now, I completely agree that we should be very concerned about whether strings are attached, and that is certainly something that we can look at also in the CFIUS context when you have foreign enterprises acquiring U.S. entities. Here, it is a little bit harder to see, but our export controls will apply to the technology regardless. And we have a responsibility at Commerce, which we are deeply engaged in, to educate all sorts of enterprises, small, medium, well established, nascent about those controls. Mr. Bera. And let me ask a similar question on outbound investment. I think what I call the civilian-military policy doctrine, I think you guys were calling the military-civilian fusion policy. You know, legitimately, U.S. companies, U.S. investors may be looking for investment opportunities overseas and so forth, and, you know, I asked this question earlier today: how should we think about, you know, again, legitimate investment that not necessarily understanding that that investment in a foreign entity, let's say an entity in the PRC, then potentially is developing technologies, et cetera, creating talent that may inadvertently undermine U.S. national security interests. Again, you know--yes, please. Ms. Kendler. I think export controls provide an excellent guidepost here. I share your concerns about money going into enterprises that may be working on indigenous technology that we have barred for export. And so the two issues go hand-in- hand in terms of the most critical technologies that we are focused on protecting and that may be, for individual companies or funds looking at investing, that may be a starting point. Mr. Bera. Does Commerce have the authorities to restrict those funds from being invested or are those new authorities? Ms. Kendler. We do not control the flow of money at the Commerce Department or in the Bureau of Industry and Security, but any technology would be controlled under our authorities. And I anticipate, in any sort of outbound regime, that it would be our technical expertise in the Bureau of Industry and Security that would be applied. Mr. Bera. My sense is that is an area where it is not outbound technology that is going there but it is a startup company in an adversary that, you know, is drawing in external investment, but now they are working on some of those technologies indigenously. Secretary Kang, Ambassador Fick, if you want to answer Mr. Kang. Yes, if I may. There is clearly a glaring gap. Export controls could do so much because it basically deals with tangible goods. And with regard to even these passive investments but particularly in the case of venture capital, you also transfer intangible knowledge and know-how, and this gives a company in China or wherever access to U.S. origin or Western origin knowledge base. And another thing. As someone who has worked nonproliferation for over a decade, there are so many fund companies that are dealing with, seemingly, appearing very legitimate with legitimate support, but they are fronting for either the military or intelligence services in the case of PRC. Mrs. Kim of California. Your time is up. OK. Let me now recognize Ms. Wagner, Representative Wagner, for 5 minutes. Mrs. Wagner. Thank you, Madam Chairman. And I thank our witnesses for their service. China intends to supplant the U.S. as the global leader in critical and emerging technologies at any cost: bullying, bribery, and outright IP theft. If China is allowed to achieve dominance in the technologies that will shape our future, American communities and businesses will, in fact, suffer. Our allies and partners also risk losing access to safe, secure infrastructure and technologies that we all rely on for communications, for transportation, it could be medical care, national security. I could go on and on about other essential industries. The Indo-Pacific region is a global center of technological expertise and advancement, and the U.S. must work in lockstep with Indo-Pacific countries to safeguard sensitive cutting-edge technologies and reduce technological dependence on China. Assistant Secretary Kang or Kendler, what sector or subsectors of technology are the Indo-Pacific countries most concerned about and how would you rate their ability to protect these technologies from adversarial nations? Where are the biggest gaps in the Indo-Pacific to protecting critical technologies? Ms. Kendler. Congresswoman, when we think about critical and emerging technologies here, we are guided primarily by the 19 categories of items that are identified by the White House in the critical emerging technologies list, and that is each one of those technologies is a space where we have export controls---- Mrs. Wagner. Where are the gaps? Where are the biggest gaps? Ms. Kendler. I think that we have room to improve, but there are no big gaps. I would not identify big gaps. I would say that we have controls in each of these spaces. Our controls are generally defined in terms of technological floors, so as innovation occurs in these areas, they are already captured. And if they are not, we are working with our allies and partners, particularly those who are members of, I would say in this space, the Wassenaar Arrangement, which includes quite a few Indo-Pacific---- Mrs. Wagner. Well, here is a gap that I see, and, Ambassador Fick, let me try this with you. Today, submarine cables transport 99 percent of intercontinental data. These cables are important. The fact that China is planning to increase its role in the development and the repair and production of undersea cables, what measures are your departments taking to undercut these plans and which pose, I think, a serious threat and gap to the secure flow of data around the world. Mr. Fick. Congresswoman, I agree very much with the premise of your question. I am going to the South Pacific next week on an undersea cable project to advance trusted connectivity across the South Pacific. I believe that, when our adversaries tell us what they intend to do, we should believe them. Mrs. Wagner. Yes. Mr. Fick. We watched them run a playbook with telecom. They are running the same playbook with every other technology area, including undersea cable. Unlike in telecom, we still have a national champion manufacturer here in the United States of trusted undersea cable, and we need to be careful to ensure that that company remains vibrant. And we have a comprehensive effort underway to put trusted undersea cable in place across the South Pacific. Mrs. Wagner. I am very concerned about Chinese companies repairing or even having access to undersea cables owned by U.S. carriers, to be honest. Are we concerned about this? Mr. Fick. I was recently at the cable repair depot in Sri Lanka asking exactly those questions about the Indian Ocean. Yes, we are concerned about it; and, yes, we believe that that is critical infrastructure that the U.S. needs to protect from end to end. Mrs. Wagner. And let me, just to followup again, what Indo- Pacific regions and partners are most dependent on China for undersea cable development and how specifically is the U.S. collaborating with our partners to reduce dependence on PRC- controlled infrastructure and promote safe and secure infrastructure? Mr. Fick. One of the best things we can do is get trusted cables deployed. That is, U.S.-or Japanese-or French- manufactured cables that are owned and operated by the hyperscale technology companies that are generally American companies. So we are working to get those projects in place with branching units that will allow the development of spurs to islands and nations where we maintain military and other relationships. Mrs. Wagner. Well, these cables, as I said, they transport 99 percent of intercontinental data, so this is a big, big concern that we should have, especially their access and repairing. So my time is expired. I yield back to the Chair. Mrs. Kim of California. Thank you. I now recognize Representative Sherman for 5 minutes. Mr. Sherman. I want to applaud the Administration for the action you have recently taken. As Mr. Fick points out, China is using all elements of national power. Their biggest element perhaps is their enormous trade surplus with the United States. It is over a third of a trillion dollars every year, and that means that it is 150 percent of what they spend on the People's Liberation Army. So just what they create as a trade surplus, they could finance one and a half People's Liberation Armies. In the trade effort, we have tariffs, they have tariffs. Theirs are higher. But they also have the capacity to orally instruct their companies not to buy from the United States. We cannot do that. No Member of Congress is going to call a major company in their district and tell them who to buy from. And so we have to match with tariffs. What they can do under the table, we won't. We will continue to run a giant trade deficit, and that means that every decade China will have an extra $3 trillion. We are not at war with China. This is not a zero-sum game. If China develops better teddy bears more efficiently, I am happy for that. If the Chinese people live better, that is not a bad thing. We cannot just have entity controls because you can create a front company, as Mr. Kang points out. They can create a startup that is as sinless as a newborn babe, and we would have no reason to sanction that individual company. Technology is not, as Mr. Kang points out, not just a product that we can control. It is know-how, it is inspiration, it is direction for research. I want to illustrate this, that it is important what areas we focus on. If China has a big ship and we need somebody to carry our cargo, fine. And that means it is in the interests of the American shipper or the insurer to give them ideas on how to be more effective at ocean commerce. Fine. But we had a situation also in transportation but not taking our product from one port to another but taking our satellites into space where American companies who own satellites or who insured the launch gave them ideas on how to have better rockets. So we have to look at every relationship, particularly those that involve consulting. I want to urge some of my colleagues to look at a number of pieces of legislation. Mr. Van Drew and I have the Country of Origin Labeling Requirements Act because a lot of people want to see where something is made, which is fine. If you're in the store, it is right on the box. What if you buy from Amazon? You have no idea. What are you going to do? Ship the product back that you open the package and it is made in a country you do not want to patronize? We need to get our companies to report to their shareholders what they are doing to reduce their China risk. And as I said at this morning's hearing, we need to end the capital gains allowance for investment in China. Mr. Fisk, you are our digital policy special Ambassador. One thing I am worried about is digital misinformation from China. One of their best tools for that is TikTok. It is my understanding that, while we monitor other sources of digital misinformation, the relevant bureau, the Global Engagement Center, in the State Department does not monitor TikTok because you cannot have it on a government computer. What are we going to do so that we monitor what is going on on TikTok? I am confident that we have the technical expertise to make sure that one particular computer at the State Department does not give them access to the rest. When are we going to start monitoring TikTok's disinformation? Mr. Fick. Congressman, I believe I have said in previous testimony that I am the least popular parent in my children's middle school because of my stated views on TikTok. I do believe that it represents---- Mr. Sherman. We have got to monitor it. When is the State Department going to start monitoring it? Mr. Fick. I can consult with my colleagues in the Global Engagement Center, and we can get an answer---- Mr. Sherman. And could you furnish for this committee a statement as to whether we are monitoring it as we do other social media or whether we have abandoned that? And do not tell us, well, there is an executive order to say do not put it on a government computer. I am sure we could allow it to be on one unconnected air gap government computer. Mr. Fick. I am confident that we can get back to you on a question for the record in detail on that. Mr. Sherman. And then, Ms. Kendler, there is a tendency to think that in export controls, well, if we say no to the export, all we are doing is hurting corporate profits, and so all the national security interests are on one side. I would admonish you two things: When we say no, that means some other company in some other country says yes, and that builds that capacity. And when we say yes, it goes to an American company that builds our capacity. And, second, when our department acts slowly and then ultimately approves something, but it is too late because the business has gone elsewhere, we have lost on all fronts. So saying no or delaying is not without national security risk. Of course, saying yes at the wrong time is what you are most likely to be criticized for. I yield back. Mrs. Kim of California. Let me now recognize Representative Davidson for 5 minutes. Mr. Davidson. I thank the Chairwoman. It is an incredibly important hearing, and I am glad to see that we can have Administration witnesses because this is a topic that is incredibly important. Obviously, Republican promises on a whole host of things conflict with some of the Biden Administration promises, and, in this area, I am encouraged to see that we are aligned. Ambassador Fick, I am encouraged by your appointment and, frankly, by your credentials. You are one of a handful of private sector people, non-academia, people that have worked in capitalism, not in think tanks or in academia, that is part of the Administration and credited as one of the most innovative thinkers in the market. So glad to see you are there. When you think about this space, in 2018, the United States decided to update the Foreign Investment Risk Reduction Modernization Act, a kind of framework for foreign investment into the United States, and we did touch on the idea of outbound investment. Where are the voids that you are most concerned about? Mr. Fick. Thank you, Congressman. I appreciate your gracious words. I think that the specifics of inbound and outbound investment do fall outside my remit, so I would want to yield to colleagues who are perhaps closer to that particular issue and reState what I did say earlier, which is that I think that we need to have attention on both sides and I think that there is more that we can do in this world where so many of the innovative technologies that are increasingly contributing to national power are being developed by companies that, frankly, are very small or may not exist today, and they are going to change the landscape very quickly. But I would defer to colleagues on the specifics. Mr. Davidson. Thank you. Ms. Kendler. Thank you, Congressman. We have to avoid a situation where U.S. investments are supporting Chinese military modernization. We cannot permit the intelligence, the military technology of China to be built on U.S. funding. That would undermine our national security and foreign policy interests---- Mr. Davidson. I wholeheartedly agree. Prior to being in Congress, I was in manufacturing. This is a little bit outside your area, but, fundamentally, does not our whole trade policy facilitate that? Ms. Kendler. Congressman, our export controls are calibrated and tailored for advanced technologies to China. The technologies that China cannot get elsewhere---- Mr. Davidson. The entire industrial base is at risk. We saw that during COVID. You look at whether it is vitamins or base chemicals, I mean, fundamentally, we have a real supply chain risk problem, do not we? Ms. Kendler. We are very focused on our supply chain issues and U.S. technological leadership in the supply chain. We are on the brink of issuing a survey to poll the industry about legacy semiconductor chips, for example, as an area where we need more information about our supply chain, and that is certainly connected to national security. Our export controls are focused on national security and foreign policy interests. Last fall, we published an update to our artificial intelligence semiconductor chip rule to make sure that the chips, the most advance chips, which are made using U.S. technology, are not feeding the Chinese military, that are not being used for AI modeling of hypersonic missiles. Mr. Davidson. I thank you for that, and, certainly, that's important. I haven't been part of the debate on the CHIPS Act that we passed that, in theory, was supposed to strengthen the U.S. supply chain and, in a way, weaken China's or limit their access to the most innovative chips. I do worry about some of the unintended consequences. One of the companies in my congressional district is Silfex. They are a large employer in the region, but, fundamentally, they are supplying base material, silicon wafers, which is more of a commodity, and they are at risk of losing substantial employment because they cannot export those things. China is doing fine on commodity- grade chips. So how do we strike the balance and not, you know, cause more harm to domestic manufacturers than we are intending? And I think the other thing is, when you talk about, you know, Ambassador, you mentioned small companies, when you talk about the biggest companies, a lot of times they will just create a different entity offshore and do the same thing. So how do we capture that with our current look at outbound investment? Ms. Kendler. Congressman, I am not really in a position to talk about outbound investment. In the export controls context, speaking of the AI chips rule, we actually, last October, took that issue on directly. We expanded our controls to deal with third countries that might be providing an opportunity for China to receive the chips that we have controlled through diversion or evasion of our controls. And so we established a license requirement for third countries that we thought might be susceptible to---- Mr. Davidson. What about domestic manufacturers, like Silfex? What are we doing for those guys? Ms. Kendler. Congressman, I do not want to speak about a particular company here, but I would be happy to followup with you and your team---- Mr. Davidson. We would greatly appreciate it because I think we are causing some unintended consequences or at least I hope they are unintended. I yield back. Mrs. Kim of California. Thank you. I now recognize Representative Andy Kim for 5 minutes. Mr. Kim of New Jersey. Yes. Thank you, Madam Chair. Thank you to the three of you for coming before us to be able to have this conversation. Assistant Secretary Kendler, I wanted to start with you. In your opening remarks, you talked about sort of our partnership globally, especially with partners in the Indo-Pacific, and you were making reference about some of the progress that we have made, especially vis-a-vis the challenges we face with Russia. I wanted to see if you can just expand on it a little more. I want to get a little bit more granularity from you just what has gotten better, stronger in that capacity and what have we seen on that progress that might be transferrable or applicable to the challenges that we face vis-a-vis China right now. Ms. Kendler. I appreciate that question quite a bit, Congressman Kim. It has been a core focus of our work over the last 2 years since Russia's invasion, further invasion of Ukraine. We, working with our implementing agencies around the world, 39 major global economies coming together to adopt substantially aligned measures toward Russia, Belarus, and, to a degree, Iran, as well, to keep the technologies that Russia and their allies need from reaching them. They need U.S. technologies. They do not have indigenous semiconductor manufacturing, for example. They must buy chips from outside Russia. That is just one example of a host of technologies that Russia requires to wage war. So by building this coalition and maintaining this coalition, which has required an enormous amount of effort, we have established new working-level connections, new senior- level connections, between all of the implementing agencies associated with these substantially aligned controls, which enable us to talk about issues beyond Russia. Emerging technologies is an area where we are able to say, well, how are you dealing with this issue and share how we are dealing with the issue on a very practical level. And that can certainly carry over into any other space. We welcome conversations and are eager to have them. Our main partners in that effort have included Japan and Korea particularly. Of course, the EU and the UK are there, as well. But it is a great mechanism for further very practical cooperation. Mr. Kim of New Jersey. Yes. Thank you for that. Assistant Secretary Kang, I want to bring you into this conversation here, especially with the insights that you have. We talked about some of those partners, South Korea, Japan, others that have a lot more experience in this. But what we also know is that, in the Indo-Pacific, there are actually a lot of partners, though, that do not have as much of that experience and that infrastructure in terms of a robust expert control regulatory and enforcement system. So I guess I wanted to just get a sense from you how are we trying to help buildup that type of capability, that technical aspect, in terms of assistance or trainings? Is that something that we should be thinking about more to just try to lift that baseline up? You know, it is good that we are doing it with certain partners that already have some of that capability, but I just feel like there is sort of a weak-link situation here where we need to try to figure out how to kind of raise all boats there. So what are your thoughts in terms of that? Mr. Kang. Exactly. I agree with everything Assistant Secretary Kendler has said about working in coalition. And, certainly, the cooperation that we have engaged together to counter Russia could be transferrable with regard to dealing with China. But there is a serious capacity issue with regard to implementation, Administration. Some countries in the region do not have basic strategic trade laws. And another priority is also, given the trade flows, so many of the countries, the No. 1 country they trade with is China. So there is also the political will, how much to cooperate in this venture. So we are engaging diplomatically alongside our implementing partners from other agencies to engage at the highest leadership, political leadership, to highlight why it is in their interests to have a strong export control system, that it will actually build their prosperity by having a reliable and trusted network of suppliers and buyers. So we are utilizing the bipartisan support that you have given us with regard to our native funding and also in the context of the CHIPS Act, the ITSI fund. Particularly, we are focusing on semiconductor packaging in Southeast Asia. So those are extremely valuable in building that capacity. Mr. Kim of New Jersey. Thank you for that. And I think that is absolutely key is just this coalition building. Ambassador Fick, I just want to give you the last word here, just some of your reactions to this and just how you think we can try to make sure that this is not some weak link in this broader effort that we have. Mr. Fick. Congressman, I think one of the most pernicious terms in international technology diplomacy is digital sovereignty and the idea that any country can go it alone on these issues. And so it reminds me of those broadsides from the American Revolution that said we hang together or we surely hang separately. These are issues where we need to hang together with our allies and partners as we look at the stated intent of our geopolitical competitors and adversaries, especially the PRC and Russia and Iran and---- Mr. Kim of New Jersey. I will just say here, as I am running low, is just let's make sure we are getting to follow- on conversations about some of these other countries that we should be engaged. Sometimes, we talk too much about some of the ones that are working the best, but let's try to figure out how to engage on some of these others. Thank you. And I yield back. Mrs. Kim of California. Thank you. Let me now recognize Representative Andy Barr for 5 minutes. Mr. Barr. Thank you, Chair Kim. And let me followup with Assistant Secretary Kendler on Chair Kim's questioning about the Institute of Forensic Science. Just for everybody watching, this is, again, the Chinese Ministry of Public Security's Institute of Forensic Science, and it was, at one time, added to the Commerce Entity List; and then there was a decision that was made to remove IFS from the Entity List. And, again, for everybody watching, what is IFS? IFS was originally added to the Entity List due to their egregious abuse of the Uyghur Muslims through horrific genetic testing activities that echo the various crimes against humanity undertaken by Nazi Germany. IFS was removed from Commerce's Entity List. Now, Assistant Secretary Kendler, I am not suggesting this was your decision or even Undersecretary Estevez's decision, and I know you respond to Secretary Raimondo, not the State Department. But I want to know from you, to the best of your understanding, did the State Department direct BIS to remove this horrible group, IFS, from the Entity List? Ms. Kendler. Thank you for the question, Congressman. Each agency that participates in the End-User Review Committee has an equal vote. State Department's vote, Commerce Department's vote, they carry the same weight. Mr. Barr. So Commerce is equally culpable as the State Department in the decision to remove IFS from the Entity List, this Chinese entity that engages in genetic testing reminiscent of Nazi Germany. Ms. Kendler. Congressman, I am the granddaughter of a survivor. Mr. Barr. I know. Ms. Kendler. What I can tell you is that human rights and fentanyl, preventing deaths from fentanyl are both deeply important issues for this Administration. Mr. Barr. What did the Administration get from China, from the Chinese Communist Party for removing this entity from the export control Entity List? What did we get? Ms. Kendler. Given the national security imperative for handling the fentanyl precursors coming into this country, we were comfortable taking the step to delist IFS. It became clear that including IFS on the Entity List, it inhibited counternarcotic action by---- Mr. Barr. When was it removed from the list? Ms. Kendler. I do not have the exact date. November of this year, of last year. Mr. Barr. And have we seen in the time since it was removed, have we seen any material enhanced cooperation from China on fentanyl? Ms. Kendler. I will defer to my colleague at the State Department on that answer. Mr. Kang. I could speak to that briefly. I understand there has been really ramped-up enforcement measures by the Chinese, and they also promulgated regulation pushed out further regulating trade and fentanyl precursors. Mr. Barr. See, here is what I do not understand: why we are always chasing diplomacy from a position of weakness. Why are we removing bad actors from our entities lists and our sanctions lists? Why do not we negotiate from a position of strength? Why do not we sanction? Why do not we impose more export controls on bad actors instead of making upward concessions with the hope that China will somehow change its behavior down the road. That is what I do not like about this diplomatic approach. It is negotiating from a position of weakness. Do you have a response to that? Mr. Kang. If I may. As a career civil servant serving in multiple Presidential Administrations, I see bipartisan consensus with regard to China. I think all of us see China for what it is. And the decisions we make may be tactical in nature and there may be tradeoffs that we have to make, but I see total consistency. Particularly, I served also in the Trump Administration and this Administration---- Mr. Barr. Well, reclaiming my time. If we want to get tough on China and their peddling of the ingredients into fentanyl, exploiting our open southern border and killing our people, poisoning our people with fentanyl, and that happens a lot in Kentucky, in my home State, unfortunately, with components from mainland China. Why do not we sanction? Why does not the Administration support my bill that would sanction these Chinese entities that are responsible for manufacturing this poison instead of taking off a genetic testing arm of the Chinese secret police from the Entity List? Ms. Kendler. Congressman, I welcome the information that you have on entities in China operating to violate human rights, and we would be pleased to work with you and your team to get that information. We use the Entity List for national security and foreign policy protection, and we are eager to put entities on that have articulable and evidence-based reasons. In this instance, to protect national security, we care both about human rights and about fentanyl precursors for exactly the reasons you have identified, for the people dying in Kentucky and elsewhere. And those are both priorities. Sometimes, we make tradeoffs to protect our national security, and we---- Mr. Barr. I see my time has expired. I do not think we have to make tradeoffs. I think we need to be tough on China and not make these up-front concessions in the hopes that somehow China will change their behavior. With that, I yield. Mrs. Kim of California. Thank you. Representative Barr, I want to thank you for raising that issue just, you know, since I have also raised that issue. I want to know if you know if the flow of fentanyl from China has decreased since November when the two leaders met and agreed, as I mentioned earlier in my line of questioning, when they decided to create the working group to address the fentanyl. I personally have not seen the decrease in fentanyl from China. Instead, my county, Orange County, that I represent, which is so close to the southern border, I work closely with the local law enforcement. Orange County Sheriff's Department have told me actually there is more increase in the fentanyl coming through our southern border. So I am not sure if you can say that we have addressed this issue. The devil is in the details. What has the working group done since November when the two leaders met and since we have, you know, taken the IFS off the Entity List? Mr. Kang. Chairwoman Kim, I could take that question back to those who more closely follow this issue. But just as we see problems with regard to advanced semiconductor chips popping up in Chinese companies, even after we controlled them, sometimes there is a lag effect and also there's an inventory that has been pushed out. So it is an incomplete answer, but I will get back to those folks who track this more closely and get back to you. Mrs. Kim of California. Thank you. Sorry about that. I now recognize Representative Keating for 5 minutes. Mr. Keating. Thank you, Madam Chairman. An area we haven't hit yet in our discussion is the nuclear area, which overlaps many of the things that your agencies are involved with. You know, there is a lot going on in Europe in terms of small modular reactors, but, you know, China, Pakistan, South Korea, Japan, Taiwan, Bangladesh, among others, all have nuclear programs. What are we doing through your particular agencies to deal with really very challenging issues of, No. 1, maintaining our competitiveness economically; our security, something that former Secretary Moniz addressed recently in terms of a collective approach, a multilateral approach, that has to deal with security issues around nuclear power and nonproliferation. It seems like the U.S. is, you know, lagging many of the other countries in many other regions of the world, and I am concerned in the Indo-Pacific, if their programs begin to expand into things like SMRs or other areas or continue to grow, we might continue to have a greater gap. Mr. Kang. I think I'm the nuclear person in the panel. Actually, sir, we have good news. It is a combination of nuclear accidents, Three Mile Island, Fukushima, not to mention Chernobyl, has really stymied development of nuclear energy and energy technology development in the West and also in the United States. But everybody recognizes that energy security is critical to our strategic strength, and nuclear is part of that picture. And also those who care about climate change, nuclear has to play a role as a bridging capability. And, fortunately, this is playing for our strength, our innovation. And among the small modular reactors that are out in the market today, those who are most advanced and have passed the certification of the NRC, a regulatory authority in the United States that is looked upon by everybody as the gold standard with tremendous respect from abroad, some of these reactor designs have passed muster and ready to deploy. And we are making tremendous progress in Europe, particularly among our Eastern European NATO allies. And with the situation with regard to Ukraine, the whole region is seized and they recognize that SMR is the answer to energy independence and security. There are also great opportunities in East Asia. We have partnerships with Japan and Korea. They have invested in some of our SMR technologies, and we are working together to provide collectively those funds that are necessary to create the foundation in recipient countries, particularly in Southeast Asia, so they could proceed with nuclear pursuits safely, securely, and nonproliferation guaranteed. So we are pouring all of our resources, particularly with ISN has its own tranche of capacity-building capabilities. We have this program called FIRST, and we are heavily investing in the region. Mr. Keating. And are we, at the same time, dealing with security issues as part of those discussions? Mr. Kang. Absolutely. Security, safety, has to be part of it, not just nonproliferation. Mr. Keating. Quickly, I just wanted to touch on one other area that overlaps, I think, some of the Transatlantic areas. You know, the Iranian drones that we found, there were components of that from our allies that were found in the actual drones that were being given to Russia to brutally assault Ukraine. How are we dealing with the disparities that do exist between our country and our own allies on many of these fronts? What are we doing to close that gap so there is no loophole there? Mr. Kang. So one of the things we are doing is, of course, threat awareness. A lot of these countries do not realize they are the source, the companies, whether they are front companies or actually production companies where they are producing products that end up in these drones. I have seen these drones and touched them, these drones that were deployed in Ukraine and also in the Middle East. And they are Iranian origin. But when you look at them, they use very basic technologies. These are difficult to control. A lot of it are commodity items in a sense. They are not quantum computing devices. So awareness is absolutely critical. And, recently, at the department, I cannot discuss it in further detail, we gathered together last week a group of countries to strategize together what we could do in terms of interjection, better export control, and apply national sanctions. Mr. Keating. This has to be done multilaterally, not---- Mr. Kang. Absolutely. Mr. Keating . By ourselves. Thank you. I yield back. Mrs. Kim of California. Let me now recognize Representative Radewagen for 5 minutes. Mrs. Radewagen. (Foreign language spoken.) Good afternoon. Thank you, Chairwoman Kim and Ranking Member Bera for holding this hearing. The modern globalized world is one of wonder. Modern telecommunications make it so I can speak to my family at home in American Samoa from here in Washington, DC, almost 10,000 miles away, without any issue. That technology that allows this instant communication is mainly off-the-shelf products. Now, an issue that many Pacific Island countries have is monitoring our EEZs. These off-the-shelf technologies have helped many of my neighbors in monitoring their EEZs to counter illegal activities. I have quick questions for all of you. Ambassador Fick, would you agree that advances in software and data management are creating opportunities for U.S. diplomacy to support both domestic industry and national security and foreign policy missions? Mr. Fick. I agree very much with that. Mrs. Radewagen. Thank you. Secretary Kendler, if these types of items are wholly comprised of EAR99 technology and do not touch military systems in most cases, would BIS require a license for the transfer of the time to an ally or defense treaty partner? Ms. Kendler. We do not require licenses for low-level technologies classified under EAR99 to allies and partners unless there is an activity or an end user of concern in those countries. Mrs. Radewagen. So my last question is for you, Secretary Kang. Is this an area in which ISN can play a supportive role, including through export control cooperation, to build a unified, cohesive approach to the transfer of these types of systems? Mr. Kang. Absolutely. Working multilaterally is the key. We cannot go it alone, so we have to create a community of interest and we have to have common values, as well. This is where human rights also comes into play in export controls, so we have created in the auspices of Summit for Democracy something called ECHRI, Export Control and Human Rights Initiative. So all of these things come in, but all of these things have to be with the like-minded and those who share our values and common interests. Mrs. Radewagen. Thank you, Madam Chair. I yield back the balance of my time. Mrs. Kim of California. Let me now recognize Representative Connolly for 5 minutes. Mr. Connolly. Thank you. Welcome to our panel. Ms. Kendler, you are at the Department of Commerce. Presumably, it is a concern to the Department of Commerce, as it is to the Department of State, that something like 90 percent of the memory chip manufacturing capacity in the world is in one place with one company in Taiwan. What concerns do we have, given Chinese saber-rattling, about Taiwan with respect to the security of that critical manufactured product? Ms. Kendler. Congressman, Taiwan---- Mr. Connolly. Can you get closer to the mike? It's hard to hear you. Ms. Kendler. Sorry, sir. Is this better? Mr. Connolly. Yes, great. Thank you. Ms. Kendler. Sure. Taiwan is a very close export controls partner, and we certainly want to do what we can through export controls to make sure that Taiwan has the technology it needs. Mr. Connolly. No, that's not my question. My question is that technology is at risk because of Chinese aggression. If China crosses the Taiwan Strait, the manufacturing capacity, 90 percent of it, in terms of memory chips, is now in Chinese hands, not Taiwanese hands. Ms. Kendler. Congressman, through our efforts to protect national security and our foreign policy interests, we are cutting China off from the technologies it can use to wage war, and that includes our measures last fall on artificial---- Mr. Connolly. Ms. Kendler, I'm sorry. Again, that does not address my question. My question has to do with the security of what is already there in Taiwan. What are we doing in terms of building redundancies, off-shoring Taiwanese manufacturing capacity, bringing it home if necessary, to ensure that we aren't so heavily reliant on one source with one company in one place? Ms. Kendler. Congressman, this is an important issue for the Commerce Department. I have been trying to give you export controls answers, and I do not think that is suitable to the question. Mr. Connolly. Right. Ms. Kendler. So perhaps we can take this back and get you additional information from other parties at the Commerce Department who are looking at this question with a different lens. Mr. Connolly. OK. Mr. Kang. Mr. Kang. Perhaps I can---- Mr. Connolly. I must say, I am really, I cannot believe, at this point, that that's the answer of the Commerce Department of the U.S. Government, but, if that's what it is, that's what it is. It is not like this is a new issue. Mr. Kang. I think this is where---- Mr. Connolly. It is a huge security concern. Mr. Kang. Mr. Kang. Yes, absolutely. So I think this is where congressional leadership is paying out. This is, of course, the CHIPS Act. The whole idea is to diversify the supply chain. So if we are not bringing it back home and we, of course, have a Taiwan company investing in the United States, a foundry. Also, in Japan, that's the case, as well. But also with regard to packaging and other even legacy chips, we are trying to have them in hands of our friends and allies. So this is, again, because of the foresight bipartisan support of Congress, I think that is the answer. But that will have to play out. Mr. Connolly. But I think, like so many other supply chain issues, we need to better understand how did this happen. I mean, this is American-invented technology that migrates to Taiwan because we weren't willing to put the resources into it the way they were. And, yet, the moment it is in friendly hands, may it ever be thus. But we have to plan for the what- ifs, and China is making no secret of its designs. What is point of view, Ambassador Fick, of the State Department from a policy point of view with respect to this? Mr. Fick. I think an aspect of this that falls within my remit, Congressman, is working closely with my Taiwanese counterparts in an unofficial capacity to ensure that we are transferring to them lessons that we have learned in other places, like Ukraine, in order to strengthen deterrence and ensure that Taiwan, we maintain the status quo. Mr. Connolly. Really? So you think negotiating with Taiwan or advising Taiwan on deterrence protects this 90-percent worldwide manufacturing capability unique to Taiwan? Mr. Fick. I think we recognize the importance of Taiwan's unique role in the global economy because of the concentration of semiconductor manufacturing. I think we are taking comprehensive steps to diversify that supply chain outside Taiwan, part of it in the United States, part of it in friendly countries. And we are clearly trying to buy as much time as we can in order to develop and mature those alternatives, and that involves strengthening deterrence. Mr. Connolly. Thank you. Mrs. Kim of California. Thank you. Well, I want to thank the witnesses for your valuable testimony and the members for asking your questions. The members of the committee may have some additional questions, and I do, too, for your witness responses, and I will ask you to respond to those in writing. We cannot allow the Chinese Communist Party to dictate how critical and emerging technologies are developed and used. Xi Jinping cannot be trusted, and all technology developed under his regime can and will be used for human rights abuses and military aggression. It is, therefore, of the upmost importance that we invest in our own technological base, that we ensure all U.S.-developed technology is protected, that the U.S. and like-minded allies and partners are setting the rules of the road for the use of technology worldwide, and that we are able to jointly develop and manufacture critical technologies efficiently. It is important to recall that the United States established NATO after the end of World War II. It also created CoCom, the Coordination Committee for Multilateral Export Controls. The concept was simple: if the United States is going to guarantee the security of our allies, then our allies would help deny the export of strategic technology to an adversary. And fast forward, today, an adversary is inside our export control regimes. In some respects, we do not need novel solutions to our technology transfer problems. Instead, we need to go back to what worked: small groups of partners and allies denying our adversaries access to strategic technology. I want to thank all of you for joining us today. It is clear that we have much more work to do to be able to seamlessly develop critical and emerging technologies with our allies and partners in the Indo-Pacific and to protect these technologies from authoritarian adversaries. So I look forward to continuing our work with each of you to fill these gaps and maintain our U.S. technological superiority. In closing, pursuant to committee rules, all members may have 5 days to submit statements, questions, and extraneous materials for the record, subject to the length limitation. So without objection, the committee now stands adjourned.  APPENDIX  
+
+
+PROTECTING EMERGING
+TECHNOLOGIES
+FOR PEACE AND STABILITY IN THE
+INDO-PACIFIC
+=======================================================================
+HEARING
+BEFORE THE
+SUBCOMMITTEE INDO-PACIFIC
+OF THE
+COMMITTEE ON FOREIGN AFFAIRS
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED EIGHTEENTH CONGRESS
+SECOND SESSION
+__________
+JANUARY 17, 2024
+__________
+Serial No. 118-75
+__________
+Printed for the use of the Committee on Foreign Affairs
+
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+53-137 PDF WASHINGTON : 2024
+Available: http://www.foreignaffairs.house.gov/, http://
+docs.house.gov,
+or http://www.govinfo.gov
+-----------------------------------------------------------------------------------
+COMMITTEE ON FOREIGN AFFAIRS
+MICHAEL T. McCAUL, Texas, Chairman
+CHRISTOPHER H. SMITH, New Jersey GREGORY MEEKS, New York, Ranking
+JOE WILSON, South Carolina Member
+SCOTT PERRY, Pennsylvania BRAD SHERMAN, California
+DARRELL ISSA, California GERALD E. CONNOLLY, Virginia
+ANN WAGNER, Missouri WILLIAM KEATING, Massachusetts
+BRIAN MAST, Florida AMI BERA, California
+KEN BUCK, Colorado JOAQUIN CASTRO, Texas
+TIM BURCHETT, Tennessee DINA TITUS, Nevada
+MARK E. GREEN, Tennessee TED LIEU, California
+ANDY BARR, Kentucky SUSAN WILD, Pennsylvania
+RONNY JACKSON, Texas DEAN PHILLIPS, Minnesota
+YOUNG KIM, California COLIN ALLRED, Texas
+MARIA ELVIRA SALAZAR, Florida ANDY KIM, New Jersey
+BILL HUIZENGA, Michigan SARA JACOBS, California
+AUMUA AMATA COLEMAN RADEWAGEN, KATHY MANNING, North Carolina
+American Samoa SHEILA CHERFILUS-McCORMICK,
+FRENCH HILL, Arkansas Florida
+WARREN DAVIDSON, Ohio GREG STANTON, Arizona
+JIM BAIRD, Indiana MADELEINE DEAN, Pennsylvania
+MICHAEL WALTZ, Florida JARED MOSKOWITZ, Florida
+THOMAS KEAN, JR., New Jersey JONATHAN JACKSON, Illinois
+MICHAEL LAWLER, New York SYDNEY KAMLAGER-DOVE, California
+CORY MILLS, Florida JIM COSTA, California
+RICH McCORMICK, Georgia JASON CROW, Colorado
+NATHANIEL MORAN, Texas GABE AMO, rhode Island
+JOHN JAMES, Michigan BRAD SCHNEIDER, Illinois
+KEITH SELF, Texas
+Brendan Shields, Majority Staff Director
+Sophia Lafargue, Minority Staff Director
+------
+Subcommittee on Indo-Pacific
+YOUNG KIM, California, Chair
+ANN WAGNER, Missouri AMI BERA, California, Ranking
+KEN BUCK, Colorado Member
+MARK GREEN, Tennesse ANDY KIM, New Jersey
+ANDY BARR, Kentucky BRAD SHERMAN, California
+AUMUA AMATA COLEMAN RADAWAGEN, GERALD CONNOLLY, Virginia
+American Samoa WILLIAM KEATING, Massachusetts
+WARREN DAVIDSON, Ohio JOAQUIN CASTRO, Texas
+MICHAEL WALTZ, Florida
+Daniel Markus, Subcommittee Staff Director
+C O N T E N T S
+----------
+Page
+WITNESSES
+Fick, Hon. Nathan, Ambassador at Large, Bureau of Cyberspace and
+Digital Policy, U.S. State Department.......................... 6
+Kang, Honorable C.S. Eliot, Assistant Secretary, Bureau of
+International Security and Nonproliferation, U.S. State
+Department..................................................... 13
+Rozman Kendler, Honorable Thea D., Assistant Secretary, Export
+Administration, Bureau of Industry and Security, U.S.
+Department of Commerce......................................... 23
+APPENDIX
+Hearing Notice................................................... 49
+Hearing Minutes.................................................. 51
+Hearing Attendance............................................... 52
+PROTECTING EMERGING TECHNOLOGIES FOR PEACE AND STABILITY IN THE INDO-
+PACIFIC
+Wednesday, January 17, 2024
+House of Representatives,
+Subcommittee on the Indo-Pacific,
+Committee on Foreign Affairs,
+Washington, DC.
+The subcommittee met, pursuant to notice, at 2:08 p.m., in
+room 210, House Visitor Center, Hon. Young Kim (chair of the
+subcommittee) presiding.
+Mrs. Kim of California. The Subcommittee on the Indo-
+Pacific of the Foreign Affairs Committee will come to order.
+The purpose of this hearing is to examine our existing
+bilateral and multilateral engagement on critical and emerging
+technology with our allies and partners in the Indo-Pacific.
+I now recognize myself for an opening statement. I want to
+welcome everyone to the Indo-Pacific Subcommittee's hearing
+entitled Protecting Emerging Technologies for Peace and
+Stability in the Indo-Pacific.
+The Indo-Pacific region is important for U.S. technology
+for at least two reasons. First, Chairman Xi Jinping has made
+technological superiority a cornerstone to the Chinese
+Communist Party's national and military competitiveness. In
+2013, Xi said during an inspection of the Chinese Academy of
+Sciences that high-end science and technology is a national
+weapon in modern times. Since then, through his military-civil
+fusion and Made in China 2025 programs, the CCP has aimed to
+catch up and surpass the United States in technological power
+and strengthen the People's Liberation Army through reform and
+technology. Successive U.S. Administrations have concluded that
+it is in the interest of our national security to impose costs
+and degrade certain capabilities for the Chinese Communist
+Party.
+Second, to maintain the United States' technological
+advantage, we must work with other like-minded and technology-
+advanced countries, like Japan, South Korea, and Singapore.
+These are three of the top-ten countries in the world with that
+expertise. We must cooperate with these countries on research
+and development, manufacturing, and implementation of high-end
+technology. At the same time, like-minded countries need to
+work with us to ensure the technology we share or jointly
+develop do not end up in the hands of the CCP.
+For example, I was proud to introduce the KOALA Act. This
+provides a defense technology trade exemption for one of our
+closest allies in the region, Australia. The KOALA Act
+contributed significantly to the final implementation law that
+passed in the Fiscal Year 2024 NDAA. The cooperation of this
+magnitude will help to deter the Chinese and advance our
+national security but only if states implement the law
+correctly and provides the exemption to which the Australians
+are clearly eligible for.
+Today's hearing will tackle these issues. We will discuss
+several tools today that are vital to ensuring our collective
+technologies do not fall into the hands of the CCP, like export
+controls, sanctions, and research security. We will also look
+at existing and proposed bilateral and plurilateral structures
+that can work together to reduce regulatory barriers to
+technology cooperation and to harmonize export controls. So I
+look forward to our fruitful discussion on what more we and our
+allies and partners can do on these fronts.
+In just a few days, I will be leading a bipartisan CODEL to
+Singapore, Malaysia, and Vietnam to discuss PRC influence in
+the region, South China Sea issues, and technology cooperation.
+In preparation for this trip, I would particularly like to hear
+from our witnesses what Southeast Asian countries are doing to
+protect critical technologies from the hands of the CCP and
+where there are opportunities for more tech cooperation with
+these countries.
+So I thank our witnesses for your willingness to testify
+today, and I look forward to a detailed discussion about U.S.
+Government efforts in this regard.
+The Chair now recognizes the ranking member, the gentleman
+from California, Mr. Bera, for your opening statements that you
+have.
+Mr. Bera. Thank you, Chairwoman Kim, for holding this
+hearing and for your partnership on this important topic of
+Protecting Emerging Technologies to Ensure Peace and Stability
+in the Indo-Pacific. This subcommittee hearing is a nice
+complement to the full committee hearing that we had earlier
+this morning looking at outbound investments and how we can
+protect our outbound investments but also address the national
+security concerns that affect not only us but our partners in
+the West.
+As we saw in that hearing this morning and I think as
+you'll see in the subcommittee hearing, this really is not a
+partisan issue. This is an issue that Democrats and Republicans
+both in this Congress but across Administrations understand
+and, you know, whereas two decades ago, we would have hoped, as
+China built a middle class and it developed an entrepreneurial
+class, that it would become a responsible member of the global
+economic order. Unfortunately, we have seen out of Beijing,
+we've seen out of Xi Jinping, particular policies, and one that
+we talked about this morning was kind of the civilian-military
+policy doctrine which really blurs the line on that
+cooperation.
+I do want to point out and applaud the Biden Administration
+for supercharging our export control policy in the face of the
+tremendous geopolitical change and challenge that we see in the
+Indo-Pacific. The Administration's expansive export controls go
+further than any previous Administration. And in 2022, BIS
+imposed unprecedented export controls to restrict the PRC from
+obtaining advanced computing chips, develop and maintain some
+super computers, and manufacture of advanced semiconductors.
+These controls were expanded this past fall; and, again, I
+think it is a step in the right direction.
+I look forward to hearing the testimony of the witnesses
+today. I look forward to working with the chairwoman, as well
+as the chairman and ranking member of the full subcommittee and
+across Congress. I think, as the chairwoman rightfully pointed
+out, it is not just our policies, but it is the policies of
+working with our like-minded, like-valued allies as we look to
+both protect these important investments, important
+infrastructures, but then also as we work with the private
+sector to make sure they understand, it was pointed out in that
+civilian-military policy doctrine that they may be looking at
+making reasonable investments in the PRC, that how those
+investments may undermine our own national security. So I think
+Congress does have to do a job helping the private sector
+understand where those investments may have detrimental
+effects.
+So, again, I look forward to hearing from the witnesses.
+And with that, I will yield back.
+Mrs. Kim of California. Thank you, ranking member. Other
+members of the committee are reminded that opening statements
+may be submitted for the record.
+And we are pleased to have a distinguished panel of
+witnesses before us today on this very important topic. Mr.
+Nathan Fick is the Ambassador at Large for the Bureau of
+Cyberspace and Digital Policy at the U.S. State Department. Mr.
+C.S. Eliot Kang is the Assistant Secretary for the Bureau of
+International Security and Nonproliferation at the Department
+of State. Ms. Thea Rozman Kendler is the Assistant Secretary
+for the Bureau of International Security and Nonproliferation
+at the State Department, Department of Commerce. Thank you for
+being here today. Your full statements will be made a part of
+the record, and I will ask each of you to keep your spoken
+remarks to 5 minutes in order to allow time for member
+questions.
+So let me now recognize Ambassador Fick for your opening
+statement.
+STATEMENT OF HON. NATHAN FICK, AMBASSADOR AT LARGE, BUREAU OF
+CYBERSPACE AND DIGITAL POLICY, U.S. STATE DEPARTMENT
+Mr. Fick. Chairwoman Kim, Ranking Member Bera,
+distinguished members of the subcommittee, on behalf of the
+Department of State, thank you for the opportunity to speak
+with you today. I'm honored to provide an overview of our work
+advancing U.S. technology policy priorities globally and our
+efforts to strengthen U.S. technology leadership in the Indo-
+Pacific.
+At the State Department, I oversee the organizations that
+lead and coordinate the department's work on cyberspace,
+digital policy, digital freedom, and emerging technologies: the
+Bureau of Cyberspace and Digital Policy, known as CDP, and the
+Office of the Special Envoy for Critical and Emerging
+Technology, S/TECH for short. Building on years of bipartisan
+work to establish these organizations, Secretary Blinken
+launched both in 2022 as part of a comprehensive effort to
+consolidate our technology diplomacy efforts, to upgrade and to
+elevate and integrate them, and to make technology issues more
+central to U.S. foreign policy.
+We thank the committee for your sustained support of this
+mission, particularly for the creation of a dedicated
+Cyberspace, Digital Connectivity, and Related Technology,
+that's CDT for short, for an assistance fund in the recently
+passed 2023 State Department Authorization Act. At our core, we
+believe in technology's power to solve major challenges and
+support American prosperity and global security.
+As a Marine combat veteran, a technology entrepreneur, an
+executive, and now the first person to hold this role at the
+State Department, I see tech innovation as an increasingly
+foundational source of geopolitical power driving more and more
+of what is and is not possible in our foreign and national
+security policies. Technology is increasingly ``the game,'' and
+we must engage in this geopolitical competition boldly and with
+urgency on behalf of our values and our interests. We face
+well-resourced and technologically capable competitors and
+adversaries who possess authoritarian visions and use long-term
+technology-based strategies to advance those aspirations.
+These competitors most notably include the PRC, which
+wields all elements of national power to try to bend the rules-
+based international order in its favor, to build economic and
+technical dependencies, and to lock in long-term influence.
+A key tenet of our work is building digital solidarity with
+allies and partners across a growing set of technology topics
+of high geopolitical significance, including innovation and
+industry leadership, cyber incident response capacity building,
+information communication technology supply chain
+diversification, trusted digital infrastructure project
+support, and the rights respecting uses of technology. These
+efforts cut across the digital ecosystem from basic
+cybersecurity protections to 5G networks to other aspects of
+digital infrastructure, including data centers, low-earth-orbit
+satellites, and undersea cables, as well as to the new
+generation of enabling technologies, including AI.
+Foreign assistance is an important element of our
+engagement on these topics. For example, we plan to leverage
+foreign assistance funding to support a major undersea cable
+and cybersecurity resilience project together with Australia
+and private sector partners to connect strategically important
+Pacific Island countries to trusted digital infrastructure. And
+I will be in the region next week, I think just shortly after
+you, Chairwoman Kim, to build on this work.
+The creation of the dedicated foreign assistance fund in
+the State Auth is an important step in streamlining work like
+this Pacific Island project, providing the U.S. with the
+agility to move at the speed of technology and, importantly,
+also at the speed of our competitors. Funding assistance
+instrument will be critical to making long-term investments in
+Indo-Pacific stability.
+More broadly, we've launched high-level dialogs on critical
+and emerging tech with Singapore, the Republic of Korea, and
+India, together with White House and interagency partners. We
+also engage closely, of course, with our Quad partners on
+critical and emerging technologies and the cybersecurity of our
+critical infrastructure. We support elements of AUKUS with
+Australia and the United Kingdom. We are strengthening U.S.
+diplomatic capabilities internally, and I do not want to lose
+sight of this, with a goal of having a trained cyber and
+digital officer in every U.S. mission around the world by the
+end of next year.
+The U.S., thanks to our robust innovation economy, is the
+world's leading provider of cybersecurity and digital
+technology products and services, and the State Department
+works on behalf of the American people to promote stability and
+trusted digital ecosystems around the world. Thank you for the
+opportunity to appear before you today. I look forward to your
+questions.
+
+
+Mrs. Kim of California. Thank you, Ambassador Fick. I now
+recognize Assistant Secretary Kang for your opening statement.
+STATEMENT OF HON. C.S. ELIOT KANG, ASSISTANT SECRETARY, BUREAU
+OF INTERNATIONAL SECURITY AND NONPROLIFERATION, U.S. STATE
+DEPARTMENT
+Mr. Kang. Chairwoman Kim, Ranking Member Bera, and
+distinguished members of the subcommittee----
+Mrs. Kim of California. Turn your mike on, please.
+Mr. Kang . Thank you for inviting me to testify
+today on this very important topic. The mission of the State
+Department's Bureau of International Security and
+Nonproliferation, known as ISN, is to prevent, protect, and
+promote. We prevent the proliferation of weapons of mass
+destruction, WMD. We protect critical and emerging
+technologies, such as AI, which can be used to develop or
+improve WMD. Their protection stems from national security
+concerns, not economic competitiveness.
+To the extent that we promote, however, we promote civil
+nuclear cooperation. It is important that civil nuclear
+cooperation are conducted under the highest standard of safety,
+security, and nonproliferation. So we leverage diplomatic
+relationships, negotiate and implement nonproliferation
+agreements and treaties, offer capacity-building programs, and
+work multilaterally on export controls and sanctions.
+ISN partners closely with the Office of the Special Envoy
+for Critical and Emerging Technology and the Bureau of
+Cyberspace and Digital Policy. And we work hand-in-glove with
+the National Security Council and their interagency. ISN also
+has a deep and longstanding partnership with the intelligence
+community. For almost a decade, ISN has been sounding the alarm
+about the Chinese Community Party's growing ambition to develop
+the PLA through its civil-military fusion strategy, MCF for
+short. This MCF strategy which merges the PRC's and commercial
+innovation ecosystem decreases our confidence in the ability to
+ensure that U.S. technologies exported to PRC will be used only
+for legitimate civilian uses.
+So we have been coordinating with the interagency and
+especially with our indispensable partner, the Commerce
+Department's BIS, to counter CCP's MCF strategy. This
+partnership includes developing advanced semiconductor export
+restrictions to the PRC, such as the October 22 and October 23
+rules on AI-enabling chips and chip manufacturing equipment.
+And as diplomats, ISN works tirelessly with our allies and
+partners on export control diplomacy, some of which we do not
+discuss beyond our confidential diplomatic exchanges.
+Thanks to the work of this committee and a strong
+bipartisan supporting Congress, the CHIPS Act and its
+International Technology Security and Innovation fund, known as
+ITSI, are making a profound contribution to this diplomatic
+effort. With ITSI, we are developing the Semiconductor Protect
+Fusion Cell to counter MCF by providing access to open source
+data to better recognize and raise awareness of the problematic
+PRC end users and disrupt any illicit activities. ISN also
+manages other foreign assistance programs to strengthen
+regional regulatory systems, improve implementation and
+enforcement measures, and enhance research security among
+partners.
+While PRC looms large in our work, we are also concerned
+with Russia. As Russia's illegal war in Ukraine continues, we
+are tackling Russia's growing ties with the DPRK. Just last
+week, in response to the deliveries of DPRK's military
+equipment and munition to Russia, ISN used its sanctions
+authority to block proliferation networks facilitating these
+transfers. And we are vigilant about what Russia may be
+providing to the DPRK in exchange. After all, nothing is free.
+Everything has to be paid for.
+Chairwoman Kim, we recognize that critical emerging
+technologies have global supply chains. Hence, ISN takes a
+global approach to protecting these technologies, including
+engaging like-minded partners in multilateral diplomatic
+efforts and expanding bilateral cooperation.
+However, the Indo-Pacific is particularly important, a
+region rich with technology innovators and critical suppliers.
+So ISN is deeply involved in the larger effort to maintain a
+free and open Indo-Pacific by promoting cooperation with our
+allies and partners. Indeed, ISN's critical work on AUKUS
+Pillar 1, a game-changing partnership, exemplifies our
+commitment to the region.
+Thank you again for inviting me to testify today. I look
+forward to your questions.
+
+
+Mrs. Kim of California. Thank you, Assistant Secretary
+Kang. I now recognize Assistant Secretary Kendler for her
+opening statement.
+STATEMENT OF HON. THEA D. ROZMAN KENDLER, ASSISTANT SECRETARY,
+EXPORT ADMINISTRATION, BUREAU OF INDUSTRY AND SECURITY, U.S.
+DEPARTMENT OF COMMERCE
+Ms. Kendler. Thank you, Chairwoman Kim, Ranking Member
+Bera, distinguished members of this committee. Thank you for
+inviting me to testify about the Biden-Harris Administration's
+ongoing efforts at the Commerce Department's Bureau of Industry
+and Security, or BIS, to advance U.S. national security and
+foreign policy interests, protecting emerging technologies for
+peace and stability in the Indo-Pacific. I appreciate the
+opportunity to work with you and your teams on these critical
+issues to ensure that we are effectively countering China's
+military modernization and human rights abuses and identifying
+and controlling technologies critical to protecting our
+national security while we also degrade Russia's ability to
+wage war in Ukraine.
+We cannot accomplish these goals without collaboration with
+allies and partners on multilateral export controls and the
+expansion of international technology partnerships. Through our
+bureau's licensing officers, trade data and industry analysts,
+and our growing international policy and intelligence analysis
+teams, we identify sensitive U.S. technologies that would give
+our adversaries an advantage, and we develop the policies and
+strategies to protect such technologies. We assess the
+availability of foreign technology and the effectiveness of our
+controls, as well as foreign end users that require extra
+scrutiny. We then adopt controls that address both technology
+and end users.
+Technology controls are based on the performance
+specifications of an item. The country-wide controls we put in
+place on advanced semiconductors and semiconductor
+manufacturing equipment to China are an example of these
+technology controls.
+End user controls deny items to particular entities. We
+impose these controls through additions to our Entity List when
+there are specific and articulable facts that an entity is
+engaged in activities contrary to U.S. national security or
+foreign policy interests. Of the 787 China-based entities
+currently on the Entity List, 303, more than a third, have been
+added in this Administration. Many in the last 2 years have
+been added for companies that are shipping items to Russia.
+For approximately 70 years, a foundation of U.S. dual-use
+export controls has been the government's close work with
+allies and partners to coordinate our policies to control the
+spread of weapons of mass destruction and conventional weapons.
+These efforts are steered through four multilateral regimes
+and, for most of the world and certain of our partners, these
+regimes are so intrinsic to global export control systems that
+those country's domestic laws may not conceive of controls
+adopted through any other mechanism.
+Through technical expert meetings and other international
+engagements, we at the Bureau of Industry and Security are
+committed to the important efforts of these regimes. With our
+interagency partners, including the State Department, BIS has
+developed countless proposals over the years to add new items,
+remove items, and modify parameters of the control lists. At
+the same time, we recognize that the world has changed
+dramatically since establishment of these regimes after the
+cold war. The digital revolution complicates strategies built
+around the control of tangible goods.
+In this difficult moment, we are fortunate to have vibrant
+export controls collaborations, particularly with the partners
+in the Indo-Pacific. They have joined us in the global export
+control coalition of 39 major economies that have adopted
+substantially similar controls on Russia following Putin's
+brutal invasion of Ukraine, an effort that has reinvigorated
+our connections with export control counterparts in the Indo-
+Pacific and Europe.
+We also welcome partner engagement in safeguarding our core
+technologies, particularly in the face of China's challenges to
+global peace and security, including through the military-civil
+fusion strategy exacerbated by China's form of government in
+which the government can coerce companies to act contrary to
+their interests when it is in the government's interest.
+Through export controls we are working to cultivate trusted
+ecosystems that will allow emerging technologies to develop in
+a safe space. Export controls set a clean line about who we
+trust when it comes to dual-use technologies. Through these
+ecosystems, partners that share our values, our commitment to a
+rules-based order, and our security outlook benefit from trade
+in these technologies, while others do not.
+In the Indo-Pacific, our partnerships are key to fostering
+trusted technology ecosystems, combating economic coercion, and
+preventing the misuse of sensitive technologies to undermine
+our national security and that of our allies and partners. We
+maintain a host of formal and informal international
+engagements with other implementing agencies across the region,
+which I look forward to discussing with you during this
+hearing.
+U.S. export controls have been and will always be most
+effective when deployed in conjunction with those governments
+that share our values. As technology evolves, we will protect
+our national security by coordinating with our closest allies
+and partners, ensuring that the fruits of advanced technologies
+are applied to our shared security and prosperity.
+Thank you. And I welcome your questions.
+
+
+Mrs. Kim of California. Thank you, Ms. Kendler. I now
+recognize myself for 5 minutes of questioning, and I want to
+start by saying that last year the Administration decided to
+remove the Chinese Ministry of Public Security's Institute of
+Forensic Science (IFS) from the Commerce Entity List.
+So, Ms. Kendler, since you were before our Oversight and
+Accountability Subcommittee and testified recently, can you
+explain to us why IFS was added to the Entity List to begin
+with?
+Ms. Kendler. Congresswoman, I appreciate your concern about
+this entity and its activities in China, its placement on our
+Entity List. I cannot speak specifically to an entity beyond
+the information that is in the public record. We have national
+security concerns and foreign policy concerns associated----
+Mrs. Kim of California. From my understanding, IFS was
+added due to their egregious abuse of the Uyghur Muslims
+through genomics. So, Ms. Kendler and, Mr. Kang, please chime
+in, can you explain to us the interagency process that led to
+the decision to remove IFS from the Entity List?
+Ms. Kendler. Congresswoman, it is very important to us at
+the Commerce Department to--our regulations require that we
+have unanimous interagency agreement whenever an entity is
+removed from the Entity List. It is very important to us that
+we have the equities of all four departments that participate
+in the End-User Review Committee, that's Commerce, Defense,
+Energy, and State, and that we consider the equities of all
+four of those agencies whenever an entity is removed from our
+list.
+Mrs. Kim of California. Mr. Kang, do you want to add to
+that briefly?
+Mr. Kang. Yes. What I could add is that tackling fentanyl,
+which has been declared a national emergency by the President
+and is one of the top Administration priorities to get a handle
+on a problem, a crisis, that kills up to more than 100,000
+ordinary Americans, and removing IFS allowed us to get better
+cooperation from China.
+Mrs. Kim of California. Can we talk about that just a
+little bit? I want to know exactly when the decision was made
+to remove IFS. Like, how far in advance was that decided from
+the time President Biden with Xi Jinping in San Francisco
+November of last year? I know they had a conversation. They
+talked about establishing a working group to tackle the
+fentanyl and all of that, but I am specifically interested in
+knowing when that decision was made.
+Ms. Kendler. Congresswoman, we at the Commerce Department
+do run the process for the End-User Review Committee, and I
+should note that we have around a hundred entities on the
+Entity List that are related to human rights abuses in Xinjiang
+specifically. We also have entities on the Entity List that are
+there for other human rights abuses in China.
+Specifically as to the timing, that's something that is in
+the interagency process, and I would be happy to get back to
+you within the bounds of our legal authorities of what we can
+provide.
+Mrs. Kim of California. Well, I want to emphasize, as you
+mentioned, the human rights should not be a bargaining chip to
+secure high-level meetings with the CCP. Rather, it should be
+the priority of meetings with our CCP counterparts.
+Let me move on. You know, we have a series of multilateral
+engagements with our partners and allies in the Indo-Pacific on
+technology issues, including the Quad working group on critical
+and emerging technology and the ASEAN Committee on Science,
+Technology, and Innovation. Ambassador Fick, this is something
+that I think you can speak to. Do we have the diplomatic
+structures to engage in discussions at the working group level
+on specific sectors of technology cooperation? If so, what
+sectors have a stronger diplomatic framework or which are
+lacking?
+Mr. Fick. Thank you, Congresswoman, for the question. I
+believe that the creation of these new organizations at the
+State Department is an effort on our part to do exactly what I
+believe you're asking, which is ensure that we have the
+organization, the expertise, and the senior representation to
+engage with our counterparts bilaterally and multilaterally on
+these topics everywhere of geopolitical significance to the
+United States.
+I will be representing us, for example, at the ASEAN
+Digital Ministerial Meeting in Singapore in a couple of weeks.
+And the areas where we have the closest cooperation include
+cybersecurity capacity building, ensuring----
+Mrs. Kim of California. Will you be leading our discussions
+on our end on all of these structural engagements?
+Mr. Fick. I am not sure that I can categorically say all,
+but I do represent us on the digital ministerial track with
+ASEAN, the G20, the G7, and other similar organizations, yes.
+Mrs. Kim of California. Thank you. My time is up, so now
+let me recognize Ranking Member Bera for 5 minutes of
+questioning.
+Mr. Bera. Great. Thanks, Chairwoman. Maybe this is a
+question for Ambassador Fick. Certainly, the focus of this
+subcommittee hearing is investment export controls on critical
+technologies. An area that I have been thinking about a little
+bit, which I think is a bit harder to get a grasp on, but I
+think, Ambassador Fick, with your experience in the private
+sector and the technology sector, should we, as Congress, be
+thinking about, you know, where funding for venture companies
+come from and if let's say the PRC is funding dollars in
+venture that are then going to U.S. startup companies that are
+looking at critical technology? Like, how do we track that? How
+should we think about that because that also seems to be an
+area of potential vulnerability where it looks like a U.S.
+startup is working on this, but outside investors could--is
+that an area we should be spending time thinking about and how
+should we think about that?
+Mr. Fick. Congressman, it is a bit outside the remit of my
+current role, but I did spend 10 years as an operating partner
+at a venture firm, and so it brings some perspective to the
+question. I think it is important that we think about these
+investment issues both inbound and outbound and, certainly, PRC
+or other investment dollars as limited partners into these
+funds usually come with strings attached around required
+partnerships or technology transfer. And so a congressional
+role in shining a light on that, making it clear, and
+encouraging investors in the United States to look a layer or
+two deeper would, in fact, make us more secure.
+Mr. Bera. Ms. Kendler.
+Ms. Kendler. Thank you. This is a really important topic to
+be discussing. I was out in Silicon Valley last fall having
+conversations exactly on this topic, making sure that we have
+educated nascent U.S. startups about export controls because,
+no matter where the money is coming from, the technology flow
+is controlled under export controls, depending on the nature of
+the technology or the end recipient of the technology. So those
+laws remain in place as implemented by Commerce with our
+colleagues regardless of who is investing in the technologies.
+Now, I completely agree that we should be very concerned
+about whether strings are attached, and that is certainly
+something that we can look at also in the CFIUS context when
+you have foreign enterprises acquiring U.S. entities. Here, it
+is a little bit harder to see, but our export controls will
+apply to the technology regardless. And we have a
+responsibility at Commerce, which we are deeply engaged in, to
+educate all sorts of enterprises, small, medium, well
+established, nascent about those controls.
+Mr. Bera. And let me ask a similar question on outbound
+investment. I think what I call the civilian-military policy
+doctrine, I think you guys were calling the military-civilian
+fusion policy. You know, legitimately, U.S. companies, U.S.
+investors may be looking for investment opportunities overseas
+and so forth, and, you know, I asked this question earlier
+today: how should we think about, you know, again, legitimate
+investment that not necessarily understanding that that
+investment in a foreign entity, let's say an entity in the PRC,
+then potentially is developing technologies, et cetera,
+creating talent that may inadvertently undermine U.S. national
+security interests. Again, you know--yes, please.
+Ms. Kendler. I think export controls provide an excellent
+guidepost here. I share your concerns about money going into
+enterprises that may be working on indigenous technology that
+we have barred for export. And so the two issues go hand-in-
+hand in terms of the most critical technologies that we are
+focused on protecting and that may be, for individual companies
+or funds looking at investing, that may be a starting point.
+Mr. Bera. Does Commerce have the authorities to restrict
+those funds from being invested or are those new authorities?
+Ms. Kendler. We do not control the flow of money at the
+Commerce Department or in the Bureau of Industry and Security,
+but any technology would be controlled under our authorities.
+And I anticipate, in any sort of outbound regime, that it would
+be our technical expertise in the Bureau of Industry and
+Security that would be applied.
+Mr. Bera. My sense is that is an area where it is not
+outbound technology that is going there but it is a startup
+company in an adversary that, you know, is drawing in external
+investment, but now they are working on some of those
+technologies indigenously. Secretary Kang, Ambassador Fick, if
+you want to answer
+Mr. Kang. Yes, if I may. There is clearly a glaring gap.
+Export controls could do so much because it basically deals
+with tangible goods. And with regard to even these passive
+investments but particularly in the case of venture capital,
+you also transfer intangible knowledge and know-how, and this
+gives a company in China or wherever access to U.S. origin or
+Western origin knowledge base.
+And another thing. As someone who has worked
+nonproliferation for over a decade, there are so many fund
+companies that are dealing with, seemingly, appearing very
+legitimate with legitimate support, but they are fronting for
+either the military or intelligence services in the case of
+PRC.
+Mrs. Kim of California. Your time is up. OK. Let me now
+recognize Ms. Wagner, Representative Wagner, for 5 minutes.
+Mrs. Wagner. Thank you, Madam Chairman. And I thank our
+witnesses for their service. China intends to supplant the U.S.
+as the global leader in critical and emerging technologies at
+any cost: bullying, bribery, and outright IP theft. If China is
+allowed to achieve dominance in the technologies that will
+shape our future, American communities and businesses will, in
+fact, suffer. Our allies and partners also risk losing access
+to safe, secure infrastructure and technologies that we all
+rely on for communications, for transportation, it could be
+medical care, national security. I could go on and on about
+other essential industries.
+The Indo-Pacific region is a global center of technological
+expertise and advancement, and the U.S. must work in lockstep
+with Indo-Pacific countries to safeguard sensitive cutting-edge
+technologies and reduce technological dependence on China.
+Assistant Secretary Kang or Kendler, what sector or
+subsectors of technology are the Indo-Pacific countries most
+concerned about and how would you rate their ability to protect
+these technologies from adversarial nations? Where are the
+biggest gaps in the Indo-Pacific to protecting critical
+technologies?
+Ms. Kendler. Congresswoman, when we think about critical
+and emerging technologies here, we are guided primarily by the
+19 categories of items that are identified by the White House
+in the critical emerging technologies list, and that is each
+one of those technologies is a space where we have export
+controls----
+Mrs. Wagner. Where are the gaps? Where are the biggest
+gaps?
+Ms. Kendler. I think that we have room to improve, but
+there are no big gaps. I would not identify big gaps. I would
+say that we have controls in each of these spaces. Our controls
+are generally defined in terms of technological floors, so as
+innovation occurs in these areas, they are already captured.
+And if they are not, we are working with our allies and
+partners, particularly those who are members of, I would say in
+this space, the Wassenaar Arrangement, which includes quite a
+few Indo-Pacific----
+Mrs. Wagner. Well, here is a gap that I see, and,
+Ambassador Fick, let me try this with you. Today, submarine
+cables transport 99 percent of intercontinental data. These
+cables are important. The fact that China is planning to
+increase its role in the development and the repair and
+production of undersea cables, what measures are your
+departments taking to undercut these plans and which pose, I
+think, a serious threat and gap to the secure flow of data
+around the world.
+Mr. Fick. Congresswoman, I agree very much with the premise
+of your question. I am going to the South Pacific next week on
+an undersea cable project to advance trusted connectivity
+across the South Pacific. I believe that, when our adversaries
+tell us what they intend to do, we should believe them.
+Mrs. Wagner. Yes.
+Mr. Fick. We watched them run a playbook with telecom. They
+are running the same playbook with every other technology area,
+including undersea cable. Unlike in telecom, we still have a
+national champion manufacturer here in the United States of
+trusted undersea cable, and we need to be careful to ensure
+that that company remains vibrant. And we have a comprehensive
+effort underway to put trusted undersea cable in place across
+the South Pacific.
+Mrs. Wagner. I am very concerned about Chinese companies
+repairing or even having access to undersea cables owned by
+U.S. carriers, to be honest. Are we concerned about this?
+Mr. Fick. I was recently at the cable repair depot in Sri
+Lanka asking exactly those questions about the Indian Ocean.
+Yes, we are concerned about it; and, yes, we believe that that
+is critical infrastructure that the U.S. needs to protect from
+end to end.
+Mrs. Wagner. And let me, just to followup again, what Indo-
+Pacific regions and partners are most dependent on China for
+undersea cable development and how specifically is the U.S.
+collaborating with our partners to reduce dependence on PRC-
+controlled infrastructure and promote safe and secure
+infrastructure?
+Mr. Fick. One of the best things we can do is get trusted
+cables deployed. That is, U.S.-or Japanese-or French-
+manufactured cables that are owned and operated by the
+hyperscale technology companies that are generally American
+companies. So we are working to get those projects in place
+with branching units that will allow the development of spurs
+to islands and nations where we maintain military and other
+relationships.
+Mrs. Wagner. Well, these cables, as I said, they transport
+99 percent of intercontinental data, so this is a big, big
+concern that we should have, especially their access and
+repairing. So my time is expired. I yield back to the Chair.
+Mrs. Kim of California. Thank you. I now recognize
+Representative Sherman for 5 minutes.
+Mr. Sherman. I want to applaud the Administration for the
+action you have recently taken. As Mr. Fick points out, China
+is using all elements of national power. Their biggest element
+perhaps is their enormous trade surplus with the United States.
+It is over a third of a trillion dollars every year, and that
+means that it is 150 percent of what they spend on the People's
+Liberation Army. So just what they create as a trade surplus,
+they could finance one and a half People's Liberation Armies.
+In the trade effort, we have tariffs, they have tariffs.
+Theirs are higher. But they also have the capacity to orally
+instruct their companies not to buy from the United States. We
+cannot do that. No Member of Congress is going to call a major
+company in their district and tell them who to buy from. And so
+we have to match with tariffs. What they can do under the
+table, we won't. We will continue to run a giant trade deficit,
+and that means that every decade China will have an extra $3
+trillion.
+We are not at war with China. This is not a zero-sum game.
+If China develops better teddy bears more efficiently, I am
+happy for that. If the Chinese people live better, that is not
+a bad thing. We cannot just have entity controls because you
+can create a front company, as Mr. Kang points out. They can
+create a startup that is as sinless as a newborn babe, and we
+would have no reason to sanction that individual company.
+Technology is not, as Mr. Kang points out, not just a product
+that we can control. It is know-how, it is inspiration, it is
+direction for research.
+I want to illustrate this, that it is important what areas
+we focus on. If China has a big ship and we need somebody to
+carry our cargo, fine. And that means it is in the interests of
+the American shipper or the insurer to give them ideas on how
+to be more effective at ocean commerce. Fine. But we had a
+situation also in transportation but not taking our product
+from one port to another but taking our satellites into space
+where American companies who own satellites or who insured the
+launch gave them ideas on how to have better rockets. So we
+have to look at every relationship, particularly those that
+involve consulting.
+I want to urge some of my colleagues to look at a number of
+pieces of legislation. Mr. Van Drew and I have the Country of
+Origin Labeling Requirements Act because a lot of people want
+to see where something is made, which is fine. If you're in the
+store, it is right on the box. What if you buy from Amazon? You
+have no idea. What are you going to do? Ship the product back
+that you open the package and it is made in a country you do
+not want to patronize?
+We need to get our companies to report to their
+shareholders what they are doing to reduce their China risk.
+And as I said at this morning's hearing, we need to end the
+capital gains allowance for investment in China.
+Mr. Fisk, you are our digital policy special Ambassador.
+One thing I am worried about is digital misinformation from
+China. One of their best tools for that is TikTok. It is my
+understanding that, while we monitor other sources of digital
+misinformation, the relevant bureau, the Global Engagement
+Center, in the State Department does not monitor TikTok because
+you cannot have it on a government computer. What are we going
+to do so that we monitor what is going on on TikTok? I am
+confident that we have the technical expertise to make sure
+that one particular computer at the State Department does not
+give them access to the rest. When are we going to start
+monitoring TikTok's disinformation?
+Mr. Fick. Congressman, I believe I have said in previous
+testimony that I am the least popular parent in my children's
+middle school because of my stated views on TikTok. I do
+believe that it represents----
+Mr. Sherman. We have got to monitor it. When is the State
+Department going to start monitoring it?
+Mr. Fick. I can consult with my colleagues in the Global
+Engagement Center, and we can get an answer----
+Mr. Sherman. And could you furnish for this committee a
+statement as to whether we are monitoring it as we do other
+social media or whether we have abandoned that? And do not tell
+us, well, there is an executive order to say do not put it on a
+government computer. I am sure we could allow it to be on one
+unconnected air gap government computer.
+Mr. Fick. I am confident that we can get back to you on a
+question for the record in detail on that.
+Mr. Sherman. And then, Ms. Kendler, there is a tendency to
+think that in export controls, well, if we say no to the
+export, all we are doing is hurting corporate profits, and so
+all the national security interests are on one side. I would
+admonish you two things: When we say no, that means some other
+company in some other country says yes, and that builds that
+capacity. And when we say yes, it goes to an American company
+that builds our capacity. And, second, when our department acts
+slowly and then ultimately approves something, but it is too
+late because the business has gone elsewhere, we have lost on
+all fronts. So saying no or delaying is not without national
+security risk. Of course, saying yes at the wrong time is what
+you are most likely to be criticized for.
+I yield back.
+Mrs. Kim of California. Let me now recognize Representative
+Davidson for 5 minutes.
+Mr. Davidson. I thank the Chairwoman. It is an incredibly
+important hearing, and I am glad to see that we can have
+Administration witnesses because this is a topic that is
+incredibly important. Obviously, Republican promises on a whole
+host of things conflict with some of the Biden Administration
+promises, and, in this area, I am encouraged to see that we are
+aligned.
+Ambassador Fick, I am encouraged by your appointment and,
+frankly, by your credentials. You are one of a handful of
+private sector people, non-academia, people that have worked in
+capitalism, not in think tanks or in academia, that is part of
+the Administration and credited as one of the most innovative
+thinkers in the market. So glad to see you are there.
+When you think about this space, in 2018, the United States
+decided to update the Foreign Investment Risk Reduction
+Modernization Act, a kind of framework for foreign investment
+into the United States, and we did touch on the idea of
+outbound investment. Where are the voids that you are most
+concerned about?
+Mr. Fick. Thank you, Congressman. I appreciate your
+gracious words. I think that the specifics of inbound and
+outbound investment do fall outside my remit, so I would want
+to yield to colleagues who are perhaps closer to that
+particular issue and reState what I did say earlier, which is
+that I think that we need to have attention on both sides and I
+think that there is more that we can do in this world where so
+many of the innovative technologies that are increasingly
+contributing to national power are being developed by companies
+that, frankly, are very small or may not exist today, and they
+are going to change the landscape very quickly. But I would
+defer to colleagues on the specifics.
+Mr. Davidson. Thank you.
+Ms. Kendler. Thank you, Congressman. We have to avoid a
+situation where U.S. investments are supporting Chinese
+military modernization. We cannot permit the intelligence, the
+military technology of China to be built on U.S. funding. That
+would undermine our national security and foreign policy
+interests----
+Mr. Davidson. I wholeheartedly agree. Prior to being in
+Congress, I was in manufacturing. This is a little bit outside
+your area, but, fundamentally, does not our whole trade policy
+facilitate that?
+Ms. Kendler. Congressman, our export controls are
+calibrated and tailored for advanced technologies to China. The
+technologies that China cannot get elsewhere----
+Mr. Davidson. The entire industrial base is at risk. We saw
+that during COVID. You look at whether it is vitamins or base
+chemicals, I mean, fundamentally, we have a real supply chain
+risk problem, do not we?
+Ms. Kendler. We are very focused on our supply chain issues
+and U.S. technological leadership in the supply chain. We are
+on the brink of issuing a survey to poll the industry about
+legacy semiconductor chips, for example, as an area where we
+need more information about our supply chain, and that is
+certainly connected to national security.
+Our export controls are focused on national security and
+foreign policy interests. Last fall, we published an update to
+our artificial intelligence semiconductor chip rule to make
+sure that the chips, the most advance chips, which are made
+using U.S. technology, are not feeding the Chinese military,
+that are not being used for AI modeling of hypersonic missiles.
+Mr. Davidson. I thank you for that, and, certainly, that's
+important. I haven't been part of the debate on the CHIPS Act
+that we passed that, in theory, was supposed to strengthen the
+U.S. supply chain and, in a way, weaken China's or limit their
+access to the most innovative chips. I do worry about some of
+the unintended consequences. One of the companies in my
+congressional district is Silfex. They are a large employer in
+the region, but, fundamentally, they are supplying base
+material, silicon wafers, which is more of a commodity, and
+they are at risk of losing substantial employment because they
+cannot export those things. China is doing fine on commodity-
+grade chips. So how do we strike the balance and not, you know,
+cause more harm to domestic manufacturers than we are
+intending?
+And I think the other thing is, when you talk about, you
+know, Ambassador, you mentioned small companies, when you talk
+about the biggest companies, a lot of times they will just
+create a different entity offshore and do the same thing. So
+how do we capture that with our current look at outbound
+investment?
+Ms. Kendler. Congressman, I am not really in a position to
+talk about outbound investment. In the export controls context,
+speaking of the AI chips rule, we actually, last October, took
+that issue on directly. We expanded our controls to deal with
+third countries that might be providing an opportunity for
+China to receive the chips that we have controlled through
+diversion or evasion of our controls. And so we established a
+license requirement for third countries that we thought might
+be susceptible to----
+Mr. Davidson. What about domestic manufacturers, like
+Silfex? What are we doing for those guys?
+Ms. Kendler. Congressman, I do not want to speak about a
+particular company here, but I would be happy to followup with
+you and your team----
+Mr. Davidson. We would greatly appreciate it because I
+think we are causing some unintended consequences or at least I
+hope they are unintended. I yield back.
+Mrs. Kim of California. Thank you. I now recognize
+Representative Andy Kim for 5 minutes.
+Mr. Kim of New Jersey. Yes. Thank you, Madam Chair. Thank
+you to the three of you for coming before us to be able to have
+this conversation.
+Assistant Secretary Kendler, I wanted to start with you. In
+your opening remarks, you talked about sort of our partnership
+globally, especially with partners in the Indo-Pacific, and you
+were making reference about some of the progress that we have
+made, especially vis-a-vis the challenges we face with Russia.
+I wanted to see if you can just expand on it a little more. I
+want to get a little bit more granularity from you just what
+has gotten better, stronger in that capacity and what have we
+seen on that progress that might be transferrable or applicable
+to the challenges that we face vis-a-vis China right now.
+Ms. Kendler. I appreciate that question quite a bit,
+Congressman Kim. It has been a core focus of our work over the
+last 2 years since Russia's invasion, further invasion of
+Ukraine. We, working with our implementing agencies around the
+world, 39 major global economies coming together to adopt
+substantially aligned measures toward Russia, Belarus, and, to
+a degree, Iran, as well, to keep the technologies that Russia
+and their allies need from reaching them. They need U.S.
+technologies. They do not have indigenous semiconductor
+manufacturing, for example. They must buy chips from outside
+Russia. That is just one example of a host of technologies that
+Russia requires to wage war.
+So by building this coalition and maintaining this
+coalition, which has required an enormous amount of effort, we
+have established new working-level connections, new senior-
+level connections, between all of the implementing agencies
+associated with these substantially aligned controls, which
+enable us to talk about issues beyond Russia. Emerging
+technologies is an area where we are able to say, well, how are
+you dealing with this issue and share how we are dealing with
+the issue on a very practical level. And that can certainly
+carry over into any other space. We welcome conversations and
+are eager to have them.
+Our main partners in that effort have included Japan and
+Korea particularly. Of course, the EU and the UK are there, as
+well. But it is a great mechanism for further very practical
+cooperation.
+Mr. Kim of New Jersey. Yes. Thank you for that. Assistant
+Secretary Kang, I want to bring you into this conversation
+here, especially with the insights that you have. We talked
+about some of those partners, South Korea, Japan, others that
+have a lot more experience in this. But what we also know is
+that, in the Indo-Pacific, there are actually a lot of
+partners, though, that do not have as much of that experience
+and that infrastructure in terms of a robust expert control
+regulatory and enforcement system. So I guess I wanted to just
+get a sense from you how are we trying to help buildup that
+type of capability, that technical aspect, in terms of
+assistance or trainings? Is that something that we should be
+thinking about more to just try to lift that baseline up? You
+know, it is good that we are doing it with certain partners
+that already have some of that capability, but I just feel like
+there is sort of a weak-link situation here where we need to
+try to figure out how to kind of raise all boats there. So what
+are your thoughts in terms of that?
+Mr. Kang. Exactly. I agree with everything Assistant
+Secretary Kendler has said about working in coalition. And,
+certainly, the cooperation that we have engaged together to
+counter Russia could be transferrable with regard to dealing
+with China. But there is a serious capacity issue with regard
+to implementation, Administration. Some countries in the region
+do not have basic strategic trade laws.
+And another priority is also, given the trade flows, so
+many of the countries, the No. 1 country they trade with is
+China. So there is also the political will, how much to
+cooperate in this venture.
+So we are engaging diplomatically alongside our
+implementing partners from other agencies to engage at the
+highest leadership, political leadership, to highlight why it
+is in their interests to have a strong export control system,
+that it will actually build their prosperity by having a
+reliable and trusted network of suppliers and buyers.
+So we are utilizing the bipartisan support that you have
+given us with regard to our native funding and also in the
+context of the CHIPS Act, the ITSI fund. Particularly, we are
+focusing on semiconductor packaging in Southeast Asia. So those
+are extremely valuable in building that capacity.
+Mr. Kim of New Jersey. Thank you for that. And I think that
+is absolutely key is just this coalition building. Ambassador
+Fick, I just want to give you the last word here, just some of
+your reactions to this and just how you think we can try to
+make sure that this is not some weak link in this broader
+effort that we have.
+Mr. Fick. Congressman, I think one of the most pernicious
+terms in international technology diplomacy is digital
+sovereignty and the idea that any country can go it alone on
+these issues. And so it reminds me of those broadsides from the
+American Revolution that said we hang together or we surely
+hang separately. These are issues where we need to hang
+together with our allies and partners as we look at the stated
+intent of our geopolitical competitors and adversaries,
+especially the PRC and Russia and Iran and----
+Mr. Kim of New Jersey. I will just say here, as I am
+running low, is just let's make sure we are getting to follow-
+on conversations about some of these other countries that we
+should be engaged. Sometimes, we talk too much about some of
+the ones that are working the best, but let's try to figure out
+how to engage on some of these others. Thank you. And I yield
+back.
+Mrs. Kim of California. Thank you. Let me now recognize
+Representative Andy Barr for 5 minutes.
+Mr. Barr. Thank you, Chair Kim. And let me followup with
+Assistant Secretary Kendler on Chair Kim's questioning about
+the Institute of Forensic Science. Just for everybody watching,
+this is, again, the Chinese Ministry of Public Security's
+Institute of Forensic Science, and it was, at one time, added
+to the Commerce Entity List; and then there was a decision that
+was made to remove IFS from the Entity List. And, again, for
+everybody watching, what is IFS? IFS was originally added to
+the Entity List due to their egregious abuse of the Uyghur
+Muslims through horrific genetic testing activities that echo
+the various crimes against humanity undertaken by Nazi Germany.
+IFS was removed from Commerce's Entity List. Now, Assistant
+Secretary Kendler, I am not suggesting this was your decision
+or even Undersecretary Estevez's decision, and I know you
+respond to Secretary Raimondo, not the State Department. But I
+want to know from you, to the best of your understanding, did
+the State Department direct BIS to remove this horrible group,
+IFS, from the Entity List?
+Ms. Kendler. Thank you for the question, Congressman. Each
+agency that participates in the End-User Review Committee has
+an equal vote. State Department's vote, Commerce Department's
+vote, they carry the same weight.
+Mr. Barr. So Commerce is equally culpable as the State
+Department in the decision to remove IFS from the Entity List,
+this Chinese entity that engages in genetic testing reminiscent
+of Nazi Germany.
+Ms. Kendler. Congressman, I am the granddaughter of a
+survivor.
+Mr. Barr. I know.
+Ms. Kendler. What I can tell you is that human rights and
+fentanyl, preventing deaths from fentanyl are both deeply
+important issues for this Administration.
+Mr. Barr. What did the Administration get from China, from
+the Chinese Communist Party for removing this entity from the
+export control Entity List? What did we get?
+Ms. Kendler. Given the national security imperative for
+handling the fentanyl precursors coming into this country, we
+were comfortable taking the step to delist IFS. It became clear
+that including IFS on the Entity List, it inhibited
+counternarcotic action by----
+Mr. Barr. When was it removed from the list?
+Ms. Kendler. I do not have the exact date. November of this
+year, of last year.
+Mr. Barr. And have we seen in the time since it was
+removed, have we seen any material enhanced cooperation from
+China on fentanyl?
+Ms. Kendler. I will defer to my colleague at the State
+Department on that answer.
+Mr. Kang. I could speak to that briefly. I understand there
+has been really ramped-up enforcement measures by the Chinese,
+and they also promulgated regulation pushed out further
+regulating trade and fentanyl precursors.
+Mr. Barr. See, here is what I do not understand: why we are
+always chasing diplomacy from a position of weakness. Why are
+we removing bad actors from our entities lists and our
+sanctions lists? Why do not we negotiate from a position of
+strength? Why do not we sanction? Why do not we impose more
+export controls on bad actors instead of making upward
+concessions with the hope that China will somehow change its
+behavior down the road. That is what I do not like about this
+diplomatic approach. It is negotiating from a position of
+weakness. Do you have a response to that?
+Mr. Kang. If I may. As a career civil servant serving in
+multiple Presidential Administrations, I see bipartisan
+consensus with regard to China. I think all of us see China for
+what it is. And the decisions we make may be tactical in nature
+and there may be tradeoffs that we have to make, but I see
+total consistency. Particularly, I served also in the Trump
+Administration and this Administration----
+Mr. Barr. Well, reclaiming my time. If we want to get tough
+on China and their peddling of the ingredients into fentanyl,
+exploiting our open southern border and killing our people,
+poisoning our people with fentanyl, and that happens a lot in
+Kentucky, in my home State, unfortunately, with components from
+mainland China. Why do not we sanction? Why does not the
+Administration support my bill that would sanction these
+Chinese entities that are responsible for manufacturing this
+poison instead of taking off a genetic testing arm of the
+Chinese secret police from the Entity List?
+Ms. Kendler. Congressman, I welcome the information that
+you have on entities in China operating to violate human
+rights, and we would be pleased to work with you and your team
+to get that information. We use the Entity List for national
+security and foreign policy protection, and we are eager to put
+entities on that have articulable and evidence-based reasons.
+In this instance, to protect national security, we care
+both about human rights and about fentanyl precursors for
+exactly the reasons you have identified, for the people dying
+in Kentucky and elsewhere. And those are both priorities.
+Sometimes, we make tradeoffs to protect our national security,
+and we----
+Mr. Barr. I see my time has expired. I do not think we have
+to make tradeoffs. I think we need to be tough on China and not
+make these up-front concessions in the hopes that somehow China
+will change their behavior. With that, I yield.
+Mrs. Kim of California. Thank you. Representative Barr, I
+want to thank you for raising that issue just, you know, since
+I have also raised that issue. I want to know if you know if
+the flow of fentanyl from China has decreased since November
+when the two leaders met and agreed, as I mentioned earlier in
+my line of questioning, when they decided to create the working
+group to address the fentanyl. I personally have not seen the
+decrease in fentanyl from China. Instead, my county, Orange
+County, that I represent, which is so close to the southern
+border, I work closely with the local law enforcement. Orange
+County Sheriff's Department have told me actually there is more
+increase in the fentanyl coming through our southern border. So
+I am not sure if you can say that we have addressed this issue.
+The devil is in the details. What has the working group
+done since November when the two leaders met and since we have,
+you know, taken the IFS off the Entity List?
+Mr. Kang. Chairwoman Kim, I could take that question back
+to those who more closely follow this issue. But just as we see
+problems with regard to advanced semiconductor chips popping up
+in Chinese companies, even after we controlled them, sometimes
+there is a lag effect and also there's an inventory that has
+been pushed out. So it is an incomplete answer, but I will get
+back to those folks who track this more closely and get back to
+you.
+Mrs. Kim of California. Thank you. Sorry about that. I now
+recognize Representative Keating for 5 minutes.
+Mr. Keating. Thank you, Madam Chairman. An area we haven't
+hit yet in our discussion is the nuclear area, which overlaps
+many of the things that your agencies are involved with. You
+know, there is a lot going on in Europe in terms of small
+modular reactors, but, you know, China, Pakistan, South Korea,
+Japan, Taiwan, Bangladesh, among others, all have nuclear
+programs. What are we doing through your particular agencies to
+deal with really very challenging issues of, No. 1, maintaining
+our competitiveness economically; our security, something that
+former Secretary Moniz addressed recently in terms of a
+collective approach, a multilateral approach, that has to deal
+with security issues around nuclear power and nonproliferation.
+It seems like the U.S. is, you know, lagging many of the other
+countries in many other regions of the world, and I am
+concerned in the Indo-Pacific, if their programs begin to
+expand into things like SMRs or other areas or continue to
+grow, we might continue to have a greater gap.
+Mr. Kang. I think I'm the nuclear person in the panel.
+Actually, sir, we have good news. It is a combination of
+nuclear accidents, Three Mile Island, Fukushima, not to mention
+Chernobyl, has really stymied development of nuclear energy and
+energy technology development in the West and also in the
+United States. But everybody recognizes that energy security is
+critical to our strategic strength, and nuclear is part of that
+picture. And also those who care about climate change, nuclear
+has to play a role as a bridging capability.
+And, fortunately, this is playing for our strength, our
+innovation. And among the small modular reactors that are out
+in the market today, those who are most advanced and have
+passed the certification of the NRC, a regulatory authority in
+the United States that is looked upon by everybody as the gold
+standard with tremendous respect from abroad, some of these
+reactor designs have passed muster and ready to deploy. And we
+are making tremendous progress in Europe, particularly among
+our Eastern European NATO allies. And with the situation with
+regard to Ukraine, the whole region is seized and they
+recognize that SMR is the answer to energy independence and
+security.
+There are also great opportunities in East Asia. We have
+partnerships with Japan and Korea. They have invested in some
+of our SMR technologies, and we are working together to provide
+collectively those funds that are necessary to create the
+foundation in recipient countries, particularly in Southeast
+Asia, so they could proceed with nuclear pursuits safely,
+securely, and nonproliferation guaranteed.
+So we are pouring all of our resources, particularly with
+ISN has its own tranche of capacity-building capabilities. We
+have this program called FIRST, and we are heavily investing in
+the region.
+Mr. Keating. And are we, at the same time, dealing with
+security issues as part of those discussions?
+Mr. Kang. Absolutely. Security, safety, has to be part of
+it, not just nonproliferation.
+Mr. Keating. Quickly, I just wanted to touch on one other
+area that overlaps, I think, some of the Transatlantic areas.
+You know, the Iranian drones that we found, there were
+components of that from our allies that were found in the
+actual drones that were being given to Russia to brutally
+assault Ukraine. How are we dealing with the disparities that
+do exist between our country and our own allies on many of
+these fronts? What are we doing to close that gap so there is
+no loophole there?
+Mr. Kang. So one of the things we are doing is, of course,
+threat awareness. A lot of these countries do not realize they
+are the source, the companies, whether they are front companies
+or actually production companies where they are producing
+products that end up in these drones. I have seen these drones
+and touched them, these drones that were deployed in Ukraine
+and also in the Middle East. And they are Iranian origin. But
+when you look at them, they use very basic technologies. These
+are difficult to control. A lot of it are commodity items in a
+sense. They are not quantum computing devices.
+So awareness is absolutely critical. And, recently, at the
+department, I cannot discuss it in further detail, we gathered
+together last week a group of countries to strategize together
+what we could do in terms of interjection, better export
+control, and apply national sanctions.
+Mr. Keating. This has to be done multilaterally, not----
+Mr. Kang. Absolutely.
+Mr. Keating . By ourselves. Thank you. I yield
+back.
+Mrs. Kim of California. Let me now recognize Representative
+Radewagen for 5 minutes.
+Mrs. Radewagen. (Foreign language spoken.) Good afternoon.
+Thank you, Chairwoman Kim and Ranking Member Bera for holding
+this hearing. The modern globalized world is one of wonder.
+Modern telecommunications make it so I can speak to my family
+at home in American Samoa from here in Washington, DC, almost
+10,000 miles away, without any issue. That technology that
+allows this instant communication is mainly off-the-shelf
+products. Now, an issue that many Pacific Island countries have
+is monitoring our EEZs. These off-the-shelf technologies have
+helped many of my neighbors in monitoring their EEZs to counter
+illegal activities.
+I have quick questions for all of you. Ambassador Fick,
+would you agree that advances in software and data management
+are creating opportunities for U.S. diplomacy to support both
+domestic industry and national security and foreign policy
+missions?
+Mr. Fick. I agree very much with that.
+Mrs. Radewagen. Thank you. Secretary Kendler, if these
+types of items are wholly comprised of EAR99 technology and do
+not touch military systems in most cases, would BIS require a
+license for the transfer of the time to an ally or defense
+treaty partner?
+Ms. Kendler. We do not require licenses for low-level
+technologies classified under EAR99 to allies and partners
+unless there is an activity or an end user of concern in those
+countries.
+Mrs. Radewagen. So my last question is for you, Secretary
+Kang. Is this an area in which ISN can play a supportive role,
+including through export control cooperation, to build a
+unified, cohesive approach to the transfer of these types of
+systems?
+Mr. Kang. Absolutely. Working multilaterally is the key. We
+cannot go it alone, so we have to create a community of
+interest and we have to have common values, as well. This is
+where human rights also comes into play in export controls, so
+we have created in the auspices of Summit for Democracy
+something called ECHRI, Export Control and Human Rights
+Initiative. So all of these things come in, but all of these
+things have to be with the like-minded and those who share our
+values and common interests.
+Mrs. Radewagen. Thank you, Madam Chair. I yield back the
+balance of my time.
+Mrs. Kim of California. Let me now recognize Representative
+Connolly for 5 minutes.
+Mr. Connolly. Thank you. Welcome to our panel. Ms. Kendler,
+you are at the Department of Commerce. Presumably, it is a
+concern to the Department of Commerce, as it is to the
+Department of State, that something like 90 percent of the
+memory chip manufacturing capacity in the world is in one place
+with one company in Taiwan. What concerns do we have, given
+Chinese saber-rattling, about Taiwan with respect to the
+security of that critical manufactured product?
+Ms. Kendler. Congressman, Taiwan----
+Mr. Connolly. Can you get closer to the mike? It's hard to
+hear you.
+Ms. Kendler. Sorry, sir. Is this better?
+Mr. Connolly. Yes, great. Thank you.
+Ms. Kendler. Sure. Taiwan is a very close export controls
+partner, and we certainly want to do what we can through export
+controls to make sure that Taiwan has the technology it needs.
+Mr. Connolly. No, that's not my question. My question is
+that technology is at risk because of Chinese aggression. If
+China crosses the Taiwan Strait, the manufacturing capacity, 90
+percent of it, in terms of memory chips, is now in Chinese
+hands, not Taiwanese hands.
+Ms. Kendler. Congressman, through our efforts to protect
+national security and our foreign policy interests, we are
+cutting China off from the technologies it can use to wage war,
+and that includes our measures last fall on artificial----
+Mr. Connolly. Ms. Kendler, I'm sorry. Again, that does not
+address my question. My question has to do with the security of
+what is already there in Taiwan. What are we doing in terms of
+building redundancies, off-shoring Taiwanese manufacturing
+capacity, bringing it home if necessary, to ensure that we
+aren't so heavily reliant on one source with one company in one
+place?
+Ms. Kendler. Congressman, this is an important issue for
+the Commerce Department. I have been trying to give you export
+controls answers, and I do not think that is suitable to the
+question.
+Mr. Connolly. Right.
+Ms. Kendler. So perhaps we can take this back and get you
+additional information from other parties at the Commerce
+Department who are looking at this question with a different
+lens.
+Mr. Connolly. OK. Mr. Kang.
+Mr. Kang. Perhaps I can----
+Mr. Connolly. I must say, I am really, I cannot believe, at
+this point, that that's the answer of the Commerce Department
+of the U.S. Government, but, if that's what it is, that's what
+it is. It is not like this is a new issue.
+Mr. Kang. I think this is where----
+Mr. Connolly. It is a huge security concern. Mr. Kang.
+Mr. Kang. Yes, absolutely. So I think this is where
+congressional leadership is paying out. This is, of course, the
+CHIPS Act. The whole idea is to diversify the supply chain. So
+if we are not bringing it back home and we, of course, have a
+Taiwan company investing in the United States, a foundry. Also,
+in Japan, that's the case, as well. But also with regard to
+packaging and other even legacy chips, we are trying to have
+them in hands of our friends and allies. So this is, again,
+because of the foresight bipartisan support of Congress, I
+think that is the answer. But that will have to play out.
+Mr. Connolly. But I think, like so many other supply chain
+issues, we need to better understand how did this happen. I
+mean, this is American-invented technology that migrates to
+Taiwan because we weren't willing to put the resources into it
+the way they were. And, yet, the moment it is in friendly
+hands, may it ever be thus. But we have to plan for the what-
+ifs, and China is making no secret of its designs. What is
+point of view, Ambassador Fick, of the State Department from a
+policy point of view with respect to this?
+Mr. Fick. I think an aspect of this that falls within my
+remit, Congressman, is working closely with my Taiwanese
+counterparts in an unofficial capacity to ensure that we are
+transferring to them lessons that we have learned in other
+places, like Ukraine, in order to strengthen deterrence and
+ensure that Taiwan, we maintain the status quo.
+Mr. Connolly. Really? So you think negotiating with Taiwan
+or advising Taiwan on deterrence protects this 90-percent
+worldwide manufacturing capability unique to Taiwan?
+Mr. Fick. I think we recognize the importance of Taiwan's
+unique role in the global economy because of the concentration
+of semiconductor manufacturing. I think we are taking
+comprehensive steps to diversify that supply chain outside
+Taiwan, part of it in the United States, part of it in friendly
+countries. And we are clearly trying to buy as much time as we
+can in order to develop and mature those alternatives, and that
+involves strengthening deterrence.
+Mr. Connolly. Thank you.
+Mrs. Kim of California. Thank you. Well, I want to thank
+the witnesses for your valuable testimony and the members for
+asking your questions. The members of the committee may have
+some additional questions, and I do, too, for your witness
+responses, and I will ask you to respond to those in writing.
+We cannot allow the Chinese Communist Party to dictate how
+critical and emerging technologies are developed and used. Xi
+Jinping cannot be trusted, and all technology developed under
+his regime can and will be used for human rights abuses and
+military aggression. It is, therefore, of the upmost importance
+that we invest in our own technological base, that we ensure
+all U.S.-developed technology is protected, that the U.S. and
+like-minded allies and partners are setting the rules of the
+road for the use of technology worldwide, and that we are able
+to jointly develop and manufacture critical technologies
+efficiently.
+It is important to recall that the United States
+established NATO after the end of World War II. It also created
+CoCom, the Coordination Committee for Multilateral Export
+Controls. The concept was simple: if the United States is going
+to guarantee the security of our allies, then our allies would
+help deny the export of strategic technology to an adversary.
+And fast forward, today, an adversary is inside our export
+control regimes. In some respects, we do not need novel
+solutions to our technology transfer problems. Instead, we need
+to go back to what worked: small groups of partners and allies
+denying our adversaries access to strategic technology.
+I want to thank all of you for joining us today. It is
+clear that we have much more work to do to be able to
+seamlessly develop critical and emerging technologies with our
+allies and partners in the Indo-Pacific and to protect these
+technologies from authoritarian adversaries. So I look forward
+to continuing our work with each of you to fill these gaps and
+maintain our U.S. technological superiority.
+In closing, pursuant to committee rules, all members may
+have 5 days to submit statements, questions, and extraneous
+materials for the record, subject to the length limitation.
+So without objection, the committee now stands adjourned.
+
+APPENDIX
+

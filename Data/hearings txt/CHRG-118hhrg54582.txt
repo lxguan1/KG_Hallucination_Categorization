@@ -1,1 +1,1670 @@
-THE NEXT GENERATION: EMPOWERING AMERICAN NUCLEAR ENERGY ---------- Thursday, January 18, 2024 U.S. House of Representatives Committee on Oversight and Accountability Subcommittee on Economic Growth, Energy Policy, and Regulatory Affairs Washington, D.C. The Subcommittee met, pursuant to notice, at 2:03 p.m., in room 2154, Rayburn House Office Building, Hon. Pat Fallon,  presiding. Present: Representatives Fallon, Comer, Donalds, Fry, Bush, Brown, Stansbury, Norton, and Krishnamoorthi. Also present: Representatives LaTurner and Williams of New York. Mr. Fallon. The hearing on the Subcommittee on Economic Growth, Energy Policy, and Regulatory Affairs will come to order. I want to welcome everyone, thank the witnesses for coming. I recognize myself for the purpose of making an opening statement. Today's hearing is an opportunity to provide oversight of a critical element of our national energy mix, which of course is the nuclear power sector. I am a proponent of the all-of-the- above approach, where we, you know, use oil, natural gas, clean coal, wind, solar, hydro, and, of course, nuclear. The U.S. is the world's leading producer of nuclear energy. Nuclear power plants account for almost 20 percent of our Nation's electricity, and it is the most reliable source of power generation. Now think about that. That is 1 in 5 homes is powered with nuclear energy. It is also an extremely clean form of energy production, producing zero carbon emissions. In fact, nuclear power is responsible for more than 70 percent--I am going to repeat this--nuclear power is responsible for more than 70 percent of U.S. non-greenhouse- gas-emitting power generation. Additionally, nuclear fuel is incredibly efficient. A single nuclear reactor can produce as much power as over 3 million solar panels or 431 wind turbines. Over the past several decades, American innovators have made significant strides in developing new technology to meet our evolving energy needs. When most people think of nuclear power, they think of large-scale cooling towers and massive industrial projects that can take decades and, of course, cost billions of dollars to complete. They also, I think, admittedly, think of, when you think of nuclear power, if you are old enough to remember Three Mile Island or Chernobyl. The fortunate thing about the things we are building, have built, and the things we are building in the future it is not being built by the lowest Communist bidder, and we also have many more regulations as well to prevent what happened in the Ukraine all those years ago. These traditional reactor designs contribute massive amounts of energy for homes, businesses, and manufacturers. But what many people do not know is that the future of nuclear power can take many forms. Small modular reactors and microreactors could provide energy to isolated communities, military installations, and critical infrastructure. American innovation has, as it often does, led the way for many of these advancements. But similar to other emerging and evolving technologies, the Federal regulatory system has been very slow, unfortunately, to adjust. As a result, the industry is faced with burdensome and expensive, and in my humble opinion, unneeded bureaucratic hurdles. Meanwhile, older nuclear power plants are at risk of closure, potentially jeopardizing grid reliability, and domestic energy security. That is why we have asked representatives from three of the leading Federal entities regulating and overseeing our Nation's energy sector to testify today. The Department of Energy, the Nuclear Regulatory Commission, and the Federal Energy Regulatory Commission each have very important roles to play in ensuring our country's energy infrastructure, stability, and security. These regulators are here today to answer important questions. For instance, are we creating an environment where U.S. innovators can succeed and thrive in providing cost- effective solutions to our energy challenges? Are there areas of regulation that are outdated or duplicative and in need of reform to streamline our Nation's approach to deploying nuclear power? Are we on track to meet the energy needs of tomorrow with the technology and regulatory frameworks that we have in place today? And as we dive into each of these questions, we must also pay close attention to the nuclear fuel supply chain. China and Russia, and this is alarming, collectively control 60 percent of the globe's uranium enrichment capacity, and the U.S. imports a quarter of its low-enriched uranium, the fuel needed to power America's commercial nuclear fleet, from Russia. This means that one out of every 20 American homes is currently powered by Russian uranium. Recent funding initiatives and legislation like H.R. 1042, the Prohibiting Russian Uranium Imports Act, which passed the House last month, endeavor to jumpstart American development and decrease our reliance on adversarial nations. Very good idea. When it comes to the nuclear fuel supply chain, energy security truly is national security. I think they are very synonymous. So, I look forward to a thoughtful discussion on the state of American nuclear power and where we are today, where we can come together and make for a better tomorrow and a successful future. I want to thank each of the witnesses for being here today, and I will yield to Ranking Member Bush for her opening statement. Ms. Bush. Thank you, Mr. Chairman. St. Louis and I are here today to express our grave concerns about the devastating impact nuclear waste has had on this Nation, especially Black and Brown communities. We cannot talk about expanding nuclear energy in this country without first dealing with the Federal Government's continuing legacy of failing to properly remediate harmful nuclear waste in communities like mine. In St. Louis, nuclear contamination dates back to 1942, when, as part of the Manhattan Project, the Federal Government hired Mallinckrodt Chemical Works to process uranium in the heart of what is now my district in downtown St. Louis. The processing resulted in dangerous radioactive waste getting recklessly stored above ground near the St. Louis airport for decades. Near the airport is a waterway central to our community called Coldwater Creek, which sprawls across residential areas, schools, businesses, and parks, affecting North St. Louis County. The improper storage of radioactive waste at this site persisted unchecked for decades. The material was left in the open, exposed to the rain and the wind. This callous mishandling of deadly waste allowed it to seep into the ground, contaminating Coldwater Creek as well as the soil and waterways in the surrounding communities. Though I did not live right on the creek, I was told that during heavy rainfall the water from the creek may have flooded my basement. During that summer my basement flooded at least six times. My mother actually lived near Coldwater Creek, very close, and so my kids would play out there when they were visiting her. Not only did we not know how dangerous it was, we did not even know it was contaminated at all. We had no reason to suspect or any warning at all that the creek could pose a possible risk to our health. After many years of neglect, the Federal Government sold the waste to Cotter Corporation for further for-profit processing, which moved it about a half mile north. What Cotter could not use to make money was illegally dumped in the nearby public landfill called West Lake Landfill. Such heartless and negligent action was a clear violation of Federal law and common decency. As a result, radioactive waste remains both in Coldwater Creek and at West Lake Landfill, putting our communities in harm's way. In a shocking revelation, records released last July proved that the Federal Government both hid and downplayed the risks of this radioactive waste in St. Louis for nearly 75 years, and that radioactive waste was known to pose a threat to people living near Coldwater Creek as early as 1949. Despite this knowledge, however, Federal officials repeatedly downplayed these risks as ``slight,'' ``minimal,'' ``low level.'' People in my district who were unknowingly exposed to this radiation are now living with serious chronic health conditions, including several types of rare cancers. I have had these conversations. I know many of these folks, and my heart breaks for them. Some of them are no longer with us. In 2014, the Missouri Department of Health and Senior Services did an analysis of people living in the eight ZIP codes around Coldwater Creek and West Lake Landfill. The report found breast, colon, prostate, kidney, and bladder cancer cases in the areas were significantly higher than average. Just to give one specific and chilling example, the Department of Health report found brain and other nervous system cancers were 300 percent--3-0-0 percent --more likely to be found in children aged 17 and younger living in the ZIP code closest to West Lake Landfill. It was not until 2016, which is 67 years later, that the Centers for Disease Control and Prevention finally began advising the community to avoid Coldwater Creek entirely. To this day, people in my district continue to allow their children to play in Coldwater Creek because they still are not aware that it is contaminated. There are no signs to indicate any danger or to properly warn folks of the high contamination levels in the creek. That is why I am currently working with the U.S. Army Corps of Engineers and the Environmental Protection Agency to put up this urgently needed signage. The Federal Government still has not provided Missourians any funding to help families test their homes, their businesses, or their schools to ensure they are not living with and sending their children to school in a place with unhealthy levels of radiation. As this toxic waste continues to devastate my community, neither the Federal Government nor those private sector contractors, who reaped benefits--they reaped profits from their shoddy work --have provided financial compensation to the victims of the Manhattan Project in St. Louis. Shame. In 2022, Jana Elementary, a school in Florissant, Missouri, in my district, was shuttered after privately conducted testing revealed radiation levels that were 22 times higher than normal, healthy levels. They were found in classrooms, the cafeteria, and the playground. My constituents were again unknowingly sending their children every day to a school that was exposing them to dangerously high levels of radiation, and no, this was not a new school. All of this was substantiated in the recent GAO report I requested, along with Ranking Member Raskin, which confirms what we have been saying for years. I ask unanimous consent to enter this report into the record, which finds the Federal Government has failed to remediate these two sites in St. Louis. Mr. Fallon. Without objection, so moved. Ms. Bush. And so, not only in St. Louis but in many other communities across our country, this GAO also finds that the St. Louis sites with Manhattan Project waste are found near the most underserved communities of any remediationsites around the country. Mr. Chairman, I wrote to you in October, requesting a field hearing in Missouri's First District to investigate this ongoing environmental catastrophe and hear directly from Missourians whose lives and families have suffered the grievous effects of this preventable and heart-breaking health crisis. I would like to renew my request for a field hearing right here, right now. This shameful legacy of negligence and lies has hurt so many people in St. Louis, and they continue to suffer to this day. Actions need to be taken to remediate the damage that has clearly, and what we know has already been done, before we start talking about expanding nuclear energy in this country. We have a responsibility to both fix and learn from our mistakes before we risk subjecting any other communities to the same exposure. Thank you, and I yield back. Mr. Fallon. I think we are talking about properly stored nuclear waste, and of course not improperly, and unfortunately that has happened in the past. I understand that both of our staffs have been discussing your request, and my staff will continue to work to find a solution. This Subcommittee has not had a field hearing at all yet. And in the meantime, we have great witnesses today to talk about the issues at hand. Without objection, Representative LaTurner of Kansas and Representative Brandon Williams of New York are waived onto the Subcommittee for the purpose of questioning witnesses for today's hearing. I am pleased to welcome our three witnesses today. First, we have Dr. Kathryn Huff, who serves as the Assistant Secretary of the Office of Nuclear Energy within the Department of Energy. Next, we have Dan Dorman, the Executive Director for Operations at the Nuclear Regulatory Commission. And last, we have Dr. David Ortiz, who serves as the Director of the Office of Electric Reliability at the Federal Energy Regulatory Commission. I want to thank each of the witnesses for being here today and thank you for your testimony. I look forward to a great discussion on these issues. Pursuant to Committee Rule 9(g) the witnesses will please stand and raise their right hands. Do you solemnly swear or affirm that the testimony that you are about to give will be the truth, the whole truth, and nothing but the truth, so help you God?  Mr. Fallon. Let the record show that the witnesses answered in the affirmative. Thank you, and please take your seats. We appreciate you being here today and look forward to your testimony. Let me remind the witnesses that we have read your written statements, and they will appear in full in the hearing record. Please limit your oral statements to 5 minutes. As a reminder, please press the little button --green, you get 4 minutes, then it will go yellow for that last minute, and then if is on red and you are still talking, if you could just kind of wrap up your thought. We will be courteous. And I want to thank you again for your time here, and we would appreciate that. So, I now recognize Dr. Huff for your opening statement. STATEMENT OF KATHRYN HUFF, PH.D. ASSISTANT SECRETARY OFFICE OF NUCLEAR ENERGY U.S. DEPARTMENT OF ENERGY Dr. Huff. Thank you, Chairman Fallon, Ranking Member Bush, and distinguished Members of the Subcommittee. It is an honor to appear before you to represent the Department of Energy, and I appreciate the Subcommittee's attention on the programs and policies shaping our nuclear future. Ninety-three nuclear power reactors currently operate at 54 sites across 28 U.S. states. They generate about one-fifth of our electricity and are the Nation's single largest source of zero-emissions electricity. Nuclear energy remains one of the safest and most reliable generation sources available today. So, to swiftly reduce our carbon emissions and to rebuild U.S. leadership globally, the Office of Nuclear Energy is prioritizing activities that keep the existing fleet of nuclear power reactors operating, deploy advanced reactor technologies, secure and sustain the nuclear fuel cycle, and expand international nuclear energy cooperation. These priorities aim to strengthen our energy and national security, to create and maintain high-quality jobs, to allow for an equitable energy transition, and to bolster our economic interests abroad. To this end, President Biden has signed into law both the Bipartisan Infrastructure Law and the Inflation Reduction Act, which each have provisions supporting these nuclear energy goals. To reestablish U.S. global nuclear leadership and meet our net zero goals by 2050, we must deploy new nuclear reactors. Indeed, last month, at COP28, the U.S. and more than 24 other countries committed to working together to triple nuclear energy capacity globally by 2050, because we assessed that this is the magnitude of growth that is needed. We also invited shareholders of international financial institutions to encourage the inclusion of nuclear energy in lending policies. The Office of Nuclear Energy includes partnership with national laboratories, universities, and the private sector, supports new reactor technologies and fuel cycles through research, development, and demonstration activities. This research has enabled advancement in technology underpinning deployments today, and to make these deployments a reality, the Department's new Office of Clean Energy Demonstrations oversees two public-private partnerships to deploy advanced generation for nuclear reactors this decade. However, to fuel today's nuclear reactor fleet as well as the growing fleet of tomorrow, the Administration has taken several actions to secure our civil nuclear fuel supply as well as that of our allies and partners. The Russian Federation's brutal invasion of Ukraine has demonstrated the grave threat to global energy security posed by Russian-supplied fuels. Russia is the largest global enricher of uranium and currently supplies a significant portion of the nuclear fuel supply chain to the U.S. Without expansion of our domestic fuel cycle capacity the U.S. cannot reliably make available the uranium needed to support the needs of today's nuclear power fleet, the future advanced reactor power fleet, research reactors, or medical isotope production facilities needed for the health of Americans. Accordingly, President Biden has requested $2.16 billion in supplemental funding to improve our long-term domestic enrichment capabilities for low-enriched uranium, including high-assay low-enriched uranium, or HALEU. This investment, paired with a long-term ban on enriched uranium imports from Russia is pivotal to reestablishing U.S. civil nuclear energy security. I welcome the opportunity to work with Congress to address this national security vulnerability. Now, after several years of operation, the enriched uranium fuel rods that power nuclear reactors do deplete and must be remoted. The heat and radioactivity associated with used nuclear fuel must be managed and stored safely. The existing U.S. reactor fleet creates about 2,000 metric tons of used fuel each year, which is being stored at more than 70 sites across the country. Over the last 55 years, more than 2,500 casks of used fuel have been shipped across the United States without any radiological releases to the environment or harm to the public. But the promise of new and advanced reactors can only be responsibly realized in conjunction with progress on the long- term management of their used nuclear fuel. The Department believes a consent-based approach to siting interim storage should be used to develop both interim storage and disposal options. A consent-based approach is not only the most equitable and just way to approach siting but also represents our best chance of success. Consistent with direction provided by Congress, DOE is making progress on consent-based siting for one or more consolidated interim storage facilities. While we are working to make progress under existing authorities, additional congressional authorization will be required before DOE can actually construct and operate a Federal interim storage facility. Thank you for the opportunity to appear before the Subcommittee today. I welcome the opportunity to work with you toward a more sustainable, equitable, reliable, affordable, safe, and secure energy system for our Nation. I look forward to questions. Mr. Fallon. Thank you. Thank you very much. And you did it almost on the dime in 5 minutes. Very well done. The Chair now recognizes Mr. Dorman for his 5 minutes. STATEMENT OF DANIEL DORMAN EXECUTIVE DIRECTOR FOR OPERATIONS U.S. NUCLEAR REGULATORY COMMISSION Mr. Dorman. Thank you, Mr. Chairman, Chairman Fallon, Ranking Member Bush, distinguished Members of the Subcommittee. I serve as the Executive Director for Operations, or the Chief Operating Officer, for the Nuclear Regulatory Commission. The NRC is an independent Federal agency with a mission to license and regulate the civilian use of radioactive materials to provide adequate protection to public health and safety, to promote the common defense and security, and to protect the environment. I welcome the opportunity to address the Committee and describe our role in licensing and regulating nuclear power so that it is deployed and operated in a safe and secure manner. The nuclear industry is developing new and advanced reactor designs, and the NRC staff is reviewing pre-application materials and applications commensurate with the risk and safety significance of the proposed technology. Over the past several years, the NRC has been working to modernize our existing licensing processes to support the deployment of new and advanced reactors through the use of risk-informed and performance-based techniques and updated regulatory guidance. Additionally, the NRC has streamlined its licensing review process by using a ``core team'' approach to complete reviews of applications we have received thus far. Last month, the NRC issued a construction permit to Kairos Power LLC for the Hermes fluoride salt-cooled high-temperature non-power reactor after completing all required steps, including the safety and environmental reviews, on budget and ahead of schedule. In addition, the NRC is enhancing its regulatory infrastructure for new and advanced reactors in an open and transparent manner with substantial stakeholder engagement. For example, the NRC recently issued a final rule and associated regulatory guide that applies risk-informed, performance-based emergency preparedness requirements to small modular reactors and other new technologies. The NRC is developing a new optional regulatory framework for licensing new reactors in accordance with the Nuclear Energy Innovation and Modernization Act, or NEIMA. This rule would establish a technology-inclusive, risk-informed, and performance-based regulatory framework for licensing and oversight of new commercial nuclear power plants. The NRC expects to issue the final rule ahead of the NIEMA deadline of December 31, 2027. The NRC staff is also working on a rulemaking to facilitate efficient licensing of fuels with higher enrichment and burn up, which are critical aspects of many advanced reactor designs. The staff continues to develop guidance for advanced reactor licensing, including guidance related to Technology- Inclusive Content of Application and Advanced Reactor Content of Application, which is expected to be published later this year. Additionally, the staff is working on a rulemaking and guidance to build on the NRC's existing process for licensing the use of byproduct materials and establish a framework to regulate near-term fusion facility designs--again, ahead of the NIEMA deadline of December 31, 2027. The NRC also continues to monitor potential impacts of fuel supply on the U.S. commercial nuclear fleet and the domestic fuel cycle suppliers and remains in close communication with the Department of Energy and other Federal agencies on the availability of non-Russian-sourced fuel. The NRC staff routinely communicates with the industry to understand its near-term and longer-term licensing needs to potentially replace uranium and fuel cycle services that have come from Russia. The Commission recognizes the national strategic importance of these issues and held a public meeting in December to learn more about the Administration's short-and long-term domestic uranium fuel strategy and the NRC's readiness to support licensing and oversight. The NRC has recently issued several major fuel supply licensing actions and authorizations. For example, in September, the NRC authorized American Centrifuge Operating LLC to proceed with its planned demonstration project to produce high-assay low-enriched uranium. The NRC has also issued several authorizations allowing increased enrichment and accident tolerate fuels to be loaded in radioactive material transportation packages. The NRC staff performed thorough and transparent safety, security, and environmental reviews and completed all of these on schedule. The NRC staff is prepared and expecting to review between 12 and 14 additional major fuel supply licensing actions in the future and will continue to have other informal discussions with potential applicants. I appreciate the Subcommittee's interest in the NRC's mission and the work of our dedicated staff as well as the opportunity to address you today. We appreciate our continuing engagement with Members of Congress, and I look forward to your questions. Mr. Fallon. Thank you very much. And now the Chair recognizes Dr. Ortiz for your opening statement. STATEMENT OF DAVID ORTIZ, PH.D. DIRECTOR, OFFICE OF ELECTRIC RELIABILITY FEDERAL ENERGY REGULATORY COMMISSION Dr. Ortiz. Chairman Fallon, Ranking Member Bush, and Members of the Subcommittee, thank you for the opportunity to testify today. My name is David Ortiz. I am the Director of the Office of Electric Reliability at the Federal Energy Regulatory Commission. My remarks today are my own, and I appear here as a Commission staff member, and my thoughts do not represent those of the Commission or any individual Commissioner. My testimony summarizes the Commission's oversight of the reliability of the Bulk-Power System and my perspective on nuclear power and its role in ensuring a reliable U.S. electric grid. In the Energy Policy Act of 2005, Congress amended the Federal Power Act to add Section 215 pertaining to Bulk-Power System reliability. This provision tasked the Commission with responsibility to oversee mandatory, enforceable reliability standards for the Nation's Bulk-Power System. This authority pertains to the interconnected electric power system--we also call it the ``grid''--in the United States, and excludes Alaska, Hawaii, and local distribution systems. The Federal Power Act also gives the Commission jurisdiction over rates, terms, and conditions for wholesale sales of electricity, and reserves to the states the choice of electric generation facilities, including the development of nuclear electricity generating capacity. With respect to reliability, Section 215 does not give--in fact, it explicitly prohibits, FERC from directing the construction of electricity generation or transmission capacity. Given the tight linkage among nuclear power plant safety systems, which are regulated by the NRC, and the electric transmission system, the Commission and the NRC entered into several Memoranda of Understanding to ensure appropriate coordination. To further coordinate on these important issues, for 20 years the Commission and the NRC have conducted biannual joint commission meetings, where the commissioners of both FERC and the NRC meet to discuss matters of common interest. The next joint meeting will occur next Thursday, January 25. The topic of today's hearing is nuclear power plants and their future. According to the Energy and Information Administration, from January to September 23, the nuclear power fleet produced 18 percent of U.S. electricity and operated at a capacity factor of 94 percent. This is significantly higher than all other generation resource types. Additionally, because nuclear power plant reactors and turbines are enclosed, they typically perform much better than other resources during extreme weather conditions. Our recent report looking into Winter Storm Elliott found that only 0.4 percent of over 1,700 of the outages that occurred during the storm were attributed to nuclear units. The changing resource mix, however, poses significant challenges for reliable operations of the grid beyond having sufficient capacity. To ensure reliability, in addition to resourcing energy adequacy, the resource mix must provide flexibility and system stability services. Most new resources interconnecting to the grid are renewable. These resources are highly variable, and while in aggregate they may provide sufficient capacity, they may not provide essential services needed to maintain reliability at all times. The current fleet of nuclear power plants in the United States was not designed to be flexible and has historically not provided significant voltage control or other reliability services due to safety and operational factors. Nuclear power plants also do not provide black start service, which is needed to restart the grid in the event of a blackout. Technologies that are currently under development, including the small modular reactor, when deployed, could both provide the capacity and energy that nuclear power plants are known for, and help operators to meet flexibility requirements of the future grid. I defer to my colleagues at the Department of Energy and the NRC to provide the most up-to-date information in this regard. FERC will continue to work with relevant stakeholders and our sister agencies to execute its responsibilities under Section 215 of the Federal Power Act to enhance and to maintain and improve the reliability of the electric grid. Nuclear power has and will have a key role in supporting that reliable operation. Thank you for the opportunity to testify today. I look forward to answering your questions. Mr. Fallon. I want to thank the witnesses. Thank you very much. A very important topic to discuss. I now recognize myself for 5 minutes of questions. Dr. Huff, I would love to start with you. As you know, nuclear fuel is made from processed uranium. Together, China and Russia account for nearly 60 percent of the world's uranium enrichment capabilities. This is clearly a national security issue for the United States' commercial nuclear reactor fleet, in my humble opinion, and I wanted to get your thoughts on that. Dr. Huff. Thank you very much. It is absolutely a key priority for my office, for the Administration, to ensure a reliable supply chain from trustworthy sources. We acknowledge that it is not a sustainable approach to allow continued dependence on Russia for this fuel. And, in fact, in the supplement request, President Biden has requested $2.16 billion in supplemental funding, paired with an import restriction, as you described. That would really go a long way to expanding the conversion and enrichment facilities that we need in the United States domestically to ensure our fleet, which being the largest nuclear fleet in the world is also the hungriest in terms of low-enriched uranium. But also, the fuel of our allies and partners, which also rely on Russian-enriched uranium. Thank you. Mr. Fallon. If I could follow up, the U.S. current commercial nuclear reactors run exclusively on low-enriched uranium, or LEU. U.S. imports nearly a quarter of LEU from Russia. What is the Administration doing to encourage investing domestically to really further and foster our enrichment capabilities? Dr. Huff. Yes. So, in our proposed uranium strategy to remove ourselves from dependency on Russia, we have suggested this $2.16 billion supplemental funding to procure enriched uranium as a buyer of the new capacity that will need to be stood up, at the premium that needs to be stood up, and then make sure that it is available for the industry in the near term. That uranium strategy does rely on protecting those investments from continued import of cheaper Russian uranium. And right now, we have been supporting a number of grants associated with higher assay low-enriched uranium, or HALEU, to support advanced reactors in the future, and have recently seen the benefits of that program. We have just recently produced the first HALEU. Mr. Fallon. What are the cost differentials? Assuming, let us say, once we are up and running and we have that economy of scale, are we going to be at cost with what we pay the Russians currently, or will it be a little cheaper, or will it be a little more expensive? Dr. Huff. It will be a little more expensive, but it takes a little while to build enrichment facilities. It takes a few years. And it can take a while because it is mostly capital investment. It does not take them a lot of people to operate them. It will take a while to recoup the expenses, but once they are running, they are an incredible national security asset. Mr. Fallon. Well, that is the important thing right there. Mr. Dorman, advanced reactors offer new technologies, and I think really new opportunities as well, but it demands a different regulatory structure than traditional reactors. To address this, the NRC drafted what is commonly referred to as Part 53, which is yet to be finalized. What challenges do you feel that the NRC faced and faces in updating regulations for emerging technologies, and how does the NRC hope to overcome the obstacles that are presented? Mr. Dorman. I do not think there is a significant challenge, Mr. Chairman, to getting through that rule. We have provided a draft proposed to the Commission and are awaiting their direction to get into the notice and comment period for that proposed rule, and we expect to complete that within the NEIMA schedule. I think, in the meantime, we expect to have several applications for new reactors that will come in under our legacy rules of Part 50 and Part 52. And so, for those novel technologies, those rules were built and built up over time for large light-water reactors, and so there are some areas of those that are not applicable. And a key is the preapplication discussions we are having with the applicants, and we are making sure those are all clearly understood and dealt with appropriately in the licensing process. Mr. Fallon. Do you think that lowering the cost of regulatory compliance ultimately will translate into lower energy costs for consumers? Mr. Dorman. I think lower regulatory costs will impact the cost to consumers because we, as you know, our regulatory costs are fee-based, so they do come from the users. But I think they are a pretty small fraction of the total cost of operation a nuclear power plant, so I do not think that is where the huge gains will be. Mr. Fallon. Dr. Ortiz, real quickly because I am out of time, the Biden Administration has engaged in what is called the whole-of-government approach to address climate fears by regulating, I think, everything from vehicles that you drive to the appliances in your home. Electrifying everything has its consequences, of course, and there are growing concerns that the system that we have in place is not prepared for the increasingly electric future that this Administration envisions. How does FERC view the role of nuclear power in our national energy mix, given, I think, these very real concerns? Dr. Ortiz. As I provided in my written testimony, the nuclear power fleet has and will continue to be an essential component of the electricity generation resource mix in this country. Mr. Fallon. Thank you very much. Very well done. The Chair now recognizes Ranking Member Bush for her questions. Ms. Bush. St. Louis and I are here today to discuss the devastating legacy of nuclear waste in our community. As I outlined in my opening statement, St. Louis is still grappling with the consequences of the Manhattan Project as radioactive waste has contaminated Coldwater Creek, a central waterway, and the surrounding area. I am concerned about further developing nuclear power in this country before its history of radioactive contamination is effectively and appropriately addressed in my community and others like it. I am especially concerned because many of these cleanup sites exist in marginalized Black and Brown communities. Dr. Huff, I understand that the specific problematic sites in my district are now under the jurisdiction of the Army Corps because, in 1997, Congress transferred execution of Formerly Utilized Sites Remedial Action Program, the FUSRAP program, from the Department of Energy to the U.S. Army Corps of Engineers and the Environmental Protection Agency, due to complaints of the DOE's longstanding mismanagement of the program. So, Dr. Huff, the EPA is charged with overseeing the cleanup at West Lake Landfill for the exact same reason, due to the mismanagement and failure to properly remediate, but we are nowhere near completing the task. Though DOE is no longer charged with overseeing cleanup, which we have established, your agency is still responsible for the financial burden of paying to clean up your radioactive waste that you made, leftover from the Manhattan Project. I understand that there is a unilateral administrative order from the EPA, authorizing the use of the judgment fund to clean up the West Lake Landfill site that the DOE still has not signed. Dr. Huff, will the Department of Energy finalize this agreement to fund your portion of the EPA's cleanup plan through the judgment fund without delay to remediate the area containing your radioactive waste at West Lake Landfill? Dr. Huff. Thank you. Ms. Bush. And I understand this is before your time. Dr. Huff. And thank you, Ranking Member. It is also not my office. I will take this specific question back, but I do want to acknowledge the incredible importance of transparency and care with regard to clean up activities. I am proud to be part of an Administration that does take energy justice and environmental justice very seriously. Ms. Bush. OK. And then, so our office will--our team will follow up and see if we can get some more information because I am just not sure what is preventing this from happening. You know, I am just not sure what is preventing the Department of Energy signing this document to fund so that we can help save lives. Dr. Huff, let me ask, given previous concerns with appropriately handling nuclear waste disposal, how is the Department now ensuring that any new waste is handled and disposed of properly? Dr. Huff. Thank you so much for this question. I think it is incredibly important. You know, I think acknowledging the dark legacy of the nuclear weapons complex's handling of nuclear materials is a critical component of the way we look toward the future of commercial nuclear power, which is distinct in terms of how it manages its waste, but has given us a number of lessons with regard to how we need to move forward. And a critical component is that our approach will be consent based in terms of identifying a location where communities are both informed and consent to holding that material for the long term. Right now, the spent nuclear fuel from commercial nuclear power plants is stored safely, but in 70 sites that did not agree to hold that material in the long term, it is DOE's responsibility to take it off their hands and take title of that material. Our approach is to leverage a consent-based siting approach that is being leveraged with success in Finland and is being leveraged in Canada, that starts by centering the needs and concerns of communities. That process has begun with $26 million worth of grants to community organizations, universities, and private industry to, you know, reach out and discuss what it means to be consent based, and then we assess that that approach will get us to an interim storage facility that can take that material from its current locations and consolidate it into a smaller number, hopefully one or two. Ms. Bush. Well, consent is definitely a good start. Consent--we like that. As I said earlier, we simply cannot talk about expanding the use of nuclear power in the United States while communities continue to suffer from the legacy of nuclear waste mismanagement. I implore the Biden-Harris Administration and the Department of Energy to use every tool in its belt, which I know is what you are working on, to first cleanup our community. So, if you can pass the word to your colleagues to pay attention to the fact that we need this signed, that is a step, and to develop a plan to ensure that these mistakes never happen again. Thank you, and I yield back. Mr. Fallon. Thank you. The Chair now recognizes Chairman Comer for 5 minutes of questions. Chairman Comer. Thank you, Mr. Chairman. Assistant Secretary Huff, thank you for visiting my district last year during a nuclear conference in Paducah, Kentucky, hosted by the Energy Communities Alliance. As you know, the site of the former Paducah Gaseous Diffusion Plan receives over $240 million annually from the Uranium Enrichment, Decontamination, and Decommissioning Fund for site remediation activities. As you heard during your visit, the Paducah community is eager to expedite this cleanup, and local officials and community leaders have begun planning for reindustrialization and economic development at that site. Since your visit, the Paducah Chamber of Commerce was awarded a DOE grant to develop a reindustrialization roadmap for the assets and workforce at the site. This award is evidence of the region's united support for pursuing innovative ideas to develop advanced nuclear opportunities, and is further highlighted by resolutions passed by Ballard and McCracken counties and the city of Paducah supporting reindustrialization efforts at the site. At the state level, a nuclear working group has been established to analyze the commonwealth's regulatory environment and develop strategies to promote nuclear energy development. This working group concluded that there are no insurmountable policy barriers to the development of nuclear in Kentucky and recommended a permanent nuclear authority to advance nuclear causes across the state of Kentucky. Assistant Secretary Huff, with all this in mind, what opportunities and resources would you recommend to this region to aid the development of advanced nuclear opportunities? Dr. Huff. Thank you very much, Representative. I am really impressed by the leadership of your community in thinking ahead in terms of that reindustrialization. I heard a lot about their plans, and I think that particular region holds an immense amount of resource in their workforce. And when we look to equitable transitions for the future of nuclear energy, I want to see folks with real expertise in the nuclear space getting new jobs in a future of nuclear. And as the cleanup project rolls down, those folks with real radiological expertise have an opportunity in a variety of fuel cycle activities, manufacturing activities, and potentially even the deployment of new nuclear reactors, as you have described. Those skills that they already have are going to be very valuable in that transition. Chairman Comer. OK. Assistant Secretary, Global Laser Enrichment has a significant interest in partnering with the community to develop a commercial-scale facility which can supply uranium, conversion, low-enriched uranium, and high- assay low-enriched uranium. Projects like these are vital to turning legacy waste into fuel and creating high-paying jobs and economic activity in and around Paducah, Kentucky. I understand that DOE recently released a proposal for HALEU following the creation of the HALEU Availability Program in the Energy Act of 2020. However, I am also aware that DOE has $100 million in funding which is yet to be disbursed. Can you provide a timeline for when DOE might issue additional funding opportunities that could support innovative technologies including domestic HALEU production? Dr. Huff. Thank you. Indeed, we did release the HALEU RFP very recently, and in fact right now, today, we are executing basically an industry day to discuss with companies like GLE, you know, what we expect from those proposals and how they should interpret the details of that funding opportunity. What we would like to see, certainly, is a competitive process by which the Department of Energy can enter into procurement space for high-assay LEU. With regard to the next $100 million, you know, Congress directed us to use the $700 million from the Inflation Reduction Act in a certain way. Some of that money has been released through the deconversion request for proposals, some is targeted toward the enrichment request for proposals that we were just discussing, and some may need to be used for transportation and other components. Chairman Comer. So, what other opportunities within DOE's authority, including public-private partnerships, could the Department make available to support the acceleration of these types of projects? Dr. Huff. Yes, I think ultimately that request for proposals is a historic moment in the ability for companies like this to compete for the ability to produce material with DOE backing, and it could be accelerated by fully funding it through the President's supplemental request of $2.16 billion. We requested $2.16 billion to support LEU and HALEU enrichment expansion as well as conversion expansion, combined with the revolving fund, so that the U.S. Department of Energy can procure material at a higher premium today that will not appear until that capacity is built, and then make it available and recover those funds through an availability program. That availability program is being stood up through that HALEU RFP, but ultimately it will probably need the $2.16 billion requested by the supplemental. Chairman Comer. Thank you. I yield back. Mr. Fallon. Thank you, Mr. Chairman. The Chair now recognizes Ms. Brown, from Ohio. Ms. Brown. Thank you, Mr. Chairman. President Biden and Vice President Harris have purposely prioritized energy independence over the past 3 years of their Administration. As a result of Biden-Harris Administration policies, American energy independence was greater in 2022 than at any other time over the past seven decades. Yes, that is right. America is producing more energy under the Biden-Harris Administration than ever before, contrary to what my colleagues on the other side of the aisle may say. This has been possible by way of historic investments from legislation like the Bipartisan Infrastructure Law, the Inflation Reduction Act, and the CHIPS and Science Act. In our efforts to burn less fossil fuels and become less dependent on foreign oil, science shows us nuclear power is a clean, competitive, and cost-effective alternative. Nuclear power releases just a fraction of the greenhouse gases that coal or gas does, while creating a great amount of energy. Specifically, I want to touch on the unprecedented investments being used to create new American jobs and preserve and support safe nuclear facilities through the Civil Nuclear Credit Program, a program established in the Bipartisan Infrastructure Law. So, Dr. Huff, how will the continued implementation of President Biden's Civil Nuclear Credit Program and his investment in nuclear energy more broadly help to reach the Administration's goal of 100 percent clean electricity by 2035? Dr. Huff. Thank you very much, Representative. The Grid Deployment Office now administers the Civil Nuclear Credit Program, but I am very familiar with it because it started in the Office of Nuclear Energy. I will not try to speak to details out of turn, but I will say, you know, what has been made available enables the existing fleet to continue operating, despite the kind of economic challenges that some markets place before some of those plants. In its first year, DOE has made a conditional grant of $1.1 billion to Diablo Canyon, which can contribute to keeping that plant operating. This is gigawatts of clean power on the grid, and keeping existing nuclear reactors open through subsequent license renewals that the NRC can provide through their licensing process is some of the cheapest clean power we can put on the grid. It is much cheaper than building a new nuclear reactor, to keep one operating for even longer. And we are seeing an opportunity for some reactors that, you know, had an initial lifetime estimate of 40 years, going to 60 and even 80 years. So, this is really critical to that zero-carbon grid. We have to keep all the reactors running, and the Civil Nuclear Credit Program is putting billions of dollars toward it and resulting in gigawatts of clean power. Thank you. Ms. Brown. Thank you. I would be remiss if, like my colleague, Ranking Member Bush, that I did not mention nuclear power facilities in the past have been far more likely to be placed in close proximity to communities of color than their White counterparts. This exposes Black and Brown communities to the health and environmental risks presented by nuclear waste, which can cause cancer, cardiovascular disease, and more. It is especially important as we continue nuclear development to ensure consideration of the health and safety of the communities which have been overlooked for far too long. So, Dr. Huff and Dr. Dorman, how is the Biden-Harris Administration ensuring investments in nuclear power do not lead to environmental and health risks for minority communities? Dr. Huff. In DOE, we have included community benefits plans as part of our process for new grants, as one example of which we are establishing news ways to incorporate the concerns and needs of historically underserved and Black and Brown communities. This is now part of our granting process. And ultimately, too, I think it is important to note, I do want to give you comfort about the safety of the nuclear industry. You know, our real concern, in terms of deaths per terawatt hour, nuclear is very safe compared to most other sources. Nuclear is very comparable to wind and solar, where it is fewer than one death per decade is attributable to the lifecycle of nuclear power. But we still want to acknowledge the burdens on underserved communities as part of our granting process. Mr. Dorman. Congresswoman, the NRC has a longstanding program to address environmental justice concerns in our licensing and oversight processes, and the Commission tasked the staff a couple of years ago to do a comprehensive review of our environmental justice program. What while we found that it has served us well, we did identify to the Commission opportunities to enhance our outreach activities, update our policy statement and our environmental justice strategy and to assess whether enhancements can be made to how environmental justice is addressed in the agreement state application process, which applies to our industrial and medical uses. Those recommendations are with the Commission. But we are committed to environmental justice as a key part of our licensing process. Thank you. Ms. Brown. Thank you. My time has expired, but I just want to say I applaud the Administration's work and remain committed in my strong support. And with that I yield back. Mr. Fallon. Thank you. The Chair now recognizes our good friend from Florida, Mr. Donalds. Mr. Donalds. Thank you, Chairman. Dr. Huff, actually, I want to start with you. Your last comment was kind of interesting, around deaths associated with power generation facilities. Are there more deaths from wind farms than nuclear power plants? Dr. Huff. A lot of folks have done analyses on these. The order of magnitude of lifecycle deaths per terawatt hour is really comparable between wind and solar and nuclear. Ultimately, some assessments put wind just slightly higher, slightly lower than nuclear. I would say the uncertainty bars are pretty big, depending on what assumptions you make, but they are magnitudes different than unabated pollution-emitting sources. Mr. Donalds. OK. Dr. Huff. Magnitudes slower, sorry, smaller. Mr. Donalds. There was a Forbes article that written, maybe 6, 8 months ago, that stated that in England there were 114 deaths from wind turbine maintenance, because people fell off the turbines trying to maintain them, and there were 0 deaths from nuclear power plants. Is that true? Dr. Huff. That sounds very aligned with these kinds of statistics. Mr. Donalds. OK. Mr. Ortiz--Dr. Ortiz, my apologies--the nationwide forecast of electricity demand has shot up from 2.6 percent to 4.7 percent over the next 5 years, as reflected in the 2023 FERC filings. With the increase in electricity demands can the United States realistically have a reliable electric grid and affordable energy prices without nuclear power, both conventional and advanced? Dr. Ortiz. Well, sir, if you are talking about the next 5 years it is going to have to include the current nuclear power fleet, obviously. Within the Commission's oversight, with respect to reliability, the Commission, as I mentioned in my testimony, has authority over the operating reliability of the electrical grid, but the Federal Power Act reserves for the states the choice of electric generating facilities. Within that mix of organizations that helps to manage the grid, our grid operators are responsible for planning and operating their systems to include taking into account appropriate load growth. And so, to the degree that load growth is something that is a concern--and we heard a significant amount of discussion about load growth at our Commission meeting in Portland, Oregon, in June--the grid operators are responsible for managing their fleets as well as to dispatch, plan ahead and dispatch load, effectively to maintain that. So, the fact of the matter is, is that going to nuclear power, the expectation is that it is going to be there and that if future systems are available and deployed, they will be there too. Mr. Donalds. OK. Dr. Huff, do you believe that energy reliability is a prerequisite for energy affordability. Dr. Huff. Both that and safety. I think people need reliable energy to stay safe, and reliable energy is required for affordability as well. Mr. Donalds. So, I represent southwest Florida. You know, we take in hurricanes all the time. The last one was Hurricane Ian. We had Hurricane Irma before that. Do you believe that advanced nuclear microreactors can be deployed to assist with natural disaster response efforts? Dr. Huff. We are really interested in the possibility that this could happen. So very small, transportable microreactors are being developed, and some of them envision applications that could respond to emergencies like that. I think, you know, it will depend on licensing by the NRC, but a number of companies and concepts are being developed toward that goal. Thank you. Mr. Donalds. Now bring me to the NRC. Thank you for that segue. Mr. Dorman, how can we reduce regulatory risks associated with licensing new nuclear technology? Are there any nuggets you can provide Members of Congress to help the NRC accomplish this goal? Mr. Dorman. Thank you, Congressman. We are very engaged with about 15 technology developers in what we call pre- application discussions, and it is critically important that these are voluntary engagements, but I think they are helpful to both parties in that it helps the developers, many of whom do not have experience working with the NRC, to understand---- Mr. Donalds. OK, Mr. Dorman, not to cut you off but I have like 35 seconds. So, is there anything that you can provide Members of this Committee, detailed regulatory or statutory changes, that can help us do our job on Capitol Hill to give you the flexibility you need at the NRC? Mr. Dorman. I do not have specific legislation. I think we have some things we are working with our Commission on. Mr. Donalds. All right. Well, I would love to see that. And Mr. Chairman, I think that is something that should be provided to the Committee. At the end, Mr. Chairman, I would request unanimous consent to submit for the record an op-ed titled, ``A Freshwater Future Powered by Nuclear Energy: Lessons Learned from Hurricane Ian,'' ``Let's Embrace Nuclear,'' ``Nuclear Innovation is Key to America's Economic Future,'' ``The Dishonest Fantasy of Wind and Solar,'' ``It is Time for America to Unleash Next- Generation Nuclear Energy,'' ``Why I Am An Advocate for Advanced Nuclear Technology,'' and ``What about the Waste?'' Mr. Fallon. Without objection, so ordered. Mr. Donalds. I yield. Mr. Fallon. Thank you. The Chair now recognizes Ms. Stansbury from New Mexico. Ms. Stansbury. Thank you, Mr. Chairman, and I greatly appreciate the opportunity to have this hearing today. This is an issue that is crucial to New Mexico, to my district, and something that the people of my district feel very passionately about. And that is because New Mexico has been ground zero for our nuclear industry since the beginning of the Manhattan Project, and I am sure many of the people in this room saw the movie ``Oppenheimer'' this year, which introduced to the world New Mexico's crucial role in helping to create our Nation's first nuclear weapons. And to this day Sandia National Labs is still in my district and plays a critical role in helping to maintain our Nation's nuclear arsenal and ensure not only domestic but international security. So, it is an issue of great interest, both to our national security and to our economy and New Mexico's history. But what that movie did not tell us about is the dark side of that nuclear legacy. As Ranking Member Bush talked about, the way in which the Manhattan Project, of course, was spread across the United States as part of trying to ensure that it was kept a secret. And so, the fuel that was actually enriched in Ranking Member Bush's district was mined in New Mexico, and that was mined on Tribal lands, and those mines, which operated from the 1940's until really the 1980's and 1990's, were largely abandoned by the private companies that mined them. And guess what? They are still not remediated to this day. And there are thousands of people who are living around those mines, with nuclear waste coming off of those mines into their water systems, into their homes, their wells, poisoning their livestock and their family members. The miners who worked in those mines never got compensation for the diseases, the cancers that they developed. And guess what? They also tested the very first nuclear bomb. You saw it in ``Oppenheimer.'' But what they did not show you is the nuclear fallout that came from that giant mushroom cloud, just like what happened in Nagasaki and Hiroshima. But guess what? It fell on Americans, in my district, in the Tularosa Basin. A mushroom cloud of 200 miles left nuclear fallout across rural communities in New Mexico. People said that the sky turned dark, and it rained snow on them. Their animals died in the following days. And to this day, there are thousands of members of people in the communities that I represent that experienced cancer, birth defects. They are still seeing the legacy, and the United States has never apologized. The United States has never provided any kind of medical support for the people that they bombed, here in the United States. Mr. Oppenheimer helped build the bomb that you all saw in that movie this year. In addition to that, those labs, of course, became the offices that Dr. Huff works at, because after the war the potential to transform those weapons of mass destruction into opportunities for energy production was recognized, and our national labs helped to develop the know-how, the science, and the engineering to make it possible to do everything that we are talking about right now in this hearing. But the waste from that also had to go somewhere, cradle to grave. So, not only was it mined in our district, dropped on our district, produced in our district, it is now dumped in our district. New Mexico has been a dumping ground for nuclear waste since the nuclear program began in the 1940's, the WIPP site, which was opened in the 1990's. And guess what? About 5 years ago, a private company out of New Jersey hooked up with some local boosters in southeastern New Mexico and saw an opportunity to take advantage of the fact that the DOE had not come up with a way to find a permanent storage solution for all of this spent nuclear waste. And so, they came to New Mexico and said, ``Hey, we want to open a nuclear waste dump in your state,'' and New Mexico said, ``No thanks.'' I was serving in the state legislature when the WholeTech company came and presented to us their plan for a 20-year interim storage facility. They could not answer what they were going to do with the nuclear storage after 20 years, when the design life of their canisters would begin to melt. And they said, ``Well, do not worry about it because by that point we will have a permanent storage facility.'' I mean, how long have we been trying to license a permanent storage facility? But the thing that boggles my mind, and Mr. Chairman, if you will please give me the opportunity to ask a couple of questions about this, is that we have heard a lot today about consent-based siting. But in New Mexico, our Governor transmitted a letter to the NRC begging you not to license that facility. our state legislature passed a law requiring consent. Every single member of the New Mexico congressional delegation mailed you a letter at the NRC and said, ``We do not want this nuclear waste site in our state.'' Communities surrounding that site said, ``We do not consent and do not want this nuclear waste facility.'' And yet---- Mr. Fallon. The gentlelady's time has expired. The gentlelady's time has expired. I apologize. Ms. Stansbury. Excuse me. Give me one moment, Mr. Chairman. Mr. Fallon. No. Your time has expired. Ms. Stansbury. The NRC---- Mr. Fallon. Your time has expired. Votes have been moved up. Your time has expired. Ms. Stansbury. The NRC---- Mr. Fallon. I give you---- Ms. Stansbury . Licensed---- Mr. Fallon. The gentlelady is not recognized. Ms. Stansbury. Let me finish my sentence. Mr. Fallon. No. The gentlelady is not recognized. Ms. Stansbury. The NRC licensed---- Mr. Fallon. The Chair recognizes Mr. Fry---- Ms. Stansbury . A nuclear facility---- Mr. Fallon . For 5 minutes. Ms. Stansbury . In New Mexico in May of last year, against our dissent, and we are---- Mr. Fallon. You are out of order. Ms. Stansbury . Not OK with that. Mr. Fallon. You are out of order, completely out of order. Ms. Stansbury. You know what? It is out of order to dump nuclear waste---- Mr. Fallon. I agree, but you are out of order. Ms. Stansbury . In our communities. OK. Mr. Fallon. You did not remove one bit of nuclear waste by being out of order here. The Chair now recognizes Mr. Fry. Ms. Stansbury. So, we would like to ask the NRC to revisit---- Mr. Fallon. The Chair now recognizes Mr. Fry. Ms. Stansbury . This decision because it is crucial to the future of our communities and our country. Mr. Fallon. The Chair now recognizes Mr. Fry. Mr. Fry. Thank you, Mr. Chairman. Mr. Dorman, my home state of South Carolina is a leader in nuclear energy with over 55 percent of electricity generation coming from a nuclear plant, and my congressional district is home to Duke Energy's Robinson Nuclear Plant, which generates about enough electricity to power half a million homes and employs 600 people in rural South Carolina. Duke Energy submitted an NRC application to renew Robinson's operating license for another 20 years, and I am hopeful that the plant meets all of the NRC requirements for approval. The electricity, high-paying jobs, and local tax base of the facility are so important to Hartsville, South Carolina, and the surrounding area. Are you able to provide me with an update regarding their relicensing? Mr. Dorman. Congressman, I would be happy to get you a specific update on that. When we receive an application like that, we communicate a schedule and a level of resource to the applicant on when we expect to complete that review, and we would be happy to get that information to you. Mr. Fry. What is the timeframe in which they have to operate, or the timeframe that they would be looking at for review? Mr. Dorman. We are working to get that down to 18 months for those reviews. We did get a higher number of applications than we anticipated, and that strained some of our resources, but we are working to get that back to 18 months. Mr. Fry. What is the current average right now? Mr. Dorman. I think it is around 22 months. Mr. Fry. Twenty-two months? OK. Thank you for that. I do appreciate that. Dr. Huff, the U.S. recently led a coalition of nations to pledge to triple their nuclear power capacity by 2050. With the nuclear waste generated by this goal in mind, do you and the Office of Nuclear Energy see the development of domestic nuclear recycling technology as vital to our country's nuclear future? Dr. Huff. Thank you very much, Congressman. While the United States does not currently encourage commercial reprocessing, we continue to do research and development to explore options and advance fuel cycle options as the technology and economics evolve. A critical component of this certainly is the development of advanced reactors with high-assay LEU fuel. The resulting spent nuclear fuel from some of these reactor concepts may have much more value in a recycling scenario and change the economics of recycling in the longer-term future. So, this is something we are very aware of. I am working very closely with my colleagues in the National Nuclear Security Administration to ensure that we have a coherent strategy with regard to how we approach that research, to ensure the highest levels of safety, security, and safeguards around recycling options for our future nuclear fleet. Mr. Fry. Did you say that you do not see that in the commercial setting? What do you mean by that? Dr. Huff. So, in the National Security Memorandum 19, the President's policy is set out to say that we do not currently encourage commercial reprocessing. This does not say that we will discourage it or that we would either discourage or encourage Federal reprocessing. Mr. Fry. But you do see the recycling as part of the nuclear future, given the lofty goals set by---- Dr. Huff. Yes, we continue in DOE to do research and development, to find options that will meet economic and technical challenges. Mr. Fry. Thank you. What steps has the NRC taken to modify the licensing process, and how will these modifications help to streamline the construction of reactors? Mr. Dorman. For reactors--now we are switching subjects? So, for reactors, over the last several years we have adopted what we call a ``core team'' concept. We have added data analytics to our licensing process to make sure that we are tracking to the schedules and budgets that we are telling applicants when we receive their application. We have had success with that, most recently with the Kairos molten salt- cooled demonstration reactor, a 30-megawatt reactor in Tennessee, for which we issued the construction permit last month. The staff completed their safety and environmental reviews on budget and ahead of schedule. Mr. Fry. Thank you. And Dr. Huff, this might be for you. Considering the Department's recent efforts in the research and technology that you talked about, what stands out to you as having the highest potential return on investment? Dr. Huff. Well, I think development of new reactors of a variety of sizes is really important, and I especially am interested in seeing the deployment of nuclear reactors in place of retiring and retired coal sites. I think this targets workforces that need to transition equitably, and it allows us to use resources like the transmission grid that goes to those coal sites. Ultimately, too, I think it is important to note that the radiation exposure to individuals living outside of an operating coal plant is higher than the radiation exposure to any individual living outside of a nuclear power plant because of the strict safety regulations by which those reactors operate. And so, I would love to see transitions for coal plants to nuclear plants. That is where the biggest benefit lies. Mr. Fry. Thank you. With that, Mr. Chairman, I yield back. Timely. Mr. Fallon. Timely. Five minutes. That is not the Representative Fry show. The Chair now recognizes---- Ms. Bush. That was unnecessary. Mr. Fallon. Well, you know what was unnecessary? Two and a half minutes---- Ms. Bush. You went over. Mr. Fallon. and yes, and I gave her 30 seconds. Not 2 minutes. The Chair recognizes Ms. Norton from D.C. Ms. Norton. I thank the Chair. I would like to use my time to discuss two bills pending in Congress. One bill, introduced by a Republican on this Committee, would require a feasibility study on incorporating an advanced nuclear reactor in the Capitol Power Plant at the U.S. Capitol Complex. Not only is placing a nuclear reactor in the U.S. Capitol Complex a danger to national security, it is a danger to my constituents, here in D.C., in this densely populated city. I strongly oppose this bill. The other bill, the Nuclear Weapons Abolition and Conversion Act, would require that beginning on the date that the President certifies to Congress that all countries possessing nuclear weapons have begun the verifiable and irreversible elimination of these weapons under the Treaty on the Prohibition of Nuclear Weapons, the United States then direct resources that are being used for nuclear weapons programs to address the climate crisis and human infrastructure needs, such as housing, health care, and restoring the environment. Monday is the third anniversary of the Treaty entering into effect, and 70 countries have ratified the treaty, and another 27 are in the process of ratifying it. In 1993, the District of Columbia peace activists were successful in getting a ballot initiative in the District of Columbia passed that called for nuclear disarmament. Every Congress since then, I have introduced a bill based on that initiative, including this bill. In March 1919, the D.C. Council passed a Sense of the Council resolution urging the United States to approve the treaty. D.C. residents were early prescient leaders on this important issue, which has become all the more important with the current wars in Ukraine and the Middle East. I am very pleased that the bill is endorsed by several major national and international organizations. I yield the balance of my time. Mr. Fallon. That is extra timely. Thank you. The Chair now recognizes Mr. LaTurner from Kansas. Mr. LaTurner. Thank you, Mr. Chairman. I appreciate it. Dr. Huff, given that the United States purchases a quarter of its supply of enriched uranium from Russia, how long do you estimate it will take to eliminate our reliance on Russia for nuclear energy fuel, and to what extent is that timeline influenced by research and development investments? Dr. Huff. Thank you very much, Congressman, for this question. You know, it is challenging to make precise estimates, but it will take a few years to buildup the capacity, and that is really where the timeline lies. During that time, if there is a complete disruption of Russian material into the United States then utilities will need to draw down their resources and find alternative supplies from our allies and partners abroad, of which, of course, there is some capacity, but it is limited. Through my role we have been very careful to ensure some partnership with what we are calling the Sapporo 5--the United States, the U.K., Japan, France, and Canada--our partner to ensure that there is an engagement on reliable fuel supply during that time. But 3 to 4 years right now is the estimate of how long it could take for enrichment capacity to stand up, but we are actually awaiting proposals from private industry that will give us more information. We have released a request for proposals regarding high-assay low-enriched uranium, but it includes the standing up of new capacity for low-enriched uranium on the way to that high-assay low-enriched uranium. It should give us more information. And $2.16 billion in the supplemental request from the President certainly would give us an opportunity to further that. Thank you. Mr. LaTurner. I appreciate that. I will stick with you. One of the concerns that I frequently have with respect to energy environmental policy at the administrative level is that the right hand never seems to know what the left hand is doing. There is a perceived lack of coordination between agencies and among specific offices within those agencies at times. Can you describe what interagency communication steps you take to ensure that our energy goals can coexist with our national security, grid stability, and economic environmental goals? Dr. Huff. Thank you so much for this question, Congressman. I have been really lucky to have a lot of engagements with the National Security Council, and especially with my counterparts in the National Nuclear Security Administration. Through interagency policy committee engagements, of course, the NRC plays a key role in those conversations, especially in the context of the deployment of nuclear reactors, the export of nuclear reactor technology, and, of course, ambitions with regard to expansion of nuclear fuel capacity. Thank you. Mr. LaTurner. The Government Accountability Office and Congress have previously raised concerns that despite all the administrative and legislative initiatives to support the domestic development of nuclear fuel there seems to be room for improvement at DOE, both in the budgeting of funds and in providing a credible audit of the Administration's estimates for future industry demands. Can you address these concerns and explain how DOE is working to develop a clear-cut strategy for uranium management? Dr. Huff. Yes. Thanks very much. So, the uranium equities across the Department abroad, and include other offices such as environmental management, inventories, and NSA's inventories, and of course, the interests of the civil nuclear sector, which is more the concern of my office, we, in development of the uranium strategy that has led to estimates in the supplemental request by the Biden Administration incorporated a great deal of input from industry that currently operates our nuclear reactors in this country and industry that intends to build new reactors. We have engaged an independent contractor to conduct direct assessment of the inventories available as well, and, of course, we have historic knowledge from the running of, for example, the United States Enrichment Corporation in the past. Mr. LaTurner. Thank you, Doctor. Mr. Dorman, do you feel that cybersecurity requirements have a compliance cost that delay the rollout of advanced reactor technologies? Mr. Dorman. Thank you, Congressman. I would not say a delay. We have established, about 15 years ago, cybersecurity performance-based requirements that can be applied to any technology. So, the key is just any new technology coming in needs to an appropriate assessment of what their critical digital assets are that could affect safety, security, and emergency preparedness and apply those requirements to their program. Mr. LaTurner. Can you speak to the comparative advantages of nuclear versus other generation sources? Briefly, because I am going to run out of time. Mr. Dorman. So, NRC does not typically do that because our role is not the promotion. So, we are assessing the safety and security. But we do recognize that in the national policy arena and in the national strategic international arena the interest from both the climate change and the energy security standpoint, and we are, as Dr. Huff indicated, partnering with the National Security Council and with the Administration in supporting some of those international aspects as well. Mr. LaTurner. Thank you all very much for being here. I yield back. Mr. Fallon. The Chair now recognizes our friend from New York, Mr. Williams. Mr. Williams. Thank you, Mr. Chairman, and thank you for inviting me to participate today. This is a wonderful opportunity for me. Before I get started, I would like to ask for consent to enter into the record the ``Rebalancing of America's Energy Investment Strategy,'' a policy paper that I wrote. Mr. Fallon. Without objection, so ordered. Mr. Williams. Thank you. Dr. Huff, thank you for your expert--for devoting your service to the government and bringing all your expertise. You and I have had many opportunities to talk, so I am going to focus on these two, if I may. Mr. Dorman, you and I come from the same place, same training, same background. When we talk about the cost of the regulatory environment for nuclear, particularly as it goes forward, picking up on Mr. Donalds' question about what policy actions can we take, can you talk about addressing the limitations that come from ALARA, as low as reasonably achievable, for radiation exposure and particularly using the linear no-threshold model for radiation exposure. You and I both have had extensive training in that. Mr. Dorman. Thank you, Congressman. So ALARA, ``as low as reasonably achievable,'' is, as you know, a requirement in Part 20 that addresses how a company or anybody operating a nuclear facility, not just nuclear power plant---- Mr. Williams. I am familiar with it. Do you mind talking about, you know, can we move beyond ALARA to get some reasonable radiation limits that might actually lower the costs and speed along the regulatory process? Mr. Dorman. So, I think ALARA has embedded in, the R is ``reasonable.'' So, the question is, what is reasonable. You mentioned the linear no-threshold. That is the prevailing theory on the effects of low doses of radiation. Mr. Williams. We have 100 years of experience with radiation. I mean, Madame Curie maybe overdid it a bit, but we have learned a lot in 100 years. So, how can we move past this to get to a reasonable framework? Mr. Dorman. So, I think that is going to involve a substantial dialog around the linear no-threshold. There are other theories that are out there, and the Commission has longstanding commitment to the linear no-threshold theory. Mr. Williams. Let us put a target on that because just with that one we could dramatically change the cost structure of nuclear without, in any way, shape, or form, changing the risks to the population. I would just point out, when you talk about the amount of fees that go into an approval process, I agree with you. Those are de minimis compared to the costs. But any kind of changes in reviews halt production and can often create very, very costly delays. Is the NRC using physics-based modeling, computer simulations? It seems like we have vastly better tools than slide rules like we did in the 1950's. Mr. Dorman. We do have vastly better tools, and part of our key partnership under NEICA, another act, with the Department of Energy is to access particularly the data that they have relative some of the technologies that are novel to the NRC, like molten salts and high-temperature gases, making sure that our computer models take advantage of that data and are appropriately updated to reflect that. So, we are using the best science when we are evaluating an application. Mr. Williams. Another good example of the use of DOE and the work that they do. Just because I am Chairman of the Energy Subcommittee on Science, Space, and Technology does not reflect on my championing of their cause. Dr. Ortiz, can you briefly explain to me the difference between--as it relates to the grid, any definition of the grid that you want to apply--the difference between resilience and reliability. Dr. Ortiz. Thank you, Congressman, for the question. I appreciate it. So, reliability is defined, you know, although I am engineer, the Commission is largely a legal organization, so reliability is defined legally as the operating the transmission system to prevent cascading outages, and that is the framework around reliability that we have. Mr. Williams. That is very helpful. But resilience, how is that different? Dr. Ortiz. So, resilience is defined in a number of different areas, and there is not an official definition the Commission uses. But typically, resilience is thought of as the ability to withstand an extreme event and then to recover from to the degree that---- Mr. Williams. Thank you. If you were to create two columns, nuclear power in one column, wind and solar in the other, which one provides more resilience and more reliability, wind and solar or nuclear? Dr. Ortiz. I think that is going to depend on the situation when applying that. Mr. Williams. Oh, come on. You are an engineer. I am an engineer. Come on. Dr. Ortiz. Actually---- Mr. Williams. So intermittent power, you say, has the same qualities of resilience and reliability as---- Dr. Ortiz. Well, the ability to---- Mr. Williams . Nuclear and sustainable. Is that what you are saying? That is your expert opinion? Dr. Ortiz. It is the ability to recover from, right. So, a nuclear power---- Mr. Williams. I understand a black startup. I mean, I know what you are saying. But you are not going to do a black startup in a wind storm with wind turbines. They are not going to help you. Dr. Ortiz. No, but---- Mr. Williams. It is dispatchable power---- Dr. Ortiz . But curiously, though, there have been several tests of batteries for black starts, so it is feasible. There are different solutions here. Mr. Williams. I was the battery officer on a nuclear submarine. I would love to see that. Thank you. I yield back. My time has expired. Mr. Fallon. The Chair now recognizes Ranking Member Bush for a closing statement. Ms. Bush. Chair Fallon, you said at the start of the hearing that our staffs are in communication about my request for a field hearing in St. Louis on the devastating legacy of improperly stored nuclear waste, but it is my understanding your staff has not yet gotten back to us on this request that is at least, you know, a few weeks old. I did not bring it up in this hearing because you said no. I brought it up in this hearing because there was no response. I would like a response. So, if you are serious about accountability and proper storage of waste that continues to be generated to produce nuclear power, hold a hearing about the continuing failure of the Federal Government to protect its own people from toxic waste it created and improperly disposed of in St. Louis and elsewhere. Yet again, I am requesting this field hearing in St. Louis on the Manhattan Project. As you know, Chair Fallon, I sent you and your team a trove of information. We made a public request in the last Subcommittee hearing. There has been no response. And again, there has been no response. We have got a 300 percent increase in cancer in children in my district. That should be enough to warrant a field hearing, not hearing that other folks, you know, nobody else has had a field hearing yet. I made a request, I gave the information, and I deserve at least some type of response, the respect from my colleague to respond. And it is not just my district and Rep. Stansbury's district that are impacted. A total of seven Members of the Oversight and Accountability Committee have these sites in or near their districts--Rep. Brown, Rep. Mfume, Rep. Summer Lee, Rep. Goldman, Rep. Ocasio-Cortez, Rep. Langworthy, and Rep. Jim Jordan. It impacts so many of us and our constituents. We owe it to them. Will you hold a field hearing on the lasting and unsolved legacy of nuclear waste in our communities? This issue is so urgent, and I will keep raising it until I get a conclusive answer. This is not partisan. This is about everyone. It is about humanity. I am asking for a response. It is not hard. This is not adversarial. I am speaking out for my community. If I was Chair, I would have it myself. I am not Chair. I am Ranking Member. I am asking this of my Chair. Thank you, and I yield back. Mr. Fallon. Thank you. Actually, I have an email from staff talking to them about this hearing and then the staff, one of your staff members said that it was great to hear that we were going to have this hearing, and this would be within the scope. Again, this Subcommittee has not had one field hearing yet, at all, in the year that we have been--we have not had one field hearing in this Subcommittee. OK. So, this is not from your staff, right here? That is not somebody that works for you? Ms. Bush. Where is the answer. Mr. Fallon. This is the response to this. Ms. Bush. Yes. We want an answer. Mr. Fallon. OK. OK. We do not want to get over---- Ms. Bush. Yes or no? Mr. Fallon. OK. So, first of all, I am sorry that our friend from New Mexico left, but I wish that the Democratic administration of Harry Truman did not let off a nuclear bomb in her state, but unfortunately that did happen. You know, the thing that gets me about that is I try to be very, very fair and attentive to time, and if we go over 20 seconds, I will make sure the opposing party has their 20 seconds, or whatever it is. But just because, you know, when people want to claim moral high grounds and virtue signal because they are outraged, they do not get to say whatever they want, wherever they want, for however long they want. We have a decorum, and we have rules, and it is unfortunate. And then you have got folks on the left, and particular the far left, that say, ``We do not want any more fossil fuels at all. We do not want oil, heating oil, natural gas, diesel fuel, clean coal.'' And now some say even, ``We do not want nuclear power either.'' Well, that leaves hydro and wind and solar, which is terribly inadequate for our energy needs, and it is living in a fantasy world and not being practical. I know it sounds good to college students who are 19, that say let us just invest in solar, and let us invest in wind, and we will all ride our unicorns to the rainbows and talk to the leprechauns and be generating--you know, it is just not a reality. I would like to live within the bounds of reality and do what is best for this country and not what is best for China and our other adversaries and governments that have absolutely no legitimacy because they were not elected by their own people. They rule by the barrel and force of a gun. So, I want to thank your witnesses for coming today and having this conversation on nuclear energy sites. You know, historically, our Nation has never had a comprehensive solution for nuclear waste disposal. That is something that is an issue here. And I do not think any rational person would want to dispose of nuclear waste improperly. Unfortunately, that has happened in the past. But implementing a centralized spent fuel facility is by far the easiest way to streamline fuel storage regulation logistics and ensure nuclear material is handled in the utmost security and care. And as sobering as it is to hear about the hurdles communities must address today, due to mismanaged spent fuel storage from decades ago, it is even more sobering to acknowledge that we are no closer to a centralized nuclear waste repository than we were when nuclear power generation was only a theory. But that does not mean that a permanent solution cannot exist. It can. In fact, the Nuclear Waste Policy Act of 1982, which was amended in 1987, identifies Yucca Mountain, Nevada as the sole site for a permanent nuclear waste repository. But after localized political outcry, construction of Yucca Mountain ceased, and progress on a centralized nuclear waste repository shuttered, despite spending $15 billion in Federal funds, and that $15 billion was a heck of a lot more then in relation to what it would be now in real dollars. So, the irony is that in refusing to choose a centralized location, Yucca Mountain, critics forced companies to keep spent fuel in what was supposed to be interim storage solutions at over 70 nuclear sites in 35 states. Some of this fuel has been in, quote/unquote, ``temporary storage'' for over 40 years, and because the Federal Government is in direct violation of Federal law, as of 2020, taxpayers have paid the owners of nuclear power plants over $9 billion in damages for costs associated with storing the used fuel. Instead of complying with the law, however, the U.S. Government has decided to turn the simplest nuclear waste storage solution, quite literally, into a $15 billion money pit in the desert. But as a reminder, nuclear fuel is remarkably energy dense. So, get this. Of all the spent fuel the United States has produced since the 1950's, it could fit in a single football field, stacked less than 10 yards deep. That is an acre, an acre. One thing we have in this country is a lot of land, particularly when you get west of the Mississippi, a lot of open spaces. That is the perfect place to store it. Now, I get it. Nobody wants to be near it. That is why you put it where nobody really lives around it. And advancements in technology can recycle up to 90 percent of the spent nuclear fuel. So, I think--well, I would hope, anyway--both sides of the aisle can find common ground and, you know what, common sense, live within the bounds of reality, regarding the need to safeguard our nuclear fuel supply chain and ensure safe, clean, and baseload power generation for the electric grid. By onshoring as much of the uranium supply chain as possible, we can help usher in the next generation of advanced nuclear reactors and strengthen national security at the same time. I want to thank all of our witnesses for being here today, and I hope Congress continues to discuss ways in which America can remain the global leader in nuclear technology and advancement. And I just want to take a point of privilege as the Chair to recognize a new intern for the Oversight Committee. It is Haley Sorrell. And Haley was a scholarship soccer player at the University of Georgia. And this is just simply about fighting for what you believe in. In the summer of 2020, her soccer team had decided and agreed that they were all going to kneel for the National Anthem. That was their choice. As Americans, you can choose to stand, you can choose to put your hand over your heart, or you can choose to kneel. That is the beauty of America. She told her team that she was standing. She was the only one that was going to stand, and she was cajoled for weeks, and she stood. And the day she stood, eight other girls on that soccer team decided to stand as well. It is about fighting for what you believe in. And with that, and without objection, all Members have 5 legislative days within which to submit materials and additional written questions for the witnesses, which will be forwarded to the witnesses. If there is no further business, without objection the Subcommittee stands adjourned.  
+THE NEXT GENERATION:
+EMPOWERING AMERICAN NUCLEAR ENERGY
+----------
+Thursday, January 18, 2024
+U.S. House of Representatives
+Committee on Oversight and Accountability
+Subcommittee on Economic Growth, Energy
+Policy, and Regulatory Affairs
+Washington, D.C.
+The Subcommittee met, pursuant to notice, at 2:03 p.m., in
+room 2154, Rayburn House Office Building, Hon. Pat Fallon,
+ presiding.
+Present: Representatives Fallon, Comer, Donalds, Fry, Bush,
+Brown, Stansbury, Norton, and Krishnamoorthi.
+Also present: Representatives LaTurner and Williams of New
+York.
+Mr. Fallon. The hearing on the Subcommittee on Economic
+Growth, Energy Policy, and Regulatory Affairs will come to
+order. I want to welcome everyone, thank the witnesses for
+coming.
+I recognize myself for the purpose of making an opening
+statement.
+Today's hearing is an opportunity to provide oversight of a
+critical element of our national energy mix, which of course is
+the nuclear power sector. I am a proponent of the all-of-the-
+above approach, where we, you know, use oil, natural gas, clean
+coal, wind, solar, hydro, and, of course, nuclear.
+The U.S. is the world's leading producer of nuclear energy.
+Nuclear power plants account for almost 20 percent of our
+Nation's electricity, and it is the most reliable source of
+power generation. Now think about that. That is 1 in 5 homes is
+powered with nuclear energy. It is also an extremely clean form
+of energy production, producing zero carbon emissions.
+In fact, nuclear power is responsible for more than 70
+percent--I am going to repeat this--nuclear power is
+responsible for more than 70 percent of U.S. non-greenhouse-
+gas-emitting power generation.
+Additionally, nuclear fuel is incredibly efficient. A
+single nuclear reactor can produce as much power as over 3
+million solar panels or 431 wind turbines.
+Over the past several decades, American innovators have
+made significant strides in developing new technology to meet
+our evolving energy needs.
+When most people think of nuclear power, they think of
+large-scale cooling towers and massive industrial projects that
+can take decades and, of course, cost billions of dollars to
+complete. They also, I think, admittedly, think of, when you
+think of nuclear power, if you are old enough to remember Three
+Mile Island or Chernobyl. The fortunate thing about the things
+we are building, have built, and the things we are building in
+the future it is not being built by the lowest Communist
+bidder, and we also have many more regulations as well to
+prevent what happened in the Ukraine all those years ago.
+These traditional reactor designs contribute massive
+amounts of energy for homes, businesses, and manufacturers.
+But what many people do not know is that the future of
+nuclear power can take many forms. Small modular reactors and
+microreactors could provide energy to isolated communities,
+military installations, and critical infrastructure. American
+innovation has, as it often does, led the way for many of these
+advancements.
+But similar to other emerging and evolving technologies,
+the Federal regulatory system has been very slow,
+unfortunately, to adjust. As a result, the industry is faced
+with burdensome and expensive, and in my humble opinion,
+unneeded bureaucratic hurdles. Meanwhile, older nuclear power
+plants are at risk of closure, potentially jeopardizing grid
+reliability, and domestic energy security.
+That is why we have asked representatives from three of the
+leading Federal entities regulating and overseeing our Nation's
+energy sector to testify today. The Department of Energy, the
+Nuclear Regulatory Commission, and the Federal Energy
+Regulatory Commission each have very important roles to play in
+ensuring our country's energy infrastructure, stability, and
+security.
+These regulators are here today to answer important
+questions. For instance, are we creating an environment where
+U.S. innovators can succeed and thrive in providing cost-
+effective solutions to our energy challenges? Are there areas
+of regulation that are outdated or duplicative and in need of
+reform to streamline our Nation's approach to deploying nuclear
+power? Are we on track to meet the energy needs of tomorrow
+with the technology and regulatory frameworks that we have in
+place today?
+And as we dive into each of these questions, we must also
+pay close attention to the nuclear fuel supply chain. China and
+Russia, and this is alarming, collectively control 60 percent
+of the globe's uranium enrichment capacity, and the U.S.
+imports a quarter of its low-enriched uranium, the fuel needed
+to power America's commercial nuclear fleet, from Russia. This
+means that one out of every 20 American homes is currently
+powered by Russian uranium.
+Recent funding initiatives and legislation like H.R. 1042,
+the Prohibiting Russian Uranium Imports Act, which passed the
+House last month, endeavor to jumpstart American development
+and decrease our reliance on adversarial nations. Very good
+idea. When it comes to the nuclear fuel supply chain, energy
+security truly is national security. I think they are very
+synonymous.
+So, I look forward to a thoughtful discussion on the state
+of American nuclear power and where we are today, where we can
+come together and make for a better tomorrow and a successful
+future.
+I want to thank each of the witnesses for being here today,
+and I will yield to Ranking Member Bush for her opening
+statement.
+Ms. Bush. Thank you, Mr. Chairman. St. Louis and I are here
+today to express our grave concerns about the devastating
+impact nuclear waste has had on this Nation, especially Black
+and Brown communities. We cannot talk about expanding nuclear
+energy in this country without first dealing with the Federal
+Government's continuing legacy of failing to properly remediate
+harmful nuclear waste in communities like mine.
+In St. Louis, nuclear contamination dates back to 1942,
+when, as part of the Manhattan Project, the Federal Government
+hired Mallinckrodt Chemical Works to process uranium in the
+heart of what is now my district in downtown St. Louis. The
+processing resulted in dangerous radioactive waste getting
+recklessly stored above ground near the St. Louis airport for
+decades. Near the airport is a waterway central to our
+community called Coldwater Creek, which sprawls across
+residential areas, schools, businesses, and parks, affecting
+North St. Louis County.
+The improper storage of radioactive waste at this site
+persisted unchecked for decades. The material was left in the
+open, exposed to the rain and the wind. This callous
+mishandling of deadly waste allowed it to seep into the ground,
+contaminating Coldwater Creek as well as the soil and waterways
+in the surrounding communities.
+Though I did not live right on the creek, I was told that
+during heavy rainfall the water from the creek may have flooded
+my basement. During that summer my basement flooded at least
+six times. My mother actually lived near Coldwater Creek, very
+close, and so my kids would play out there when they were
+visiting her.
+Not only did we not know how dangerous it was, we did not
+even know it was contaminated at all. We had no reason to
+suspect or any warning at all that the creek could pose a
+possible risk to our health.
+After many years of neglect, the Federal Government sold
+the waste to Cotter Corporation for further for-profit
+processing, which moved it about a half mile north. What Cotter
+could not use to make money was illegally dumped in the nearby
+public landfill called West Lake Landfill. Such heartless and
+negligent action was a clear violation of Federal law and
+common decency. As a result, radioactive waste remains both in
+Coldwater Creek and at West Lake Landfill, putting our
+communities in harm's way.
+In a shocking revelation, records released last July proved
+that the Federal Government both hid and downplayed the risks
+of this radioactive waste in St. Louis for nearly 75 years, and
+that radioactive waste was known to pose a threat to people
+living near Coldwater Creek as early as 1949. Despite this
+knowledge, however, Federal officials repeatedly downplayed
+these risks as ``slight,'' ``minimal,'' ``low level.''
+People in my district who were unknowingly exposed to this
+radiation are now living with serious chronic health
+conditions, including several types of rare cancers. I have had
+these conversations. I know many of these folks, and my heart
+breaks for them. Some of them are no longer with us.
+In 2014, the Missouri Department of Health and Senior
+Services did an analysis of people living in the eight ZIP
+codes around Coldwater Creek and West Lake Landfill. The report
+found breast, colon, prostate, kidney, and bladder cancer cases
+in the areas were significantly higher than average. Just to
+give one specific and chilling example, the Department of
+Health report found brain and other nervous system cancers were
+300 percent--3-0-0 percent
+--more likely to be found in children aged 17 and younger
+living in the ZIP code closest to West Lake Landfill.
+It was not until 2016, which is 67 years later, that the
+Centers for Disease Control and Prevention finally began
+advising the community to avoid Coldwater Creek entirely.
+To this day, people in my district continue to allow their
+children to play in Coldwater Creek because they still are not
+aware that it is contaminated. There are no signs to indicate
+any danger or to properly warn folks of the high contamination
+levels in the creek. That is why I am currently working with
+the U.S. Army Corps of Engineers and the Environmental
+Protection Agency to put up this urgently needed signage.
+The Federal Government still has not provided Missourians
+any funding to help families test their homes, their
+businesses, or their schools to ensure they are not living with
+and sending their children to school in a place with unhealthy
+levels of radiation. As this toxic waste continues to devastate
+my community, neither the Federal Government nor those private
+sector contractors, who reaped benefits--they reaped profits
+from their shoddy work
+--have provided financial compensation to the victims of
+the Manhattan Project in St. Louis. Shame.
+In 2022, Jana Elementary, a school in Florissant, Missouri,
+in my district, was shuttered after privately conducted testing
+revealed radiation levels that were 22 times higher than
+normal, healthy levels. They were found in classrooms, the
+cafeteria, and the playground. My constituents were again
+unknowingly sending their children every day to a school that
+was exposing them to dangerously high levels of radiation, and
+no, this was not a new school.
+All of this was substantiated in the recent GAO report I
+requested, along with Ranking Member Raskin, which confirms
+what we have been saying for years. I ask unanimous consent to
+enter this report into the record, which finds the Federal
+Government has failed to remediate these two sites in St.
+Louis.
+Mr. Fallon. Without objection, so moved.
+Ms. Bush. And so, not only in St. Louis but in many other
+communities across our country, this GAO also finds that the
+St. Louis sites with Manhattan Project waste are found near the
+most underserved communities of any remediationsites around the
+country.
+Mr. Chairman, I wrote to you in October, requesting a field
+hearing in Missouri's First District to investigate this
+ongoing environmental catastrophe and hear directly from
+Missourians whose lives and families have suffered the grievous
+effects of this preventable and heart-breaking health crisis. I
+would like to renew my request for a field hearing right here,
+right now. This shameful legacy of negligence and lies has hurt
+so many people in St. Louis, and they continue to suffer to
+this day.
+Actions need to be taken to remediate the damage that has
+clearly, and what we know has already been done, before we
+start talking about expanding nuclear energy in this country.
+We have a responsibility to both fix and learn from our
+mistakes before we risk subjecting any other communities to the
+same exposure.
+Thank you, and I yield back.
+Mr. Fallon. I think we are talking about properly stored
+nuclear waste, and of course not improperly, and unfortunately
+that has happened in the past. I understand that both of our
+staffs have been discussing your request, and my staff will
+continue to work to find a solution. This Subcommittee has not
+had a field hearing at all yet. And in the meantime, we have
+great witnesses today to talk about the issues at hand.
+Without objection, Representative LaTurner of Kansas and
+Representative Brandon Williams of New York are waived onto the
+Subcommittee for the purpose of questioning witnesses for
+today's hearing.
+I am pleased to welcome our three witnesses today. First,
+we have Dr. Kathryn Huff, who serves as the Assistant Secretary
+of the Office of Nuclear Energy within the Department of
+Energy. Next, we have Dan Dorman, the Executive Director for
+Operations at the Nuclear Regulatory Commission. And last, we
+have Dr. David Ortiz, who serves as the Director of the Office
+of Electric Reliability at the Federal Energy Regulatory
+Commission.
+I want to thank each of the witnesses for being here today
+and thank you for your testimony. I look forward to a great
+discussion on these issues.
+Pursuant to Committee Rule 9(g) the witnesses will please
+stand and raise their right hands.
+Do you solemnly swear or affirm that the testimony that you
+are about to give will be the truth, the whole truth, and
+nothing but the truth, so help you God?
+
+Mr. Fallon. Let the record show that the witnesses answered
+in the affirmative. Thank you, and please take your seats.
+We appreciate you being here today and look forward to your
+testimony. Let me remind the witnesses that we have read your
+written statements, and they will appear in full in the hearing
+record. Please limit your oral statements to 5 minutes. As a
+reminder, please press the little button
+--green, you get 4 minutes, then it will go yellow for that
+last minute, and then if is on red and you are still talking,
+if you could just kind of wrap up your thought. We will be
+courteous. And I want to thank you again for your time here,
+and we would appreciate that.
+So, I now recognize Dr. Huff for your opening statement.
+STATEMENT OF KATHRYN HUFF, PH.D.
+ASSISTANT SECRETARY
+OFFICE OF NUCLEAR ENERGY
+U.S. DEPARTMENT OF ENERGY
+Dr. Huff. Thank you, Chairman Fallon, Ranking Member Bush,
+and distinguished Members of the Subcommittee. It is an honor
+to appear before you to represent the Department of Energy, and
+I appreciate the Subcommittee's attention on the programs and
+policies shaping our nuclear future.
+Ninety-three nuclear power reactors currently operate at 54
+sites across 28 U.S. states. They generate about one-fifth of
+our electricity and are the Nation's single largest source of
+zero-emissions electricity.
+Nuclear energy remains one of the safest and most reliable
+generation sources available today. So, to swiftly reduce our
+carbon emissions and to rebuild U.S. leadership globally, the
+Office of Nuclear Energy is prioritizing activities that keep
+the existing fleet of nuclear power reactors operating, deploy
+advanced reactor technologies, secure and sustain the nuclear
+fuel cycle, and expand international nuclear energy
+cooperation. These priorities aim to strengthen our energy and
+national security, to create and maintain high-quality jobs, to
+allow for an equitable energy transition, and to bolster our
+economic interests abroad.
+To this end, President Biden has signed into law both the
+Bipartisan Infrastructure Law and the Inflation Reduction Act,
+which each have provisions supporting these nuclear energy
+goals.
+To reestablish U.S. global nuclear leadership and meet our
+net zero goals by 2050, we must deploy new nuclear reactors.
+Indeed, last month, at COP28, the U.S. and more than 24 other
+countries committed to working together to triple nuclear
+energy capacity globally by 2050, because we assessed that this
+is the magnitude of growth that is needed. We also invited
+shareholders of international financial institutions to
+encourage the inclusion of nuclear energy in lending policies.
+The Office of Nuclear Energy includes partnership with
+national laboratories, universities, and the private sector,
+supports new reactor technologies and fuel cycles through
+research, development, and demonstration activities. This
+research has enabled advancement in technology underpinning
+deployments today, and to make these deployments a reality, the
+Department's new Office of Clean Energy Demonstrations oversees
+two public-private partnerships to deploy advanced generation
+for nuclear reactors this decade.
+However, to fuel today's nuclear reactor fleet as well as
+the growing fleet of tomorrow, the Administration has taken
+several actions to secure our civil nuclear fuel supply as well
+as that of our allies and partners. The Russian Federation's
+brutal invasion of Ukraine has demonstrated the grave threat to
+global energy security posed by Russian-supplied fuels.
+Russia is the largest global enricher of uranium and
+currently supplies a significant portion of the nuclear fuel
+supply chain to the U.S. Without expansion of our domestic fuel
+cycle capacity the U.S. cannot reliably make available the
+uranium needed to support the needs of today's nuclear power
+fleet, the future advanced reactor power fleet, research
+reactors, or medical isotope production facilities needed for
+the health of Americans.
+Accordingly, President Biden has requested $2.16 billion in
+supplemental funding to improve our long-term domestic
+enrichment capabilities for low-enriched uranium, including
+high-assay low-enriched uranium, or HALEU. This investment,
+paired with a long-term ban on enriched uranium imports from
+Russia is pivotal to reestablishing U.S. civil nuclear energy
+security. I welcome the opportunity to work with Congress to
+address this national security vulnerability.
+Now, after several years of operation, the enriched uranium
+fuel rods that power nuclear reactors do deplete and must be
+remoted. The heat and radioactivity associated with used
+nuclear fuel must be managed and stored safely. The existing
+U.S. reactor fleet creates about 2,000 metric tons of used fuel
+each year, which is being stored at more than 70 sites across
+the country. Over the last 55 years, more than 2,500 casks of
+used fuel have been shipped across the United States without
+any radiological releases to the environment or harm to the
+public.
+But the promise of new and advanced reactors can only be
+responsibly realized in conjunction with progress on the long-
+term management of their used nuclear fuel. The Department
+believes a consent-based approach to siting interim storage
+should be used to develop both interim storage and disposal
+options. A consent-based approach is not only the most
+equitable and just way to approach siting but also represents
+our best chance of success. Consistent with direction provided
+by Congress, DOE is making progress on consent-based siting for
+one or more consolidated interim storage facilities.
+While we are working to make progress under existing
+authorities, additional congressional authorization will be
+required before DOE can actually construct and operate a
+Federal interim storage facility.
+Thank you for the opportunity to appear before the
+Subcommittee today. I welcome the opportunity to work with you
+toward a more sustainable, equitable, reliable, affordable,
+safe, and secure energy system for our Nation.
+I look forward to questions.
+Mr. Fallon. Thank you. Thank you very much. And you did it
+almost on the dime in 5 minutes. Very well done.
+The Chair now recognizes Mr. Dorman for his 5 minutes.
+STATEMENT OF DANIEL DORMAN
+EXECUTIVE DIRECTOR FOR OPERATIONS
+U.S. NUCLEAR REGULATORY COMMISSION
+Mr. Dorman. Thank you, Mr. Chairman, Chairman Fallon,
+Ranking Member Bush, distinguished Members of the Subcommittee.
+I serve as the Executive Director for Operations, or the Chief
+Operating Officer, for the Nuclear Regulatory Commission. The
+NRC is an independent Federal agency with a mission to license
+and regulate the civilian use of radioactive materials to
+provide adequate protection to public health and safety, to
+promote the common defense and security, and to protect the
+environment. I welcome the opportunity to address the Committee
+and describe our role in licensing and regulating nuclear power
+so that it is deployed and operated in a safe and secure
+manner.
+The nuclear industry is developing new and advanced reactor
+designs, and the NRC staff is reviewing pre-application
+materials and applications commensurate with the risk and
+safety significance of the proposed technology. Over the past
+several years, the NRC has been working to modernize our
+existing licensing processes to support the deployment of new
+and advanced reactors through the use of risk-informed and
+performance-based techniques and updated regulatory guidance.
+Additionally, the NRC has streamlined its licensing review
+process by using a ``core team'' approach to complete reviews
+of applications we have received thus far. Last month, the NRC
+issued a construction permit to Kairos Power LLC for the Hermes
+fluoride salt-cooled high-temperature non-power reactor after
+completing all required steps, including the safety and
+environmental reviews, on budget and ahead of schedule.
+In addition, the NRC is enhancing its regulatory
+infrastructure for new and advanced reactors in an open and
+transparent manner with substantial stakeholder engagement. For
+example, the NRC recently issued a final rule and associated
+regulatory guide that applies risk-informed, performance-based
+emergency preparedness requirements to small modular reactors
+and other new technologies.
+The NRC is developing a new optional regulatory framework
+for licensing new reactors in accordance with the Nuclear
+Energy Innovation and Modernization Act, or NEIMA. This rule
+would establish a technology-inclusive, risk-informed, and
+performance-based regulatory framework for licensing and
+oversight of new commercial nuclear power plants. The NRC
+expects to issue the final rule ahead of the NIEMA deadline of
+December 31, 2027.
+The NRC staff is also working on a rulemaking to facilitate
+efficient licensing of fuels with higher enrichment and burn
+up, which are critical aspects of many advanced reactor
+designs.
+The staff continues to develop guidance for advanced
+reactor licensing, including guidance related to Technology-
+Inclusive Content of Application and Advanced Reactor Content
+of Application, which is expected to be published later this
+year. Additionally, the staff is working on a rulemaking and
+guidance to build on the NRC's existing process for licensing
+the use of byproduct materials and establish a framework to
+regulate near-term fusion facility designs--again, ahead of the
+NIEMA deadline of December 31, 2027.
+The NRC also continues to monitor potential impacts of fuel
+supply on the U.S. commercial nuclear fleet and the domestic
+fuel cycle suppliers and remains in close communication with
+the Department of Energy and other Federal agencies on the
+availability of non-Russian-sourced fuel. The NRC staff
+routinely communicates with the industry to understand its
+near-term and longer-term licensing needs to potentially
+replace uranium and fuel cycle services that have come from
+Russia.
+The Commission recognizes the national strategic importance
+of these issues and held a public meeting in December to learn
+more about the Administration's short-and long-term domestic
+uranium fuel strategy and the NRC's readiness to support
+licensing and oversight.
+The NRC has recently issued several major fuel supply
+licensing actions and authorizations. For example, in
+September, the NRC authorized American Centrifuge Operating LLC
+to proceed with its planned demonstration project to produce
+high-assay low-enriched uranium. The NRC has also issued
+several authorizations allowing increased enrichment and
+accident tolerate fuels to be loaded in radioactive material
+transportation packages. The NRC staff performed thorough and
+transparent safety, security, and environmental reviews and
+completed all of these on schedule.
+The NRC staff is prepared and expecting to review between
+12 and 14 additional major fuel supply licensing actions in the
+future and will continue to have other informal discussions
+with potential applicants.
+I appreciate the Subcommittee's interest in the NRC's
+mission and the work of our dedicated staff as well as the
+opportunity to address you today. We appreciate our continuing
+engagement with Members of Congress, and I look forward to your
+questions.
+Mr. Fallon. Thank you very much. And now the Chair
+recognizes Dr. Ortiz for your opening statement.
+STATEMENT OF DAVID ORTIZ, PH.D.
+DIRECTOR, OFFICE OF ELECTRIC RELIABILITY
+FEDERAL ENERGY REGULATORY COMMISSION
+Dr. Ortiz. Chairman Fallon, Ranking Member Bush, and
+Members of the Subcommittee, thank you for the opportunity to
+testify today. My name is David Ortiz. I am the Director of the
+Office of Electric Reliability at the Federal Energy Regulatory
+Commission. My remarks today are my own, and I appear here as a
+Commission staff member, and my thoughts do not represent those
+of the Commission or any individual Commissioner.
+My testimony summarizes the Commission's oversight of the
+reliability of the Bulk-Power System and my perspective on
+nuclear power and its role in ensuring a reliable U.S. electric
+grid.
+In the Energy Policy Act of 2005, Congress amended the
+Federal Power Act to add Section 215 pertaining to Bulk-Power
+System reliability. This provision tasked the Commission with
+responsibility to oversee mandatory, enforceable reliability
+standards for the Nation's Bulk-Power System. This authority
+pertains to the interconnected electric power system--we also
+call it the ``grid''--in the United States, and excludes
+Alaska, Hawaii, and local distribution systems.
+The Federal Power Act also gives the Commission
+jurisdiction over rates, terms, and conditions for wholesale
+sales of electricity, and reserves to the states the choice of
+electric generation facilities, including the development of
+nuclear electricity generating capacity. With respect to
+reliability, Section 215 does not give--in fact, it explicitly
+prohibits, FERC from directing the construction of electricity
+generation or transmission capacity.
+Given the tight linkage among nuclear power plant safety
+systems, which are regulated by the NRC, and the electric
+transmission system, the Commission and the NRC entered into
+several Memoranda of Understanding to ensure appropriate
+coordination. To further coordinate on these important issues,
+for 20 years the Commission and the NRC have conducted biannual
+joint commission meetings, where the commissioners of both FERC
+and the NRC meet to discuss matters of common interest. The
+next joint meeting will occur next Thursday, January 25.
+The topic of today's hearing is nuclear power plants and
+their future. According to the Energy and Information
+Administration, from January to September 23, the nuclear power
+fleet produced 18 percent of U.S. electricity and operated at a
+capacity factor of 94 percent. This is significantly higher
+than all other generation resource types.
+Additionally, because nuclear power plant reactors and
+turbines are enclosed, they typically perform much better than
+other resources during extreme weather conditions. Our recent
+report looking into Winter Storm Elliott found that only 0.4
+percent of over 1,700 of the outages that occurred during the
+storm were attributed to nuclear units.
+The changing resource mix, however, poses significant
+challenges for reliable operations of the grid beyond having
+sufficient capacity. To ensure reliability, in addition to
+resourcing energy adequacy, the resource mix must provide
+flexibility and system stability services. Most new resources
+interconnecting to the grid are renewable. These resources are
+highly variable, and while in aggregate they may provide
+sufficient capacity, they may not provide essential services
+needed to maintain reliability at all times.
+The current fleet of nuclear power plants in the United
+States was not designed to be flexible and has historically not
+provided significant voltage control or other reliability
+services due to safety and operational factors. Nuclear power
+plants also do not provide black start service, which is needed
+to restart the grid in the event of a blackout. Technologies
+that are currently under development, including the small
+modular reactor, when deployed, could both provide the capacity
+and energy that nuclear power plants are known for, and help
+operators to meet flexibility requirements of the future grid.
+I defer to my colleagues at the Department of Energy and the
+NRC to provide the most up-to-date information in this regard.
+FERC will continue to work with relevant stakeholders and
+our sister agencies to execute its responsibilities under
+Section 215 of the Federal Power Act to enhance and to maintain
+and improve the reliability of the electric grid. Nuclear power
+has and will have a key role in supporting that reliable
+operation.
+Thank you for the opportunity to testify today. I look
+forward to answering your questions.
+Mr. Fallon. I want to thank the witnesses. Thank you very
+much. A very important topic to discuss. I now recognize myself
+for 5 minutes of questions.
+Dr. Huff, I would love to start with you. As you know,
+nuclear fuel is made from processed uranium. Together, China
+and Russia account for nearly 60 percent of the world's uranium
+enrichment capabilities. This is clearly a national security
+issue for the United States' commercial nuclear reactor fleet,
+in my humble opinion, and I wanted to get your thoughts on
+that.
+Dr. Huff. Thank you very much. It is absolutely a key
+priority for my office, for the Administration, to ensure a
+reliable supply chain from trustworthy sources. We acknowledge
+that it is not a sustainable approach to allow continued
+dependence on Russia for this fuel. And, in fact, in the
+supplement request, President Biden has requested $2.16 billion
+in supplemental funding, paired with an import restriction, as
+you described. That would really go a long way to expanding the
+conversion and enrichment facilities that we need in the United
+States domestically to ensure our fleet, which being the
+largest nuclear fleet in the world is also the hungriest in
+terms of low-enriched uranium. But also, the fuel of our allies
+and partners, which also rely on Russian-enriched uranium.
+Thank you.
+Mr. Fallon. If I could follow up, the U.S. current
+commercial nuclear reactors run exclusively on low-enriched
+uranium, or LEU. U.S. imports nearly a quarter of LEU from
+Russia. What is the Administration doing to encourage investing
+domestically to really further and foster our enrichment
+capabilities?
+Dr. Huff. Yes. So, in our proposed uranium strategy to
+remove ourselves from dependency on Russia, we have suggested
+this $2.16 billion supplemental funding to procure enriched
+uranium as a buyer of the new capacity that will need to be
+stood up, at the premium that needs to be stood up, and then
+make sure that it is available for the industry in the near
+term. That uranium strategy does rely on protecting those
+investments from continued import of cheaper Russian uranium.
+And right now, we have been supporting a number of grants
+associated with higher assay low-enriched uranium, or HALEU, to
+support advanced reactors in the future, and have recently seen
+the benefits of that program. We have just recently produced
+the first HALEU.
+Mr. Fallon. What are the cost differentials? Assuming, let
+us say, once we are up and running and we have that economy of
+scale, are we going to be at cost with what we pay the Russians
+currently, or will it be a little cheaper, or will it be a
+little more expensive?
+Dr. Huff. It will be a little more expensive, but it takes
+a little while to build enrichment facilities. It takes a few
+years. And it can take a while because it is mostly capital
+investment. It does not take them a lot of people to operate
+them. It will take a while to recoup the expenses, but once
+they are running, they are an incredible national security
+asset.
+Mr. Fallon. Well, that is the important thing right there.
+Mr. Dorman, advanced reactors offer new technologies, and I
+think really new opportunities as well, but it demands a
+different regulatory structure than traditional reactors. To
+address this, the NRC drafted what is commonly referred to as
+Part 53, which is yet to be finalized. What challenges do you
+feel that the NRC faced and faces in updating regulations for
+emerging technologies, and how does the NRC hope to overcome
+the obstacles that are presented?
+Mr. Dorman. I do not think there is a significant
+challenge, Mr. Chairman, to getting through that rule. We have
+provided a draft proposed to the Commission and are awaiting
+their direction to get into the notice and comment period for
+that proposed rule, and we expect to complete that within the
+NEIMA schedule.
+I think, in the meantime, we expect to have several
+applications for new reactors that will come in under our
+legacy rules of Part 50 and Part 52. And so, for those novel
+technologies, those rules were built and built up over time for
+large light-water reactors, and so there are some areas of
+those that are not applicable. And a key is the preapplication
+discussions we are having with the applicants, and we are
+making sure those are all clearly understood and dealt with
+appropriately in the licensing process.
+Mr. Fallon. Do you think that lowering the cost of
+regulatory compliance ultimately will translate into lower
+energy costs for consumers?
+Mr. Dorman. I think lower regulatory costs will impact the
+cost to consumers because we, as you know, our regulatory costs
+are fee-based, so they do come from the users. But I think they
+are a pretty small fraction of the total cost of operation a
+nuclear power plant, so I do not think that is where the huge
+gains will be.
+Mr. Fallon. Dr. Ortiz, real quickly because I am out of
+time, the Biden Administration has engaged in what is called
+the whole-of-government approach to address climate fears by
+regulating, I think, everything from vehicles that you drive to
+the appliances in your home. Electrifying everything has its
+consequences, of course, and there are growing concerns that
+the system that we have in place is not prepared for the
+increasingly electric future that this Administration
+envisions.
+How does FERC view the role of nuclear power in our
+national energy mix, given, I think, these very real concerns?
+Dr. Ortiz. As I provided in my written testimony, the
+nuclear power fleet has and will continue to be an essential
+component of the electricity generation resource mix in this
+country.
+Mr. Fallon. Thank you very much. Very well done.
+The Chair now recognizes Ranking Member Bush for her
+questions.
+Ms. Bush. St. Louis and I are here today to discuss the
+devastating legacy of nuclear waste in our community. As I
+outlined in my opening statement, St. Louis is still grappling
+with the consequences of the Manhattan Project as radioactive
+waste has contaminated Coldwater Creek, a central waterway, and
+the surrounding area. I am concerned about further developing
+nuclear power in this country before its history of radioactive
+contamination is effectively and appropriately addressed in my
+community and others like it. I am especially concerned because
+many of these cleanup sites exist in marginalized Black and
+Brown communities.
+Dr. Huff, I understand that the specific problematic sites
+in my district are now under the jurisdiction of the Army Corps
+because, in 1997, Congress transferred execution of Formerly
+Utilized Sites Remedial Action Program, the FUSRAP program,
+from the Department of Energy to the U.S. Army Corps of
+Engineers and the Environmental Protection Agency, due to
+complaints of the DOE's longstanding mismanagement of the
+program.
+So, Dr. Huff, the EPA is charged with overseeing the
+cleanup at West Lake Landfill for the exact same reason, due to
+the mismanagement and failure to properly remediate, but we are
+nowhere near completing the task. Though DOE is no longer
+charged with overseeing cleanup, which we have established,
+your agency is still responsible for the financial burden of
+paying to clean up your radioactive waste that you made,
+leftover from the Manhattan Project.
+I understand that there is a unilateral administrative
+order from the EPA, authorizing the use of the judgment fund to
+clean up the West Lake Landfill site that the DOE still has not
+signed.
+Dr. Huff, will the Department of Energy finalize this
+agreement to fund your portion of the EPA's cleanup plan
+through the judgment fund without delay to remediate the area
+containing your radioactive waste at West Lake Landfill?
+Dr. Huff. Thank you.
+Ms. Bush. And I understand this is before your time.
+Dr. Huff. And thank you, Ranking Member. It is also not my
+office. I will take this specific question back, but I do want
+to acknowledge the incredible importance of transparency and
+care with regard to clean up activities. I am proud to be part
+of an Administration that does take energy justice and
+environmental justice very seriously.
+Ms. Bush. OK. And then, so our office will--our team will
+follow up and see if we can get some more information because I
+am just not sure what is preventing this from happening. You
+know, I am just not sure what is preventing the Department of
+Energy signing this document to fund so that we can help save
+lives.
+Dr. Huff, let me ask, given previous concerns with
+appropriately handling nuclear waste disposal, how is the
+Department now ensuring that any new waste is handled and
+disposed of properly?
+Dr. Huff. Thank you so much for this question. I think it
+is incredibly important. You know, I think acknowledging the
+dark legacy of the nuclear weapons complex's handling of
+nuclear materials is a critical component of the way we look
+toward the future of commercial nuclear power, which is
+distinct in terms of how it manages its waste, but has given us
+a number of lessons with regard to how we need to move forward.
+And a critical component is that our approach will be consent
+based in terms of identifying a location where communities are
+both informed and consent to holding that material for the long
+term.
+Right now, the spent nuclear fuel from commercial nuclear
+power plants is stored safely, but in 70 sites that did not
+agree to hold that material in the long term, it is DOE's
+responsibility to take it off their hands and take title of
+that material. Our approach is to leverage a consent-based
+siting approach that is being leveraged with success in Finland
+and is being leveraged in Canada, that starts by centering the
+needs and concerns of communities.
+That process has begun with $26 million worth of grants to
+community organizations, universities, and private industry to,
+you know, reach out and discuss what it means to be consent
+based, and then we assess that that approach will get us to an
+interim storage facility that can take that material from its
+current locations and consolidate it into a smaller number,
+hopefully one or two.
+Ms. Bush. Well, consent is definitely a good start.
+Consent--we like that.
+As I said earlier, we simply cannot talk about expanding
+the use of nuclear power in the United States while communities
+continue to suffer from the legacy of nuclear waste
+mismanagement. I implore the Biden-Harris Administration and
+the Department of Energy to use every tool in its belt, which I
+know is what you are working on, to first cleanup our
+community. So, if you can pass the word to your colleagues to
+pay attention to the fact that we need this signed, that is a
+step, and to develop a plan to ensure that these mistakes never
+happen again.
+Thank you, and I yield back.
+Mr. Fallon. Thank you. The Chair now recognizes Chairman
+Comer for 5 minutes of questions.
+Chairman Comer. Thank you, Mr. Chairman. Assistant
+Secretary Huff, thank you for visiting my district last year
+during a nuclear conference in Paducah, Kentucky, hosted by the
+Energy Communities Alliance. As you know, the site of the
+former Paducah Gaseous Diffusion Plan receives over $240
+million annually from the Uranium Enrichment, Decontamination,
+and Decommissioning Fund for site remediation activities. As
+you heard during your visit, the Paducah community is eager to
+expedite this cleanup, and local officials and community
+leaders have begun planning for reindustrialization and
+economic development at that site.
+Since your visit, the Paducah Chamber of Commerce was
+awarded a DOE grant to develop a reindustrialization roadmap
+for the assets and workforce at the site. This award is
+evidence of the region's united support for pursuing innovative
+ideas to develop advanced nuclear opportunities, and is further
+highlighted by resolutions passed by Ballard and McCracken
+counties and the city of Paducah supporting reindustrialization
+efforts at the site.
+At the state level, a nuclear working group has been
+established to analyze the commonwealth's regulatory
+environment and develop strategies to promote nuclear energy
+development. This working group concluded that there are no
+insurmountable policy barriers to the development of nuclear in
+Kentucky and recommended a permanent nuclear authority to
+advance nuclear causes across the state of Kentucky.
+Assistant Secretary Huff, with all this in mind, what
+opportunities and resources would you recommend to this region
+to aid the development of advanced nuclear opportunities?
+Dr. Huff. Thank you very much, Representative. I am really
+impressed by the leadership of your community in thinking ahead
+in terms of that reindustrialization. I heard a lot about their
+plans, and I think that particular region holds an immense
+amount of resource in their workforce. And when we look to
+equitable transitions for the future of nuclear energy, I want
+to see folks with real expertise in the nuclear space getting
+new jobs in a future of nuclear. And as the cleanup project
+rolls down, those folks with real radiological expertise have
+an opportunity in a variety of fuel cycle activities,
+manufacturing activities, and potentially even the deployment
+of new nuclear reactors, as you have described. Those skills
+that they already have are going to be very valuable in that
+transition.
+Chairman Comer. OK. Assistant Secretary, Global Laser
+Enrichment has a significant interest in partnering with the
+community to develop a commercial-scale facility which can
+supply uranium, conversion, low-enriched uranium, and high-
+assay low-enriched uranium. Projects like these are vital to
+turning legacy waste into fuel and creating high-paying jobs
+and economic activity in and around Paducah, Kentucky.
+I understand that DOE recently released a proposal for
+HALEU following the creation of the HALEU Availability Program
+in the Energy Act of 2020. However, I am also aware that DOE
+has $100 million in funding which is yet to be disbursed.
+Can you provide a timeline for when DOE might issue
+additional funding opportunities that could support innovative
+technologies including domestic HALEU production?
+Dr. Huff. Thank you. Indeed, we did release the HALEU RFP
+very recently, and in fact right now, today, we are executing
+basically an industry day to discuss with companies like GLE,
+you know, what we expect from those proposals and how they
+should interpret the details of that funding opportunity. What
+we would like to see, certainly, is a competitive process by
+which the Department of Energy can enter into procurement space
+for high-assay LEU.
+With regard to the next $100 million, you know, Congress
+directed us to use the $700 million from the Inflation
+Reduction Act in a certain way. Some of that money has been
+released through the deconversion request for proposals, some
+is targeted toward the enrichment request for proposals that we
+were just discussing, and some may need to be used for
+transportation and other components.
+Chairman Comer. So, what other opportunities within DOE's
+authority, including public-private partnerships, could the
+Department make available to support the acceleration of these
+types of projects?
+Dr. Huff. Yes, I think ultimately that request for
+proposals is a historic moment in the ability for companies
+like this to compete for the ability to produce material with
+DOE backing, and it could be accelerated by fully funding it
+through the President's supplemental request of $2.16 billion.
+We requested $2.16 billion to support LEU and HALEU enrichment
+expansion as well as conversion expansion, combined with the
+revolving fund, so that the U.S. Department of Energy can
+procure material at a higher premium today that will not appear
+until that capacity is built, and then make it available and
+recover those funds through an availability program. That
+availability program is being stood up through that HALEU RFP,
+but ultimately it will probably need the $2.16 billion
+requested by the supplemental.
+Chairman Comer. Thank you. I yield back.
+Mr. Fallon. Thank you, Mr. Chairman. The Chair now
+recognizes Ms. Brown, from Ohio.
+Ms. Brown. Thank you, Mr. Chairman. President Biden and
+Vice President Harris have purposely prioritized energy
+independence over the past 3 years of their Administration. As
+a result of Biden-Harris Administration policies, American
+energy independence was greater in 2022 than at any other time
+over the past seven decades. Yes, that is right. America is
+producing more energy under the Biden-Harris Administration
+than ever before, contrary to what my colleagues on the other
+side of the aisle may say.
+This has been possible by way of historic investments from
+legislation like the Bipartisan Infrastructure Law, the
+Inflation Reduction Act, and the CHIPS and Science Act. In our
+efforts to burn less fossil fuels and become less dependent on
+foreign oil, science shows us nuclear power is a clean,
+competitive, and cost-effective alternative. Nuclear power
+releases just a fraction of the greenhouse gases that coal or
+gas does, while creating a great amount of energy.
+Specifically, I want to touch on the unprecedented
+investments being used to create new American jobs and preserve
+and support safe nuclear facilities through the Civil Nuclear
+Credit Program, a program established in the Bipartisan
+Infrastructure Law.
+So, Dr. Huff, how will the continued implementation of
+President Biden's Civil Nuclear Credit Program and his
+investment in nuclear energy more broadly help to reach the
+Administration's goal of 100 percent clean electricity by 2035?
+Dr. Huff. Thank you very much, Representative. The Grid
+Deployment Office now administers the Civil Nuclear Credit
+Program, but I am very familiar with it because it started in
+the Office of Nuclear Energy. I will not try to speak to
+details out of turn, but I will say, you know, what has been
+made available enables the existing fleet to continue
+operating, despite the kind of economic challenges that some
+markets place before some of those plants.
+In its first year, DOE has made a conditional grant of $1.1
+billion to Diablo Canyon, which can contribute to keeping that
+plant operating. This is gigawatts of clean power on the grid,
+and keeping existing nuclear reactors open through subsequent
+license renewals that the NRC can provide through their
+licensing process is some of the cheapest clean power we can
+put on the grid. It is much cheaper than building a new nuclear
+reactor, to keep one operating for even longer. And we are
+seeing an opportunity for some reactors that, you know, had an
+initial lifetime estimate of 40 years, going to 60 and even 80
+years.
+So, this is really critical to that zero-carbon grid. We
+have to keep all the reactors running, and the Civil Nuclear
+Credit Program is putting billions of dollars toward it and
+resulting in gigawatts of clean power. Thank you.
+Ms. Brown. Thank you. I would be remiss if, like my
+colleague, Ranking Member Bush, that I did not mention nuclear
+power facilities in the past have been far more likely to be
+placed in close proximity to communities of color than their
+White counterparts. This exposes Black and Brown communities to
+the health and environmental risks presented by nuclear waste,
+which can cause cancer, cardiovascular disease, and more.
+It is especially important as we continue nuclear
+development to ensure consideration of the health and safety of
+the communities which have been overlooked for far too long.
+So, Dr. Huff and Dr. Dorman, how is the Biden-Harris
+Administration ensuring investments in nuclear power do not
+lead to environmental and health risks for minority
+communities?
+Dr. Huff. In DOE, we have included community benefits plans
+as part of our process for new grants, as one example of which
+we are establishing news ways to incorporate the concerns and
+needs of historically underserved and Black and Brown
+communities. This is now part of our granting process.
+And ultimately, too, I think it is important to note, I do
+want to give you comfort about the safety of the nuclear
+industry. You know, our real concern, in terms of deaths per
+terawatt hour, nuclear is very safe compared to most other
+sources. Nuclear is very comparable to wind and solar, where it
+is fewer than one death per decade is attributable to the
+lifecycle of nuclear power.
+But we still want to acknowledge the burdens on underserved
+communities as part of our granting process.
+Mr. Dorman. Congresswoman, the NRC has a longstanding
+program to address environmental justice concerns in our
+licensing and oversight processes, and the Commission tasked
+the staff a couple of years ago to do a comprehensive review of
+our environmental justice program. What while we found that it
+has served us well, we did identify to the Commission
+opportunities to enhance our outreach activities, update our
+policy statement and our environmental justice strategy and to
+assess whether enhancements can be made to how environmental
+justice is addressed in the agreement state application
+process, which applies to our industrial and medical uses.
+Those recommendations are with the Commission. But we are
+committed to environmental justice as a key part of our
+licensing process. Thank you.
+Ms. Brown. Thank you. My time has expired, but I just want
+to say I applaud the Administration's work and remain committed
+in my strong support. And with that I yield back.
+Mr. Fallon. Thank you. The Chair now recognizes our good
+friend from Florida, Mr. Donalds.
+Mr. Donalds. Thank you, Chairman. Dr. Huff, actually, I
+want to start with you. Your last comment was kind of
+interesting, around deaths associated with power generation
+facilities. Are there more deaths from wind farms than nuclear
+power plants?
+Dr. Huff. A lot of folks have done analyses on these. The
+order of magnitude of lifecycle deaths per terawatt hour is
+really comparable between wind and solar and nuclear.
+Ultimately, some assessments put wind just slightly higher,
+slightly lower than nuclear. I would say the uncertainty bars
+are pretty big, depending on what assumptions you make, but
+they are magnitudes different than unabated pollution-emitting
+sources.
+Mr. Donalds. OK.
+Dr. Huff. Magnitudes slower, sorry, smaller.
+Mr. Donalds. There was a Forbes article that written, maybe
+6, 8 months ago, that stated that in England there were 114
+deaths from wind turbine maintenance, because people fell off
+the turbines trying to maintain them, and there were 0 deaths
+from nuclear power plants. Is that true?
+Dr. Huff. That sounds very aligned with these kinds of
+statistics.
+Mr. Donalds. OK. Mr. Ortiz--Dr. Ortiz, my apologies--the
+nationwide forecast of electricity demand has shot up from 2.6
+percent to 4.7 percent over the next 5 years, as reflected in
+the 2023 FERC filings. With the increase in electricity demands
+can the United States realistically have a reliable electric
+grid and affordable energy prices without nuclear power, both
+conventional and advanced?
+Dr. Ortiz. Well, sir, if you are talking about the next 5
+years it is going to have to include the current nuclear power
+fleet, obviously. Within the Commission's oversight, with
+respect to reliability, the Commission, as I mentioned in my
+testimony, has authority over the operating reliability of the
+electrical grid, but the Federal Power Act reserves for the
+states the choice of electric generating facilities. Within
+that mix of organizations that helps to manage the grid, our
+grid operators are responsible for planning and operating their
+systems to include taking into account appropriate load growth.
+And so, to the degree that load growth is something that is
+a concern--and we heard a significant amount of discussion
+about load growth at our Commission meeting in Portland,
+Oregon, in June--the grid operators are responsible for
+managing their fleets as well as to dispatch, plan ahead and
+dispatch load, effectively to maintain that.
+So, the fact of the matter is, is that going to nuclear
+power, the expectation is that it is going to be there and that
+if future systems are available and deployed, they will be
+there too.
+Mr. Donalds. OK. Dr. Huff, do you believe that energy
+reliability is a prerequisite for energy affordability.
+Dr. Huff. Both that and safety. I think people need
+reliable energy to stay safe, and reliable energy is required
+for affordability as well.
+Mr. Donalds. So, I represent southwest Florida. You know,
+we take in hurricanes all the time. The last one was Hurricane
+Ian. We had Hurricane Irma before that. Do you believe that
+advanced nuclear microreactors can be deployed to assist with
+natural disaster response efforts?
+Dr. Huff. We are really interested in the possibility that
+this could happen. So very small, transportable microreactors
+are being developed, and some of them envision applications
+that could respond to emergencies like that. I think, you know,
+it will depend on licensing by the NRC, but a number of
+companies and concepts are being developed toward that goal.
+Thank you.
+Mr. Donalds. Now bring me to the NRC. Thank you for that
+segue. Mr. Dorman, how can we reduce regulatory risks
+associated with licensing new nuclear technology? Are there any
+nuggets you can provide Members of Congress to help the NRC
+accomplish this goal?
+Mr. Dorman. Thank you, Congressman. We are very engaged
+with about 15 technology developers in what we call pre-
+application discussions, and it is critically important that
+these are voluntary engagements, but I think they are helpful
+to both parties in that it helps the developers, many of whom
+do not have experience working with the NRC, to understand----
+Mr. Donalds. OK, Mr. Dorman, not to cut you off but I have
+like 35 seconds. So, is there anything that you can provide
+Members of this Committee, detailed regulatory or statutory
+changes, that can help us do our job on Capitol Hill to give
+you the flexibility you need at the NRC?
+Mr. Dorman. I do not have specific legislation. I think we
+have some things we are working with our Commission on.
+Mr. Donalds. All right. Well, I would love to see that. And
+Mr. Chairman, I think that is something that should be provided
+to the Committee.
+At the end, Mr. Chairman, I would request unanimous consent
+to submit for the record an op-ed titled, ``A Freshwater Future
+Powered by Nuclear Energy: Lessons Learned from Hurricane
+Ian,'' ``Let's Embrace Nuclear,'' ``Nuclear Innovation is Key
+to America's Economic Future,'' ``The Dishonest Fantasy of Wind
+and Solar,'' ``It is Time for America to Unleash Next-
+Generation Nuclear Energy,'' ``Why I Am An Advocate for
+Advanced Nuclear Technology,'' and ``What about the Waste?''
+Mr. Fallon. Without objection, so ordered.
+Mr. Donalds. I yield.
+Mr. Fallon. Thank you. The Chair now recognizes Ms.
+Stansbury from New Mexico.
+Ms. Stansbury. Thank you, Mr. Chairman, and I greatly
+appreciate the opportunity to have this hearing today. This is
+an issue that is crucial to New Mexico, to my district, and
+something that the people of my district feel very passionately
+about. And that is because New Mexico has been ground zero for
+our nuclear industry since the beginning of the Manhattan
+Project, and I am sure many of the people in this room saw the
+movie ``Oppenheimer'' this year, which introduced to the world
+New Mexico's crucial role in helping to create our Nation's
+first nuclear weapons. And to this day Sandia National Labs is
+still in my district and plays a critical role in helping to
+maintain our Nation's nuclear arsenal and ensure not only
+domestic but international security. So, it is an issue of
+great interest, both to our national security and to our
+economy and New Mexico's history.
+But what that movie did not tell us about is the dark side
+of that nuclear legacy. As Ranking Member Bush talked about,
+the way in which the Manhattan Project, of course, was spread
+across the United States as part of trying to ensure that it
+was kept a secret. And so, the fuel that was actually enriched
+in Ranking Member Bush's district was mined in New Mexico, and
+that was mined on Tribal lands, and those mines, which operated
+from the 1940's until really the 1980's and 1990's, were
+largely abandoned by the private companies that mined them. And
+guess what? They are still not remediated to this day. And
+there are thousands of people who are living around those
+mines, with nuclear waste coming off of those mines into their
+water systems, into their homes, their wells, poisoning their
+livestock and their family members. The miners who worked in
+those mines never got compensation for the diseases, the
+cancers that they developed.
+And guess what? They also tested the very first nuclear
+bomb. You saw it in ``Oppenheimer.'' But what they did not show
+you is the nuclear fallout that came from that giant mushroom
+cloud, just like what happened in Nagasaki and Hiroshima. But
+guess what? It fell on Americans, in my district, in the
+Tularosa Basin. A mushroom cloud of 200 miles left nuclear
+fallout across rural communities in New Mexico. People said
+that the sky turned dark, and it rained snow on them. Their
+animals died in the following days. And to this day, there are
+thousands of members of people in the communities that I
+represent that experienced cancer, birth defects.
+They are still seeing the legacy, and the United States has
+never apologized. The United States has never provided any kind
+of medical support for the people that they bombed, here in the
+United States. Mr. Oppenheimer helped build the bomb that you
+all saw in that movie this year.
+In addition to that, those labs, of course, became the
+offices that Dr. Huff works at, because after the war the
+potential to transform those weapons of mass destruction into
+opportunities for energy production was recognized, and our
+national labs helped to develop the know-how, the science, and
+the engineering to make it possible to do everything that we
+are talking about right now in this hearing.
+But the waste from that also had to go somewhere, cradle to
+grave. So, not only was it mined in our district, dropped on
+our district, produced in our district, it is now dumped in our
+district. New Mexico has been a dumping ground for nuclear
+waste since the nuclear program began in the 1940's, the WIPP
+site, which was opened in the 1990's.
+And guess what? About 5 years ago, a private company out of
+New Jersey hooked up with some local boosters in southeastern
+New Mexico and saw an opportunity to take advantage of the fact
+that the DOE had not come up with a way to find a permanent
+storage solution for all of this spent nuclear waste. And so,
+they came to New Mexico and said, ``Hey, we want to open a
+nuclear waste dump in your state,'' and New Mexico said, ``No
+thanks.''
+I was serving in the state legislature when the WholeTech
+company came and presented to us their plan for a 20-year
+interim storage facility. They could not answer what they were
+going to do with the nuclear storage after 20 years, when the
+design life of their canisters would begin to melt. And they
+said, ``Well, do not worry about it because by that point we
+will have a permanent storage facility.'' I mean, how long have
+we been trying to license a permanent storage facility?
+But the thing that boggles my mind, and Mr. Chairman, if
+you will please give me the opportunity to ask a couple of
+questions about this, is that we have heard a lot today about
+consent-based siting. But in New Mexico, our Governor
+transmitted a letter to the NRC begging you not to license that
+facility. our state legislature passed a law requiring consent.
+Every single member of the New Mexico congressional delegation
+mailed you a letter at the NRC and said, ``We do not want this
+nuclear waste site in our state.'' Communities surrounding that
+site said, ``We do not consent and do not want this nuclear
+waste facility.'' And yet----
+Mr. Fallon. The gentlelady's time has expired. The
+gentlelady's time has expired. I apologize.
+Ms. Stansbury. Excuse me. Give me one moment, Mr. Chairman.
+Mr. Fallon. No. Your time has expired.
+Ms. Stansbury. The NRC----
+Mr. Fallon. Your time has expired. Votes have been moved
+up. Your time has expired.
+Ms. Stansbury. The NRC----
+Mr. Fallon. I give you----
+Ms. Stansbury . Licensed----
+Mr. Fallon. The gentlelady is not recognized.
+Ms. Stansbury. Let me finish my sentence.
+Mr. Fallon. No. The gentlelady is not recognized.
+Ms. Stansbury. The NRC licensed----
+Mr. Fallon. The Chair recognizes Mr. Fry----
+Ms. Stansbury . A nuclear facility----
+Mr. Fallon . For 5 minutes.
+Ms. Stansbury . In New Mexico in May of last
+year, against our dissent, and we are----
+Mr. Fallon. You are out of order.
+Ms. Stansbury . Not OK with that.
+Mr. Fallon. You are out of order, completely out of order.
+Ms. Stansbury. You know what? It is out of order to dump
+nuclear waste----
+Mr. Fallon. I agree, but you are out of order.
+Ms. Stansbury . In our communities. OK.
+Mr. Fallon. You did not remove one bit of nuclear waste by
+being out of order here.
+The Chair now recognizes Mr. Fry.
+Ms. Stansbury. So, we would like to ask the NRC to
+revisit----
+Mr. Fallon. The Chair now recognizes Mr. Fry.
+Ms. Stansbury . This decision because it is
+crucial to the future of our communities and our country.
+Mr. Fallon. The Chair now recognizes Mr. Fry.
+Mr. Fry. Thank you, Mr. Chairman. Mr. Dorman, my home state
+of South Carolina is a leader in nuclear energy with over 55
+percent of electricity generation coming from a nuclear plant,
+and my congressional district is home to Duke Energy's Robinson
+Nuclear Plant, which generates about enough electricity to
+power half a million homes and employs 600 people in rural
+South Carolina. Duke Energy submitted an NRC application to
+renew Robinson's operating license for another 20 years, and I
+am hopeful that the plant meets all of the NRC requirements for
+approval. The electricity, high-paying jobs, and local tax base
+of the facility are so important to Hartsville, South Carolina,
+and the surrounding area.
+Are you able to provide me with an update regarding their
+relicensing?
+Mr. Dorman. Congressman, I would be happy to get you a
+specific update on that. When we receive an application like
+that, we communicate a schedule and a level of resource to the
+applicant on when we expect to complete that review, and we
+would be happy to get that information to you.
+Mr. Fry. What is the timeframe in which they have to
+operate, or the timeframe that they would be looking at for
+review?
+Mr. Dorman. We are working to get that down to 18 months
+for those reviews. We did get a higher number of applications
+than we anticipated, and that strained some of our resources,
+but we are working to get that back to 18 months.
+Mr. Fry. What is the current average right now?
+Mr. Dorman. I think it is around 22 months.
+Mr. Fry. Twenty-two months? OK. Thank you for that. I do
+appreciate that.
+Dr. Huff, the U.S. recently led a coalition of nations to
+pledge to triple their nuclear power capacity by 2050. With the
+nuclear waste generated by this goal in mind, do you and the
+Office of Nuclear Energy see the development of domestic
+nuclear recycling technology as vital to our country's nuclear
+future?
+Dr. Huff. Thank you very much, Congressman. While the
+United States does not currently encourage commercial
+reprocessing, we continue to do research and development to
+explore options and advance fuel cycle options as the
+technology and economics evolve.
+A critical component of this certainly is the development
+of advanced reactors with high-assay LEU fuel. The resulting
+spent nuclear fuel from some of these reactor concepts may have
+much more value in a recycling scenario and change the
+economics of recycling in the longer-term future.
+So, this is something we are very aware of. I am working
+very closely with my colleagues in the National Nuclear
+Security Administration to ensure that we have a coherent
+strategy with regard to how we approach that research, to
+ensure the highest levels of safety, security, and safeguards
+around recycling options for our future nuclear fleet.
+Mr. Fry. Did you say that you do not see that in the
+commercial setting? What do you mean by that?
+Dr. Huff. So, in the National Security Memorandum 19, the
+President's policy is set out to say that we do not currently
+encourage commercial reprocessing. This does not say that we
+will discourage it or that we would either discourage or
+encourage Federal reprocessing.
+Mr. Fry. But you do see the recycling as part of the
+nuclear future, given the lofty goals set by----
+Dr. Huff. Yes, we continue in DOE to do research and
+development, to find options that will meet economic and
+technical challenges.
+Mr. Fry. Thank you. What steps has the NRC taken to modify
+the licensing process, and how will these modifications help to
+streamline the construction of reactors?
+Mr. Dorman. For reactors--now we are switching subjects?
+So, for reactors, over the last several years we have adopted
+what we call a ``core team'' concept. We have added data
+analytics to our licensing process to make sure that we are
+tracking to the schedules and budgets that we are telling
+applicants when we receive their application. We have had
+success with that, most recently with the Kairos molten salt-
+cooled demonstration reactor, a 30-megawatt reactor in
+Tennessee, for which we issued the construction permit last
+month. The staff completed their safety and environmental
+reviews on budget and ahead of schedule.
+Mr. Fry. Thank you. And Dr. Huff, this might be for you.
+Considering the Department's recent efforts in the research and
+technology that you talked about, what stands out to you as
+having the highest potential return on investment?
+Dr. Huff. Well, I think development of new reactors of a
+variety of sizes is really important, and I especially am
+interested in seeing the deployment of nuclear reactors in
+place of retiring and retired coal sites. I think this targets
+workforces that need to transition equitably, and it allows us
+to use resources like the transmission grid that goes to those
+coal sites.
+Ultimately, too, I think it is important to note that the
+radiation exposure to individuals living outside of an
+operating coal plant is higher than the radiation exposure to
+any individual living outside of a nuclear power plant because
+of the strict safety regulations by which those reactors
+operate.
+And so, I would love to see transitions for coal plants to
+nuclear plants. That is where the biggest benefit lies.
+Mr. Fry. Thank you. With that, Mr. Chairman, I yield back.
+Timely.
+Mr. Fallon. Timely. Five minutes. That is not the
+Representative Fry show.
+The Chair now recognizes----
+Ms. Bush. That was unnecessary.
+Mr. Fallon. Well, you know what was unnecessary? Two and a
+half minutes----
+Ms. Bush. You went over.
+Mr. Fallon. and yes, and I gave her 30 seconds. Not 2
+minutes. The Chair recognizes Ms. Norton from D.C.
+Ms. Norton. I thank the Chair. I would like to use my time
+to discuss two bills pending in Congress. One bill, introduced
+by a Republican on this Committee, would require a feasibility
+study on incorporating an advanced nuclear reactor in the
+Capitol Power Plant at the U.S. Capitol Complex. Not only is
+placing a nuclear reactor in the U.S. Capitol Complex a danger
+to national security, it is a danger to my constituents, here
+in D.C., in this densely populated city. I strongly oppose this
+bill.
+The other bill, the Nuclear Weapons Abolition and
+Conversion Act, would require that beginning on the date that
+the President certifies to Congress that all countries
+possessing nuclear weapons have begun the verifiable and
+irreversible elimination of these weapons under the Treaty on
+the Prohibition of Nuclear Weapons, the United States then
+direct resources that are being used for nuclear weapons
+programs to address the climate crisis and human infrastructure
+needs, such as housing, health care, and restoring the
+environment.
+Monday is the third anniversary of the Treaty entering into
+effect, and 70 countries have ratified the treaty, and another
+27 are in the process of ratifying it.
+In 1993, the District of Columbia peace activists were
+successful in getting a ballot initiative in the District of
+Columbia passed that called for nuclear disarmament. Every
+Congress since then, I have introduced a bill based on that
+initiative, including this bill.
+In March 1919, the D.C. Council passed a Sense of the
+Council resolution urging the United States to approve the
+treaty. D.C. residents were early prescient leaders on this
+important issue, which has become all the more important with
+the current wars in Ukraine and the Middle East.
+I am very pleased that the bill is endorsed by several
+major national and international organizations.
+I yield the balance of my time.
+Mr. Fallon. That is extra timely. Thank you.
+The Chair now recognizes Mr. LaTurner from Kansas.
+Mr. LaTurner. Thank you, Mr. Chairman. I appreciate it.
+Dr. Huff, given that the United States purchases a quarter
+of its supply of enriched uranium from Russia, how long do you
+estimate it will take to eliminate our reliance on Russia for
+nuclear energy fuel, and to what extent is that timeline
+influenced by research and development investments?
+Dr. Huff. Thank you very much, Congressman, for this
+question. You know, it is challenging to make precise
+estimates, but it will take a few years to buildup the
+capacity, and that is really where the timeline lies. During
+that time, if there is a complete disruption of Russian
+material into the United States then utilities will need to
+draw down their resources and find alternative supplies from
+our allies and partners abroad, of which, of course, there is
+some capacity, but it is limited.
+Through my role we have been very careful to ensure some
+partnership with what we are calling the Sapporo 5--the United
+States, the U.K., Japan, France, and Canada--our partner to
+ensure that there is an engagement on reliable fuel supply
+during that time.
+But 3 to 4 years right now is the estimate of how long it
+could take for enrichment capacity to stand up, but we are
+actually awaiting proposals from private industry that will
+give us more information. We have released a request for
+proposals regarding high-assay low-enriched uranium, but it
+includes the standing up of new capacity for low-enriched
+uranium on the way to that high-assay low-enriched uranium. It
+should give us more information. And $2.16 billion in the
+supplemental request from the President certainly would give us
+an opportunity to further that. Thank you.
+Mr. LaTurner. I appreciate that. I will stick with you. One
+of the concerns that I frequently have with respect to energy
+environmental policy at the administrative level is that the
+right hand never seems to know what the left hand is doing.
+There is a perceived lack of coordination between agencies and
+among specific offices within those agencies at times.
+Can you describe what interagency communication steps you
+take to ensure that our energy goals can coexist with our
+national security, grid stability, and economic environmental
+goals?
+Dr. Huff. Thank you so much for this question, Congressman.
+I have been really lucky to have a lot of engagements with the
+National Security Council, and especially with my counterparts
+in the National Nuclear Security Administration. Through
+interagency policy committee engagements, of course, the NRC
+plays a key role in those conversations, especially in the
+context of the deployment of nuclear reactors, the export of
+nuclear reactor technology, and, of course, ambitions with
+regard to expansion of nuclear fuel capacity. Thank you.
+Mr. LaTurner. The Government Accountability Office and
+Congress have previously raised concerns that despite all the
+administrative and legislative initiatives to support the
+domestic development of nuclear fuel there seems to be room for
+improvement at DOE, both in the budgeting of funds and in
+providing a credible audit of the Administration's estimates
+for future industry demands.
+Can you address these concerns and explain how DOE is
+working to develop a clear-cut strategy for uranium management?
+Dr. Huff. Yes. Thanks very much. So, the uranium equities
+across the Department abroad, and include other offices such as
+environmental management, inventories, and NSA's inventories,
+and of course, the interests of the civil nuclear sector, which
+is more the concern of my office, we, in development of the
+uranium strategy that has led to estimates in the supplemental
+request by the Biden Administration incorporated a great deal
+of input from industry that currently operates our nuclear
+reactors in this country and industry that intends to build new
+reactors.
+We have engaged an independent contractor to conduct direct
+assessment of the inventories available as well, and, of
+course, we have historic knowledge from the running of, for
+example, the United States Enrichment Corporation in the past.
+Mr. LaTurner. Thank you, Doctor.
+Mr. Dorman, do you feel that cybersecurity requirements
+have a compliance cost that delay the rollout of advanced
+reactor technologies?
+Mr. Dorman. Thank you, Congressman. I would not say a
+delay. We have established, about 15 years ago, cybersecurity
+performance-based requirements that can be applied to any
+technology. So, the key is just any new technology coming in
+needs to an appropriate assessment of what their critical
+digital assets are that could affect safety, security, and
+emergency preparedness and apply those requirements to their
+program.
+Mr. LaTurner. Can you speak to the comparative advantages
+of nuclear versus other generation sources? Briefly, because I
+am going to run out of time.
+Mr. Dorman. So, NRC does not typically do that because our
+role is not the promotion. So, we are assessing the safety and
+security. But we do recognize that in the national policy arena
+and in the national strategic international arena the interest
+from both the climate change and the energy security
+standpoint, and we are, as Dr. Huff indicated, partnering with
+the National Security Council and with the Administration in
+supporting some of those international aspects as well.
+Mr. LaTurner. Thank you all very much for being here. I
+yield back.
+Mr. Fallon. The Chair now recognizes our friend from New
+York, Mr. Williams.
+Mr. Williams. Thank you, Mr. Chairman, and thank you for
+inviting me to participate today. This is a wonderful
+opportunity for me.
+Before I get started, I would like to ask for consent to
+enter into the record the ``Rebalancing of America's Energy
+Investment Strategy,'' a policy paper that I wrote.
+Mr. Fallon. Without objection, so ordered.
+Mr. Williams. Thank you.
+Dr. Huff, thank you for your expert--for devoting your
+service to the government and bringing all your expertise. You
+and I have had many opportunities to talk, so I am going to
+focus on these two, if I may.
+Mr. Dorman, you and I come from the same place, same
+training, same background. When we talk about the cost of the
+regulatory environment for nuclear, particularly as it goes
+forward, picking up on Mr. Donalds' question about what policy
+actions can we take, can you talk about addressing the
+limitations that come from ALARA, as low as reasonably
+achievable, for radiation exposure and particularly using the
+linear no-threshold model for radiation exposure. You and I
+both have had extensive training in that.
+Mr. Dorman. Thank you, Congressman. So ALARA, ``as low as
+reasonably achievable,'' is, as you know, a requirement in Part
+20 that addresses how a company or anybody operating a nuclear
+facility, not just nuclear power plant----
+Mr. Williams. I am familiar with it. Do you mind talking
+about, you know, can we move beyond ALARA to get some
+reasonable radiation limits that might actually lower the costs
+and speed along the regulatory process?
+Mr. Dorman. So, I think ALARA has embedded in, the R is
+``reasonable.'' So, the question is, what is reasonable. You
+mentioned the linear no-threshold. That is the prevailing
+theory on the effects of low doses of radiation.
+Mr. Williams. We have 100 years of experience with
+radiation. I mean, Madame Curie maybe overdid it a bit, but we
+have learned a lot in 100 years. So, how can we move past this
+to get to a reasonable framework?
+Mr. Dorman. So, I think that is going to involve a
+substantial dialog around the linear no-threshold. There are
+other theories that are out there, and the Commission has
+longstanding commitment to the linear no-threshold theory.
+Mr. Williams. Let us put a target on that because just with
+that one we could dramatically change the cost structure of
+nuclear without, in any way, shape, or form, changing the risks
+to the population.
+I would just point out, when you talk about the amount of
+fees that go into an approval process, I agree with you. Those
+are de minimis compared to the costs. But any kind of changes
+in reviews halt production and can often create very, very
+costly delays.
+Is the NRC using physics-based modeling, computer
+simulations? It seems like we have vastly better tools than
+slide rules like we did in the 1950's.
+Mr. Dorman. We do have vastly better tools, and part of our
+key partnership under NEICA, another act, with the Department
+of Energy is to access particularly the data that they have
+relative some of the technologies that are novel to the NRC,
+like molten salts and high-temperature gases, making sure that
+our computer models take advantage of that data and are
+appropriately updated to reflect that. So, we are using the
+best science when we are evaluating an application.
+Mr. Williams. Another good example of the use of DOE and
+the work that they do. Just because I am Chairman of the Energy
+Subcommittee on Science, Space, and Technology does not reflect
+on my championing of their cause.
+Dr. Ortiz, can you briefly explain to me the difference
+between--as it relates to the grid, any definition of the grid
+that you want to apply--the difference between resilience and
+reliability.
+Dr. Ortiz. Thank you, Congressman, for the question. I
+appreciate it. So, reliability is defined, you know, although I
+am engineer, the Commission is largely a legal organization, so
+reliability is defined legally as the operating the
+transmission system to prevent cascading outages, and that is
+the framework around reliability that we have.
+Mr. Williams. That is very helpful. But resilience, how is
+that different?
+Dr. Ortiz. So, resilience is defined in a number of
+different areas, and there is not an official definition the
+Commission uses. But typically, resilience is thought of as the
+ability to withstand an extreme event and then to recover from
+to the degree that----
+Mr. Williams. Thank you. If you were to create two columns,
+nuclear power in one column, wind and solar in the other, which
+one provides more resilience and more reliability, wind and
+solar or nuclear?
+Dr. Ortiz. I think that is going to depend on the situation
+when applying that.
+Mr. Williams. Oh, come on. You are an engineer. I am an
+engineer. Come on.
+Dr. Ortiz. Actually----
+Mr. Williams. So intermittent power, you say, has the same
+qualities of resilience and reliability as----
+Dr. Ortiz. Well, the ability to----
+Mr. Williams . Nuclear and sustainable. Is that
+what you are saying? That is your expert opinion?
+Dr. Ortiz. It is the ability to recover from, right. So, a
+nuclear power----
+Mr. Williams. I understand a black startup. I mean, I know
+what you are saying. But you are not going to do a black
+startup in a wind storm with wind turbines. They are not going
+to help you.
+Dr. Ortiz. No, but----
+Mr. Williams. It is dispatchable power----
+Dr. Ortiz . But curiously, though, there have
+been several tests of batteries for black starts, so it is
+feasible. There are different solutions here.
+Mr. Williams. I was the battery officer on a nuclear
+submarine. I would love to see that. Thank you. I yield back.
+My time has expired.
+Mr. Fallon. The Chair now recognizes Ranking Member Bush
+for a closing statement.
+Ms. Bush. Chair Fallon, you said at the start of the
+hearing that our staffs are in communication about my request
+for a field hearing in St. Louis on the devastating legacy of
+improperly stored nuclear waste, but it is my understanding
+your staff has not yet gotten back to us on this request that
+is at least, you know, a few weeks old. I did not bring it up
+in this hearing because you said no. I brought it up in this
+hearing because there was no response. I would like a response.
+So, if you are serious about accountability and proper
+storage of waste that continues to be generated to produce
+nuclear power, hold a hearing about the continuing failure of
+the Federal Government to protect its own people from toxic
+waste it created and improperly disposed of in St. Louis and
+elsewhere.
+Yet again, I am requesting this field hearing in St. Louis
+on the Manhattan Project. As you know, Chair Fallon, I sent you
+and your team a trove of information. We made a public request
+in the last Subcommittee hearing. There has been no response.
+And again, there has been no response.
+We have got a 300 percent increase in cancer in children in
+my district. That should be enough to warrant a field hearing,
+not hearing that other folks, you know, nobody else has had a
+field hearing yet. I made a request, I gave the information,
+and I deserve at least some type of response, the respect from
+my colleague to respond. And it is not just my district and
+Rep. Stansbury's district that are impacted. A total of seven
+Members of the Oversight and Accountability Committee have
+these sites in or near their districts--Rep. Brown, Rep. Mfume,
+Rep. Summer Lee, Rep. Goldman, Rep. Ocasio-Cortez, Rep.
+Langworthy, and Rep. Jim Jordan. It impacts so many of us and
+our constituents. We owe it to them.
+Will you hold a field hearing on the lasting and unsolved
+legacy of nuclear waste in our communities? This issue is so
+urgent, and I will keep raising it until I get a conclusive
+answer. This is not partisan. This is about everyone. It is
+about humanity. I am asking for a response. It is not hard.
+This is not adversarial. I am speaking out for my community. If
+I was Chair, I would have it myself. I am not Chair. I am
+Ranking Member. I am asking this of my Chair.
+Thank you, and I yield back.
+Mr. Fallon. Thank you. Actually, I have an email from staff
+talking to them about this hearing and then the staff, one of
+your staff members said that it was great to hear that we were
+going to have this hearing, and this would be within the scope.
+Again, this Subcommittee has not had one field hearing yet, at
+all, in the year that we have been--we have not had one field
+hearing in this Subcommittee.
+OK. So, this is not from your staff, right here? That is
+not somebody that works for you?
+Ms. Bush. Where is the answer.
+Mr. Fallon. This is the response to this.
+Ms. Bush. Yes. We want an answer.
+Mr. Fallon. OK. OK. We do not want to get over----
+Ms. Bush. Yes or no?
+Mr. Fallon. OK. So, first of all, I am sorry that our
+friend from New Mexico left, but I wish that the Democratic
+administration of Harry Truman did not let off a nuclear bomb
+in her state, but unfortunately that did happen.
+You know, the thing that gets me about that is I try to be
+very, very fair and attentive to time, and if we go over 20
+seconds, I will make sure the opposing party has their 20
+seconds, or whatever it is.
+But just because, you know, when people want to claim moral
+high grounds and virtue signal because they are outraged, they
+do not get to say whatever they want, wherever they want, for
+however long they want. We have a decorum, and we have rules,
+and it is unfortunate.
+And then you have got folks on the left, and particular the
+far left, that say, ``We do not want any more fossil fuels at
+all. We do not want oil, heating oil, natural gas, diesel fuel,
+clean coal.'' And now some say even, ``We do not want nuclear
+power either.'' Well, that leaves hydro and wind and solar,
+which is terribly inadequate for our energy needs, and it is
+living in a fantasy world and not being practical. I know it
+sounds good to college students who are 19, that say let us
+just invest in solar, and let us invest in wind, and we will
+all ride our unicorns to the rainbows and talk to the
+leprechauns and be generating--you know, it is just not a
+reality.
+I would like to live within the bounds of reality and do
+what is best for this country and not what is best for China
+and our other adversaries and governments that have absolutely
+no legitimacy because they were not elected by their own
+people. They rule by the barrel and force of a gun.
+So, I want to thank your witnesses for coming today and
+having this conversation on nuclear energy sites.
+You know, historically, our Nation has never had a
+comprehensive solution for nuclear waste disposal. That is
+something that is an issue here. And I do not think any
+rational person would want to dispose of nuclear waste
+improperly. Unfortunately, that has happened in the past. But
+implementing a centralized spent fuel facility is by far the
+easiest way to streamline fuel storage regulation logistics and
+ensure nuclear material is handled in the utmost security and
+care. And as sobering as it is to hear about the hurdles
+communities must address today, due to mismanaged spent fuel
+storage from decades ago, it is even more sobering to
+acknowledge that we are no closer to a centralized nuclear
+waste repository than we were when nuclear power generation was
+only a theory.
+But that does not mean that a permanent solution cannot
+exist. It can. In fact, the Nuclear Waste Policy Act of 1982,
+which was amended in 1987, identifies Yucca Mountain, Nevada as
+the sole site for a permanent nuclear waste repository. But
+after localized political outcry, construction of Yucca
+Mountain ceased, and progress on a centralized nuclear waste
+repository shuttered, despite spending $15 billion in Federal
+funds, and that $15 billion was a heck of a lot more then in
+relation to what it would be now in real dollars.
+So, the irony is that in refusing to choose a centralized
+location, Yucca Mountain, critics forced companies to keep
+spent fuel in what was supposed to be interim storage solutions
+at over 70 nuclear sites in 35 states. Some of this fuel has
+been in, quote/unquote, ``temporary storage'' for over 40
+years, and because the Federal Government is in direct
+violation of Federal law, as of 2020, taxpayers have paid the
+owners of nuclear power plants over $9 billion in damages for
+costs associated with storing the used fuel. Instead of
+complying with the law, however, the U.S. Government has
+decided to turn the simplest nuclear waste storage solution,
+quite literally, into a $15 billion money pit in the desert.
+But as a reminder, nuclear fuel is remarkably energy dense.
+So, get this. Of all the spent fuel the United States has
+produced since the 1950's, it could fit in a single football
+field, stacked less than 10 yards deep. That is an acre, an
+acre. One thing we have in this country is a lot of land,
+particularly when you get west of the Mississippi, a lot of
+open spaces. That is the perfect place to store it. Now, I get
+it. Nobody wants to be near it. That is why you put it where
+nobody really lives around it. And advancements in technology
+can recycle up to 90 percent of the spent nuclear fuel.
+So, I think--well, I would hope, anyway--both sides of the
+aisle can find common ground and, you know what, common sense,
+live within the bounds of reality, regarding the need to
+safeguard our nuclear fuel supply chain and ensure safe, clean,
+and baseload power generation for the electric grid. By
+onshoring as much of the uranium supply chain as possible, we
+can help usher in the next generation of advanced nuclear
+reactors and strengthen national security at the same time.
+I want to thank all of our witnesses for being here today,
+and I hope Congress continues to discuss ways in which America
+can remain the global leader in nuclear technology and
+advancement.
+And I just want to take a point of privilege as the Chair
+to recognize a new intern for the Oversight Committee. It is
+Haley Sorrell. And Haley was a scholarship soccer player at the
+University of Georgia.
+And this is just simply about fighting for what you believe
+in. In the summer of 2020, her soccer team had decided and
+agreed that they were all going to kneel for the National
+Anthem. That was their choice. As Americans, you can choose to
+stand, you can choose to put your hand over your heart, or you
+can choose to kneel. That is the beauty of America. She told
+her team that she was standing. She was the only one that was
+going to stand, and she was cajoled for weeks, and she stood.
+And the day she stood, eight other girls on that soccer team
+decided to stand as well. It is about fighting for what you
+believe in.
+And with that, and without objection, all Members have 5
+legislative days within which to submit materials and
+additional written questions for the witnesses, which will be
+forwarded to the witnesses.
+If there is no further business, without objection the
+Subcommittee stands adjourned.
+

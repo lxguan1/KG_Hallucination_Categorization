@@ -1,1 +1,1577 @@
-THE STATE OF RURAL INFRASTRUCTURE: EMERGENCY RESPONSE, RECOVERY, AND RESILIENCE ---------- Wednesday, July 10, 2024 U.S. Senate Subcommittee on Rural Development and Energy Committee on Agriculture, Nutrition, and Forestry Washington, DC. The subcommittee met, pursuant to notice, at 2:30 p.m., in room 328A, Russell Senate Office Building, Hon. Peter Welch, Chairman of the Subcommittee, presiding. Present: Senators Welch , Klobuchar, Bennet, Smith, Lujan, Tuberville, Boozman, Ernst, Braun, and Grassley. STATEMENT OF HON. PETER WELCH, U.S. SENATOR FROM THE STATE OF VERMONT Senator Welch. Good afternoon, everyone. I want to call this hearing of the U.S. Senate Subcommittee on Rural Development and Energy to order, and I want to thank my colleague, Senator Tuberville, Coach Tuberville. I also want to thank our Chair, Senator Stabenow, and our Ranking Member, Senator Boozman. It is all great to be here for a very, very important hearing, and we have got tremendous witnesses. We want to get to you ASAP. I do want to give an opening statement on this one-year anniversary of the devastating floods that we experienced in Vermont a year ago. Vermonters are still struggling to recover from them. It was a year ago, on July 10th and 11th, that we had the catastrophic flood. I want to acknowledge, by the way, the first responders, the medical professionals, the police, fire and rescue, National Guard, relief agencies, and neighbors who helped everyone in that moment of crisis. I want to take a moment to acknowledge the Vermonters who lost so much: their homes, their businesses, their farms, their communities. It is a really a traumatic experience that lingers and is a long-term struggle to get over. We are going to have more of these in Vermont. We know that. We are going to have more of these in the Nation. The weather is changing. We do not have to argue about how, but we cannot deny that that is happening. Texas is grappling with devastating effects of the hurricane. It does not matter what kind of disaster it is or what State you are in--Hawaii, Texas, Mississippi or Alabama--it is devastating to our towns. Those of us who represent rural communities, where there are no resources in place to address the long-term needs of their community, bet back on their feet, are especially vulnerable. You know, in Johnson, Vermont, the flooding destroyed the town's wastewater facility, with flood waters six feet high in the building. That facility is operating now, but at a higher energy and labor cost, and it is kind of rickety. In Montpelier, the State's capital, flood waters destroyed the Federal building, shut down our post office, and a number of our State buildings will not be back online probably until 2025. We are still waiting for the post office to open, to be fully operational. Vermont, in our capital, we actually do not have a post office that is fully functional. Just two weeks ago, severe storms and deadly flooding hit Minnesota, and as someone who has been through what Minnesota is experiencing, I am delighted that Commissioner Paap is here. Senator Klobuchar and Senator Smith have been informing us about everything that is going on there, and we want to be helpful in any way we can. If there is one thing that these disasters have made clear it is that we need to put resilience and the capacity of local communities and States to essentially build back better so that when the next storm comes there is going to be a lot less damage, or maybe no damage at all if we do it right. We learned that in Vermont in 2011, when we had Tropical Storm Irene. It was the largest and most devastating storm that we had for about 80 years. We got into a big fight, to replace an eight-inch culvert when you need a 16-inch culvert. FEMA, at that time, would not let us build back better. We have been able to change that, and we have to do more of that, not just in Vermont but in every community, in Mississippi and in Vermont. Responding by incorporating resilience is just a practical and necessary step that we have to take. Last year, even though Brattleboro got four inches of rain, the town saw much less damage than it had in Irene, and that was because they had done some resilience work. Another thing is our small communities cannot do it on their own, and I am sure this is true in Mississippi. We have got local volunteers that are on the Select Board. They are also part of the road crew, or they are the disaster response coordinator, and this is in towns, you know, of 1,500 or 3,000 people. They do not have any resources in place to be able to navigate the complexities of the Federal Government. One of the big things we are going to talk about today is how do we address that so those communities have the technical resources they need from a local area that is going to allow them to get what they are entitled to and what they need. That is a critical part of ensuring that disaster recovery will work and work effectively. U.S. Rural Development has been a great partner for us, and we are going to hear from Vermont about how we can coordinate and leverage both the local leadership and the work of the USDA. I want to express my gratitude to Chairwoman Stabenow who understands the importance of rural development programs and has included the largest mandatory funding ever proposed in farm bill history in the Rural Prosperity and Food Security Act. Good for her. It marks the first time that a farm proposal had included permanent funding for the Rural Development Title. Chairman Stabenow's Rural Prosperity and Food Security Act also includes new funding to invest in rural capacity building. We need that. We need to make sure that the Federal programs are spending money to help disaster victims, but not on administrative costs as much but more on actual relief. We had a situation in Vermont where there were two times the amount spent on administration than there was on relief. Obviously we want to turn that upside down, and that is where the local engagement is so essential. We need to act now. Thank you to the members in attendance today, and to the witnesses for making the trip. I look forward to a very productive, bipartisan hearing. I will now turn to Coach Tuberville for any opening comments he would like to make. Thank you, Coach. STATEMENT OF HON. TOMMY TUBERVILLE, U.S. SENATOR FROM THE STATE OF ALABAMA Senator Tuberville. Thank you, Mr. Chairman, for having this. This is well needed. Thanks to the witnesses for being here. It is going to be very informal. Obviously we do not have a lot of Senator here. There is a vote going on. They will be here soon. Actually both of us have to go vote and we will be in and out. Thanks to all the witnesses. You know, today's discussion is on a very important issue for my constituents in Alabama. We are on the Gulf, and we are obviously in the tornado fly away, as we call it, down South. We live in a very vulnerable area of need a lot of times. You know, the state of rural infrastructure during national disasters a lot of times is lacking, and we all know that. I still have farmers that are still struggling from a hurricane that we had five, six years ago, that have not gotten the need that they are supposed to have. Communities never expect to have this happen to them. When a tornado, hurricane, or flood unexpectedly strikes, they quickly have to figure out what to do and how to rebuild, usually on their own, a little bit from the county, city, State, and usually the last one to show up is Federal, and that needs to change. This is a topic all my colleagues should be able to agree on because it is not partisan. Access to affordable electric, water, and wastewater infrastructure is essential for survival in any place in the country now. Because there seems to be more and more, whether it is fires, whether it is floods, whether it is tornadoes. Of course, we all know we have hurricanes. Disaster resiliency, community safety, and rapid recovery are critical to all Americans impacted by natural disasters, but this is especially in the rural areas. Rural areas are usually the last ones to get any relief. Just this week, Hurricane Beryl has wreaked havoc across Texas and brought high winds and torrential rain to Arkansas, Missouri, and the Midwest. Alabama, my State, is all too familiar with natural disasters due to its proximity to the Gulf of Mexico, making the State more prone to tropical storms, hurricanes, and extreme weather. Over the past few years, Alabama has suffered through its fair share of natural disasters such as Hurricanes Michael, Ivan, Sally, and numerous tornadoes. Storms like these highlight the significant need to prioritize investments in rebuilding and hardening critical infrastructure that provide water and electricity, especially in the rural communities. Our rural communities often struggle. They often struggle to compete for Federal grants to help recovery efforts from natural disasters due to lack of full-time grant riders, attorneys, and experts who are able to identify available relief resources. Unfortunately, they are oftentimes ill-equipped to navigate the maze of bureaucracy and complex application process. On top of that, I routinely hear about work force challenges, in my State of Alabama and across the Nation. Our rural areas struggle, really struggle, to recruit and maintain qualified technical assistant experts, certified operators and technicians, placing them at a competitive disadvantage compared to their urban counterparts. Many certified water and electrical operators across the country are aging toward retirement without enough qualified applicants to backfill their positions. Considering the numerous challenges already faced in rural areas, the last thing we need is more burdensome government red tape, which seems to be more and more every year. As policymakers, we need to ensure applying entities should not have to wait an average of seven years to navigate the Federal permitting process of jumping through various environmental and climate hoops. States and local entities must, they must, have the flexibility to implement funding as they see fit. Just as each community is unique, so are natural disasters, which is why States and local entities must have the flexibility to implement funding as they see fit. A one-size- fits-all approach does not work. We found that out. What works in one town or State may not work in another. We need to get the government out of the way and reduce regulations to make it easier for our rural communities to stand on their own. I look forward to today's witnesses and hearing their experiences and trying to find some solutions for the future for people that live in rural areas. Thank you, Mr. Chairman. Senator Welch. Thank you, Senator Tuberville. I understand that Chairwoman Stabenow and Ranking Member Boozman will not be giving opening statements, so we will now move to introduce the witnesses. Ted Brady is the Executive Director of the Vermont League of Cities and Towns. He served here for many years for the Senator who is looking at us right now, from his picture on the wall, to maybe his C-SPAN view in Burlington, Vermont, and that is, of course, our wonderful friend and former colleague, Senator Leahy. Mr. Brady served as the Vermont State Director of USDA Rural Development, and as I mentioned a decade working for Senator Leahy. Welcome. Julie Moore serves as the Vermont Natural Resources Secretary in the Scott administration. She has worked to shape Vermont's environmental agenda, focusing on greenhouse gas mitigation and climate resilience, water quality, the forest economy, and the importance of conservation. She is a highly respected leader in Vermont, and we are delighted to have you. Senator Klobuchar wanted to be here but as Senator Tuberville mentioned she can't be, with the vote. Oh, she is on her way. You know, somehow she manages to get to the three different places she is supposed to be at once. It is another Klobuchar miracle, so I am going to wait so that she can introduce her wondaful Minnesotan. I am going to recognize you, Senator, because I understand you have got some reputable people here from your home State. Senator Tuberville. I would not go that far, reputable.  Senator Tuberville. Thank you, and we do have two good witnesses here from my State of Alabama. Mr. Mark Bohlin I am proud to introduce from Foley, Alabama, who serves as the General Manager of the Perdido Bay Water, Sewer, and Fire Protection District in Bowen County. Mr. Bohlin has served as general manager for the district for over 25 years. He is Grade 4 water operator with the State of Alabama and a State- certified electrician. In addition, Mark has served on the Alabama Rural Water Board of Directors since 2009, and is currently the association's president. Prior to joining the Perdido Bay District he served in several different technician, electrician, and operator roles across the country, including the United States Air Force. Thank you for your service. Thanks for being here today, Mark. Thank you. Keep going? Okay. Senator Welch. Go ahead. Senator Tuberville. Our next distinguished guest, Mr. Brad Kimbro, our next witness, from the Wiregrass in Ashford, Alabama. He is the General Manager and CEO of Wiregrass Electric Cooperative. Mr. Kimbro has three decades of experience--I know you don't look that old, but three decades-- in electric cooperative industry, and has been with Wiregrass Electric Co-op since 2006. Within the co-op he has served as Director of Member Services Chief Operating Officer, prior to assuming the General Manager position. He is actively involved with Alabama Rural Electric Cooperative Association and the National Association NRECA, and with numerous volunteer roles around the Wiregrass and southeast Alabama. Brad, thanks for being here today. Senator Welch. Senator Klobuchar is in the building, and almost here. Well, she is literally coming in. I think so.  Senator Welch. There she is. Senator Klobuchar. Thanks for filibustering.  Senator Welch. Well, it is wonderful to have Senator Klobuchar join us, and she is going to take a minute but then is going to be---- Senator Klobuchar. I am all ready. Senator Welch. You always are. I will let you introduce your witness. Thank you very much. Senator Klobuchar. All right. Well, thank you to the Chair and Ranking Member for this important hearing, and I am so honored to introduce my friend, Kevin Paap, because we like a lot of drama, you know. He is Chair of the Blue Earth County Board of Commissioners. If any of you saw that dam on national TV, the Rapidan Dam, that is in his county, in his district, and he has been on the front line making sure we are either going to get that repaired, get it replaced, it kind of looks like to me. It is just one example of the work and the challenges that we have. He is a county commissioner, a farmer, and a lifelong Minnesotan. He has used his skill in building partnerships to help solve difficult problems. He was first elected to his post in 2020, and he has been able to use his experience as a farmer and the former President of the Minnesota Farm Bureau, which he ran for 16 years, to really make the case on the local level about what we need to do to move ahead in rural America. He is a fourth-generation farmer. I have been to his farm, and with his neighbors. My favorite memory is one of his neighbors, who had watched Meet the Press for three weeks because I was coming over, so he felt that would prepare him for having a hamburger with me. He enjoys time with his family, his wife Julie, of 40 years, two grown sons, and two grandsons. We welcome Kevin Paap to the Committee. Thank you very much. Senator Welch. Thank you, Senator Klobuchar. I will now turn to Mr. Brady. You are recognized for five minutes. STATEMENT OF TED BRADY, EXECUTIVE DIRECTOR, VERMONT LEAGUE OF CITIES AND TOWNS, WILLISTON, VT Mr. Brady. Thank you so much, Chairman Welch, Ranking Member Tuberville, and members of the Committee for having me here today, and more importantly, for bringing attention to and helping rural communities prepare for and respond to and be more resilient to future natural disasters. I am the Executive Director of the Vermont League of Cities and Towns, which is a municipal association that every one of your States has in it. We exist to serve and strengthen local government, to help them solve problems. As Vermont's own Calvin Coolidge said, ``Local self- government is one of our most precious possessions. It is the greatest contributing factor to the stability, strength, liberty, and progress of the Nation.'' I urge Federal lawmakers to consider partnering with us in the Federal, State, and local partnership to try to solve this Nation's most vexing problems. Today I am asking you specifically, and asking Congress, to consider improving the way that it helps local governments invest in infrastructure, both physical and civic infrastructure, and specifically as it relates to natural disasters. The need for this capacity improvement escalated quickly one year ago today when we received as much as nine inches of rain, a full season's worth of rain in one day, which in Vermont we have these things called mountains that don't let the rain settle. It all comes rushing down into our valleys. The result was more than $200 million of FEMA public assistant eligible damage to municipal infrastructure, from roads to bridges to wastewater systems to town halls. Like in Minnesota, our stress on dams, as well. We have firsthand experience assessing those damages. We are an insurer. We provided $10 million of payouts to municipalities as a result of that. We see a huge problem as these events occur more and more often. About 15 percent of all the infrastructure we insure at VLCT, about $500 million sits in FEMA high-hazard flood zones, which will only grow as new FEMA maps come about. Hundreds of mayors, select board members, and others contacted us starting the moment the flooding started. At first they asked us for help accessing mutual aid from neighboring towns, called us for help looking for how to reach the Emergency Operations Center. In the days following the flood we became a central clearinghouse. Since then, we have answered hundreds of questions about FEMA public assistance eligibility, with a lot of questions about what kind of procurement policy do you need to qualify for FEMA, and perhaps more disturbingly, how much do we have to pay a consultant to do this FEMA work for us, because we can't handle it ourselves. While our Regional Planning Commissions, our Emergency Management Office are the primary players, VLCT has had to step in to help with capacity. The State of Vermont, USDA Rural Development, along with other have held disaster preparedness calls weekly and disaster recovery calls weekly. In these calls we have found that the fundamental thing that we need to do differently is that municipalities need to have a better grasp on municipal finance operations and management practices before the storm. You may know this, that wonderful thing called USDA Rural Development that you have jurisdiction over is one of the only Federal programs that provides capacity to rural communities. Through its Rural Community Development Initiative it provides technical assistance funding to spur community and economic development in rural places. All 20,000 cities, towns, and villages in Vermont, as well as tens of thousands of nonprofits, compete for a whopping $5 million in that program this year. Fortunately in Vermont, our USDA Rural Development Office was there for us after the disaster. They are not a primary response agency, but they are a support agency. They identified $1 million in the RD Disaster Assistance Fund that helped us enter into a cooperative agreement, where we are supporting municipalities with direct one-on-one technical assistance in times of need and to help them apply for Federal resources. This is flexible funding. There is an old saying in community and economic rural development, ``Once you've seen one rural community, you've seen one rural community.'' I don't think that can be better explained than the fact that Commissioner Paap and I are sharing this table. We don't have county government in Vermont. They have a very functioning county government in Minnesota. This difference is sometimes not articulated well in the policies that come out of Washington because it is so different, and that one-size-fits-all thing threatens effective disaster preparedness and recovery. This cooperative agreement has a long list of things in that we are doing at RD. I am happy to answer those questions. I have also submitted what we are doing in my full written testimony. Rural municipalities know how to work with RD. RD has staff in our communities that build trusting relationships. Using those relationships to prepare and respond to a disaster are really important. I have to put a plug in. Our RD Office is down 30 percent in staff. On behalf of every city, town, and village leader in Vermont, thank you for taking the time to consider how to make these programs work better for us, to prepare for and respond to disaster.  Senator Welch. Thank you, Mr. Brady. Now I recognize Ms. Moore. STATEMENT OF JULIE S. MOORE, PE, SECRETARY, AGENCY OF NATURAL RESOURCES, STATE OF VERMONT, MIDDLESEX, VT Ms. Moore. Good afternoon and thank you, Chairman Welch, Ranking Member Tuberville, and the members of the Subcommittee. I am Julie Moore, the Secretary of Natural Resources for Vermont, and have served in this capacity for about eight years now. By training I am a civil engineer and registered professional engineer in Vermont, and I mention that because I'm going to talk a lot about water and wastewater infrastructure. I appreciate the opportunity to offer my perspective on these critical infrastructure needs facing Vermont's rural communities, which are being driven by concurrent challenges of aging systems, a shrinking user base, and the impacts of a changing climate. Today's hearing is particularly timely, as you alluded to Chairman Welch, in that one year ago today Vermont watched a storm system drop as much as nine inches of rain across the State, which caused massive flooding, hundreds of millions of dollars in damages, and impacted liberally thousands of homes and businesses, damaged municipal and State infrastructure, caused landslides, and compromised dams. While that widespread damage from the July 2023 storms attracted significant national attention, the fact of the matter is since 2010 Vermont has had 22 flood-related Federal disaster declarations, nearly two per year, and up from an average of one every other year throughout the 1960's, 1970's, and 1980's. Clearly, more frequent and more severe storms are our new normal, including today, with Vermont forecasts calling for multiple inches of rain as the remnants of Hurricane Beryl pass over the Green Mountains. I see the key to building resilience as consistent investment and municipal water infrastructure, and let me tell you why. First I think it is important to frame the issue and some of the challenges we are facing. Small rural States like Vermont are challenged to fund essential investments in water infrastructure without our Federal partners, especially in and immediately following natural disasters. For perspective, Vermont has 417 community water systems serving just about half our State's population, 300,000 Vermonters, but almost 75 percent of those 417 systems serve a population of less than 500 people. Most have volunteer boards with volunteer, part- time operators. During the July 2023 storms, 18 systems, serving about 40,000 Vermonters, sustained significant impact to their drinking water infrastructure or operation that required Boil Water notices or Do Not Drink notices. The story was even more challenging the wastewater side. Vermont has 92 municipal wastewater facilities that serve mainly small rural communities. About two-thirds are permitted to treat less than 100,000 gallons a day, which I see as an indicator of the small rural population they serve. More than one-third of these facilities, 33 in total, sustained damage during last July's floods, totaling more than $75 million. Three facilities, including the one you mentioned, Chair Welch, in Johnson, will require extensive rebuilding and possibly even relocation. Unfortunately, most of these small utilities do not have capital available within their annual budget to make these kinds of significant, unanticipated repairs. While ultimately a significant share of the cost of the infrastructure repairs following a natural disaster is covered by insurance and FEMA reimbursement, there is an upfront cost to this work which can be substantial, and immediate cash-flow is critical, helping ensure communities make decisions around recovery and reinvestment based on what will serve them best in the long term, as opposed to being limited by what they can afford in the immediate. I saw this firsthand in the weeks following last July's floods. In speaking with leaders in some of the most flood- ravaged communities, it was clear that they were leveraged to the hilt and had exhausted market-rate private capital available to them to make emergency repairs and restore services, limiting the resources needed to plan for how they can build back smarter. In response, I convened a Funder Summit involving my staff responsible for administering Vermont's State Revolving Fund programs, the Vermont Municipal Bond Bank, State Treasurer's Office, and USDA Rural Development. Over a period of weeks we cobbled together a complicated and tenuous funding stack to meet the same need that would be better addressed, I believe, through the Rural Recovery Act and the enhancements it would make to the Disaster Assistance Fund. I cannot overstate the importance of having available, flexible, low-cost or no-cost money that can be deployed quickly following a disaster. There simply isn't time to wait for Congress to designate and appropriate additional disaster- related funds to support the work that needs to happen on the ground in those moments of need. Ideally, a robust Disaster Assistance Fund would include budget authority, provide flexibility around RD's water and environmental programs immediately following a disaster. Changes would also be helpful to increase RD's authority to issue waivers, to expedite funding to meet real-time needs and streamline procedures that can be extremely difficult for smaller communities. In closing, one of the most important collaborative relationships my agency has in the drinking water and wastewater space is with USDA Rural Development. Rural Development supports cost-effective investments in community infrastructure and partners with us on long-term disaster recovery. The Rural Recovery Act would establish and expand this essential partnership, helping ensure that immediate financial challenges following a disaster don't perpetuate vulnerabilities and increase long-term costs, but instead support our rural communities in developing and implementing considered and durable solutions in the wake of natural disasters. Thank you for your consideration.  Senator Welch. Thank you very much. I recognize Mr. Paap. I am going to have to go vote, and I am going to ask Senator Smith if she would chair in my absence. Thank you. STATEMENT OF THE HON. KEVIN PAAP, COUNTY COMMISSIONER, BLUE EARTH COUNTY, GARDEN CITY, MN Mr. Paap. Chairman Welch, Ranking Member Tuberville, and members of the Subcommittee, thank you for holding today's hearing. My name is Kevin Paap. I have represented the National Association of Counties. As a Blue Earth County Commissioner, fourth-generation farmer, emergency medical services instructor, past volunteer firefighter, and Minnesota Farm Bureau President, I have witnessed firsthand the impacts of natural disasters on rural communities. As a farmer, whether it is a fence or a farm bill, farm building, I think about four corner posts. Please consider these four corner posts in the county's role in disaster planning, response and recovery, in how Federal policy can building resiliency to natural disasters in rural America. The first corner post. Natural disasters have become more frequent, more severe, and more costly. Last year, 849 counties experienced at least one federally declared major disaster. Minnesota has not been immune to these trends. We have been impacted by seven separate billion-dollar disasters in 2023. Corner post No. 2. County governments are on the front line of disaster response and recovery. County governments are responsible for local emergency response, with county-elected officials and emergency managers leading these efforts. We also support the operation of hospitals, maintenance of public roads and bridges, and invest significant funds in building public infrastructure and maintaining and operating public works. To protect our investments, county must develop preventive plans to mitigate risk and determine how to respond when a disaster unfolds. Water and wastewater infrastructure are critically important, and particularly vulnerable during natural disasters. During the recent flooding in Blue Earth County, our county-owned Rapidan Dam infrastructure failed, causing significant damage to public and private property along the Blue Earth River. Thousands of aging rural infrastructure projects like our Rapidan Dam pose a threat to communities in future disasters without adequate support. Corner post No. 3. Natural disasters not only disrupt the lives and livelihoods of our residents but also put heavy burdens on rural counties. Rural counties are often hindered in our ability to manage emergency response and recovery efforts due to limited personnel and limited funding. These capacity challenges can lead to prolonged disruptions to infrastructure and services as well as extended recovery periods and economic loss for residents. Addressing these issues by building rural capacity through technical assistance or direct funding can help protect residents and promote long-term prosperity. Existing USDA Rural Development programs, such as the Community Facilities Program and the Emergency Water Assistance Grants Program are important for supporting rural communities during and after natural disasters. While these programs can be a lifeline for rural areas hit by disaster, consistent funding shortages at Rural Development mean that these programs may not be able to help as many communities as needed. Corner post No. 4. The farm bill provides a unique opportunity to improve rural disaster resilience. NACo urges the following provisions be included in the 2024 Farm Bill to bolster rural capacity building: The Rural Partnerships Program, which would provide flexible grants to rural communities to help them respond to a wide variety of urgent needs, including disaster preparedness. By improving the capacity of rural communities, the program can make sure rural counties are better equipped to protect residents from natural disasters. Permanent authorization for the Rural Partners Network. This USDA-led initiative places Federal employees in rural communities to improve collaboration with our Federal partners and help the local governments navigate Federal funding opportunities. Although it is a small program, it has managed to turn its $11.5 million budget into over $3 billion in Federal investments in participating rural communities since its creation in 2022. Passage of the streamlined Federal Grants Act. This bill would make it easier for local governments, including rural communities, to access Federal resources and grant opportunities by simplifying the Federal grant administration process. Chairman Welch and Ranking Member Tuberville, thank you for inviting me to share Blue Earth County's story. Counties look forward to working with you to build a stronger, more resilient rural America. I appreciate the opportunity to testify, and look forward to your questions.  Senator Smith.  Thank you very much, commission Paap, and we will now hear from Mr. Bohlin for five minutes. STATEMENT OF MARK D. BOHLIN, GENERAL MANAGER, PERDIDO BAY WATER, SEWER, AND FIRE PROTECTION DISTRICT, FOLEY, AL Mr. Bohlin. Good afternoon, Chairman Welch, Ranking Member Tuberville, and members on the Committee. I am deeply honored to be here today. I would like to extend my personal gratitude to Senator Tuberville for his invitation and stalwart leadership for Alabama's rural water and wastewater sector. I am the General Manager of the Perdido Bay Water, Sewer, and Fire Protection District and serve as the President of the Alabama Rural Water Association, where I represent Baldwin, Mobile, and Washington counties, serving a population of over 630,000 Alabamians. Perdido Bay is a nonprofit organization that was incorporated in 1973 to deliver drinking water to the communities of Lillian and Perdido Beach. We started with 600 customers, with direct assistance from the Farmers Home Administration, the precursor of Rural Development. Fast forward almost 50 years and Perdido Bay continues to take advantage of the affordable low interest rates provided through Rural Development. If I may, I would like to express my gratitude to this Committee for its unwavering commitment to the success of these initiatives. There is sentiment that billions from the American Rescue Plan Act and the Infrastructure Investment and Jobs Act will meet industry needs, but much of this funding benefits larger systems. The Alabama Department of Environmental Management has done great work supporting rural communities. However, this positive trend in Alabama is not seen nationwide. Predominantly rural States like Alabama benefit from a political landscape that directs more funds to rural areas. It is critical to emphasize that these additional funds are not permanent, and small and rural communities heavily depend on Rural Development to maintain and enhance their utilities and affordable services. According to the most recent EPA drinking water survey, a 20-year capital improvement assessment for both urban and rural communities totaled $625 billion in needs. Currently, we face challenges including PFAS treatment, cybersecurity upgrades, work force development, and compliance with Federal mandates like the Lead and Copper rule. Inflation and supply chain issues also heavily impact small water utilities. We urge the Committee to ensure USDA's Rural Development program has the resources needed to help rural communities address these challenges now and into the future. During my 25-year tenure serving as General Manager of my utility I have experienced numerous storms and two direct hits by Hurricanes Ivan and Sally. During Hurricane Ivan, we did not have resources and manpower to adequately respond. For Hurricane Sally, we relied on the direct assistance from ARWA to fill this void. In cooperation with National Rural Water Association and other State Rural Water Associations, Alabama Rural Water Association brought in emergency response trailers, generators, and manpower. They set up a command center at my utility where they coordinated with Alabama's Emergency Management Agency, deploying staff and resources to surrounding water and wastewater systems. Within a week, operations were restored to normal. For decades, NRWA and State Rural Water Associations have served as the leaders in disaster recovery in many States. Unfortunately, there has been no dedicated Federal funding to enhance or expand this activity beyond the limited assistance currently provided under the Circuit Rider Program. Preventative measure and post-disaster assistance are equally important. Having dedicated, onsite, and experienced full-time staff will greatly improve services for rural utilities. We are grateful that Congress responded with pending bipartisan legislation in both the House and Senate. The Rural Water Systems Disaster Preparedness and Assistance Act, if enacted, this approach will fund and authorize pre-and post- disaster activities. This includes creating vulnerability assessment, disaster action and mitigation plans, geographic mapping and hardening facilities. Post-disaster support will help with applying for Federal and State funding and meeting reporting requirements necessary for reimbursement and other needs. After the devastating impact of Hurricanes Katrina and Rita, NRWA established a permanent standing Emergency Response Committee. This committee meets regularly to coordinate and review response efforts nationwide. In summary, I firmly believe that with additional Federal authorities, effective collaboration, thoughtful planning, and mutual aid, we can address the challenges of emergencies and enhance the response, recovery, and resilience of rural water and wastewater systems nationwide. Our State Rural Water Association stands ready to continue providing these services. Thank you for the opportunity to testify. I am ready to answer any questions you may have.  Senator Smith. Thank you, Mr. Bohlin. Now we will turn to Mr. Kimbro for five minutes of testimony. Thank you. STATEMENT OF BRAD KIMBRO, GENERAL MANAGER AND CEO, WIREGRASS ELECTRIC COOPERATIVE, ASHFORD, AL Mr. Kimbro. Thank you. Chairman Welch, Ranking Member Tuberville, and members of the Subcommittee, thank you for the opportunity to testify today. On behalf of Wiregrass Electric's roughly 18,000 consumer members we sincerely appreciate the Committee's interest in natural disaster and rural infrastructure issues. Wiregrass Electric Cooperative (WEC), is a distribution electric cooperative in its 84 years of operations, providing affordable, reliable electricity to homes, farms, businesses in the Wiregrass region in southern Alabama. As a cooperative, we are member owned and controlled. The cost of running our electric utility is shouldered by our member owners. Electrification of the Wiregrass region was only possible because the Federal Government offered low-interest loans beginning in the 1930's. Fast forward to today, WEC continues to borrow money through the Rural Utility Service Electric Loan Program in order to keep the lights on, and at a price that families can afford. Roughly 25 percent of our consumer members struggle to pay their electric bill each money. Low-interest RUS electric loans help us keep costs affordable. Our job is to reliably deliver affordable electricity to our consumer members 24 hours a day, 7 days a week. During thunderstorms, windstorms, floods, hurricanes, and other weather event we work hard to keep the lights on, and in the event of an outage, our mission is to safely restore service in the most timely fashion. In my 30 years in the electric utility cooperative industry I have witnessed and managed recovery efforts for over a dozen hurricanes and tropical storms. This includes powerful Category 5 Hurricane Michael that hit our WEC service territory in October 2018. Hurricane Michael resulted in $8 million in additional costs for WEC. We were able to work through our already approved RUS workplan to respond and rebuild after this storm. Unfortunately, not every co-op can continue to work under their co-op's current RUS workplan after this type of storm events. To obtain a new RUS electric loan a co-op is responsible for submitting extensive paperwork and go through lengthy approval processes. For this reason, obtaining a new RUS electric infrastructure loan for rebuilding after these type storms is usually not a viable option. Instead, many electric cooperatives need quick financing after natural disasters, so they turn to a private lender or draw down an existing line of credit to pay for storm response and infrastructure repair. These loans come with higher interest rates often. While electric cooperatives are eligible for 75 percent reimbursement under FEMA's Public Assistance Program, our members, after Hurricane Michael, still had to absorb the remaining 25 percent, or around $2 million. Additionally, recouping the interest accrued on those loans or lines of credit just adds to the financial burden. Thankfully, which Hurricane Michael public assistance process was relatively smooth, that is not always the case for every cooperative. I am aware of other electric cooperatives still dealing with reimbursement issues related to Hurricane Michael. The same is true with other storms that hit the Gulf Coast in the last five years. The longer reimbursement takes, the higher the interest expense, which is ultimately passed on to the cooperative's consumer member. Also it is important to remember that responding to a disaster is not just about physical damage. These storms take an emotional toll. We are a co-op of around 60 employees. Our linemen perform dangerous work during these times, when their families' well-being and financial situations are uncertain. This impact is really difficult to measure. In closing, Wiregrass Electric is dedicated to delivering affordable, reliable electric service to Alabama households, businesses, farms, and our communities. Nearly 900 electric cooperatives across the country have similar community-focused missions for the areas they serve. As this Committee works on rural infrastructure issues, I look forward to continuing to work with you toward our shared goal of improving life in rural America. I am happy to answer any questions you all may have. Thank you.  Senator Smith. Thank you very much. Thanks for all your testimony. While the Chair is returning from voting we will begin our round of questioning, and I will start. Oh good, here is the Chair. I want to thank Senator Welch and also Ranking Member Tuberville for holding this hearing right now. As Commissioner Paap indicated, in June Minnesota was hit by very heavy rains. I know these also affected Iowa. Senator Ernst, I was talking with Senator Grassley about this, as well, heavy flooding. Senator Klobuchar and I led a delegation letter to the President asking for major disaster declaration. I know that the USDA has offered disaster assistance to Minnesota producers. The Federal response to helping Minnesota is at the top of my mind right now in the wake of these floods. As Commissioner Paap said, the Rapidan Dam, which is in Commissioner Paap's county, was breached during this heavy rainstorm, and 11.6 cubic yards of sediment were released, overtaking a house and power infrastructure. It was really quite incredible. This was a 100-year-old dam and in need of repair, major repair, even before the flooding, that closed it in 2020. I think the story and the experience of Blue Earth County is a good story for us to be thinking about as we consider the burden that falls on counties as we are responding to these disasters all over the country. Commissioner Paap, let me just ask you a question about this. Can you just talk a bit more about why it is so important to help rural communities that might not have the staff power, rural communities and rural counties that might not have the staff power to go after Federal grants and resources in ways that much larger, better staffed, I would say, urban counties might have. What does that mean in terms of your resilience when it comes to these disasters? Mr. Paap. Madam Chair, thank you for that question. You learn a lot after a disaster. Thankfully, we do not have them every day so we do not become that well versed. There are many times, especially with smaller communities, smaller counties, local governments, you do not have the capacity, whether it is personnel, whether it is resources. Quite frankly, you do not know what you do not know. We need that help to do that, and not only is responding, certainly with the Rapidan Dam, our No. 1 goal was the safety and the health of our residents, and that is the No. 1 goal of all local governments. As we get through that and respond and go through the process we need assistance. We do not know what we do not know. We have maybe never done this before. Many counties do not have the expertise. They do not know what is available. I guess I would just ask that we all work together the best we can. You know, as a farmer you learn at an early age, from your dad or really probably from your grandpa, that working together works. I would just ask that whether it be the Federal, State, or the local governments we do as good a job as we can to work together. When a disaster strikes, the rest of the activities in the county do to come to a standstill. Senator Smith. That is right. Mr. Paap. We had county employees that went above and beyond, spent days and days onsite. There are still other things going on in that county that have to be covered. Certainly a thank-you to all of our Blue Earth County employees for the great job they did and all over the country. We really need some assistance because we do not know sometimes what is available or we do not have the resources to access that technical assistance. Senator Smith. Right. Well, thank you very much. I really appreciate your comments. I want to just point out, and then I am going to wrap up my questions, Mr. Chair, I want to point out that a propos what you are talking about, the farm bill framework and proposal that Chair Stabenow has put out includes the Rural Partnerships Program, which is this public-private partnership to help rural areas apply for and access Federal money. I think this is very important. I think this is a strength of the Chair's proposal over the House proposal, and I hope that we can keep that in mind as we think about what we can do to support rural communities as they are seeking Federal funds to help them do their jobs. Thank you very much, Mr. Chair. Senator Welch.  Thank you. The Chair recognizes Senator Tuberville. Senator Tuberville. I would like to pass my time to Senator Ernst. Senator Welch. The Chair recognizes Senator Ernst. Senator Ernst. Thank you, Mr. Chair, and thank you, Ranking Member. I certainly appreciate it. I want to thank all of our witnesses for being here today, as well. Now more than ever, as you have seen, just disasters across the United States. I can say that your testimoneys, and, of course, the challenges that have been described are shared among many of my Iowa communities. Again, thank you so much. Just a couple of weeks ago, as Senator Smith had referenced, we saw a lot of flooding coming through the northwest corner of my State. We saw heavy rainfall that caused major flooding up and down the Missouri River. Of course, it did impact Minnesota. It impacted North Dakota, South Dakota, Nebraska, Iowa. In a matter of hours we saw hundreds and hundreds of families that had their homes destroyed. We saw helicopter rescues. We had boat rescues in communities. We had just so many small businesses that were in total ruin. The roads and bridges completely swept away. Water and electrical systems ceased operations, and, of course, Iowa, known for its crops, we had a significant amount of crop damage under feet of flowing water. Large portions of western Iowa saw similar destruction earlier this spring when we had tornadoes. Iowa seems to have been the epicenter this year for so many different events. We had a number of communities that saw 60 percent or more of their homes destroyed by tornadoes. Following each of these disasters I was able to go out and visit with our constituencies, the Iowans, and personally hear their testimoneys. In previous disasters, having served in the National Guard, had deployed to many of those types of events through the years, and we really are Iowa strong. I certainly saw the best of our communities. Anyway, Mr. Paap, thank you, and thanks for being here. I know that you have seen so many of these similar situations and a lot of swift response from those local emergency management teams. What I would like to do is just dive in a little bit different. You have mentioned access to resources, understanding where and how to go about getting those resources. Have any of the farmers that you have worked with faced challenges when they do go to the USDA or the Small Business Administration? Maybe walk me through gaining access to some of those larger Federal agencies. Mr. Paap. Mr. Chairman and Senator Ernst, thank you for that. As you look at agencies in agriculture, of our 128-year- old family farm, probably the best relationship is always USDA because that is the agency that is used the most in agriculture every year, through farm programs or whatever it would be. As you broaden out to Rural Development and then into the other agencies you do not have that relationship, and many times, quite frankly, you do not have that local, that county FSA office where you know the folks there. Even if you do not know what you do not know, you know who to ask. As we get into disasters and other things and programs, sometimes people just aren't sure who the right person is, so that is why we really feel it is important to get that information out to those ag producers, and not just the farmers and ranchers but those rural communities that have been affected by that weather. I think agriculture, like everything else in life, we can always do better. We want to work on continuing improvement. I think there are many things we can improve on in that coordination. Really the key to coordination is communication, and we can always do better communicating with those rural residents. Senator Ernst. Yes, agreed. Then responsiveness, once you have found the go-to person, whether it is at the FSA or any other local agency, maybe even in your capital city, or responding here in Washington, DC, the response times, do you find that those Federal agencies get back to you in a reasonable amount of time? Mr. Paap. Well, serving on a local ambulance and fire department for 29 years, nobody ever said you got there too soon. You know, ``What took so long?'' I think that is the case, as well. I do think as we look at this process, whether it is applications, whether it is limiting the number of pages that are involved, or if it is response time how any days, we want to know what that timeline is. We know things cannot happen overnight, but when can we, or should we, expect an answer. Again, I would go back to continual improvement. I believe this process can and should be improved. Senator Ernst. Thank you, and thank you, Mr. Chair. I think Mr. Paap gets quote of the day. Thank you. Thanks to all of you. Senator Welch. Thank you, Senator Ernst. I want to recognize our Ranking Member. Thank you for all the great work you have done on this Committee and the support you have given me and Senator Tuberville on this Committee, as well. Senator Boozman. Well, thank you, Mr. Chairman. I have got to run. I just want to thank you two. This is really what the Ag Committee is all about, and this hearing is excellent. You all have done a tremendous job. You know, we hear all about the rancor up here and the this and that, but this is just everybody working together, trying to figure out a solution to a really significant problem. Thank you for your testimonies. Very, very helpful, very incisive. I am going to get out of your way so you can actually get some good things done. I do want to compliment you two and your leadership, and example. I know it is hard with Senator Tuberville.  Senator Boozman. We appreciate you. Senator Welch. Thank you, Senator, and thank you, Senator Ernst. The Chair will recognize himself. Mr. Brady, what was the biggest challenge that the rural communities that you work with throughout Vermont face in identifying and applying for Federal Disaster Assistance funds, including the funds from USDA RD? Mr. Brady. Thanks for asking, Mr. Chairman. Simply put, it is capacity. In Vermont, of the 247 cities and towns and another 31 or so villages, less than half, about 40 percent, have professional career staff to help manage the town, which means the person writing the grant application is oftentimes a Select Board member who works in a garage, works on the farm, you name it. They are doing it after hours. That means 60 percent of Vermont does not have professional capacity to deal with these things. When the Federal Government stands up a grant program that needs to be applied for, and you need to follow the rules to apply, then administer, and then follow the reporting requirements, you know, 60 percent of the time it does to work every time in Vermont. It is really overwhelming. A quick couple of stories. Marshfield, Vermont, population 1,583. Last July's flooding resulted in $4 million worth of damages. Their budget is $1 million. Their annual budget is $1 million. They do not have a career manager, which meant it was up to the elected town clerk, whose town has nothing to do with disaster management, to manage a disaster. She called us and said, ``I need to write an RFP. I need an engineer. I need a consultant. I don't know how to do this. None of my Select Board members know how to do this. Where do I go for help?'' Down the road in Cabot, Vermont, the Governor yesterday was at a fire station that was destroyed, red-tagged by public safety after the July flooding. The chairman of that Select Board came to us and said, ``How do we afford to hire help? We don't have any money. Who is going to actually do all of this work for us?'' They had no capacity. The town of Weston, population 566, famous for the Weston Playhouse, a wonderful, bucolic, incredible little town in south central Vermont. They faced the fact that the Select Board, Jim Linville, called us and said, ``We are overwhelmed. We are a tiny town. Our volunteers are exhausted. We don't have any expertise. Who are the consultants we can work with?'' Jamaica, Vermont, southern Vermont, population 1,030. The 2023 floods resulted in $1.6 million in damage. That does not sound like a lot. You know what is a lot? That $1.6 million was in 77 different FEMA public worksheets. They have very little professional capacity in Jamaica. Senator Welch. Thank you, yes. Mr. Brady. Who is going to do those? Senator Welch. Thank you. Thank you very much. Those are very vivid and very real, and I have got to take the Ranking Member to some of those towns. I want to ask Ms. Moore, the last major flooding was during Hurricane Irene, I mean, preceding last year. We did some resilience work in that. I want you to just describe how those investments in resilience--not just building back the same built building back better, with the threat of another storm-- how did those investments help the State's infrastructure withstand flooding last year? Ms. Moore. I think they were critical. I want to highlight two specific examples of investments Vermont made following Tropical Storm Irene. The first was more generally in enhancing what we refer to as our codes and standards, and that governs the sizing of culverts and bridges as they are replaced around the State of Vermont. We modernized our codes and standards to reflect the kinds of rainfall patterns we are seeing in the 2020's as opposed to what we were seeing in the 1960's, which had been the rainfall data driving much of our design. As a result, structures that were replaced following Tropical Storm Irene, with appropriately sized structures for our current climate, only one was lost during the 2023 floods. The overall damage to our road and bridge infrastructure was significantly lower than it was. Some of that is a reflection of the type of storm we saw last July, but I think a lot of that is a reflection of changes we have made and how we size our infrastructure. The other one I would point to is our Waterbury State Office Complex. This is a building that houses over 1,000 State employees and was closed for literally six years following Tropical Storm Irene, when the Winooski River flooded the complex and frankly filled the basement of that building with water. We rebuilt, filling the basement with flowable fill, elevating all of the building's utilities. The Winooski River flooded again last July, but the damage was really limited to the parking lots, and that facility was reopened within two weeks' time. It is just such a night-and-day difference how strategic investments in hardening as well as resiliency can help us withstand a wider range of weather events. Senator Welch. That is very helpful. Based on your experience do you have some suggestions on what steps Congress can take to ensure that USDA RD resources help communities rebuild in the wake of disasters. Ms. Moore. Yes. I think, as I alluded to in my remarks, that immediate cash-flow is really important. It is very hard to go to the communities that Ted just described with his examples, in the throes of a disaster, and suggest what they really need to do with a planning study or an engineering assessment. RD has the technical know-how and capacity to support communities in thinking through what the best long-term decisions are, as well as the ability to bring contracted resources to bear that oftentimes these communities do not know where to start. It is a partnership, but just knowing where to turn with those important questions, being able to not just react in the moment but think for the long term, and having partners that stand ready and available to provide that kind of support in the moment is really essential. Senator Welch. Thank you very much. That is very helpful. I recognize Senator Tuberville. Senator Tuberville. Thank you, Mr. Chairman. Mr. Bohlin, work force is going to play a large role in the next few years, decades, especially in our rural areas. Now my understanding is you have an apprenticeship program in your water area. Could you tell us a little bit about that? Mr. Bohlin. Thank you for the question, Senator. As you mentioned, we are members of apprenticeship program that is provided through Alabama Rural Water that they have put together with the Labor Department. First off I would like to say, you were talking about the aging work force, I am one of them. I am getting to an age where I am looking at retirement. Our system currently, right now, has six certified operators. Of those six certified operators, four of us are at retirement age or quickly approaching. In fact, I have got one operator that is retiring this month. It is imperative that we can get young people involved, hired, in the system, and get them trained, provide the proper training. We have found out, by partnering with the Alabama Rural Water Association and the apprenticeship program, that they can provide an avenue that we can get our employees classroom time to get the education that they need in order to pass the certification, State certification, so that they can become licensed to operators. It is also hands-on, work under a mentor type program. I am proud to say that right now, we have got one employee that is in the apprenticeship program. He is fixing to finish it. He has already acquired his Alabama State certification. We have got another employee we are fixing to put in there. I would also like to mention that the employee that we have in the apprenticeship program right now that is finishing up will be the first graduate in the State of Alabama in the apprenticeship program. I feel that it is very important, Senator, that we look out for young people and try to bring them into the field and get them involved and that we have ways to get them educated, and also give them the tools that they need so that they can go out and make the taps, put in the services. Senator Tuberville. Do you have any recommendations for the farm bill that we are putting together for work force development? Mr. Bohlin. Yes, sir. As you know, the apprenticeship program was started with Rural Development funds back in 2018. Coming forward, anything that we can get in to help with the technical assistance and training that is in the farm bill, if we can get any more help in there I honestly believe that that would be of great benefit to us. Senator Tuberville. Mr. Kimbro, Do you have any work force development in your area? Mr. Kimbro. Yes, sir, Senator, we do. We work with our local and regional, State, to do that. Yes, sir, sure do. They are successful at it. You know, the success of businesses moving in is to have the people to employ, and that is very critical. Senator Tuberville. You know, most people don?t know where your region is in your part of Alabama. You are not actually on the Gulf, but you do see quite a bit of devastation from tornadoes to hurricanes as we saw a few years ago. Mr. Kimbro. Right. Senator Tuberville. You have huge problems with electric and water anytime that we have this devastation. Speak to the importance of being able to utilize all energy sources, like natural gas. Tell me about your experiences with that. Mr. Kimbro. Yes, sir. Well, as CEO of Wiregrass Electric Cooperative, I am concerned about reliability and affordability. They are both important. We would like to see an all approach, where one size does not fit all. We certainly depend on a lot of generation resources, and we need that capacity. Certainly, after these storms, the reliability is very, very critical, and having access to that affordability and reliability is critically important as we move forward in this country. Senator Tuberville. Yes, I would like to ask all of you this question, if you want to add in onto this. What problems do you see with smaller water systems as compared to larger water systems, Mr. Bohlin, we will start with you, in terms of getting funding. How do we fight that problem for rural areas? Mr. Bohlin. Thank you for the question, Senator. Going through the RD apply process can be very tedious and cumbersome. I have done it myself before, and it takes time. You have to provide engineering reports, as a lot of these other people have testified today. You have to fill out all their paperwork, get budgets together. They want 5-year capital improvement budgets, and they want your audited reports. There is a lot that goes into it, and fortunately we have got enough people at our system that I could do it myself and work through the process, along with our engineering firm. There are so many water systems throughout the State of Alabama that do not have the people and the resources to do that themselves, and there does need to be a vehicle where they can assist these smaller systems. That is one of the things that Alabama Rural Water does supply. They have people, and they have the resources. They can go out and they can call on these smaller systems if they have a need. If they reach out and they say, ``Hey, we want to apply for some Rural Development funds,'' they have got the people that can assist them and get these applications filled out and turned in. Senator Tuberville. Mr. Kimbro? Mr. Kimbro. Yes, sir, Senator. Infrastructure is so important--water, sewer, electricity, broadband, everything for our community. In rural America, which I represent, if you do not have those things then people are not coming, businesses are not coming, they are not providing jobs, they are not providing hope for quality of life for our rural America. It is majorly important. I would just say that the programs that are in place, like the Rural Utility Services Program, RUS, FEMA after natural disasters, those are really helpful programs that really help rural America not be left behind, and that is majorly important. Senator Tuberville. One more question if I could. Senator Welch. All you want. Senator Tuberville. All I want? Good. I want everybody to answer this. Manmade disasters, cyberattacks. Who wants to start? Have you had any problems with it? How did you overcome it? What do you see down the road to be able to stop it? Have at it. Go ahead. Mr. Bohlin. Yes, sir. Thank you for bringing up that subject. At our water system 10 years ago we ended up getting, I don't know, we think it came through email, but we ended up getting ransomware-ed. They locked all of our files up. We could not access any of our customer files. We could not get into any of our company files. Fortunately, this happened on a weekend, on a Friday, and it was a long weekend. I believe it was Labor Day weekend. We have an IT team that works with us. We were able to call them in. They were able to come in and take all of our servers offline. They stripped the hard drives and got everything off of it. They reinstalled the software. They put the data and everything back in from backups, to get us back up and running. It is a real threat. I am afraid that it is growing right now, and there are a lot of things that need to be done. I think that training and technical assistance in that area is greatly needed. It is scary when you are in a situation like that, you know. Fortunately I can say that none of our customers' information was compromised, or none of our company's information was compromised. It is scary because you do not know what is going to happen. The funny thing about it, when we were hacked and they got into our files, they never sent anything wanting a ransom. They just tied everything up. That's our experience. Senator Tuberville. Anybody else? Mr. Kimbro. Yes, Senator. We actually had a cyberattack hit our system July 3rd of 2021, and we were down 4 days, mostly without a precaution, just going through things, just making sure we did not bring it back up before we knew we were safe. It a real concern. Spent a lot of resources, human resources, dollars, of course. The bad guys get smarter, it seems, every day, and what worked today they figured out so you are constantly chasing that. It is a very big concern. In some cases it locks us down to where it is not as friendly to do business with us as we would like, like speaking credit card information over the phone you can't do because you are not PCI compliant in those regards. Our members, we want to make sure their information is protected, certainly their financial information, credit card information and so on and so forth. It is a major concern, and we spend a lot of resources looking at it. Literally, I hope and pray every day that nothing bad happens. Senator Tuberville. Any other experiences? Go ahead. Mr. Paap. From a NACo perspective, and it does not matter which one of the 3,069 counties, parishes, or boroughs we represent, I think we have to recognize with cybersecurity it is not a fair fight. You know, the bad guys only have to be right once to win. We have to be right every day, every hour to win. There are many of those local governments that do not have the resources, do not have the capacity to make sure that they are state-of-the-art, and continual improvement on cybersecurity. I think it is only going to get worse, and it is something we have got to recognize. Ms. Moore. I would just offer we have been digging into this in Vermont, as well. Frankly, one of the saving graces, if it can be considered that, that we have discovered, is many of our smallest State systems are not actually connected to the outside world, and that is their best form of prevention. I do not know that that is long-term sustainable, and certainly comes with other costs. We are starting from square one oftentimes for locals that are connected to the internet, with some sort of remote access. Oftentimes folks have not even set passwords. Thinking to the minds of the bad guys who are constantly advancing, and we are still at the stage where many of these systems have the default passwords remaining in there as the access point is a challenging set of circumstances. There is an enormous need for education, understanding, building that awareness. Vermont is challenged by the fact that we do not have county government, as Ted has spoken to--250- plus municipal entities, 450-plus public water systems. Figuring out how to deliver those services in partnership with Vermont Rural Water is the direction we are headed. Senator Tuberville. Thank you. Mr. Brady. Thank you for asking. As the insurer for most of the State's water and sewer systems I can simply point to how hard it is to insure these things, and they are really uncovered. When these things do happen, oftentimes it is the town itself that needs to shoulder the burden, the system itself that needs to shoulder the burden, because that market is so hard because it is such a risk. Senator Tuberville. You cannot buy insurance for this? Mr. Brady. In Vermont you get a very minimal amount of coverage, not enough to restore the system in the worst-case scenario. Senator Tuberville. Interesting. Senator Welch. I want to just ask one question to the panel, and it is based on my observations of what happened to Vermont in Irene and a year ago. What I noticed, and this might be true in your communities as well, FEMA was really great right after the event. They showed up. They were responsive. They provided food, some temporary shelter, immediate cash, and that was combined with the extraordinary first responder response and neighbors in the community who all came out to help the folks whose home was flooded or business was under water. Then they leave, and they leave because they have another disaster--fire in Hawaii, Houston--and they have got to keep going. In the aftermath Vermont gets back on its feet, but if it is your home, if it is your farm, if it is your business, it is really tough, tough, tough. It is tough emotionally. It also really tough because then the folks who are coming to represent FEMA are not institutionally there. There are a lot of bureaucratic things, and this is where, Coach Tuberville, I really agree with the opening comments you made about the complexity of it. My view is that FEMA is just to set up for that long-term, follow-through situation. They have a principal job of that immediate disaster response. What I have seen in Vermont is that those local folks on the Select Board are totally engaged with their community on how do we fix this bridge. They are totally engaged with the fact that the grocery store in the small town needs to be reopened to help folks there. My view is that--and RD has been fantastic. The USDA has been that institution that has been the closest to the people. My view, and I want your reaction to this, is that we have got to redesign so that we drive down the resources to that local community where there are local people who are totally committed to the reconstruction as quickly, as efficiently, and as affordably as possible. It suggests to me, listening to Senator Tuberville, that this may be an area where we could provide some reform with the goal of empowering those local communities, where we have got the citizens who are invested in the follow-through and will answer the tough questions. Maybe just go down the line to get your reaction to that sort of outline of revised approach. Mr. Brady. Thank you for asking, Senator. What we find it seems long-term recovery approach really does put the recovery in the hands of local long-term recovery volunteers. It is imperfect, at best. To what you said before, projects do not get done in days or weeks or months when FEMA is there. Projects get done in years. I will give you an example. Londonderry, Vermont, down in south-central Vermont, got a FEMA mitigation grant post-Irene. Two weeks, three weeks, before the July 2023 flooding they finished that project, more than 10 years after the disaster. It was to raise a single residence house up out of the flood zone. That system does not seem to be working well. Killington, Vermont, paid off its last piece of disaster debt from Irene, which was 2011, the week before the 2023 flooding. That system does not seem to be working, so we would embrace it. I think the Rural Recovery Act that you have proposed would be an incredible opportunity for changing the way we do disaster response and have RD more involved. I think the Rural Partnerships Program that Commissioner Paap mentioned is also important for getting ready ahead of time for disasters. Senator Welch. Thank you. Ms. Moore. Yes. I would echo, actually, some of the comments Ted made in his opening remarks about the importance of financial, operational, and managerial capacity in many of our small rural communities, and I think that is where part of this disconnect is. FEMA has a lot of opportunities, but they tend to be complex and application intensive. We have a lot of passion and commitment on the part of the volunteers and town clerks who would go after those resources. What is needed in between is technical assistance and expertise, and to my mind, that is where I see the Rural Recovery Act coming in. USDA RD has the ability to sort of work between, with a foot in each of those worlds, and help connect that vision that the community holds to how you actually build that project on the ground, and that is a gap right now. Senator Welch. Yes. Any others? Mr. Paap? Mr. Paap. I would add that sitting in this room in the Ag Committee and Agriculture we have got a lot of commodities that are raised I this country. The most precious commodity we all have is time. Whether it is during the disaster or the recovery process, time is critical. Anything we can do to help with that process, to help with that coordination, I think would be important. Senator Welch. Great. Thank you. Mr. Bohlin. Yes, sir. Thank you for the question. As far as FEMA goes, when Ivan came through they were great. They were there with boots on the ground. They had appraisers coming out, checking out properties, and trying to help get money and aid into the community. They gave us spreadsheets where we had to keep our force work, timesheets of employees and what they worked. They also provided funds to pay for equipment such as chainsaws and generators that we might need during the event, to get us up and going. When Sally hit, I called our local EMA and told them that we had some issues and needed to talk to FEMA. I never saw anybody. Once the crisis was over they came back and they funneled some money into Baldwin County, because what they are doing is they take money and they will give a county, an area, they will give them a lot of money. Then what we have is we have stakeholders, and us, as a water system, in Baldwin County, we are stakeholder in this group. If we want to get money to do something--and all of this money is hazard mitigation, it is not to repair or fix anything that has been damaged. It is do something for mitigation, which is fine. It's great. I think hazard mitigation is needed. It becomes competitive, and we have to compete with Foley, Robertsdale, Orange Beach, Gulf Shores, Fairhope, Daphne, to get these funds. As a system I have to submit an RFP back to this group of stakeholders. They review the projects that everybody has submitted, and then they pick which projects they want to fund or they would see funded. Now once you do that you still have to file your project with FEMA, and it has to be approved. I tried doing this and going through the process. We were wanting to build a safe house for our employees so that we could house them during a storm. I filled out all of the paperwork, submitted it to FEMA. I did not hear anything for over a year and a half. I finally get a call back from FEMA, and they want to know about our safe house project. I said, ``Well, I didn't think we got the money because we didn't hear anything from you.'' ``Oh, no, no. We just need you to update some paperwork.'' They sent me the paperwork with what they need updated. I update this paperwork and I send it back to them, and I don't hear anything for another year. Then when I hear from them then, they have turned down the project. Now you have got to keep in mind, too, when things take this long the cost of what you are trying to do is going up. We had borrowed money from RD to build a safe house several years ago, and the pandemic hit, and then the supply chain issues hit, and the cost of a safe house was $450,000 and went to $850,000. By the time we worked through this process it was up to $1.4 million. It is just a long, drawn-out process. Senator Welch. Thank you. I do want to be brief. I just want to able to recognize, Senator Lujan has just come in, but go ahead. Mr. Kimbro. Yes, sir. Real brief. We are an at-cost provider, electrical cooperative. Our total utility plant is $140 million. If a Hurricane Michael came through and hit our service territory we could literally have a $40 to $50 million expense. FEMA is critically important for us. The only thing I would offer about FEMA is going forward the regulations surrounding it and the reimbursement, the process of that, just tell us what they are. Don't keep moving the goalposts. Have that where we can get that process known and understood and therefore applied for quickly. Senator Welch. Thank you very much. The Chair recognizes Senator Lujan. Senator Lujan. Thank you, Mr. Chairman, and Ranking Member Tuberville. It is good to see both of you. Thank you for this important conversation. I am especially grateful for this discussion after what has been a difficult and devastating fire season and flooding season in New Mexico, just two years after we saw the largest fire in our State's history, a fire, by the way, that was started as a prescribed burn. Some folks did not see the need to look at it with infrared technology with the burn pile, and put a hand to it, and it was cool enough. Community after community was devastated and destroyed, not because of Mother Nature. Last month two fires that started on the Mescalero Apache reservation quickly grew out of control. Hotter and drier conditions from climate change along with high winds helped the fire spread and burn over 25,000 acres of land in the Village of Ruidoso and throughout southern New Mexico. A fire that started one afternoon, by that night the town was being evacuated, because it spread so quickly. It was so dry. A few weeks later we thought Mother Nature was going to help us, and she put down some water and some rain, but it was a little too much because of the burn scars. What the fire did not take out, the flood did. Hundreds of homes and buildings have been destroyed by the fires and by the flooding, but the impacts on rural infrastructure do not end there. The fire scar, the monsoons, the flash flooding, the debris flows, septics, in this area there is not a wastewater system. Families are on septics. Those get filled up and that contaminates everything. It gets into the water lagoons. We are talking about communities up in the mountains. Where our water comes from is if we are blessed with a little bit of now and it melts, and we are able to save it in some lake and some ponds, and we can filter it and we can get it to people to drink, that is how we survive back in New Mexico. All of that gets ruined. The costs can quickly become overwhelming, especially for small rural communities that have fewer resources and less capacity for resilience, finding and repairing damaged infrastructure, which I appreciate every one of the panelists today with your testimony. Mr. Chairman, while you may be on the East Coast, and Coach, you are down South, on the West side the smallest towns, it is hard. They do not have the revenue base, a tax base sometimes, to come up with the cost shares, to figure things out based on population. For whatever reason, you know, my ancestors and folks back in New Mexico saw it forthright to draw our counties large. You know, some of the Eastern States can fit inside some of our counties in New Mexico. When that happens, based on the current rules, if we do not hit the population density or the cost threshold, then it is not a national disaster. It is a State disaster. For all my friends in the Midwest, who the size of their counties is the size of ranches in New Mexico, they hit that density pretty quickly. For Western States--New Mexico, Wyoming, pick one--it is just not fair. It is not fair when we just look at a line that was drawn over a century ago by some folks that got together to throw some lines on a map based on who lived where, or they could see down that way, or there was a mountain here, or there was a creek that divided this place from that place, or it took that many days for you to get on horseback and ride through two towns, so that is where we are going to drop the marker, and that is where we are going to draw the county line. It does not apply today with the current rules that we have based on treating all American citizens equally. I certainly hope that when we look at a rewrite of FEMA, some of the legislation that you have been championing, Mr. Chairman, and our Ranking Member, Coach, that we even think about FEMA in a regional way across America. Fires in the West are not just fires. It is a day or two or a week or two of fire, and then it is a decade of flooding, because everything that was holding up that water, it is all gone. Any of you that have ever poured concrete, if you poured it on an incline or decline, and a little bit of water gets on top of it, you see how quick it runs and how it picks up steam? Think about that on a mountain, 13,000 feet, going down to 7,000 feet pretty quickly. You think about the steam that that water picks up. It picks up trees that have fallen, and it turns them into torpedoes, and they go through people's homes. It is like an explosion, when a bomb goes off and there is shrapnel that sticks into stuff. The same thing happens with wood and to people's homes. It is just devastating. Mr. Chairman, I have used up all my time here. You know, community after community, the city of Las Vegas, which is in the heart of that fire that started with a prescribed burn, their water treatment center, we thought it was going to be okay after that fire a few years ago, with all the mitigation. Then some floods came in, destroyed the reservoir again. We are trying to get in there to help them. While that flood hit, two other communities, one by the name of Medanales, just north of the city of Espanola, beautiful little community, hardworking families, a little bit of debris came down in the river, even though it was not raining on this little town, pulled down a bunch of water and rock, stopped the river flow. The river picked it up itself, as it sometimes can do, went over a bank, and took out a town. Took out a community. The devastation was not large enough for that county. No Federal declaration. It takes all the Fed's approval to go into the river to take the dirt out. It takes an act of God to get their permission to be able to go do that without a Federal declaration. Mr. Chairman, I cannot thank you enough for having this conversation and bringing attention to what has been happening not just across Vermont and Alabama and all over America but in New Mexico. We need to find a way to work together, Democrats and Republicans. We are one big American family here, and I know we can do better to make sure that the smallest communities in America get the same benefit as the biggest cities across the beautiful country that we all home. Thanks for the time. I yield back. Senator Welch. No, thank you for that wonderful statement summarizing the collective commitment we all have and whether we are in a red State or a blue State, we love the citizens we represent. When they get hit, when they get hurt, we want to help. I have appreciated the support that Vermont has received from many of my Republican colleagues, and I want to reciprocate. I know Senator Lujan, you do as well. This is a great hearing. You know, I go back to Senator Tuberville's, oops, Coach Tuberville's comments about trying to have some flexibility in local implementation. It really makes sense. All of our communities, folks who live there, the biggest thing in their life is their community, and let's take advantage of that. I think with some of the legislation we have before us we might be able to get together, hopefully work together to improve the capacity of local people to fix their own disasters, with the help of the Federal Government, but with local leadership. I really want to thank all the witnesses. This is terrific. I mean, this is the way we should have hearings. The next step on this would be to propose concrete legislation that incorporates many of the recommendations that all of our witnesses, from the great State of Vermont, from the great State of Minnesota, and the great State of Alabama. You know, it is great to have folks on both sides of the Mason-Dixon Line here, speaking truth to the Senators. I look forward to continuing to work with all of my colleagues. I would like to submit a letter for the record, submitted by the National Association of Counties. Without objection, to do that.  Senator Welch. The record will remain open for five business days for members to submit additional questions or statements. This hearing, this very good hearing, is now adjourned.  ======================================================================= A P P E N D I X July 10, 2024 =======================================================================  ======================================================================= DOCUMENTS SUBMITTED FOR THE RECORD July 10, 2024 =======================================================================  ======================================================================= QUESTIONS AND ANSWERS July 10, 2024 =======================================================================  
+THE STATE OF RURAL INFRASTRUCTURE: EMERGENCY RESPONSE, RECOVERY, AND
+RESILIENCE
+----------
+Wednesday, July 10, 2024
+U.S. Senate
+Subcommittee on Rural Development and Energy
+Committee on Agriculture, Nutrition, and Forestry
+Washington, DC.
+The subcommittee met, pursuant to notice, at 2:30 p.m., in
+room 328A, Russell Senate Office Building, Hon. Peter Welch,
+Chairman of the Subcommittee, presiding.
+Present: Senators Welch , Klobuchar, Bennet,
+Smith, Lujan, Tuberville, Boozman, Ernst, Braun, and Grassley.
+STATEMENT OF HON. PETER WELCH, U.S. SENATOR FROM THE STATE OF
+VERMONT
+Senator Welch. Good afternoon, everyone. I want to call
+this hearing of the U.S. Senate Subcommittee on Rural
+Development and Energy to order, and I want to thank my
+colleague, Senator Tuberville, Coach Tuberville. I also want to
+thank our Chair, Senator Stabenow, and our Ranking Member,
+Senator Boozman. It is all great to be here for a very, very
+important hearing, and we have got tremendous witnesses. We
+want to get to you ASAP. I do want to give an opening statement
+on this one-year anniversary of the devastating floods that we
+experienced in Vermont a year ago. Vermonters are still
+struggling to recover from them.
+It was a year ago, on July 10th and 11th, that we had the
+catastrophic flood. I want to acknowledge, by the way, the
+first responders, the medical professionals, the police, fire
+and rescue, National Guard, relief agencies, and neighbors who
+helped everyone in that moment of crisis. I want to take a
+moment to acknowledge the Vermonters who lost so much: their
+homes, their businesses, their farms, their communities. It is
+a really a traumatic experience that lingers and is a long-term
+struggle to get over.
+We are going to have more of these in Vermont. We know
+that. We are going to have more of these in the Nation. The
+weather is changing. We do not have to argue about how, but we
+cannot deny that that is happening. Texas is grappling with
+devastating effects of the hurricane.
+It does not matter what kind of disaster it is or what
+State you are in--Hawaii, Texas, Mississippi or Alabama--it is
+devastating to our towns. Those of us who represent rural
+communities, where there are no resources in place to address
+the long-term needs of their community, bet back on their feet,
+are especially vulnerable.
+You know, in Johnson, Vermont, the flooding destroyed the
+town's wastewater facility, with flood waters six feet high in
+the building. That facility is operating now, but at a higher
+energy and labor cost, and it is kind of rickety.
+In Montpelier, the State's capital, flood waters destroyed
+the Federal building, shut down our post office, and a number
+of our State buildings will not be back online probably until
+2025. We are still waiting for the post office to open, to be
+fully operational. Vermont, in our capital, we actually do not
+have a post office that is fully functional.
+Just two weeks ago, severe storms and deadly flooding hit
+Minnesota, and as someone who has been through what Minnesota
+is experiencing, I am delighted that Commissioner Paap is here.
+Senator Klobuchar and Senator Smith have been informing us
+about everything that is going on there, and we want to be
+helpful in any way we can.
+If there is one thing that these disasters have made clear
+it is that we need to put resilience and the capacity of local
+communities and States to essentially build back better so that
+when the next storm comes there is going to be a lot less
+damage, or maybe no damage at all if we do it right.
+We learned that in Vermont in 2011, when we had Tropical
+Storm Irene. It was the largest and most devastating storm that
+we had for about 80 years. We got into a big fight, to replace
+an eight-inch culvert when you need a 16-inch culvert. FEMA, at
+that time, would not let us build back better. We have been
+able to change that, and we have to do more of that, not just
+in Vermont but in every community, in Mississippi and in
+Vermont.
+Responding by incorporating resilience is just a practical
+and necessary step that we have to take. Last year, even though
+Brattleboro got four inches of rain, the town saw much less
+damage than it had in Irene, and that was because they had done
+some resilience work.
+Another thing is our small communities cannot do it on
+their own, and I am sure this is true in Mississippi. We have
+got local volunteers that are on the Select Board. They are
+also part of the road crew, or they are the disaster response
+coordinator, and this is in towns, you know, of 1,500 or 3,000
+people. They do not have any resources in place to be able to
+navigate the complexities of the Federal Government. One of the
+big things we are going to talk about today is how do we
+address that so those communities have the technical resources
+they need from a local area that is going to allow them to get
+what they are entitled to and what they need.
+That is a critical part of ensuring that disaster recovery
+will work and work effectively. U.S. Rural Development has been
+a great partner for us, and we are going to hear from Vermont
+about how we can coordinate and leverage both the local
+leadership and the work of the USDA.
+I want to express my gratitude to Chairwoman Stabenow who
+understands the importance of rural development programs and
+has included the largest mandatory funding ever proposed in
+farm bill history in the Rural Prosperity and Food Security
+Act. Good for her. It marks the first time that a farm proposal
+had included permanent funding for the Rural Development Title.
+Chairman Stabenow's Rural Prosperity and Food Security Act also
+includes new funding to invest in rural capacity building. We
+need that.
+We need to make sure that the Federal programs are spending
+money to help disaster victims, but not on administrative costs
+as much but more on actual relief. We had a situation in
+Vermont where there were two times the amount spent on
+administration than there was on relief. Obviously we want to
+turn that upside down, and that is where the local engagement
+is so essential. We need to act now.
+Thank you to the members in attendance today, and to the
+witnesses for making the trip. I look forward to a very
+productive, bipartisan hearing.
+I will now turn to Coach Tuberville for any opening
+comments he would like to make. Thank you, Coach.
+STATEMENT OF HON. TOMMY TUBERVILLE, U.S. SENATOR FROM THE STATE
+OF ALABAMA
+Senator Tuberville. Thank you, Mr. Chairman, for having
+this. This is well needed. Thanks to the witnesses for being
+here. It is going to be very informal. Obviously we do not have
+a lot of Senator here. There is a vote going on. They will be
+here soon. Actually both of us have to go vote and we will be
+in and out. Thanks to all the witnesses.
+You know, today's discussion is on a very important issue
+for my constituents in Alabama. We are on the Gulf, and we are
+obviously in the tornado fly away, as we call it, down South.
+We live in a very vulnerable area of need a lot of times.
+You know, the state of rural infrastructure during national
+disasters a lot of times is lacking, and we all know that. I
+still have farmers that are still struggling from a hurricane
+that we had five, six years ago, that have not gotten the need
+that they are supposed to have.
+Communities never expect to have this happen to them. When
+a tornado, hurricane, or flood unexpectedly strikes, they
+quickly have to figure out what to do and how to rebuild,
+usually on their own, a little bit from the county, city,
+State, and usually the last one to show up is Federal, and that
+needs to change.
+This is a topic all my colleagues should be able to agree
+on because it is not partisan. Access to affordable electric,
+water, and wastewater infrastructure is essential for survival
+in any place in the country now. Because there seems to be more
+and more, whether it is fires, whether it is floods, whether it
+is tornadoes. Of course, we all know we have hurricanes.
+Disaster resiliency, community safety, and rapid recovery
+are critical to all Americans impacted by natural disasters,
+but this is especially in the rural areas. Rural areas are
+usually the last ones to get any relief. Just this week,
+Hurricane Beryl has wreaked havoc across Texas and brought high
+winds and torrential rain to Arkansas, Missouri, and the
+Midwest.
+Alabama, my State, is all too familiar with natural
+disasters due to its proximity to the Gulf of Mexico, making
+the State more prone to tropical storms, hurricanes, and
+extreme weather. Over the past few years, Alabama has suffered
+through its fair share of natural disasters such as Hurricanes
+Michael, Ivan, Sally, and numerous tornadoes. Storms like these
+highlight the significant need to prioritize investments in
+rebuilding and hardening critical infrastructure that provide
+water and electricity, especially in the rural communities.
+Our rural communities often struggle. They often struggle
+to compete for Federal grants to help recovery efforts from
+natural disasters due to lack of full-time grant riders,
+attorneys, and experts who are able to identify available
+relief resources.
+Unfortunately, they are oftentimes ill-equipped to navigate
+the maze of bureaucracy and complex application process. On top
+of that, I routinely hear about work force challenges, in my
+State of Alabama and across the Nation.
+Our rural areas struggle, really struggle, to recruit and
+maintain qualified technical assistant experts, certified
+operators and technicians, placing them at a competitive
+disadvantage compared to their urban counterparts. Many
+certified water and electrical operators across the country are
+aging toward retirement without enough qualified applicants to
+backfill their positions.
+Considering the numerous challenges already faced in rural
+areas, the last thing we need is more burdensome government red
+tape, which seems to be more and more every year. As
+policymakers, we need to ensure applying entities should not
+have to wait an average of seven years to navigate the Federal
+permitting process of jumping through various environmental and
+climate hoops. States and local entities must, they must, have
+the flexibility to implement funding as they see fit.
+Just as each community is unique, so are natural disasters,
+which is why States and local entities must have the
+flexibility to implement funding as they see fit. A one-size-
+fits-all approach does not work. We found that out. What works
+in one town or State may not work in another.
+We need to get the government out of the way and reduce
+regulations to make it easier for our rural communities to
+stand on their own. I look forward to today's witnesses and
+hearing their experiences and trying to find some solutions for
+the future for people that live in rural areas.
+Thank you, Mr. Chairman.
+Senator Welch. Thank you, Senator Tuberville. I understand
+that Chairwoman Stabenow and Ranking Member Boozman will not be
+giving opening statements, so we will now move to introduce the
+witnesses.
+Ted Brady is the Executive Director of the Vermont League
+of Cities and Towns. He served here for many years for the
+Senator who is looking at us right now, from his picture on the
+wall, to maybe his C-SPAN view in Burlington, Vermont, and that
+is, of course, our wonderful friend and former colleague,
+Senator Leahy. Mr. Brady served as the Vermont State Director
+of USDA Rural Development, and as I mentioned a decade working
+for Senator Leahy. Welcome.
+Julie Moore serves as the Vermont Natural Resources
+Secretary in the Scott administration. She has worked to shape
+Vermont's environmental agenda, focusing on greenhouse gas
+mitigation and climate resilience, water quality, the forest
+economy, and the importance of conservation. She is a highly
+respected leader in Vermont, and we are delighted to have you.
+Senator Klobuchar wanted to be here but as Senator
+Tuberville mentioned she can't be, with the vote. Oh, she is on
+her way. You know, somehow she manages to get to the three
+different places she is supposed to be at once. It is another
+Klobuchar miracle, so I am going to wait so that she can
+introduce her wondaful Minnesotan.
+I am going to recognize you, Senator, because I understand
+you have got some reputable people here from your home State.
+Senator Tuberville. I would not go that far, reputable.
+
+Senator Tuberville. Thank you, and we do have two good
+witnesses here from my State of Alabama. Mr. Mark Bohlin I am
+proud to introduce from Foley, Alabama, who serves as the
+General Manager of the Perdido Bay Water, Sewer, and Fire
+Protection District in Bowen County. Mr. Bohlin has served as
+general manager for the district for over 25 years. He is Grade
+4 water operator with the State of Alabama and a State-
+certified electrician. In addition, Mark has served on the
+Alabama Rural Water Board of Directors since 2009, and is
+currently the association's president.
+Prior to joining the Perdido Bay District he served in
+several different technician, electrician, and operator roles
+across the country, including the United States Air Force.
+Thank you for your service. Thanks for being here today, Mark.
+Thank you.
+Keep going? Okay.
+Senator Welch. Go ahead.
+Senator Tuberville. Our next distinguished guest, Mr. Brad
+Kimbro, our next witness, from the Wiregrass in Ashford,
+Alabama. He is the General Manager and CEO of Wiregrass
+Electric Cooperative. Mr. Kimbro has three decades of
+experience--I know you don't look that old, but three decades--
+in electric cooperative industry, and has been with Wiregrass
+Electric Co-op since 2006. Within the co-op he has served as
+Director of Member Services Chief Operating Officer, prior to
+assuming the General Manager position. He is actively involved
+with Alabama Rural Electric Cooperative Association and the
+National Association NRECA, and with numerous volunteer roles
+around the Wiregrass and southeast Alabama.
+Brad, thanks for being here today.
+Senator Welch. Senator Klobuchar is in the building, and
+almost here. Well, she is literally coming in. I think so.
+
+Senator Welch. There she is.
+Senator Klobuchar. Thanks for filibustering.
+
+Senator Welch. Well, it is wonderful to have Senator
+Klobuchar join us, and she is going to take a minute but then
+is going to be----
+Senator Klobuchar. I am all ready.
+Senator Welch. You always are. I will let you introduce
+your witness. Thank you very much.
+Senator Klobuchar. All right. Well, thank you to the Chair
+and Ranking Member for this important hearing, and I am so
+honored to introduce my friend, Kevin Paap, because we like a
+lot of drama, you know. He is Chair of the Blue Earth County
+Board of Commissioners. If any of you saw that dam on national
+TV, the Rapidan Dam, that is in his county, in his district,
+and he has been on the front line making sure we are either
+going to get that repaired, get it replaced, it kind of looks
+like to me. It is just one example of the work and the
+challenges that we have.
+He is a county commissioner, a farmer, and a lifelong
+Minnesotan. He has used his skill in building partnerships to
+help solve difficult problems. He was first elected to his post
+in 2020, and he has been able to use his experience as a farmer
+and the former President of the Minnesota Farm Bureau, which he
+ran for 16 years, to really make the case on the local level
+about what we need to do to move ahead in rural America.
+He is a fourth-generation farmer. I have been to his farm,
+and with his neighbors. My favorite memory is one of his
+neighbors, who had watched Meet the Press for three weeks
+because I was coming over, so he felt that would prepare him
+for having a hamburger with me. He enjoys time with his family,
+his wife Julie, of 40 years, two grown sons, and two grandsons.
+We welcome Kevin Paap to the Committee. Thank you very
+much.
+Senator Welch. Thank you, Senator Klobuchar.
+I will now turn to Mr. Brady. You are recognized for five
+minutes.
+STATEMENT OF TED BRADY, EXECUTIVE DIRECTOR, VERMONT LEAGUE OF
+CITIES AND TOWNS, WILLISTON, VT
+Mr. Brady. Thank you so much, Chairman Welch, Ranking
+Member Tuberville, and members of the Committee for having me
+here today, and more importantly, for bringing attention to and
+helping rural communities prepare for and respond to and be
+more resilient to future natural disasters.
+I am the Executive Director of the Vermont League of Cities
+and Towns, which is a municipal association that every one of
+your States has in it. We exist to serve and strengthen local
+government, to help them solve problems.
+As Vermont's own Calvin Coolidge said, ``Local self-
+government is one of our most precious possessions. It is the
+greatest contributing factor to the stability, strength,
+liberty, and progress of the Nation.'' I urge Federal lawmakers
+to consider partnering with us in the Federal, State, and local
+partnership to try to solve this Nation's most vexing problems.
+Today I am asking you specifically, and asking Congress, to
+consider improving the way that it helps local governments
+invest in infrastructure, both physical and civic
+infrastructure, and specifically as it relates to natural
+disasters. The need for this capacity improvement escalated
+quickly one year ago today when we received as much as nine
+inches of rain, a full season's worth of rain in one day, which
+in Vermont we have these things called mountains that don't let
+the rain settle. It all comes rushing down into our valleys.
+The result was more than $200 million of FEMA public assistant
+eligible damage to municipal infrastructure, from roads to
+bridges to wastewater systems to town halls. Like in Minnesota,
+our stress on dams, as well.
+We have firsthand experience assessing those damages. We
+are an insurer. We provided $10 million of payouts to
+municipalities as a result of that. We see a huge problem as
+these events occur more and more often. About 15 percent of all
+the infrastructure we insure at VLCT, about $500 million sits
+in FEMA high-hazard flood zones, which will only grow as new
+FEMA maps come about.
+Hundreds of mayors, select board members, and others
+contacted us starting the moment the flooding started. At first
+they asked us for help accessing mutual aid from neighboring
+towns, called us for help looking for how to reach the
+Emergency Operations Center. In the days following the flood we
+became a central clearinghouse. Since then, we have answered
+hundreds of questions about FEMA public assistance eligibility,
+with a lot of questions about what kind of procurement policy
+do you need to qualify for FEMA, and perhaps more disturbingly,
+how much do we have to pay a consultant to do this FEMA work
+for us, because we can't handle it ourselves.
+While our Regional Planning Commissions, our Emergency
+Management Office are the primary players, VLCT has had to step
+in to help with capacity. The State of Vermont, USDA Rural
+Development, along with other have held disaster preparedness
+calls weekly and disaster recovery calls weekly. In these calls
+we have found that the fundamental thing that we need to do
+differently is that municipalities need to have a better grasp
+on municipal finance operations and management practices before
+the storm.
+You may know this, that wonderful thing called USDA Rural
+Development that you have jurisdiction over is one of the only
+Federal programs that provides capacity to rural communities.
+Through its Rural Community Development Initiative it provides
+technical assistance funding to spur community and economic
+development in rural places. All 20,000 cities, towns, and
+villages in Vermont, as well as tens of thousands of
+nonprofits, compete for a whopping $5 million in that program
+this year.
+Fortunately in Vermont, our USDA Rural Development Office
+was there for us after the disaster. They are not a primary
+response agency, but they are a support agency. They identified
+$1 million in the RD Disaster Assistance Fund that helped us
+enter into a cooperative agreement, where we are supporting
+municipalities with direct one-on-one technical assistance in
+times of need and to help them apply for Federal resources.
+This is flexible funding.
+There is an old saying in community and economic rural
+development, ``Once you've seen one rural community, you've
+seen one rural community.'' I don't think that can be better
+explained than the fact that Commissioner Paap and I are
+sharing this table. We don't have county government in Vermont.
+They have a very functioning county government in Minnesota.
+This difference is sometimes not articulated well in the
+policies that come out of Washington because it is so
+different, and that one-size-fits-all thing threatens effective
+disaster preparedness and recovery.
+This cooperative agreement has a long list of things in
+that we are doing at RD. I am happy to answer those questions.
+I have also submitted what we are doing in my full written
+testimony.
+Rural municipalities know how to work with RD. RD has staff
+in our communities that build trusting relationships. Using
+those relationships to prepare and respond to a disaster are
+really important. I have to put a plug in. Our RD Office is
+down 30 percent in staff.
+On behalf of every city, town, and village leader in
+Vermont, thank you for taking the time to consider how to make
+these programs work better for us, to prepare for and respond
+to disaster.
+[The prepared statement of Mr. Brady can be found on page
+30 in the appendix.]
+Senator Welch. Thank you, Mr. Brady. Now I recognize Ms.
+Moore.
+STATEMENT OF JULIE S. MOORE, PE, SECRETARY, AGENCY OF NATURAL
+RESOURCES, STATE OF VERMONT, MIDDLESEX, VT
+Ms. Moore. Good afternoon and thank you, Chairman Welch,
+Ranking Member Tuberville, and the members of the Subcommittee.
+I am Julie Moore, the Secretary of Natural Resources for
+Vermont, and have served in this capacity for about eight years
+now. By training I am a civil engineer and registered
+professional engineer in Vermont, and I mention that because
+I'm going to talk a lot about water and wastewater
+infrastructure.
+I appreciate the opportunity to offer my perspective on
+these critical infrastructure needs facing Vermont's rural
+communities, which are being driven by concurrent challenges of
+aging systems, a shrinking user base, and the impacts of a
+changing climate. Today's hearing is particularly timely, as
+you alluded to Chairman Welch, in that one year ago today
+Vermont watched a storm system drop as much as nine inches of
+rain across the State, which caused massive flooding, hundreds
+of millions of dollars in damages, and impacted liberally
+thousands of homes and businesses, damaged municipal and State
+infrastructure, caused landslides, and compromised dams.
+While that widespread damage from the July 2023 storms
+attracted significant national attention, the fact of the
+matter is since 2010 Vermont has had 22 flood-related Federal
+disaster declarations, nearly two per year, and up from an
+average of one every other year throughout the 1960's, 1970's,
+and 1980's. Clearly, more frequent and more severe storms are
+our new normal, including today, with Vermont forecasts calling
+for multiple inches of rain as the remnants of Hurricane Beryl
+pass over the Green Mountains.
+I see the key to building resilience as consistent
+investment and municipal water infrastructure, and let me tell
+you why.
+First I think it is important to frame the issue and some
+of the challenges we are facing. Small rural States like
+Vermont are challenged to fund essential investments in water
+infrastructure without our Federal partners, especially in and
+immediately following natural disasters. For perspective,
+Vermont has 417 community water systems serving just about half
+our State's population, 300,000 Vermonters, but almost 75
+percent of those 417 systems serve a population of less than
+500 people. Most have volunteer boards with volunteer, part-
+time operators. During the July 2023 storms, 18 systems,
+serving about 40,000 Vermonters, sustained significant impact
+to their drinking water infrastructure or operation that
+required Boil Water notices or Do Not Drink notices.
+The story was even more challenging the wastewater side.
+Vermont has 92 municipal wastewater facilities that serve
+mainly small rural communities. About two-thirds are permitted
+to treat less than 100,000 gallons a day, which I see as an
+indicator of the small rural population they serve. More than
+one-third of these facilities, 33 in total, sustained damage
+during last July's floods, totaling more than $75 million.
+Three facilities, including the one you mentioned, Chair Welch,
+in Johnson, will require extensive rebuilding and possibly even
+relocation. Unfortunately, most of these small utilities do not
+have capital available within their annual budget to make these
+kinds of significant, unanticipated repairs.
+While ultimately a significant share of the cost of the
+infrastructure repairs following a natural disaster is covered
+by insurance and FEMA reimbursement, there is an upfront cost
+to this work which can be substantial, and immediate cash-flow
+is critical, helping ensure communities make decisions around
+recovery and reinvestment based on what will serve them best in
+the long term, as opposed to being limited by what they can
+afford in the immediate.
+I saw this firsthand in the weeks following last July's
+floods. In speaking with leaders in some of the most flood-
+ravaged communities, it was clear that they were leveraged to
+the hilt and had exhausted market-rate private capital
+available to them to make emergency repairs and restore
+services, limiting the resources needed to plan for how they
+can build back smarter.
+In response, I convened a Funder Summit involving my staff
+responsible for administering Vermont's State Revolving Fund
+programs, the Vermont Municipal Bond Bank, State Treasurer's
+Office, and USDA Rural Development. Over a period of weeks we
+cobbled together a complicated and tenuous funding stack to
+meet the same need that would be better addressed, I believe,
+through the Rural Recovery Act and the enhancements it would
+make to the Disaster Assistance Fund.
+I cannot overstate the importance of having available,
+flexible, low-cost or no-cost money that can be deployed
+quickly following a disaster. There simply isn't time to wait
+for Congress to designate and appropriate additional disaster-
+related funds to support the work that needs to happen on the
+ground in those moments of need.
+Ideally, a robust Disaster Assistance Fund would include
+budget authority, provide flexibility around RD's water and
+environmental programs immediately following a disaster.
+Changes would also be helpful to increase RD's authority to
+issue waivers, to expedite funding to meet real-time needs and
+streamline procedures that can be extremely difficult for
+smaller communities.
+In closing, one of the most important collaborative
+relationships my agency has in the drinking water and
+wastewater space is with USDA Rural Development. Rural
+Development supports cost-effective investments in community
+infrastructure and partners with us on long-term disaster
+recovery. The Rural Recovery Act would establish and expand
+this essential partnership, helping ensure that immediate
+financial challenges following a disaster don't perpetuate
+vulnerabilities and increase long-term costs, but instead
+support our rural communities in developing and implementing
+considered and durable solutions in the wake of natural
+disasters.
+Thank you for your consideration.
+[The prepared statement of Ms. Moore can be found on page
+36 in the appendix.]
+Senator Welch. Thank you very much. I recognize Mr. Paap.
+I am going to have to go vote, and I am going to ask
+Senator Smith if she would chair in my absence. Thank you.
+STATEMENT OF THE HON. KEVIN PAAP, COUNTY COMMISSIONER, BLUE
+EARTH COUNTY, GARDEN CITY, MN
+Mr. Paap. Chairman Welch, Ranking Member Tuberville, and
+members of the Subcommittee, thank you for holding today's
+hearing. My name is Kevin Paap. I have represented the National
+Association of Counties.
+As a Blue Earth County Commissioner, fourth-generation
+farmer, emergency medical services instructor, past volunteer
+firefighter, and Minnesota Farm Bureau President, I have
+witnessed firsthand the impacts of natural disasters on rural
+communities. As a farmer, whether it is a fence or a farm bill,
+farm building, I think about four corner posts. Please consider
+these four corner posts in the county's role in disaster
+planning, response and recovery, in how Federal policy can
+building resiliency to natural disasters in rural America.
+The first corner post. Natural disasters have become more
+frequent, more severe, and more costly. Last year, 849 counties
+experienced at least one federally declared major disaster.
+Minnesota has not been immune to these trends. We have been
+impacted by seven separate billion-dollar disasters in 2023.
+Corner post No. 2. County governments are on the front line
+of disaster response and recovery. County governments are
+responsible for local emergency response, with county-elected
+officials and emergency managers leading these efforts. We also
+support the operation of hospitals, maintenance of public roads
+and bridges, and invest significant funds in building public
+infrastructure and maintaining and operating public works. To
+protect our investments, county must develop preventive plans
+to mitigate risk and determine how to respond when a disaster
+unfolds.
+Water and wastewater infrastructure are critically
+important, and particularly vulnerable during natural
+disasters. During the recent flooding in Blue Earth County, our
+county-owned Rapidan Dam infrastructure failed, causing
+significant damage to public and private property along the
+Blue Earth River. Thousands of aging rural infrastructure
+projects like our Rapidan Dam pose a threat to communities in
+future disasters without adequate support.
+Corner post No. 3. Natural disasters not only disrupt the
+lives and livelihoods of our residents but also put heavy
+burdens on rural counties. Rural counties are often hindered in
+our ability to manage emergency response and recovery efforts
+due to limited personnel and limited funding. These capacity
+challenges can lead to prolonged disruptions to infrastructure
+and services as well as extended recovery periods and economic
+loss for residents. Addressing these issues by building rural
+capacity through technical assistance or direct funding can
+help protect residents and promote long-term prosperity.
+Existing USDA Rural Development programs, such as the
+Community Facilities Program and the Emergency Water Assistance
+Grants Program are important for supporting rural communities
+during and after natural disasters. While these programs can be
+a lifeline for rural areas hit by disaster, consistent funding
+shortages at Rural Development mean that these programs may not
+be able to help as many communities as needed.
+Corner post No. 4. The farm bill provides a unique
+opportunity to improve rural disaster resilience. NACo urges
+the following provisions be included in the 2024 Farm Bill to
+bolster rural capacity building:
+The Rural Partnerships Program, which would provide
+flexible grants to rural communities to help them respond to a
+wide variety of urgent needs, including disaster preparedness.
+By improving the capacity of rural communities, the program can
+make sure rural counties are better equipped to protect
+residents from natural disasters.
+Permanent authorization for the Rural Partners Network.
+This USDA-led initiative places Federal employees in rural
+communities to improve collaboration with our Federal partners
+and help the local governments navigate Federal funding
+opportunities. Although it is a small program, it has managed
+to turn its $11.5 million budget into over $3 billion in
+Federal investments in participating rural communities since
+its creation in 2022.
+Passage of the streamlined Federal Grants Act. This bill
+would make it easier for local governments, including rural
+communities, to access Federal resources and grant
+opportunities by simplifying the Federal grant administration
+process.
+Chairman Welch and Ranking Member Tuberville, thank you for
+inviting me to share Blue Earth County's story. Counties look
+forward to working with you to build a stronger, more resilient
+rural America. I appreciate the opportunity to testify, and
+look forward to your questions.
+[The prepared statement of Mr. Paap can be found on page 40
+in the appendix.]
+Senator Smith.  Thank you very much, commission
+Paap, and we will now hear from Mr. Bohlin for five minutes.
+STATEMENT OF MARK D. BOHLIN, GENERAL MANAGER, PERDIDO BAY
+WATER, SEWER, AND FIRE PROTECTION DISTRICT, FOLEY, AL
+Mr. Bohlin. Good afternoon, Chairman Welch, Ranking Member
+Tuberville, and members on the Committee. I am deeply honored
+to be here today. I would like to extend my personal gratitude
+to Senator Tuberville for his invitation and stalwart
+leadership for Alabama's rural water and wastewater sector.
+I am the General Manager of the Perdido Bay Water, Sewer,
+and Fire Protection District and serve as the President of the
+Alabama Rural Water Association, where I represent Baldwin,
+Mobile, and Washington counties, serving a population of over
+630,000 Alabamians.
+Perdido Bay is a nonprofit organization that was
+incorporated in 1973 to deliver drinking water to the
+communities of Lillian and Perdido Beach. We started with 600
+customers, with direct assistance from the Farmers Home
+Administration, the precursor of Rural Development.
+Fast forward almost 50 years and Perdido Bay continues to
+take advantage of the affordable low interest rates provided
+through Rural Development. If I may, I would like to express my
+gratitude to this Committee for its unwavering commitment to
+the success of these initiatives.
+There is sentiment that billions from the American Rescue
+Plan Act and the Infrastructure Investment and Jobs Act will
+meet industry needs, but much of this funding benefits larger
+systems. The Alabama Department of Environmental Management has
+done great work supporting rural communities. However, this
+positive trend in Alabama is not seen nationwide. Predominantly
+rural States like Alabama benefit from a political landscape
+that directs more funds to rural areas.
+It is critical to emphasize that these additional funds are
+not permanent, and small and rural communities heavily depend
+on Rural Development to maintain and enhance their utilities
+and affordable services. According to the most recent EPA
+drinking water survey, a 20-year capital improvement assessment
+for both urban and rural communities totaled $625 billion in
+needs. Currently, we face challenges including PFAS treatment,
+cybersecurity upgrades, work force development, and compliance
+with Federal mandates like the Lead and Copper rule. Inflation
+and supply chain issues also heavily impact small water
+utilities.
+We urge the Committee to ensure USDA's Rural Development
+program has the resources needed to help rural communities
+address these challenges now and into the future.
+During my 25-year tenure serving as General Manager of my
+utility I have experienced numerous storms and two direct hits
+by Hurricanes Ivan and Sally. During Hurricane Ivan, we did not
+have resources and manpower to adequately respond. For
+Hurricane Sally, we relied on the direct assistance from ARWA
+to fill this void. In cooperation with National Rural Water
+Association and other State Rural Water Associations, Alabama
+Rural Water Association brought in emergency response trailers,
+generators, and manpower. They set up a command center at my
+utility where they coordinated with Alabama's Emergency
+Management Agency, deploying staff and resources to surrounding
+water and wastewater systems. Within a week, operations were
+restored to normal.
+For decades, NRWA and State Rural Water Associations have
+served as the leaders in disaster recovery in many States.
+Unfortunately, there has been no dedicated Federal funding to
+enhance or expand this activity beyond the limited assistance
+currently provided under the Circuit Rider Program.
+Preventative measure and post-disaster assistance are equally
+important. Having dedicated, onsite, and experienced full-time
+staff will greatly improve services for rural utilities.
+We are grateful that Congress responded with pending
+bipartisan legislation in both the House and Senate. The Rural
+Water Systems Disaster Preparedness and Assistance Act, if
+enacted, this approach will fund and authorize pre-and post-
+disaster activities. This includes creating vulnerability
+assessment, disaster action and mitigation plans, geographic
+mapping and hardening facilities. Post-disaster support will
+help with applying for Federal and State funding and meeting
+reporting requirements necessary for reimbursement and other
+needs.
+After the devastating impact of Hurricanes Katrina and
+Rita, NRWA established a permanent standing Emergency Response
+Committee. This committee meets regularly to coordinate and
+review response efforts nationwide.
+In summary, I firmly believe that with additional Federal
+authorities, effective collaboration, thoughtful planning, and
+mutual aid, we can address the challenges of emergencies and
+enhance the response, recovery, and resilience of rural water
+and wastewater systems nationwide. Our State Rural Water
+Association stands ready to continue providing these services.
+Thank you for the opportunity to testify. I am ready to
+answer any questions you may have.
+[The prepared statement of Mr. Bohlin can be found on page
+50 in the appendix.]
+Senator Smith. Thank you, Mr. Bohlin. Now we will turn to
+Mr. Kimbro for five minutes of testimony. Thank you.
+STATEMENT OF BRAD KIMBRO, GENERAL MANAGER AND CEO, WIREGRASS
+ELECTRIC COOPERATIVE, ASHFORD, AL
+Mr. Kimbro. Thank you. Chairman Welch, Ranking Member
+Tuberville, and members of the Subcommittee, thank you for the
+opportunity to testify today. On behalf of Wiregrass Electric's
+roughly 18,000 consumer members we sincerely appreciate the
+Committee's interest in natural disaster and rural
+infrastructure issues.
+Wiregrass Electric Cooperative (WEC), is a distribution
+electric cooperative in its 84 years of operations, providing
+affordable, reliable electricity to homes, farms, businesses in
+the Wiregrass region in southern Alabama. As a cooperative, we
+are member owned and controlled. The cost of running our
+electric utility is shouldered by our member owners.
+Electrification of the Wiregrass region was only possible
+because the Federal Government offered low-interest loans
+beginning in the 1930's. Fast forward to today, WEC continues
+to borrow money through the Rural Utility Service Electric Loan
+Program in order to keep the lights on, and at a price that
+families can afford.
+Roughly 25 percent of our consumer members struggle to pay
+their electric bill each money. Low-interest RUS electric loans
+help us keep costs affordable. Our job is to reliably deliver
+affordable electricity to our consumer members 24 hours a day,
+7 days a week. During thunderstorms, windstorms, floods,
+hurricanes, and other weather event we work hard to keep the
+lights on, and in the event of an outage, our mission is to
+safely restore service in the most timely fashion.
+In my 30 years in the electric utility cooperative industry
+I have witnessed and managed recovery efforts for over a dozen
+hurricanes and tropical storms. This includes powerful Category
+5 Hurricane Michael that hit our WEC service territory in
+October 2018. Hurricane Michael resulted in $8 million in
+additional costs for WEC. We were able to work through our
+already approved RUS workplan to respond and rebuild after this
+storm. Unfortunately, not every co-op can continue to work
+under their co-op's current RUS workplan after this type of
+storm events.
+To obtain a new RUS electric loan a co-op is responsible
+for submitting extensive paperwork and go through lengthy
+approval processes. For this reason, obtaining a new RUS
+electric infrastructure loan for rebuilding after these type
+storms is usually not a viable option. Instead, many electric
+cooperatives need quick financing after natural disasters, so
+they turn to a private lender or draw down an existing line of
+credit to pay for storm response and infrastructure repair.
+These loans come with higher interest rates often.
+While electric cooperatives are eligible for 75 percent
+reimbursement under FEMA's Public Assistance Program, our
+members, after Hurricane Michael, still had to absorb the
+remaining 25 percent, or around $2 million. Additionally,
+recouping the interest accrued on those loans or lines of
+credit just adds to the financial burden.
+Thankfully, which Hurricane Michael public assistance
+process was relatively smooth, that is not always the case for
+every cooperative. I am aware of other electric cooperatives
+still dealing with reimbursement issues related to Hurricane
+Michael. The same is true with other storms that hit the Gulf
+Coast in the last five years. The longer reimbursement takes,
+the higher the interest expense, which is ultimately passed on
+to the cooperative's consumer member.
+Also it is important to remember that responding to a
+disaster is not just about physical damage. These storms take
+an emotional toll. We are a co-op of around 60 employees. Our
+linemen perform dangerous work during these times, when their
+families' well-being and financial situations are uncertain.
+This impact is really difficult to measure.
+In closing, Wiregrass Electric is dedicated to delivering
+affordable, reliable electric service to Alabama households,
+businesses, farms, and our communities. Nearly 900 electric
+cooperatives across the country have similar community-focused
+missions for the areas they serve. As this Committee works on
+rural infrastructure issues, I look forward to continuing to
+work with you toward our shared goal of improving life in rural
+America.
+I am happy to answer any questions you all may have. Thank
+you.
+[The prepared statement of Mr. Kimbro can be found on page
+98 in the appendix.]
+Senator Smith. Thank you very much. Thanks for all your
+testimony.
+While the Chair is returning from voting we will begin our
+round of questioning, and I will start. Oh good, here is the
+Chair.
+I want to thank Senator Welch and also Ranking Member
+Tuberville for holding this hearing right now. As Commissioner
+Paap indicated, in June Minnesota was hit by very heavy rains.
+I know these also affected Iowa. Senator Ernst, I was talking
+with Senator Grassley about this, as well, heavy flooding.
+Senator Klobuchar and I led a delegation letter to the
+President asking for major disaster declaration. I know that
+the USDA has offered disaster assistance to Minnesota
+producers.
+The Federal response to helping Minnesota is at the top of
+my mind right now in the wake of these floods. As Commissioner
+Paap said, the Rapidan Dam, which is in Commissioner Paap's
+county, was breached during this heavy rainstorm, and 11.6
+cubic yards of sediment were released, overtaking a house and
+power infrastructure. It was really quite incredible. This was
+a 100-year-old dam and in need of repair, major repair, even
+before the flooding, that closed it in 2020.
+I think the story and the experience of Blue Earth County
+is a good story for us to be thinking about as we consider the
+burden that falls on counties as we are responding to these
+disasters all over the country.
+Commissioner Paap, let me just ask you a question about
+this. Can you just talk a bit more about why it is so important
+to help rural communities that might not have the staff power,
+rural communities and rural counties that might not have the
+staff power to go after Federal grants and resources in ways
+that much larger, better staffed, I would say, urban counties
+might have. What does that mean in terms of your resilience
+when it comes to these disasters?
+Mr. Paap. Madam Chair, thank you for that question. You
+learn a lot after a disaster. Thankfully, we do not have them
+every day so we do not become that well versed. There are many
+times, especially with smaller communities, smaller counties,
+local governments, you do not have the capacity, whether it is
+personnel, whether it is resources. Quite frankly, you do not
+know what you do not know.
+We need that help to do that, and not only is responding,
+certainly with the Rapidan Dam, our No. 1 goal was the safety
+and the health of our residents, and that is the No. 1 goal of
+all local governments.
+As we get through that and respond and go through the
+process we need assistance. We do not know what we do not know.
+We have maybe never done this before. Many counties do not have
+the expertise. They do not know what is available.
+I guess I would just ask that we all work together the best
+we can. You know, as a farmer you learn at an early age, from
+your dad or really probably from your grandpa, that working
+together works. I would just ask that whether it be the
+Federal, State, or the local governments we do as good a job as
+we can to work together.
+When a disaster strikes, the rest of the activities in the
+county do to come to a standstill.
+Senator Smith. That is right.
+Mr. Paap. We had county employees that went above and
+beyond, spent days and days onsite. There are still other
+things going on in that county that have to be covered.
+Certainly a thank-you to all of our Blue Earth County employees
+for the great job they did and all over the country.
+We really need some assistance because we do not know
+sometimes what is available or we do not have the resources to
+access that technical assistance.
+Senator Smith. Right. Well, thank you very much. I really
+appreciate your comments. I want to just point out, and then I
+am going to wrap up my questions, Mr. Chair, I want to point
+out that a propos what you are talking about, the farm bill
+framework and proposal that Chair Stabenow has put out includes
+the Rural Partnerships Program, which is this public-private
+partnership to help rural areas apply for and access Federal
+money. I think this is very important. I think this is a
+strength of the Chair's proposal over the House proposal, and I
+hope that we can keep that in mind as we think about what we
+can do to support rural communities as they are seeking Federal
+funds to help them do their jobs.
+Thank you very much, Mr. Chair.
+Senator Welch.  Thank you. The Chair recognizes
+Senator Tuberville.
+Senator Tuberville. I would like to pass my time to Senator
+Ernst.
+Senator Welch. The Chair recognizes Senator Ernst.
+Senator Ernst. Thank you, Mr. Chair, and thank you, Ranking
+Member. I certainly appreciate it. I want to thank all of our
+witnesses for being here today, as well. Now more than ever, as
+you have seen, just disasters across the United States. I can
+say that your testimoneys, and, of course, the challenges that
+have been described are shared among many of my Iowa
+communities. Again, thank you so much.
+Just a couple of weeks ago, as Senator Smith had
+referenced, we saw a lot of flooding coming through the
+northwest corner of my State. We saw heavy rainfall that caused
+major flooding up and down the Missouri River. Of course, it
+did impact Minnesota. It impacted North Dakota, South Dakota,
+Nebraska, Iowa. In a matter of hours we saw hundreds and
+hundreds of families that had their homes destroyed. We saw
+helicopter rescues. We had boat rescues in communities. We had
+just so many small businesses that were in total ruin. The
+roads and bridges completely swept away. Water and electrical
+systems ceased operations, and, of course, Iowa, known for its
+crops, we had a significant amount of crop damage under feet of
+flowing water.
+Large portions of western Iowa saw similar destruction
+earlier this spring when we had tornadoes. Iowa seems to have
+been the epicenter this year for so many different events. We
+had a number of communities that saw 60 percent or more of
+their homes destroyed by tornadoes. Following each of these
+disasters I was able to go out and visit with our
+constituencies, the Iowans, and personally hear their
+testimoneys.
+In previous disasters, having served in the National Guard,
+had deployed to many of those types of events through the
+years, and we really are Iowa strong. I certainly saw the best
+of our communities.
+Anyway, Mr. Paap, thank you, and thanks for being here. I
+know that you have seen so many of these similar situations and
+a lot of swift response from those local emergency management
+teams. What I would like to do is just dive in a little bit
+different. You have mentioned access to resources,
+understanding where and how to go about getting those
+resources. Have any of the farmers that you have worked with
+faced challenges when they do go to the USDA or the Small
+Business Administration? Maybe walk me through gaining access
+to some of those larger Federal agencies.
+Mr. Paap. Mr. Chairman and Senator Ernst, thank you for
+that. As you look at agencies in agriculture, of our 128-year-
+old family farm, probably the best relationship is always USDA
+because that is the agency that is used the most in agriculture
+every year, through farm programs or whatever it would be.
+As you broaden out to Rural Development and then into the
+other agencies you do not have that relationship, and many
+times, quite frankly, you do not have that local, that county
+FSA office where you know the folks there. Even if you do not
+know what you do not know, you know who to ask.
+As we get into disasters and other things and programs,
+sometimes people just aren't sure who the right person is, so
+that is why we really feel it is important to get that
+information out to those ag producers, and not just the farmers
+and ranchers but those rural communities that have been
+affected by that weather.
+I think agriculture, like everything else in life, we can
+always do better. We want to work on continuing improvement. I
+think there are many things we can improve on in that
+coordination. Really the key to coordination is communication,
+and we can always do better communicating with those rural
+residents.
+Senator Ernst. Yes, agreed. Then responsiveness, once you
+have found the go-to person, whether it is at the FSA or any
+other local agency, maybe even in your capital city, or
+responding here in Washington, DC, the response times, do you
+find that those Federal agencies get back to you in a
+reasonable amount of time?
+Mr. Paap. Well, serving on a local ambulance and fire
+department for 29 years, nobody ever said you got there too
+soon. You know, ``What took so long?'' I think that is the
+case, as well.
+I do think as we look at this process, whether it is
+applications, whether it is limiting the number of pages that
+are involved, or if it is response time how any days, we want
+to know what that timeline is. We know things cannot happen
+overnight, but when can we, or should we, expect an answer.
+Again, I would go back to continual improvement. I believe this
+process can and should be improved.
+Senator Ernst. Thank you, and thank you, Mr. Chair. I think
+Mr. Paap gets quote of the day. Thank you. Thanks to all of
+you.
+Senator Welch. Thank you, Senator Ernst. I want to
+recognize our Ranking Member. Thank you for all the great work
+you have done on this Committee and the support you have given
+me and Senator Tuberville on this Committee, as well.
+Senator Boozman. Well, thank you, Mr. Chairman. I have got
+to run. I just want to thank you two. This is really what the
+Ag Committee is all about, and this hearing is excellent. You
+all have done a tremendous job.
+You know, we hear all about the rancor up here and the this
+and that, but this is just everybody working together, trying
+to figure out a solution to a really significant problem.
+Thank you for your testimonies. Very, very helpful, very
+incisive. I am going to get out of your way so you can actually
+get some good things done. I do want to compliment you two and
+your leadership, and example. I know it is hard with Senator
+Tuberville.
+
+Senator Boozman. We appreciate you.
+Senator Welch. Thank you, Senator, and thank you, Senator
+Ernst. The Chair will recognize himself.
+Mr. Brady, what was the biggest challenge that the rural
+communities that you work with throughout Vermont face in
+identifying and applying for Federal Disaster Assistance funds,
+including the funds from USDA RD?
+Mr. Brady. Thanks for asking, Mr. Chairman. Simply put, it
+is capacity. In Vermont, of the 247 cities and towns and
+another 31 or so villages, less than half, about 40 percent,
+have professional career staff to help manage the town, which
+means the person writing the grant application is oftentimes a
+Select Board member who works in a garage, works on the farm,
+you name it. They are doing it after hours. That means 60
+percent of Vermont does not have professional capacity to deal
+with these things. When the Federal Government stands up a
+grant program that needs to be applied for, and you need to
+follow the rules to apply, then administer, and then follow the
+reporting requirements, you know, 60 percent of the time it
+does to work every time in Vermont. It is really overwhelming.
+A quick couple of stories. Marshfield, Vermont, population
+1,583. Last July's flooding resulted in $4 million worth of
+damages. Their budget is $1 million. Their annual budget is $1
+million. They do not have a career manager, which meant it was
+up to the elected town clerk, whose town has nothing to do with
+disaster management, to manage a disaster. She called us and
+said, ``I need to write an RFP. I need an engineer. I need a
+consultant. I don't know how to do this. None of my Select
+Board members know how to do this. Where do I go for help?''
+Down the road in Cabot, Vermont, the Governor yesterday was
+at a fire station that was destroyed, red-tagged by public
+safety after the July flooding. The chairman of that Select
+Board came to us and said, ``How do we afford to hire help? We
+don't have any money. Who is going to actually do all of this
+work for us?'' They had no capacity.
+The town of Weston, population 566, famous for the Weston
+Playhouse, a wonderful, bucolic, incredible little town in
+south central Vermont. They faced the fact that the Select
+Board, Jim Linville, called us and said, ``We are overwhelmed.
+We are a tiny town. Our volunteers are exhausted. We don't have
+any expertise. Who are the consultants we can work with?''
+Jamaica, Vermont, southern Vermont, population 1,030. The
+2023 floods resulted in $1.6 million in damage. That does not
+sound like a lot. You know what is a lot? That $1.6 million was
+in 77 different FEMA public worksheets. They have very little
+professional capacity in Jamaica.
+Senator Welch. Thank you, yes.
+Mr. Brady. Who is going to do those?
+Senator Welch. Thank you. Thank you very much. Those are
+very vivid and very real, and I have got to take the Ranking
+Member to some of those towns.
+I want to ask Ms. Moore, the last major flooding was during
+Hurricane Irene, I mean, preceding last year. We did some
+resilience work in that. I want you to just describe how those
+investments in resilience--not just building back the same
+built building back better, with the threat of another storm--
+how did those investments help the State's infrastructure
+withstand flooding last year?
+Ms. Moore. I think they were critical. I want to highlight
+two specific examples of investments Vermont made following
+Tropical Storm Irene.
+The first was more generally in enhancing what we refer to
+as our codes and standards, and that governs the sizing of
+culverts and bridges as they are replaced around the State of
+Vermont. We modernized our codes and standards to reflect the
+kinds of rainfall patterns we are seeing in the 2020's as
+opposed to what we were seeing in the 1960's, which had been
+the rainfall data driving much of our design.
+As a result, structures that were replaced following
+Tropical Storm Irene, with appropriately sized structures for
+our current climate, only one was lost during the 2023 floods.
+The overall damage to our road and bridge infrastructure was
+significantly lower than it was. Some of that is a reflection
+of the type of storm we saw last July, but I think a lot of
+that is a reflection of changes we have made and how we size
+our infrastructure.
+The other one I would point to is our Waterbury State
+Office Complex. This is a building that houses over 1,000 State
+employees and was closed for literally six years following
+Tropical Storm Irene, when the Winooski River flooded the
+complex and frankly filled the basement of that building with
+water. We rebuilt, filling the basement with flowable fill,
+elevating all of the building's utilities. The Winooski River
+flooded again last July, but the damage was really limited to
+the parking lots, and that facility was reopened within two
+weeks' time. It is just such a night-and-day difference how
+strategic investments in hardening as well as resiliency can
+help us withstand a wider range of weather events.
+Senator Welch. That is very helpful. Based on your
+experience do you have some suggestions on what steps Congress
+can take to ensure that USDA RD resources help communities
+rebuild in the wake of disasters.
+Ms. Moore. Yes. I think, as I alluded to in my remarks,
+that immediate cash-flow is really important. It is very hard
+to go to the communities that Ted just described with his
+examples, in the throes of a disaster, and suggest what they
+really need to do with a planning study or an engineering
+assessment.
+RD has the technical know-how and capacity to support
+communities in thinking through what the best long-term
+decisions are, as well as the ability to bring contracted
+resources to bear that oftentimes these communities do not know
+where to start.
+It is a partnership, but just knowing where to turn with
+those important questions, being able to not just react in the
+moment but think for the long term, and having partners that
+stand ready and available to provide that kind of support in
+the moment is really essential.
+Senator Welch. Thank you very much. That is very helpful.
+I recognize Senator Tuberville.
+Senator Tuberville. Thank you, Mr. Chairman.
+Mr. Bohlin, work force is going to play a large role in the
+next few years, decades, especially in our rural areas. Now my
+understanding is you have an apprenticeship program in your
+water area. Could you tell us a little bit about that?
+Mr. Bohlin. Thank you for the question, Senator. As you
+mentioned, we are members of apprenticeship program that is
+provided through Alabama Rural Water that they have put
+together with the Labor Department.
+First off I would like to say, you were talking about the
+aging work force, I am one of them. I am getting to an age
+where I am looking at retirement. Our system currently, right
+now, has six certified operators. Of those six certified
+operators, four of us are at retirement age or quickly
+approaching. In fact, I have got one operator that is retiring
+this month.
+It is imperative that we can get young people involved,
+hired, in the system, and get them trained, provide the proper
+training. We have found out, by partnering with the Alabama
+Rural Water Association and the apprenticeship program, that
+they can provide an avenue that we can get our employees
+classroom time to get the education that they need in order to
+pass the certification, State certification, so that they can
+become licensed to operators. It is also hands-on, work under a
+mentor type program.
+I am proud to say that right now, we have got one employee
+that is in the apprenticeship program. He is fixing to finish
+it. He has already acquired his Alabama State certification. We
+have got another employee we are fixing to put in there. I
+would also like to mention that the employee that we have in
+the apprenticeship program right now that is finishing up will
+be the first graduate in the State of Alabama in the
+apprenticeship program.
+I feel that it is very important, Senator, that we look out
+for young people and try to bring them into the field and get
+them involved and that we have ways to get them educated, and
+also give them the tools that they need so that they can go out
+and make the taps, put in the services.
+Senator Tuberville. Do you have any recommendations for the
+farm bill that we are putting together for work force
+development?
+Mr. Bohlin. Yes, sir. As you know, the apprenticeship
+program was started with Rural Development funds back in 2018.
+Coming forward, anything that we can get in to help with the
+technical assistance and training that is in the farm bill, if
+we can get any more help in there I honestly believe that that
+would be of great benefit to us.
+Senator Tuberville. Mr. Kimbro, Do you have any work force
+development in your area?
+Mr. Kimbro. Yes, sir, Senator, we do. We work with our
+local and regional, State, to do that. Yes, sir, sure do. They
+are successful at it. You know, the success of businesses
+moving in is to have the people to employ, and that is very
+critical.
+Senator Tuberville. You know, most people don?t know where
+your region is in your part of Alabama. You are not actually on
+the Gulf, but you do see quite a bit of devastation from
+tornadoes to hurricanes as we saw a few years ago.
+Mr. Kimbro. Right.
+Senator Tuberville. You have huge problems with electric
+and water anytime that we have this devastation. Speak to the
+importance of being able to utilize all energy sources, like
+natural gas. Tell me about your experiences with that.
+Mr. Kimbro. Yes, sir. Well, as CEO of Wiregrass Electric
+Cooperative, I am concerned about reliability and
+affordability. They are both important. We would like to see an
+all approach, where one size does not fit all. We certainly
+depend on a lot of generation resources, and we need that
+capacity. Certainly, after these storms, the reliability is
+very, very critical, and having access to that affordability
+and reliability is critically important as we move forward in
+this country.
+Senator Tuberville. Yes, I would like to ask all of you
+this question, if you want to add in onto this. What problems
+do you see with smaller water systems as compared to larger
+water systems, Mr. Bohlin, we will start with you, in terms of
+getting funding. How do we fight that problem for rural areas?
+Mr. Bohlin. Thank you for the question, Senator. Going
+through the RD apply process can be very tedious and
+cumbersome. I have done it myself before, and it takes time.
+You have to provide engineering reports, as a lot of these
+other people have testified today. You have to fill out all
+their paperwork, get budgets together. They want 5-year capital
+improvement budgets, and they want your audited reports. There
+is a lot that goes into it, and fortunately we have got enough
+people at our system that I could do it myself and work through
+the process, along with our engineering firm.
+There are so many water systems throughout the State of
+Alabama that do not have the people and the resources to do
+that themselves, and there does need to be a vehicle where they
+can assist these smaller systems. That is one of the things
+that Alabama Rural Water does supply. They have people, and
+they have the resources. They can go out and they can call on
+these smaller systems if they have a need. If they reach out
+and they say, ``Hey, we want to apply for some Rural
+Development funds,'' they have got the people that can assist
+them and get these applications filled out and turned in.
+Senator Tuberville. Mr. Kimbro?
+Mr. Kimbro. Yes, sir, Senator. Infrastructure is so
+important--water, sewer, electricity, broadband, everything for
+our community. In rural America, which I represent, if you do
+not have those things then people are not coming, businesses
+are not coming, they are not providing jobs, they are not
+providing hope for quality of life for our rural America. It is
+majorly important.
+I would just say that the programs that are in place, like
+the Rural Utility Services Program, RUS, FEMA after natural
+disasters, those are really helpful programs that really help
+rural America not be left behind, and that is majorly
+important.
+Senator Tuberville. One more question if I could.
+Senator Welch. All you want.
+Senator Tuberville. All I want? Good. I want everybody to
+answer this. Manmade disasters, cyberattacks. Who wants to
+start? Have you had any problems with it? How did you overcome
+it? What do you see down the road to be able to stop it? Have
+at it. Go ahead.
+Mr. Bohlin. Yes, sir. Thank you for bringing up that
+subject. At our water system 10 years ago we ended up getting,
+I don't know, we think it came through email, but we ended up
+getting ransomware-ed. They locked all of our files up. We
+could not access any of our customer files. We could not get
+into any of our company files.
+Fortunately, this happened on a weekend, on a Friday, and
+it was a long weekend. I believe it was Labor Day weekend. We
+have an IT team that works with us. We were able to call them
+in. They were able to come in and take all of our servers
+offline. They stripped the hard drives and got everything off
+of it. They reinstalled the software. They put the data and
+everything back in from backups, to get us back up and running.
+It is a real threat. I am afraid that it is growing right
+now, and there are a lot of things that need to be done. I
+think that training and technical assistance in that area is
+greatly needed.
+It is scary when you are in a situation like that, you
+know. Fortunately I can say that none of our customers'
+information was compromised, or none of our company's
+information was compromised. It is scary because you do not
+know what is going to happen.
+The funny thing about it, when we were hacked and they got
+into our files, they never sent anything wanting a ransom. They
+just tied everything up. That's our experience.
+Senator Tuberville. Anybody else?
+Mr. Kimbro. Yes, Senator. We actually had a cyberattack hit
+our system July 3rd of 2021, and we were down 4 days, mostly
+without a precaution, just going through things, just making
+sure we did not bring it back up before we knew we were safe.
+It a real concern. Spent a lot of resources, human resources,
+dollars, of course. The bad guys get smarter, it seems, every
+day, and what worked today they figured out so you are
+constantly chasing that.
+It is a very big concern. In some cases it locks us down to
+where it is not as friendly to do business with us as we would
+like, like speaking credit card information over the phone you
+can't do because you are not PCI compliant in those regards.
+Our members, we want to make sure their information is
+protected, certainly their financial information, credit card
+information and so on and so forth. It is a major concern, and
+we spend a lot of resources looking at it. Literally, I hope
+and pray every day that nothing bad happens.
+Senator Tuberville. Any other experiences? Go ahead.
+Mr. Paap. From a NACo perspective, and it does not matter
+which one of the 3,069 counties, parishes, or boroughs we
+represent, I think we have to recognize with cybersecurity it
+is not a fair fight. You know, the bad guys only have to be
+right once to win. We have to be right every day, every hour to
+win. There are many of those local governments that do not have
+the resources, do not have the capacity to make sure that they
+are state-of-the-art, and continual improvement on
+cybersecurity.
+I think it is only going to get worse, and it is something
+we have got to recognize.
+Ms. Moore. I would just offer we have been digging into
+this in Vermont, as well. Frankly, one of the saving graces, if
+it can be considered that, that we have discovered, is many of
+our smallest State systems are not actually connected to the
+outside world, and that is their best form of prevention. I do
+not know that that is long-term sustainable, and certainly
+comes with other costs.
+We are starting from square one oftentimes for locals that
+are connected to the internet, with some sort of remote access.
+Oftentimes folks have not even set passwords. Thinking to the
+minds of the bad guys who are constantly advancing, and we are
+still at the stage where many of these systems have the default
+passwords remaining in there as the access point is a
+challenging set of circumstances.
+There is an enormous need for education, understanding,
+building that awareness. Vermont is challenged by the fact that
+we do not have county government, as Ted has spoken to--250-
+plus municipal entities, 450-plus public water systems.
+Figuring out how to deliver those services in partnership with
+Vermont Rural Water is the direction we are headed.
+Senator Tuberville. Thank you.
+Mr. Brady. Thank you for asking. As the insurer for most of
+the State's water and sewer systems I can simply point to how
+hard it is to insure these things, and they are really
+uncovered. When these things do happen, oftentimes it is the
+town itself that needs to shoulder the burden, the system
+itself that needs to shoulder the burden, because that market
+is so hard because it is such a risk.
+Senator Tuberville. You cannot buy insurance for this?
+Mr. Brady. In Vermont you get a very minimal amount of
+coverage, not enough to restore the system in the worst-case
+scenario.
+Senator Tuberville. Interesting.
+Senator Welch. I want to just ask one question to the
+panel, and it is based on my observations of what happened to
+Vermont in Irene and a year ago.
+What I noticed, and this might be true in your communities
+as well, FEMA was really great right after the event. They
+showed up. They were responsive. They provided food, some
+temporary shelter, immediate cash, and that was combined with
+the extraordinary first responder response and neighbors in the
+community who all came out to help the folks whose home was
+flooded or business was under water.
+Then they leave, and they leave because they have another
+disaster--fire in Hawaii, Houston--and they have got to keep
+going. In the aftermath Vermont gets back on its feet, but if
+it is your home, if it is your farm, if it is your business, it
+is really tough, tough, tough. It is tough emotionally. It also
+really tough because then the folks who are coming to represent
+FEMA are not institutionally there. There are a lot of
+bureaucratic things, and this is where, Coach Tuberville, I
+really agree with the opening comments you made about the
+complexity of it.
+My view is that FEMA is just to set up for that long-term,
+follow-through situation. They have a principal job of that
+immediate disaster response. What I have seen in Vermont is
+that those local folks on the Select Board are totally engaged
+with their community on how do we fix this bridge. They are
+totally engaged with the fact that the grocery store in the
+small town needs to be reopened to help folks there.
+My view is that--and RD has been fantastic. The USDA has
+been that institution that has been the closest to the people.
+My view, and I want your reaction to this, is that we have got
+to redesign so that we drive down the resources to that local
+community where there are local people who are totally
+committed to the reconstruction as quickly, as efficiently, and
+as affordably as possible.
+It suggests to me, listening to Senator Tuberville, that
+this may be an area where we could provide some reform with the
+goal of empowering those local communities, where we have got
+the citizens who are invested in the follow-through and will
+answer the tough questions.
+Maybe just go down the line to get your reaction to that
+sort of outline of revised approach.
+Mr. Brady. Thank you for asking, Senator. What we find it
+seems long-term recovery approach really does put the recovery
+in the hands of local long-term recovery volunteers. It is
+imperfect, at best. To what you said before, projects do not
+get done in days or weeks or months when FEMA is there.
+Projects get done in years.
+I will give you an example. Londonderry, Vermont, down in
+south-central Vermont, got a FEMA mitigation grant post-Irene.
+Two weeks, three weeks, before the July 2023 flooding they
+finished that project, more than 10 years after the disaster.
+It was to raise a single residence house up out of the flood
+zone. That system does not seem to be working well.
+Killington, Vermont, paid off its last piece of disaster
+debt from Irene, which was 2011, the week before the 2023
+flooding. That system does not seem to be working, so we would
+embrace it.
+I think the Rural Recovery Act that you have proposed would
+be an incredible opportunity for changing the way we do
+disaster response and have RD more involved. I think the Rural
+Partnerships Program that Commissioner Paap mentioned is also
+important for getting ready ahead of time for disasters.
+Senator Welch. Thank you.
+Ms. Moore. Yes. I would echo, actually, some of the
+comments Ted made in his opening remarks about the importance
+of financial, operational, and managerial capacity in many of
+our small rural communities, and I think that is where part of
+this disconnect is. FEMA has a lot of opportunities, but they
+tend to be complex and application intensive. We have a lot of
+passion and commitment on the part of the volunteers and town
+clerks who would go after those resources. What is needed in
+between is technical assistance and expertise, and to my mind,
+that is where I see the Rural Recovery Act coming in. USDA RD
+has the ability to sort of work between, with a foot in each of
+those worlds, and help connect that vision that the community
+holds to how you actually build that project on the ground, and
+that is a gap right now.
+Senator Welch. Yes. Any others? Mr. Paap?
+Mr. Paap. I would add that sitting in this room in the Ag
+Committee and Agriculture we have got a lot of commodities that
+are raised I this country. The most precious commodity we all
+have is time. Whether it is during the disaster or the recovery
+process, time is critical. Anything we can do to help with that
+process, to help with that coordination, I think would be
+important.
+Senator Welch. Great. Thank you.
+Mr. Bohlin. Yes, sir. Thank you for the question. As far as
+FEMA goes, when Ivan came through they were great. They were
+there with boots on the ground. They had appraisers coming out,
+checking out properties, and trying to help get money and aid
+into the community. They gave us spreadsheets where we had to
+keep our force work, timesheets of employees and what they
+worked. They also provided funds to pay for equipment such as
+chainsaws and generators that we might need during the event,
+to get us up and going.
+When Sally hit, I called our local EMA and told them that
+we had some issues and needed to talk to FEMA. I never saw
+anybody.
+Once the crisis was over they came back and they funneled
+some money into Baldwin County, because what they are doing is
+they take money and they will give a county, an area, they will
+give them a lot of money. Then what we have is we have
+stakeholders, and us, as a water system, in Baldwin County, we
+are stakeholder in this group. If we want to get money to do
+something--and all of this money is hazard mitigation, it is
+not to repair or fix anything that has been damaged. It is do
+something for mitigation, which is fine. It's great. I think
+hazard mitigation is needed.
+It becomes competitive, and we have to compete with Foley,
+Robertsdale, Orange Beach, Gulf Shores, Fairhope, Daphne, to
+get these funds. As a system I have to submit an RFP back to
+this group of stakeholders. They review the projects that
+everybody has submitted, and then they pick which projects they
+want to fund or they would see funded.
+Now once you do that you still have to file your project
+with FEMA, and it has to be approved. I tried doing this and
+going through the process. We were wanting to build a safe
+house for our employees so that we could house them during a
+storm. I filled out all of the paperwork, submitted it to FEMA.
+I did not hear anything for over a year and a half. I finally
+get a call back from FEMA, and they want to know about our safe
+house project. I said, ``Well, I didn't think we got the money
+because we didn't hear anything from you.'' ``Oh, no, no. We
+just need you to update some paperwork.''
+They sent me the paperwork with what they need updated. I
+update this paperwork and I send it back to them, and I don't
+hear anything for another year. Then when I hear from them
+then, they have turned down the project.
+Now you have got to keep in mind, too, when things take
+this long the cost of what you are trying to do is going up. We
+had borrowed money from RD to build a safe house several years
+ago, and the pandemic hit, and then the supply chain issues
+hit, and the cost of a safe house was $450,000 and went to
+$850,000. By the time we worked through this process it was up
+to $1.4 million. It is just a long, drawn-out process.
+Senator Welch. Thank you. I do want to be brief. I just
+want to able to recognize, Senator Lujan has just come in, but
+go ahead.
+Mr. Kimbro. Yes, sir. Real brief. We are an at-cost
+provider, electrical cooperative. Our total utility plant is
+$140 million. If a Hurricane Michael came through and hit our
+service territory we could literally have a $40 to $50 million
+expense.
+FEMA is critically important for us. The only thing I would
+offer about FEMA is going forward the regulations surrounding
+it and the reimbursement, the process of that, just tell us
+what they are. Don't keep moving the goalposts. Have that where
+we can get that process known and understood and therefore
+applied for quickly.
+Senator Welch. Thank you very much. The Chair recognizes
+Senator Lujan.
+Senator Lujan. Thank you, Mr. Chairman, and Ranking Member
+Tuberville. It is good to see both of you. Thank you for this
+important conversation.
+I am especially grateful for this discussion after what has
+been a difficult and devastating fire season and flooding
+season in New Mexico, just two years after we saw the largest
+fire in our State's history, a fire, by the way, that was
+started as a prescribed burn. Some folks did not see the need
+to look at it with infrared technology with the burn pile, and
+put a hand to it, and it was cool enough. Community after
+community was devastated and destroyed, not because of Mother
+Nature.
+Last month two fires that started on the Mescalero Apache
+reservation quickly grew out of control. Hotter and drier
+conditions from climate change along with high winds helped the
+fire spread and burn over 25,000 acres of land in the Village
+of Ruidoso and throughout southern New Mexico. A fire that
+started one afternoon, by that night the town was being
+evacuated, because it spread so quickly. It was so dry.
+A few weeks later we thought Mother Nature was going to
+help us, and she put down some water and some rain, but it was
+a little too much because of the burn scars. What the fire did
+not take out, the flood did.
+Hundreds of homes and buildings have been destroyed by the
+fires and by the flooding, but the impacts on rural
+infrastructure do not end there. The fire scar, the monsoons,
+the flash flooding, the debris flows, septics, in this area
+there is not a wastewater system. Families are on septics.
+Those get filled up and that contaminates everything. It gets
+into the water lagoons. We are talking about communities up in
+the mountains. Where our water comes from is if we are blessed
+with a little bit of now and it melts, and we are able to save
+it in some lake and some ponds, and we can filter it and we can
+get it to people to drink, that is how we survive back in New
+Mexico. All of that gets ruined.
+The costs can quickly become overwhelming, especially for
+small rural communities that have fewer resources and less
+capacity for resilience, finding and repairing damaged
+infrastructure, which I appreciate every one of the panelists
+today with your testimony.
+Mr. Chairman, while you may be on the East Coast, and
+Coach, you are down South, on the West side the smallest towns,
+it is hard. They do not have the revenue base, a tax base
+sometimes, to come up with the cost shares, to figure things
+out based on population.
+For whatever reason, you know, my ancestors and folks back
+in New Mexico saw it forthright to draw our counties large. You
+know, some of the Eastern States can fit inside some of our
+counties in New Mexico. When that happens, based on the current
+rules, if we do not hit the population density or the cost
+threshold, then it is not a national disaster. It is a State
+disaster.
+For all my friends in the Midwest, who the size of their
+counties is the size of ranches in New Mexico, they hit that
+density pretty quickly. For Western States--New Mexico,
+Wyoming, pick one--it is just not fair. It is not fair when we
+just look at a line that was drawn over a century ago by some
+folks that got together to throw some lines on a map based on
+who lived where, or they could see down that way, or there was
+a mountain here, or there was a creek that divided this place
+from that place, or it took that many days for you to get on
+horseback and ride through two towns, so that is where we are
+going to drop the marker, and that is where we are going to
+draw the county line.
+It does not apply today with the current rules that we have
+based on treating all American citizens equally. I certainly
+hope that when we look at a rewrite of FEMA, some of the
+legislation that you have been championing, Mr. Chairman, and
+our Ranking Member, Coach, that we even think about FEMA in a
+regional way across America.
+Fires in the West are not just fires. It is a day or two or
+a week or two of fire, and then it is a decade of flooding,
+because everything that was holding up that water, it is all
+gone. Any of you that have ever poured concrete, if you poured
+it on an incline or decline, and a little bit of water gets on
+top of it, you see how quick it runs and how it picks up steam?
+Think about that on a mountain, 13,000 feet, going down to
+7,000 feet pretty quickly. You think about the steam that that
+water picks up. It picks up trees that have fallen, and it
+turns them into torpedoes, and they go through people's homes.
+It is like an explosion, when a bomb goes off and there is
+shrapnel that sticks into stuff. The same thing happens with
+wood and to people's homes. It is just devastating.
+Mr. Chairman, I have used up all my time here. You know,
+community after community, the city of Las Vegas, which is in
+the heart of that fire that started with a prescribed burn,
+their water treatment center, we thought it was going to be
+okay after that fire a few years ago, with all the mitigation.
+Then some floods came in, destroyed the reservoir again. We are
+trying to get in there to help them. While that flood hit, two
+other communities, one by the name of Medanales, just north of
+the city of Espanola, beautiful little community, hardworking
+families, a little bit of debris came down in the river, even
+though it was not raining on this little town, pulled down a
+bunch of water and rock, stopped the river flow. The river
+picked it up itself, as it sometimes can do, went over a bank,
+and took out a town. Took out a community.
+The devastation was not large enough for that county. No
+Federal declaration. It takes all the Fed's approval to go into
+the river to take the dirt out. It takes an act of God to get
+their permission to be able to go do that without a Federal
+declaration.
+Mr. Chairman, I cannot thank you enough for having this
+conversation and bringing attention to what has been happening
+not just across Vermont and Alabama and all over America but in
+New Mexico. We need to find a way to work together, Democrats
+and Republicans. We are one big American family here, and I
+know we can do better to make sure that the smallest
+communities in America get the same benefit as the biggest
+cities across the beautiful country that we all home.
+Thanks for the time. I yield back.
+Senator Welch. No, thank you for that wonderful statement
+summarizing the collective commitment we all have and whether
+we are in a red State or a blue State, we love the citizens we
+represent. When they get hit, when they get hurt, we want to
+help. I have appreciated the support that Vermont has received
+from many of my Republican colleagues, and I want to
+reciprocate. I know Senator Lujan, you do as well.
+This is a great hearing. You know, I go back to Senator
+Tuberville's, oops, Coach Tuberville's comments about trying to
+have some flexibility in local implementation. It really makes
+sense. All of our communities, folks who live there, the
+biggest thing in their life is their community, and let's take
+advantage of that. I think with some of the legislation we have
+before us we might be able to get together, hopefully work
+together to improve the capacity of local people to fix their
+own disasters, with the help of the Federal Government, but
+with local leadership.
+I really want to thank all the witnesses. This is terrific.
+I mean, this is the way we should have hearings. The next step
+on this would be to propose concrete legislation that
+incorporates many of the recommendations that all of our
+witnesses, from the great State of Vermont, from the great
+State of Minnesota, and the great State of Alabama. You know,
+it is great to have folks on both sides of the Mason-Dixon Line
+here, speaking truth to the Senators. I look forward to
+continuing to work with all of my colleagues.
+I would like to submit a letter for the record, submitted
+by the National Association of Counties. Without objection, to
+do that.
+
+Senator Welch. The record will remain open for five
+business days for members to submit additional questions or
+statements.
+This hearing, this very good hearing, is now adjourned.
+
+=======================================================================
+A P P E N D I X
+July 10, 2024
+=======================================================================
+
+=======================================================================
+DOCUMENTS SUBMITTED FOR THE RECORD
+July 10, 2024
+=======================================================================
+
+=======================================================================
+QUESTIONS AND ANSWERS
+July 10, 2024
+=======================================================================
+

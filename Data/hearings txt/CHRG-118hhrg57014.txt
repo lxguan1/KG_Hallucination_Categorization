@@ -1,1 +1,1636 @@
-THE SOCIAL SECURITY TRUST FUNDS IN 2024 AND BEYOND ---------- TUESDAY, JUNE 4, 2024 House of Representatives, Subcommittee on Social Security, Committee on Ways and Means, Washington, DC. The subcommittee met, pursuant to call, at 11:19 a.m., in Room 1100, Longworth House Office Building, Hon. Drew Ferguson  presiding. Chairman FERGUSON. Good morning, everyone. We will call the subcommittee hearing to order. I want to thank each of you for being here today. And I especially want to thank our witnesses for being here today. We look forward to hearing from you. Last month, the Social Security Board of Trustees released its annual report on the fiscal status of Social Security programs, and it came as more unwelcome news for American seniors and workers. Like, last year, both the trustees and the Congressional Budget Office project Social Security's retirement and survivors' program will be unable to pay full benefits in less than a decade. What that means to the American people and those seniors that are near retirement or will be in retirement is that it could produce a benefit cut of somewhere between 21 and 25 percent. And the difference is that now it is a year later, and we are much closer to the insolvency. As we will hear today, the longer the wait, the harder it is going to be to solve. It is clear that Social Security's cost growth is unsustainable. Program costs average 4.5 percent of GDP from 1994 to 2023, and are projected to grow rapidly to nearly six percent of GDP by 2034 as baby boomers continue to reach retirement age. Simply put, more people are and will be collecting Social Security for longer periods of time. And we are looking at a situation where we have fewer workers. And this trend is projected to continue for decades. To add insult to injury, President Biden's recent budget does nothing to address the pending exhaustion of the trust fund. And to make matters worse, the accumulative effect is that it actually hurts Social Security's funding stream by billions of dollars over the next decade. On top of that, the Social Security Administration has done everything it can to push out rules and other policy changes that will result in tens of billions of dollars of new and unpaid for program costs that will only accelerate the trust fund exhaustion. Social Security is a vitally important part of every single American's life and retirement, so it is important that we don't downplay how bad the situation really is. To tell the American people that the most recent trustees report is good news because projections push back insolvency by a few months is misleading and simply misses the point. These programs are in dire trouble, and sugarcoating the problem instead of seeking bipartisan solutions only puts seniors and workers at greater risk. The American people rightfully expect and deserve that we find a way to work together to save and strengthen this program. This starts here with an honest assessment of the program's finances and a sincere discussion of the size of the problem we need to solve. And I invite my colleagues here today to join in that discussion and have a very robust debate on what we need to do moving forward. I would now like to yield to the ranking member, Mr. Larson, for his opening statement. Mr. Larson, you are now recognized. Mr. LARSON. Thank you, Mr. Chairman. And thank you for your remarks. And I want to thank our panelists. It is not often that we get the Walter Cronkite of actuaries that is here. So, I am pleased that we are going to hear straightforward talk. But let's cut to the chase. Congress has not done its job in over 50 years. We have not enhanced this program so that your constituents are better served. On average, every single one of our districts receives more than $200 million monthly to people that are on Social Security. It is arguably probably the best economic development plan that we have. And where do they spend that money? They spend it right back in the district. I can't help but get upset when you think about the fact that 10,000 baby boomers a day become eligible for Social Security. And they look and say, well, what has happened? Why hasn't Congress acted? We have a proposal that is out there. What Congress needs to do is something the public expects from us: vote. You got a plan. We have a plan. We are happy to put our plan up for a vote. What is yours? What we hear is $1.5 trillion in cuts to Social Security? That is your idea of saving Social Security? Raising the age of Social Security recipients. The American public knows for every year you raise the age, that is a 7 percent cut in benefits. So, the opening remarks of the chairman is that we are in dire straits. We will see 20 percent-plus cuts by 2033 if Congress does nothing. So, your proposal is, well, let's do something. Let's make those cuts now by raising the age and cutting it 21 percent upfront. It is long overdue to stop all of the dialogue and how about vote. How about put out your plan. Do what the people have asked us to do. Everybody agrees that there is a crisis, that there is a need here. So, what did we get elected to do? I don't know how people go home and look themselves in the mirror and understand that there is 5 million of your fellow Americans that get below poverty level checks from Social Security. More than 70 million people--or close to 70 million people now who rely on Social Security, 40 percent of them, it is the only benefit they have. And you, Congress, with the responsibility of changing that, do nothing. You don't vote. That is what we need more than anything else. Aside from laying out the numbers and getting the news, good and bad, then the question is, how do you solve the problem? Cutting Social Security doesn't solve the problem. It exacerbates it. You mean to tell me that things haven't changed in 53 years? Not having a COLA that works. Having 5 million-plus people who have paid into a system get below poverty level checks. What do you have against giving 23 million Americans a tax cut? These are the hard workers. You guys are going to work overtime to make sure that millionaires and billionaires get their tax cut. But the average working person, 23 million Americans that will get a tax cut, if this Congress were to act, you don't care about. So, whether it is a tax cut, whether it is getting benefits to the point where they are livable for people, and making sure that no one can retire into poverty, and repealing WEP and GPO and paying for it. Thank God for President Biden saying, hey, let's pay for this. Let's have people who pay nothing or next to nothing, millionaires and billionaires, just pay their fair share of what the guy making 50 or 30,000 a year has to pay all year long. You know what that does? It both allows us to extend the benefits and also allows us to extend the solvency. The choice is yours. If you got a better idea, put it out there. But it seems like the only idea is to cut Social Security by $1.5 trillion and to cut people's benefits by raising the age 21 percent across the board. I yield back. Chairman FERGUSON. Thank you. I now have the pleasure of introducing our witnesses for the day. Stephen Goss is the chief actuary at the Social Security Administration. Dr. Phillip Swagel is the director of the Congressional Budget Office. And Barry Huston is an analyst of Social Security policy at the Congressional Research Service. Thank you all, once again, for being here. I look forward to hearing your remarks. You will have 5 minutes to deliver the oral remarks. Mr. Goss, you are now recognized. STATEMENT OF STEPHEN GOSS, CHIEF ACTUARY, SOCIAL SECURITY ADMINISTRATION Mr. GOSS. Thank you very much, Chairman Ferguson, Ranking Member Larson, members of the committee. Thank you for the opportunity to come and talk to you today about Social Security's program past, present, and future. Social Security started paying monthly benefits, as you all well know, to qualifying retired workers and family members and survivors in 1940. Benefits to disabled workers and their families started in 1957. Over the 85 years through 2024, all scheduled benefits had been paid in full and on time. Social Security provides this fundamental insurance against loss of earned income due to old age, disability, and death, for nearly all current and past workers and their families. Today, over 67 million people receive monthly benefits from the OASDI program, nearly 20 percent of the population, at a cost of 5.2 percent of GDP. By 2060, OASDI program cost is projected to rise to a stable, roughly, 6.1 percent of GDP, with over 23 percent of the population then expected to be receiving monthly benefits. But currently scheduled tax income remains at only 4.6 percent of GDP. So we have a shortfall to deal with. Over the 75 years as a whole, the unfunded obligation, the shortfall that we have over the period of the next 75 years, is 1.2 percent of GDP. We need to get these things back in balance. At the start of 2024, reserves in the combined OASI and DI trust funds total $2.8 trillion, nearly double the amount of annual payments. So our contingency reserve fund is strong at the moment. However, revenues to the combined OASI and DI trust funds are projected to be less than program costs in 2024, as they have been since 2010, in future years under the intermediate projections to the 2024 Trustees Report. So combined OASI and DI reserves would become depleted in June of 2035. That is 13 months later than projected in the last year's report but is still on the horizon. At that time, 83 percent of the scheduled benefits would still be payable. For the OASI Trust Fund alone, which is a separate legal entity, it is projected to become depleted in its reserves in November of 2033, 7 months later than last year's report. Again, an incremental change with 79 percent of scheduled benefits then payable from that fund alone. The DI Trust Fund is in good shape and not projecting to have issues under the current projections through 2100 and beyond. Now, improvement in the 2024 Trustees Report is due to better than expected economic growth in 2023, a very good thing, and recognition of continued high-labor productivity and employment levels through 2023, and expected to go on for the future. In addition, lower disability incidents and prevalence rates have continued. We do have a rise in issues with the birth rate to be dealt with, obviously. Our projected annual shortfall for income to cover program costs should come as no surprise. The trustees have projected combined OASDI Trust Fund reserve depletion will occur between 2033 and 2035 for the last 13 years' reports, and between 2029 and 2042 for the last 34 Trustees Reports. The fundamental challenge of the changing age distribution at the adult population due to reduction in birth rates after 1965 was well known even in 1983, at the time of the last major amendments for this program. The 1983 amendments intended to accumulate substantial trust fund reserves, making full payment of scheduled benefits possible for decades to come. But these amendments were understood at that time not to be a permanent solution. Prior to the 1983 amendments, income was expected to cover only 93 percent of program costs for the year 1983, declining to 78 percent of scheduled costs for 2025. After the enactment of the 1983 amendments, tax income was projected to exceed program costs through 2020, but to cover only 93 percent of scheduled benefits for 2025, a year yet to come, declining to 86.5 percent by 2035, with trust fund reserves becoming depleted not until 2063 under those projections. However, annual tax income fell short of expectations after 1983, and fell below annual program costs, starting in 2010 for two big reasons that had not been anticipated back in 1983. First, the share of covered earnings subject to the payroll tax declined from 90 percent in 1983, which is expected to persist, to just 82.5 percent over the next 17 years by the year 2000. Because average earnings grew much, much greater by 62 percent more than inflation for the highest 6 percent of earners between 1983 and 2000, where the average wage grew by only 17 percent for the other 94 percent of workers across that period. Second, the deep recession of 2007 to 2009, with only a very gradual 10-year recovery reduced employment earnings for a decade of costing us not to have the buildup of reserves that was expected. As a result, trust fund reserves did not accumulate to what was expected in 1983. And our scheduled cost at this point is projected to cover--our revenues to cover only about 86 percent of scheduled cost in 2025, declining to 84 percent by 2035. The combined OASDI reserves are now projected to become depleted in 2035, almost 30 years earlier than 1983 for the two reasons already mentioned. Chairman FERGUSON. Mr. Goss, we have allowed you a little latitude to go over by about a minute. And if we could, I am going to get you to yield, try to keep everybody on the 5- minute clock. And I am sure we can get into more of this really important information through member questions.   Chairman FERGUSON. With that, Dr. Swagel, I am going to call on you for your 5 minutes. STATEMENT OF DR. PHILLIP SWAGEL, DIRECTOR, CONGRESSIONAL BUDGET OFFICE Mr. SWAGEL. Very good. Thank you. Chairman Ferguson, Ranking Member Larson, and members of the subcommittee, thank you for inviting me to testify about Social Security. Social Security faces a significant financial challenge. Under current law, in our projections, the Old Age and Survivors Insurance Trust Fund is exhausted in fiscal year 2033, and the Disability Insurance Trust Fund is exhausted in 2061. If the two trust funds were combined, they would be exhausted in fiscal year 2034. After the trust funds are exhausted, we project that the resources to pay benefits in 2035 would be 21 percent less than the amount of scheduled benefits. And that shortfall would increase over time. In CBO's projections, about 82 million people, that is roughly one-fifth of the U.S. population, receive Social Security benefits in 2035. That is a projection. If all Social Security benefits were reduced by the same percentage in that year, lower income households would reduce their spending by more and increase the amount they work by more in percentage terms than households with higher lifetime incomes. Legislative action would be needed to avoid this scenario. The imbalance between the systems' revenues and scheduled benefit payments extends beyond 2034, and that imbalance grows over time. We project that the actuarial deficit over the next 75 years equals 1.5 percent of GDP or 4.4 percent of taxable payroll. So, that is, scheduled benefits could be paid over 75 years through 2098, if payroll tax rates were increased by 4.4 percentage points right away, from 12.4 percent to 16.8 percent, and that is an increase of 35 percent. That is a 35 percent tax hike. Alternatively, a reduction in scheduled benefits of 24 percent would permit full payment of those smaller benefits through 2098. And, of course, a combination of changes to taxes and benefits or relying on resources from the Treasury's general fund could also suffice. And policymakers, you and your colleagues, can have different changes apply to people of different incomes and people of different ages. Additional changes would be needed to ensure solvency beyond 2098. The aging of the population is a key factor affecting the finances of Social Security. The number of people age 65 or older who are less likely to work and pay payroll taxes and are generally eligible for Social Security benefits is projected to grow faster than the number of people age 25 to 54 who are more likely to work and to pay payroll taxes. Population growth is determined by births, deaths, and net immigration. Fertility in our projection remains lower than replacement. We project life expectancy will continue to increase. And immigration is now an increasingly important part of the growth of the U.S. population and the U.S. labor force. And all of these demographic changes affect the financial status of Social Security. A feature of CBO's work is that the demographic and economic projections used in our Social Security analysis are consistent with those used in CBO's baseline projections and for other purposes. In closing, let me note that any projection over a horizon of seven decades is inherently uncertain, but it is clear that action is needed to make Social Security financially sustainable. Thank you very much. I am happy to answer questions.   Chairman FERGUSON. Thank you, Dr. Swagel. Mr. Huston, it is now time for your 5 minutes. STATEMENT OF BARRY HUSTON, ANALYST OF SOCIAL POLICY, CONGRESSIONAL RESEARCH SERVICE Mr. HUSTON. Chairman Ferguson, Ranking Member Larson, and members of the subcommittee, thank you for inviting me to testify. My name is Barry Huston, and I am an analyst with the Congressional Research Service. Today's Social Security is different from the one that was enacted in 1935. The program matured from one that covered about half of workers and paid benefits only to retired workers, to one that covers almost all workers and pays benefits to retired and disabled workers and their eligible family members. This year, Social Security will pay benefits to over 67 million beneficiaries, and about 182 million workers will work in covered employment. Most of these workers will become future beneficiaries. The program's ability to pay benefits to current and future beneficiaries is determined by its revenues, costs, and its trust funds. Current and projected imbalances between these elements indicate the program will not be able to pay the full amounts of scheduled benefits in about 11 years. The largest source of revenue is payroll taxes, about 91 percent of revenues in 2023. The tax, evenly split between employees and employers, is levied on covered earnings up to an annual limit. This annual limit generally rises with wage growth in the economy. As average wages are projected to increase along with the number of covered workers, so too are projected revenues from payroll taxes. The second source of revenue is income from the taxation of Social Security benefits, about 4 percent of revenues in 2023. About half of beneficiaries pay Federal income tax on a portion of their benefits. The thresholds used to determine tax liability are fixed in law and not indexed. For this reason, among others, projected revenue from the taxation of benefits is expected to increase. In previous years, tax revenues exceeded the amounts needed to pay benefits. Under law, the trust funds hold excess revenues in interest-bearing government securities. And in 2023, interest income on these asset reserves accounted for about 5 percent of revenues. However, with costs now exceeding revenues and increasing amounts of asset reserves projected to be redeemed to help pay benefits, this revenue source is projected to decrease and will approach zero as the asset reserves are depleted. In 2023, monthly benefits accounted for 99 percent of costs. Costs are expected to increase for several reasons, such as increasing average initial benefits and increasing number of beneficiaries and increasing beneficiary longevity. Although the benefit computation process is the same for all workers, average initial benefits generally increase for successive birth cohorts since the process index is for wage growth, which is typically positive. The process results in stable replacement rates across birth cohorts; that is, initial benefit levels as a percentage of career preretirement earnings are consistent across cohorts. It also results in progressivity. Workers with relatively lower career average earnings experience a relatively higher replacement rate. In the years to come, an increasing number of covered workers will become beneficiaries. As we are meeting life expectancy, as older ages continues to increase, they are expected to remain in current payment status for longer periods of time, on average. For these reasons, in addition to other factors, such as cost of living adjustments, costs are projected to increase. The program's revenue and costs are expected to increase in aggregate nominal dollars. Comparing the projected income and cost rates reveal that, for several decades, costs are projected to increase relative to revenues. This imbalance impacts the program's ability to pay full scheduled benefits. Since 2021, the program has relied on asset reserves to help pay scheduled benefits, and can continue to do so for about 11 more years. Once asset reserves are depleted, continuing revenues are projected to cover about three-fourths of scheduled benefits. Lawmakers may choose from a wide range of revenue increasing or cost-reducing provisions to help eliminate this imbalance. The Social Security amendments of 1983, generally considered the program's last major reform, use both types of revisions, among others. Depending on what provisions may be included in future legislation, changes may affect groups of workers and beneficiaries in different ways. Changes implemented sooner rather than later, in addition to requiring cost reducing or revenue increasing provisions that are smaller in magnitude, would allow workers and beneficiaries more time to adjust their behavior. Thank you, and I look forward to your questions.   Chairman FERGUSON. Thank you all for your testimony. And we will now start with questions. And I will start with that. Dr. Swagel, I want to start with you and talk to you about--you made a comment that just kind of caught me off. You suggested that one way of fixing this problem are general fund transfers to address the shortfall. If we did that, if we use that methodology, talk to us just very briefly about what that would do to the Federal debt and deficit each year, and what that potentially could do to interest rates and the amount of interest that the taxpayers are already paying. Mr. SWAGEL. Yes, sir. You know, as I said, the shortfall could be, you know, addressed in many ways. Transferring funds from general revenues, you know, the amount of dollars that would be needed in our projections is nearly $400 billion in 2033, and about $550 billion in 2034. And, you know, in real dollars, the Treasury would have to come up with those additional dollars. That would mean, you know, either reductions in other spending or additional borrowing. That would mean more crowding out and impact on interest rates---- Chairman FERGUSON. And given our level of debt right now, that does not seem like a viable option. That is not a question. That is a statement from me. I also want to ask you about in the shortfall category. You know, we hear a lot about, okay, the income cap right now of people who are making more than $168,000 a year, they are not paying their fair share. Currently, if you are paying above that, you are not--even if you are paying $168,000 a year-- paying Social Security taxes on $168,000 a year, there is still a shortfall. I mean, there is a difference between what you are paying in and what you are actually getting back. And then if you--and we have always tied the level of benefit to earnings, correct? So if you raise the cap, then, in theory, you would also raise the amount of earnings that people were eligible for down the road, or you would have to simply say--the answer is you are going to pay more in taxes, but you are going to receive less benefit. Is that a fair assessment? Mr. SWAGEL. No, that is right. And since the system as whole is progressive, you know, so thinking of lifetime benefits against lifetime contributions, the bottom quintile of people, you know, with--the bottom quintile, the lowest 20 percent of lifetime earners gets about 2.5 times back in benefits as what they pay in in contributions. People in the middle get about 1.5 times. The top 20 percent, on average, gets about 1. So it is 1:1. So that is a sense which the system as a whole is progressive. Chairman FERGUSON. And it is my understanding that if we subjected all earnings in the U.S. to the Social Security payroll tax, we would still have about a $10 trillion shortfall over the next 75 years. Mr. SWAGEL. Yeah. So I don't have that number in my head. I can tell you, if we increase the taxable share back to 90 percent--it is around 82.5 now--so made 90 percent taxable, that would delay exhaustion by 4 years. If we said everything above $250,000 is taxable, that would delay exhaustion by 13 years. So it makes a difference, but it is--you know, there is still a challenge after that. Chairman FERGUSON. Mr. Goss, question for you. When you look at what Social Security has done in terms of enhancing benefits and paying out more, would you say that couples that retire now on average receive a much greater benefit than, say, couples that retired back in the nineties--adjusted for dollars? Mr. GOSS. Well, if we look at benefits as Barry indicated, the nature of the benefit formula is that it tends to rise with the average wage over time. So the people from one generation to the next, if they have had higher wage levels, a higher standard of living that Social Security benefits has been intended to maintain, therefore, a higher benefit level to give them a similar replacement rate. In that regard, individuals and couples now who are retiring and getting the benefits are not really receiving more than generations in the past. In fact, one of the major changes I have seen in the 1983 amendments was to change the normal retirement age, which increased it by, what, by--you know, from 65 up to 67. And that actually lowered the average monthly benefit for people all as equal. Chairman FERGUSON. So you would argue with the fact that a couple who turned 65 in 1990 on average received $590,000 in lifetime benefits, and that is adjusted for 2023 dollars, when compared to a couple that turned 65 in 2020, they were projected to receive $812,000. And I look at it, and it looks like that the formula has actually increased--has pushed up the amount of lifetime earnings that a couple could see. Now, I say this to say that, you know, we have seen an increase in benefits over the years. It is not to argue that it is perfect, but we have seen that increase. Mr. Huston, I want to touch on one other thing, if I could, talking about, you know, the other things that our seniors-- and, look, seniors depend on this program, and we have an obligation, and it is important that we--that we honor what we--that Congress honors what it said it would do for the recipients of these benefits. But I look at this and I think to myself, in 50 years, there have been a lot of other programs that are out there to help seniors as well. I am going to tick through just a small list of these things: SNAP Program, Older Americans Act, housing choice vouchers, Weatherization Assistance Program, the LIHEAP, or Low-Income Home Energy Assistance Program, Lifeline programs, reverse mortgages, the Seniors Farmers Market Nutrition Program. My point is you can go on and on. And I think Congress as a whole, over the years, while it has made adjustments--while the formula for Social Security has said, we are going to see an increase in payments--but we have also done an awful lot to make sure that seniors have resources in many other areas for housing, in food assistance and, quite candidly, Medicare with healthcare as well. And there have been some great things that we have done there. So I think it is a little bit disingenuous to say that seniors don't have any other lifelines and this is the only thing. It is simply that seniors have a lot that they can depend on. And I think Congress has been very thoughtful in making sure that they have got the resources that they need. Again, I want to thank you for y'all's testimony. And, now, I am going to yield 5 minutes to my friend, Mr. Larson, for his questions. Mr. LARSON. Thank you, Dr. Ferguson. And, yeah, I almost don't know where to start. But basically, when I listen to the chairman speak, it is that, hey, you folks out there who are depending on Social Security, look, you already got enough. And for God's sake, what we don't want to do, at all costs, is make sure that billionaires pay their fair share. Because that would be--you know. And then, hypothetically, what would happen? Dr. Swagel, has the general fund ever been used to pay for Social Security? Mr. SWAGEL. You know, I don't know. Mr. LARSON. Ah. And so it has never been used but, hypothetically, that is what we are using here to try to say to the American public that somehow this is part of the--it contributes to the debt and deficit. That is total BS. Now, let me ask a couple of questions here. Mr. Goss, if we were to raise the retirement age by 3 years, as has been proposed, what would that mean in terms of cut to benefits, if we went from 67 to 70? Mr. GOSS. It would depend on how rapidly we did this. But at the point at which we had the retirement age raised by the 3 years, as you had indicated earlier, that reduces retirement benefits, monthly benefits and lifetimes benefits, by about 6.5 to 7 percent for each year that we raise. So an additional 3- year increase in the normal retirement age would in fact lower benefits by on the order of 20 percent. Mr. LARSON. Now, Mr. Goss, also, because we have heard this question as well, what percentage of income does someone who makes $1 billion in wages contribute to Social Security? Mr. GOSS. Well, given that the most they are going to pay is their 6.2 percent, they and their employer, on the first $168,600, I think the number comes out, for a billionaire, for somebody with $1 billion of earnings, to about .1 percent of their total wages paid by them and another .1 percent paid by their employer. Mr. LARSON. What percentage is a person making $50,000 pay? Mr. GOSS. Well, they would pay their 6.2 percent by themselves and their employer matching the---- Mr. LARSON. So, again, because we want to protect these billionaires and millionaires, it is unconscionable to think about the fact that they ought to pay their fair share, that they ought to be in a position where, as President Biden points out, if they do, we extend the solvency of the program for 66 years, and we are able to add on benefits. Another question that comes up, because this happens frequently on the trail. Can you talk about how Social Security actually doesn't contribute a penny to the national debt? Mr. GOSS. Yes, be happy to. As I think everybody here is very well aware, Social Security has its trust funds, and the trust funds can only have positive balances. Social Security now has and never has had the ability to borrow from the general fund or the Treasury. That is in the current law. Anything could change in the future. But currently, Social Security can only hold asset reserves. And as a result, with the roughly $33 trillion, $34 trillion of total Federal debt we have now, Social Security is actually covering approximately $3 trillion of that and not needing to be borrowed from the public at the moment. So Social Security can only really help surface some of the debt that the rest of the government develops. It does not contribute towards the debt. Mr. LARSON. So, for the general public to understand this, it is called a trust fund for a reason. And that trust fund has not been tapped into, nor will it ever be tapped into, unless Members of Congress have a different idea and want to change it. And they could through a vote, if they decided that this is the tact they would want to take. But the fact of the matter is, and it is a fact, that it doesn't contribute to the debt or deficit. And what aggravates people the most is, they pay into this. So does their employer. But their employer gets a tax write-off. Twenty-three million Americans get double taxed under current Social Security programs. And we as a body are the only ones that can change that. And instead, we don't put forward proposals that direct making the system both solvent and enhancing benefits, because people desperately need this money. Forty percent of our fellow Americans is the only thing they have. Twenty-eight million Americans. Chairman FERGUSON. The gentleman's time has expired. We now move to the gentleman from Ohio, Mr. Carey. Mr. CAREY. I want to thank the chairman. I also want to thank the ranking member, as well as the witnesses for being here today. Since day one, I have been a strong advocate for the strength and integrity of the Social Security trust fund. Unfortunately, if my numbers are correct, under this budget, if enacted, the administration's budget would cut approximately $17 billion to the Social Security trust fund over the next decade. Now, I am the grandson of a couple that lived only on Social Security. And I watched how they scrimped and saved and tried to do what they could. So with that being said, I am dedicated to working with my colleagues both on the Democrat side and Republican side to find some solutions. So, Mr. Goss and Director Swagel, the trustees in the Congressional Budget Office projected that, under current law, Social Security's Age-Old and Survivors Insurance Trust Fund would be depleted by 2033--we have established that--at which point the program will only be able to pay a fraction of the promised benefits. Absent any changes, what percentage of retirement and survivor benefits would be payable after the trust fund is depleted? Mr. GOSS. So our projections in the latest Trustees Report indicate that in 2033, the OASI Trust Fund alone should reach the point where we do deplete the reserves and have only continuing income coming in. That would cover about 79 percent at that point of the scheduled benefits that people are expecting. Mr. CAREY. Director? Mr. SWAGEL. Right. And we are just a little bit less than that. So we see the shortfall is a little bit less, but in the same ballpark. Mr. CAREY. So how is that projected to change in the years after 2033? Mr. Goss? Mr. GOSS. After 2033, that percentage will, of course, decline. I know off the top of my head for the total Social Security OASI and DI, that will drop from 83 percent, eventually down to 73 percent by the time we get to about 2098, and will be a little bit less than 73 percent payable for the OASI Trust Fund alone by that time. Mr. CAREY. Director? Mr. SWAGEL. Right. And, again, we have the same general result. You know, we see the shortfall as a bit larger, and so the decline in benefits, a bit larger, but it is broadly similar to what the trustees have. Mr. CAREY. Thank you both. Mr. Huston, the 1983 amendments were the last time that Social Security saw major program reforms and intended to address the system's funding shortfalls. Can you help us understand how those reforms came to be and what Social Security's finances looked like leading up to those reforms? Mr. HUSTON. Thank you. The 1977 amendments were the previous major reform, and they were estimated to get the program to be solvent for about 50 more years. The economic experience right after that proved to be much worse. In the 1980 Trustees Report, they highlight that benefits would be not paid the full scheduled amount in under 2 years. Later in 1980, Congress passed a temporary reallocation of the payroll tax from the disability program to Old-Age and Survivors Insurance program. Later in 1981, as the situation continued to deteriorate, Congress authorized interfund borrowing, and President Reagan established what became known as the Greenspan Commission. The Commission's report included provisions that would have resolved about two-thirds of the projected shortfall and became the basis for the 1983 amendments. Congress later added several more provisions which covered about the remaining one-third of the shortfall. And when it passed in March, April of 1983, it was estimated that the OASI program was months, if not weeks, away from being able to pay the full amount of scheduled benefits. Mr. CAREY. Thank you for that. I am going to follow up to Mr. Goss. How does the projected cash imbalance in 2033 compare to the imbalance in the early 1980s? Mr. GOSS. The projected imbalance in 2033--let's see, I actually had the numbers in the testimony here for 2035. We are at this point actually having a fairly significant imbalance in 2035, much more than was expected after the 1983 amendments. Again, really primarily for the one factor of the changing distribution of earnings in the economy. We have actually lost, as mentioned, I think Dr. Swagel mentioned earlier, we have gone from 90 percent down to 82 percent of all covered earnings being below our taxable maximum. That is an 8 percent reduction in the amount of revenue that we would have expected. And that cumulatively, ever since 1983, has had a major effect on the level of trust fund reserves that we have. That is the primary reason why we have---- Mr. CAREY. My time has expired. I thank the witnesses, and I thank the chair for giving me the opportunity. Thanks so much. Chairman FERGUSON. I thank the gentleman from Ohio. Next, the gentlelady from California. Ms. Sanchez, you are now recognized for 5 minutes. Ms. SANCHEZ. Thank you, Mr. Chairman. I must say that it feels like we have been here before. It feels a little bit like Groundhog Day in this committee, because each time that the subcommittee convenes to talk about the future of Social Security in this country, we hear plenty of proposed solutions on the Democratic side. For example, my friend, Ranking Member Larson, has pushed Social Security reforms again and again. He is very passionate about this issue. And his planned Social Security 2100 would increase benefits across the board, repeal WEP and GPO, and make Social Security work better for every American. And all of those benefits that we just talked about would be paid for, and they would serve those who need them the most. My Republican colleagues, on the other hand, are proposing significant cuts to Social Security. And while those cuts would be detrimental to all Americans, it would disproportionately impact people of color who would be affected the most by cuts. People of color are less likely to work for employers who offer pensions or any kind of retirement plans. So they are more likely to rely on Social Security after retirement. Proposed cuts to Social Security would really be a direct attack on those communities of color, specifically the Latino population, who relies almost exclusively on Social Security for their retirement. Once again, we are hearing talk about Republican plans to cut benefits, and in stark contrast, the Democratic plans, which are to increase benefits for those in need. I very much appreciate our witnesses coming here today to discuss this issue. Mr. Huston helpfully outlined what this subcommittee already knows, that the combined trust fund will hypothetically be depleted sometime after the year 2035. Everyone on this dais knows that this is a problem. But the real disagreement comes in how do we fix it. I, you know, hear my colleagues across the aisle maintain that, you know, slashing Social Security benefits or privatizing Social Security and raising the retirement age is somehow going to benefit Social Security as a whole. And I disagree with that. As my dear friend, Ranking Member Larson, always says, Social Security is the most successful anti-poverty program in our country. So we shouldn't be talking about slashing benefits, increasing the retirement age, privatizing Social Security. We need to find a very thoughtful path forward. And I think my friend, Mr. Larson's, proposal is that path forward. I just want to quickly talk about something that was mentioned in terms of who pays into the Social Security trust fund, and the fact that the fertility rate in the United States is declining, our birth rate is not replacement rate. But there is one potential avenue for finding the workers that we are going to need in the future if our economy is going to continue to grow and if we are going to keep the Social Security fund solvent, and that is immigration and immigration reform. That is something that I have been working on for 22 years in this Congress. And we have done nothing other than throw more money at the border, more enforcement. If we provided pathways to citizenship for people like Dreamers who were brought to this country when they were children, have never known another country but this, they want to work, they want to pay taxes, they want to pay into the system, if we were to increase legal pathways to citizenship, I think our Social Security trust fund would be in better shape. Is there anybody on the panel that disagrees with that? Okay. That is what I suspected. And yet we cannot get traction for a comprehensive overhaul of our broken immigration system so that we will have the workers of the future that we are going to need if we want our country's economy to continue to grow. I have nothing further, other than to say, you know, it is a little disheartening when we have a system right now where a professional baseball player who earns millions of dollars in a season hits the Social Security cap in their first at bat of the season and for the rest of the season does not pay into the Social Security trust fund. I think if we could balance that out to make it a little bit fairer for everybody, we would find some revenue to extend the livelihood of the Social Security trust fund. I don't understand why that proposal is not one that my colleagues on the other side of the aisle are willing to--are willing to consider. And with that, I will yield back. Chairman FERGUSON. As a Braves fan, we would support that coming all out of the Nationals' payroll. With that--and I thank the lady for her comments. With that, we will yield 5 minutes to the gentleman from Arizona, Mr. Schweikert. Mr. SCHWEIKERT. Thank you, Mr. Chairman. Dr. Swagel, first off, don't all workers, whether they are just on a work visa, a Dreamer, even if they don't have U.S. citizenship, they are paying a FICA tax, correct? Mr. SWAGEL. The ones who are in the country lawfully. Mr. SCHWEIKERT. Legally. Mr. SWAGEL. That is right. Yeah. Mr. SCHWEIKERT. Okay. I just want to--okay. Because that was a misnomer. I want to work through--so because there is some baseline problems I have between CBO numbers and the actuary report. I think the actuary report already understands their fertility calculations are substantially off from even censuses at math and those. But let's walk through some stuff here. For just this year, so let's do our 2024 year. We have payroll taxes, income tax from beneficiaries, and the interest--because they are going to make about 6 percent of the fund--it is going to come in as interest. I have 1 trillion, 166 billion. Okay. I have the spend in the 2024 fiscal year of 1 trillion, 480. Do those sort of match up with your numbers? That means the 2024 reaching into the trust fund will be $314 billion this year. Mr. SWAGEL. Yeah, that is close to what I have got. Mr. SCHWEIKERT. Okay. So it is $26 billion a month is reached into the trust fund and used to supplement the checks that are going out the door? Mr. SWAGEL. That is right. And the money from the trust fund is, you know, the securities of the trust fund redeemed by the Treasury. Mr. SCHWEIKERT. Yeah. It is the special T-bills. But some people don't understand that there were--you know, six percent of the entire revenues, at least this fiscal year, on Social Security are actually interest that the general fund pays for having borrowed the money. Mr. SWAGEL. That is right. Mr. SCHWEIKERT. So you do have the weird multiplier. And then there is the tax on benefits, which is about four percent. I wanted to make sure, because there was a couple of things said that made it sound like the trust fund isn't already in play. It is in play this year. Over $314 billion will be borrowed from the trust fund this year--excuse me, refunded-- the trust fund will cash in. Mr. SWAGEL. Redeeming securities. Mr. SCHWEIKERT. Yeah, redeem. Mr. SWAGEL. That is right. Mr. SCHWEIKERT. A couple other things I want to walk through. And instead of me leading you on these, I have three or four charts here. What do you see is the biggest differentials between SSA baseline and the CBO baseline? Particularly, I am looking at--you have a fairly substantial difference in outyears on, you know, their baseline. You also have some different calculations on the caps. But first, off the top of your head, can you give me what you see as differences on how the CBO actuaries built their model compared to the SSA? Mr. SWAGEL. Sure. I can talk to that now, and I know Steve will have, you know, a lot to stay also. So we do have different modeling technologies. So I will just set that aside. You know, we do things slightly differently. We do current law. And, you know, they assume some changes in the law. You know, outside of Social Security but in the tax law. In the parameters, the sort of numbers where we have different GDP growth, and Steve highlighted that this year, you know, they have bumped up GDP growth. And that just slightly more than offset, you know, their moving toward, you know, sort of what is happening on fertility. So it is growth fertility. They have much higher interest rates further out. And then immigration. You know, we have picked up the immigration surge that is not yet in the population numbers. But working with DHS numbers, we have picked that up. Mr. SCHWEIKERT. And where I was really going with this was not to pick on the Social Security actuaries or the CBO. It was more, I am trying to head towards the fragility of the numbers. When we did our math last year, the exhaustion, the first year of exhaustion was $616 billion short. Now it is 400 and some. Mr. SWAGEL. Yeah. Yeah. And in ours--that is immigration. In essence, it is from last year to this year, we picked up immigration. And sometimes we picked up--the immigration surge started in 2021. Mr. SCHWEIKERT. Okay. So year of exhaustion, you pick up a couple hundred billion just on what you consider immigration population. Mr. SWAGEL. The immigration surge, that is right. Mr. SCHWEIKERT. Okay. But it also actually should give us a sense of the level of fragility if we were to go into recession. You know, let's say it is a mild recession, would we probably see--you know, because you just had a $200 billion change at the end of the ten, in a single cycle. I am trying to get some sense of the fragility of that baseline number. Mr. SWAGEL. I agree that a recession would affect wages, would affect contributions. It would also affect fertility, right. After the 2008 rece--you know, recession and financial crisis and after the pandemic, fertility declined. It came up a bit, but not--you know, it didn't go backward. Mr. SCHWEIKERT. Yeah, but then it took a big spike downward last year. We went to 1.63. Mr. SWAGEL. Yeah. Mr. SCHWEIKERT. And I am over my time. Mr. Chairman, without objection, I have a number of charts that we have worked on with both taking from the actuary report and then some notes from the joint economic economists. I would like to add those to the record. Chairman FERGUSON. Without objection, your charts are added to the record.   Mr. SCHWEIKERT. Thank you, Chairman. Chairman FERGUSON. Thank you. Next, we will call on the gentleman from Michigan, Mr. Kildee. You are now recognized for 5 minutes, sir. Mr. KILDEE. Thank you, Mr. Chairman and Ranking Member, for holding this hearing. And to our witnesses, thank you so very much for being here, and perhaps more importantly, for your years of work on this and other subjects. I am from Michigan. In Michigan, over 2 million seniors rely on Social Security just to make ends meet. For most of those folks, Social Security is the most important source of income retirement--or retirement income. And, in fact, for many, it is the only source of retirement income that they depend on. They have contributed, these folks that I represent, that we all represent, have contributed to Social Security with every paycheck, and rightfully expect that it will be waiting for them when it is time for them to retire. That is sort of the deal. When you work hard, you play by the rules, you ought to be able to retire with dignity. Those American workers have lived up--paycheck to paycheck, have lived up to their end of the deal, and so it is really important that Congress, on behalf of the American people, live up to our end of the deal and make sure that that benefit that they paid for, that was promised to them, is waiting for them. Democrats on this committee--it has been mentioned, Mr. Larson's leadership on this issue, Democrats on this committee are focused on delivering on that promise. And we are willing, even if it is hard, even if it may not be perfect, we are willing to put our name behind a proposal to fix this problem. And that is why we put up our solution to shore up the Social Security trust funds, to increase benefits, important part of this provision, for current and future retirees. We do so by making the wealthiest Americans pay into Social Security at the same rate as those Bay City teachers that I represent or Saginaw firefighters that I represent, Midland factory workers that I represent are paying out of their paychecks. This approach stands, as has been said, in pretty stark contrast to the proposals or lack of proposals put forward by our Republican colleagues. Now, we haven't seen the legislative approach prepared and drafted and dropped in the hopper. We have done ours. But we do know that the Republican Study Committee, which 80 percent of House Republicans belong to, recently released their budget plan for 2025. And under their plan, Republicans would cut Social Security benefits by $1.5 trillion. You can say it is this or that or the other thing, but when you take that kind of money out of the program, someone is going to have to lose a benefit. This proposal which raises the retirement age and cuts benefits for family members couldn't be more out of step from what I hear back home about the solutions that people want to see us take up. For the Michiganders, the seniors that I represent barely getting by on their Social Security check, the answer to the long-term solvency of Social Security is not to increase the retirement age, not to cut benefits. It is time that we advance legislation that increases Social Security benefits to reflect the true cost of living that they experience and does so by making the wealthiest Americans, who have done extraordinarily well, as evidenced by some of the data dating back to the 1983 reform, the millionaires and billionaires have done extraordinarily well, and they certainly can step up and do their fair share. Again, it is time to move legislation that does not cut benefits, that solves this problem by making sure that the people at the very top of our economy pay their fair share. That is what our legislation would do. I don't want to ask a question. I just want to say to Mr. Huston, Mr. Goss, and Mr. Swagel, thank you for the work that you do. Thank you for keeping us informed with the facts. The facts speak to the need for us to take action. I look forward to working, for my remaining time here in Congress, alongside each and every one of you to make sure we solve this problem. So thanks for your service to our country, Ms. SANCHEZ. Will you yield? Mr. KILDEE. I would yield to Ms. Sanchez. Ms. SANCHEZ. Yeah. I just want to put a finer point on the immigration issue. When we have an underground economy, when workers are not part of the legal system, they do not pay into the Social Security system. Is that correct? Does anybody disagree with that? Mr. GOSS. That is correct. Ms. SANCHEZ. So, if we had opened up legal pathways for folks to naturalize and get their citizenship, they then would be, if they were working, paying into the Social Security system. Is that not correct? Mr. GOSS. That would make a significant difference. There are cases where people are not legally authorized, but they may nonetheless have earnings reported on their behalf by their employer with tax revenue coming into the trust funds. It goes into what we call the earning suspense file. They will likely not ever get any benefit credit, but payroll taxes still accrue in many cases where people are not legally work authorized. Ms. SANCHEZ. But that probably isn't the norm, because I would expect that in a cash underground economy, nobody is contributing into the Social Security trust fund. Mr. GOSS. If people are paid cash literally, absolutely. Ms. SANCHEZ. So, again, if we opened up legal pathways for those folks to regularize their status, we could boost what goes into the Social Security trust fund, correct? Mr. GOSS. Definitely, yeah. Ms. SANCHEZ. Thank you. And I thank the gentleman for yielding. Mr. CAREY . The chair now recognizes Mr. Kustoff for 5 minutes. Mr. KUSTOFF. Thank you, Mr. Chairman. Thank you for the witnesses for appearing today. If I could, Mr. Goss, if I could ask a question more on process than substance for a moment. I am a big believer that we can always look to history when we are trying to address issues and problems and see what was done right and see what was done wrong. From a historical perspective, giving guidance to us, can you talk about the 1983 process and lessons that we can learn, right and wrong, to help direct us? Mr. GOSS. Wonderful question, thanks very much. And I was actually there working with Moynihan and Dole and others throughout the Greenspan Commission and after. It was a wonderful process. I would say that what we really need to do is to do that more and more often, to have the kind of discussion we are having today, to talk about the possibilities through the Greenspan Commission and through the conference committee that actually developed the 1983 amendments. We made a lot of progress. One of the shortfalls that we had at the time was computers have advanced a little bit since 1983. We were not able to overnight develop a full annual projection of what the implications of reform would be at that time. We are now able do that literally overnight. For example, the fact that we had the big rise up in trust fund reserves expected in the 1983 amendments and then dropping down at the end. Had we had more time, we might have been able to smooth that out and been in better shape. But we are now in much better shape to do it. If I may just add, by the way, I think Phil and I are going to have to talk, because our projected shortfall for the calendar year 2024 for the OASDI program as a whole, our reduction in our trust fund reserves is $100 billion. I think I heard $300 billion. What is curious here is that, in fact, from the 2023 Trustees Report last year to the new one, the economy did so much better in 2023 that actually we are in better shape now. And here is the really good news: The end of 2023 and so far in 2024, the economy is actually operating better now than we even had included in our 2024 Trustees Report. I assume that is probably the same for the CBO projections. So I am not quite sure why CBO is seeing a $300 billion drop in trust fund reserves where the trustees, on what are conservative assumptions so far for 2024, has seen only a $100 billion drop. Mr. KUSTOFF. Are there other lessons, good or bad, that we can learn from the 1983 process? Mr. GOSS. I think the lesson that we learned then was that there was great cross-aisle discussion, bicameral, bipartisan. It was a wonderful experience dealing with people all looking towards where we were. Now, of course, the one shortfall was that it was so late in the game, as Barry mentioned earlier. So the fact that we are now roughly 10 years before the point of reaching reserve depletion is wonderful. If we could add that kind of cross-the-aisle discussion and come to serious discussion about what we want to do for the American people, that would be wonderful. So there was great bipartisan discussion back in the day, but it was very late in the game. We are now in a nice position of being 10 years before reserve depletion to be able to hopefully come up with a good approach. Mr. KUSTOFF. Thank you, Mr. Goss. Mr. Huston, can I talk to you about your report for CRS? You have a section in there about interest income. And you show the disparity in interest income to about 2008, 2009, 2010, and then it drops off. Can you walk us through the early 2000s to about 2009, 2010, and walk us through the present as it relates to interest income and its relevance? Mr. HUSTON. Sure. So as I had mentioned in my oral and my written testimony, there is three sources of revenues for the trust funds. One is the payroll taxes, another is taxation on benefits. And in years where there is excess tax revenues, those excess funds get invested in interest-bearing government securities. And then the trust fund earns interest on those, and that becomes the third source of revenue. Interest income that is not needed to pay benefits gets credited back to the trust funds. And the trust funds never needed to rely on that interest income till about 2009, 2010. Starting in 2009, the cost rates started to exceed the income rates, and the income stream started to be used as a means to help pay benefits. That has been moving forward up until 2021, when, in addition to the interest income, the program has also needed to rely in part on the trust fund assets themselves to help pay benefits. Mr. KUSTOFF. Thank you very much. My time has expired. I yield back. Chairman FERGUSON . I would ask for just a little bit of leeway here from my colleagues before I call on Ms. Moore. Dr. Swagel, I believe that you--I saw you wanted to respond to the question about the difference between Social Security's estimates and CBO's estimate on the withdrawal of the $100 million versus $300 billion. Mr. SWAGEL. Yeah. I mean, and since---- Chairman FERGUSON. And if you could make this quick. Mr. SWAGEL. Yeah, sure, sure. Of course, there is a lot to numbers. So we have--it is $150 billion now that the trust fund expenditures exceed the income, and that is rising to $500 billion in our projections by 2034. Chairman FERGUSON. Okay. Thank you for that clarification. Now the gentlelady from Wisconsin, Ms. Moore, you are now recognized. Ms. MOORE of Wisconsin. Thank you so much. And I am always delighted to talk about our premier program that prevents seniors from living in poverty, particularly important for our disabled community, women, and people of color. I want to start out by thanking one of our witnesses, Mr. Goss, for diligently working with me and my staff and answering questions that we have given you in writing. I think it is important, when we talk about--Mr. Chairman and Mr. Ranking Member--that when we talk about Social Security, we talk about it in real terms, that we really come to the table, coming together in good faith. And my concern is that it is not good faith to come to the table scaring young people, telling them not to rely on Social Security because it won't be there anymore. So many young people have bought into the idea that it is hopeless to ever rely on it or to--you know, that is not a realistic way of fixing it. It is not fair to come to the table and say to people the only way that we can fix it is to cut benefits by 25 percent. You can't say that you are working toward a solution to say that we ought to raise the retirement age. You know, you look at all the gray hair up here. It is one thing for us to be doing this kind of work at our age, but when I think about the people that I need to fix the gutters on my house, I don't think any of them are going to make it by increasing the age. But one of the things that I just wanted to review with you, Mr. Goss, there are many roads to the city. And before I talk to you, I want to talk to Mr. Swagel. You shared with my colleague, Ms. Sanchez, that you thought immigration reform was a real vital way to improve the receipts--the payroll receipts. And you also mentioned, as Mr. Schweikert well knows, that we have decreased population, and we are facing a fertility crisis. And so, you know, we have several approaches to immigration. But I once read the CBO report, that within a window of a 10-year budget window, we could see a $1 trillion increase minimum if we were to have some sort of immigration reform. Am I remembering that correctly? Mr. SWAGEL. Yes. What we said is that the immigration surge we project from 2021 to 2026 will result in about $1 trillion of additional revenue. We are working further on that. So we will have an update to that soon, but it is still on the order of---- Ms. MOORE of Wisconsin. That is only 5 years, $1 trillion. Mr. SWAGEL. Over the 10-year period. Ms. MOORE of Wisconsin. Over the 10-year period. Mr. SWAGEL. The 5 years is over---- Ms. MOORE of Wisconsin. Well, I just wanted to remind us of that. Mr. Goss, you sent me a really long memo. Be careful of what you ask for, people actually might write you back. And so what I asked you to analyze was how could we maintain the solvency of this program but yet be humane and recognize that people were getting older, that people were losing benefits, because they--5 years of their lives have gone toward childcare, rearing, women who never--don't get that credited, people over 80, kids who lost their benefit. There have been so many teary-eyed Members of Congress that have talked about how they were able to go to college after their dad died. And so, I propose restoring all those benefits and still extending the life of Social Security by 24 years. I have 42 seconds, take it away, sir, and sort of review this thick memo for us. Mr. GOSS. Well, thank you very much. There is no question that we can maintain the benefits we have now, but we do need more revenue in the future. Because of what has happened with the changing earnings distribution and the changing number of working age people versus retirement age people in our country, largely because of the birth rate dropping, we do have a situation where to maintain the level of benefits we had scheduled in current law we will need more---- Ms. MOORE of Wisconsin. I mean, it is a modest change in benefits. Like, right now, we have a combined contribution level of 12.4 percent. If we were to increase it by 13 percent payroll an employee, that is how we achieve that 24-year increase. So, you know, you pay a penny today for benefits for 25 more years. Am I correct? Mr. GOSS. That is right. And let me just also go back to immigration that you mentioned, which is so important. We have less than 4 million births per year in this country, but our net immigration is on the order of 1 million. That is an enormous help in terms of maintaining our population in the future. We had such a drop in births because of the birth rate since 1965, that having elevated immigration would be a big help in maintaining our population and the age, distribution, which would have enormous ramifications. Chairman FERGUSON. The gentleman---- Ms. MOORE of Wisconsin. Sorry. Mr. Chairman, let me thank you for your indulgence, and Mr. Ranking Member. And I will yield back. Chairman FERGUSON. Thank you, Ms. Moore. The gentleman from Pennsylvania, Mr. Smucker, you are now recognized for 5 minutes. Mr. SMUCKER. Thank you, Mr. Chairman. I refer to something Mr. Larson said. I am not even sure where to start here. There is a lot to talk about. This has been a great conversation. A few things I want to mention, I think. Mr. Goss, you had responded in an answer to a question from Mr. Kustoff about the Commission or the deal in 1983, and talked very positively about that; really people coming together and resolving this, putting everything on the table and making it solvent for years to come. We can do that again, right, and we should do that? Mr. GOSS. We are much looking forward to that. Mr. SMUCKER. Yeah. And would like to suggest to Mr. Larson and others who I think are, you know, sincere about the desire to fix Social Security, there is a difference between proposing a bill that doesn't go anywhere and having a real bipartisan discussion about resolving this. And so, I guess, I would like to suggest the fiscal commission that we had recommended that looks at both debt and Social Security really is an attempt to do that. And I know you have spoken out---- Mr. LARSON. Would the gentleman yield? Mr. SMUCKER. Let me finish my sentence and I would be happy to. Mr. LARSON. Sure. Mr. SMUCKER. I know you have spoken out against that and, you know, I am telling you in all sincerity that I think that we could resolve this if we had that kind of conversation with the American people. We could do what has been done in 1983. And we could take your bill and others and put them together and really resolve this for the American people. I can tell you that I am certainly interested in doing that, people on our side are interested in doing that. And we are willing to put everything on the table. And so, yes, I will yield. Mr. LARSON. So what is it you are putting on the table, number one? And there are many Social Security proposals that exist out there, not just Social Security 2100. But also, there is a big difference between the Greenspan Commission and the commission that was proposed behind closed doors with only a select group of people with a decision that would require only an up or down vote is---- Mr. SMUCKER. Well, and I---- Mr. LARSON. That is not a democratic--let's sort through this, let's have this exposed to the public, let's go through this, and let's put all those discussions on the table. And I-- -- Mr. SMUCKER. So I am going to reclaim---- Mr. LARSON . Totally agree with you that people like yourself and others are very sincere about this, except the proof is in the pudding. Mr. SMUCKER. And I will take my time, because I would love to get to a lot more here. But I would love to continue to have that discussion. I would love to not just get a no on that, because I can tell you, we are sincere about it and we could put everything on the table to try to solve this. I do want to--on your point on the debt, so very briefly so that people understand this, initially when Social Security was put in place, we were taking in more money coming in than was going out, correct? When did that change? When did Social Security no longer begin to receive each--more money annually than they were paying out? Mr. Goss? Mr. GOSS. Well, most recently that has occurred in 2010. It was expected to be in 2020 at the time of the 1983 amendments, but because some of the changes---- Mr. SMUCKER. So since 2010, we have been paying out more than we have been taking in? Mr. GOSS. Exactly. Mr. SMUCKER. And within 9 years, the difference--the trust which was the difference that has been accumulating over time that has been borrowed and is being paid back, in 9 years, that expires, right? That is gone. We no longer have excess funds. Am I right on that? Mr. GOSS. On a combined basis, maybe 10 years, on that order. Mr. SMUCKER. So at that point, unless something changes, people will no longer get all of their Social Security benefits because we don't have money to pay it, correct? Mr. GOSS. Under current law---- Mr. SMUCKER. Yes. Mr. GOSS . We cannot pay what is not in the fund. Mr. SMUCKER. Or if at that time Congress decides to make it up by taking on additional debt, that is a choice we could make, right? We could continue to pay benefits, if nothing has changed, by taking on additional debt and paying for those benefits. Mr. GOSS. Unprecedented, but anything is possible. Mr. SMUCKER. But at that point, it would add to the debt, right? Mr. GOSS. If Congress were to change the law and say that we will borrow from the public---- Mr. SMUCKER. The only point I am making--and I would love to have more conversation about this publicly, that is why we need a commission to talk about this--is that this will contribute--there is a fundamental problem: We have far fewer workers than we do retirees. That ratio is far different, and so we need more workers. By the way, I agree with Ms. Sanchez, who I don't often agree with, on immigration. It is something that it is a partial solution here. We need a lot more workers, we should be talking about legal immigration. But it is a great conversation. I wish others would agree that we need to continue to have this conversation. This is how I think a commission could work. We would take this conversation across America. We would begin to have a real understanding of the facts and how they exist. We just can't have that conversation in 5 minutes each here. I only get 4 if I give some to you. But, like, I would love to continue this conversation. But thank you, Mr. Chairman, for your indulgence of time here. Chairman FERGUSON. Thank you, Mr. Smucker. Next, we will go to our dear friend from the great State of Illinois, Mr. Schneider, you are recognized. Mr. SCHNEIDER. Thank you. And I will say to not just my friend, my next-door neighbor, Mr. Smucker, I look forward to the conversation. I think it is important that we have it. I will challenge this one premise: I don't think it is a binary option. And, Mr. Goss, I am going to ask you about the trust fund in a second, but it is not just necessarily going to debt. There is no reason, I am not advocating this, but we could raise taxes to pay for it. There are whole ways to do it. Or we could, as was mentioned earlier in the conversation, increase the percent of income debt paid into Social Security as a piece of it. We need to have a discussion around all of those things. And, Mr. Goss, I took a quick look at your biography. You are a little bit older than me. I graduated college in 1983. I want to make sure that we are going to be in the same way. You were actually here in 1983 when they were talking about Social Security. When I graduated, every one of my classmates and my cohort were told Social Security won't be there for you because it is insolvent, and then Congress acted. So we are talking about the trust fund being depleted. Why is there a trust fund in the first place? And I will get the leading question, wasn't the plan to create a trust fund for a period of time that would rise and then ultimately fall? Isn't that the design from the 1980s? Mr. GOSS. Well, the trust fund--we oftentimes refer to the money in the trust funds as a contingency reserve. This is not an advanced funded program. If we were a fully advanced funded program, our trust fund reserves would actually be about 25 times annual cost. We are only at about 1.5 or so times annual cost now because it is supposed to be a contingency reserve. If, as some have mentioned, we were to hit another recession at some point and our income started to drop relative to our cost, we need to have some time to draw on those contingency reserves so that you all will have time to make changes to address that issue. Mr. SCHNEIDER. But the goal was to buy time in the 1980s. And here I am now 40 years--40-plus years since then, and people that I went to school with, that I grew up with, are beginning to retire. And for many of them, their retirement and the security of their retirement is standing on a foundation of Social Security that they didn't believe would be there for them 40 years ago. But because of the work we did in this--work those before us did in Congress, extended it. And I think now it is falling on our shoulders to figure out how do we make sure that the next generation, the young people and the young people graduating today. You know, in 1983 when I graduated, we had the recession. It was the tail end of the recession, the economy had great success ever since. The kids graduating today first graduated 4 years ago from high school in the teeth of COVID, now are graduating, and the challenges are different. The least we can do is stand there for them. But I think there is also a way that we do it. So, you know, the Republican Study Committee's proposal of cutting Social Security by $1.5 trillion puts a burden on those who can least afford it who are depending on Social Security. The idea of raising the retirement age--you know, life expectancy is in many cases tied or at least there is a correlation to income. And those who are in the highest income brackets, when they retire, let's assume at 67 right now, their life expectancy at retirement is another 20-plus years. For those who are in the lowest quintile, their life expectancy in retirement is less than 10 years. It is a factor of health; it doesn't matter why. If we raise the retirement age from 67 to 70 on these people, we are literally cutting their expected retirement by fully a third. People who have worked their entire life, who have followed the rules, who have struggled their entire life to make ends meet, and we are to tell them that their golden years are going to be cut by a third? That just doesn't seem fair. So, we need to have these conversations, we need to be working together, Republicans and Democrats, across the aisle, but we have to do it in a way that recognizes the original intent of Social Security, an insurance program to give Americans, after a lifetime of service and contribution to their communities and their Nation, a dignified and secure retirement. And that is why, Mr. Smucker, I look forward to working with you--we just have to walk one office over--but with our other colleagues to have these conversations, and I do agree, we have to take it to the public. And I am grateful for our ranking member, Mr. Larson, your leadership and work, and you have done incredible yeoman's effort with Social Security 2100. How do we take this not just for another 20 or 30 years. I think earlier it was said that-- Dr. Swagel, I think you were asked the question. You said if we took it to 90 percent, we would have 13 years. Thirteen years is great if you are in your 80s. If you are 25 years old, 13 years doesn't solve the problem. How do we add 75 years to this to do it in a way that reflects our values as a country, the hardworking American individuals and their enterprises are doing to grow our country. And so, I am over my time. I am sure I have lots of questions for all of you, but I don't want to keep us longer. Let me just say thank you to the chairman and ranking member for this hearing. We have to get this done. It is our generation who is benefiting from Social Security that needs to make sure that the next generations have the same benefits that we have. I yield back. Chairman FERGUSON. I thank the gentleman. Next, the gentleman from Iowa, Mr. Feenstra, you are now recognized for 5 minutes. Mr. FEENSTRA. Thank you, Chairman Ferguson, Ranking Member Larson. Thank you also, Dr. Swagel and Mr. Goss and Mr. Huston, thank you for being here today. We have got, obviously, a lot of concerns with Social Security, and we have got to resolve them. But we also have to be singing from the same song book, understanding what is happening. Dr. Swagel, I have got a lot of things to talk about, but I want to just ask you, do Social Security payments create debt? I mean, I am hearing from the other side that there is this view that it doesn't. And I would like you to explain to me, does it create debt? Mr. SWAGEL. You know, there are lots of ways to look at it, and I realize that is part of the confusion. The $150 billion that I think Steve and I both, you know, talked about, today that is being funded by the Treasury, the cash has to come from the Treasury to get that $150 billion. Mr. FEENSTRA. It has got to redeem its assets. Mr. SWAGEL. Exactly. Mr. FEENSTRA. Correct? I mean, Social Security has got to redeem its assets. Mr. SWAGEL. Yes. It is an asset for Social Security, but it is a liability for the Treasury. The Treasury borrows---- Mr. FEENSTRA. Thank you. And so what is the Treasury going to do again? So you have go to redeem the assets, but how does the Treasury redeem its assets? Mr. SWAGEL. To come up with the cash, the Treasury---- Mr. FEENSTRA. Yeah, comes up with the cash by selling bonds, right? Mr. SWAGEL. Selling bonds, everything---- Mr. FEENSTRA. Thank you. Yeah, exactly right. So it actually is adding to our debt, right? Mr. SWAGEL. To redeem the assets in the trust fund, the Treasury has to borrow and create debt. Mr. FEENSTRA. Yes, it has got to create debt. Yes. Mr. Goss. Mr. GOSS. So if we redeem $100 billion of debt that is owed to the trust funds and we trade that for $100 billion that is now owed to the public, it is merely a swap. The total Federal debt is unchanged. Mr. FEENSTRA. But you still have got to--you have got to sell bonds to do that. The Treasury still has got to sell bonds to do that. Is that a fair statement? Mr. GOSS. It has to sell bonds to the public by redeeming the same amount of bonds that it now--that are held by the trust fund. Mr. FEENSTRA. Thank you. But, Mr. Swagel, can you answer that? Mr. SWAGEL. Yeah. You know, the numbers that we focus on are debt held by the public. Mr. FEENSTRA. Yes. Mr. SWAGEL. So what Steve is saying is correct, the debt held by the public goes up. Mr. FEENSTRA. The debt held by the public, yes. But, I guess, what I am trying to say is that you still have got to sell Treasury bills, you still have got to sell T-bills. Mr. SWAGEL. That is right, to the market. Mr. FEENSTRA. To the market. All right. And when you do that, that is, in essence, getting a loan, that is going further into debt. Mr. GOSS. You are redeeming one loan and creating another. Mr. FEENSTRA. What I am trying to have everybody understand here is that we have got a problem, okay? We have got a problem. And I think we all agree to this that we have a problem. And there is a lot of insightful ways that we can look at this, but the fact of the matter is, is that, you know, in, what is it, 2032 now, the CBO's outlook--I think it is 2032, am I right, fair statement? Mr. SWAGEL. It is 2033. Mr. FEENSTRA. 2033. Mr. SWAGEL. The end of 2032---- Mr. FEENSTRA. Right. So, Dr. Swagel, and so what is going to be the percentage cut per Social Security recipient right now at 2033? Mr. SWAGEL. So we have about 21 percent. Mr. FEENSTRA. Twenty-one percent. So what you are telling the public, I just want to make sure we are fair here, you are telling the public that they are going to see a 21 percent cut in their Social Security if we do nothing. Mr. SWAGEL. That is correct. Mr. FEENSTRA. Okay. Everybody get that? I just want to make sure the public gets that. Twenty-one percent cut in 2033, if we do nothing. So that means we have got to act, that means we have got to do something. Thank you, by the way, for holding this because this is very important. So what I did, I think the seniors--I created a Seniors Saves Act that creates an accurate forecast. I think right now the CBO, the 10-year outlook showing the outlays is not an accurate forecast because it just continues in full regardless of the trust fund's exhaustion. Can you talk about this a little bit, Dr. Swagel? Mr. SWAGEL. Yes, for sure. So under the Balanced Budget Act of 1985, our baseline projections are required to show outlays as if the trust fund continues even after it is exhausted, so the scheduled benefits. Mr. FEENSTRA. Yes. Mr. SWAGEL. We show both the schedule and payable, but the baseline by law shows the scheduled. Mr. FEENSTRA. Yes. And again, here's the problem: It is a false narrative, right? I mean, we are making assumptions here. You don't have to answer that. I just want everybody to understand that we have got to have accurate data. We have got to make sure the CBO is telling everybody, and just like I am telling everybody, by 2033, you are going to get a 21 percent cut in your Social Security if we don't do something. So you might want to tell your Congressmen and women, you better act. Thank you. I yield back. Chairman FERGUSON. I thank the gentleman from Iowa. Thanks again to each of you for being here. I would like to say--we have got one more member coming in before we wave the flag here, so we are going have one more. I was going to cut you off, but Mr. Larson insisted that you get your 5 minutes. So thank you, John, for that. So we will now recognize Mr. Estes for 5 minutes. Mr. ESTES. Thank you, Mr. Chairman. And thank you Mr. Larson for looking out for me. I appreciate that, my good friend. And I thank you all for being here today to talk through some of these issues that are so important for everyday Americans. You know, today's hearing obviously is critically important as both the CBO and the trustees have, on their most recent assessment, projected that Social Security's trust fund will be unable to pay full retirement benefits starting in 2033. According to the projections, that means that tens of millions of seniors and their families who rely on the programs would experience immediate benefit cuts. Unfortunately, a lot of those folks are already experiencing cuts, thanks to the sky-high inflation that is 19.9 percent since January 2021. And rising prices hurt those on a fixed income and just like so many of our seniors. You know, a key driver of inflation is an uncontrolled and insatiable desire to spend. Our debt now stands at $34.6 trillion, and grows by $100,000 a second. It is simply unsustainable. Even though we have got our spending under control in Congress, we still have a problem. And discretionary spending, actually the spending that we get to vote on as Members counts for less than 30 percent of all government spending. And CBO projects that Social Security will eclipse all discretionary spending, including defense by 2029. So if we are going to make real changes to preserve Social Security, we have got to talk about responsible reform. I know in an election year there is a lot of rhetoric about how do you cut Social Security, but I think we all can agree we don't want seniors to suffer through that process. And the truth is, if we put our heads in the sand and do nothing else, American seniors who will suffer the most. As it stands now, in the next decade, if no action is taken, Social Security recipients will start receiving $0.75 on the dollar when insolvency is reached. I want to talk a little bit about, you know, what is the impact and how we are being impacted. And something that is obviously having an impact on Social Security is illegal immigration. Since President Biden took office, there have been more than 2.15 million encounters on the southwest border alone, and we can't be sure how many people have crossed into our country. Mr. Goss, how do the Social Security trustees account for the impact of illegal immigrations in your assumptions and has it been accounted for in the current Trustees Report? Mr. GOSS. Absolutely. We always have--we look at total immigration, both immigration subject to the legal limits and also undocumented immigration coming into the country. By the way, the undocumented are generally looked at as people who come across the border without documentation. Many of these people come to the country and eventually become legal permanent residents or may have children while they are here who will then be citizens. That actually contributes positively to the economy and to Social Security. So on the bottom line, really, immigration of all forms is actually a positive in the realm that we are in now where the birth rates in the country are as low as they are. So immigration is actually a positive. Mr. ESTES. It is positive in the short term before those individuals start taking benefits, right? Mr. GOSS. Well, it is positive also in the long term, because if we have more people coming into the country, whether they are initially undocumented or not, if they come in in their 20s or 30s, which is generally the age range for new immigrants, if they have children, then that adds to the future population. It adds to the growth of our population, which is very much a positive. Mr. ESTES. Right. I mean, we are a country of immigrants, so we want to continue to have, you know, legal immigration that has an impact and be able to come out of that shadow economy. Do you take into account any dealings with how many of those folks that have come here illegally and not had a legal right to cross the border, that more likely working in the shadow economy, that they are paying--paid cash under the table, in which case they wouldn't be captured, as far as being able to pay payroll taxes? Mr. GOSS. If people are literally paid cash then, of course, there is going to be no record of that towards benefits or towards their paying in payroll taxes. However, in many cases, where people are either undocumented or have come on a temporary visa and overstay it, they are not legal permanent residents, in many cases, those individuals will, through their employers, still be paying payroll taxes that go into the trust fund, and very likely they will never receive benefits. So in addition to the possibility they are having children on our shores, there is a possibility of that kind of immigration actually having a positive. We had a little actuarial note back in 2013 that walks through this in some detail. Mr. ESTES. Well, I am about out of time but, Dr. Swagel, did you have anything that you could include and talk about your assumptions? Mr. SWAGEL. Oh, okay. No. Just the same thing that, you know, we are looking carefully at immigration and the share of the immigrants who are paying into the system and the share who are collecting benefits. It is something we are working on carefully right now. Mr. ESTES. All right. Thank you. And, Mr. Chairman, I thank you for your indulgence. And I am out of time. I would like to ask more questions, but I will yield back. Thank you. Chairman FERGUSON. Thank you. Again, I want to thank our witnesses for being here today. And please be advised that members have 2 weeks to submit written questions to be answered later in writing. Those questions and your answers will be made part of the formal hearing record. With that, the subcommittee stands adjourned.  MEMBER QUESTIONS FOR THE RECORD =======================================================================  PUBLIC SUBMISSIONS FOR THE RECORD =======================================================================  
+THE SOCIAL SECURITY TRUST FUNDS
+IN 2024 AND BEYOND
+----------
+TUESDAY, JUNE 4, 2024
+House of Representatives,
+Subcommittee on Social Security,
+Committee on Ways and Means,
+Washington, DC.
+The subcommittee met, pursuant to call, at 11:19 a.m., in
+Room 1100, Longworth House Office Building, Hon. Drew Ferguson
+ presiding.
+Chairman FERGUSON. Good morning, everyone. We will call the
+subcommittee hearing to order.
+I want to thank each of you for being here today. And I
+especially want to thank our witnesses for being here today. We
+look forward to hearing from you.
+Last month, the Social Security Board of Trustees released
+its annual report on the fiscal status of Social Security
+programs, and it came as more unwelcome news for American
+seniors and workers. Like, last year, both the trustees and the
+Congressional Budget Office project Social Security's
+retirement and survivors' program will be unable to pay full
+benefits in less than a decade. What that means to the American
+people and those seniors that are near retirement or will be in
+retirement is that it could produce a benefit cut of somewhere
+between 21 and 25 percent. And the difference is that now it is
+a year later, and we are much closer to the insolvency.
+As we will hear today, the longer the wait, the harder it
+is going to be to solve. It is clear that Social Security's
+cost growth is unsustainable. Program costs average 4.5 percent
+of GDP from 1994 to 2023, and are projected to grow rapidly to
+nearly six percent of GDP by 2034 as baby boomers continue to
+reach retirement age.
+Simply put, more people are and will be collecting Social
+Security for longer periods of time. And we are looking at a
+situation where we have fewer workers. And this trend is
+projected to continue for decades.
+To add insult to injury, President Biden's recent budget
+does nothing to address the pending exhaustion of the trust
+fund. And to make matters worse, the accumulative effect is
+that it actually hurts Social Security's funding stream by
+billions of dollars over the next decade. On top of that, the
+Social Security Administration has done everything it can to
+push out rules and other policy changes that will result in
+tens of billions of dollars of new and unpaid for program costs
+that will only accelerate the trust fund exhaustion.
+Social Security is a vitally important part of every single
+American's life and retirement, so it is important that we
+don't downplay how bad the situation really is. To tell the
+American people that the most recent trustees report is good
+news because projections push back insolvency by a few months
+is misleading and simply misses the point. These programs are
+in dire trouble, and sugarcoating the problem instead of
+seeking bipartisan solutions only puts seniors and workers at
+greater risk.
+The American people rightfully expect and deserve that we
+find a way to work together to save and strengthen this
+program. This starts here with an honest assessment of the
+program's finances and a sincere discussion of the size of the
+problem we need to solve. And I invite my colleagues here today
+to join in that discussion and have a very robust debate on
+what we need to do moving forward.
+I would now like to yield to the ranking member, Mr.
+Larson, for his opening statement.
+Mr. Larson, you are now recognized.
+Mr. LARSON. Thank you, Mr. Chairman. And thank you for your
+remarks.
+And I want to thank our panelists. It is not often that we
+get the Walter Cronkite of actuaries that is here. So, I am
+pleased that we are going to hear straightforward talk.
+But let's cut to the chase. Congress has not done its job
+in over 50 years. We have not enhanced this program so that
+your constituents are better served. On average, every single
+one of our districts receives more than $200 million monthly to
+people that are on Social Security. It is arguably probably the
+best economic development plan that we have. And where do they
+spend that money? They spend it right back in the district.
+I can't help but get upset when you think about the fact
+that 10,000 baby boomers a day become eligible for Social
+Security. And they look and say, well, what has happened? Why
+hasn't Congress acted?
+We have a proposal that is out there. What Congress needs
+to do is something the public expects from us: vote. You got a
+plan. We have a plan. We are happy to put our plan up for a
+vote. What is yours? What we hear is $1.5 trillion in cuts to
+Social Security? That is your idea of saving Social Security?
+Raising the age of Social Security recipients. The American
+public knows for every year you raise the age, that is a 7
+percent cut in benefits.
+So, the opening remarks of the chairman is that we are in
+dire straits. We will see 20 percent-plus cuts by 2033 if
+Congress does nothing. So, your proposal is, well, let's do
+something. Let's make those cuts now by raising the age and
+cutting it 21 percent upfront.
+It is long overdue to stop all of the dialogue and how
+about vote. How about put out your plan. Do what the people
+have asked us to do. Everybody agrees that there is a crisis,
+that there is a need here.
+So, what did we get elected to do? I don't know how people
+go home and look themselves in the mirror and understand that
+there is 5 million of your fellow Americans that get below
+poverty level checks from Social Security. More than 70 million
+people--or close to 70 million people now who rely on Social
+Security, 40 percent of them, it is the only benefit they have.
+And you, Congress, with the responsibility of changing that, do
+nothing. You don't vote. That is what we need more than
+anything else.
+Aside from laying out the numbers and getting the news,
+good and bad, then the question is, how do you solve the
+problem? Cutting Social Security doesn't solve the problem. It
+exacerbates it.
+You mean to tell me that things haven't changed in 53
+years? Not having a COLA that works. Having 5 million-plus
+people who have paid into a system get below poverty level
+checks. What do you have against giving 23 million Americans a
+tax cut? These are the hard workers. You guys are going to work
+overtime to make sure that millionaires and billionaires get
+their tax cut. But the average working person, 23 million
+Americans that will get a tax cut, if this Congress were to
+act, you don't care about.
+So, whether it is a tax cut, whether it is getting benefits
+to the point where they are livable for people, and making sure
+that no one can retire into poverty, and repealing WEP and GPO
+and paying for it.
+Thank God for President Biden saying, hey, let's pay for
+this. Let's have people who pay nothing or next to nothing,
+millionaires and billionaires, just pay their fair share of
+what the guy making 50 or 30,000 a year has to pay all year
+long. You know what that does? It both allows us to extend the
+benefits and also allows us to extend the solvency.
+The choice is yours. If you got a better idea, put it out
+there. But it seems like the only idea is to cut Social
+Security by $1.5 trillion and to cut people's benefits by
+raising the age 21 percent across the board.
+I yield back.
+Chairman FERGUSON. Thank you.
+I now have the pleasure of introducing our witnesses for
+the day. Stephen Goss is the chief actuary at the Social
+Security Administration. Dr. Phillip Swagel is the director of
+the Congressional Budget Office. And Barry Huston is an analyst
+of Social Security policy at the Congressional Research
+Service.
+Thank you all, once again, for being here. I look forward
+to hearing your remarks. You will have 5 minutes to deliver the
+oral remarks.
+Mr. Goss, you are now recognized.
+STATEMENT OF STEPHEN GOSS, CHIEF ACTUARY,
+SOCIAL SECURITY ADMINISTRATION
+Mr. GOSS. Thank you very much, Chairman Ferguson, Ranking
+Member Larson, members of the committee. Thank you for the
+opportunity to come and talk to you today about Social
+Security's program past, present, and future.
+Social Security started paying monthly benefits, as you all
+well know, to qualifying retired workers and family members and
+survivors in 1940. Benefits to disabled workers and their
+families started in 1957. Over the 85 years through 2024, all
+scheduled benefits had been paid in full and on time. Social
+Security provides this fundamental insurance against loss of
+earned income due to old age, disability, and death, for nearly
+all current and past workers and their families.
+Today, over 67 million people receive monthly benefits from
+the OASDI program, nearly 20 percent of the population, at a
+cost of 5.2 percent of GDP. By 2060, OASDI program cost is
+projected to rise to a stable, roughly, 6.1 percent of GDP,
+with over 23 percent of the population then expected to be
+receiving monthly benefits. But currently scheduled tax income
+remains at only 4.6 percent of GDP. So we have a shortfall to
+deal with. Over the 75 years as a whole, the unfunded
+obligation, the shortfall that we have over the period of the
+next 75 years, is 1.2 percent of GDP. We need to get these
+things back in balance.
+At the start of 2024, reserves in the combined OASI and DI
+trust funds total $2.8 trillion, nearly double the amount of
+annual payments. So our contingency reserve fund is strong at
+the moment. However, revenues to the combined OASI and DI trust
+funds are projected to be less than program costs in 2024, as
+they have been since 2010, in future years under the
+intermediate projections to the 2024 Trustees Report. So
+combined OASI and DI reserves would become depleted in June of
+2035. That is 13 months later than projected in the last year's
+report but is still on the horizon. At that time, 83 percent of
+the scheduled benefits would still be payable.
+For the OASI Trust Fund alone, which is a separate legal
+entity, it is projected to become depleted in its reserves in
+November of 2033, 7 months later than last year's report.
+Again, an incremental change with 79 percent of scheduled
+benefits then payable from that fund alone. The DI Trust Fund
+is in good shape and not projecting to have issues under the
+current projections through 2100 and beyond.
+Now, improvement in the 2024 Trustees Report is due to
+better than expected economic growth in 2023, a very good
+thing, and recognition of continued high-labor productivity and
+employment levels through 2023, and expected to go on for the
+future. In addition, lower disability incidents and prevalence
+rates have continued. We do have a rise in issues with the
+birth rate to be dealt with, obviously.
+Our projected annual shortfall for income to cover program
+costs should come as no surprise. The trustees have projected
+combined OASDI Trust Fund reserve depletion will occur between
+2033 and 2035 for the last 13 years' reports, and between 2029
+and 2042 for the last 34 Trustees Reports.
+The fundamental challenge of the changing age distribution
+at the adult population due to reduction in birth rates after
+1965 was well known even in 1983, at the time of the last major
+amendments for this program. The 1983 amendments intended to
+accumulate substantial trust fund reserves, making full payment
+of scheduled benefits possible for decades to come. But these
+amendments were understood at that time not to be a permanent
+solution.
+Prior to the 1983 amendments, income was expected to cover
+only 93 percent of program costs for the year 1983, declining
+to 78 percent of scheduled costs for 2025. After the enactment
+of the 1983 amendments, tax income was projected to exceed
+program costs through 2020, but to cover only 93 percent of
+scheduled benefits for 2025, a year yet to come, declining to
+86.5 percent by 2035, with trust fund reserves becoming
+depleted not until 2063 under those projections.
+However, annual tax income fell short of expectations after
+1983, and fell below annual program costs, starting in 2010 for
+two big reasons that had not been anticipated back in 1983.
+First, the share of covered earnings subject to the payroll tax
+declined from 90 percent in 1983, which is expected to persist,
+to just 82.5 percent over the next 17 years by the year 2000.
+Because average earnings grew much, much greater by 62 percent
+more than inflation for the highest 6 percent of earners
+between 1983 and 2000, where the average wage grew by only 17
+percent for the other 94 percent of workers across that period.
+Second, the deep recession of 2007 to 2009, with only a
+very gradual 10-year recovery reduced employment earnings for a
+decade of costing us not to have the buildup of reserves that
+was expected. As a result, trust fund reserves did not
+accumulate to what was expected in 1983. And our scheduled cost
+at this point is projected to cover--our revenues to cover only
+about 86 percent of scheduled cost in 2025, declining to 84
+percent by 2035.
+The combined OASDI reserves are now projected to become
+depleted in 2035, almost 30 years earlier than 1983 for the two
+reasons already mentioned.
+Chairman FERGUSON. Mr. Goss, we have allowed you a little
+latitude to go over by about a minute. And if we could, I am
+going to get you to yield, try to keep everybody on the 5-
+minute clock. And I am sure we can get into more of this really
+important information through member questions.
+
+
+Chairman FERGUSON. With that, Dr. Swagel, I am going to
+call on you for your 5 minutes.
+STATEMENT OF DR. PHILLIP SWAGEL, DIRECTOR, CONGRESSIONAL BUDGET
+OFFICE
+Mr. SWAGEL. Very good. Thank you.
+Chairman Ferguson, Ranking Member Larson, and members of
+the subcommittee, thank you for inviting me to testify about
+Social Security.
+Social Security faces a significant financial challenge.
+Under current law, in our projections, the Old Age and
+Survivors Insurance Trust Fund is exhausted in fiscal year
+2033, and the Disability Insurance Trust Fund is exhausted in
+2061. If the two trust funds were combined, they would be
+exhausted in fiscal year 2034.
+After the trust funds are exhausted, we project that the
+resources to pay benefits in 2035 would be 21 percent less than
+the amount of scheduled benefits. And that shortfall would
+increase over time.
+In CBO's projections, about 82 million people, that is
+roughly one-fifth of the U.S. population, receive Social
+Security benefits in 2035. That is a projection. If all Social
+Security benefits were reduced by the same percentage in that
+year, lower income households would reduce their spending by
+more and increase the amount they work by more in percentage
+terms than households with higher lifetime incomes. Legislative
+action would be needed to avoid this scenario.
+The imbalance between the systems' revenues and scheduled
+benefit payments extends beyond 2034, and that imbalance grows
+over time. We project that the actuarial deficit over the next
+75 years equals 1.5 percent of GDP or 4.4 percent of taxable
+payroll. So, that is, scheduled benefits could be paid over 75
+years through 2098, if payroll tax rates were increased by 4.4
+percentage points right away, from 12.4 percent to 16.8
+percent, and that is an increase of 35 percent. That is a 35
+percent tax hike.
+Alternatively, a reduction in scheduled benefits of 24
+percent would permit full payment of those smaller benefits
+through 2098. And, of course, a combination of changes to taxes
+and benefits or relying on resources from the Treasury's
+general fund could also suffice. And policymakers, you and your
+colleagues, can have different changes apply to people of
+different incomes and people of different ages. Additional
+changes would be needed to ensure solvency beyond 2098.
+The aging of the population is a key factor affecting the
+finances of Social Security. The number of people age 65 or
+older who are less likely to work and pay payroll taxes and are
+generally eligible for Social Security benefits is projected to
+grow faster than the number of people age 25 to 54 who are more
+likely to work and to pay payroll taxes.
+Population growth is determined by births, deaths, and net
+immigration. Fertility in our projection remains lower than
+replacement. We project life expectancy will continue to
+increase. And immigration is now an increasingly important part
+of the growth of the U.S. population and the U.S. labor force.
+And all of these demographic changes affect the financial
+status of Social Security.
+A feature of CBO's work is that the demographic and
+economic projections used in our Social Security analysis are
+consistent with those used in CBO's baseline projections and
+for other purposes.
+In closing, let me note that any projection over a horizon
+of seven decades is inherently uncertain, but it is clear that
+action is needed to make Social Security financially
+sustainable.
+Thank you very much. I am happy to answer questions.
+
+
+Chairman FERGUSON. Thank you, Dr. Swagel.
+Mr. Huston, it is now time for your 5 minutes.
+STATEMENT OF BARRY HUSTON, ANALYST OF SOCIAL POLICY,
+CONGRESSIONAL RESEARCH SERVICE
+Mr. HUSTON. Chairman Ferguson, Ranking Member Larson, and
+members of the subcommittee, thank you for inviting me to
+testify. My name is Barry Huston, and I am an analyst with the
+Congressional Research Service.
+Today's Social Security is different from the one that was
+enacted in 1935. The program matured from one that covered
+about half of workers and paid benefits only to retired
+workers, to one that covers almost all workers and pays
+benefits to retired and disabled workers and their eligible
+family members.
+This year, Social Security will pay benefits to over 67
+million beneficiaries, and about 182 million workers will work
+in covered employment. Most of these workers will become future
+beneficiaries.
+The program's ability to pay benefits to current and future
+beneficiaries is determined by its revenues, costs, and its
+trust funds. Current and projected imbalances between these
+elements indicate the program will not be able to pay the full
+amounts of scheduled benefits in about 11 years.
+The largest source of revenue is payroll taxes, about 91
+percent of revenues in 2023. The tax, evenly split between
+employees and employers, is levied on covered earnings up to an
+annual limit. This annual limit generally rises with wage
+growth in the economy. As average wages are projected to
+increase along with the number of covered workers, so too are
+projected revenues from payroll taxes.
+The second source of revenue is income from the taxation of
+Social Security benefits, about 4 percent of revenues in 2023.
+About half of beneficiaries pay Federal income tax on a portion
+of their benefits. The thresholds used to determine tax
+liability are fixed in law and not indexed. For this reason,
+among others, projected revenue from the taxation of benefits
+is expected to increase.
+In previous years, tax revenues exceeded the amounts needed
+to pay benefits. Under law, the trust funds hold excess
+revenues in interest-bearing government securities. And in
+2023, interest income on these asset reserves accounted for
+about 5 percent of revenues. However, with costs now exceeding
+revenues and increasing amounts of asset reserves projected to
+be redeemed to help pay benefits, this revenue source is
+projected to decrease and will approach zero as the asset
+reserves are depleted.
+In 2023, monthly benefits accounted for 99 percent of
+costs. Costs are expected to increase for several reasons, such
+as increasing average initial benefits and increasing number of
+beneficiaries and increasing beneficiary longevity.
+Although the benefit computation process is the same for
+all workers, average initial benefits generally increase for
+successive birth cohorts since the process index is for wage
+growth, which is typically positive. The process results in
+stable replacement rates across birth cohorts; that is, initial
+benefit levels as a percentage of career preretirement earnings
+are consistent across cohorts. It also results in
+progressivity. Workers with relatively lower career average
+earnings experience a relatively higher replacement rate.
+In the years to come, an increasing number of covered
+workers will become beneficiaries. As we are meeting life
+expectancy, as older ages continues to increase, they are
+expected to remain in current payment status for longer periods
+of time, on average. For these reasons, in addition to other
+factors, such as cost of living adjustments, costs are
+projected to increase.
+The program's revenue and costs are expected to increase in
+aggregate nominal dollars. Comparing the projected income and
+cost rates reveal that, for several decades, costs are
+projected to increase relative to revenues. This imbalance
+impacts the program's ability to pay full scheduled benefits.
+Since 2021, the program has relied on asset reserves to
+help pay scheduled benefits, and can continue to do so for
+about 11 more years. Once asset reserves are depleted,
+continuing revenues are projected to cover about three-fourths
+of scheduled benefits.
+Lawmakers may choose from a wide range of revenue
+increasing or cost-reducing provisions to help eliminate this
+imbalance. The Social Security amendments of 1983, generally
+considered the program's last major reform, use both types of
+revisions, among others.
+Depending on what provisions may be included in future
+legislation, changes may affect groups of workers and
+beneficiaries in different ways. Changes implemented sooner
+rather than later, in addition to requiring cost reducing or
+revenue increasing provisions that are smaller in magnitude,
+would allow workers and beneficiaries more time to adjust their
+behavior.
+Thank you, and I look forward to your questions.
+
+
+Chairman FERGUSON. Thank you all for your testimony. And we
+will now start with questions. And I will start with that.
+Dr. Swagel, I want to start with you and talk to you
+about--you made a comment that just kind of caught me off. You
+suggested that one way of fixing this problem are general fund
+transfers to address the shortfall. If we did that, if we use
+that methodology, talk to us just very briefly about what that
+would do to the Federal debt and deficit each year, and what
+that potentially could do to interest rates and the amount of
+interest that the taxpayers are already paying.
+Mr. SWAGEL. Yes, sir. You know, as I said, the shortfall
+could be, you know, addressed in many ways. Transferring funds
+from general revenues, you know, the amount of dollars that
+would be needed in our projections is nearly $400 billion in
+2033, and about $550 billion in 2034. And, you know, in real
+dollars, the Treasury would have to come up with those
+additional dollars. That would mean, you know, either
+reductions in other spending or additional borrowing. That
+would mean more crowding out and impact on interest rates----
+Chairman FERGUSON. And given our level of debt right now,
+that does not seem like a viable option. That is not a
+question. That is a statement from me.
+I also want to ask you about in the shortfall category. You
+know, we hear a lot about, okay, the income cap right now of
+people who are making more than $168,000 a year, they are not
+paying their fair share. Currently, if you are paying above
+that, you are not--even if you are paying $168,000 a year--
+paying Social Security taxes on $168,000 a year, there is still
+a shortfall. I mean, there is a difference between what you are
+paying in and what you are actually getting back.
+And then if you--and we have always tied the level of
+benefit to earnings, correct? So if you raise the cap, then, in
+theory, you would also raise the amount of earnings that people
+were eligible for down the road, or you would have to simply
+say--the answer is you are going to pay more in taxes, but you
+are going to receive less benefit. Is that a fair assessment?
+Mr. SWAGEL. No, that is right. And since the system as
+whole is progressive, you know, so thinking of lifetime
+benefits against lifetime contributions, the bottom quintile of
+people, you know, with--the bottom quintile, the lowest 20
+percent of lifetime earners gets about 2.5 times back in
+benefits as what they pay in in contributions. People in the
+middle get about 1.5 times. The top 20 percent, on average,
+gets about 1. So it is 1:1. So that is a sense which the system
+as a whole is progressive.
+Chairman FERGUSON. And it is my understanding that if we
+subjected all earnings in the U.S. to the Social Security
+payroll tax, we would still have about a $10 trillion shortfall
+over the next 75 years.
+Mr. SWAGEL. Yeah. So I don't have that number in my head. I
+can tell you, if we increase the taxable share back to 90
+percent--it is around 82.5 now--so made 90 percent taxable,
+that would delay exhaustion by 4 years. If we said everything
+above $250,000 is taxable, that would delay exhaustion by 13
+years. So it makes a difference, but it is--you know, there is
+still a challenge after that.
+Chairman FERGUSON. Mr. Goss, question for you. When you
+look at what Social Security has done in terms of enhancing
+benefits and paying out more, would you say that couples that
+retire now on average receive a much greater benefit than, say,
+couples that retired back in the nineties--adjusted for
+dollars?
+Mr. GOSS. Well, if we look at benefits as Barry indicated,
+the nature of the benefit formula is that it tends to rise with
+the average wage over time. So the people from one generation
+to the next, if they have had higher wage levels, a higher
+standard of living that Social Security benefits has been
+intended to maintain, therefore, a higher benefit level to give
+them a similar replacement rate.
+In that regard, individuals and couples now who are
+retiring and getting the benefits are not really receiving more
+than generations in the past. In fact, one of the major changes
+I have seen in the 1983 amendments was to change the normal
+retirement age, which increased it by, what, by--you know, from
+65 up to 67. And that actually lowered the average monthly
+benefit for people all as equal.
+Chairman FERGUSON. So you would argue with the fact that a
+couple who turned 65 in 1990 on average received $590,000 in
+lifetime benefits, and that is adjusted for 2023 dollars, when
+compared to a couple that turned 65 in 2020, they were
+projected to receive $812,000. And I look at it, and it looks
+like that the formula has actually increased--has pushed up the
+amount of lifetime earnings that a couple could see.
+Now, I say this to say that, you know, we have seen an
+increase in benefits over the years. It is not to argue that it
+is perfect, but we have seen that increase.
+Mr. Huston, I want to touch on one other thing, if I could,
+talking about, you know, the other things that our seniors--
+and, look, seniors depend on this program, and we have an
+obligation, and it is important that we--that we honor what
+we--that Congress honors what it said it would do for the
+recipients of these benefits.
+But I look at this and I think to myself, in 50 years,
+there have been a lot of other programs that are out there to
+help seniors as well. I am going to tick through just a small
+list of these things: SNAP Program, Older Americans Act,
+housing choice vouchers, Weatherization Assistance Program, the
+LIHEAP, or Low-Income Home Energy Assistance Program, Lifeline
+programs, reverse mortgages, the Seniors Farmers Market
+Nutrition Program. My point is you can go on and on.
+And I think Congress as a whole, over the years, while it
+has made adjustments--while the formula for Social Security has
+said, we are going to see an increase in payments--but we have
+also done an awful lot to make sure that seniors have resources
+in many other areas for housing, in food assistance and, quite
+candidly, Medicare with healthcare as well. And there have been
+some great things that we have done there.
+So I think it is a little bit disingenuous to say that
+seniors don't have any other lifelines and this is the only
+thing. It is simply that seniors have a lot that they can
+depend on. And I think Congress has been very thoughtful in
+making sure that they have got the resources that they need.
+Again, I want to thank you for y'all's testimony.
+And, now, I am going to yield 5 minutes to my friend, Mr.
+Larson, for his questions.
+Mr. LARSON. Thank you, Dr. Ferguson.
+And, yeah, I almost don't know where to start. But
+basically, when I listen to the chairman speak, it is that,
+hey, you folks out there who are depending on Social Security,
+look, you already got enough. And for God's sake, what we don't
+want to do, at all costs, is make sure that billionaires pay
+their fair share. Because that would be--you know. And then,
+hypothetically, what would happen?
+Dr. Swagel, has the general fund ever been used to pay for
+Social Security?
+Mr. SWAGEL. You know, I don't know.
+Mr. LARSON. Ah. And so it has never been used but,
+hypothetically, that is what we are using here to try to say to
+the American public that somehow this is part of the--it
+contributes to the debt and deficit. That is total BS.
+Now, let me ask a couple of questions here. Mr. Goss, if we
+were to raise the retirement age by 3 years, as has been
+proposed, what would that mean in terms of cut to benefits, if
+we went from 67 to 70?
+Mr. GOSS. It would depend on how rapidly we did this. But
+at the point at which we had the retirement age raised by the 3
+years, as you had indicated earlier, that reduces retirement
+benefits, monthly benefits and lifetimes benefits, by about 6.5
+to 7 percent for each year that we raise. So an additional 3-
+year increase in the normal retirement age would in fact lower
+benefits by on the order of 20 percent.
+Mr. LARSON. Now, Mr. Goss, also, because we have heard this
+question as well, what percentage of income does someone who
+makes $1 billion in wages contribute to Social Security?
+Mr. GOSS. Well, given that the most they are going to pay
+is their 6.2 percent, they and their employer, on the first
+$168,600, I think the number comes out, for a billionaire, for
+somebody with $1 billion of earnings, to about .1 percent of
+their total wages paid by them and another .1 percent paid by
+their employer.
+Mr. LARSON. What percentage is a person making $50,000 pay?
+Mr. GOSS. Well, they would pay their 6.2 percent by
+themselves and their employer matching the----
+Mr. LARSON. So, again, because we want to protect these
+billionaires and millionaires, it is unconscionable to think
+about the fact that they ought to pay their fair share, that
+they ought to be in a position where, as President Biden points
+out, if they do, we extend the solvency of the program for 66
+years, and we are able to add on benefits.
+Another question that comes up, because this happens
+frequently on the trail. Can you talk about how Social Security
+actually doesn't contribute a penny to the national debt?
+Mr. GOSS. Yes, be happy to. As I think everybody here is
+very well aware, Social Security has its trust funds, and the
+trust funds can only have positive balances. Social Security
+now has and never has had the ability to borrow from the
+general fund or the Treasury. That is in the current law.
+Anything could change in the future.
+But currently, Social Security can only hold asset
+reserves. And as a result, with the roughly $33 trillion, $34
+trillion of total Federal debt we have now, Social Security is
+actually covering approximately $3 trillion of that and not
+needing to be borrowed from the public at the moment.
+So Social Security can only really help surface some of the
+debt that the rest of the government develops. It does not
+contribute towards the debt.
+Mr. LARSON. So, for the general public to understand this,
+it is called a trust fund for a reason. And that trust fund has
+not been tapped into, nor will it ever be tapped into, unless
+Members of Congress have a different idea and want to change
+it. And they could through a vote, if they decided that this is
+the tact they would want to take. But the fact of the matter
+is, and it is a fact, that it doesn't contribute to the debt or
+deficit. And what aggravates people the most is, they pay into
+this. So does their employer. But their employer gets a tax
+write-off.
+Twenty-three million Americans get double taxed under
+current Social Security programs. And we as a body are the only
+ones that can change that. And instead, we don't put forward
+proposals that direct making the system both solvent and
+enhancing benefits, because people desperately need this money.
+Forty percent of our fellow Americans is the only thing they
+have. Twenty-eight million Americans.
+Chairman FERGUSON. The gentleman's time has expired.
+We now move to the gentleman from Ohio, Mr. Carey.
+Mr. CAREY. I want to thank the chairman. I also want to
+thank the ranking member, as well as the witnesses for being
+here today.
+Since day one, I have been a strong advocate for the
+strength and integrity of the Social Security trust fund.
+Unfortunately, if my numbers are correct, under this budget, if
+enacted, the administration's budget would cut approximately
+$17 billion to the Social Security trust fund over the next
+decade.
+Now, I am the grandson of a couple that lived only on
+Social Security. And I watched how they scrimped and saved and
+tried to do what they could. So with that being said, I am
+dedicated to working with my colleagues both on the Democrat
+side and Republican side to find some solutions.
+So, Mr. Goss and Director Swagel, the trustees in the
+Congressional Budget Office projected that, under current law,
+Social Security's Age-Old and Survivors Insurance Trust Fund
+would be depleted by 2033--we have established that--at which
+point the program will only be able to pay a fraction of the
+promised benefits. Absent any changes, what percentage of
+retirement and survivor benefits would be payable after the
+trust fund is depleted?
+Mr. GOSS. So our projections in the latest Trustees Report
+indicate that in 2033, the OASI Trust Fund alone should reach
+the point where we do deplete the reserves and have only
+continuing income coming in. That would cover about 79 percent
+at that point of the scheduled benefits that people are
+expecting.
+Mr. CAREY. Director?
+Mr. SWAGEL. Right. And we are just a little bit less than
+that. So we see the shortfall is a little bit less, but in the
+same ballpark.
+Mr. CAREY. So how is that projected to change in the years
+after 2033? Mr. Goss?
+Mr. GOSS. After 2033, that percentage will, of course,
+decline. I know off the top of my head for the total Social
+Security OASI and DI, that will drop from 83 percent,
+eventually down to 73 percent by the time we get to about 2098,
+and will be a little bit less than 73 percent payable for the
+OASI Trust Fund alone by that time.
+Mr. CAREY. Director?
+Mr. SWAGEL. Right. And, again, we have the same general
+result. You know, we see the shortfall as a bit larger, and so
+the decline in benefits, a bit larger, but it is broadly
+similar to what the trustees have.
+Mr. CAREY. Thank you both.
+Mr. Huston, the 1983 amendments were the last time that
+Social Security saw major program reforms and intended to
+address the system's funding shortfalls. Can you help us
+understand how those reforms came to be and what Social
+Security's finances looked like leading up to those reforms?
+Mr. HUSTON. Thank you. The 1977 amendments were the
+previous major reform, and they were estimated to get the
+program to be solvent for about 50 more years. The economic
+experience right after that proved to be much worse. In the
+1980 Trustees Report, they highlight that benefits would be not
+paid the full scheduled amount in under 2 years. Later in 1980,
+Congress passed a temporary reallocation of the payroll tax
+from the disability program to Old-Age and Survivors Insurance
+program.
+Later in 1981, as the situation continued to deteriorate,
+Congress authorized interfund borrowing, and President Reagan
+established what became known as the Greenspan Commission. The
+Commission's report included provisions that would have
+resolved about two-thirds of the projected shortfall and became
+the basis for the 1983 amendments. Congress later added several
+more provisions which covered about the remaining one-third of
+the shortfall. And when it passed in March, April of 1983, it
+was estimated that the OASI program was months, if not weeks,
+away from being able to pay the full amount of scheduled
+benefits.
+Mr. CAREY. Thank you for that.
+I am going to follow up to Mr. Goss. How does the projected
+cash imbalance in 2033 compare to the imbalance in the early
+1980s?
+Mr. GOSS. The projected imbalance in 2033--let's see, I
+actually had the numbers in the testimony here for 2035. We are
+at this point actually having a fairly significant imbalance in
+2035, much more than was expected after the 1983 amendments.
+Again, really primarily for the one factor of the changing
+distribution of earnings in the economy. We have actually lost,
+as mentioned, I think Dr. Swagel mentioned earlier, we have
+gone from 90 percent down to 82 percent of all covered earnings
+being below our taxable maximum. That is an 8 percent reduction
+in the amount of revenue that we would have expected. And that
+cumulatively, ever since 1983, has had a major effect on the
+level of trust fund reserves that we have. That is the primary
+reason why we have----
+Mr. CAREY. My time has expired. I thank the witnesses, and
+I thank the chair for giving me the opportunity. Thanks so
+much.
+Chairman FERGUSON. I thank the gentleman from Ohio.
+Next, the gentlelady from California.
+Ms. Sanchez, you are now recognized for 5 minutes.
+Ms. SANCHEZ. Thank you, Mr. Chairman.
+I must say that it feels like we have been here before. It
+feels a little bit like Groundhog Day in this committee,
+because each time that the subcommittee convenes to talk about
+the future of Social Security in this country, we hear plenty
+of proposed solutions on the Democratic side.
+For example, my friend, Ranking Member Larson, has pushed
+Social Security reforms again and again. He is very passionate
+about this issue. And his planned Social Security 2100 would
+increase benefits across the board, repeal WEP and GPO, and
+make Social Security work better for every American. And all of
+those benefits that we just talked about would be paid for, and
+they would serve those who need them the most.
+My Republican colleagues, on the other hand, are proposing
+significant cuts to Social Security. And while those cuts would
+be detrimental to all Americans, it would disproportionately
+impact people of color who would be affected the most by cuts.
+People of color are less likely to work for employers who offer
+pensions or any kind of retirement plans. So they are more
+likely to rely on Social Security after retirement.
+Proposed cuts to Social Security would really be a direct
+attack on those communities of color, specifically the Latino
+population, who relies almost exclusively on Social Security
+for their retirement.
+Once again, we are hearing talk about Republican plans to
+cut benefits, and in stark contrast, the Democratic plans,
+which are to increase benefits for those in need.
+I very much appreciate our witnesses coming here today to
+discuss this issue. Mr. Huston helpfully outlined what this
+subcommittee already knows, that the combined trust fund will
+hypothetically be depleted sometime after the year 2035.
+Everyone on this dais knows that this is a problem. But the
+real disagreement comes in how do we fix it.
+I, you know, hear my colleagues across the aisle maintain
+that, you know, slashing Social Security benefits or
+privatizing Social Security and raising the retirement age is
+somehow going to benefit Social Security as a whole. And I
+disagree with that.
+As my dear friend, Ranking Member Larson, always says,
+Social Security is the most successful anti-poverty program in
+our country.
+So we shouldn't be talking about slashing benefits,
+increasing the retirement age, privatizing Social Security. We
+need to find a very thoughtful path forward. And I think my
+friend, Mr. Larson's, proposal is that path forward.
+I just want to quickly talk about something that was
+mentioned in terms of who pays into the Social Security trust
+fund, and the fact that the fertility rate in the United States
+is declining, our birth rate is not replacement rate. But there
+is one potential avenue for finding the workers that we are
+going to need in the future if our economy is going to continue
+to grow and if we are going to keep the Social Security fund
+solvent, and that is immigration and immigration reform. That
+is something that I have been working on for 22 years in this
+Congress. And we have done nothing other than throw more money
+at the border, more enforcement.
+If we provided pathways to citizenship for people like
+Dreamers who were brought to this country when they were
+children, have never known another country but this, they want
+to work, they want to pay taxes, they want to pay into the
+system, if we were to increase legal pathways to citizenship, I
+think our Social Security trust fund would be in better shape.
+Is there anybody on the panel that disagrees with that?
+Okay. That is what I suspected. And yet we cannot get
+traction for a comprehensive overhaul of our broken immigration
+system so that we will have the workers of the future that we
+are going to need if we want our country's economy to continue
+to grow.
+I have nothing further, other than to say, you know, it is
+a little disheartening when we have a system right now where a
+professional baseball player who earns millions of dollars in a
+season hits the Social Security cap in their first at bat of
+the season and for the rest of the season does not pay into the
+Social Security trust fund. I think if we could balance that
+out to make it a little bit fairer for everybody, we would find
+some revenue to extend the livelihood of the Social Security
+trust fund. I don't understand why that proposal is not one
+that my colleagues on the other side of the aisle are willing
+to--are willing to consider.
+And with that, I will yield back.
+Chairman FERGUSON. As a Braves fan, we would support that
+coming all out of the Nationals' payroll.
+With that--and I thank the lady for her comments.
+With that, we will yield 5 minutes to the gentleman from
+Arizona, Mr. Schweikert.
+Mr. SCHWEIKERT. Thank you, Mr. Chairman.
+Dr. Swagel, first off, don't all workers, whether they are
+just on a work visa, a Dreamer, even if they don't have U.S.
+citizenship, they are paying a FICA tax, correct?
+Mr. SWAGEL. The ones who are in the country lawfully.
+Mr. SCHWEIKERT. Legally.
+Mr. SWAGEL. That is right. Yeah.
+Mr. SCHWEIKERT. Okay. I just want to--okay. Because that
+was a misnomer.
+I want to work through--so because there is some baseline
+problems I have between CBO numbers and the actuary report. I
+think the actuary report already understands their fertility
+calculations are substantially off from even censuses at math
+and those. But let's walk through some stuff here.
+For just this year, so let's do our 2024 year. We have
+payroll taxes, income tax from beneficiaries, and the
+interest--because they are going to make about 6 percent of the
+fund--it is going to come in as interest. I have 1 trillion,
+166 billion. Okay. I have the spend in the 2024 fiscal year of
+1 trillion, 480. Do those sort of match up with your numbers?
+That means the 2024 reaching into the trust fund will be $314
+billion this year.
+Mr. SWAGEL. Yeah, that is close to what I have got.
+Mr. SCHWEIKERT. Okay. So it is $26 billion a month is
+reached into the trust fund and used to supplement the checks
+that are going out the door?
+Mr. SWAGEL. That is right. And the money from the trust
+fund is, you know, the securities of the trust fund redeemed by
+the Treasury.
+Mr. SCHWEIKERT. Yeah. It is the special T-bills. But some
+people don't understand that there were--you know, six percent
+of the entire revenues, at least this fiscal year, on Social
+Security are actually interest that the general fund pays for
+having borrowed the money.
+Mr. SWAGEL. That is right.
+Mr. SCHWEIKERT. So you do have the weird multiplier. And
+then there is the tax on benefits, which is about four percent.
+I wanted to make sure, because there was a couple of things
+said that made it sound like the trust fund isn't already in
+play. It is in play this year. Over $314 billion will be
+borrowed from the trust fund this year--excuse me, refunded--
+the trust fund will cash in.
+Mr. SWAGEL. Redeeming securities.
+Mr. SCHWEIKERT. Yeah, redeem.
+Mr. SWAGEL. That is right.
+Mr. SCHWEIKERT. A couple other things I want to walk
+through. And instead of me leading you on these, I have three
+or four charts here. What do you see is the biggest
+differentials between SSA baseline and the CBO baseline?
+Particularly, I am looking at--you have a fairly substantial
+difference in outyears on, you know, their baseline. You also
+have some different calculations on the caps.
+But first, off the top of your head, can you give me what
+you see as differences on how the CBO actuaries built their
+model compared to the SSA?
+Mr. SWAGEL. Sure. I can talk to that now, and I know Steve
+will have, you know, a lot to stay also.
+So we do have different modeling technologies. So I will
+just set that aside. You know, we do things slightly
+differently. We do current law. And, you know, they assume some
+changes in the law. You know, outside of Social Security but in
+the tax law.
+In the parameters, the sort of numbers where we have
+different GDP growth, and Steve highlighted that this year, you
+know, they have bumped up GDP growth. And that just slightly
+more than offset, you know, their moving toward, you know, sort
+of what is happening on fertility. So it is growth fertility.
+They have much higher interest rates further out.
+And then immigration. You know, we have picked up the
+immigration surge that is not yet in the population numbers.
+But working with DHS numbers, we have picked that up.
+Mr. SCHWEIKERT. And where I was really going with this was
+not to pick on the Social Security actuaries or the CBO. It was
+more, I am trying to head towards the fragility of the numbers.
+When we did our math last year, the exhaustion, the first year
+of exhaustion was $616 billion short. Now it is 400 and some.
+Mr. SWAGEL. Yeah. Yeah. And in ours--that is immigration.
+In essence, it is from last year to this year, we picked up
+immigration. And sometimes we picked up--the immigration surge
+started in 2021.
+Mr. SCHWEIKERT. Okay. So year of exhaustion, you pick up a
+couple hundred billion just on what you consider immigration
+population.
+Mr. SWAGEL. The immigration surge, that is right.
+Mr. SCHWEIKERT. Okay. But it also actually should give us a
+sense of the level of fragility if we were to go into
+recession. You know, let's say it is a mild recession, would we
+probably see--you know, because you just had a $200 billion
+change at the end of the ten, in a single cycle. I am trying to
+get some sense of the fragility of that baseline number.
+Mr. SWAGEL. I agree that a recession would affect wages,
+would affect contributions. It would also affect fertility,
+right. After the 2008 rece--you know, recession and financial
+crisis and after the pandemic, fertility declined. It came up a
+bit, but not--you know, it didn't go backward.
+Mr. SCHWEIKERT. Yeah, but then it took a big spike downward
+last year. We went to 1.63.
+Mr. SWAGEL. Yeah.
+Mr. SCHWEIKERT. And I am over my time.
+Mr. Chairman, without objection, I have a number of charts
+that we have worked on with both taking from the actuary report
+and then some notes from the joint economic economists. I would
+like to add those to the record.
+Chairman FERGUSON. Without objection, your charts are added
+to the record.
+
+
+Mr. SCHWEIKERT. Thank you, Chairman.
+Chairman FERGUSON. Thank you.
+Next, we will call on the gentleman from Michigan, Mr.
+Kildee. You are now recognized for 5 minutes, sir.
+Mr. KILDEE. Thank you, Mr. Chairman and Ranking Member, for
+holding this hearing.
+And to our witnesses, thank you so very much for being
+here, and perhaps more importantly, for your years of work on
+this and other subjects.
+I am from Michigan. In Michigan, over 2 million seniors
+rely on Social Security just to make ends meet. For most of
+those folks, Social Security is the most important source of
+income retirement--or retirement income. And, in fact, for
+many, it is the only source of retirement income that they
+depend on. They have contributed, these folks that I represent,
+that we all represent, have contributed to Social Security with
+every paycheck, and rightfully expect that it will be waiting
+for them when it is time for them to retire. That is sort of
+the deal.
+When you work hard, you play by the rules, you ought to be
+able to retire with dignity. Those American workers have lived
+up--paycheck to paycheck, have lived up to their end of the
+deal, and so it is really important that Congress, on behalf of
+the American people, live up to our end of the deal and make
+sure that that benefit that they paid for, that was promised to
+them, is waiting for them.
+Democrats on this committee--it has been mentioned, Mr.
+Larson's leadership on this issue, Democrats on this committee
+are focused on delivering on that promise. And we are willing,
+even if it is hard, even if it may not be perfect, we are
+willing to put our name behind a proposal to fix this problem.
+And that is why we put up our solution to shore up the Social
+Security trust funds, to increase benefits, important part of
+this provision, for current and future retirees. We do so by
+making the wealthiest Americans pay into Social Security at the
+same rate as those Bay City teachers that I represent or
+Saginaw firefighters that I represent, Midland factory workers
+that I represent are paying out of their paychecks. This
+approach stands, as has been said, in pretty stark contrast to
+the proposals or lack of proposals put forward by our
+Republican colleagues.
+Now, we haven't seen the legislative approach prepared and
+drafted and dropped in the hopper. We have done ours. But we do
+know that the Republican Study Committee, which 80 percent of
+House Republicans belong to, recently released their budget
+plan for 2025. And under their plan, Republicans would cut
+Social Security benefits by $1.5 trillion. You can say it is
+this or that or the other thing, but when you take that kind of
+money out of the program, someone is going to have to lose a
+benefit.
+This proposal which raises the retirement age and cuts
+benefits for family members couldn't be more out of step from
+what I hear back home about the solutions that people want to
+see us take up.
+For the Michiganders, the seniors that I represent barely
+getting by on their Social Security check, the answer to the
+long-term solvency of Social Security is not to increase the
+retirement age, not to cut benefits. It is time that we advance
+legislation that increases Social Security benefits to reflect
+the true cost of living that they experience and does so by
+making the wealthiest Americans, who have done extraordinarily
+well, as evidenced by some of the data dating back to the 1983
+reform, the millionaires and billionaires have done
+extraordinarily well, and they certainly can step up and do
+their fair share.
+Again, it is time to move legislation that does not cut
+benefits, that solves this problem by making sure that the
+people at the very top of our economy pay their fair share.
+That is what our legislation would do.
+I don't want to ask a question. I just want to say to Mr.
+Huston, Mr. Goss, and Mr. Swagel, thank you for the work that
+you do. Thank you for keeping us informed with the facts. The
+facts speak to the need for us to take action.
+I look forward to working, for my remaining time here in
+Congress, alongside each and every one of you to make sure we
+solve this problem. So thanks for your service to our country,
+Ms. SANCHEZ. Will you yield?
+Mr. KILDEE. I would yield to Ms. Sanchez.
+Ms. SANCHEZ. Yeah. I just want to put a finer point on the
+immigration issue. When we have an underground economy, when
+workers are not part of the legal system, they do not pay into
+the Social Security system. Is that correct? Does anybody
+disagree with that?
+Mr. GOSS. That is correct.
+Ms. SANCHEZ. So, if we had opened up legal pathways for
+folks to naturalize and get their citizenship, they then would
+be, if they were working, paying into the Social Security
+system. Is that not correct?
+Mr. GOSS. That would make a significant difference. There
+are cases where people are not legally authorized, but they may
+nonetheless have earnings reported on their behalf by their
+employer with tax revenue coming into the trust funds. It goes
+into what we call the earning suspense file. They will likely
+not ever get any benefit credit, but payroll taxes still accrue
+in many cases where people are not legally work authorized.
+Ms. SANCHEZ. But that probably isn't the norm, because I
+would expect that in a cash underground economy, nobody is
+contributing into the Social Security trust fund.
+Mr. GOSS. If people are paid cash literally, absolutely.
+Ms. SANCHEZ. So, again, if we opened up legal pathways for
+those folks to regularize their status, we could boost what
+goes into the Social Security trust fund, correct?
+Mr. GOSS. Definitely, yeah.
+Ms. SANCHEZ. Thank you. And I thank the gentleman for
+yielding.
+Mr. CAREY . The chair now recognizes Mr. Kustoff
+for 5 minutes.
+Mr. KUSTOFF. Thank you, Mr. Chairman. Thank you for the
+witnesses for appearing today.
+If I could, Mr. Goss, if I could ask a question more on
+process than substance for a moment. I am a big believer that
+we can always look to history when we are trying to address
+issues and problems and see what was done right and see what
+was done wrong.
+From a historical perspective, giving guidance to us, can
+you talk about the 1983 process and lessons that we can learn,
+right and wrong, to help direct us?
+Mr. GOSS. Wonderful question, thanks very much. And I was
+actually there working with Moynihan and Dole and others
+throughout the Greenspan Commission and after. It was a
+wonderful process.
+I would say that what we really need to do is to do that
+more and more often, to have the kind of discussion we are
+having today, to talk about the possibilities through the
+Greenspan Commission and through the conference committee that
+actually developed the 1983 amendments. We made a lot of
+progress.
+One of the shortfalls that we had at the time was computers
+have advanced a little bit since 1983. We were not able to
+overnight develop a full annual projection of what the
+implications of reform would be at that time. We are now able
+do that literally overnight. For example, the fact that we had
+the big rise up in trust fund reserves expected in the 1983
+amendments and then dropping down at the end. Had we had more
+time, we might have been able to smooth that out and been in
+better shape. But we are now in much better shape to do it.
+If I may just add, by the way, I think Phil and I are going
+to have to talk, because our projected shortfall for the
+calendar year 2024 for the OASDI program as a whole, our
+reduction in our trust fund reserves is $100 billion. I think I
+heard $300 billion. What is curious here is that, in fact, from
+the 2023 Trustees Report last year to the new one, the economy
+did so much better in 2023 that actually we are in better shape
+now. And here is the really good news: The end of 2023 and so
+far in 2024, the economy is actually operating better now than
+we even had included in our 2024 Trustees Report. I assume that
+is probably the same for the CBO projections. So I am not quite
+sure why CBO is seeing a $300 billion drop in trust fund
+reserves where the trustees, on what are conservative
+assumptions so far for 2024, has seen only a $100 billion drop.
+Mr. KUSTOFF. Are there other lessons, good or bad, that we
+can learn from the 1983 process?
+Mr. GOSS. I think the lesson that we learned then was that
+there was great cross-aisle discussion, bicameral, bipartisan.
+It was a wonderful experience dealing with people all looking
+towards where we were. Now, of course, the one shortfall was
+that it was so late in the game, as Barry mentioned earlier. So
+the fact that we are now roughly 10 years before the point of
+reaching reserve depletion is wonderful. If we could add that
+kind of cross-the-aisle discussion and come to serious
+discussion about what we want to do for the American people,
+that would be wonderful.
+So there was great bipartisan discussion back in the day,
+but it was very late in the game. We are now in a nice position
+of being 10 years before reserve depletion to be able to
+hopefully come up with a good approach.
+Mr. KUSTOFF. Thank you, Mr. Goss.
+Mr. Huston, can I talk to you about your report for CRS?
+You have a section in there about interest income. And you show
+the disparity in interest income to about 2008, 2009, 2010, and
+then it drops off.
+Can you walk us through the early 2000s to about 2009,
+2010, and walk us through the present as it relates to interest
+income and its relevance?
+Mr. HUSTON. Sure. So as I had mentioned in my oral and my
+written testimony, there is three sources of revenues for the
+trust funds. One is the payroll taxes, another is taxation on
+benefits. And in years where there is excess tax revenues,
+those excess funds get invested in interest-bearing government
+securities. And then the trust fund earns interest on those,
+and that becomes the third source of revenue.
+Interest income that is not needed to pay benefits gets
+credited back to the trust funds. And the trust funds never
+needed to rely on that interest income till about 2009, 2010.
+Starting in 2009, the cost rates started to exceed the income
+rates, and the income stream started to be used as a means to
+help pay benefits. That has been moving forward up until 2021,
+when, in addition to the interest income, the program has also
+needed to rely in part on the trust fund assets themselves to
+help pay benefits.
+Mr. KUSTOFF. Thank you very much.
+My time has expired. I yield back.
+Chairman FERGUSON . I would ask for just a
+little bit of leeway here from my colleagues before I call on
+Ms. Moore.
+Dr. Swagel, I believe that you--I saw you wanted to respond
+to the question about the difference between Social Security's
+estimates and CBO's estimate on the withdrawal of the $100
+million versus $300 billion.
+Mr. SWAGEL. Yeah. I mean, and since----
+Chairman FERGUSON. And if you could make this quick.
+Mr. SWAGEL. Yeah, sure, sure. Of course, there is a lot to
+numbers. So we have--it is $150 billion now that the trust fund
+expenditures exceed the income, and that is rising to $500
+billion in our projections by 2034.
+Chairman FERGUSON. Okay. Thank you for that clarification.
+Now the gentlelady from Wisconsin, Ms. Moore, you are now
+recognized.
+Ms. MOORE of Wisconsin. Thank you so much.
+And I am always delighted to talk about our premier program
+that prevents seniors from living in poverty, particularly
+important for our disabled community, women, and people of
+color.
+I want to start out by thanking one of our witnesses, Mr.
+Goss, for diligently working with me and my staff and answering
+questions that we have given you in writing.
+I think it is important, when we talk about--Mr. Chairman
+and Mr. Ranking Member--that when we talk about Social
+Security, we talk about it in real terms, that we really come
+to the table, coming together in good faith. And my concern is
+that it is not good faith to come to the table scaring young
+people, telling them not to rely on Social Security because it
+won't be there anymore. So many young people have bought into
+the idea that it is hopeless to ever rely on it or to--you
+know, that is not a realistic way of fixing it.
+It is not fair to come to the table and say to people the
+only way that we can fix it is to cut benefits by 25 percent.
+You can't say that you are working toward a solution to say
+that we ought to raise the retirement age. You know, you look
+at all the gray hair up here. It is one thing for us to be
+doing this kind of work at our age, but when I think about the
+people that I need to fix the gutters on my house, I don't
+think any of them are going to make it by increasing the age.
+But one of the things that I just wanted to review with
+you, Mr. Goss, there are many roads to the city. And before I
+talk to you, I want to talk to Mr. Swagel.
+You shared with my colleague, Ms. Sanchez, that you thought
+immigration reform was a real vital way to improve the
+receipts--the payroll receipts. And you also mentioned, as Mr.
+Schweikert well knows, that we have decreased population, and
+we are facing a fertility crisis.
+And so, you know, we have several approaches to
+immigration. But I once read the CBO report, that within a
+window of a 10-year budget window, we could see a $1 trillion
+increase minimum if we were to have some sort of immigration
+reform. Am I remembering that correctly?
+Mr. SWAGEL. Yes. What we said is that the immigration surge
+we project from 2021 to 2026 will result in about $1 trillion
+of additional revenue. We are working further on that. So we
+will have an update to that soon, but it is still on the order
+of----
+Ms. MOORE of Wisconsin. That is only 5 years, $1 trillion.
+Mr. SWAGEL. Over the 10-year period.
+Ms. MOORE of Wisconsin. Over the 10-year period.
+Mr. SWAGEL. The 5 years is over----
+Ms. MOORE of Wisconsin. Well, I just wanted to remind us of
+that.
+Mr. Goss, you sent me a really long memo. Be careful of
+what you ask for, people actually might write you back. And so
+what I asked you to analyze was how could we maintain the
+solvency of this program but yet be humane and recognize that
+people were getting older, that people were losing benefits,
+because they--5 years of their lives have gone toward
+childcare, rearing, women who never--don't get that credited,
+people over 80, kids who lost their benefit. There have been so
+many teary-eyed Members of Congress that have talked about how
+they were able to go to college after their dad died.
+And so, I propose restoring all those benefits and still
+extending the life of Social Security by 24 years. I have 42
+seconds, take it away, sir, and sort of review this thick memo
+for us.
+Mr. GOSS. Well, thank you very much. There is no question
+that we can maintain the benefits we have now, but we do need
+more revenue in the future. Because of what has happened with
+the changing earnings distribution and the changing number of
+working age people versus retirement age people in our country,
+largely because of the birth rate dropping, we do have a
+situation where to maintain the level of benefits we had
+scheduled in current law we will need more----
+Ms. MOORE of Wisconsin. I mean, it is a modest change in
+benefits. Like, right now, we have a combined contribution
+level of 12.4 percent. If we were to increase it by 13 percent
+payroll an employee, that is how we achieve that 24-year
+increase. So, you know, you pay a penny today for benefits for
+25 more years. Am I correct?
+Mr. GOSS. That is right. And let me just also go back to
+immigration that you mentioned, which is so important. We have
+less than 4 million births per year in this country, but our
+net immigration is on the order of 1 million. That is an
+enormous help in terms of maintaining our population in the
+future. We had such a drop in births because of the birth rate
+since 1965, that having elevated immigration would be a big
+help in maintaining our population and the age, distribution,
+which would have enormous ramifications.
+Chairman FERGUSON. The gentleman----
+Ms. MOORE of Wisconsin. Sorry. Mr. Chairman, let me thank
+you for your indulgence, and Mr. Ranking Member. And I will
+yield back.
+Chairman FERGUSON. Thank you, Ms. Moore.
+The gentleman from Pennsylvania, Mr. Smucker, you are now
+recognized for 5 minutes.
+Mr. SMUCKER. Thank you, Mr. Chairman.
+I refer to something Mr. Larson said. I am not even sure
+where to start here. There is a lot to talk about. This has
+been a great conversation.
+A few things I want to mention, I think. Mr. Goss, you had
+responded in an answer to a question from Mr. Kustoff about the
+Commission or the deal in 1983, and talked very positively
+about that; really people coming together and resolving this,
+putting everything on the table and making it solvent for years
+to come. We can do that again, right, and we should do that?
+Mr. GOSS. We are much looking forward to that.
+Mr. SMUCKER. Yeah. And would like to suggest to Mr. Larson
+and others who I think are, you know, sincere about the desire
+to fix Social Security, there is a difference between proposing
+a bill that doesn't go anywhere and having a real bipartisan
+discussion about resolving this. And so, I guess, I would like
+to suggest the fiscal commission that we had recommended that
+looks at both debt and Social Security really is an attempt to
+do that. And I know you have spoken out----
+Mr. LARSON. Would the gentleman yield?
+Mr. SMUCKER. Let me finish my sentence and I would be happy
+to.
+Mr. LARSON. Sure.
+Mr. SMUCKER. I know you have spoken out against that and,
+you know, I am telling you in all sincerity that I think that
+we could resolve this if we had that kind of conversation with
+the American people. We could do what has been done in 1983.
+And we could take your bill and others and put them together
+and really resolve this for the American people. I can tell you
+that I am certainly interested in doing that, people on our
+side are interested in doing that. And we are willing to put
+everything on the table.
+And so, yes, I will yield.
+Mr. LARSON. So what is it you are putting on the table,
+number one? And there are many Social Security proposals that
+exist out there, not just Social Security 2100.
+But also, there is a big difference between the Greenspan
+Commission and the commission that was proposed behind closed
+doors with only a select group of people with a decision that
+would require only an up or down vote is----
+Mr. SMUCKER. Well, and I----
+Mr. LARSON. That is not a democratic--let's sort through
+this, let's have this exposed to the public, let's go through
+this, and let's put all those discussions on the table. And I--
+--
+Mr. SMUCKER. So I am going to reclaim----
+Mr. LARSON . Totally agree with you that people
+like yourself and others are very sincere about this, except
+the proof is in the pudding.
+Mr. SMUCKER. And I will take my time, because I would love
+to get to a lot more here. But I would love to continue to have
+that discussion. I would love to not just get a no on that,
+because I can tell you, we are sincere about it and we could
+put everything on the table to try to solve this.
+I do want to--on your point on the debt, so very briefly so
+that people understand this, initially when Social Security was
+put in place, we were taking in more money coming in than was
+going out, correct? When did that change? When did Social
+Security no longer begin to receive each--more money annually
+than they were paying out?
+Mr. Goss?
+Mr. GOSS. Well, most recently that has occurred in 2010. It
+was expected to be in 2020 at the time of the 1983 amendments,
+but because some of the changes----
+Mr. SMUCKER. So since 2010, we have been paying out more
+than we have been taking in?
+Mr. GOSS. Exactly.
+Mr. SMUCKER. And within 9 years, the difference--the trust
+which was the difference that has been accumulating over time
+that has been borrowed and is being paid back, in 9 years, that
+expires, right? That is gone. We no longer have excess funds.
+Am I right on that?
+Mr. GOSS. On a combined basis, maybe 10 years, on that
+order.
+Mr. SMUCKER. So at that point, unless something changes,
+people will no longer get all of their Social Security benefits
+because we don't have money to pay it, correct?
+Mr. GOSS. Under current law----
+Mr. SMUCKER. Yes.
+Mr. GOSS . We cannot pay what is not in the
+fund.
+Mr. SMUCKER. Or if at that time Congress decides to make it
+up by taking on additional debt, that is a choice we could
+make, right? We could continue to pay benefits, if nothing has
+changed, by taking on additional debt and paying for those
+benefits.
+Mr. GOSS. Unprecedented, but anything is possible.
+Mr. SMUCKER. But at that point, it would add to the debt,
+right?
+Mr. GOSS. If Congress were to change the law and say that
+we will borrow from the public----
+Mr. SMUCKER. The only point I am making--and I would love
+to have more conversation about this publicly, that is why we
+need a commission to talk about this--is that this will
+contribute--there is a fundamental problem: We have far fewer
+workers than we do retirees. That ratio is far different, and
+so we need more workers.
+By the way, I agree with Ms. Sanchez, who I don't often
+agree with, on immigration. It is something that it is a
+partial solution here. We need a lot more workers, we should be
+talking about legal immigration.
+But it is a great conversation. I wish others would agree
+that we need to continue to have this conversation. This is how
+I think a commission could work. We would take this
+conversation across America. We would begin to have a real
+understanding of the facts and how they exist. We just can't
+have that conversation in 5 minutes each here. I only get 4 if
+I give some to you. But, like, I would love to continue this
+conversation.
+But thank you, Mr. Chairman, for your indulgence of time
+here.
+Chairman FERGUSON. Thank you, Mr. Smucker.
+Next, we will go to our dear friend from the great State of
+Illinois, Mr. Schneider, you are recognized.
+Mr. SCHNEIDER. Thank you.
+And I will say to not just my friend, my next-door
+neighbor, Mr. Smucker, I look forward to the conversation. I
+think it is important that we have it. I will challenge this
+one premise: I don't think it is a binary option.
+And, Mr. Goss, I am going to ask you about the trust fund
+in a second, but it is not just necessarily going to debt.
+There is no reason, I am not advocating this, but we could
+raise taxes to pay for it. There are whole ways to do it. Or we
+could, as was mentioned earlier in the conversation, increase
+the percent of income debt paid into Social Security as a piece
+of it. We need to have a discussion around all of those things.
+And, Mr. Goss, I took a quick look at your biography. You
+are a little bit older than me. I graduated college in 1983. I
+want to make sure that we are going to be in the same way. You
+were actually here in 1983 when they were talking about Social
+Security. When I graduated, every one of my classmates and my
+cohort were told Social Security won't be there for you because
+it is insolvent, and then Congress acted. So we are talking
+about the trust fund being depleted.
+Why is there a trust fund in the first place? And I will
+get the leading question, wasn't the plan to create a trust
+fund for a period of time that would rise and then ultimately
+fall? Isn't that the design from the 1980s?
+Mr. GOSS. Well, the trust fund--we oftentimes refer to the
+money in the trust funds as a contingency reserve. This is not
+an advanced funded program. If we were a fully advanced funded
+program, our trust fund reserves would actually be about 25
+times annual cost. We are only at about 1.5 or so times annual
+cost now because it is supposed to be a contingency reserve.
+If, as some have mentioned, we were to hit another recession at
+some point and our income started to drop relative to our cost,
+we need to have some time to draw on those contingency reserves
+so that you all will have time to make changes to address that
+issue.
+Mr. SCHNEIDER. But the goal was to buy time in the 1980s.
+And here I am now 40 years--40-plus years since then, and
+people that I went to school with, that I grew up with, are
+beginning to retire. And for many of them, their retirement and
+the security of their retirement is standing on a foundation of
+Social Security that they didn't believe would be there for
+them 40 years ago. But because of the work we did in this--work
+those before us did in Congress, extended it. And I think now
+it is falling on our shoulders to figure out how do we make
+sure that the next generation, the young people and the young
+people graduating today.
+You know, in 1983 when I graduated, we had the recession.
+It was the tail end of the recession, the economy had great
+success ever since. The kids graduating today first graduated 4
+years ago from high school in the teeth of COVID, now are
+graduating, and the challenges are different. The least we can
+do is stand there for them. But I think there is also a way
+that we do it.
+So, you know, the Republican Study Committee's proposal of
+cutting Social Security by $1.5 trillion puts a burden on those
+who can least afford it who are depending on Social Security.
+The idea of raising the retirement age--you know, life
+expectancy is in many cases tied or at least there is a
+correlation to income. And those who are in the highest income
+brackets, when they retire, let's assume at 67 right now, their
+life expectancy at retirement is another 20-plus years. For
+those who are in the lowest quintile, their life expectancy in
+retirement is less than 10 years. It is a factor of health; it
+doesn't matter why.
+If we raise the retirement age from 67 to 70 on these
+people, we are literally cutting their expected retirement by
+fully a third. People who have worked their entire life, who
+have followed the rules, who have struggled their entire life
+to make ends meet, and we are to tell them that their golden
+years are going to be cut by a third? That just doesn't seem
+fair.
+So, we need to have these conversations, we need to be
+working together, Republicans and Democrats, across the aisle,
+but we have to do it in a way that recognizes the original
+intent of Social Security, an insurance program to give
+Americans, after a lifetime of service and contribution to
+their communities and their Nation, a dignified and secure
+retirement.
+And that is why, Mr. Smucker, I look forward to working
+with you--we just have to walk one office over--but with our
+other colleagues to have these conversations, and I do agree,
+we have to take it to the public.
+And I am grateful for our ranking member, Mr. Larson, your
+leadership and work, and you have done incredible yeoman's
+effort with Social Security 2100. How do we take this not just
+for another 20 or 30 years. I think earlier it was said that--
+Dr. Swagel, I think you were asked the question. You said if we
+took it to 90 percent, we would have 13 years. Thirteen years
+is great if you are in your 80s. If you are 25 years old, 13
+years doesn't solve the problem. How do we add 75 years to this
+to do it in a way that reflects our values as a country, the
+hardworking American individuals and their enterprises are
+doing to grow our country.
+And so, I am over my time. I am sure I have lots of
+questions for all of you, but I don't want to keep us longer.
+Let me just say thank you to the chairman and ranking member
+for this hearing. We have to get this done. It is our
+generation who is benefiting from Social Security that needs to
+make sure that the next generations have the same benefits that
+we have.
+I yield back.
+Chairman FERGUSON. I thank the gentleman.
+Next, the gentleman from Iowa, Mr. Feenstra, you are now
+recognized for 5 minutes.
+Mr. FEENSTRA. Thank you, Chairman Ferguson, Ranking Member
+Larson.
+Thank you also, Dr. Swagel and Mr. Goss and Mr. Huston,
+thank you for being here today.
+We have got, obviously, a lot of concerns with Social
+Security, and we have got to resolve them. But we also have to
+be singing from the same song book, understanding what is
+happening.
+Dr. Swagel, I have got a lot of things to talk about, but I
+want to just ask you, do Social Security payments create debt?
+I mean, I am hearing from the other side that there is this
+view that it doesn't. And I would like you to explain to me,
+does it create debt?
+Mr. SWAGEL. You know, there are lots of ways to look at it,
+and I realize that is part of the confusion. The $150 billion
+that I think Steve and I both, you know, talked about, today
+that is being funded by the Treasury, the cash has to come from
+the Treasury to get that $150 billion.
+Mr. FEENSTRA. It has got to redeem its assets.
+Mr. SWAGEL. Exactly.
+Mr. FEENSTRA. Correct? I mean, Social Security has got to
+redeem its assets.
+Mr. SWAGEL. Yes. It is an asset for Social Security, but it
+is a liability for the Treasury. The Treasury borrows----
+Mr. FEENSTRA. Thank you. And so what is the Treasury going
+to do again? So you have go to redeem the assets, but how does
+the Treasury redeem its assets?
+Mr. SWAGEL. To come up with the cash, the Treasury----
+Mr. FEENSTRA. Yeah, comes up with the cash by selling
+bonds, right?
+Mr. SWAGEL. Selling bonds, everything----
+Mr. FEENSTRA. Thank you. Yeah, exactly right. So it
+actually is adding to our debt, right?
+Mr. SWAGEL. To redeem the assets in the trust fund, the
+Treasury has to borrow and create debt.
+Mr. FEENSTRA. Yes, it has got to create debt. Yes.
+Mr. Goss.
+Mr. GOSS. So if we redeem $100 billion of debt that is owed
+to the trust funds and we trade that for $100 billion that is
+now owed to the public, it is merely a swap. The total Federal
+debt is unchanged.
+Mr. FEENSTRA. But you still have got to--you have got to
+sell bonds to do that. The Treasury still has got to sell bonds
+to do that. Is that a fair statement?
+Mr. GOSS. It has to sell bonds to the public by redeeming
+the same amount of bonds that it now--that are held by the
+trust fund.
+Mr. FEENSTRA. Thank you.
+But, Mr. Swagel, can you answer that?
+Mr. SWAGEL. Yeah. You know, the numbers that we focus on
+are debt held by the public.
+Mr. FEENSTRA. Yes.
+Mr. SWAGEL. So what Steve is saying is correct, the debt
+held by the public goes up.
+Mr. FEENSTRA. The debt held by the public, yes. But, I
+guess, what I am trying to say is that you still have got to
+sell Treasury bills, you still have got to sell T-bills.
+Mr. SWAGEL. That is right, to the market.
+Mr. FEENSTRA. To the market. All right. And when you do
+that, that is, in essence, getting a loan, that is going
+further into debt.
+Mr. GOSS. You are redeeming one loan and creating another.
+Mr. FEENSTRA. What I am trying to have everybody understand
+here is that we have got a problem, okay? We have got a
+problem. And I think we all agree to this that we have a
+problem. And there is a lot of insightful ways that we can look
+at this, but the fact of the matter is, is that, you know, in,
+what is it, 2032 now, the CBO's outlook--I think it is 2032, am
+I right, fair statement?
+Mr. SWAGEL. It is 2033.
+Mr. FEENSTRA. 2033.
+Mr. SWAGEL. The end of 2032----
+Mr. FEENSTRA. Right. So, Dr. Swagel, and so what is going
+to be the percentage cut per Social Security recipient right
+now at 2033?
+Mr. SWAGEL. So we have about 21 percent.
+Mr. FEENSTRA. Twenty-one percent. So what you are telling
+the public, I just want to make sure we are fair here, you are
+telling the public that they are going to see a 21 percent cut
+in their Social Security if we do nothing.
+Mr. SWAGEL. That is correct.
+Mr. FEENSTRA. Okay. Everybody get that? I just want to make
+sure the public gets that. Twenty-one percent cut in 2033, if
+we do nothing. So that means we have got to act, that means we
+have got to do something.
+Thank you, by the way, for holding this because this is
+very important.
+So what I did, I think the seniors--I created a Seniors
+Saves Act that creates an accurate forecast. I think right now
+the CBO, the 10-year outlook showing the outlays is not an
+accurate forecast because it just continues in full regardless
+of the trust fund's exhaustion.
+Can you talk about this a little bit, Dr. Swagel?
+Mr. SWAGEL. Yes, for sure. So under the Balanced Budget Act
+of 1985, our baseline projections are required to show outlays
+as if the trust fund continues even after it is exhausted, so
+the scheduled benefits.
+Mr. FEENSTRA. Yes.
+Mr. SWAGEL. We show both the schedule and payable, but the
+baseline by law shows the scheduled.
+Mr. FEENSTRA. Yes. And again, here's the problem: It is a
+false narrative, right? I mean, we are making assumptions here.
+You don't have to answer that.
+I just want everybody to understand that we have got to
+have accurate data. We have got to make sure the CBO is telling
+everybody, and just like I am telling everybody, by 2033, you
+are going to get a 21 percent cut in your Social Security if we
+don't do something. So you might want to tell your Congressmen
+and women, you better act.
+Thank you. I yield back.
+Chairman FERGUSON. I thank the gentleman from Iowa.
+Thanks again to each of you for being here. I would like to
+say--we have got one more member coming in before we wave the
+flag here, so we are going have one more.
+I was going to cut you off, but Mr. Larson insisted that
+you get your 5 minutes. So thank you, John, for that.
+So we will now recognize Mr. Estes for 5 minutes.
+Mr. ESTES. Thank you, Mr. Chairman. And thank you Mr.
+Larson for looking out for me. I appreciate that, my good
+friend.
+And I thank you all for being here today to talk through
+some of these issues that are so important for everyday
+Americans. You know, today's hearing obviously is critically
+important as both the CBO and the trustees have, on their most
+recent assessment, projected that Social Security's trust fund
+will be unable to pay full retirement benefits starting in
+2033. According to the projections, that means that tens of
+millions of seniors and their families who rely on the programs
+would experience immediate benefit cuts.
+Unfortunately, a lot of those folks are already
+experiencing cuts, thanks to the sky-high inflation that is
+19.9 percent since January 2021. And rising prices hurt those
+on a fixed income and just like so many of our seniors.
+You know, a key driver of inflation is an uncontrolled and
+insatiable desire to spend. Our debt now stands at $34.6
+trillion, and grows by $100,000 a second. It is simply
+unsustainable.
+Even though we have got our spending under control in
+Congress, we still have a problem. And discretionary spending,
+actually the spending that we get to vote on as Members counts
+for less than 30 percent of all government spending. And CBO
+projects that Social Security will eclipse all discretionary
+spending, including defense by 2029.
+So if we are going to make real changes to preserve Social
+Security, we have got to talk about responsible reform. I know
+in an election year there is a lot of rhetoric about how do you
+cut Social Security, but I think we all can agree we don't want
+seniors to suffer through that process. And the truth is, if we
+put our heads in the sand and do nothing else, American seniors
+who will suffer the most. As it stands now, in the next decade,
+if no action is taken, Social Security recipients will start
+receiving $0.75 on the dollar when insolvency is reached.
+I want to talk a little bit about, you know, what is the
+impact and how we are being impacted. And something that is
+obviously having an impact on Social Security is illegal
+immigration. Since President Biden took office, there have been
+more than 2.15 million encounters on the southwest border
+alone, and we can't be sure how many people have crossed into
+our country.
+Mr. Goss, how do the Social Security trustees account for
+the impact of illegal immigrations in your assumptions and has
+it been accounted for in the current Trustees Report?
+Mr. GOSS. Absolutely. We always have--we look at total
+immigration, both immigration subject to the legal limits and
+also undocumented immigration coming into the country. By the
+way, the undocumented are generally looked at as people who
+come across the border without documentation.
+Many of these people come to the country and eventually
+become legal permanent residents or may have children while
+they are here who will then be citizens. That actually
+contributes positively to the economy and to Social Security.
+So on the bottom line, really, immigration of all forms is
+actually a positive in the realm that we are in now where the
+birth rates in the country are as low as they are. So
+immigration is actually a positive.
+Mr. ESTES. It is positive in the short term before those
+individuals start taking benefits, right?
+Mr. GOSS. Well, it is positive also in the long term,
+because if we have more people coming into the country, whether
+they are initially undocumented or not, if they come in in
+their 20s or 30s, which is generally the age range for new
+immigrants, if they have children, then that adds to the future
+population. It adds to the growth of our population, which is
+very much a positive.
+Mr. ESTES. Right. I mean, we are a country of immigrants,
+so we want to continue to have, you know, legal immigration
+that has an impact and be able to come out of that shadow
+economy.
+Do you take into account any dealings with how many of
+those folks that have come here illegally and not had a legal
+right to cross the border, that more likely working in the
+shadow economy, that they are paying--paid cash under the
+table, in which case they wouldn't be captured, as far as being
+able to pay payroll taxes?
+Mr. GOSS. If people are literally paid cash then, of
+course, there is going to be no record of that towards benefits
+or towards their paying in payroll taxes. However, in many
+cases, where people are either undocumented or have come on a
+temporary visa and overstay it, they are not legal permanent
+residents, in many cases, those individuals will, through their
+employers, still be paying payroll taxes that go into the trust
+fund, and very likely they will never receive benefits.
+So in addition to the possibility they are having children
+on our shores, there is a possibility of that kind of
+immigration actually having a positive. We had a little
+actuarial note back in 2013 that walks through this in some
+detail.
+Mr. ESTES. Well, I am about out of time but, Dr. Swagel,
+did you have anything that you could include and talk about
+your assumptions?
+Mr. SWAGEL. Oh, okay. No. Just the same thing that, you
+know, we are looking carefully at immigration and the share of
+the immigrants who are paying into the system and the share who
+are collecting benefits. It is something we are working on
+carefully right now.
+Mr. ESTES. All right. Thank you.
+And, Mr. Chairman, I thank you for your indulgence. And I
+am out of time. I would like to ask more questions, but I will
+yield back. Thank you.
+Chairman FERGUSON. Thank you.
+Again, I want to thank our witnesses for being here today.
+And please be advised that members have 2 weeks to submit
+written questions to be answered later in writing. Those
+questions and your answers will be made part of the formal
+hearing record.
+With that, the subcommittee stands adjourned.
+
+MEMBER QUESTIONS FOR THE RECORD
+=======================================================================
+
+PUBLIC SUBMISSIONS FOR THE RECORD
+=======================================================================
+

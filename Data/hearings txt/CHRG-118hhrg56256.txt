@@ -1,1 +1,1807 @@
-OVERSIGHT OF THE SEC'S PROPOSED CLIMATE DISCLOSURE RULE: A FUTURE OF LEGAL HURDLES ---------- Thursday, January 18, 2024 U.S. House of Representatives, Subcommittee on Oversight and Investigations, Committee on Financial Services, Washington, D.C. The subcommittee met, pursuant to notice, at 10:08 a.m., in room 2128, Rayburn House Office Building, Hon. Bill Huizenga  presiding. Members present: Representatives Huizenga, Sessions, Wagner, Rose; Green, Horsford, Tlaib, Garcia, and Vargas. Ex officio present: Representative Waters. Also present: Representatives Lucas, Davidson, and Casten. Chairman Huizenga. The Subcommittee on Oversight and Investigations will come to order. Without objection, the Chair is authorized to declare a recess of the subcommittee at any time. Today's hearing is entitled, ``Oversight of the SEC's Proposed Climate Disclosure Rule: A Future of Legal Hurdles.'' I now recognize myself for 5 minutes to give an opening statement. I want to thank the witnesses for appearing before the subcommittee this morning, especially with some of the weather challenges. But I especially want to welcome my constituent, Mr. Bill Schultz, who is in from Mattawan, Michigan. I am really glad that you were able to make it and to be a part of this. As I indicated last year at our first hearing, oversight is a vital check on any Administration's power and on those whom the President chooses to represent that Administration. Today's hearing should not be confused with a debate on climate change but rather whether the Securities and Exchange Commission has the legal authority to mandate climate disclosures from all companies and that, I believe, is going to be the effect. Nearly a century ago, Congress created the SEC to protect investors; maintain fair, orderly, and efficient markets; and to facilitate capital formation. These are timeless goals and objectives, not to be used to advance a particular agenda. As we approach the two-year anniversary of the proposal of the SEC's climate disclosure rule, and this subcommittee's year-long investigation into that rule, I think it is prudent to examine the facts. First, the SEC has wildly underestimated the costs the rule will impose on both public and private companies. Instead of conducting a thorough economic analysis, the already- overwhelmed Division of Economic and Risk Analysis at the SEC relied on left-leaning environmental activist groups to justify its rulemaking. While the SEC asserts that the rule would cost current reporting companies roughly $10 billion a year, a recent study puts that number at closer to $25 billion a year, with little analysis on how proposed Scope 2 and Scope 3 requirements will impact small businesses, which frankly can't afford a compliance department or a legal department. Furthermore, this past fall, the Fifth Circuit Federal Court of Appeals ruled against a separate SEC-finalized proposal relating to shareholder or share repurchase disclosures. In that opinion, the court rightfully held that, ``The SEC acted arbitrarily and capriciously in violation of the Administrative Procedure Act when it failed to respond to petitioners' comments and failed to conduct a proper cost- benefit analysis.'' Given the sheer volume, pace, and complexity of rules currently before the SEC, a 9.4-percent staff vacancy rate as of September 2023, and Inspector General reports citing recruitment and retention challenges, one has to wonder how many finalized rules will ultimately be vacated by the courts. Which leads us to this question: In light of the Supreme Court's ruling in West Virginia v. EPA, does the SEC have congressional authorization to implement rules related to environmental or climate issues? In its ruling, the Supreme Court held that the EPA exceeded its statutory authority, relying on ambiguity as constituting an implicit delegation from Congress. Let us be clear: Congress has not delegated the authority to the SEC to require climate disclosures. The court's decision signals that the SEC's authority to develop, finalize, and implement a climate disclosure rule is in jeopardy and now, frankly, we are waiting on the Supreme Court, which took oral hearings yesterday on the Chevron doctrine, and what are the boundaries. It was about 40 years ago that there was a court ruling establishing that, so we are seeing a court certainly re-examining that balance between an Administration and Congress. Lastly, I want to close where I began, with congressional oversight. I would be remiss if I didn't speak to the subcommittee's efforts to conduct oversight of the SEC's climate rule and get answers to many of the questions we hear about and we will be hearing about today in our testimony. Although the SEC has responded to the committee, one might be in awe of the imposing-sounding 69,000 pages of documents that they have sent over. But the devil is in the details. To date, the Commission has approved only 11,540 pages of responsive nonpublic documents to be produced to the committee, which is only 16 percent of the total documents produced. The SEC has flooded our subcommittee with unresponsive documents, including a copy of the rule itself, a copy of Chair Gensler's public testimony before our committee;--which, I might add, I was sitting here for myself--press releases, and the entire public comment file which, of course, is public. So given the lack of cooperation, and the contents of the material turned over to the committee to date, I can only conclude that Chair Gensler is intentionally slow-walking our investigation. I will let those watching draw their own conclusions, but look at those details. Whether the final climate rule is finalized next week or next month, I think we can conclude that the SEC Chair has failed to convince not only his fellow Commissioners, but the American people, and as we will hear today, he will likely not convince the court. I look forward to hearing from each one of our witnesses. And I now yield to the ranking member of the subcommittee, the gentleman from Texas, Mr. Green, for 4 minutes. Mr. Green. Thank you, Mr. Chairman, and I would also like to thank you publicly for our gentleperson's agreement, a handshake agreement that we arrived at on the House Floor yesterday. Thank you, again. I also, Mr. Chairman, thank the witnesses, as you have, and I thank the staff for providing the intelligence that I will share today. Today's hearing is but another assault on helpful investor protection, climate change-related regulations. Friends, the science on climate change is clear, perspicuously so. It is not a question of whether it is going to happen, because it is already happening. For many public companies, extreme weather events or even slight changes in regional weather patterns can affect their operating performance. Recently, Coca-Cola was forced to close one of its bottling plants due to the overuse and extraction of groundwater. This shutdown resulted in an unexpected loss of profit, and delayed manufacturing timelines. Some companies already include general disclosures about climate risks. But those disclosures are typically very vague, lack standardization, and do not provide investors with a good sense of the scale of the risk the company faces from climate change. The Securities and Exchange Commission's (SEC's) recently- proposed rule on climate seeks to address this vagueness and lack of standardization as well as provide clear guidance for publicly-traded companies on climate-related disclosures. In a recent survey, more than 80 percent of U.S. investors indicated that companies need to more openly communicate the risks around climate-related factors, and 73 percent also said they are more likely to invest in a company that shares with investors its plans for effectively managing those factors. In response to increased investor demand for this type of information, in March of 2021 the SEC released a proposed rule to require public companies to make a variety of quantitative and qualitative disclosures regarding climate-related risks that are likely to have a material impact on their business. My colleagues across the aisle are finding fault with the SEC's proposed rule but offer no constructive solutions of their own. Those of you paying attention will very soon realize that this is a regular, recurrent, rhythmic part of the Republican playbook. Republicans opposed the Dodd-Frank financial crisis legislation but offered no serious alternative legislation after the last financial crisis. Republicans continue to oppose the Consumer Financial Protection Bureau (CFPB) but offer no alternative approach to protecting everyday consumers. And perhaps most notably, Republicans vehemently opposed Obamacare--the name may have had something to do with it. But the Republicans vehemently opposed the Affordable Care Act, but could provide no alternative, even when in a position to repeal and replace it. Today's hearing is straight out of the Republican fictitious repeal and replace, ``the sky is falling,'' playbook. Friends, the sky is not falling, and there is no need to repeal and replace. I yield back the balance of my time. Chairman Huizenga. The gentleman yields back. With that, the handshake agreement that Mr. Green was referencing was how we were going to be handling our questioning, and I had decided that I will actually be deferring my 5-minute question period as well to the very end, so he will be going second to last, and I will be the last questioner. Now, I want to introduce our panel. Today, we welcome the testimony of Mr. Charles Crain, the vice president of domestic policy at the National Association of Manufacturers; Mr. Lawrence Cunningham, a special counsel at Mayer Brown; Mr. Bill Schultz, my constituent from the Fourth District in Michigan, and the vice president of Schultz Fruitridge Farms Incorporated--and on a personal note, I will tell you, makes one heck of a hard cider, especially the black currant flavor, and Ranking Member Green, I am going to work on getting us some samples; that might help the operations of the committee. We will see. And finally, Mr. George Georgiev, a professor of law at Emory University. We thank you all for your time, and, as I said earlier, your efforts in getting here with the weather and all of those things. You will each be recognized for 5 minutes for an oral presentation of your testimony, and without objection, your written statements will be made a part of our permanent record. Mr. Crain, you are now recognized for 5 minutes for your oral remarks. STATEMENT OF CHARLES CRAIN, VICE PRESIDENT, DOMESTIC POLICY, NATIONAL ASSOCIATION OF MANUFACTURERS (NAM) Mr. Crain. Thank you, Mr. Chairman. Good morning to you and the ranking member and the members of the subcommittee. My name is Charles Crain, and I am the vice president of domestic policy at the National Association of Manufacturers (NAM). I appreciate the opportunity to testify today on behalf of the NAM's members and the 13 million people who make things in America. Manufacturing supports local communities and creates well- paying jobs. Manufacturing pioneers groundbreaking technologies, including the innovations necessary to combat climate change, and manufacturing powers economic growth here at home and supports American competitiveness on the world stage. But today, manufacturers are facing a regulatory onslaught. The total cost of Federal regulations across the economy exceeds $3 trillion every year. Zeroing in on manufacturing, our industry faces $350 billion each year in regulatory costs. That is a nearly 30-percent increase from just a decade ago. And the average individual manufacturer pays more than $29,000 per employee, per year, to comply with Federal regulations and that figure rises to more than $50,000 for small manufacturers--$50,000 per employee, every year. For a small company with just 20 employees, that is a million dollars that is diverted every year from job creation or from R&D. The SEC's climate rule is at the center of this regulatory onslaught. The rule would impose tremendous costs on manufacturers of all sizes, while overwhelming investors with immaterial information, and the SEC hasn't done the work to show that the rule's benefits outweigh its costs or that it is even within the SEC's legal authority. The rule's Scope 3 mandate exemplifies these flaws. Requiring larger companies to report their supply chain emissions is a significant burden and will fall directly on their small and privately-held suppliers because it is their emissions that the SEC wants to know about. These small businesses will face an untenable choice between building brand-new systems, buying expensive equipment, or potentially losing valuable customers. For the larger companies that are subject to the Scope 3 requirement, the SEC has admitted that it cannot fully and accurately quantify the cost of Scope 3 reporting. That is already a red flag for such a substantial requirement. For the small businesses that are swept into these large companies' Scope 3 efforts, the SEC hasn't even tried. The SEC's proposal does not include any discussion of the Scope 3 cost that will fall on small and privately-held businesses. The SEC has taken a similar approach to the climate rule's accounting requirements. The rule requires companies to conduct a convoluted tagging exercise to identify individual expenses that might be climate-related. Disclosure of those impacts would then live in the company's financial statements. Along with Scope 3, this is one of the most consequential and difficult portions of the rule. Yet, the SEC has offered no tailoring, no delay, and no flexibility at all for small businesses. Because these disclosures will be part of companies' financial statements, they will be subject to external audit. But when the SEC set out to estimate the cost of that audit, it came up with an estimate of just $15,000--$15,000--to audit a brand new procedure that stretches down into individual invoices, that requires complicated judgment calls, and that might require a whole separate set of books for some companies. This is the type of flawed cost analysis that is underpinning the entire climate rule and these flaws call into question the legality of the rule itself. Under the Administrative Procedure Act (APA), rules can't just ignore a major aspect of a rulemaking problem, like the impact of Scope 3 on small businesses. They can't be based on faulty cost-benefit analysis, and perhaps most importantly, they can't exceed an agency's statutory authority. The SEC has only been authorized by Congress to require material disclosures to help investors make informed decisions, not to set climate policy. But the climate rule far exceeds what any reasonable investor would need to know about a company's climate-related risks. So, we are left with a rule that delves into policy issues that are well outside the SEC's expertise or authority. Overall, the SEC says that the climate rule will cost more than $400,000 every year for small public companies. That is a huge resource diversion, before even taking into account all of the flaws in the SEC's cost analysis. Many small manufacturers will be forced to hire new staff or even expensive environmental, social, and governance (ESG) consultants to keep up with this burden, all at the expense of manufacturing investment here in the United States. If the climate rule is finalized, small manufacturers and their workers will be the hardest hit. Manufacturers, therefore, greatly appreciate this subcommittee's efforts to rein in the SEC's regulatory overreach. Thank you for the opportunity to testify today, and I look forward to answering any questions.  Chairman Huizenga. Thank you, Mr. Crain. Mr. Cunningham, you are now recognized for 5 minutes. STATEMENT OF LAWRENCE A. CUNNINGHAM, SPECIAL COUNSEL, MAYER BROWN LLP Mr. Cunningham. Chairman Huizenga, Ranking Member Green, and members of the subcommittee, thank you for inviting me to testify. I am Lawrence Cunningham, a lawyer and scholar with 35 years of experience in corporate law, securities regulation, and investing. I am special counsel at Mayer Brown, and professor emeritus at George Washington University, although the points I make today are my own. I will explain why the SEC's proposal is outside of its power and is harmful to investors. Congress authorized the EPA to protect the climate. It authorized the SEC to protect investors from fraud and deception in the securities markets. Your oversight is needed because the SEC proposal does not address ordinary American individual investors who need the SEC's protection to save for buying homes, for their kids' education, and for retirement. The proposal disregards evidence that individual investors mostly invest to save, not to influence climate policy. It disregards conflicts of interest between the large institutional asset managers and their beneficiaries, ordinary Americans whose preferences and goals differ. The proposal is unnecessary and harmful because existing SEC guidance, proven effective and flexible for more than a decade, already requires companies to disclose all climate risks that are material to their businesses, and yet, the proposal would require irrelevant and burdensome disclosure outside the SEC's expertise and authority. The proposal would harm investors by forcing companies to disclose information about their suppliers, employees, and customers which is useless for investors--make companies disclose climate impact rather than climate risk, which investors do not need. It would impose millions of dollars of costs on companies, which will hurt investor value for no investor benefit and probably no climate benefit. It would compel the disclosure of information that is inherently speculative and uncertain, doing more to confuse than to inform. It would spur lawsuits over the adequacy of disclosure, which are costly even when baseless. All of this would discourage companies from being public, which reduces investment opportunities for ordinary American investors. It would usurp State corporate law and company business judgment, which undermines the interests and rights of investors. Your oversight is also needed because the proposal faces legal challenges under the major questions doctrine for a lack of explicit congressional authorization for its sweeping significant policy reach, under the First Amendment for compelling company speech on controversial matters, and under the Administrative Procedure Act as it solves no problem within the SEC's mandate and fails to include a proper cost-benefit analysis. In sum, the proposal exceeds the SEC's congressional grant of authority, is an undemocratic power grab, and would divert resources from the SEC's statutory mission of protecting investors. I commend your oversight and urge you to examine how the proposal would hurt millions of individual American investors that Congress created the SEC to protect. I welcome your questions.  Chairman Huizenga. Thank you, Professor Cunningham. I appreciate that. Mr. Schultz, you are now recognized for 5 minutes. STATEMENT OF WILLIAM SCHULTZ, VICE PRESIDENT, SCHULTZ FRUITRIDGE FARMS INC. Mr. Schultz. Chairman Huizenga, Ranking Member Green, and members of the subcommittee, thank you for your invitation to speak today. My name is Bill Schultz, and it is my honor, as vice president of Schultz Fruitridge Farms Incorporated, to come before you today to speak about the SEC's Scope 3 emissions reporting requirements, which could negatively impact our multigenerational family business. I represent the third generation of my family to grow fruit in southwest Michigan. I farm in partnership with my parents and my three siblings. We produce a wide variety of crops including apples, peaches, grapes, and cherries. Growing fruits and vegetables on 300 acres for our customers and our community is a very fulfilling experience, and I would consider it a privilege. I have the opportunity to interact with roughly 10,000 consumers annually. I spend my Saturday mornings at our local farmers market engaging with our customers and educating them on the happenings out at the farm. We get involved with our local schools to get fresh apples into the lunch program. Further, every season we make an effort to donate some of our farm's bounty to local food pantries. Meeting so many families and sharing the story of agriculture as they visit our farm, our farm market, and our restaurant each season is priceless. We are our community's farm in so many ways, and I fear that the SEC's rule could put our industry at risk. This rule would require extensive reporting by public companies on their Scope 3 emissions, which are the result of activities not owned or controlled by the company but are in its supply chain, and I expect most family farms in America will be touched by this proposal because these farms' products end up in the value chains of public companies. Whether it is a grocery store, a fertilizer company, a packer, or any of the other public companies we do business with, the farms and their supply chains will be impacted by Scope 3. Our industry's focus is on growing the food, fuel, and fiber that this country needs, and being subjected to regulations intended for Wall Street does not advance that work. While large multinational companies have consultants or attorneys dedicated to handling SEC compliance, farms like ours do not. Complying with this rule would be significantly more difficult for our farm. The cost would be much higher. Our farm has no experience with the SEC and we have a hard enough time competing in this current environment. This rule pushes towards more consolidation and gives our competitors one more advantage over family farms like ours. Investing in environmental stewardship is important to us because we want to take care of the land that we live on and pass our family farm on to the next generation. We have adopted conservation practices that include planting cover crops that build soil fertility, we have installed trickle irrigation systems to minimize water use, and we have planted living row middles in our orchards to reduce the need to mow. I am passionate about planting and have personally set thousands of bushes, trees, and vines with my own two hands. We plan and we plant for the future. For over 70 years, my family has persevered through all types of adversity, from weather extremes to challenging markets, and from labor struggles to maintaining profitability. A life in agriculture is not for the faint of heart. Unfortunately, we now face adding a new and crushing regulation to this list of our challenges. On top of the resources needed to collect this information, growing an apple is not like making a widget. Farming presents variables that are rarely present in other businesses. An apple tree, for example, takes many years to start producing fruit that can be eaten. Weather events or plant pests and diseases create hurdles year to year that would deeply complicate the reporting process, and it is clear that the SEC did not account for these complexities and nuances of farms when writing this rule. In conclusion, consumers are already facing high costs at the grocery store and this rule will only worsen this problem. Small and medium-sized farms are the lifeblood of our industry and the pillars of our rural communities. Thank you for the opportunity to share my perspective today.  Chairman Huizenga. Thank you, Mr. Schultz. Professor Georgiev, you are now recognized for 5 minutes. STATEMENT OF GEORGE S. GEORGIEV, PROFESSOR OF LAW, EMORY UNIVERSITY SCHOOL OF LAW Mr. Georgiev. Chairman Huizenga, Ranking Member Green, and members of the subcommittee, thank you for inviting me today to testify at this important hearing. My name is George Georgiev, and I am a law professor at Emory University, where I teach and write about corporate governance and securities regulation. I have focused on the SEC's disclosure rulemaking for 15 years, first, as a practicing lawyer advising companies on securities law compliance, and subsequently, as a legal scholar. My remarks here today are solely in my capacity as a legal scholar and I am not testifying on behalf of any group or entity. I think this hearing is very important. I think the SEC's climate disclosure rulemaking efforts are much-needed, and I think because they are much-needed, because they have been visible, and because securities law is quite complex, there have been actually quite a few misunderstandings about what the SEC is trying to do, what is in the actual rule, and how the legal analysis should unfold. Let me spend a few minutes talking about some of those misunderstandings, and those are actually objective and factual. They are not for the most part matters of opinion or dispute. First, I want to emphasize that the SEC's climate-related disclosure proposal is about providing information to investors for purposes of market efficiency, capital formation, and investor protection. It is not about regulating climate change. It does not seek to effectuate substantive regulation of climate and, moreover, the SEC could not do that even if it wanted to. It is merely about information. Second, it is true that because of the importance of the subject, it has attracted attention from both core mainstream investor constituencies as well as noninvestor constituencies. But the mere fact that noninvestor constituencies are interested in the rule should not mean that the rule is suspect or that it should not be adopted. The SEC has focused on the informational needs of investors and this is what is driving the analysis, the content of the rule, and the SEC's efforts. Third, investor support for the SEC's rulemaking is near universal, close to 95 percent. Moreover, many U.S. companies, companies in different geographies of different sizes and different industries, have actually come out in support of the rule because they recognize that they need this information in order to manage their business, and they need regulatory guidance, which is very important. The current framework relies primarily on voluntary disclosures, and voluntary disclosures provide flexibility, that is true, but they also entail a high degree of legal risk and compliance risk, and they are also very time-consuming and costly. So, legal certainty is what companies want, and this is what the SEC has sought to provide. Let's talk a little bit about investor demand. Investor demand is real. It is important. But the SEC's proposal does not depend on an assessment of the intensity of investor demand or even on investors' fluctuating interest in sustainable funds. Even if sustainability-related funds were to be abolished somehow, today, there would still be a very strong case for the SEC to promulgate climate-related disclosure rules, because they go to the risks and opportunities of companies, how companies should be assessed by investors in their decision- making. The next point is about the difference between retail investors, real investors, individual investors, and large institutional investors, and I want to point out that climate- related disclosure helps with market efficiency just like all disclosure does, it helps with price accuracy, and it helps with price discovery, so it will help both retail investors and large investors. Even if retail investors don't care at all about climate, they care very much about the fact that they should be buying and selling securities at accurate prices, and if securities are mispriced, that is a very serious problem for the capital markets. Next, the proposed SEC requirement on greenhouse gas emissions--Scope 1, Scope 2, and Scope 3--is intended to give investors an understanding of the issuers' transmission risk, and this is a well-established and uncontested source of business risk that will remain present regardless of what the SEC does. These emissions disclosures do not and cannot be reflective of a double materiality approach. They do not seek disclosure of the firm's impact on the environment. Finally, the SEC has sought to design a workable rule by incorporating liability safe harbors, delaying the effectiveness of certain provisions, and endorsing the use of estimates, and by all accounts, the SEC is actively working on taking those considerations into account. Thank you for your time, and I look forward to your questions.  Chairman Huizenga. Thank you. I appreciate that. We will now turn to Member questions, and we are going to start with the gentleman from Texas, Mr. Sessions. You have 5 minutes for your questions. Mr. Sessions. Mr. Chairman, thank you very much. Mr. Georgiev, thank you for your feedback to us. Does the SEC ever use filings that people make to go back and fine them for things that they did not comply with in their filing? Mr. Georgiev. Yes, it does. Mr. Sessions. It does. So, it takes what you described as important data, information that we share for market accuracy, and then they do something with it. They come back if somebody got something wrong and they fine them. It is a weapon, sir, and this is why these darn Republicans today are saying there is so much that is unknown. There is so much that really can't be connected, and yet, you have to put it into a filing. Thank you very much. Mr. Schultz, I am a 28-year member of the Texas Farm Bureau. I recognize that your idea of agriculture and mine is to help the consumer and feed the world, and I want to congratulate you on your fine young Member of Congress that you have because he is doing a heck of a job up here. But I want to see if you could go through and give me some idea about having to comply with these regulations and, yet, look at the SEC, the things that you have to do across-the- board to get a good product out, and now your family-owned business is going to have to comply with this. Please go into a little bit more detail, because Texas has many people who are small business owners just like you. What would happen to you, and what might happen to them? Mr. Schultz. Thank you for the great question, Congressman Sessions. The SEC is an agency that we have not dealt with in the past. The SEC doesn't usually get involved with farm operations, if you will, and just the concept as a whole will send ripples across the industry. It adds a layer of management that will add costs to initiate, and doesn't necessarily add value to the product that we produce. As you know, farmers tend to be price takers; we take what we can get. We don't get to set our prices. And that is part of the reason that we are hearing today, what is the effect, and it is a broader program than I think a lot of people might actually realize. Mr. Sessions. So, you are a legal company, and the SEC is going to reach their hand down and apply this to you. They are going to apply their rules and regulations to you and you had never even come into contact with them, and now, they are going to reach in and grab you. Is that correct? Mr. Schultz. There is a potential that, for them to have the data that they believe to be accurate, that data could possibly be used against the company that they are monitoring, I would imagine. Mr. Sessions. And could your response or lack of response be because you may not have known you had to file? Mr. Schultz. Yes, it would be a very complicated thing to effectively manage. Every farm is unique. I say, it is like the color of the rainbow. All farmers are different shapes, colors, and sizes. They produce different crops and you can't throw them all into one bucket. There is a lot of variability. Things like production vary from year to year. Through no fault of our own, sometimes we can produce half as much. It costs almost as much from a capital side of things. We still have to spray and water our crops, but if the weather took half of our yield, we have to have the same inputs. And so, it would look bad on paper, through no fault of our own. Mr. Sessions. These things happen and I do recognize that there is climate change. I am a MAGA Republican and I recognize there is climate change. But in that process of the SEC coming down and putting rules and regulations, it is, in my opinion, also to punish people, and that is the threat. But the cost that was spoken about from the National Association of Manufacturers is staggering on companies to guess, in my opinion, of what their answer would be, and that is why we wrote a letter to Mr. Gensler from me and about 50 Members of Congress, that was dated September 26th, where we agree with you. And I just want you to know that as you provide feedback to us today, we have heard you and we appreciate what you are doing. Thank you very much, Mr. Chairman. I yield back. Chairman Huizenga. The gentleman yields back. And with that, the gentlewoman from Texas, Ms. Garcia, is recognized for 5 minutes. Ms. Garcia. Thank you, Mr. Chairman, and thank you to all of the witnesses for being here today, and I, too, thank you for braving the cold, and hopefully you will get out of town before the next one hits us tomorrow morning. It is no secret that the SEC is leading the way in climate- related disclosures. These disclosures not only promote better transparency to inform consumers and investors but also help the industry track their environmental, social, and corporate governance goals. Many U.S. investors are requesting companies to openly disclose their climate risks. Some companies are already including general disclosures but it is not nearly enough. These disclosures are typically very vague and don't provide investors with enough information to make a climate-conscious and informed decision as they construct their portfolio and analyze risk. Mr. Georgiev, could you discuss why so many investors are pushing for more accurate, reliable climate-related disclosures, and how a company's climate risk can lead to a financial risk for investors? Mr. Georgiev. Thank you for this question. I think the reason why investors are so interested and so adamant about having companies provide accurate, comparable, and decision-useful climate-related disclosure is because investment analysis is difficult, investment analysis is complex, and it is also, by its very nature, comparative. So, investors need to be able to compare different companies and unless they have comparable information, accurate information, they cannot do so, and this is, by the way, the entire reason why we have financial accounting, which took decades to develop, and now with this new source of risk and new source of impacts investors similarly are demanding comparability. Let me just add that having an adequate SEC disclosure regime, which is completely in line with what the SEC has been doing for 9 decades, actually helps investors save on their research costs because otherwise it is not like investors are not going to look to this information. Rather, they would rely on estimates, they would send company surveys, and it would be a much more burdensome and time-consuming process for all involved. So, this really is actually a cost-saving initiative in the aggregate, and I think it should be welcomed. Ms. Garcia. Right. I am completely baffled by this whole notion from some people who suggest that the SEC does not have sufficient legal authority to provide for this disclosure requirement. Just like you, I am a lawyer. In fact, I am also a former judge, and former city comptroller in Houston where I handled an investment portfolio for which we had to make disclosures in some of our bond offerings, and it just baffles me that some would suggest that the SEC wouldn't have authority because, quite frankly, they have lots of lawyers over there that even for the littlest thing they raise the red flag if there is no legal authority for them to do something. I know that you have done some research on this topic. I know that you authored a comment letter to the SEC on this topic. Do you think that there is sufficient legal authority or do you think there is any credence at all to this whole notion that there isn't? Mr. Georgiev. I absolutely believe that the SEC has sufficient authority and this is evident through multiple indicators. The actual plain text of the underlying statutes, which date back to the 1930s, the legislative history of the statutes, judicial analysis of the statutes, and then, SEC rulemaking practice, as well as the fact that Congress has had multiple opportunities to restrict the SEC from promulgating disclosure rules and it has not done so. If anything, Congress has only encouraged the SEC to continue with the disclosure regime, which is a hallmark of successful capital markets and one of the key features of why the U.S. capital markets are the best in the world. As early as the 1930s, Congress put in place the underlying statutes, and let me just quote former SEC Chairman Jay Clayton, who in 2018 said that, ``The SEC's disclosure regime is powerful, far-reaching, dynamic and ever-evolving and it is a key responsibility for the SEC to keep updating the disclosure regime to ensure that there is an adequate mix of information for investors to make investment decisions.'' And during that Republican-led Commission, the SEC adopted new disclosure rules on human capital management, for example. They were supported by the Republican-appointed Commissioners and this was based on extensive evidence that this is the type of information that investors would like to see, that the risks of the time are different, and those disclosures have been welcomed and they have not been challenged at all. Ms. Garcia. Thank you. And I see I only have 2 seconds left, so again, thank you all for being here today. Chairman Huizenga. The gentlelady's time has expired. The gentlewoman from Missouri, Mrs. Wagner, who is also the the Chair of our Capital Markets Subcommittee, is recognized for 5 minutes. Mrs. Wagner. Thank you, Mr. Chairman, and I will get right to it. Mr. Crain, in December, the Fifth Circuit vacated the SEC's share repurchase disclosure rule which would have created new disclosure requirements for companies engaging in stock buybacks. The court held that the SEC acted arbitrarily and capriciously--I love that word--and it ignored petitioners' comments and failed to conduct a proper cost-benefit analysis. I could have written it myself. Does the SEC's proposed rule on climate risk disclosures have the same deficiencies, sir, as the stock buyback rule? Mr. Crain. Thank you for that question, Congresswoman, and I think you are exactly right. There are some real parallels between what the SEC did with the buybacks rule and what the Fifth Circuit said in that case, and what we are seeing with the climate rule. As you indicated, a key failing that the Fifth Circuit identified was the SEC's lack of a robust cost-benefit analysis, and that is exactly what we are seeing with the climate rule, a failure to consider key aspects of the impact that it will have on businesses, especially small and private businesses which are going to get pulled into this Scope 3 mandate. Those costs are not estimated and not reflected in the rule at all. So, I think there are real failings in what the SEC has done. Mrs. Wagner. There are failures in all of them. There are some 50 to 60 rules that have nothing but, I call them, ``cut and paste cost-benefit analysis.'' They take them from one small paragraph, one rule, and cut and paste to the next, to the next, to the next. I am glad the Fifth Circuit did that. In November 2023, the court gave the SEC an opportunity to correct the buyback rule's defects. The court later found that the SEC received comments that would have allowed the agency to quantify the rule's economic effect prior to issuing the final rule, led them to try and fix their problems but the SEC failed to use those comments to conduct a cost-benefit analysis. Mr. Cunningham, does this indicate deeper problems in the SEC's rulemaking process? Mr. Cunningham. Thank you, Congresswoman. It may well--certainly, that case was not a shining moment for the agency. I would hope and assume that it is taking the lessons from that ruling. Mrs. Wagner. They keep losing in court, sir. Mr. Cunningham. And ideally, they would try to apply your question to this proposal and try to reevaluate it. Mrs. Wagner. Do you believe that the other 50-plus rules being proposed and finalized by Chair Gensler, Mr. Cunningham-- Chair Gensler's SEC will run into similar issues with the court, and if so, could you list a few for us, sir? Mr. Cunningham. I think the volume is very difficult for any agency to produce and to faithfully comply with the Administrative Procedure Act's (APA's) very specific requirements around cost-benefit analysis, rational basis, and so on. Mrs. Wagner. The APA is not being followed. Mr. Cunningham, in the stock buyback case, the court said the SEC not only failed to validate the rule's costs and benefits but failed to identify the problem they were trying to correct. Key here is, what duty does an agency have to substantiate the problem they are intending to address in a rule? Mr. Cunningham. A very specific duty; it has to generate a substantial basis for its rule and it has to explain in a rational way what it is trying to accomplish. It also has to solicit public comment and it needs to articulate some problem, some benefit, and the agency's own policies require it to do that as well. Mrs. Wagner. The court noted that the simple finding of a benefit--and I thought this was very, very informative--is not enough to substantiate the need for a new rule on its own. Mr. Cunningham. Right. Mrs. Wagner. Why does the court require agencies to substantiate the problem the rule is intended to fix? Mr. Cunningham. Without substantiation of the problem, you risk being accused, maybe rightly, of being arbitrary and capricious, the word you love so much. Mrs. Wagner. Just like the court said. Mr. Cunningham. Yes. That is what an agency is required to do, just articulate a rational basis that the public can participate in commenting on and that will entail identifying a problem and identifying benefits from the solution. Mrs. Wagner. Why should Congress and the American people be concerned if an agency like the SEC is allowed to propose a rule simply on the basis that it would provide a benefit to the public rather than working to fix an actual issue that is a current problem in the market? Mr. Cunningham. Look, Congress creates the agencies and endows them with some powers but it cannot delegate legislative powers to those agencies. So, the agencies need to be responsive to Congress and to the Judicial Branch as well, so there is a balance among the Executive, Legislative, and Judicial Branches, and without adhering to the APA, it upsets that balance. And the American people would be right to be concerned about upsetting the democratic process. Mrs. Wagner. My time has expired. I appreciate the Chair's understanding, and I yield back. Chairman Huizenga. We have been amazingly disciplined. That is the first time I have had to tap the gavel at all today, with both witnesses and Members yielding back extra time. With that, the ranking member of the full Financial Services Committee, Ms. Waters from California, is recognized for 5 minutes. Ms. Waters. Thank you very much. Mr. Georgiev, opponents of the climate proposal have long argued that the SEC lacks the legal means to require companies to disclose their emissions data and related risk. However, in a comment paper you submitted on the proposal, you go into great depth about the preexisting authority of the Commission. You said they have the authority to promulgate such disclosure requirements, particularly in the area of environmental-related matters. Could you briefly summarize how the SEC has the legal authority to require that public companies disclose their climate risk and emissions metrics? Mr. Georgiev. Yes. The SEC's legal authority stems back to the original statute in the 1930s and this is an authority that the SEC has exercised time and time again for 9 decades. So, it is not something that they just discovered today or yesterday and decided to regulate. They have actually been continually engaged in the iterative improvement of the disclosure framework. This is their mission and this is what they have been very good at doing. Importantly, they have both expanded the disclosure framework and they have also scaled it back as the needs of the time and as markets and technology require. So, it is not just an ongoing process of expansion. It is actually a process of calibration and tailoring, and the SEC has been very successful at doing that. Let me quote from the D.C. Circuit, which looked into this very question and found that rather than casting disclosure rules in stone, Congress opted to rely on the discretion and expertise of the SEC for determination of what types of disclosure would be desirable. The D.C. Circuit also said the Commission has been vested by Congress with broad discretionary powers to promulgate or not promulgate rules requiring disclosure of information beyond that specifically specified in the statute. The statute specifies about 32 categories of information and tells the SEC, look at that information and calibrate it on an ongoing basis, and the SEC has done just that. Ms. Waters. Would you conclude that perhaps there needs to be legislation to clear up the question so that the SEC feels more comfortable in its authority? Mr. Georgiev. Not really, because this is not a question that should be contested or is contested. The courts have spoken. The SEC has exercised this authority, and by not prohibiting the SEC from promulgating disclosure rules, Congress has acquiesced to the SEC's actions. So, additional legislation could always be helpful, but it is not necessary, and there are many other things that are before Congress that are much more contested and more important. Ms. Waters. Thank you. Mr. Cunningham, on your law firm, Mayer Brown's website, it states, ``Environmental, social, and governance--that is, ESG-- considerations are increasingly high priorities for global businesses.'' Mayer Brown has a strong track record in helping clients around the world address ESG issues. Recognizing the importance of ESG principles to its clients Mayer Brown also has a core commitment to engaging in responsible business practices in its day to day operations, including with respect to ESG. ESG policies and best practices are not only moral imperatives but also commercial necessities.'' It sounds like Mayer Brown and its clients think ESG considerations are material to investors. Do you disagree with your firm or is your firm engaged in greenwashing also? Mr. Cunningham. I am very proud of the policy that you articulated, although I have nothing to do with it. I am not a member of the firm. I am a special counsel of the firm, so I am an employee. But I think that is an impressive articulation of an important firm policy, and I practice in the area, so I am certainly very keenly aware of the space. And, again, companies take this seriously and they have been taking it seriously for a long time. The SEC's existing rules require exactly the disclosures that you were just talking about, and it has the authority to do that. This rule goes far beyond the sort of legitimate scope of ESG policy that you have articulated. Ms. Waters. Did you know this was on the website? Mr. Cunningham. Sorry? Ms. Waters. Did you know that this statement was on the website? Mr. Cunningham. I think I have seen it, yes. Ms. Waters. You have seen it before? Mr. Cunningham. I think so. Ms. Waters. Do you agree with it? Mr. Cunningham. Yes. I said that I am proud of it. But, again, I don't have anything to do with it because I am just an employee. Ms. Waters. You are proud but you have nothing to do with it? You are just their lawyer? Mr. Cunningham. Partners at the law firm would have a role in articulating the firm's philosophy, and I am not a partner. Chairman Huizenga. The gentlelady's time has expired. Ms. Waters. Okay. Sounds a little strange. I yield back the balance of my time. Chairman Huizenga. The gentlelady's time has expired. With that, the gentleman from Tennessee, Mr. Rose, who is also the Vice Chair of our Oversight and Investigations Subcommittee, is recognized for 5 minutes. Mr. Rose. Thank you, Chairman Huizenga, and thank you to our witnesses for taking the time to be with us today. This is an important hearing, I believe, and since the notice of proposed rulemaking in April of 2022, I have been extremely concerned by the implications of the SEC's proposed climate disclosure rule. Just this week, I received a letter from the American Securities Association highlighting the damaging impacts that the finalization of this rule would have on our economy. Mr. Chairman, I ask for unanimous consent to enter the following letter entitled, ``The consequences and negative impacts of the U.S. Securities and Exchange Commission's climate-related proposal from the American Securities Association,'' into the record. Chairman Huizenga. Without objection, it is so ordered. Mr. Rose. Thank you. As the owner of a family farm myself, I am most concerned about how this rule would impact the agricultural industry. In May of 2022, I led a bipartisan letter to Chairman Gensler that 117 of my colleagues signed, a bipartisan letter highlighting the impacts that this proposed rule would have on farmers and the agriculture industry, particularly the Scope 3 disclosures that are in the rule. The fact that Chairman Gensler and the SEC are still pursuing this rulemaking 20 months later only further indicates, in my view, the lack of understanding that unelected Washington bureaucrats have for the work that farmers do. Mr. Schultz, as a member of the Michigan Farm Bureau, and the owner and operator of your family farm, I am grateful that you are here today to represent the industry that is, in my view, the backbone of America. Can you give us an idea of how big your family farm is, beyond what you said in your opening remarks, and how many people work there? Mr. Schultz. Thank you for the question, Congressman. I can tell you that at this time of year, we have about 10 individuals working on our farm, half family and half regular staff, and then that might grow to approximately 30 during the harvest season. Our office staff consists of my mother, my sister, and myself when I can pitch in. So, we don't have a separate department for that. Mr. Rose. I understand, and that is, frankly, typical of American farms across the country. Mr. Schultz, how would a one-size-fits-all approach to disclosure requirements like the one proposed by the SEC impact family farms like yours and others in your community? Mr. Schultz. I understand that the backbone of this rule was written for investors on Wall Street, but we live on County Road 652, so that is a little bit different. Small businesses and small farms are the backbone of our community. So, I think that the potential for this to kind of get carried away from its initial intention exists. Mr. Rose. And if the Scope 3 requirements that are in the proposed rule, as we have seen so far, if they went into effect, and let us imagine that you had to hire somebody to work with you and your mom and your sister in that office who was an expert in these areas to help you comply, and let us say that cost $50,000, you would just increase the price of cherries to recoup that $50,000, right? That is how you would approach this. Mr. Schultz. Unfortunately, that is not how it works in agriculture. Besides what we sell direct to our customers at our market, we oftentimes have no idea what we are going to get paid for what we deliver. Our cherry crop last year was picked in July and processed. It is in a freezer plant somewhere and they will give us a final price in March and we will take what we can get. Mr. Rose. Right. You are price takers, not price setters. Mr. Schultz. That is correct. Mr. Rose. Another aspect of the proposed climate disclosure rule that worries me is the disregard for materiality. As an investor myself--and a lawyer as well--I know that materiality has been the bedrock standard of securities law in this country, to maintain fair and transparent markets. However, it also ensures that we are not being overly burdensome on companies and hurting market competitiveness. Mr. Crain, what would be the potential consequences if the SEC required the disclosure of nonmaterial climate information? Mr. Crain. Absolutely. Thank you, Congressman. As you just articulated, immaterial disclosures by definition are pure cost drivers, right, and material disclosure is something that a reasonable investor would need to know to understand a business. An immaterial disclosure means that investor doesn't need that information. So, the only thing that comes from that is the cost on the business, and we run a real risk that as the amount of immaterial disclosures increases, corresponding costs on businesses continue to increase without any real investor benefit. Mr. Rose. And to be absolutely clear, public companies are already required to report every piece of material information, correct? Mr. Crain. That is exactly correct. Mr. Rose. Thank you. I see my time has expired. I yield back. Chairman Huizenga. The gentleman yields back. The gentlewoman from Michigan, Ms. Tlaib, is recognized for 5 minutes. Ms. Tlaib. Thank you, Mr. Chairman. The Majority's memo for today's hearing mentioned concerns about the SEC's statutory authority. I know the SEC's disclosure regime can be traced back, I think roughly 90 years, to Schedule A of Section VII of the Securities Act of 1933. With Schedule A, Congress delegated to the SEC the power to mandate disclosures of 32 categories of information and, ``such other information as the Commission may by rules or regulations require as being necessary in the public interest or the protection of the investors.'' So, Mr. Georgiev, has Schedule A of the Securities Act of 1933 ever been amended or repealed by Congress? Mr. Georgiev. No, it has not. Ms. Tlaib. Now, the SEC has continuously revised and updated its disclosure requirements, as we all know. The Commission has established disclosure rules on everything from executive compensation, to asset-backed securities, to human capital management. The SEC has also required environmental disclosures going back to the Nixon Administration. Is that correct? Mr. Georgiev. That is correct. Ms. Tlaib. So, Mr. Georgiev, can you discuss the history and breadth of issues about which the SEC has required disclosures, including environmental disclosures? Mr. Georgiev. Yes, absolutely. The SEC's guiding philosophy is that it should provide an information-generating framework to ensure comparable decision- useful information for investors, so the SEC looks at markets, looks at economic developments, and calibrates the existing disclosure framework for the conditions of the time, and that is why even though Schedule A has not been repealed, the SEC has expanded and narrowed down certain disclosure requirements, basically engaging in ongoing tailoring, iterative modernization. You can call it different things. Ms. Tlaib. Professor, I think in 1979, the D.C. Circuit Court of Appeals stated that, ``The Commission has been vested by Congress with broad discretionary powers to promulgate or not to promulgate rules requiring disclosure of information beyond that specifically required by statute.'' Mr. Georgiev. That is absolutely correct, because Congress realized that it cannot monitor on a real and current basis what is going on in the markets. Financial markets are extremely important. Capital formation is extremely important. Investor protection is extremely important, and that is why we need an expert agency to do that. Ms. Tlaib. And, Professor, I just want my colleagues to understand, over the course of 9 decades of ongoing rulemaking, has any court invalidated an SEC rule for exceeding its disclosure authority? Mr. Georgiev. No. No court has invalidated an SEC rulemaking for exceeding the disclosure authority, and I don't think a court should do so with this rule either. Ms. Tlaib. Again, it is the process out there, and, again, we are talking about--the last time, I think,was in 1979. But I want to switch gears and touch on the benefits and costs of the rule. First of all, U.S. companies should not be allowed to obscure their exposure of the climate crisis risks threatening the investments of retirees. These are our residents, our constituents, our workers who need standardized and reliable information. But what about the compliance costs that everybody--I think both California and the European Union (EU) have adopted mandatory climate-related disclosure requirements which are likely to be more extensive than even the requirements of the SEC's final rule. So, Mr. Georgiev, since thousands of U.S. companies will have to comply with California and EU disclosure requirements anyway, what impact will this have on net compliance costs? Mr. Georgiev. Let me just step back and say that the SEC, by statute, is not required to compare costs and benefits and conclude that there is a net benefit. Congress has not determined that this is something that the SEC needs to do, because cost-benefit analysis of financial regulation is very difficult and courts even have said that an agency is not required to measure the immeasurable. It should not engage in speculation. I think it is very important to understand the proper role of cost-benefit analysis. Now, it is exactly the case that both California and the EU have adopted mandatory disclosure requirements very closely resembling those of the SEC, and actually, in the case of the EU, going much further--3,200 U.S. companies are expected to be captured by the EU's sustainability reporting requirements. That is a lot of companies that will need to comply with those disclosure requirements. So, the added cost--the marginal cost of SEC compliance is likely to be zero or very minimal and in fact standardization, harmonization, coordination can actually help. Ms. Tlaib. Yes. Just for my colleagues, let us not distract from legal authority or compliance costs. We are distracting the public. It is really important for us to protect our constituents and this is one way we can do that. Thank you. Chairman Huizenga. The gentlelady's time has expired. The gentleman from Oklahoma, Mr. Lucas, who is also the Chair of the House Science Committee, and the former Chair of the House Agriculture Committee, is recognized for 5 minutes. Mr. Lucas. Thank you, Mr. Chairman, and I am particularly pleased that you invited a real farmer to be with us today. That is always a bit of fresh relief in this place. Chairman Huizenga. I will note that we have a couple of real farmers on the committee as well, but it is always good to have someone else in the audience. Mr. Lucas. Absolutely. But we have a day job. His day job is on the farm every day. Mr. Schultz, turning to you for just a moment, you have discussed a number of issues that involve the impact of the SEC's proposed regulation on you. Once again, remind us--ultimately, I suspect that this will bring cost onto you and every other farmer and rancher in the United States. I am very concerned about how you deal with that. Tell us, in the nature of your family business, which is really kind of typical in many ways of small farms and ranches in the United States, when you are impacted by the additional cost, you will potentially have to have more staff when it comes time to fill out the forms that I suspect the people that you sell your product to, not just retail consumers but if you sell to an entity that then uses that in a fruit or a jam process or in some other prepared food process, they will turn back to you to fill out things in order for them to cover their backside. Reality, you just raise prices. Mr. Schultz. Yes. From a down-to-earth point of view, if you will, everything has a cost. There is a cause and effect, so there will be additional management, if you will, to this compliance. As an example, we are Welch growers. We raise Concord grapes for Welch's grape juice and we already participate. They have a sustainability survey where they make sure that their company and our company, because we are a grow-our-own co-op, score in a sustainable way, that we can keep on doing what we have been doing for decades and in a way that cares for our land. That being said, some of their bigger customers are publicly-traded companies; it might be a Wal-Mart or a Costco or a grocery store of some sort. They are going to pedal back and they are going to look at their suppliers and they are going to say, hey, what does that actually look like, and they are going to screw down onto that. So, we are doing a lot of these things naturally without additional---- Mr. Lucas. So if you can't move the cost downstream, then you have to absorb the cost within your organization, which limits your ability to expand or grow or to enhance the quality of life of your family and your employees. It is kind of a catch-22, is it not, from your perspective as a small business person? Mr. Schultz. Correct. Yes. We understand that it takes money to make money. But we are naturally progressing. We upgrade our equipment so that it is more efficient when we have a good year, when we have good margins. Mr. Lucas. Let me raise an additional point for the panel. In place of any cost-benefit analysis, the SEC instead relies on international standards developed outside the Commission, such as the Financial Stability Board's (FSB's) Task Force on Climate-Related Financial Disclosures (TCFD). The TCFD's report alleges there is currently a misallocation of capital towards carbon-intensive industries, and that these disclosures will help correct that. It appears that the SEC is pushing forward international standards with the self-described goal of redirecting the allocation of capital towards preferred activities. Mr. Cunningham, can you speak to how the SEC differs from international standard setters, and what is the risk of us using these as jurisdiction over the climate-related disclosure rule? Mr. Cunningham. Yes. Thank you, sir. There is no evidence that U.S. securities markets are mispricing stock that leads to capital misallocation. I can't speak about the markets in the rest of the world. They are probably not as efficient as ours and those international standard setters are focused not on U.S. markets but on global markets. So, it would concern me if the SEC decided to follow international standard setters rather than focus on our own markets, which might be quite different. Mr. Lucas. And for the record, it is worth noting that the Chair of the Financial Stability Board's Task Force is an individual who has spent hundreds of millions of dollars on campaigns to shut down American energy and chemical businesses through initiatives like Beyond Coal, Beyond Carbon, Beyond Petrochemicals. The report from the TCFD is given legitimacy when the SEC replicates it for its own climate rulemaking. However, an SEC rule is an entirely different burden than a voluntary disclosure network, even when written by activists. Mr. Crain, can you discuss the practical differences between these voluntary disclosure frameworks and the SEC's proposed rule? Mr. Crain. Absolutely, and I will be brief because I know your time is short. Many companies are participating in the TCFD framework in a way that makes sense for them in their business. The SEC would impose a compliance burden that is a government mandate. It is really an apples and oranges comparison. Mr. Lucas. Thank you, Mr. Chairman. I yield back Chairman Huizenga. The gentleman's time has expired. With that, the gentleman from California, Mr. Vargas, is recognized for 5 minutes. Mr. Vargas. Thank you very much, Mr. Chairman. I appreciate this hearing very much, and I thank the ranking member as well. You did say, however, Mr. Chairman, that this was an oversight hearing, and made a claim that the hard cider from Schultz Fruitridge Farms is very good, and I hope that we get a chance to do oversight on that personally. Chairman Huizenga. So moved.  Mr. Vargas. And it is an honor to have you here, sir. I agree with what the SEC is attempting to do here. I think that is no secret, I always have, and I think it is certainly within their jurisdiction. We have talked a lot about the courts today and it is very interesting. When you get old enough--and I guess I have been around long enough--you find out that sides change. My Republican colleagues used to look to the courts and say, they are a bunch of activist judges, and we need to change them. Then, they did change the judges. You have more conservatives, and now, they look to the courts and say, well, the court said this. And I guess I look at it--I remember my law school days, and one of my professors, Roberto Unger, said that the legal outcome in a dispute really depends on the particular legal notable, and the particular legal notable is potentially the judge, whether he or she is conservative or liberal, or a bad attorney or a good attorney. It depends on what you do. You get people who do the same thing certainly in criminal law, and then you get different outcomes. So, it depends on a particular legal notable. But I find it kind of interesting now that the Republicans point to the courts as some sort of objective standard when it changes. In fact, interestingly, we had some Supreme Court justices who said, oh, no, we would never change Roe v. Wade, that is precedent upon precedent. Then, of course, the first thing they did was change it. So, it is interesting how things have changed. But anyway, I will move on. I do want to ask this, because I always ask this: How many of you believe in climate change, that climate change is happening? You can raise your hand if you do.  Mr. Vargas. Yes. I thought so, and I appreciate that because I think that is the first time we have ever had that here. Last time, there was a guy who sat right where you do now, and he defended why he didn't believe in it, which is fine, which is good. I appreciate that. But I think we have come a long way. I think we have to recognize that. I would recognize that I do think that what is happening with climate change is material, and I think that investors want to know. However, I do have some concerns, and I am going to turn to you right now, Mr. Schultz, because I do have some concerns. When you said you have planted thousands of plants with your own hands, so have I; I worked in a nursery growing up. I lived on a chicken farm and worked on a nursery. We went from liners to one gallon, one gallon to five, five gallons to 15s, 15s to 24-inch boxes, and 30-inch boxes, then 36-inch boxes, and I did that for years and my parents certainly believed in child labor. I started working when I was about 10 and enjoyed it. But that is a different thing; I worked with my father. But how does this impact you? You have a very compelling story. You have a family farm. You seem like a very decent guy. How is this impacting you? Because it doesn't seem like the public is invested in your firm. You are already doing some of this disclosure because of Welch's, because of the jam. Even my kids want to know that it is a good product. We use it. But how is it affecting you? I didn't get that here. Mr. Schultz. Yes, and I think part of the reason for the hearing today is that there might need to be some clarity as to what that might look like on the Scope 3 component, because it is maybe not clear at this point in time. You can read it so that it would impact all the supply components in that chain, which looks like would be the American farmer in this situation as well. Mr. Vargas. I agree with that. I do think that there should be some clarity. I am sympathetic to that and I think that there should be. Professor, again, I am very much in favor of the rule, but I am sympathetic to that perspective. Could you comment on that? Mr. Georgiev. Yes. I think we should not prejudge the rule. The SEC has been very actively engaging with stakeholders and market participants and industry associations. Let me just quote a staggering statistic, which I was very surprised by when I looked it up earlier this month: ``The SEC has taken 372 meetings on the climate disclosure rule in the past 22 months. The Chair alone has taken 178 meetings. So, the SEC is very interested in hearing feedback about the rule, calibrating the rule, fine-tuning the rule, and I expect that they are very well aware of concerns by---- Mr. Vargas. I think that my time is almost up, so I just want to make one last comment. I do think that this is a very important rule because I believe in climate change. I thank God that all of you do, too. I think that things have changed. The world has changed and, again, I thank you. Mr. Chairman, I yield back, and I do have time. Chairman Huizenga. The gentleman's time has now expired. The gentleman from Ohio, Mr. Davidson, who is also the Chair of our Housing Subcommittee, is recognized for 5 minutes. Mr. Davidson. Thank you, Mr. Chairman. I appreciate the opportunity to waive on to this important hearing of our Oversight Subcommittee. When we look at what is going on here, this is one of the more-aggressive rulemakings in any of our agencies and, frankly, the Securities and Exchange Commission has been hyper-aggressive compared to most agencies. In fact, this has been the most-aggressive rulemaking since Dodd-Frank, and Dodd-Frank was a major piece of legislation passed by the House and the Senate and was signed into law, and of course, it prompted rulemakings to follow the law changes. Here, the only thing that happened is that Gary Gensler became the Chairman of the SEC. And as I have said, Gary Gensler highlights two problems: we have a Gary Gensler problem; and we have a structural problem with the SEC. I would love to restructure the SEC, which would effectively eliminate the chairmanship. We already have the world's best capital markets and that is shown by the amount of invested capital in them. They function pretty well. The only thing we could really do is mess them up, and Mr. Gensler has made a really serious effort at messing them up. This is an example of overreach that has been cited in West Virginia v. EPA. They don't have the legal authority. And so, Mr. Crain, I think when you talk about major questions, this would be a major question, would it not? Why would it be such a major question? Mr. Crain. I think that is exactly the right framing. The SEC has a very clear set of legal authorities to require, in this case, disclosure of material information for the protection of investors, efficient markets, and capital formation. This rule doesn't meet those goals. I think it is very clear, and that brings them instead into the major question which you alluded to, which is outside of their expertise or statutory authority and therefore calls into question the underlying legal authority to promulgate this rule. Mr. Davidson. Yes, thank you. And you think about the implications. We have talked about the cost. The cost to the economy is enormous. I talked with the owner of a small business in my district just outside of Cincinnati, Ohio, and he said that for one of his contracts, he has a little over a million dollars with a publicly-traded company, and if they had to comply with the Scope 3 cost, it would cost him about $37,000, so a 3.7-percent increase in the cost of the contract. And if you could perfectly pass that on, that is 3.7 percent inflation on whatever that is. But as our agriculture folks have said, not everyone is a price setter. Lots of small businesses, in particular, are price takers. So when you look at the pressure that a lot of small businesses are under, what you see is consolidation. The big businesses get bigger, and the small businesses go out of business or move offshore, and this is part of what has crippled our manufacturing economy. And thanks to NAM for highlighting some of those really important problems. But, Mr. Cunningham, can you please explain how Biden v. Nebraska could impact the SEC's argument in favor of the climate disclosure rule even if Scope 3 were stripped from the final rule? Mr. Cunningham. Thank you. Yes, I think West Virginia v. EPA and the Biden v. Nebraska cases, as well as a third case involving OSHA and vaccinations--all three of those opinions indicate the Supreme Court is going to be careful not to allow administrative agencies to exceed their grant of congressional authority. That is the major questions doctrine. And I think one additional point about this rulemaking, at least in those three areas, is the agency was acting in their lane, even though they exceeded their authority. Here, the SEC is moving into a different lane. So it is sort of, I don't know, major questions 3.0. Mr. Davidson. Right. Thank you for the clarification on that, and for these reasons, I think Gary Gensler is the wrong person to be leading the Securities and Exchange Commission. But I think we have the wrong structure. When you look at some of our agencies, you see this ping pong that goes on and it has a big impact down through our market, because one party gets their person in charge and they decide, yes, we are going to ram through this thing and it is done with power instead of persuasion. And I would like to see a three-three structure to the Commission, because then, the 80/20, 70/30 issues they are going to figure out, and the things that get political, because this is a topic that is going to get political when it comes to this body. There is a body in our country that is supposed to decide these 50/50 issues, and right now, it is about a 50/50 power- sharing arrangement here in this body. We are supposed to have those arguments, but we are supposed to have them here in Congress, not with unelected and very unaccountable bureaucrats, and Gary Gensler couldn't highlight that problem much more effectively. I hope we do something about it. I yield back. Chairman Huizenga. The gentleman's time has nearly expired. With that, the gentleman from Illinois, Mr. Casten, is recognized for 5 minutes. Mr. Casten. Thank you, Mr. Chairman. As is so often the case in this line of work, I find myself playing the role of having to remind everybody that we all over here have the ability to negotiate the laws of the United States. We do not have the ability to negotiate the laws of physics or the laws of economics. The Intergovernmental Panel on Climate Change (IPCC) has been telling us for a long time that we have to stand to 1\1/2\ degrees of warming. That is physics. Last year, we hit 1.48. We are going to overshoot. There is irreversible damage that is coming. According to the National Oceanic and Atmospheric Administration (NOAA), in the United States alone, climate- related weather disasters from 2018 to 2022 cost us over $617 billion, or a little over $120 billion a year. That number is both huge and increasing. Last year, U.S. climate-related weather disasters cost us $176 billion. And those are the insured losses. Actual losses are worse for those who aren't insured. The 2020 Commodity Futures Trading Commission (CFTC) report under the Trump Administration said, ``Climate change poses a major risk to the stability of the U.S. financial system, and regulators and financial institutions need reliable, consistent, and comparable data and projections for climate risks, exposure, sensitivity, vulnerability, adaptation, and resilience.'' In the last year, we have seen major insurers--State Farm, Allstate, and others--pull out of Florida, pull out of California, pull out of Louisiana. Those risks are not going away. They are simply being punted onto lenders and property owners, including, but not limited to farmers, I would add. Given all of this data, do any of the four of you disagree that climate change is creating significant financial risks to our economy and to the companies that participate in our economy? Do any of you disagree with that sentence?  Mr. Casten. Okay. The record will show that we are all in agreement. That is terrific. Mr. Crain, moving to you, when you invest as an individual, do you review the risks that a company has disclosed that they are exposed to before you make your investment decisions? Mr. Crain. I will confess I am more of a mutual fund investor myself so I am not looking at individual stocks all that often. Mr. Casten. No, no. You and me both. Would you advise someone to consider the risks before they make an investment? Mr. Crain. Certainly, an investor making these types of decisions would need to understand the material risks. Mr. Casten. And if you were considering an investment in a company and you said, well, I have identified a significant risk here, can you share it with me, and they said, no, that is not material, go pound sand, would you invest in that company? Mr. Crain. I would have to see the individual facts, but it probably wouldn't be the most productive interaction. Mr. Casten. I share that because when we have hundreds of billions of dollars a year of loss in the system, there are a lot of companies who are saying, I don't want to disclose these risks because I can't attract capital if you do, and my colleagues across the aisle are saying, that is not material, so go pound sand. Understand the motivations here. Mr. Georgiev, the Supreme Court, in Basic v. Levinson said that information is material, ``if there is a substantial likelihood that a reasonable shareholder would consider it important.'' Going back to my question with Mr. Crain, is there any debate that a reasonable investor would view these hundreds of millions of dollars of disruption a year as materially significant and important? Mr. Georgiev. If the investor is reasonable, then they should view these sums as materially important. Mr. Casten. Okay. Mr. Chairman, I would like unanimous consent to introduce into the record a 2022 survey by Environmental Resources Management. Chairman Huizenga. Without objection, is is so ordered. Mr. Casten. This survey found that institutional investors today are spending $1.4 million annually to collect, analyze, and report climate data to inform their investment decisions. It also found that the average corporation is spending about $500,000 a year, about a third as much money to voluntarily disclose that data. In other words--and Mr. Georgiev, I think you had mentioned this in your testimony--this is not a question about whether or not there are costs to disclose this. Of course, it takes time to go and get data. This is a question about who is responsible. So, Mr. Georgiev, is it the responsibility of companies to provide information to investors under our accounting rules or is it the obligation of investors to spend their money to go and discover what risks public companies are exposed to? Mr. Georgiev. Public companies have voluntarily opted into the public company disclosure regime. They derive a benefit-- access to highly-liquid large and efficient capital markets-- and in return for that, they have to provide information. That is the basic bargain that has been in place since the 1930s. And it is very much, if they want to derive the benefits, then companies have the obligation to provide that information. Mr. Casten. But are these voluntary climate disclosure regimes consistent? Do all companies provide the same data? Are they all obligated? Mr. Georgiev. No, they are not, and they are also much more difficult to enforce. Mr. Casten. Thank you. I am out of time. But this hearing is really about whether we are going to protect investors' rights to access information or protect companies' rights to withhold information from investors. Chairman Huizenga. The gentleman's time has expired. With that, the gentleman from Nevada, Mr. Horsford, is recognized for 5 minutes. Mr. Horsford. Thank you to the chairman and the ranking member for the hearing today. But, here we go again. Republicans are so focused on their outrageous culture wars that they are not going to spend our time today talking about the issues that are imperative to the financial sector. Instead, we have convened so that my colleagues can continue to bash what is really a customer-driven initiative. I think that amidst this renewed push, it is worth pointing out that the new products that my colleagues are so quick to deride only exist because there is a market for them, and I thought that the other side was for free markets. Why would we deny wide swaths of investors the information they care about when they are making investment decisions, especially when this information already exists, in many instances? I am really tired of spending our time obsessing over manufactured culture wars instead of doing the work that the American people sent us here to do. Our focus could be on access to capital for small businesses, for example, or bolstering financial literacy efforts to build a more-inclusive financial sector or, as I have suggested previously, addressing the ever-skyrocketing cost of housing. During our last spat of anti-ESG hearings, we learned just how detrimental it can be if we blind ourselves to the very real risks associated with a company's mismanagement of their local environment. So, I am baffled to have to say this, but I believe that our nation's investors and other financial services professionals know best how to manage their risk. They are in the business of managing risk in all of its forms and in any risk that these professionals deem to be material that should be included within the decision-making process of their purview. I am a firm believer that a better-informed investor is never a bad thing, and it is clear to me that the SEC has the authority to prescribe these highly-sought-after disclosures. Mr. Georgiev, as you may know, the majority of investors have made it clear that they want companies to disclose climate-related information. We have even seen companies begin to disclose this information voluntarily. So, could you describe why that may be the case and what benefits companies may receive by allowing investors to consider this information in their investment decisions? Mr. Georgiev. Voluntary disclosure serves an important role. It allows companies to distinguish themselves from their competitors because, as I said a while ago, investment decisions are, by their very nature, comparative, so companies are always looking for a way to stand out. The problem with voluntary disclosure, though, and why we need mandatory disclosure is that when there is negative information, when there are problematic facts, when there are risks, companies, because they are looking to attract capital, are reluctant to provide and disclose the negative information. So, they end up providing the positive information without providing the negative information. That is why we need mandatory disclosure, a baseline, a total mix of information that actually informs investor decision-making, and there is an advantage there both for companies, as you suggest, as well as for investors and for the economy. Mr. Horsford. Given all the attention given to the Scope 1, 2, and 3 emissions disclosures, I worry that my colleagues have lost sight of the variety of quantitative and qualitative information regarding climate risks to which investors would be given access. Under the SEC rule, these companies would need to not only provide descriptions of their climate-related risk, but critically, they would also need to outline relevant risk management processes. How a company manages their perceived risk is not only crucial for an investor's decision-making but it is simply good corporate governance to have these processes in place. Let us not forget that a key aspect of the SEC rule is the impact of climate-related events, which occurred at an alarming rate last year, and can range from hail storms to hurricanes. Finally, let me just close by stating that in Nevada, the very real threat of climate change is causing us to quickly confront the increase in these events, namely, for Nevada, a water crisis. We have endured over 2 decades of a drought in Las Vegas, and it would be difficult to believe that wouldn't be a significant material risk to a certain company's profitability. Mr. Georgiev, would you please speak to the importance for a company to be aware of its local water supply challenges and how this information may be helpful for investors when making decisions? Mr. Georgiev. Yes. Water is a crucial resource. It is a critical resource and it is a scarce resource, so it is very important for companies to be aware of supply chain challenges, and this is where water scarcity comes in. Mr. Horsford. Thank you very much. I yield back. Chairman Huizenga. The gentleman's time has expired. The ranking member of the subcommittee, Mr. Green from Texas, is recognized for 5 minutes. Mr. Green. Thank you again, Mr. Chairman. I greatly appreciate all that has been said today, and it appears, Mr. Chairman, that we have to identify our legitimate real farmers' bona fides. I am proud to tell you that I know what well water tastes like, I know what, ``gee'' and ``haw'' sound like, and I know what chitlins taste like. I also know what a smokehouse smells like, and I know what living on a farm where you have no running water as we know it today is like. I grew up on a farm in my early childhood, and I have a great appreciation for Mr. Schultz and what he is having to contend with. And to this end, I have a statement dated September 12, 2023, from Reuters, where Chair Gensler was appearing before Congress, and here is what he said, ``It is not the Commission's intent to have farmers or ranchers in Montana or any other State report on goods they sell to publicly-traded companies.'' This is what SEC Chair Gary Gensler said in response to questions from Democratic Senator Tester of Montana. So, I want you to know that this is still in its infancy. It is metamorphosing and it has not been finalized. There is still much to be said, much to be done, and you have quite a few advocates who would not want to see Wal-Mart pass on its costs to you. I think that this is something that you can be assured people are going to work hard to prevent. Moving on to my next topic rather quickly, but while I am doing that, Mr. Georgiev, would you comment on my comments, please? Mr. Georgiev. Yes. I think your comments are very apt. I think it is important to underscore the fact that what the SEC is doing here is making sure that companies provide investors with relevant information rather than seeking to regulate climate change. This benefits all sorts of investors, both investors who are agnostic about the effects of climate change, as well as investors who are very concerned about the effects of climate change, because if investors who are agnostic--if they are contrarian and want to invest only in companies that don't believe in climate change, they will get that information through the SEC disclosure rule. So, it helps all sorts of investors, regardless of their beliefs, and that is the beauty of this rule, and that is why the SEC is on solid footing in promulgating this rule. Mr. Green. Thank you very much. Moving on to industry experts giving some guidance, this is not novel. When the oil and gas disclosures were codified, industry experts were used. So, this is something that we have done before and there is no reason why we can't do it again. Again, Mr. Georgiev, would you comment on my comments? Mr. Georgiev. That is absolutely right. The SEC is a disclosure agency, and in all cases, it has relied on the expertise of technical bodies to come up with the right disclosure requirements. So, what it is doing here with the TCFD is not at all unprecedented. We had a similar process with the oil and gas disclosure rules first adopted in the 1970s, and revised in 2009, as you point out. We have had the same process in the context of executive compensation, very complex matters of asset-backed securities, and so on and so forth. So, the technical assistance that the SEC is getting from bodies which, by the way, include participation by U.S. Government officials and supervision by them, is not at all unprecedented. Mr. Green. Finally, it has been said that, on one hand, this should be left to the EPA. But then, on the other hand, the SEC already has the authority to do it. So why would we leave to the EPA what the SEC has the authority to do? Would you comment on my comments please, Mr. Georgiev? Mr. Georgiev. Yes, absolutely. Just because an issue involves climate change doesn't mean that only the EPA and NOAA can touch it. All agencies of the Federal Government have to make allowances for climate change. The Department of Defense, for example, is making allowances for climate change. So, it is not that the EPA has one particular remit. It is doing one sort of regulation. The SEC is doing information regulation for a very specific purpose, to benefit investors. Mr. Green. Thank you, sir. I close with, I also know what a henhouse egg tastes like. I yield back. Chairman Huizenga. The gentleman yields back. And I know that there is a number of folks who have grown up on a farm. I believe Ms. Garcia lives on a ranch, as do a number of our Members, so I am glad to hear that this is taking root. And you read a comment from Mr. Gensler. It may be the intent but I am afraid it may not be the application and that is part of the reason for this hearing today. Recognizing myself here--I wish Mr. Vargas was still here. He was talking about how Republicans have started looking at the courts favorably. One, appointments matter. Two, what those appointments do and how they do it matters. When we see an activist expansionist court versus a constructionalist court, that is very different, and we clearly are seeing that right now. He also asked Mr. Schultz, my constituent, how he is affected. I used to represent Fremont, Michigan, which is home to Gerber Baby Food, owned by an international publicly-traded company that directly contracts with family farms in and around the area, and these family farms are struggling to figure out how they can make sure that they can track their organic versus nonorganic, much less all of the inputs. So, Mr. Schultz might be dealing with a few more middlemen, a co-op, for example, in between, but we have examples of these growers going directly into a publicly-traded company who absolutely are going to get scooped up into this definition. Absolutely. There is no way of avoiding it at this point. Mr. Cunningham, I want to go to you. Professor Georgiev put forward two things in his written testimony. He said, one, the intensity of demand doesn't matter for those investors. Interestingly enough, and most recently it was Mr. Casten who noted this, investors are demanding this information. That was one point, because I am not sure that the investors are quite demanding it, but, two, we have dueling lawyer and professors here on this. Professor Georgiev's second point was nor does it matter if they are interested parties, if the interested parties are actually investors. I believe he notes them as noninvestor constituencies. How novel is this in legal theory? Has the SEC ever given weight to a noninvestor constituency before in its rulemaking? Mr. Cunningham. The congressional authority that the SEC exercises is investor protection. That is it, and everything it does has to connect back to that, and in this proposal they went to great lengths to talk about investor demand, which is a novel concept, as a way to support its invoking its authority under investor protection. But, yet, the investor demand that it attempted to measure was just one segment of the universe and it paid no attention to the 160 million individual investors who really need the SEC's protection. Chairman Huizenga. Its protection, yes. Okay. And very quickly, in your opinion, do you think these constructionalist courts are actually going to overturn this activism? Mr. Cunningham. We have identified several deficiencies in the proposal, and if it was released or finalized as proposed, I think it would be very seriously in jeopardy. Chairman Huizenga. I am going to turn to Mr. Schultz here to close. There was a U.S. court case, the American Farm Bureau Federation v. the EPA, which held that public disclosure of farmers' personal information is, ``substantial,'' and, ``a clearly unwarranted invasion of privacy'', and I think you touched on this. This isn't just where you work; it is where you raise your family. And I think it is widely acknowledged that there are privacy concerns with disclosing your operations and those details to the SEC if this climate rule were to be finalized as it is. Have you been told anything that would give you assurance that somehow that data is going to be protected? I might note that we just had a recent breach of the SEC's data. Mr. Schultz. I don't know if I can speak a lot on that subject, although I can tell you that if we start pitting data from smaller companies into the marketplace, you are going to drive consolidation down, and I don't think that is necessarily what the intent of this rule is, but it could definitely have that impact. Chairman Huizenga. Sadly, Mr. Schultz, I have been around here long enough as a staffer and as an elected Member to know that oftentimes, it is those unintended consequences that have the biggest bite and impact and are, frankly, the hardest to remove from that. I want to say thank you, to you, for that. You have noted how your family works towards conservation and stewardship and maybe we can end on that. Mr. Schultz. Thank you, Mr. Chairman. Chairman Huizenga. Without objection, I have an article that I would like to put into the record, a Wall Street Journal article entitled, ``The latest dirty word in corporate America, ESG.'' And I will say, again, thank you to our witnesses. I deeply appreciate your time and your effort in getting here. The Chair notes that some Members may have additional questions for this panel, which they may wish to submit in writing. Without objection, the hearing record will remain open for 5 legislative days for Members to submit written questions to these witnesses and to place their responses in the record. Also, without objection, Members will have 5 legislative days to submit extraneous materials to the Chair for inclusion in the record. The hearing is now adjourned. Thank you.  A P P E N D I X January 18, 2024 
+OVERSIGHT OF THE SEC'S PROPOSED
+CLIMATE DISCLOSURE RULE:
+A FUTURE OF LEGAL HURDLES
+----------
+Thursday, January 18, 2024
+U.S. House of Representatives,
+Subcommittee on Oversight
+and Investigations,
+Committee on Financial Services,
+Washington, D.C.
+The subcommittee met, pursuant to notice, at 10:08 a.m., in
+room 2128, Rayburn House Office Building, Hon. Bill Huizenga
+ presiding.
+Members present: Representatives Huizenga, Sessions,
+Wagner, Rose; Green, Horsford, Tlaib, Garcia, and Vargas.
+Ex officio present: Representative Waters.
+Also present: Representatives Lucas, Davidson, and Casten.
+Chairman Huizenga. The Subcommittee on Oversight and
+Investigations will come to order.
+Without objection, the Chair is authorized to declare a
+recess of the subcommittee at any time.
+Today's hearing is entitled, ``Oversight of the SEC's
+Proposed Climate Disclosure Rule: A Future of Legal Hurdles.''
+I now recognize myself for 5 minutes to give an opening
+statement.
+I want to thank the witnesses for appearing before the
+subcommittee this morning, especially with some of the weather
+challenges. But I especially want to welcome my constituent,
+Mr. Bill Schultz, who is in from Mattawan, Michigan. I am
+really glad that you were able to make it and to be a part of
+this.
+As I indicated last year at our first hearing, oversight is
+a vital check on any Administration's power and on those whom
+the President chooses to represent that Administration.
+Today's hearing should not be confused with a debate on
+climate change but rather whether the Securities and Exchange
+Commission has the legal authority to mandate climate
+disclosures from all companies and that, I believe, is going to
+be the effect.
+Nearly a century ago, Congress created the SEC to protect
+investors; maintain fair, orderly, and efficient markets; and
+to facilitate capital formation. These are timeless goals and
+objectives, not to be used to advance a particular agenda.
+As we approach the two-year anniversary of the proposal of
+the SEC's climate disclosure rule, and this subcommittee's
+year-long investigation into that rule, I think it is prudent
+to examine the facts.
+First, the SEC has wildly underestimated the costs the rule
+will impose on both public and private companies. Instead of
+conducting a thorough economic analysis, the already-
+overwhelmed Division of Economic and Risk Analysis at the SEC
+relied on left-leaning environmental activist groups to justify
+its rulemaking.
+While the SEC asserts that the rule would cost current
+reporting companies roughly $10 billion a year, a recent study
+puts that number at closer to $25 billion a year, with little
+analysis on how proposed Scope 2 and Scope 3 requirements will
+impact small businesses, which frankly can't afford a
+compliance department or a legal department.
+Furthermore, this past fall, the Fifth Circuit Federal
+Court of Appeals ruled against a separate SEC-finalized
+proposal relating to shareholder or share repurchase
+disclosures. In that opinion, the court rightfully held that,
+``The SEC acted arbitrarily and capriciously in violation of
+the Administrative Procedure Act when it failed to respond to
+petitioners' comments and failed to conduct a proper cost-
+benefit analysis.''
+Given the sheer volume, pace, and complexity of rules
+currently before the SEC, a 9.4-percent staff vacancy rate as
+of September 2023, and Inspector General reports citing
+recruitment and retention challenges, one has to wonder how
+many finalized rules will ultimately be vacated by the courts.
+Which leads us to this question: In light of the Supreme
+Court's ruling in West Virginia v. EPA, does the SEC have
+congressional authorization to implement rules related to
+environmental or climate issues? In its ruling, the Supreme
+Court held that the EPA exceeded its statutory authority,
+relying on ambiguity as constituting an implicit delegation
+from Congress.
+Let us be clear: Congress has not delegated the authority
+to the SEC to require climate disclosures. The court's decision
+signals that the SEC's authority to develop, finalize, and
+implement a climate disclosure rule is in jeopardy and now,
+frankly, we are waiting on the Supreme Court, which took oral
+hearings yesterday on the Chevron doctrine, and what are the
+boundaries. It was about 40 years ago that there was a court
+ruling establishing that, so we are seeing a court certainly
+re-examining that balance between an Administration and
+Congress.
+Lastly, I want to close where I began, with congressional
+oversight. I would be remiss if I didn't speak to the
+subcommittee's efforts to conduct oversight of the SEC's
+climate rule and get answers to many of the questions we hear
+about and we will be hearing about today in our testimony.
+Although the SEC has responded to the committee, one might be
+in awe of the imposing-sounding 69,000 pages of documents that
+they have sent over.
+But the devil is in the details. To date, the Commission
+has approved only 11,540 pages of responsive nonpublic
+documents to be produced to the committee, which is only 16
+percent of the total documents produced. The SEC has flooded
+our subcommittee with unresponsive documents, including a copy
+of the rule itself, a copy of Chair Gensler's public testimony
+before our committee;--which, I might add, I was sitting here
+for myself--press releases, and the entire public comment file
+which, of course, is public.
+So given the lack of cooperation, and the contents of the
+material turned over to the committee to date, I can only
+conclude that Chair Gensler is intentionally slow-walking our
+investigation.
+I will let those watching draw their own conclusions, but
+look at those details. Whether the final climate rule is
+finalized next week or next month, I think we can conclude that
+the SEC Chair has failed to convince not only his fellow
+Commissioners, but the American people, and as we will hear
+today, he will likely not convince the court.
+I look forward to hearing from each one of our witnesses.
+And I now yield to the ranking member of the subcommittee, the
+gentleman from Texas, Mr. Green, for 4 minutes.
+Mr. Green. Thank you, Mr. Chairman, and I would also like
+to thank you publicly for our gentleperson's agreement, a
+handshake agreement that we arrived at on the House Floor
+yesterday. Thank you, again.
+I also, Mr. Chairman, thank the witnesses, as you have, and
+I thank the staff for providing the intelligence that I will
+share today. Today's hearing is but another assault on helpful
+investor protection, climate change-related regulations.
+Friends, the science on climate change is clear,
+perspicuously so. It is not a question of whether it is going
+to happen, because it is already happening. For many public
+companies, extreme weather events or even slight changes in
+regional weather patterns can affect their operating
+performance.
+Recently, Coca-Cola was forced to close one of its bottling
+plants due to the overuse and extraction of groundwater. This
+shutdown resulted in an unexpected loss of profit, and delayed
+manufacturing timelines.
+Some companies already include general disclosures about
+climate risks. But those disclosures are typically very vague,
+lack standardization, and do not provide investors with a good
+sense of the scale of the risk the company faces from climate
+change.
+The Securities and Exchange Commission's (SEC's) recently-
+proposed rule on climate seeks to address this vagueness and
+lack of standardization as well as provide clear guidance for
+publicly-traded companies on climate-related disclosures.
+In a recent survey, more than 80 percent of U.S. investors
+indicated that companies need to more openly communicate the
+risks around climate-related factors, and 73 percent also said
+they are more likely to invest in a company that shares with
+investors its plans for effectively managing those factors.
+In response to increased investor demand for this type of
+information, in March of 2021 the SEC released a proposed rule
+to require public companies to make a variety of quantitative
+and qualitative disclosures regarding climate-related risks
+that are likely to have a material impact on their business.
+My colleagues across the aisle are finding fault with the
+SEC's proposed rule but offer no constructive solutions of
+their own. Those of you paying attention will very soon realize
+that this is a regular, recurrent, rhythmic part of the
+Republican playbook.
+Republicans opposed the Dodd-Frank financial crisis
+legislation but offered no serious alternative legislation
+after the last financial crisis. Republicans continue to oppose
+the Consumer Financial Protection Bureau (CFPB) but offer no
+alternative approach to protecting everyday consumers.
+And perhaps most notably, Republicans vehemently opposed
+Obamacare--the name may have had something to do with it. But
+the Republicans vehemently opposed the Affordable Care Act, but
+could provide no alternative, even when in a position to repeal
+and replace it.
+Today's hearing is straight out of the Republican
+fictitious repeal and replace, ``the sky is falling,''
+playbook. Friends, the sky is not falling, and there is no need
+to repeal and replace.
+I yield back the balance of my time.
+Chairman Huizenga. The gentleman yields back.
+With that, the handshake agreement that Mr. Green was
+referencing was how we were going to be handling our
+questioning, and I had decided that I will actually be
+deferring my 5-minute question period as well to the very end,
+so he will be going second to last, and I will be the last
+questioner.
+Now, I want to introduce our panel. Today, we welcome the
+testimony of Mr. Charles Crain, the vice president of domestic
+policy at the National Association of Manufacturers; Mr.
+Lawrence Cunningham, a special counsel at Mayer Brown; Mr. Bill
+Schultz, my constituent from the Fourth District in Michigan,
+and the vice president of Schultz Fruitridge Farms
+Incorporated--and on a personal note, I will tell you, makes
+one heck of a hard cider, especially the black currant flavor,
+and Ranking Member Green, I am going to work on getting us some
+samples; that might help the operations of the committee. We
+will see. And finally, Mr. George Georgiev, a professor of law
+at Emory University.
+We thank you all for your time, and, as I said earlier,
+your efforts in getting here with the weather and all of those
+things.
+You will each be recognized for 5 minutes for an oral
+presentation of your testimony, and without objection, your
+written statements will be made a part of our permanent record.
+Mr. Crain, you are now recognized for 5 minutes for your
+oral remarks.
+STATEMENT OF CHARLES CRAIN, VICE PRESIDENT, DOMESTIC POLICY,
+NATIONAL ASSOCIATION OF MANUFACTURERS (NAM)
+Mr. Crain. Thank you, Mr. Chairman. Good morning to you and
+the ranking member and the members of the subcommittee.
+My name is Charles Crain, and I am the vice president of
+domestic policy at the National Association of Manufacturers
+(NAM). I appreciate the opportunity to testify today on behalf
+of the NAM's members and the 13 million people who make things
+in America.
+Manufacturing supports local communities and creates well-
+paying jobs. Manufacturing pioneers groundbreaking
+technologies, including the innovations necessary to combat
+climate change, and manufacturing powers economic growth here
+at home and supports American competitiveness on the world
+stage.
+But today, manufacturers are facing a regulatory onslaught.
+The total cost of Federal regulations across the economy
+exceeds $3 trillion every year. Zeroing in on manufacturing,
+our industry faces $350 billion each year in regulatory costs.
+That is a nearly 30-percent increase from just a decade ago.
+And the average individual manufacturer pays more than
+$29,000 per employee, per year, to comply with Federal
+regulations and that figure rises to more than $50,000 for
+small manufacturers--$50,000 per employee, every year. For a
+small company with just 20 employees, that is a million dollars
+that is diverted every year from job creation or from R&D.
+The SEC's climate rule is at the center of this regulatory
+onslaught. The rule would impose tremendous costs on
+manufacturers of all sizes, while overwhelming investors with
+immaterial information, and the SEC hasn't done the work to
+show that the rule's benefits outweigh its costs or that it is
+even within the SEC's legal authority.
+The rule's Scope 3 mandate exemplifies these flaws.
+Requiring larger companies to report their supply chain
+emissions is a significant burden and will fall directly on
+their small and privately-held suppliers because it is their
+emissions that the SEC wants to know about. These small
+businesses will face an untenable choice between building
+brand-new systems, buying expensive equipment, or potentially
+losing valuable customers.
+For the larger companies that are subject to the Scope 3
+requirement, the SEC has admitted that it cannot fully and
+accurately quantify the cost of Scope 3 reporting. That is
+already a red flag for such a substantial requirement.
+For the small businesses that are swept into these large
+companies' Scope 3 efforts, the SEC hasn't even tried. The
+SEC's proposal does not include any discussion of the Scope 3
+cost that will fall on small and privately-held businesses.
+The SEC has taken a similar approach to the climate rule's
+accounting requirements. The rule requires companies to conduct
+a convoluted tagging exercise to identify individual expenses
+that might be climate-related.
+Disclosure of those impacts would then live in the
+company's financial statements. Along with Scope 3, this is one
+of the most consequential and difficult portions of the rule.
+Yet, the SEC has offered no tailoring, no delay, and no
+flexibility at all for small businesses.
+Because these disclosures will be part of companies'
+financial statements, they will be subject to external audit.
+But when the SEC set out to estimate the cost of that audit, it
+came up with an estimate of just $15,000--$15,000--to audit a
+brand new procedure that stretches down into individual
+invoices, that requires complicated judgment calls, and that
+might require a whole separate set of books for some companies.
+This is the type of flawed cost analysis that is
+underpinning the entire climate rule and these flaws call into
+question the legality of the rule itself.
+Under the Administrative Procedure Act (APA), rules can't
+just ignore a major aspect of a rulemaking problem, like the
+impact of Scope 3 on small businesses. They can't be based on
+faulty cost-benefit analysis, and perhaps most importantly,
+they can't exceed an agency's statutory authority.
+The SEC has only been authorized by Congress to require
+material disclosures to help investors make informed decisions,
+not to set climate policy.
+But the climate rule far exceeds what any reasonable
+investor would need to know about a company's climate-related
+risks. So, we are left with a rule that delves into policy
+issues that are well outside the SEC's expertise or authority.
+Overall, the SEC says that the climate rule will cost more
+than $400,000 every year for small public companies. That is a
+huge resource diversion, before even taking into account all of
+the flaws in the SEC's cost analysis.
+Many small manufacturers will be forced to hire new staff
+or even expensive environmental, social, and governance (ESG)
+consultants to keep up with this burden, all at the expense of
+manufacturing investment here in the United States.
+If the climate rule is finalized, small manufacturers and
+their workers will be the hardest hit. Manufacturers,
+therefore, greatly appreciate this subcommittee's efforts to
+rein in the SEC's regulatory overreach.
+Thank you for the opportunity to testify today, and I look
+forward to answering any questions.
+[The prepared statement of Mr. Crain can be found on page
+34 of the appendix.]
+Chairman Huizenga. Thank you, Mr. Crain.
+Mr. Cunningham, you are now recognized for 5 minutes.
+STATEMENT OF LAWRENCE A. CUNNINGHAM, SPECIAL COUNSEL, MAYER
+BROWN LLP
+Mr. Cunningham. Chairman Huizenga, Ranking Member Green,
+and members of the subcommittee, thank you for inviting me to
+testify.
+I am Lawrence Cunningham, a lawyer and scholar with 35
+years of experience in corporate law, securities regulation,
+and investing. I am special counsel at Mayer Brown, and
+professor emeritus at George Washington University, although
+the points I make today are my own.
+I will explain why the SEC's proposal is outside of its
+power and is harmful to investors. Congress authorized the EPA
+to protect the climate. It authorized the SEC to protect
+investors from fraud and deception in the securities markets.
+Your oversight is needed because the SEC proposal does not
+address ordinary American individual investors who need the
+SEC's protection to save for buying homes, for their kids'
+education, and for retirement.
+The proposal disregards evidence that individual investors
+mostly invest to save, not to influence climate policy. It
+disregards conflicts of interest between the large
+institutional asset managers and their beneficiaries, ordinary
+Americans whose preferences and goals differ.
+The proposal is unnecessary and harmful because existing
+SEC guidance, proven effective and flexible for more than a
+decade, already requires companies to disclose all climate
+risks that are material to their businesses, and yet, the
+proposal would require irrelevant and burdensome disclosure
+outside the SEC's expertise and authority.
+The proposal would harm investors by forcing companies to
+disclose information about their suppliers, employees, and
+customers which is useless for investors--make companies
+disclose climate impact rather than climate risk, which
+investors do not need.
+It would impose millions of dollars of costs on companies,
+which will hurt investor value for no investor benefit and
+probably no climate benefit. It would compel the disclosure of
+information that is inherently speculative and uncertain, doing
+more to confuse than to inform. It would spur lawsuits over the
+adequacy of disclosure, which are costly even when baseless.
+All of this would discourage companies from being public,
+which reduces investment opportunities for ordinary American
+investors. It would usurp State corporate law and company
+business judgment, which undermines the interests and rights of
+investors.
+Your oversight is also needed because the proposal faces
+legal challenges under the major questions doctrine for a lack
+of explicit congressional authorization for its sweeping
+significant policy reach, under the First Amendment for
+compelling company speech on controversial matters, and under
+the Administrative Procedure Act as it solves no problem within
+the SEC's mandate and fails to include a proper cost-benefit
+analysis.
+In sum, the proposal exceeds the SEC's congressional grant
+of authority, is an undemocratic power grab, and would divert
+resources from the SEC's statutory mission of protecting
+investors.
+I commend your oversight and urge you to examine how the
+proposal would hurt millions of individual American investors
+that Congress created the SEC to protect.
+I welcome your questions.
+[The prepared statement of Mr. Cunningham can be found on
+page 43 of the appendix.]
+Chairman Huizenga. Thank you, Professor Cunningham. I
+appreciate that.
+Mr. Schultz, you are now recognized for 5 minutes.
+STATEMENT OF WILLIAM SCHULTZ, VICE PRESIDENT, SCHULTZ
+FRUITRIDGE FARMS INC.
+Mr. Schultz. Chairman Huizenga, Ranking Member Green, and
+members of the subcommittee, thank you for your invitation to
+speak today.
+My name is Bill Schultz, and it is my honor, as vice
+president of Schultz Fruitridge Farms Incorporated, to come
+before you today to speak about the SEC's Scope 3 emissions
+reporting requirements, which could negatively impact our
+multigenerational family business.
+I represent the third generation of my family to grow fruit
+in southwest Michigan. I farm in partnership with my parents
+and my three siblings. We produce a wide variety of crops
+including apples, peaches, grapes, and cherries.
+Growing fruits and vegetables on 300 acres for our
+customers and our community is a very fulfilling experience,
+and I would consider it a privilege. I have the opportunity to
+interact with roughly 10,000 consumers annually.
+I spend my Saturday mornings at our local farmers market
+engaging with our customers and educating them on the
+happenings out at the farm. We get involved with our local
+schools to get fresh apples into the lunch program. Further,
+every season we make an effort to donate some of our farm's
+bounty to local food pantries.
+Meeting so many families and sharing the story of
+agriculture as they visit our farm, our farm market, and our
+restaurant each season is priceless. We are our community's
+farm in so many ways, and I fear that the SEC's rule could put
+our industry at risk.
+This rule would require extensive reporting by public
+companies on their Scope 3 emissions, which are the result of
+activities not owned or controlled by the company but are in
+its supply chain, and I expect most family farms in America
+will be touched by this proposal because these farms' products
+end up in the value chains of public companies.
+Whether it is a grocery store, a fertilizer company, a
+packer, or any of the other public companies we do business
+with, the farms and their supply chains will be impacted by
+Scope 3.
+Our industry's focus is on growing the food, fuel, and
+fiber that this country needs, and being subjected to
+regulations intended for Wall Street does not advance that
+work.
+While large multinational companies have consultants or
+attorneys dedicated to handling SEC compliance, farms like ours
+do not. Complying with this rule would be significantly more
+difficult for our farm. The cost would be much higher. Our farm
+has no experience with the SEC and we have a hard enough time
+competing in this current environment.
+This rule pushes towards more consolidation and gives our
+competitors one more advantage over family farms like ours.
+Investing in environmental stewardship is important to us
+because we want to take care of the land that we live on and
+pass our family farm on to the next generation.
+We have adopted conservation practices that include
+planting cover crops that build soil fertility, we have
+installed trickle irrigation systems to minimize water use, and
+we have planted living row middles in our orchards to reduce
+the need to mow.
+I am passionate about planting and have personally set
+thousands of bushes, trees, and vines with my own two hands. We
+plan and we plant for the future.
+For over 70 years, my family has persevered through all
+types of adversity, from weather extremes to challenging
+markets, and from labor struggles to maintaining profitability.
+A life in agriculture is not for the faint of heart.
+Unfortunately, we now face adding a new and crushing
+regulation to this list of our challenges. On top of the
+resources needed to collect this information, growing an apple
+is not like making a widget. Farming presents variables that
+are rarely present in other businesses. An apple tree, for
+example, takes many years to start producing fruit that can be
+eaten. Weather events or plant pests and diseases create
+hurdles year to year that would deeply complicate the reporting
+process, and it is clear that the SEC did not account for these
+complexities and nuances of farms when writing this rule.
+In conclusion, consumers are already facing high costs at
+the grocery store and this rule will only worsen this problem.
+Small and medium-sized farms are the lifeblood of our industry
+and the pillars of our rural communities.
+Thank you for the opportunity to share my perspective
+today.
+[The prepared statement of Mr. Schultz can be found on page
+78 of the appendix.]
+Chairman Huizenga. Thank you, Mr. Schultz.
+Professor Georgiev, you are now recognized for 5 minutes.
+STATEMENT OF GEORGE S. GEORGIEV, PROFESSOR OF LAW, EMORY
+UNIVERSITY SCHOOL OF LAW
+Mr. Georgiev. Chairman Huizenga, Ranking Member Green, and
+members of the subcommittee, thank you for inviting me today to
+testify at this important hearing.
+My name is George Georgiev, and I am a law professor at
+Emory University, where I teach and write about corporate
+governance and securities regulation.
+I have focused on the SEC's disclosure rulemaking for 15
+years, first, as a practicing lawyer advising companies on
+securities law compliance, and subsequently, as a legal
+scholar. My remarks here today are solely in my capacity as a
+legal scholar and I am not testifying on behalf of any group or
+entity.
+I think this hearing is very important. I think the SEC's
+climate disclosure rulemaking efforts are much-needed, and I
+think because they are much-needed, because they have been
+visible, and because securities law is quite complex, there
+have been actually quite a few misunderstandings about what the
+SEC is trying to do, what is in the actual rule, and how the
+legal analysis should unfold.
+Let me spend a few minutes talking about some of those
+misunderstandings, and those are actually objective and
+factual. They are not for the most part matters of opinion or
+dispute.
+First, I want to emphasize that the SEC's climate-related
+disclosure proposal is about providing information to investors
+for purposes of market efficiency, capital formation, and
+investor protection. It is not about regulating climate change.
+It does not seek to effectuate substantive regulation of
+climate and, moreover, the SEC could not do that even if it
+wanted to. It is merely about information.
+Second, it is true that because of the importance of the
+subject, it has attracted attention from both core mainstream
+investor constituencies as well as noninvestor constituencies.
+But the mere fact that noninvestor constituencies are
+interested in the rule should not mean that the rule is suspect
+or that it should not be adopted. The SEC has focused on the
+informational needs of investors and this is what is driving
+the analysis, the content of the rule, and the SEC's efforts.
+Third, investor support for the SEC's rulemaking is near
+universal, close to 95 percent. Moreover, many U.S. companies,
+companies in different geographies of different sizes and
+different industries, have actually come out in support of the
+rule because they recognize that they need this information in
+order to manage their business, and they need regulatory
+guidance, which is very important.
+The current framework relies primarily on voluntary
+disclosures, and voluntary disclosures provide flexibility,
+that is true, but they also entail a high degree of legal risk
+and compliance risk, and they are also very time-consuming and
+costly.
+So, legal certainty is what companies want, and this is
+what the SEC has sought to provide.
+Let's talk a little bit about investor demand. Investor
+demand is real. It is important. But the SEC's proposal does
+not depend on an assessment of the intensity of investor demand
+or even on investors' fluctuating interest in sustainable
+funds.
+Even if sustainability-related funds were to be abolished
+somehow, today, there would still be a very strong case for the
+SEC to promulgate climate-related disclosure rules, because
+they go to the risks and opportunities of companies, how
+companies should be assessed by investors in their decision-
+making.
+The next point is about the difference between retail
+investors, real investors, individual investors, and large
+institutional investors, and I want to point out that climate-
+related disclosure helps with market efficiency just like all
+disclosure does, it helps with price accuracy, and it helps
+with price discovery, so it will help both retail investors and
+large investors.
+Even if retail investors don't care at all about climate,
+they care very much about the fact that they should be buying
+and selling securities at accurate prices, and if securities
+are mispriced, that is a very serious problem for the capital
+markets.
+Next, the proposed SEC requirement on greenhouse gas
+emissions--Scope 1, Scope 2, and Scope 3--is intended to give
+investors an understanding of the issuers' transmission risk,
+and this is a well-established and uncontested source of
+business risk that will remain present regardless of what the
+SEC does. These emissions disclosures do not and cannot be
+reflective of a double materiality approach. They do not seek
+disclosure of the firm's impact on the environment.
+Finally, the SEC has sought to design a workable rule by
+incorporating liability safe harbors, delaying the
+effectiveness of certain provisions, and endorsing the use of
+estimates, and by all accounts, the SEC is actively working on
+taking those considerations into account.
+Thank you for your time, and I look forward to your
+questions.
+[The prepared statement of Mr. Georgiev can be found on
+page 62 of the appendix.]
+Chairman Huizenga. Thank you. I appreciate that. We will
+now turn to Member questions, and we are going to start with
+the gentleman from Texas, Mr. Sessions. You have 5 minutes for
+your questions.
+Mr. Sessions. Mr. Chairman, thank you very much.
+Mr. Georgiev, thank you for your feedback to us. Does the
+SEC ever use filings that people make to go back and fine them
+for things that they did not comply with in their filing?
+Mr. Georgiev. Yes, it does.
+Mr. Sessions. It does. So, it takes what you described as
+important data, information that we share for market accuracy,
+and then they do something with it. They come back if somebody
+got something wrong and they fine them.
+It is a weapon, sir, and this is why these darn Republicans
+today are saying there is so much that is unknown. There is so
+much that really can't be connected, and yet, you have to put
+it into a filing. Thank you very much.
+Mr. Schultz, I am a 28-year member of the Texas Farm
+Bureau. I recognize that your idea of agriculture and mine is
+to help the consumer and feed the world, and I want to
+congratulate you on your fine young Member of Congress that you
+have because he is doing a heck of a job up here.
+But I want to see if you could go through and give me some
+idea about having to comply with these regulations and, yet,
+look at the SEC, the things that you have to do across-the-
+board to get a good product out, and now your family-owned
+business is going to have to comply with this.
+Please go into a little bit more detail, because Texas has
+many people who are small business owners just like you. What
+would happen to you, and what might happen to them?
+Mr. Schultz. Thank you for the great question, Congressman
+Sessions. The SEC is an agency that we have not dealt with in
+the past. The SEC doesn't usually get involved with farm
+operations, if you will, and just the concept as a whole will
+send ripples across the industry. It adds a layer of management
+that will add costs to initiate, and doesn't necessarily add
+value to the product that we produce.
+As you know, farmers tend to be price takers; we take what
+we can get. We don't get to set our prices. And that is part of
+the reason that we are hearing today, what is the effect, and
+it is a broader program than I think a lot of people might
+actually realize.
+Mr. Sessions. So, you are a legal company, and the SEC is
+going to reach their hand down and apply this to you. They are
+going to apply their rules and regulations to you and you had
+never even come into contact with them, and now, they are going
+to reach in and grab you. Is that correct?
+Mr. Schultz. There is a potential that, for them to have
+the data that they believe to be accurate, that data could
+possibly be used against the company that they are monitoring,
+I would imagine.
+Mr. Sessions. And could your response or lack of response
+be because you may not have known you had to file?
+Mr. Schultz. Yes, it would be a very complicated thing to
+effectively manage. Every farm is unique. I say, it is like the
+color of the rainbow. All farmers are different shapes, colors,
+and sizes. They produce different crops and you can't throw
+them all into one bucket.
+There is a lot of variability. Things like production vary
+from year to year. Through no fault of our own, sometimes we
+can produce half as much. It costs almost as much from a
+capital side of things. We still have to spray and water our
+crops, but if the weather took half of our yield, we have to
+have the same inputs. And so, it would look bad on paper,
+through no fault of our own.
+Mr. Sessions. These things happen and I do recognize that
+there is climate change. I am a MAGA Republican and I recognize
+there is climate change. But in that process of the SEC coming
+down and putting rules and regulations, it is, in my opinion,
+also to punish people, and that is the threat.
+But the cost that was spoken about from the National
+Association of Manufacturers is staggering on companies to
+guess, in my opinion, of what their answer would be, and that
+is why we wrote a letter to Mr. Gensler from me and about 50
+Members of Congress, that was dated September 26th, where we
+agree with you.
+And I just want you to know that as you provide feedback to
+us today, we have heard you and we appreciate what you are
+doing.
+Thank you very much, Mr. Chairman. I yield back.
+Chairman Huizenga. The gentleman yields back.
+And with that, the gentlewoman from Texas, Ms. Garcia, is
+recognized for 5 minutes.
+Ms. Garcia. Thank you, Mr. Chairman, and thank you to all
+of the witnesses for being here today, and I, too, thank you
+for braving the cold, and hopefully you will get out of town
+before the next one hits us tomorrow morning.
+It is no secret that the SEC is leading the way in climate-
+related disclosures. These disclosures not only promote better
+transparency to inform consumers and investors but also help
+the industry track their environmental, social, and corporate
+governance goals.
+Many U.S. investors are requesting companies to openly
+disclose their climate risks. Some companies are already
+including general disclosures but it is not nearly enough.
+These disclosures are typically very vague and don't provide
+investors with enough information to make a climate-conscious
+and informed decision as they construct their portfolio and
+analyze risk.
+Mr. Georgiev, could you discuss why so many investors are
+pushing for more accurate, reliable climate-related
+disclosures, and how a company's climate risk can lead to a
+financial risk for investors?
+Mr. Georgiev. Thank you for this question.
+I think the reason why investors are so interested and so
+adamant about having companies provide accurate, comparable,
+and decision-useful climate-related disclosure is because
+investment analysis is difficult, investment analysis is
+complex, and it is also, by its very nature, comparative.
+So, investors need to be able to compare different
+companies and unless they have comparable information, accurate
+information, they cannot do so, and this is, by the way, the
+entire reason why we have financial accounting, which took
+decades to develop, and now with this new source of risk and
+new source of impacts investors similarly are demanding
+comparability.
+Let me just add that having an adequate SEC disclosure
+regime, which is completely in line with what the SEC has been
+doing for 9 decades, actually helps investors save on their
+research costs because otherwise it is not like investors are
+not going to look to this information. Rather, they would rely
+on estimates, they would send company surveys, and it would be
+a much more burdensome and time-consuming process for all
+involved.
+So, this really is actually a cost-saving initiative in the
+aggregate, and I think it should be welcomed.
+Ms. Garcia. Right. I am completely baffled by this whole
+notion from some people who suggest that the SEC does not have
+sufficient legal authority to provide for this disclosure
+requirement.
+Just like you, I am a lawyer. In fact, I am also a former
+judge, and former city comptroller in Houston where I handled
+an investment portfolio for which we had to make disclosures in
+some of our bond offerings, and it just baffles me that some
+would suggest that the SEC wouldn't have authority because,
+quite frankly, they have lots of lawyers over there that even
+for the littlest thing they raise the red flag if there is no
+legal authority for them to do something.
+I know that you have done some research on this topic. I
+know that you authored a comment letter to the SEC on this
+topic. Do you think that there is sufficient legal authority or
+do you think there is any credence at all to this whole notion
+that there isn't?
+Mr. Georgiev. I absolutely believe that the SEC has
+sufficient authority and this is evident through multiple
+indicators. The actual plain text of the underlying statutes,
+which date back to the 1930s, the legislative history of the
+statutes, judicial analysis of the statutes, and then, SEC
+rulemaking practice, as well as the fact that Congress has had
+multiple opportunities to restrict the SEC from promulgating
+disclosure rules and it has not done so.
+If anything, Congress has only encouraged the SEC to
+continue with the disclosure regime, which is a hallmark of
+successful capital markets and one of the key features of why
+the U.S. capital markets are the best in the world.
+As early as the 1930s, Congress put in place the underlying
+statutes, and let me just quote former SEC Chairman Jay
+Clayton, who in 2018 said that, ``The SEC's disclosure regime
+is powerful, far-reaching, dynamic and ever-evolving and it is
+a key responsibility for the SEC to keep updating the
+disclosure regime to ensure that there is an adequate mix of
+information for investors to make investment decisions.'' And
+during that Republican-led Commission, the SEC adopted new
+disclosure rules on human capital management, for example.
+They were supported by the Republican-appointed
+Commissioners and this was based on extensive evidence that
+this is the type of information that investors would like to
+see, that the risks of the time are different, and those
+disclosures have been welcomed and they have not been
+challenged at all.
+Ms. Garcia. Thank you. And I see I only have 2 seconds
+left, so again, thank you all for being here today.
+Chairman Huizenga. The gentlelady's time has expired.
+The gentlewoman from Missouri, Mrs. Wagner, who is also the
+the Chair of our Capital Markets Subcommittee, is recognized
+for 5 minutes.
+Mrs. Wagner. Thank you, Mr. Chairman, and I will get right
+to it.
+Mr. Crain, in December, the Fifth Circuit vacated the SEC's
+share repurchase disclosure rule which would have created new
+disclosure requirements for companies engaging in stock
+buybacks.
+The court held that the SEC acted arbitrarily and
+capriciously--I love that word--and it ignored petitioners'
+comments and failed to conduct a proper cost-benefit analysis.
+I could have written it myself.
+Does the SEC's proposed rule on climate risk disclosures
+have the same deficiencies, sir, as the stock buyback rule?
+Mr. Crain. Thank you for that question, Congresswoman, and
+I think you are exactly right. There are some real parallels
+between what the SEC did with the buybacks rule and what the
+Fifth Circuit said in that case, and what we are seeing with
+the climate rule.
+As you indicated, a key failing that the Fifth Circuit
+identified was the SEC's lack of a robust cost-benefit
+analysis, and that is exactly what we are seeing with the
+climate rule, a failure to consider key aspects of the impact
+that it will have on businesses, especially small and private
+businesses which are going to get pulled into this Scope 3
+mandate.
+Those costs are not estimated and not reflected in the rule
+at all. So, I think there are real failings in what the SEC has
+done.
+Mrs. Wagner. There are failures in all of them. There are
+some 50 to 60 rules that have nothing but, I call them, ``cut
+and paste cost-benefit analysis.'' They take them from one
+small paragraph, one rule, and cut and paste to the next, to
+the next, to the next. I am glad the Fifth Circuit did that.
+In November 2023, the court gave the SEC an opportunity to
+correct the buyback rule's defects. The court later found that
+the SEC received comments that would have allowed the agency to
+quantify the rule's economic effect prior to issuing the final
+rule, led them to try and fix their problems but the SEC failed
+to use those comments to conduct a cost-benefit analysis.
+Mr. Cunningham, does this indicate deeper problems in the
+SEC's rulemaking process?
+Mr. Cunningham. Thank you, Congresswoman.
+It may well--certainly, that case was not a shining moment
+for the agency. I would hope and assume that it is taking the
+lessons from that ruling.
+Mrs. Wagner. They keep losing in court, sir.
+Mr. Cunningham. And ideally, they would try to apply your
+question to this proposal and try to reevaluate it.
+Mrs. Wagner. Do you believe that the other 50-plus rules
+being proposed and finalized by Chair Gensler, Mr. Cunningham--
+Chair Gensler's SEC will run into similar issues with the
+court, and if so, could you list a few for us, sir?
+Mr. Cunningham. I think the volume is very difficult for
+any agency to produce and to faithfully comply with the
+Administrative Procedure Act's (APA's) very specific
+requirements around cost-benefit analysis, rational basis, and
+so on.
+Mrs. Wagner. The APA is not being followed.
+Mr. Cunningham, in the stock buyback case, the court said
+the SEC not only failed to validate the rule's costs and
+benefits but failed to identify the problem they were trying to
+correct. Key here is, what duty does an agency have to
+substantiate the problem they are intending to address in a
+rule?
+Mr. Cunningham. A very specific duty; it has to generate a
+substantial basis for its rule and it has to explain in a
+rational way what it is trying to accomplish. It also has to
+solicit public comment and it needs to articulate some problem,
+some benefit, and the agency's own policies require it to do
+that as well.
+Mrs. Wagner. The court noted that the simple finding of a
+benefit--and I thought this was very, very informative--is not
+enough to substantiate the need for a new rule on its own.
+Mr. Cunningham. Right.
+Mrs. Wagner. Why does the court require agencies to
+substantiate the problem the rule is intended to fix?
+Mr. Cunningham. Without substantiation of the problem, you
+risk being accused, maybe rightly, of being arbitrary and
+capricious, the word you love so much.
+Mrs. Wagner. Just like the court said.
+Mr. Cunningham. Yes. That is what an agency is required to
+do, just articulate a rational basis that the public can
+participate in commenting on and that will entail identifying a
+problem and identifying benefits from the solution.
+Mrs. Wagner. Why should Congress and the American people be
+concerned if an agency like the SEC is allowed to propose a
+rule simply on the basis that it would provide a benefit to the
+public rather than working to fix an actual issue that is a
+current problem in the market?
+Mr. Cunningham. Look, Congress creates the agencies and
+endows them with some powers but it cannot delegate legislative
+powers to those agencies. So, the agencies need to be
+responsive to Congress and to the Judicial Branch as well, so
+there is a balance among the Executive, Legislative, and
+Judicial Branches, and without adhering to the APA, it upsets
+that balance. And the American people would be right to be
+concerned about upsetting the democratic process.
+Mrs. Wagner. My time has expired. I appreciate the Chair's
+understanding, and I yield back.
+Chairman Huizenga. We have been amazingly disciplined. That
+is the first time I have had to tap the gavel at all today,
+with both witnesses and Members yielding back extra time.
+With that, the ranking member of the full Financial
+Services Committee, Ms. Waters from California, is recognized
+for 5 minutes.
+Ms. Waters. Thank you very much.
+Mr. Georgiev, opponents of the climate proposal have long
+argued that the SEC lacks the legal means to require companies
+to disclose their emissions data and related risk. However, in
+a comment paper you submitted on the proposal, you go into
+great depth about the preexisting authority of the Commission.
+You said they have the authority to promulgate such disclosure
+requirements, particularly in the area of environmental-related
+matters.
+Could you briefly summarize how the SEC has the legal
+authority to require that public companies disclose their
+climate risk and emissions metrics?
+Mr. Georgiev. Yes. The SEC's legal authority stems back to
+the original statute in the 1930s and this is an authority that
+the SEC has exercised time and time again for 9 decades. So, it
+is not something that they just discovered today or yesterday
+and decided to regulate. They have actually been continually
+engaged in the iterative improvement of the disclosure
+framework.
+This is their mission and this is what they have been very
+good at doing. Importantly, they have both expanded the
+disclosure framework and they have also scaled it back as the
+needs of the time and as markets and technology require.
+So, it is not just an ongoing process of expansion. It is
+actually a process of calibration and tailoring, and the SEC
+has been very successful at doing that.
+Let me quote from the D.C. Circuit, which looked into this
+very question and found that rather than casting disclosure
+rules in stone, Congress opted to rely on the discretion and
+expertise of the SEC for determination of what types of
+disclosure would be desirable.
+The D.C. Circuit also said the Commission has been vested
+by Congress with broad discretionary powers to promulgate or
+not promulgate rules requiring disclosure of information beyond
+that specifically specified in the statute. The statute
+specifies about 32 categories of information and tells the SEC,
+look at that information and calibrate it on an ongoing basis,
+and the SEC has done just that.
+Ms. Waters. Would you conclude that perhaps there needs to
+be legislation to clear up the question so that the SEC feels
+more comfortable in its authority?
+Mr. Georgiev. Not really, because this is not a question
+that should be contested or is contested. The courts have
+spoken. The SEC has exercised this authority, and by not
+prohibiting the SEC from promulgating disclosure rules,
+Congress has acquiesced to the SEC's actions.
+So, additional legislation could always be helpful, but it
+is not necessary, and there are many other things that are
+before Congress that are much more contested and more
+important.
+Ms. Waters. Thank you.
+Mr. Cunningham, on your law firm, Mayer Brown's website, it
+states, ``Environmental, social, and governance--that is, ESG--
+considerations are increasingly high priorities for global
+businesses.''
+Mayer Brown has a strong track record in helping clients
+around the world address ESG issues. Recognizing the importance
+of ESG principles to its clients Mayer Brown also has a core
+commitment to engaging in responsible business practices in its
+day to day operations, including with respect to ESG. ESG
+policies and best practices are not only moral imperatives but
+also commercial necessities.''
+It sounds like Mayer Brown and its clients think ESG
+considerations are material to investors. Do you disagree with
+your firm or is your firm engaged in greenwashing also?
+Mr. Cunningham. I am very proud of the policy that you
+articulated, although I have nothing to do with it. I am not a
+member of the firm. I am a special counsel of the firm, so I am
+an employee.
+But I think that is an impressive articulation of an
+important firm policy, and I practice in the area, so I am
+certainly very keenly aware of the space.
+And, again, companies take this seriously and they have
+been taking it seriously for a long time. The SEC's existing
+rules require exactly the disclosures that you were just
+talking about, and it has the authority to do that. This rule
+goes far beyond the sort of legitimate scope of ESG policy that
+you have articulated.
+Ms. Waters. Did you know this was on the website?
+Mr. Cunningham. Sorry?
+Ms. Waters. Did you know that this statement was on the
+website?
+Mr. Cunningham. I think I have seen it, yes.
+Ms. Waters. You have seen it before?
+Mr. Cunningham. I think so.
+Ms. Waters. Do you agree with it?
+Mr. Cunningham. Yes. I said that I am proud of it. But,
+again, I don't have anything to do with it because I am just an
+employee.
+Ms. Waters. You are proud but you have nothing to do with
+it? You are just their lawyer?
+Mr. Cunningham. Partners at the law firm would have a role
+in articulating the firm's philosophy, and I am not a partner.
+Chairman Huizenga. The gentlelady's time has expired.
+Ms. Waters. Okay. Sounds a little strange. I yield back the
+balance of my time.
+Chairman Huizenga. The gentlelady's time has expired.
+With that, the gentleman from Tennessee, Mr. Rose, who is
+also the Vice Chair of our Oversight and Investigations
+Subcommittee, is recognized for 5 minutes.
+Mr. Rose. Thank you, Chairman Huizenga, and thank you to
+our witnesses for taking the time to be with us today.
+This is an important hearing, I believe, and since the
+notice of proposed rulemaking in April of 2022, I have been
+extremely concerned by the implications of the SEC's proposed
+climate disclosure rule.
+Just this week, I received a letter from the American
+Securities Association highlighting the damaging impacts that
+the finalization of this rule would have on our economy.
+Mr. Chairman, I ask for unanimous consent to enter the
+following letter entitled, ``The consequences and negative
+impacts of the U.S. Securities and Exchange Commission's
+climate-related proposal from the American Securities
+Association,'' into the record.
+Chairman Huizenga. Without objection, it is so ordered.
+Mr. Rose. Thank you.
+As the owner of a family farm myself, I am most concerned
+about how this rule would impact the agricultural industry. In
+May of 2022, I led a bipartisan letter to Chairman Gensler that
+117 of my colleagues signed, a bipartisan letter highlighting
+the impacts that this proposed rule would have on farmers and
+the agriculture industry, particularly the Scope 3 disclosures
+that are in the rule.
+The fact that Chairman Gensler and the SEC are still
+pursuing this rulemaking 20 months later only further
+indicates, in my view, the lack of understanding that unelected
+Washington bureaucrats have for the work that farmers do.
+Mr. Schultz, as a member of the Michigan Farm Bureau, and
+the owner and operator of your family farm, I am grateful that
+you are here today to represent the industry that is, in my
+view, the backbone of America.
+Can you give us an idea of how big your family farm is,
+beyond what you said in your opening remarks, and how many
+people work there?
+Mr. Schultz. Thank you for the question, Congressman.
+I can tell you that at this time of year, we have about 10
+individuals working on our farm, half family and half regular
+staff, and then that might grow to approximately 30 during the
+harvest season.
+Our office staff consists of my mother, my sister, and
+myself when I can pitch in. So, we don't have a separate
+department for that.
+Mr. Rose. I understand, and that is, frankly, typical of
+American farms across the country.
+Mr. Schultz, how would a one-size-fits-all approach to
+disclosure requirements like the one proposed by the SEC impact
+family farms like yours and others in your community?
+Mr. Schultz. I understand that the backbone of this rule
+was written for investors on Wall Street, but we live on County
+Road 652, so that is a little bit different. Small businesses
+and small farms are the backbone of our community. So, I think
+that the potential for this to kind of get carried away from
+its initial intention exists.
+Mr. Rose. And if the Scope 3 requirements that are in the
+proposed rule, as we have seen so far, if they went into
+effect, and let us imagine that you had to hire somebody to
+work with you and your mom and your sister in that office who
+was an expert in these areas to help you comply, and let us say
+that cost $50,000, you would just increase the price of
+cherries to recoup that $50,000, right? That is how you would
+approach this.
+Mr. Schultz. Unfortunately, that is not how it works in
+agriculture. Besides what we sell direct to our customers at
+our market, we oftentimes have no idea what we are going to get
+paid for what we deliver. Our cherry crop last year was picked
+in July and processed. It is in a freezer plant somewhere and
+they will give us a final price in March and we will take what
+we can get.
+Mr. Rose. Right. You are price takers, not price setters.
+Mr. Schultz. That is correct.
+Mr. Rose. Another aspect of the proposed climate disclosure
+rule that worries me is the disregard for materiality.
+As an investor myself--and a lawyer as well--I know that
+materiality has been the bedrock standard of securities law in
+this country, to maintain fair and transparent markets.
+However, it also ensures that we are not being overly
+burdensome on companies and hurting market competitiveness.
+Mr. Crain, what would be the potential consequences if the
+SEC required the disclosure of nonmaterial climate information?
+Mr. Crain. Absolutely. Thank you, Congressman.
+As you just articulated, immaterial disclosures by
+definition are pure cost drivers, right, and material
+disclosure is something that a reasonable investor would need
+to know to understand a business.
+An immaterial disclosure means that investor doesn't need
+that information. So, the only thing that comes from that is
+the cost on the business, and we run a real risk that as the
+amount of immaterial disclosures increases, corresponding costs
+on businesses continue to increase without any real investor
+benefit.
+Mr. Rose. And to be absolutely clear, public companies are
+already required to report every piece of material information,
+correct?
+Mr. Crain. That is exactly correct.
+Mr. Rose. Thank you. I see my time has expired. I yield
+back.
+Chairman Huizenga. The gentleman yields back.
+The gentlewoman from Michigan, Ms. Tlaib, is recognized for
+5 minutes.
+Ms. Tlaib. Thank you, Mr. Chairman.
+The Majority's memo for today's hearing mentioned concerns
+about the SEC's statutory authority. I know the SEC's
+disclosure regime can be traced back, I think roughly 90 years,
+to Schedule A of Section VII of the Securities Act of 1933.
+With Schedule A, Congress delegated to the SEC the power to
+mandate disclosures of 32 categories of information and, ``such
+other information as the Commission may by rules or regulations
+require as being necessary in the public interest or the
+protection of the investors.''
+So, Mr. Georgiev, has Schedule A of the Securities Act of
+1933 ever been amended or repealed by Congress?
+Mr. Georgiev. No, it has not.
+Ms. Tlaib. Now, the SEC has continuously revised and
+updated its disclosure requirements, as we all know. The
+Commission has established disclosure rules on everything from
+executive compensation, to asset-backed securities, to human
+capital management.
+The SEC has also required environmental disclosures going
+back to the Nixon Administration. Is that correct?
+Mr. Georgiev. That is correct.
+Ms. Tlaib. So, Mr. Georgiev, can you discuss the history
+and breadth of issues about which the SEC has required
+disclosures, including environmental disclosures?
+Mr. Georgiev. Yes, absolutely.
+The SEC's guiding philosophy is that it should provide an
+information-generating framework to ensure comparable decision-
+useful information for investors, so the SEC looks at markets,
+looks at economic developments, and calibrates the existing
+disclosure framework for the conditions of the time, and that
+is why even though Schedule A has not been repealed, the SEC
+has expanded and narrowed down certain disclosure requirements,
+basically engaging in ongoing tailoring, iterative
+modernization. You can call it different things.
+Ms. Tlaib. Professor, I think in 1979, the D.C. Circuit
+Court of Appeals stated that, ``The Commission has been vested
+by Congress with broad discretionary powers to promulgate or
+not to promulgate rules requiring disclosure of information
+beyond that specifically required by statute.''
+Mr. Georgiev. That is absolutely correct, because Congress
+realized that it cannot monitor on a real and current basis
+what is going on in the markets. Financial markets are
+extremely important. Capital formation is extremely important.
+Investor protection is extremely important, and that is why we
+need an expert agency to do that.
+Ms. Tlaib. And, Professor, I just want my colleagues to
+understand, over the course of 9 decades of ongoing rulemaking,
+has any court invalidated an SEC rule for exceeding its
+disclosure authority?
+Mr. Georgiev. No. No court has invalidated an SEC
+rulemaking for exceeding the disclosure authority, and I don't
+think a court should do so with this rule either.
+Ms. Tlaib. Again, it is the process out there, and, again,
+we are talking about--the last time, I think,was in 1979. But I
+want to switch gears and touch on the benefits and costs of the
+rule.
+First of all, U.S. companies should not be allowed to
+obscure their exposure of the climate crisis risks threatening
+the investments of retirees. These are our residents, our
+constituents, our workers who need standardized and reliable
+information.
+But what about the compliance costs that everybody--I think
+both California and the European Union (EU) have adopted
+mandatory climate-related disclosure requirements which are
+likely to be more extensive than even the requirements of the
+SEC's final rule.
+So, Mr. Georgiev, since thousands of U.S. companies will
+have to comply with California and EU disclosure requirements
+anyway, what impact will this have on net compliance costs?
+Mr. Georgiev. Let me just step back and say that the SEC,
+by statute, is not required to compare costs and benefits and
+conclude that there is a net benefit. Congress has not
+determined that this is something that the SEC needs to do,
+because cost-benefit analysis of financial regulation is very
+difficult and courts even have said that an agency is not
+required to measure the immeasurable. It should not engage in
+speculation.
+I think it is very important to understand the proper role
+of cost-benefit analysis.
+Now, it is exactly the case that both California and the EU
+have adopted mandatory disclosure requirements very closely
+resembling those of the SEC, and actually, in the case of the
+EU, going much further--3,200 U.S. companies are expected to be
+captured by the EU's sustainability reporting requirements.
+That is a lot of companies that will need to comply with those
+disclosure requirements. So, the added cost--the marginal cost
+of SEC compliance is likely to be zero or very minimal and in
+fact standardization, harmonization, coordination can actually
+help.
+Ms. Tlaib. Yes. Just for my colleagues, let us not distract
+from legal authority or compliance costs. We are distracting
+the public. It is really important for us to protect our
+constituents and this is one way we can do that.
+Thank you.
+Chairman Huizenga. The gentlelady's time has expired.
+The gentleman from Oklahoma, Mr. Lucas, who is also the
+Chair of the House Science Committee, and the former Chair of
+the House Agriculture Committee, is recognized for 5 minutes.
+Mr. Lucas. Thank you, Mr. Chairman, and I am particularly
+pleased that you invited a real farmer to be with us today.
+That is always a bit of fresh relief in this place.
+Chairman Huizenga. I will note that we have a couple of
+real farmers on the committee as well, but it is always good to
+have someone else in the audience.
+Mr. Lucas. Absolutely. But we have a day job. His day job
+is on the farm every day.
+Mr. Schultz, turning to you for just a moment, you have
+discussed a number of issues that involve the impact of the
+SEC's proposed regulation on you.
+Once again, remind us--ultimately, I suspect that this will
+bring cost onto you and every other farmer and rancher in the
+United States. I am very concerned about how you deal with
+that.
+Tell us, in the nature of your family business, which is
+really kind of typical in many ways of small farms and ranches
+in the United States, when you are impacted by the additional
+cost, you will potentially have to have more staff when it
+comes time to fill out the forms that I suspect the people that
+you sell your product to, not just retail consumers but if you
+sell to an entity that then uses that in a fruit or a jam
+process or in some other prepared food process, they will turn
+back to you to fill out things in order for them to cover their
+backside.
+Reality, you just raise prices.
+Mr. Schultz. Yes. From a down-to-earth point of view, if
+you will, everything has a cost. There is a cause and effect,
+so there will be additional management, if you will, to this
+compliance.
+As an example, we are Welch growers. We raise Concord
+grapes for Welch's grape juice and we already participate. They
+have a sustainability survey where they make sure that their
+company and our company, because we are a grow-our-own co-op,
+score in a sustainable way, that we can keep on doing what we
+have been doing for decades and in a way that cares for our
+land.
+That being said, some of their bigger customers are
+publicly-traded companies; it might be a Wal-Mart or a Costco
+or a grocery store of some sort. They are going to pedal back
+and they are going to look at their suppliers and they are
+going to say, hey, what does that actually look like, and they
+are going to screw down onto that. So, we are doing a lot of
+these things naturally without additional----
+Mr. Lucas. So if you can't move the cost downstream, then
+you have to absorb the cost within your organization, which
+limits your ability to expand or grow or to enhance the quality
+of life of your family and your employees. It is kind of a
+catch-22, is it not, from your perspective as a small business
+person?
+Mr. Schultz. Correct. Yes. We understand that it takes
+money to make money. But we are naturally progressing. We
+upgrade our equipment so that it is more efficient when we have
+a good year, when we have good margins.
+Mr. Lucas. Let me raise an additional point for the panel.
+In place of any cost-benefit analysis, the SEC instead relies
+on international standards developed outside the Commission,
+such as the Financial Stability Board's (FSB's) Task Force on
+Climate-Related Financial Disclosures (TCFD).
+The TCFD's report alleges there is currently a
+misallocation of capital towards carbon-intensive industries,
+and that these disclosures will help correct that.
+It appears that the SEC is pushing forward international
+standards with the self-described goal of redirecting the
+allocation of capital towards preferred activities.
+Mr. Cunningham, can you speak to how the SEC differs from
+international standard setters, and what is the risk of us
+using these as jurisdiction over the climate-related disclosure
+rule?
+Mr. Cunningham. Yes. Thank you, sir.
+There is no evidence that U.S. securities markets are
+mispricing stock that leads to capital misallocation. I can't
+speak about the markets in the rest of the world. They are
+probably not as efficient as ours and those international
+standard setters are focused not on U.S. markets but on global
+markets. So, it would concern me if the SEC decided to follow
+international standard setters rather than focus on our own
+markets, which might be quite different.
+Mr. Lucas. And for the record, it is worth noting that the
+Chair of the Financial Stability Board's Task Force is an
+individual who has spent hundreds of millions of dollars on
+campaigns to shut down American energy and chemical businesses
+through initiatives like Beyond Coal, Beyond Carbon, Beyond
+Petrochemicals.
+The report from the TCFD is given legitimacy when the SEC
+replicates it for its own climate rulemaking. However, an SEC
+rule is an entirely different burden than a voluntary
+disclosure network, even when written by activists.
+Mr. Crain, can you discuss the practical differences
+between these voluntary disclosure frameworks and the SEC's
+proposed rule?
+Mr. Crain. Absolutely, and I will be brief because I know
+your time is short.
+Many companies are participating in the TCFD framework in a
+way that makes sense for them in their business. The SEC would
+impose a compliance burden that is a government mandate. It is
+really an apples and oranges comparison.
+Mr. Lucas. Thank you, Mr. Chairman. I yield back
+Chairman Huizenga. The gentleman's time has expired. With
+that, the gentleman from California, Mr. Vargas, is recognized
+for 5 minutes.
+Mr. Vargas. Thank you very much, Mr. Chairman. I appreciate
+this hearing very much, and I thank the ranking member as well.
+You did say, however, Mr. Chairman, that this was an
+oversight hearing, and made a claim that the hard cider from
+Schultz Fruitridge Farms is very good, and I hope that we get a
+chance to do oversight on that personally.
+Chairman Huizenga. So moved.
+
+Mr. Vargas. And it is an honor to have you here, sir.
+I agree with what the SEC is attempting to do here. I think
+that is no secret, I always have, and I think it is certainly
+within their jurisdiction. We have talked a lot about the
+courts today and it is very interesting.
+When you get old enough--and I guess I have been around
+long enough--you find out that sides change. My Republican
+colleagues used to look to the courts and say, they are a bunch
+of activist judges, and we need to change them. Then, they did
+change the judges. You have more conservatives, and now, they
+look to the courts and say, well, the court said this.
+And I guess I look at it--I remember my law school days,
+and one of my professors, Roberto Unger, said that the legal
+outcome in a dispute really depends on the particular legal
+notable, and the particular legal notable is potentially the
+judge, whether he or she is conservative or liberal, or a bad
+attorney or a good attorney.
+It depends on what you do. You get people who do the same
+thing certainly in criminal law, and then you get different
+outcomes. So, it depends on a particular legal notable.
+But I find it kind of interesting now that the Republicans
+point to the courts as some sort of objective standard when it
+changes.
+In fact, interestingly, we had some Supreme Court justices
+who said, oh, no, we would never change Roe v. Wade, that is
+precedent upon precedent. Then, of course, the first thing they
+did was change it. So, it is interesting how things have
+changed.
+But anyway, I will move on. I do want to ask this, because
+I always ask this: How many of you believe in climate change,
+that climate change is happening? You can raise your hand if
+you do.
+
+Mr. Vargas. Yes. I thought so, and I appreciate that
+because I think that is the first time we have ever had that
+here. Last time, there was a guy who sat right where you do
+now, and he defended why he didn't believe in it, which is
+fine, which is good. I appreciate that.
+But I think we have come a long way. I think we have to
+recognize that. I would recognize that I do think that what is
+happening with climate change is material, and I think that
+investors want to know.
+However, I do have some concerns, and I am going to turn to
+you right now, Mr. Schultz, because I do have some concerns.
+When you said you have planted thousands of plants with your
+own hands, so have I; I worked in a nursery growing up. I lived
+on a chicken farm and worked on a nursery.
+We went from liners to one gallon, one gallon to five, five
+gallons to 15s, 15s to 24-inch boxes, and 30-inch boxes, then
+36-inch boxes, and I did that for years and my parents
+certainly believed in child labor. I started working when I was
+about 10 and enjoyed it. But that is a different thing; I
+worked with my father.
+But how does this impact you? You have a very compelling
+story. You have a family farm. You seem like a very decent guy.
+How is this impacting you? Because it doesn't seem like the
+public is invested in your firm. You are already doing some of
+this disclosure because of Welch's, because of the jam. Even my
+kids want to know that it is a good product. We use it. But how
+is it affecting you? I didn't get that here.
+Mr. Schultz. Yes, and I think part of the reason for the
+hearing today is that there might need to be some clarity as to
+what that might look like on the Scope 3 component, because it
+is maybe not clear at this point in time. You can read it so
+that it would impact all the supply components in that chain,
+which looks like would be the American farmer in this situation
+as well.
+Mr. Vargas. I agree with that. I do think that there should
+be some clarity. I am sympathetic to that and I think that
+there should be.
+Professor, again, I am very much in favor of the rule, but
+I am sympathetic to that perspective. Could you comment on
+that?
+Mr. Georgiev. Yes. I think we should not prejudge the rule.
+The SEC has been very actively engaging with stakeholders and
+market participants and industry associations. Let me just
+quote a staggering statistic, which I was very surprised by
+when I looked it up earlier this month: ``The SEC has taken 372
+meetings on the climate disclosure rule in the past 22 months.
+The Chair alone has taken 178 meetings. So, the SEC is very
+interested in hearing feedback about the rule, calibrating the
+rule, fine-tuning the rule, and I expect that they are very
+well aware of concerns by----
+Mr. Vargas. I think that my time is almost up, so I just
+want to make one last comment. I do think that this is a very
+important rule because I believe in climate change. I thank God
+that all of you do, too. I think that things have changed. The
+world has changed and, again, I thank you.
+Mr. Chairman, I yield back, and I do have time.
+Chairman Huizenga. The gentleman's time has now expired.
+The gentleman from Ohio, Mr. Davidson, who is also the Chair of
+our Housing Subcommittee, is recognized for 5 minutes.
+Mr. Davidson. Thank you, Mr. Chairman. I appreciate the
+opportunity to waive on to this important hearing of our
+Oversight Subcommittee. When we look at what is going on here,
+this is one of the more-aggressive rulemakings in any of our
+agencies and, frankly, the Securities and Exchange Commission
+has been hyper-aggressive compared to most agencies.
+In fact, this has been the most-aggressive rulemaking since
+Dodd-Frank, and Dodd-Frank was a major piece of legislation
+passed by the House and the Senate and was signed into law, and
+of course, it prompted rulemakings to follow the law changes.
+Here, the only thing that happened is that Gary Gensler
+became the Chairman of the SEC. And as I have said, Gary
+Gensler highlights two problems: we have a Gary Gensler
+problem; and we have a structural problem with the SEC.
+I would love to restructure the SEC, which would
+effectively eliminate the chairmanship. We already have the
+world's best capital markets and that is shown by the amount of
+invested capital in them. They function pretty well.
+The only thing we could really do is mess them up, and Mr.
+Gensler has made a really serious effort at messing them up.
+This is an example of overreach that has been cited in West
+Virginia v. EPA. They don't have the legal authority.
+And so, Mr. Crain, I think when you talk about major
+questions, this would be a major question, would it not? Why
+would it be such a major question?
+Mr. Crain. I think that is exactly the right framing. The
+SEC has a very clear set of legal authorities to require, in
+this case, disclosure of material information for the
+protection of investors, efficient markets, and capital
+formation.
+This rule doesn't meet those goals. I think it is very
+clear, and that brings them instead into the major question
+which you alluded to, which is outside of their expertise or
+statutory authority and therefore calls into question the
+underlying legal authority to promulgate this rule.
+Mr. Davidson. Yes, thank you.
+And you think about the implications. We have talked about
+the cost. The cost to the economy is enormous. I talked with
+the owner of a small business in my district just outside of
+Cincinnati, Ohio, and he said that for one of his contracts, he
+has a little over a million dollars with a publicly-traded
+company, and if they had to comply with the Scope 3 cost, it
+would cost him about $37,000, so a 3.7-percent increase in the
+cost of the contract. And if you could perfectly pass that on,
+that is 3.7 percent inflation on whatever that is.
+But as our agriculture folks have said, not everyone is a
+price setter. Lots of small businesses, in particular, are
+price takers. So when you look at the pressure that a lot of
+small businesses are under, what you see is consolidation. The
+big businesses get bigger, and the small businesses go out of
+business or move offshore, and this is part of what has
+crippled our manufacturing economy.
+And thanks to NAM for highlighting some of those really
+important problems.
+But, Mr. Cunningham, can you please explain how Biden v.
+Nebraska could impact the SEC's argument in favor of the
+climate disclosure rule even if Scope 3 were stripped from the
+final rule?
+Mr. Cunningham. Thank you.
+Yes, I think West Virginia v. EPA and the Biden v. Nebraska
+cases, as well as a third case involving OSHA and
+vaccinations--all three of those opinions indicate the Supreme
+Court is going to be careful not to allow administrative
+agencies to exceed their grant of congressional authority. That
+is the major questions doctrine.
+And I think one additional point about this rulemaking, at
+least in those three areas, is the agency was acting in their
+lane, even though they exceeded their authority.
+Here, the SEC is moving into a different lane. So it is
+sort of, I don't know, major questions 3.0.
+Mr. Davidson. Right. Thank you for the clarification on
+that, and for these reasons, I think Gary Gensler is the wrong
+person to be leading the Securities and Exchange Commission.
+But I think we have the wrong structure. When you look at
+some of our agencies, you see this ping pong that goes on and
+it has a big impact down through our market, because one party
+gets their person in charge and they decide, yes, we are going
+to ram through this thing and it is done with power instead of
+persuasion.
+And I would like to see a three-three structure to the
+Commission, because then, the 80/20, 70/30 issues they are
+going to figure out, and the things that get political, because
+this is a topic that is going to get political when it comes to
+this body.
+There is a body in our country that is supposed to decide
+these 50/50 issues, and right now, it is about a 50/50 power-
+sharing arrangement here in this body.
+We are supposed to have those arguments, but we are
+supposed to have them here in Congress, not with unelected and
+very unaccountable bureaucrats, and Gary Gensler couldn't
+highlight that problem much more effectively.
+I hope we do something about it. I yield back.
+Chairman Huizenga. The gentleman's time has nearly expired.
+With that, the gentleman from Illinois, Mr. Casten, is
+recognized for 5 minutes.
+Mr. Casten. Thank you, Mr. Chairman.
+As is so often the case in this line of work, I find myself
+playing the role of having to remind everybody that we all over
+here have the ability to negotiate the laws of the United
+States. We do not have the ability to negotiate the laws of
+physics or the laws of economics.
+The Intergovernmental Panel on Climate Change (IPCC) has
+been telling us for a long time that we have to stand to 1\1/2\
+degrees of warming. That is physics. Last year, we hit 1.48. We
+are going to overshoot. There is irreversible damage that is
+coming.
+According to the National Oceanic and Atmospheric
+Administration (NOAA), in the United States alone, climate-
+related weather disasters from 2018 to 2022 cost us over $617
+billion, or a little over $120 billion a year. That number is
+both huge and increasing.
+Last year, U.S. climate-related weather disasters cost us
+$176 billion. And those are the insured losses. Actual losses
+are worse for those who aren't insured. The 2020 Commodity
+Futures Trading Commission (CFTC) report under the Trump
+Administration said, ``Climate change poses a major risk to the
+stability of the U.S. financial system, and regulators and
+financial institutions need reliable, consistent, and
+comparable data and projections for climate risks, exposure,
+sensitivity, vulnerability, adaptation, and resilience.''
+In the last year, we have seen major insurers--State Farm,
+Allstate, and others--pull out of Florida, pull out of
+California, pull out of Louisiana. Those risks are not going
+away. They are simply being punted onto lenders and property
+owners, including, but not limited to farmers, I would add.
+Given all of this data, do any of the four of you disagree
+that climate change is creating significant financial risks to
+our economy and to the companies that participate in our
+economy? Do any of you disagree with that sentence?
+
+Mr. Casten. Okay. The record will show that we are all in
+agreement. That is terrific.
+Mr. Crain, moving to you, when you invest as an individual,
+do you review the risks that a company has disclosed that they
+are exposed to before you make your investment decisions?
+Mr. Crain. I will confess I am more of a mutual fund
+investor myself so I am not looking at individual stocks all
+that often.
+Mr. Casten. No, no. You and me both. Would you advise
+someone to consider the risks before they make an investment?
+Mr. Crain. Certainly, an investor making these types of
+decisions would need to understand the material risks.
+Mr. Casten. And if you were considering an investment in a
+company and you said, well, I have identified a significant
+risk here, can you share it with me, and they said, no, that is
+not material, go pound sand, would you invest in that company?
+Mr. Crain. I would have to see the individual facts, but it
+probably wouldn't be the most productive interaction.
+Mr. Casten. I share that because when we have hundreds of
+billions of dollars a year of loss in the system, there are a
+lot of companies who are saying, I don't want to disclose these
+risks because I can't attract capital if you do, and my
+colleagues across the aisle are saying, that is not material,
+so go pound sand. Understand the motivations here.
+Mr. Georgiev, the Supreme Court, in Basic v. Levinson said
+that information is material, ``if there is a substantial
+likelihood that a reasonable shareholder would consider it
+important.''
+Going back to my question with Mr. Crain, is there any
+debate that a reasonable investor would view these hundreds of
+millions of dollars of disruption a year as materially
+significant and important?
+Mr. Georgiev. If the investor is reasonable, then they
+should view these sums as materially important.
+Mr. Casten. Okay. Mr. Chairman, I would like unanimous
+consent to introduce into the record a 2022 survey by
+Environmental Resources Management.
+Chairman Huizenga. Without objection, is is so ordered.
+Mr. Casten. This survey found that institutional investors
+today are spending $1.4 million annually to collect, analyze,
+and report climate data to inform their investment decisions.
+It also found that the average corporation is spending
+about $500,000 a year, about a third as much money to
+voluntarily disclose that data.
+In other words--and Mr. Georgiev, I think you had mentioned
+this in your testimony--this is not a question about whether or
+not there are costs to disclose this. Of course, it takes time
+to go and get data. This is a question about who is
+responsible.
+So, Mr. Georgiev, is it the responsibility of companies to
+provide information to investors under our accounting rules or
+is it the obligation of investors to spend their money to go
+and discover what risks public companies are exposed to?
+Mr. Georgiev. Public companies have voluntarily opted into
+the public company disclosure regime. They derive a benefit--
+access to highly-liquid large and efficient capital markets--
+and in return for that, they have to provide information. That
+is the basic bargain that has been in place since the 1930s.
+And it is very much, if they want to derive the benefits,
+then companies have the obligation to provide that information.
+Mr. Casten. But are these voluntary climate disclosure
+regimes consistent? Do all companies provide the same data? Are
+they all obligated?
+Mr. Georgiev. No, they are not, and they are also much more
+difficult to enforce.
+Mr. Casten. Thank you. I am out of time. But this hearing
+is really about whether we are going to protect investors'
+rights to access information or protect companies' rights to
+withhold information from investors.
+Chairman Huizenga. The gentleman's time has expired.
+With that, the gentleman from Nevada, Mr. Horsford, is
+recognized for 5 minutes.
+Mr. Horsford. Thank you to the chairman and the ranking
+member for the hearing today.
+But, here we go again. Republicans are so focused on their
+outrageous culture wars that they are not going to spend our
+time today talking about the issues that are imperative to the
+financial sector.
+Instead, we have convened so that my colleagues can
+continue to bash what is really a customer-driven initiative. I
+think that amidst this renewed push, it is worth pointing out
+that the new products that my colleagues are so quick to deride
+only exist because there is a market for them, and I thought
+that the other side was for free markets.
+Why would we deny wide swaths of investors the information
+they care about when they are making investment decisions,
+especially when this information already exists, in many
+instances?
+I am really tired of spending our time obsessing over
+manufactured culture wars instead of doing the work that the
+American people sent us here to do.
+Our focus could be on access to capital for small
+businesses, for example, or bolstering financial literacy
+efforts to build a more-inclusive financial sector or, as I
+have suggested previously, addressing the ever-skyrocketing
+cost of housing.
+During our last spat of anti-ESG hearings, we learned just
+how detrimental it can be if we blind ourselves to the very
+real risks associated with a company's mismanagement of their
+local environment.
+So, I am baffled to have to say this, but I believe that
+our nation's investors and other financial services
+professionals know best how to manage their risk. They are in
+the business of managing risk in all of its forms and in any
+risk that these professionals deem to be material that should
+be included within the decision-making process of their
+purview.
+I am a firm believer that a better-informed investor is
+never a bad thing, and it is clear to me that the SEC has the
+authority to prescribe these highly-sought-after disclosures.
+Mr. Georgiev, as you may know, the majority of investors
+have made it clear that they want companies to disclose
+climate-related information. We have even seen companies begin
+to disclose this information voluntarily.
+So, could you describe why that may be the case and what
+benefits companies may receive by allowing investors to
+consider this information in their investment decisions?
+Mr. Georgiev. Voluntary disclosure serves an important
+role. It allows companies to distinguish themselves from their
+competitors because, as I said a while ago, investment
+decisions are, by their very nature, comparative, so companies
+are always looking for a way to stand out.
+The problem with voluntary disclosure, though, and why we
+need mandatory disclosure is that when there is negative
+information, when there are problematic facts, when there are
+risks, companies, because they are looking to attract capital,
+are reluctant to provide and disclose the negative information.
+So, they end up providing the positive information without
+providing the negative information. That is why we need
+mandatory disclosure, a baseline, a total mix of information
+that actually informs investor decision-making, and there is an
+advantage there both for companies, as you suggest, as well as
+for investors and for the economy.
+Mr. Horsford. Given all the attention given to the Scope 1,
+2, and 3 emissions disclosures, I worry that my colleagues have
+lost sight of the variety of quantitative and qualitative
+information regarding climate risks to which investors would be
+given access.
+Under the SEC rule, these companies would need to not only
+provide descriptions of their climate-related risk, but
+critically, they would also need to outline relevant risk
+management processes.
+How a company manages their perceived risk is not only
+crucial for an investor's decision-making but it is simply good
+corporate governance to have these processes in place.
+Let us not forget that a key aspect of the SEC rule is the
+impact of climate-related events, which occurred at an alarming
+rate last year, and can range from hail storms to hurricanes.
+Finally, let me just close by stating that in Nevada, the
+very real threat of climate change is causing us to quickly
+confront the increase in these events, namely, for Nevada, a
+water crisis. We have endured over 2 decades of a drought in
+Las Vegas, and it would be difficult to believe that wouldn't
+be a significant material risk to a certain company's
+profitability.
+Mr. Georgiev, would you please speak to the importance for
+a company to be aware of its local water supply challenges and
+how this information may be helpful for investors when making
+decisions?
+Mr. Georgiev. Yes. Water is a crucial resource. It is a
+critical resource and it is a scarce resource, so it is very
+important for companies to be aware of supply chain challenges,
+and this is where water scarcity comes in.
+Mr. Horsford. Thank you very much. I yield back.
+Chairman Huizenga. The gentleman's time has expired.
+The ranking member of the subcommittee, Mr. Green from
+Texas, is recognized for 5 minutes.
+Mr. Green. Thank you again, Mr. Chairman. I greatly
+appreciate all that has been said today, and it appears, Mr.
+Chairman, that we have to identify our legitimate real farmers'
+bona fides.
+I am proud to tell you that I know what well water tastes
+like, I know what, ``gee'' and ``haw'' sound like, and I know
+what chitlins taste like. I also know what a smokehouse smells
+like, and I know what living on a farm where you have no
+running water as we know it today is like.
+I grew up on a farm in my early childhood, and I have a
+great appreciation for Mr. Schultz and what he is having to
+contend with.
+And to this end, I have a statement dated September 12,
+2023, from Reuters, where Chair Gensler was appearing before
+Congress, and here is what he said, ``It is not the
+Commission's intent to have farmers or ranchers in Montana or
+any other State report on goods they sell to publicly-traded
+companies.'' This is what SEC Chair Gary Gensler said in
+response to questions from Democratic Senator Tester of
+Montana.
+So, I want you to know that this is still in its infancy.
+It is metamorphosing and it has not been finalized. There is
+still much to be said, much to be done, and you have quite a
+few advocates who would not want to see Wal-Mart pass on its
+costs to you. I think that this is something that you can be
+assured people are going to work hard to prevent.
+Moving on to my next topic rather quickly, but while I am
+doing that, Mr. Georgiev, would you comment on my comments,
+please?
+Mr. Georgiev. Yes. I think your comments are very apt. I
+think it is important to underscore the fact that what the SEC
+is doing here is making sure that companies provide investors
+with relevant information rather than seeking to regulate
+climate change. This benefits all sorts of investors, both
+investors who are agnostic about the effects of climate change,
+as well as investors who are very concerned about the effects
+of climate change, because if investors who are agnostic--if
+they are contrarian and want to invest only in companies that
+don't believe in climate change, they will get that information
+through the SEC disclosure rule.
+So, it helps all sorts of investors, regardless of their
+beliefs, and that is the beauty of this rule, and that is why
+the SEC is on solid footing in promulgating this rule.
+Mr. Green. Thank you very much.
+Moving on to industry experts giving some guidance, this is
+not novel. When the oil and gas disclosures were codified,
+industry experts were used. So, this is something that we have
+done before and there is no reason why we can't do it again.
+Again, Mr. Georgiev, would you comment on my comments?
+Mr. Georgiev. That is absolutely right. The SEC is a
+disclosure agency, and in all cases, it has relied on the
+expertise of technical bodies to come up with the right
+disclosure requirements.
+So, what it is doing here with the TCFD is not at all
+unprecedented. We had a similar process with the oil and gas
+disclosure rules first adopted in the 1970s, and revised in
+2009, as you point out.
+We have had the same process in the context of executive
+compensation, very complex matters of asset-backed securities,
+and so on and so forth.
+So, the technical assistance that the SEC is getting from
+bodies which, by the way, include participation by U.S.
+Government officials and supervision by them, is not at all
+unprecedented.
+Mr. Green. Finally, it has been said that, on one hand,
+this should be left to the EPA. But then, on the other hand,
+the SEC already has the authority to do it. So why would we
+leave to the EPA what the SEC has the authority to do?
+Would you comment on my comments please, Mr. Georgiev?
+Mr. Georgiev. Yes, absolutely. Just because an issue
+involves climate change doesn't mean that only the EPA and NOAA
+can touch it. All agencies of the Federal Government have to
+make allowances for climate change. The Department of Defense,
+for example, is making allowances for climate change.
+So, it is not that the EPA has one particular remit. It is
+doing one sort of regulation. The SEC is doing information
+regulation for a very specific purpose, to benefit investors.
+Mr. Green. Thank you, sir.
+I close with, I also know what a henhouse egg tastes like.
+I yield back.
+Chairman Huizenga. The gentleman yields back.
+And I know that there is a number of folks who have grown
+up on a farm. I believe Ms. Garcia lives on a ranch, as do a
+number of our Members, so I am glad to hear that this is taking
+root.
+And you read a comment from Mr. Gensler. It may be the
+intent but I am afraid it may not be the application and that
+is part of the reason for this hearing today.
+Recognizing myself here--I wish Mr. Vargas was still here.
+He was talking about how Republicans have started looking at
+the courts favorably. One, appointments matter. Two, what those
+appointments do and how they do it matters. When we see an
+activist expansionist court versus a constructionalist court,
+that is very different, and we clearly are seeing that right
+now.
+He also asked Mr. Schultz, my constituent, how he is
+affected. I used to represent Fremont, Michigan, which is home
+to Gerber Baby Food, owned by an international publicly-traded
+company that directly contracts with family farms in and around
+the area, and these family farms are struggling to figure out
+how they can make sure that they can track their organic versus
+nonorganic, much less all of the inputs.
+So, Mr. Schultz might be dealing with a few more middlemen,
+a co-op, for example, in between, but we have examples of these
+growers going directly into a publicly-traded company who
+absolutely are going to get scooped up into this definition.
+Absolutely. There is no way of avoiding it at this point.
+Mr. Cunningham, I want to go to you. Professor Georgiev put
+forward two things in his written testimony. He said, one, the
+intensity of demand doesn't matter for those investors.
+Interestingly enough, and most recently it was Mr. Casten who
+noted this, investors are demanding this information. That was
+one point, because I am not sure that the investors are quite
+demanding it, but, two, we have dueling lawyer and professors
+here on this.
+Professor Georgiev's second point was nor does it matter if
+they are interested parties, if the interested parties are
+actually investors. I believe he notes them as noninvestor
+constituencies.
+How novel is this in legal theory? Has the SEC ever given
+weight to a noninvestor constituency before in its rulemaking?
+Mr. Cunningham. The congressional authority that the SEC
+exercises is investor protection. That is it, and everything it
+does has to connect back to that, and in this proposal they
+went to great lengths to talk about investor demand, which is a
+novel concept, as a way to support its invoking its authority
+under investor protection.
+But, yet, the investor demand that it attempted to measure
+was just one segment of the universe and it paid no attention
+to the 160 million individual investors who really need the
+SEC's protection.
+Chairman Huizenga. Its protection, yes. Okay.
+And very quickly, in your opinion, do you think these
+constructionalist courts are actually going to overturn this
+activism?
+Mr. Cunningham. We have identified several deficiencies in
+the proposal, and if it was released or finalized as proposed,
+I think it would be very seriously in jeopardy.
+Chairman Huizenga. I am going to turn to Mr. Schultz here
+to close.
+There was a U.S. court case, the American Farm Bureau
+Federation v. the EPA, which held that public disclosure of
+farmers' personal information is, ``substantial,'' and, ``a
+clearly unwarranted invasion of privacy'', and I think you
+touched on this.
+This isn't just where you work; it is where you raise your
+family. And I think it is widely acknowledged that there are
+privacy concerns with disclosing your operations and those
+details to the SEC if this climate rule were to be finalized as
+it is.
+Have you been told anything that would give you assurance
+that somehow that data is going to be protected? I might note
+that we just had a recent breach of the SEC's data.
+Mr. Schultz. I don't know if I can speak a lot on that
+subject, although I can tell you that if we start pitting data
+from smaller companies into the marketplace, you are going to
+drive consolidation down, and I don't think that is necessarily
+what the intent of this rule is, but it could definitely have
+that impact.
+Chairman Huizenga. Sadly, Mr. Schultz, I have been around
+here long enough as a staffer and as an elected Member to know
+that oftentimes, it is those unintended consequences that have
+the biggest bite and impact and are, frankly, the hardest to
+remove from that.
+I want to say thank you, to you, for that. You have noted
+how your family works towards conservation and stewardship and
+maybe we can end on that.
+Mr. Schultz. Thank you, Mr. Chairman.
+Chairman Huizenga. Without objection, I have an article
+that I would like to put into the record, a Wall Street Journal
+article entitled, ``The latest dirty word in corporate America,
+ESG.''
+And I will say, again, thank you to our witnesses. I deeply
+appreciate your time and your effort in getting here.
+The Chair notes that some Members may have additional
+questions for this panel, which they may wish to submit in
+writing. Without objection, the hearing record will remain open
+for 5 legislative days for Members to submit written questions
+to these witnesses and to place their responses in the record.
+Also, without objection, Members will have 5 legislative days
+to submit extraneous materials to the Chair for inclusion in
+the record.
+The hearing is now adjourned. Thank you.
+
+A P P E N D I X
+January 18, 2024

@@ -1,1 +1,1767 @@
-OVERREACH: AN EXAMINATION OF FEDERAL STATUTORY AND REGULATORY CRIMES ---------- Tuesday, April 30, 2024 House of Representatives Subcommittee on Crime and Federal Government Surveillance Committee on the Judiciary Washington, DC The Subcommittee met, pursuant to notice, at 10:14 a.m., in Room 2141, Rayburn House Office Building, the Hon. Andy Biggs  presiding. Members present: Representatives Biggs, Jordan, Tiffany, Moore, Lee, Fry, Jackson Lee, Nadler, Dean, and Johnson. Mr. Biggs. Thank you. The Subcommittee on Crime and Government Surveillance will come to order. Without objection, the Chair is authorized to declare a recess at any time. We will begin today's hearing with the gentleman from Wisconsin leading us in the Pledge of Allegiance, Mr. Tiffany. All. I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation, under God, indivisible, with liberty and justice for all. Mr. Biggs. We welcome everyone to today's hearing on Federal statutory and regulatory crimes. I will now recognize myself for an opening statement. I thank the Members who are here this morning. I thank our witnesses who are here, and I thank those in the gallery both here and on video. Today's hearing is titled ``Overreach: An Examination of Federal Statutory and Regulatory Crimes.'' We could have just as easily called it Oversight of Congress because in many respects Congress has created a problem that we are here to discuss today. The problem is the number of Federal and regulatory crimes has escalated out of control to the point that law-abiding Americans, unknowingly, commit several crimes every day. According to one study, the average American commits three felonies per day which does not take into account the overwhelming number of misdemeanors or civil violations. In some instances, the laws are so obscure and vague that even law enforcement and Federal agencies are unaware that they exist. The United States Code is estimated to contain more than 5,000 crimes today. Just a decade ago, some scholars estimated that they were approximately 4,500 crimes and the fact that these numbers are just estimates underscores the severity of the problem. According to a study by the Federalist Society, the number of Federal criminal offenses increased by 30 percent between 1980-2004. There were 452 new Federal criminal offenses enacted between 2000-2007, averaging 56.5 new crimes per year and over the past three decades Congress has been averaging 500 new crimes per decade. It is ironic, quite frankly, that tomorrow we are going to be considering more crimes in this Committee, the entire Committee of the Judiciary. We will be considering more potential crimes. Keep in mind the estimated 5,000 criminal laws are not all neatly found in Title 18. They are scattered around the other 49 titles as well. The fact that this is only an estimate means that no one knows exactly how many Federal laws subject U.S. citizens to criminal sanction. That includes Congress, the Department of Justice, and other Federal agencies responsible for enforcing those laws, yet alone your ordinary American. How did we get here? After all, our Founding Fathers first enumerated Federal crimes in the Crimes Act of 1790. That act enumerated 23 Federal crimes and established the punishments for those crimes. Among other crimes, the Crimes Act of 1790 established Federal crimes for treason, piracy, and counterfeiting. While the legislation did establish some crimes against the person, such as murder; and crimes against property, such as larceny, the Federal jurisdiction of those crimes was limited to Federal property and territories. Over the past century, Congress has lost its way. Instead of methodically and deliberatively crafting a common-sense criminal code, Congress acted in a knee-jerk reaction to every minor and major crisis. In doing so, Congress believed that there always had to be a Federal response to every headline and breaking news story. In fact, it was even--sometimes I get off script, sorry about that. If you think about it, if you look in the 1950s, you will see that there was a popular radio show. There was a popular newspaper article that said, ``There Ought To Be a Law.'' So, if you got the Reader's Digest, when I was a kid and you looked at it, every month or two there was some outrageous conduct, and the response was there ought to be a law. Of course, Congress responded and made many laws, some of them criminal in nature. One academic has aptly noted it was the State of bank robberies by John Dillinger in the 1930's that provoked passage of the Federal bank robbery statute. The kidnapping of the Lindbergh baby, about the same time, caused passage of the Federal statute on kidnapping. The assassination of President Kennedy in the early 1960s prompted the statute on Presidential assassination, and the killing of Senator Robert Kennedy in the late 1960s that resulted in the passage of a statute finally making it a Federal crime to kill a Member of Congress. More recently, we saw the enactment of Sarbanes-Oxley in response to the Enron scandal. All of us on this dais have witnessed this phenomenon among our colleagues. Some have termed this the accumulation approach to offenses whereby Congress has simply accumulated new offenses for 200 years or so with little examination or reformulation of existing offenses which has resulted in serious overlaps in coverage and irrationalities among offense penalties which create new possibilities for disparity and treatment of a double punishment for the same harm or evil. This leads to absurdities. For example, the Code of Federal Regulations makes it a Federal crime to try to sell a quarantined zebra while it is still in quarantine. In another example, 16 U.S.C. 703 and 50 CFR Section 20.91(a) make it a Federal crime to offer to buy swan feathers for use in making a woman's hat. According to one scholar, the proliferation of crimes makes it extraordinarily difficult to ferret out the law applicable to a particular factual situation. It also creates unfairness within Federal law which provides Federal prosecutors with a near limitless menu to pursue criminal defendants. When Congress isn't creating new criminal code provisions, it is passing laws that allow unelected bureaucrats to write regulations that carry civil and criminal penalties. What we all too often forget is that many of the problems we seek to solve are actually State and local issues. Under the Federal system, the U.S. Supreme Court has observed that, States possess primary authority for defining and enforcing their criminal law. Also, Our national government is one of delegated powers alone. Under our Federal system, the administration of criminal justice rests with the States except as Congress acting within the scope of those delegated powers has created offenses against the United States. Congress has not relented and continues to add Federal crimes to our Federal code. Congress can and should restrain from over-legislating on issues that should be left to State and local governments. This hearing is an opportunity to examine potential legislation introduced in past Congresses to restrict Federal agencies' ability to criminalize conduct that a reasonable person would consider lawful. We have wonderful, excellent, expert witnesses today and I have read every one of your testimoneys that you have submitted. I think it is so important. I look forward to hearing what you have to say today. One of you has said, ``every criminal record comes with a host of consequences that we rarely think about,'' and I am talking about the results of the overabundance of criminal offenses, but also with what happens to those who are charged and even convicted. These collateral consequences are legal and regulatory restrictions that limit or prohibit people convicted of crimes from accessing employment, business, occupational licensing, housing, voting, education, and other opportunities. Another view has said, The sheer quantity of Federal regulations on the books today would require about three years to read if reading was your full-time job. Another view said, and you quoted James Madison. I appreciated this from Federalist 62, It will be of little avail to the people if the laws be so voluminous that they cannot be read or so incoherent that they cannot be understood. The Congressional Research Service, the Justice Department, and the ABA have all tried and failed to count the Federal criminal laws, but we believe there may be around 4,000 existing Federal criminal laws, but even this massive number is dwarfed by incredibly high estimates that Americans are subjected to about 300,000 Federal regulatory offenses. Also, the note that prosecutions, even politically inspired ones, are protected under the veil of legitimacy because of the overabundance of the criminal laws that we--that Congress keeps putting into place. Another pointed out that 50 percent of laws related to nonviolent and nondrug offenses lacked a mens rea requirement which is perhaps one of the easiest solutions we could put into effect immediately is a mens rea requirement. I look forward to hearing from each of our witnesses and with that, I yield back and recognize the distinguished Ranking Member, Ms. Jackson Lee, for her opening statement. Ms. Jackson Lee. Good morning, Mr. Chair. It is a pleasure to be with you this morning. This is more than a unique moment in history. We are having a hearing on the over-proliferation of the potential impossibility of over-Federalization of laws. We have both responsibility to keep this Nation safe and the responsibility to ensure that laws have common sense and that the common sense is used effectively to ensure that we have good governance. I think that is what we all want to see and hear. So, I am delighted to open with you the hearing on ``Overreach: An Examination of Federal Statutory and Regulatory Crimes,'' this morning on April 30th. We could not open these hearings without taking special note of the conditions of this Nation, around the world, when Americans youth are speaking out in loud voices asking for guidance and help and assistance in trying to seek direction so that some of the oldest laws that are grounded in our Constitution, those rights are adhered to and respected. That is the respect for people's differences and the respect for people's words and as well, the respect for people's feelings. We cannot have a Nation of laws for which I believe is our greatest strength without understanding the passion for both our laws and the land that we love. We pledge allegiance to the flag. Thank you so very much, Mr. Chair, for that, because it gives us the grounding of this hearing. So, thank you, Chair Biggs, for convening this hearing to discuss the very real problem of overcriminalization. In more than a decade, the overcriminalization of Federal criminal law has been identified as a significant issue in our justice system. In 2014, the Congressional Research Service identified 435 offenses having criminal penalties that were created between 2008-2013. That means Congress created nearly 90 new criminal offenses each year during that five-year period. This trend of expanding the scope of Federal crime statutes has resulted in an excess of ambiguous and broadly defined offenses leading to confusion among citizens and even legal professionals. The potential for individuals to unknowingly commit a crime due to the complexity and sheer volume of Federal laws only undermines the principles of justice and fairness, but also erodes public trust in the legal system. Additionally, the proliferation of Federal criminal laws has led to instances where individuals, particularly in marginalized communities, are unfairly targeted, prosecuted, and incarcerated for minor offenses that do not warrant such harsh punishment. This not only perpetuates social inequalities, but also strains an already overburdened prison system. It is crucial for Congress to reexamine and streamline the Federal criminal statutes to ensure that these laws are proportionate, clear, serve the Federal interest and promote the interests of justice and fairness. By focusing on meaningful and necessary criminal legislation, we can prevent further overcriminalization and safeguard the integrity of our legal system. Since the number of existing Federal regulations has mushroomed to more than roughly 300,000, we should also consider whether the criminalization of conduct that could be better addressed through civil means necessarily burdens the criminal justice system. However, we must also recognize the importance of these regulations that they are sometimes criminalized for good reason and that the criminal penalties often exists within a system that begins with administrative and civil tools that promote compliance and correction. Let us not forget that the purpose of prosecuting, punishing, and deterring future bad actors is to protect us from the harms contemplated by the Clean Air Act, the Clean Water Act, the Federal Food, Drug, and Cosmetics Act, and the Occupational Safety and Health Act. For instance, following an explosion at British Petroleum's Texas City refinery that killed 15 workers and injured another 180, BP pled guilty to knowing the violations of the Clean Air Act for its actions that led to the explosion and paid a $50 million criminal fine, the largest ever at the time under the CAA. An examination of the company's safety records showed that Texas City was not an isolated occurrence as the corporate culture had come to prioritize revenue over safety and maintenance. We have to learn, I believe, to match the punishment with the crime, of course, but we must also learn to understand the volume of criminalization and overcriminalization and we must learn to work through the crisis of overcriminalization. I look forward to hearing from our very astute witnesses today and engaging in what I hope will be a productive conversation. With that, Mr. Chair, I would like to reserve, but I will reserve and yield at the same time. Mr. Biggs. The gentlelady yields back. I understand that the Ranking Member is arriving. Ms. Jackson Lee. We are checking, yes. Mr. Biggs. We will pause for just a moment. The Chair recognizes the Ranking Member of the Full Committee, Mr. Nadler, for his opening statement. Mr. Nadler. Thank you, Mr. Chair, for convening this important hearing. Roughly a decade ago, we learned through this Committee's bipartisan Overcriminalization Task Force, of which I was a Member, that there are simply too many Federal criminal laws on the books, that the reach is often too broad, and that too many individuals are jailed for far too long because of them. For too long, Congress, under both parties, has created new offenses or extended existing laws in response to a national crisis, daily headlines, or highly publicized tragedies, often Federalizing crimes traditionally prosecuted by the States, without inquiring as to whether the Federal Government should be involved at all. Instead of playing politics and trying to prove who is toughest on crime, we should be doing more to prevent crime before it even happens. For instance, we could address substance abuse and mental health disorders, end the school-to-prison pipeline, cutoff the iron pipeline that funnels guns into major cities like New York and Philadelphia, or provide real solutions to the unhoused. Nonetheless, I am pleased that we have the opportunity to tackle the important subject of overcriminalization today which as long as it recognizes the major contributing factor to both mass incarceration and overpolicing in America. Let's be clear. This hearing should not be about Donald Trump or about the January 6th rioters. The courts will decide whether they were properly charged. Nor should it serve as a platform to undermine the Federal regulations that keep us, our constituents, and our communities safe. While overcriminalization in the regulatory context is certainly cause for concern, we should remember that regulations ensure that we breathe clean air, drink clean water, consume safe food and medicines, and that our loved ones work in safe environments. This hearing should be about countless individuals, mostly Black, Brown, and poor, who for decades have borne the brunt of the overuse and abuse of criminal law in the Federal system. As the number of Federal criminal statutes has ballooned, overcriminalization has had wide-ranging negative impact on individuals who are at a social or economic disadvantage, whether by exploiting already existing disparities and access to legal resources, by leading to the increased surveillance and targeting of minority communities by law enforcement, or by driving mass incarceration. The Department of Justice, and particularly the Bureau of Prisons, continues to grapple with the cost of overcriminalization and mass incarceration, both fiscally and with respect to other resources such as manpower. That is why Congress should be working together to craft legislation that ensures that the resources of Federal agencies, Federal law enforcement, and Federal courts are used most effectively and not wasted on the enforcement of crimes that are better handled by the States. If we are to have a real discussion about the problems associated with overcriminalization and solutions, we must first recognize the many forms that overcriminalization takes in the Federal criminal justice system. It occurs most frequently through Federalizing crimes traditionally reserved for the states, adopting duplicative and overlapping statutes, enacting vague or broad criminal statutes and enacting criminal statutes that fail to set meaningful mens rea standards. Whether Republican or Democrat, we should all agree that the resulting broad expansion of Federal criminal law undermines any efforts to provide just and proportionate punishment for criminal conduct and lessens the legitimacy of the criminal justice system overall. It is vitally important that we rein in the growth of the Federal criminal code and ask whether all the laws on the books are truly necessary and whether they are accomplishing what should be their ultimate goal, the protection of the public safety. I look forward to hearing from our witnesses and before I yield back the balance of my time, I ask unanimous consent to enter into the record a written statement from Michael P. Heiskell, President of the National Association of Criminal Defense, an organization that has worked for more than a decade on the issue of overcriminalization. Mr. Biggs. Without objection. Mr. Nadler. Now, I yield back the balance of my time. Mr. Biggs. The gentleman yields back. I appreciate that. Without objection, all other opening statements will be included in the record and now it is now my pleasure to introduce today's witnesses. We have Patrick Purtill, who serves as the Director of Legislative Affairs at Faith and Freedom Coalition and is the Charles Evans Hughes Lecturer in Politics at Colgate University. Previously, he practiced law advising corporations on formation, transactions, corporate governance, and compliance issues. In the George W. Bush Administration, he spent three years as Special Assistant to Deputy Attorney General, where he served on the Serious and Violent Offender Reentry Initiative Working Group. We thank you for being with us today, Mr. Purtill. Dr. Patrick McLaughlin. Dr. McLaughlin is Director of Policy and Analytics and a Senior Research Fellow at the Mercatus Center at George Mason University. His research focuses primarily on regulations and the regulatory process. Dr. McLaughlin has authored more than a dozen peer-reviewed studies on topics such as regulatory economics, administrative law, industrial organization, and international trade. Thank you for being with us, Doctor. Mr. Brett Tolman. Mr. Tolman is the founder of the Tolman Group, a public policy law firm that works to hold Federal, State, and local governments accountable and advance transparency. He previously served as the United States Attorney for the District of Utah, and has testified before Congress multiple times on criminal justice issues including the First Step Act. Thank you, Mr. Tolman for being here. Ms. Bianca Tylek. Did I say that right? OK, thank you. Ms. Tylek is the founder and Executive Director of Worth Rises, a nonprofit organization that advocates for reform in the criminal justice system. She has previously worked at the Brennan Center for Justice and the ACLU and co-founded College Way, the program that worked to prepare students in Rikers Island to pursue higher education on their release. Thank you for being with us, Ms. Tylek. We welcome all our witnesses, and we will begin by swearing you in. If you would each, please rise and raise your right hand? Do you swear or affirm under penalty of perjury that the testimony you are about to give is true and correct to the best of your knowledge, information, and belief so help you God? Let the record reflect that each of the witnesses has answered in the affirmative. You may be seated. Please know that your written testimony will be entered into the record in its entirety. Accordingly, we ask that you summary your testimony in five minutes and if you get close, I will probably tap like this a little bit, not trying to break your flow, but just trying to let you know that you are near the end of your time. I mean your time for testimony. You might have all the time in the world. I don't know, but I just want to make clear of that. So, with that, Mr. Purtill, you may proceed. STATEMENT OF PATRICK PURTILL Mr. Purtill. Very good. Mr. Chair, Madam Ranking Member, the Members of the Committee, thank you for the opportunity to speak to you today on the topic of overcriminalization, its impact on our criminal justice system, and its impact on the rule of law. I commend the Committee for examining this important, but often overlooked issue. The power to punish is the greatest domestic power that the Government has the ability to take life, liberty, and property. As Government continues to grow exponentially, the number of acts and beliefs that it prohibits has continued to grow as well. The overcriminalization, the proliferation of laws is often--they are often in vague or ambiguous terms. They expand the scope of criminal behavior beyond reasonable limits. This proliferation has resulted in a regime of statutes that criminalize conduct previously considered innocuous or noncriminal. Consequently, individuals, including those with no intent to break the law, find themselves ensnared in a complex web of statutes and regulations that are difficult, if not possible, to navigate. It is illuminating to remember that at common law, there were only nine major felonies: Murder, robbery, arson, rape, for example, and various misdemeanors. Our Constitution itself only specified three felonies within the body of the document although, as the Chair pointed out, one of the first acts of Congress was to create another 23, I believe it was, certainly a number that was comprehensible. Today, we have got more than 5,000 Federal crimes and there are so many rules and regulations with criminal consequence that no one is able to count them. A complete and systematic effort to count stops somewhere at--just North of 300,000 including the Federal regulations. This is one of the chief reasons that one in three Americans today has a criminal record of some sort and that many Americans, frankly, have lost faith and trust in the impartiality of the justice system and in the equal application of our laws. It can't be overstated how dangerous this loss of faith and trust in the justice system is for a democratic republic. So, why is this important? I think that overcriminalization is important for several key reasons. First, is that it enables the proliferation of criminal laws tilts the playing field too far in favor of the prosecutor. It has effectively undermined the Sixth Amendment right to a jury trial. According to the American Bar Association, 98 percent of criminal cases in Federal court end with a plea and there is substantial evidence that innocent people are coerced into guilty pleas because of the power that the prosecutors have over them. Now, I should pause for a moment to say I think prosecutors are trying to do a good job. They are an integral part of our system in protecting public safety, so I don't mean this to be an overt attack on them. I think that this is the nature of the problem when you have these many criminal statutes. You are going to have this happen. Too many laws make overcharging or charge stacking one of the most common tools used by Federal prosecutors which is why trials have become essentially just rare artifacts. Overcharging can be used not only to force a plea deal, but it can also if you do decide to exercise your Sixth Amendment and go to trial, overcharging also can influence the jury into thinking that well, there are so many charges, one of these must be accurate. So, you can see situations where defendants are acquitted on a number of charges, but sometimes juries feel like they have to come back with a guilty charge on something just because there were so many charges to begin with. So many criminal laws make it impossible for an ordinary citizen or probably anyone for that matter, as you noted that it would take three years to simply read through all the criminal statutes and regulations on the books today, but that means that ordinary citizens can't actually know what the law is. The legal maxim used to be that ignorance of the law is no excuse and this made sense when we had nine felonies at common law. Those felonies were inherently blameworthy. Everyone understands that murder is wrong. You don't need to know that someone passed a statute criminalizing murder to know that it is wrong. They were inherently blameworthy offenses, but if a free citizen cannot be certain that they are in compliance with the law, the problem is with the overly complicated legal regime. It is not with the citizenry. It is because we are criminalizing actions and beliefs that are not inherently blameworthy. When you add this to the way that we go about charging now and indicting, a New York Judge, Sol Wachtler, famously observed years ago that if a District Attorney wanted, a Grand Jury would indict a ham sandwich. The simple truth is that the mass of Federal criminal laws and regulations makes this easier and makes every American a potential criminal. Rather than seeing a crime and then investigating to find the perpetrator, the staggering labyrinth of criminal statutes and regulations means you can identify an individual for prosecution and dig until you find some rule that they have violated. Mr. Biggs. You are over your time limit. Mr. Purtill. I am sorry. I will stop there, but the only other thing I would say if you did mention this comes with a host of collateral consequences and I think that the real danger in why I think it is important what you are doing here today is the real danger is it undermines the public confidence in the fair application of the law. That is truly a dangerous situation to be in. So, I commend you for having this hearing.   Mr. Biggs. Thank you, Mr. Purtill. Now, I recognize Dr. McLaughlin for your five minutes. STATEMENT OF PATRICK McLAUGHLIN Mr. McLaughlin. Thank you. Chair Biggs, Ranking Member Nader, and Ranking Member Jackson Lee, the Members of the Committee, I'm Patrick McLaughlin, a Senior Research Fellow at the Mercatus Center at George Mason University, and Mercatus Center is a nonprofit, nonpartisan research center dedicated to bridging the gap between academic ideas and real-world problems. Thanks again for inviting me here to testify today. For more than a decade, I have specialized in using computer algorithms to quantify various aspects of accumulated laws and regulations. I learned early on in my career that it would be impossible for any human to read the entirety of Federal laws and regulations. So, I devised computational solutions instead. Some of my work on regulatory accumulation has demonstrated how the buildup of rules over time significantly slows economic growth, but I have also studied the accumulation of crimes, as defined in the U.S. Code. On that topic, I have three main points today. First, there has been a significant increase in the number of Federal criminal statutes and regulations over the past three decades. Second, the expansion of Federal criminal laws over the past few decades has been linked to an increase in Federal incarceration rates. Third, the haphazard expansion of Federal crimes may duplicate State laws or existing Federal laws, resulting in redundant crimes. A few years ago, I worked on a project that used some of these advanced computer algorithms to create an inventory of criminal laws within the U.S. Code. Using a carefully cultivated set of search terms, such as the phrases ``imprisoned for not more than'' or ``shall be guilty of,'' we were able to estimate not only how many crimes Congress has written into the U.S. Code as of 2019, but also how that number has changed over time. Our work revealed a significant increase in the number of Federal criminal statutes over the past three decades. We estimated that 3,825 Federal crimes were on the books as of 1994. By the year 2019, that number had increased by more than a third to 5,199. Interestingly, more than half of the total growth in that entire 22-year period that we studied occurred between 1994- 1996. This matched our expectations, because a tough-on-crime agenda played a significant part in politics in the 1980s through the mid-1990s. I recently ran the same algorithm on the Code of Federal Regulations to estimate the crimes that are defined in Federal regulations. I estimate that an additional 2,157-2,876 crimes are defined in similar ways as in the U.S. Code within the Code of Federal Regulations as of 2023. Now, the number 300,000 has also been used in this hearing, and I will just point out that I'm using the same algorithms to look for these search terms that we devised by looking through the statutes and applying it to the CFR, to the regulations. So, my number is probably on the floor, probably not the ceiling. Anyway, that means the total number of crimes defined across Federal laws, including both statutes and regulations, likely falls at least in the 7,000-8,000 range. Now, a longstanding criticism of the haphazard expansion of Federal crimes is that new Federal criminal laws may duplicate State laws or existing Federal laws in a patchwork of redundant crimes. This duplication has a number of downsides. It erodes principles of federalism by having Federal authorities police conduct that has been traditionally viewed as better left to State and local governments. This duplication also dilutes political accountability because the public is not able to discern who has primary authority for addressing a particular crime or whom to blame if a crime is not addressed. Finally, duplicative Federal crimes give prosecutors wide latitude to charge different people committing the same offenses with different crimes--opening the door for bias to factor into charging decisions. The U.S. has the highest incarceration rate of any country in the world, and that rate seems obviously linked to the number of crimes defined in law. The number of Federal prison inmates alone has risen by 500 percent since 1980. Any action by Congress to reduce the number of duplicative or otherwise undesirable crimes could only serve the reduce that incarceration rate. The accumulation of laws and regulations, and the crimes that are defined within them, should not be assumed to be harmless. The U.S. needs legislative reforms to simplify Federal laws and regulations, period. Such reforms could involve reducing the number of Federal crimes, clarifying the language of statutes, and considering decriminalization or the use of civil penalties for certain offenses to alleviate the burden on the criminal justice system. Reforms like these are crucial to ensuring that laws are fair, just, and proportionate to the behaviors they aim to regulate, safeguarding against the negative consequences of overcriminalization. Thank you again for inviting me here today to discuss this important topic.   Mr. Biggs. Thank you, Dr. McLaughlin. Ms. Tylek, we recognize you now for your five minutes. You might need to hit that microphone button, please. Thank you. STATEMENT OF BIANCA TYLEK Ms. Tylek. Sorry. There we go. Thank you. Good morning, Chair Biggs, Ranking Member Jackson Lee, and the Members of the Committee. I am Bianca Tylek, Executive Director of Worth Rises, a national organization working to remove the financial incentives to incarcerate people. I am also a crime victim and have had a loved one who has been murdered. Thank you for the opportunity to appear before you to discuss the issue of overcriminalization. We all want safe and thriving communities and we can get there by working together. While the others on this panel are and will continue to speak about some of the legal specifics of overreach in the Criminal Code, I will cover--which I also cover in my written testimony--I will focus my comments today on the impact that Federal overcriminalization has on the American people. To start, any discussion of overcriminalization at the Federal level must reflect on the significant influence it has over State policies, especially when funding is attached. This was the case throughout the 1990s and 2000s, when Congress provided Federal funding for prison construction to States that enacted tough-on-crimes laws, like mandatory minimums. Unfortunately, today, Federal programs like civil asset forfeiture continue to root the issue of Federal overcriminalization in State and local budgetary policy. As a result of overcriminalization at the Federal and State level, someone is arrested every three seconds in the United States. This amounts to 10\1/2\ million arrests annually, with over 80 percent for low-level offenses like drugs and disorderly conduct. Those arrested are disproportionately Black and Brown and low-income people--leading to the overincarceration and oversurveillance of these communities. Core to the overcriminalization crisis is that even committing a minor offense can impart a lifetime of negative consequences. A simple arrest can lead to job loss, while a criminal conviction--and, worse yet, incarceration--can threaten the financial stability and economic mobility of the person convicted and their family for years, even generations to come. Consider that, roughly, 57 percent of people in Federal prison are the parents of minor children, and more than half were the primary breadwinners for their families before they were incarcerated. Though most incarcerated people in prison work, their penny wages prevent them from sending anything home. So, unsurpris-ingly, about half of families with an incarcerated loved one struggle to make ends meet. It's not just the loss of income at issue, but families end up with new egregious expenses for basic food and hygiene products and communication services for their incarcerated loved ones. To make matters worse, funds deposited by families for their incarcerated loved ones can be garnished for court fines and fees. The Federal Bureau of Prisons recently sought to garnish as much as 75 percent of what families deposited. Thankfully, Congress has recently created some relief. For decades, one in three families with an incarcerated loved one has gone into debt trying to stay connected over expensive calls. Some cutoff contact, unable to afford it, which is detrimental to correctional officers and public safety--with studies repeatedly showing that, when incarcerated people are connected to their support systems, facility violence decreases and reentry success increases. Congress passed the Martha Wright-Reed Just and Reasonable Communications Act to increase regulation of the prison telecom industry and made all calls free in Federal prisons through the CARES Act, a policy I urge Congress to implement permanently. For too long, women like Martha Wright-Reed, who skipped medication to afford calls with her grandson in Federal prison, have carried the cost of overcriminalization. Indeed, over 80 percent of carceral costs, like the cost of calls, commissary, and court fees, are borne by women, largely Black and Brown women. See, the issue of overcriminalization is not just about criminal justice. It's about gender equity, children's health, family unity, economic justice, and more that we don't have the time to talk about today, like privacy rights and regressive taxes. The intersection of these issues--all or one of which may matter to you--should bring us collectively to the table to address them. Importantly, overcriminalization does not just impact those arrested and sentenced, but all of us. Overcriminalization dramatically hinders public safety by exacerbating the social conditions that lead to crime in the first place. In doing so, it lines the pockets of the $80 billion niche prison industry with a deep financial interest in the overcriminalization of Americans. In fact, major players in the prison industry have plainly stated that declining crime rates, which improve our safety, hurt their business. An industry so offensive that it cannot advertise uses public fearmongering to hide its interests and boost its business. A huge reason for overcriminalization, the prison industry is an impediment to passing smart policies that promote safety, freedom, and justice, and we must put an end to it. In closing, I would be remiss not to mention that the roots of overcriminalization, and even the prison industry, date back to the exception in the Thirteenth Amendment which gave way for the passage of Black Codes during the Reconstruction Era that applied only to newly freed Black people and criminalized minor offenses, like vagrancy, to feed the brutal practice of convict leasing, by which states leased incarcerated people to private businesses. More than a century later, slavery is still legal as criminal punishment-- Mr. Biggs. Ms. Tylek, your time is expired. If you would wrap it up? Ms. Tylek. OK. I have two seconds. Mr. Biggs. OK. All right. Ms. Tylek. More than a century later, slavery is still legal as criminal punishment, and we are still overcriminalizing minor offenses with a disproportionate impact on Black and Brown people. I urge you to not just seek minor tweaks to existing policy, but truly shift the trajectory of our country by ending the exception in the Thirteenth Amendment, ending Federal overcriminalization, and using the Federal power of the purse to incentivize State and localities to do the same. I appreciate the opportunity.   Mr. Biggs. Thanks, Ms. Tylek, for being here. The Chair now recognizes Mr. Tolman for his five minutes. STATEMENT OF BRETT TOLMAN Mr. Tolman. Chair Biggs, Ranking Member Nader, Ranking Member Jackson Lee, and distinguished Members of the Committee, thank you for inviting me to testify today. I am a former United States Attorney for the District of Utah, appointed by George Bush in 2006. Today, however, I serve as the Executive Director of Right on Crime, a national criminal justice campaign focusing on conservative, data-driven solutions to reduce crime, restore victims, reform offenders, and lower taxpayer costs. As U.S. Attorney, I remember a plaque in the halls of Justice that read, ``The hallmark of fairness in the administration of justice is consistency.'' Yet, this principle can be easily lost when there are too many Federal criminal laws to keep track of, let alone understand. James Madison warned of this issue in Federalist Paper 62 writing, It will be of little avail to the people, that the laws be so voluminous that they cannot be read, or so incoherent that they cannot be understood. Madison was onto something, because we have no idea how many crimes are on the books, as many have commented today. Nobody really knows the number of crimes. What we do know is the overcriminalization offends both sides of the aisle and is antithetical to our Nation's founding principles. Criminal laws now cover so many facets of our everyday lives that the government can target citizens with impunity. Many of these crimes are easy to prosecute because many lack the mens rea element. To commit a crime, you have to do it and you have to mean to do it, or at least know that it could happen. Often, mental State requirements are abandoned, allowing the government to prove its case by a person's actions alone. This isn't how our criminal laws are meant to function. The bloated administrative State contributes greatly to overcriminalization. Faceless bureaucrats have made thousands of activities illegal, but they don't have to justify their decisions to the voters. Last, overcriminalization encroaches on State prosecution powers. When Congress oversteps into the traditionally State- held criminal prosecution space, State offenses can be unnecessarily replicated, making everything a crime and everyone a potential criminal. Overcriminalization is problematic in normal times, but we're living in a unique time with political pressures taking precedent over the rule of law. I've worked in the criminal justice system for over 25 years and cannot believe how the current DOJ is choosing to throw away the rule of law to attack political enemies. When I was U.S. Attorney, I was determined to prosecute both Republicans or Democrats alike, so far as the facts and law supported the charges. Times have changed. Now, Federal prosecutors use their massive discretion, and the overabundance of applicable laws, to target whomever they choose. Even State prosecutors have jumped on the bandwagon--with the most relevant example being the targeted prosecution of President Trump by DA Alvin Bragg. This case didn't have enough evidence to support a legitimate Federal charge, but prosecutors seeking to gain political points have chosen to target political enemy No. 1. Even for Democrats this should be concerning. Because if it's Donald Trump today, it could be you tomorrow. Prosecutions, even politically motivated ones, have the guise of legitimacy and are difficult to undercut or question. Partner this with our overcriminalization problem, and it's easy to see how power can be abused. Justice Scalia pinpointed this issue almost 30 years ago warning that prosecutors, if left to their own devices, can pick people they think they should get, rather than cases that need to be prosecuted. With there being thousands of crimes to choose from, a prosecutor can target a man, and then, search the books to pin an offense on him. This should scare every Member of this Committee. My written testimony goes into more detail on how to avoid and solve this problem, but I'll quickly summarize some suggestions. First, Congress should practice restraint in creating more Federal criminal laws. Decriminalization should be equally important. If Congress does pen a new criminal statute, it must ensure that it has a mens rea element. Also, this Committee can revive broader mens rea reform by considering bills that attach a default mens rea to every statutory and regulatory offense. Next, Congress can conduct robust oversight. President Trump issued an Executive Order that told agencies to specify mens rea standards and make regulatory crimes understandable. President Biden undid this Executive Order. Why? This Committee can get to the bottom of that and urge the administration to take overcriminalization seriously. In a similar vein, agencies' powers must be reined in. The Fourth Branch shouldn't be able to impose weighty criminal sanctions on Americans. This power belongs to the people's representatives. Overcriminalization threatens our public safety, individual liberties, and the fair administration of justice. Consistent application of the law is a cornerstone of our criminal justice system, and addressing our overcriminalization is a critical step to achieving this goal. I appreciate your time and look forward to any questions you have.   Mr. Biggs. Thank you, Mr. Tolman. We appreciate all the statements that you have given to us. Now, the Chair recognizes Mr. Tiffany, the gentleman from Wisconsin, for his five minutes. Mr. Tiffany. Thank you, Mr. Chair. I really appreciate you using the term ``crisis'' in your opening remarks. Everything in America is a crisis today, and when everything is a crisis, nothing is. It is really unfortunate that the word gets used the way it does, especially to drive public policy. Mr. Tolman, it is attributed to one of the worst despots in the history of the world, Joseph Stalin, ``Show me the man and I will show you the crime.'' What role does Federal agencies play in the complication of the Criminal Code through their regulations? Mr. Tolman. Well, it's fascinating to me that three entities--the ABA, the Department of Justice, and the research agencies--all attempted to identify the number of regulations that have criminal penalties. It is an abdication, but Congress to let anybody pass a criminal law, but I don't necessarily blame Congress on this. It is the Branch, the Executive Branch and the Branches seeking to expand that regulatory power, and they're bloating these agencies with both the power, and then, no accountability. Mr. Tiffany. Are there any Federal agencies--are there any you name, in particular, that have exceeded their authority more than others that are repeat offenders? Mr. Tolman. Well, you certainly have--history has proven the IRS has gone from not a single agent carrying a firearm to now most agents carrying firearms. What is the evolution of that? The evolution is a regulatory body becoming a police body. So, there, we could go down the list of all the acronyms that are now moving from a regulatory body to a policing agency. Mr. Tiffany. Ms. Tylek, are you saying in your testimony that slavery still exists in America? Ms. Tylek. Excuse me. Yes, slavery is actually still legal in America. It's not just knowing that it exists in practice, but, according to the Thirteenth Amendment, there's an exception clause that says, ``except as punishment for a crime,'' which means, by law, slavery is still allowed. Mr. Tiffany. Have you noticed, is there, in the work that you've done, is there a greater impact with this, call it, overcriminalization--is there a greater impact on men versus women? Ms. Tylek. For sure. Ninety-Two percent of the prison population is men. So, undoubtedly, there is an impact from incarceration specifically, and most of those arrested are also men. However, women are carrying in many ways the actual cost of incarceration, literally fiscally. Eighty-seven percent of the cost of, for example, phone calls, visits, and court fees are actually covered by women. Mr. Tiffany. Mr. Purtill, do you accept that this has had a greater impact on men than women with this overcriminalization? Mr. Purtill. I do think that this is the case, and I do think the prison population bears that out. Mr. Tiffany. Can you give a couple of examples or give me something briefly that causes you to say that other than the statistic 92 percent? Mr. Purtill. It would cause me to say that overcriminalization has had a greater impact on men than women? Mr. Tiffany. Yes. Mr. Purtill. Really, I would kind of lean in on--unless you're saying that there's a higher degree of criminality between one sex or the other, I would think that there is the prison population probably bears some of that out. Mr. Tiffany. Mr. McLaughlin, have any recent Supreme Court decisions over the last decade been helpful in this? If you believe there's overcriminalization, have there been any Supreme Court decisions that have been helpful in reining that in? Mr. McLaughlin. One case comes to mind, but keep in mind I'm an economist, not an attorney. I do recall--in fact, I jotted down the name of the cases, Yates v. The United States, where a crime created by the Sarbanes-Oxley Act was applied in the case of a fishing boat. The captain of the boat destroyed evidence of keeping a fish that was too small to keep, but he was prosecuted under the Sarbanes-Oxley Act. That comes to mind as an example of using a crime that was created for one situation, financial fraud, and apply it somewhere else. Mr. Tiffany. Do you recall, ultimately, what penalty was that he paid for that? Mr. McLaughlin. Well, ultimately, the Supreme Court overruled under a way the prosecution. So, I don't believe there actually was any penalty. Mr. Tiffany. How do we fix this problem? Mr. McLaughlin. I would advise active review of both regulations and statutes to, first, find the stuff that's obviously outdated, obviously doesn't fit modern society. Also, I think you can address more serious things. One example I would point to for review of old things that we no longer want is the Base Realignment and Closure Commission. Mr. Biggs. The gentleman's time has expired, but you may finish your answer. Mr. McLaughlin. That might be an example to point to. Mr. Biggs. I interrupted you. Please finish. Please recite--please restate what you were saying. Mr. McLaughlin. I was saying one example of government reform, where we looked back on things that we didn't want anymore and tried to figure out what could we get rid of, was the Base Realignment and Closure Commissions. Mr. Biggs. OK. Mr. McLaughlin. A similar approach might work here. Mr. Biggs. Thank you very much. Mr. Tiffany. I yield back, Mr. Chair. Mr. Biggs. Thank you, Mr. Tiffany. The Chair recognizes the Ranking Member from New York, Mr. Nadler. Mr. Nadler. Thank you, Mr. Chair. Ms. Tylek, you launched the Corrections Accountability Project at the Urban Justice Center. As I understand it, the goal was to eliminate the influence of commercial interests on the criminal justice system and those it touches. Could you explain the various ways in which the criminal justice system has been financially exploited? Ms. Tylek. Absolutely. Thank you. The Corrections Accountability Project is a predecessor to Worth Rises. I think one of the ways to think about it is the ways in which the prison industry is both working in tandem with the correctional system, but also at times exploiting the correctional system for its own gains. So, what we see is a massive industry that has been built, and oftentimes, sometimes in conflict with the correctional system. So, a correctional system that wants to provide care with correctional healthcare companies that are actually cutting costs dramatically and, in many ways, harming people significantly inside of prisons and jails. So, that's just one example. There is a really broad industry here that has leached its way onto our carceral system. Mr. Nadler. So, you believe that the prison industry has come to depend on stripping people of their liberty? Ms. Tylek. Absolutely. In fact, if you take the biggest example, right, the private prison operators that are actually publicly traded, they have minimum occupancy guarantees embedded in their contracts with agencies that are 80 percent, 90 percent requiring all their beds, or 80-90 percent of their beds to be filled. So, there's no doubt that they have an interest in putting more people behind bars. Mr. Nadler. Do you believe the prison, the private prison industry should be abolished? Ms. Tylek. Absolutely. There is no world that we can have a just system where people are profiting off of putting people in prisons and jails. There's only two ways for a business to make money. My career before what I do today was on Wall Street and I worked at Goldman Sachs, the Morgan Stanleys, and the Citigroups of the world. There's two ways you make money. You either increase revenue, which for the prison industry means more bodies behind bars for longer, or you cut costs, expenses, which means, basically, worse quality in care. Mr. Nadler. How does the prison industry increase, work to increase the number of prisoners? Ms. Tylek. They lobby and they give campaign financing donations to those who are interested in tough-on-crime laws. They have done that extensively. Mr. Nadler. Now, thank you. Approximately 68 million Americans have a criminal record. We are aware of the direct costs of law enforcement, prison, and courts, as well as the cost of businesses and the economy. Can you discuss the cost to the individual of having a criminal record? How does it impact their quality of life and their ability to contribute to society and the overall economy? Ms. Tylek. So, there are all--45,000 collateral consequences to being incarcerated. These just having a criminal conviction generally--these collateral consequences can impact your ability to get housing or access public assistance. As was mentioned, it can impact your ability to get a professional license, which can hinder your future income. In fact, when people are incarcerated, their families immediately see a decline in income of 22 percent, and even when they come home, income is depressed by 15 percent after incarceration. What that does is hinder their ability to grow economically up the ladder, and not just for them, but also their families. Mr. Nadler. Is there a correlation between collateral consequences that hinder the reintegration into society of offenders and recidivism rates? Ms. Tylek. Absolutely. As I said earlier, there's no way to think about a world in which you're creating more crime, creating more collateral consequences, creating a situation when people have less economic opportunity, and expecting them to be able to exist in this society productively, right? At the end of the day, people will do what they need to do to make ends meet--to eat, to find a place to sleep, right? We are seeing these cases of people who have nowhere else to turn but sleeping on the street and those becoming criminalized behaviors. Mr. Nadler. Finally, what needs to be done to improve reentry outcomes? Ms. Tylek. We need to invest in community support. The reality is that prisons were not meant for care, and that if we really want to address the social ills that lead to criminal behavior, we need to provide support and fund that support in community. Mr. Nadler. Thank you. Last, you said there were 32,000 consequences? Ms. Tylek. Forty-five thousand. Mr. Nadler. How do you measure? Where do you get that statistic? Where is the number-- Ms. Tylek. There's actually a data base, partially, where BJA is actually involved, where they have measured the number of collateral consequences across States. So, that's consequences at the Federal level, as well as consequences in every State, for having a criminal conviction. Mr. Nadler. So, there are 45,000 possible consequences to an individual? Ms. Tylek. Yes, to having a criminal conviction. Mr. Nadler. Thank you very much. I yield back, Mr. Chair. Mr. Biggs. The gentleman's time has expired. The Chair now recognizes the gentleman from South Carolina, Mr. Fry. Mr. Fry. Thank you, Mr. Chair. Thank you for having this hearing today. Mr. Tolman, in your testimony earlier you mentioned a few reasons why overcriminalization is a problem. You said that the average American commits three felonies a day without even knowing it. What are some of those examples? Mr. Tolman. Well, the crimes on the books right now there are many that are almost laughable. Federal crime to write a check for under a dollar, for example. I personally had a case in which a father and son were cold and didn't think they would make it out of the wilderness, and they cut up a park bench and burned it to stay warm and they were charged and put in jail. So, it's examples like that we could go through. Those would be the low-hanging easy fruit for Congress to get rid of many of those laws. Mr. Fry. My understanding is one of them is to sell malt liquor labeled as pre-war strength. Mr. Tolman. Yes. Mr. Fry. What is that about? Mr. Tolman. Yes. The liquor business is very, very serious. You can't label it. When they were regulating it very, very tightly then, there were issues with how they would be labeled to not falsely advertise the contents and you develop the bottled in bond laws, which required certain levels of alcohol. Those are still in the books. Mr. Fry. So, the good stuff was the pre-war stuff? Mr. Tolman. That's right. Mr. Fry. Just to be clear. You also spoke that the current DOJ is choosing to throw away the rule of law when they attack political enemies. Can you talk about that a little bit and give me some examples of how that's happening? Mr. Tolman. It is a more recent development. There's always been at times pressures. When I was a U.S. Attorney, I received a phone call from a Member of Congress to investigate his political opponent and I indicated that I would not and that if he had a claim that he should submit it to the FBI. I think there are good well-meaning individuals that try to make those good decisions. There's no question you cannot simultaneously proliferate the laws and expand the power of the prosecutor and at the same time expand immunity protection. You can't take away accountability and give them more power and not expect abuse to come as a result. Mr. Fry. Mr. Tolman, I think it's interesting prosecutor abuse happens. It's happened for years. You look in the case of politics, you look at Senator Ted Stevens, as an example several years ago. To me it seems to be much more in your face than it has ever been before. Would you agree with that? Mr. Tolman. I would agree with that. Mr. Fry. The prime example would probably be the prosecution of President Trump under Federal law and, quite frankly, under State law, too. Mr. Tolman. Well, you have a prosecution going on right now that individuals on both sides of the aisle have commented on the lack of evidence, the inapplicability of the law, the attempt to manipulate the facts to go after. Whether you like him or don't like President Trump it should be concerning that a prosecutor would be able to manipulate their way into the courtroom against a political opponent. Mr. Fry. Right. I'm going to switch gears on you again. You mentioned several examples--writing a check, the pre-war stuff, pre-war liquor. How can we or even Federal agencies start to rein in this growth, quite frankly, in the administrative side? How can we do that? Mr. Tolman. I think there are plenty of professors, advocates, groups, even, Right on Crime, the organization I'm with, or many of the other organizations here that would be willing to lend a hand to identify the criminal statutes and the criminal regulations that are outdated and could very easily be taken off the books and that process should begin and it should be maintained. So, you should continually be doing that as we move forward. Otherwise, we're just collecting, compiling, and bloating our Criminal Code. Mr. Fry. Thank you. Mr. McLaughlin, I want to turn to you. The expansion of our Federal criminal laws encroaching on areas traditionally governed by the States, creating constitutional tensions, redundancies in statutes. Prior to Congress I served in the General Assembly of South Carolina, and I want to make sure that Federal laws don't really over complicate efforts that are happening on the State and local level. Can you talk a little bit about how Federal regulations are affecting State economies and local businesses? Mr. McLaughlin. Yes, thank you. It's a subtle effect in the work that I've done. Generally speaking, there's not a single regulation that will put a business out of business, but it's the death by 10,000 cuts sort of effect or, in this case, over a million cuts. So, I found that as Federal regulation accumulates over time it slows down investments in new ideas and then it slows down innovation and that ultimately makes businesses suffer because they can't put out new products, can't employ more people. There's all sorts of consequences all the way down the line. Mr. Fry. So, death by a thousand cuts, the straw that broke the camel's back. These are the things that local businesses are facing every single day from the growth of the Federal regulatory overreach. Mr. McLaughlin. Absolutely. Mr. Biggs. The gentleman's time has expired. Mr. Fry. Thank you, Mr. Chair. I yield back. Mr. Biggs. The gentleman yields back. The Chair recognizes the gentleman from Georgia, Mr. Johnson. Mr. Johnson. Thank you, Mr. Chair. Mr. Purcell, the Mercatus Center was founded and is funded by the Koch Family Foundation. Isn't that correct? Mr. McLaughlin. Is that for me, sir? Mr. Johnson. Well, Mr. Purcell, you're with the Mercatus Institute also, correct? Mr. Purtill. No, sir. Mr. Johnson. Just you, Mr. McLaughlin? Mr. McLaughlin. I am with the Mercatus Center. Yes, sir. Mr. Johnson. You are familiar with the fact that the Mercatus Center was founded and funded by the Koch Family Foundation? Mr. McLaughlin. It was funded long before--excuse me, founded long before I was employed there. I'm not privy to the details of the founding. I'm not privy to the details of the funding. Mr. Johnson. So, you don't know anything about the Koch brothers then? Mr. McLaughlin. I probably know less than you, sir. Mr. Johnson. Gosh, you're really putting me on a pedestal there. You probably have superior knowledge. You're just being modest. Mr. Tolman, your organization Right on Crime is also Koch brothers funded. Isn't that correct? Mr. Tolman. We have a number of funders. So, one of-- Mr. Johnson. The Koch brothers are one of them, correct? Mr. Tolman. One of them is also the Just Trust and-- Mr. Johnson. Has actually funded you at the rate of about $5 million. Isn't that correct? Mr. Tolman. I don't have those numbers. Mr. Johnson. Then you come, and you make the case against Alvin Bragg for prosecuting Donald Trump and you also served as a pardon broker during the waning days of the Trump Administration when pardons were being dispensed as if they had been paid for, correct? Mr. Tolman. No, that's not correct. Mr. Johnson. About-- Mr. Tolman. That's not correct. I am very, very proud--I was an attorney and I represented individuals who were deserving of clemency, and I represented many and wish that we would have been able to get many through. Clemency--those last days were not the way clemency should be run and I-- Mr. Johnson. This is not about pardons. I don't want to get bogged down on pay to play. I do want to commend the Koch brothers for having an interest in criminal justice reform. They're to be commended for that. I wonder whether or not they are looking down the line about perhaps being more involved in the privatization of the prison industrial complex. We spend about $80 billion to incarcerate--$80 billion dollars annually to incarcerate 2.2 million people. Ms. Tylek, can you give us--I'm wondering whether or not Koch brothers is interested in criminal justice reform because at some point they see dollar signs about privatization of the criminal justice system just as they have supported the civil justice system privatization with forced arbitration. Can you comment on that for us, Ms. Tylek, please? Ms. Tylek. Sure. Well, I definitely don't want to ascribe intention to anyone I don't know and so I can't say for certain what their long-term plans are. What I can say is that it's not uncommon for people in this space to get into and invest in this industry with other long- term plans. There was a mention earlier of the school to prison pipeline. We actually recently found that there are people interested in the prison to nursing home pipeline and looking at ways to invest in correctional healthcare because they already own nursing homes on the outside. That said, I will give one nod and say that Americans for Prosperity, which is one of the Kochs' sorts of nonprofit organizations, does actually support the end to the prison telecom industry. Mr. Johnson. That industry, by the way, generates--gosh, I don't know how many-- Ms. Tylek. It's $1.4 billion, just telecom. Mr. Johnson. The $1.4 billion, sipping off the backs of inmates' relatives who are seeking to communicate with their loved ones. How about how medical care and food for the inmates come into play in terms of privatization? Ms. Tylek. I think in our time I want to really specifically address healthcare because healthcare in prisons and jails right now is under attack. It has been completely in many cases privatized and one of the most egregious examples of bankruptcy fraud and some things happening currently is Corizon's bankruptcy. So, for those who aren't aware Corizon-- Mr. Biggs. Time is expired but you may continue your answer. Ms. Tylek. I'll just say really quickly Corizon is a major correctional healthcare company that was saddled with over a billion dollars in lawsuits and settlements and they separated the company into two. Gave one half all the liabilities, the other half all the assets, and then they bankrupted the liabilities and all the families who lost their loved ones. Mr. Johnson. Kind of like the Sackler family. Mr. Biggs. The gentleman's time has expired. The Chair now recognizes the gentleman from Alabama, Mr. Moore. Mr. Moore. Thank you, Mr. Chair. Mr. Tolman, I have a friend who was an Assistant Attorney General in Alabama and he actually told me you can go in a Publix grocery store and lock the door and charge every single citizen in there with some kind of crime if you were looking to do so. So, how does the overwhelming expansion of the Federal criminal laws now affect ordinary citizens' ability to abide by the law? Mr. Tolman. When I when I was a U.S. Attorney, I used to tell people that--give me a person or a company and give me just anytime in their books, in their documents, or in their affairs, and I could find a crime that we could apply. That's how confident I was as a prosecutor that the expansion was so robust, and it is no coincidence we have one in three Americans with a criminal history, whether arrest or conviction, and those two are connected--inextricably connected with the expansion of our criminal laws and then the failure to rein in any prosecutorial abuse of it. Mr. Moore. I think Mr. Purtill hit on a point in his opening testimony about how we have got to have trust in the justice system within this country. That undermines our entire ability to be a Nation of laws. So, when I was doing our town halls in August 2021 the No. 1 concern of the citizens that I spoke with was the weaponization of the government against them and, of course, we recently hired a bunch of IRS agents--I think 87,000 new IRS agents. Those are the kind of things to me that just send the wrong signal of what we need to be doing as a Nation. So, Dr. McLaughlin, I wanedt to talk a little bit about regulatory. I was a small business owner and it seemed like every day I was either doing--well, I can remember one day specifically I was dealing with the IRS, the DOT, and the EPA, just trying to run a small business. One of my favorite quotes is Ronald Reagan said, If it moves, tax it. If it keeps moving, regulate it. And if it stops moving, subsidize it . . . . So, Dr. McLaughlin, could you elaborate a little bit on the regulations and how that impacts small business and even our economy? I know you talked a little bit about it earlier. That's part of the thing we have not really talked a lot about today. We talked a little bit about criminal but certainly regulatory--the impact on the economy itself. Could you elaborate a little bit on it? Mr. McLaughlin. Absolutely. Thank you. My career has built up, first, a way of measuring how much regulation there is and how many crimes there are. Because we have these metrics we can measure it. We can see what the effects on small businesses, the economy overall. So, one study that I published a few years ago was looking at small businesses, in particular. They found that they get overwhelmed when there's a bunch of regulations created all at once and the thing I want to point out--this is not surprising, right. All businesses must deal with these costs. It's worse for small businesses than large businesses. Large businesses are able to absorb all those costs at once whereas small businesses founder. Mr. Moore. Yes. Certainly, like you said, the small business owner doesn't have all the attorneys. He didn't have the team of lobbyists, whatever the case may be, to try to work through that process. Mr. Purtill, I remember when I was first elected to Congress, I was sworn in 2021, and I was getting on an airplane all the time. It said Federal law requires that you wear a mask and I didn't remember voting on that. So, very often it seems like to me there's a lot of regulatory or a lot of things, supposedly law, that are put on the books by agencies, if you will. Could you elaborate a little bit on what that impact has on the American citizen itself? We can't keep up, obviously. Mr. Purtill. Right, and I think that's the real problem because it means that as a free people, we can't even know what the laws are so we can't even comply with them. So, it really undermines that trust and faith in the law. When you've got hundreds of thousands of regulations that are out there that carry a criminal penalty and, as Mr. Tolman pointed out, some of them are just kind of comical. Some of them are contradictory so that you can literally--no matter what you do you could be prosecuted for a crime because criminalized both sides of the behavior, so to speak. I think with the regulatory--I think a lot of this is, frankly, there's so much congressional authority has been delegated to the executive branch and independent agencies that it's a real challenge and I think better guidance on what they can do with that authority when Congress delegates it would be good and Congress pulling that authority back in more often would be very good as well. Mr. Moore. How does the faith and family or Faith and Freedom Coalition view the moral aspects of criminalizing trivial and inadvertent actions? How do you all view that? Mr. Purtill. Right. No, that's absolutely wrong. Criminal sanctions are one of the most powerful forms--one of the most incredible powers that we give to government. The fact that we can take life or liberty from someone and trivializing that harms the family, it harms our communities, it overburdens the taxpayers, and it's not necessary for public safety. Mr. Moore. Thank you, Mr. Chair. I yield back. Mr. Biggs. The gentleman yields. The Chair recognizes now the gentlelady from Pennsylvania, Ms. Dean. Ms. Dean. Thank you, Chair Biggs--thank you, Ranking Member Jackson Lee, for convening this hearing and I thank all of you for being here and sharing with us your expertise and your ideas. I wanted to focus on a particular area of criminalization or over criminalization and I'll relate it to an experience I had just recently the last few weeks. I met with the Secretary of Corrections for Pennsylvania. Her last name is Harry from our Department of Corrections. She shared that in the facility she oversees a staggering percentage of inmates struggle with addiction and mental health challenges. This is not new to any of you--I know that. Just by her round estimates--this is not perfect data--70 percent struggle with substance use or addiction and anywhere between 15-35 percent mental illness--women and men. So, I raise that because it bears repeating. More than one in three people in our Federal prisons have a history of mental illness and probably two in three are struggling with some kind of an addiction. It's an important issue for me and my family. We have had folks who have struggled with addiction and are blessedly in recovery. Not everybody gets that. They are not incarcerated-- not everybody gets that. So, Ms. Tylek, I'd like to start with the facts that you used in your written testimony. Every three seconds someone in the United States is arrested, most often for low-level infractions including drug offenses, and those arrested are disproportionately Black, Brown, and poor. Thanks for grounding us in that reality. We have to continually say that. It tells us there's something skewed about what's going on with our carceral system. What has your work taught you about the connection between addiction and incarceration? Specifically, what impact does incarceration have on somebody struggling with addiction? Ms. Tylek. Thank you. So, addiction--drugs are actually the No. 1 arrested crime in the entire country so of all those crimes that we're talking about drugs is the center of everything and that is in part because of the failed war on drugs that we have seen over all these years and the reality that there is no way to incarcerate our way out of drug addiction. Drug addiction does, in many cases, have the dual diagnosis of mental health where people are trying to self-medicate and so you can't really separate drug addiction from the issue of mental health in many cases and over the last--since the 1950s, 1960s, we have completely deinstitutionalized all support for mental health, right, and so as a result we have 350,000 people who are incarcerated today with a serious mental illness, not just a history of mental illness. So, what we really need is we actually need a care approach to drug addiction. We need to be actually providing treatment and there is nothing about prisons--the way they are built, the way they are designed, the way they are financed, the way they are structured--that is meant to help deal with drug addiction. Those things need to happen in our community, and we need to be investing them through harm reduction and then, further, efforts to actually get people back to productivity. Ms. Dean. I completely agree with you, and we have to change the narrative on that. Mr. Tolman, drawing on your experience as a prosecutor, I'm sure you did work with many cases where the defendant suffered from addiction. I was reading something in your testimony on page 2. More and more individuals on both sides of the political aisle are recognizing that many of these low-level offenders are being given extremely long sentences in Federal prisons, sentences that too often do not match the gravity of the crimes committed. Take drug--I'm still quoting you--take drug offenses as an example. The Department of Justice is expected to use the hammer of mandatory minimum sentences to identify and take down kingpins at the high level and I'll end there by saying not an addict, a user, a small possession case. What do you see? Maybe from your own work in the criminal justice system what's the chances of a defendant's recovery when he or she--most often he--but he gets the hammer for a low level drug offense? Mr. Tolman. Well, thank you for the question. I think it's important--critically important that people understand that we are doing a disservice by lengthening the sentences on what is, in essence, low level drug cases and when I tell you that--I have a friend who was a prosecutor for 25 years. I asked him--Federal prosecutor--how many kingpins did you get in your 25 years. He said one, and yet he was applying mandatory minimums to low level distribution. Why? Because they can and the philosophy is that if you have the case, you're going to reward your prosecutors if they're being aggressive and they're prosecuting a lot of people. That's how they get pats on the back. So, that's the danger of over criminalization. Mr. Biggs. Your time has expired. Ms. Dean. The impact that has on the family of the incarcerated person and the future of the incarcerated person. Thank you. I yield back. Mr. Biggs. Thank you. The gentlelady yields back. The Chair recognizes now the gentlelady from Florida, Ms. Lee. Ms. Lee. Mr. Tolman, I'd like to go back to a concept that you raised earlier that I think is one of the really broad ideas we need to focus on here today and that is that the advent of over criminalization empowers rogue or politically motivated prosecutors to identify a person or target to prosecute rather than bringing criminal prosecutions based on community needs, community safety, or the principles necessarily of fairness and equity and you raised a particular example that I believe is instructive and that is DA Alvin Bragg. I'd like to return to him for just a moment. Mr. Tolman, it is correct, is it not, that the case that Mr. Bragg brought against President Trump is actually predicated on a set of misdemeanors for which the statute of limitation has run? Mr. Tolman. Yes, that is correct. Ms. Lee. Would you agree, Mr. Tolman, that in fact that case is a good example of over criminalization leading to selective or what appears to be entirely politically motivated prosecution? Mr. Tolman. When they have so many tools at their disposal and the ability to manipulate them, that is what over criminalization ultimately leads to is the use of the criminal code for something other than administration of fairness and justice. Ms. Lee. Mr. Purtill, I'd like to return to testimony that you gave in your opening statement that referred to criminal conduct that was not inherently blameworthy--rather, the criminalization of conduct that wouldn't inherently be identified as wrong or blameworthy, and I'd like to discuss the concept of mens rea. How do you think we could use or integrate the concept of mens rea to ensure that this type of conduct to which you refer is not criminalized? Mr. Purtill. Well, thank you for the question. The concept of mens rea is critical. I think it was Oliver Wendell Holmes who said even a dog knows the difference between being tripped over and being kicked. That guilty mind element is a necessary component to take away life or liberty from someone. So, I think one of the things that can be done is really taking a look. Where this shows up more often than not is in the regulatory realm where either Congress has given vague or an ambiguous term to an agency and the ability to criminalize behavior, or an agency is stretching beyond a little bit--maybe a little beyond what Congress had intended it to be able to do. I think there was a bill a number of years ago that would have simply--if there was no mens rea in a Federal statute or a Federal regulation it would insert a default mens rea requirement into the regulation of the statute and I think that this would be a huge step forward by Congress. Ms. Lee. Dr. McLaughlin, I'd like to go back to the testimony you gave earlier as well. You used as an analogy the Base Realignment and Closure Commissions as a concept on how we might come at identifying all these regulations and all these things that we need to take account of and address as Congress. Would you go into some more detail there about your thoughts on how we might identify all these regulatory agencies who have acted with such overreach and diminish the amount of these purported crimes that are out there? Mr. McLaughlin. Sure, the BRAC Commissions was an example of--they put together a blue-ribbon panel of experts to look at what can we get rid of, where we need to keep what's essential. That's just one approach. I think another approach that we have seen be very effective in finding someone to go back and identify regulations that could be cut because they aren't accomplishing their purpose but they're creating harm is regulatory budgeting and this is where you put the agencies themselves on the task of finding old regulations that they've written and that they can get rid of. You say if you want to make a new regulation, great, go do your job. If you're going to do that get rid of something that's on the books that's been there for 30 years that you think isn't effective anymore. Ms. Lee. Then you mentioned also that you particularly utilize data and research and analysis in your work and in identifying where these problems might exist. Are there ways in which you think Congress could use the same types of tools to assist us in our work? Mr. McLaughlin. Sure. One easy example here is the dates when statutes and regulations were made and looking if they've been updated, especially regulations. I can run a computer program through the code of Federal regulations and find when each regulation was last updated. If something hasn't been updated in 20-40 years maybe it's time to get rid of it or at least look at whether it's time to get rid of it. Ms. Lee. Thank you, Mr. Chair. I yield back. Mr. Biggs. The gentlelady yields back. The Chair now recognizes the distinguished Ranking Member from Texas, Ms. Jackson Lee, for her five minutes. Ms. Jackson Lee. Let me thank you very much, Mr. Chair. You must have some uncanny sense of rightness or timeliness to hold this hearing on a day, as I indicated, every part of America seems to be focused on student protests, which we haven't had in a while. I can recall my years of campus activity, in particular, when it was extremely, how should I say, exercised, if you will. It was extremely active and engaged and students had any myriad of activity to be engaged in the war. Of course, the Vietnam War was certainly one of great height. What we call the Black Power movement was an important element, the whole issue of discrimination against minority students in particular, in this instance African-American students. There was a long litany, and these were legitimate grievances that individuals had. I am particularly grateful--I don't know, Mr. Tolman, whether or not we will have a new litany of offenses by the time we get out of this hearing. I hope not. I hope that we will not design more grievances Ms. Tylek and others were--our college students to be charged with. This is a perfect, how shall I say it, scenario of freedom of speech, protests. I can't imagine what else and hope there is no other litany of things that these students might be engaged in. They have the right for their expressions to be heard and I want to, for one, indicate that I support the freedom of speech, the freedom of the right to associate. The First Amendment is a wide, vast amendment that many people have misused. So, in any event, the Chair has certainly picked a very timely moment for these cases and I hope that we will be handling them appropriately, which I think is going to be most important. Let me quickly then try to ask questions quickly and go to you, Ms. Tylek, and hope for quick answers because you graduated from Harvard, one of the Nation's renowned universities that are grappling quietly, I guess, with their engagement. You led the Nation's first successful campaign to make jail phone calls free. I remember that case. I was here in the Judiciary Committee. It was an unbelievable expression of free speech. You are right, women carry the heavy burden of carrying forward this whole idea of the cost of being incarcerated in many different ways. Travel, bus fares, all that was excessive. So, I have a very quick question. How much were inmates required to pay for phone calls at that time and what other ways do corporations make money? If you could just do that very quickly. I have a series--I see where I am on the clock--I have a series of questions that you just might give me a brief scenario because I've got a series of other questions for other witnesses. Ms. Tylek. Very quickly, at the time in New York it was 50 cents for the first minute and five cents every minute after that. Throughout the country those calls can still run 25-50 cents, and even 75 cents a minute and that labor is not just-- that cost is not just physical, but it may be emotional labor. Ms. Jackson Lee. You could run up to--yes. You can run up to how much on that? Ms. Tylek. Today they still can run up to about 70-75 cents a minute in 2024. Ms. Jackson Lee. Would cost a hard-working, maybe hourly compensated person how much? What would they wind up--they're taking care of their children; they're taking care of their grandchildren. Ms. Tylek. We're talking about a few hundred dollars a month and for people who are incarcerated that are either making nothing or 9-15 cents an hour it can be hours' worth of labor before they can get a simple 15-minute call. Ms. Jackson Lee. So, what has been a hourly charge that our labor--what has been a meager offense may wind up bankrolling-- not bankrolling, you may wind up breaking your account, literally. Ms. Tylek. Absolutely. One in three families are going into debt over the cost of a simple phone call in 2024. Ms. Jackson Lee. Which leads to why am I being slapped more than once on the incarceration for a very low-level crime, if you will. If you can say that. Ms. Tylek. Why is my family being slapped in that case. Ms. Jackson Lee. For sure. Let me go to Mr. Tolman. There are many overlapping statutes in the Federal criminal code. For example, there are more than two dozen different false statement statutes, Chapter 47, Title 18, which is a famous title. There are also a number of fraud statutes and obstruction statutes. So, how could we reduce these of the statutes that overlap? I do want to just make a point. If you can answer that, I also want to say that my comments are not pointed to Mr. Bragg because it is in the judicial system and I'm going to allow the judicial system to work its will. I would like Mr. Tolman to be able to answer this question, please. Mr. Biggs. Yes, of course. The gentlelady's time has expired. Mr. Tolman, you may answer the question. Mr. Tolman. Thank you. There's no question that if we need to take current Federal statutes right now and we need to see the overlap. There are ways you can do that through programs that you can run. We absolutely, Congress should and advocacy groups should be looking very closely at the overlaps of these statutes because many of them can result in adding additional charges when you otherwise wouldn't, because as a prosecutor you wanted to make sure you had all the potential crimes at issue. So, then you get bloated indictments that have multiple and multiple counts in them when really they should be charged with what the heart of--or the essence of the crime is. Ms. Jackson Lee. Well, thank you very much. We want to do good in public service, not do bad and do ill. Thank you so very much. With that, I wish I had more time, but I thank the witnesses and I yield to you, Mr. Chair. Mr. Biggs. Thank you. The gentlelady yields back. So, I recognize myself for my questions. So, the first thing I want to just say is I appreciate the testimony. When I first got to Congress I thought we really need to do this, because in my law practice people said, ``why did you go into politics.'' I said, ``because most of my clients had been abused by just the regulations.'' So, let's see here. I'm going to ask all of you this question before and I want you to think about it because I appreciate all of you have produced in your documents and in your testimony today some reform movement that you think we should do. I want each one of you to give us the lowest-hanging fruit because that's always the easiest for Congress to do. As I like to say, I'm willing to do--it was the least I can do. I'm always happy to do the least I can do. So, that's kind of the Congress' attitude on this. We want to do that. So, I'm going to ask each of you to do that. In speaking to that, I also want us to focus on really what Congress can do because we have actually been derelict in our duty, in my opinion, and that's the problem and we need now to be active. I know that--you don't need--don't say the mens rea thing because we all agree on the mens rea thing. OK. So, we all--I need something else besides the mens rea issue, OK? So, Ms. Tylek, you had about 20 different reforms that you put in yours. So, if you can just give me your top one--your No. 1--that would be good. Ms. Tylek. I don't know if it's the lowest-hanging fruit, but I do think ending the exception of the Thirteenth Amendment is a critical step for our country and in the 250th Year Anniversary that's coming I would say that. Mr. Biggs. OK. You're right. That may not be the lowest- hanging fruit.  Ms. Tylek. OK. Make phone calls free in Federal prisons permanently. You already did it in the CARES Act. We can just make it a permanent policy. Mr. Biggs. OK. That may be the lowest-hanging fruit, but I'll take a look at your other proposal there. Thank you, Ms. Tylek. Mr. Tolman? Mr. Tolman. Thank you, Mr. Chair. I would very strongly urge--you've obviously talked about mens rea. Everybody understands that. That passage alone would be the largest band-aid until you could deregulate. So, I would then say deregulation and if you do have President Trump put in place if you're going to pass a regulation you've got to get rid of two, and whatever you think about it that was really good governance, and the Congress forcing the agencies to do that would probably be the most important thing they could do immediately. Mr. Biggs. Thank you. Dr. McLaughlin? Mr. McLaughlin. I agree with Mr. Tolman. Changing the incentives of regulatory agencies to review their own regulations--the old ones--to identify a duplication or a contradiction, and you could accomplish that through a regulatory budget such as the one in two-alpha (phonetic) or other means as well. I think that's the lowest-hanging fruit. Make agencies review their own rules and get rid of ones that aren't effective. Mr. Biggs. Thank you. Thank you, Doctor. Mr. Purtill? Mr. Purtill. I would associate myself with those so I will take a slightly different tack. I think there are a couple of bills before Congress right now that might really be interesting that do things to ameliorate for folks who are already incarcerated or reentering back into society some of the burdens that we have talked about here today. The first would be the Federal Prison Oversight Act, which came out of the Oversight Committee, I think maybe unanimously but overwhelmingly for sure bipartisan support. I think there's also a bill called the Safer Supervision Act which would help--before this Committee which would help incentivize moving folks who are compliant--who have served their term and are compliant with their terms of their release into society more quickly so we can focus on the more dangerous folks still within the system. The other would be the Clean Slate Act, which we mentioned--we were talking about the collateral--the host of collateral consequences that we have, that for lower-level offenders who have committed nonviolent crimes you would seal their record after they commit there--after they complete their sentence and complete their supervision without committing new crimes. You'd seal their records so that it'd be easier for them to get housed, to get licensure, to get a job, and things like that and reenter back into community. Once again, removing them out of the criminal justice system so that we can refocus our criminal justice system on the most dangerous. Really, I'd love to see something done with clearance rates which are really quite low. Mr. Biggs. Thank you. I'll just say that a couple things that I've thought of--I appreciate your suggestion that some of these things need to move to civil penalties, and I couldn't help but think of the Ranking Member's discussion of the explosion in Texas City--is that where it was? Texas City. There was no reason, quite frankly, in my mind for the Feds to get involved. You could have prosecuted the Execs who had overt violations of safety regs for manslaughter at least and you could also have facilitated civil rewards, which is actually really what you've needed when people are maimed or killed, in my opinion. So, that's one thing. The other one is maybe--and I'm really reticent to believe that bureaucratic institutions are going to give up their power base. I really don't think that's where they want to go. So, maybe Congress needs to every time--take a really good look at the rulemaking process because that's how these things occur. Second, maybe Congress, like we do with constitutionality, you have to put something on a bill that it's constitutional. You have to go in and say maybe whether you intend or don't intend for there to be some kind of criminal punishment involved with it as well. Just another thing for Congress to do. Anyway, I appreciate all the testimony. A lot to come out of this. I think this is actually a very complex issue that has some simple solutions in part before you that we need to take those first steps. So, I appreciate all your testimony today. Thank you, and with that, we are adjourned.  All materials submitted for the record by Members of the Sub- committee on Crime and Federal Government Surveillance can be found at: https://docs.house.gov/Committee/Calendar/ByEvent. aspx?EventID=117202.
+OVERREACH: AN EXAMINATION OF FEDERAL STATUTORY AND REGULATORY CRIMES
+----------
+Tuesday, April 30, 2024
+House of Representatives
+Subcommittee on Crime and Federal Government Surveillance
+Committee on the Judiciary
+Washington, DC
+The Subcommittee met, pursuant to notice, at 10:14 a.m., in
+Room 2141, Rayburn House Office Building, the Hon. Andy Biggs
+ presiding.
+Members present: Representatives Biggs, Jordan, Tiffany,
+Moore, Lee, Fry, Jackson Lee, Nadler, Dean, and Johnson.
+Mr. Biggs. Thank you. The Subcommittee on Crime and
+Government Surveillance will come to order. Without objection,
+the Chair is authorized to declare a recess at any time. We
+will begin today's hearing with the gentleman from Wisconsin
+leading us in the Pledge of Allegiance, Mr. Tiffany.
+All. I pledge allegiance to the Flag of the United States
+of America, and to the Republic for which it stands, one
+Nation, under God, indivisible, with liberty and justice for
+all.
+Mr. Biggs. We welcome everyone to today's hearing on
+Federal statutory and regulatory crimes. I will now recognize
+myself for an opening statement.
+I thank the Members who are here this morning. I thank our
+witnesses who are here, and I thank those in the gallery both
+here and on video. Today's hearing is titled ``Overreach: An
+Examination of Federal Statutory and Regulatory Crimes.'' We
+could have just as easily called it Oversight of Congress
+because in many respects Congress has created a problem that we
+are here to discuss today. The problem is the number of Federal
+and regulatory crimes has escalated out of control to the point
+that law-abiding Americans, unknowingly, commit several crimes
+every day.
+According to one study, the average American commits three
+felonies per day which does not take into account the
+overwhelming number of misdemeanors or civil violations. In
+some instances, the laws are so obscure and vague that even law
+enforcement and Federal agencies are unaware that they exist.
+The United States Code is estimated to contain more than 5,000
+crimes today. Just a decade ago, some scholars estimated that
+they were approximately 4,500 crimes and the fact that these
+numbers are just estimates underscores the severity of the
+problem.
+According to a study by the Federalist Society, the number
+of Federal criminal offenses increased by 30 percent between
+1980-2004. There were 452 new Federal criminal offenses enacted
+between 2000-2007, averaging 56.5 new crimes per year and over
+the past three decades Congress has been averaging 500 new
+crimes per decade. It is ironic, quite frankly, that tomorrow
+we are going to be considering more crimes in this Committee,
+the entire Committee of the Judiciary. We will be considering
+more potential crimes. Keep in mind the estimated 5,000
+criminal laws are not all neatly found in Title 18. They are
+scattered around the other 49 titles as well. The fact that
+this is only an estimate means that no one knows exactly how
+many Federal laws subject U.S. citizens to criminal sanction.
+That includes Congress, the Department of Justice, and other
+Federal agencies responsible for enforcing those laws, yet
+alone your ordinary American.
+How did we get here? After all, our Founding Fathers first
+enumerated Federal crimes in the Crimes Act of 1790. That act
+enumerated 23 Federal crimes and established the punishments
+for those crimes. Among other crimes, the Crimes Act of 1790
+established Federal crimes for treason, piracy, and
+counterfeiting. While the legislation did establish some crimes
+against the person, such as murder; and crimes against
+property, such as larceny, the Federal jurisdiction of those
+crimes was limited to Federal property and territories.
+Over the past century, Congress has lost its way. Instead
+of methodically and deliberatively crafting a common-sense
+criminal code, Congress acted in a knee-jerk reaction to every
+minor and major crisis. In doing so, Congress believed that
+there always had to be a Federal response to every headline and
+breaking news story. In fact, it was even--sometimes I get off
+script, sorry about that. If you think about it, if you look in
+the 1950s, you will see that there was a popular radio show.
+There was a popular newspaper article that said, ``There Ought
+To Be a Law.'' So, if you got the Reader's Digest, when I was a
+kid and you looked at it, every month or two there was some
+outrageous conduct, and the response was there ought to be a
+law. Of course, Congress responded and made many laws, some of
+them criminal in nature.
+One academic has aptly noted it was the State of bank
+robberies by John Dillinger in the 1930's that provoked passage
+of the Federal bank robbery statute. The kidnapping of the
+Lindbergh baby, about the same time, caused passage of the
+Federal statute on kidnapping. The assassination of President
+Kennedy in the early 1960s prompted the statute on Presidential
+assassination, and the killing of Senator Robert Kennedy in the
+late 1960s that resulted in the passage of a statute finally
+making it a Federal crime to kill a Member of Congress.
+More recently, we saw the enactment of Sarbanes-Oxley in
+response to the Enron scandal. All of us on this dais have
+witnessed this phenomenon among our colleagues. Some have
+termed this the accumulation approach to offenses whereby
+Congress has simply accumulated new offenses for 200 years or
+so with little examination or reformulation of existing
+offenses which has resulted in serious overlaps in coverage and
+irrationalities among offense penalties which create new
+possibilities for disparity and treatment of a double
+punishment for the same harm or evil. This leads to
+absurdities. For example, the Code of Federal Regulations makes
+it a Federal crime to try to sell a quarantined zebra while it
+is still in quarantine. In another example, 16 U.S.C. 703 and
+50 CFR Section 20.91(a) make it a Federal crime to offer to buy
+swan feathers for use in making a woman's hat.
+According to one scholar, the proliferation of crimes makes
+it extraordinarily difficult to ferret out the law applicable
+to a particular factual situation. It also creates unfairness
+within Federal law which provides Federal prosecutors with a
+near limitless menu to pursue criminal defendants. When
+Congress isn't creating new criminal code provisions, it is
+passing laws that allow unelected bureaucrats to write
+regulations that carry civil and criminal penalties. What we
+all too often forget is that many of the problems we seek to
+solve are actually State and local issues.
+Under the Federal system, the U.S. Supreme Court has
+observed that,
+States possess primary authority for defining and enforcing
+their criminal law.
+Also,
+Our national government is one of delegated powers alone. Under
+our Federal system, the administration of criminal justice
+rests with the States except as Congress acting within the
+scope of those delegated powers has created offenses against
+the United States.
+Congress has not relented and continues to add Federal crimes
+to our Federal code. Congress can and should restrain from
+over-legislating on issues that should be left to State and
+local governments.
+This hearing is an opportunity to examine potential
+legislation introduced in past Congresses to restrict Federal
+agencies' ability to criminalize conduct that a reasonable
+person would consider lawful.
+We have wonderful, excellent, expert witnesses today and I
+have read every one of your testimoneys that you have
+submitted. I think it is so important. I look forward to
+hearing what you have to say today. One of you has said,
+``every criminal record comes with a host of consequences that
+we rarely think about,'' and I am talking about the results of
+the overabundance of criminal offenses, but also with what
+happens to those who are charged and even convicted. These
+collateral consequences are legal and regulatory restrictions
+that limit or prohibit people convicted of crimes from
+accessing employment, business, occupational licensing,
+housing, voting, education, and other opportunities.
+Another view has said,
+The sheer quantity of Federal regulations on the books today
+would require about three years to read if reading was your
+full-time job.
+Another view said, and you quoted James Madison. I appreciated
+this from Federalist 62,
+It will be of little avail to the people if the laws be so
+voluminous that they cannot be read or so incoherent that they
+cannot be understood.
+The Congressional Research Service, the Justice Department, and
+the ABA have all tried and failed to count the Federal criminal
+laws, but we believe there may be around 4,000 existing Federal
+criminal laws, but even this massive number is dwarfed by
+incredibly high estimates that Americans are subjected to about
+300,000 Federal regulatory offenses.
+Also, the note that prosecutions, even politically inspired
+ones, are protected under the veil of legitimacy because of the
+overabundance of the criminal laws that we--that Congress keeps
+putting into place. Another pointed out that 50 percent of laws
+related to nonviolent and nondrug offenses lacked a mens rea
+requirement which is perhaps one of the easiest solutions we
+could put into effect immediately is a mens rea requirement.
+I look forward to hearing from each of our witnesses and
+with that, I yield back and recognize the distinguished Ranking
+Member, Ms. Jackson Lee, for her opening statement.
+Ms. Jackson Lee. Good morning, Mr. Chair. It is a pleasure
+to be with you this morning. This is more than a unique moment
+in history. We are having a hearing on the over-proliferation
+of the potential impossibility of over-Federalization of laws.
+We have both responsibility to keep this Nation safe and the
+responsibility to ensure that laws have common sense and that
+the common sense is used effectively to ensure that we have
+good governance. I think that is what we all want to see and
+hear. So, I am delighted to open with you the hearing on
+``Overreach: An Examination of Federal Statutory and Regulatory
+Crimes,'' this morning on April 30th.
+We could not open these hearings without taking special
+note of the conditions of this Nation, around the world, when
+Americans youth are speaking out in loud voices asking for
+guidance and help and assistance in trying to seek direction so
+that some of the oldest laws that are grounded in our
+Constitution, those rights are adhered to and respected. That
+is the respect for people's differences and the respect for
+people's words and as well, the respect for people's feelings.
+We cannot have a Nation of laws for which I believe is our
+greatest strength without understanding the passion for both
+our laws and the land that we love. We pledge allegiance to the
+flag. Thank you so very much, Mr. Chair, for that, because it
+gives us the grounding of this hearing.
+So, thank you, Chair Biggs, for convening this hearing to
+discuss the very real problem of overcriminalization. In more
+than a decade, the overcriminalization of Federal criminal law
+has been identified as a significant issue in our justice
+system. In 2014, the Congressional Research Service identified
+435 offenses having criminal penalties that were created
+between 2008-2013. That means Congress created nearly 90 new
+criminal offenses each year during that five-year period. This
+trend of expanding the scope of Federal crime statutes has
+resulted in an excess of ambiguous and broadly defined offenses
+leading to confusion among citizens and even legal
+professionals. The potential for individuals to unknowingly
+commit a crime due to the complexity and sheer volume of
+Federal laws only undermines the principles of justice and
+fairness, but also erodes public trust in the legal system.
+Additionally, the proliferation of Federal criminal laws
+has led to instances where individuals, particularly in
+marginalized communities, are unfairly targeted, prosecuted,
+and incarcerated for minor offenses that do not warrant such
+harsh punishment. This not only perpetuates social
+inequalities, but also strains an already overburdened prison
+system. It is crucial for Congress to reexamine and streamline
+the Federal criminal statutes to ensure that these laws are
+proportionate, clear, serve the Federal interest and promote
+the interests of justice and fairness. By focusing on
+meaningful and necessary criminal legislation, we can prevent
+further overcriminalization and safeguard the integrity of our
+legal system.
+Since the number of existing Federal regulations has
+mushroomed to more than roughly 300,000, we should also
+consider whether the criminalization of conduct that could be
+better addressed through civil means necessarily burdens the
+criminal justice system. However, we must also recognize the
+importance of these regulations that they are sometimes
+criminalized for good reason and that the criminal penalties
+often exists within a system that begins with administrative
+and civil tools that promote compliance and correction.
+Let us not forget that the purpose of prosecuting,
+punishing, and deterring future bad actors is to protect us
+from the harms contemplated by the Clean Air Act, the Clean
+Water Act, the Federal Food, Drug, and Cosmetics Act, and the
+Occupational Safety and Health Act. For instance, following an
+explosion at British Petroleum's Texas City refinery that
+killed 15 workers and injured another 180, BP pled guilty to
+knowing the violations of the Clean Air Act for its actions
+that led to the explosion and paid a $50 million criminal fine,
+the largest ever at the time under the CAA. An examination of
+the company's safety records showed that Texas City was not an
+isolated occurrence as the corporate culture had come to
+prioritize revenue over safety and maintenance.
+We have to learn, I believe, to match the punishment with
+the crime, of course, but we must also learn to understand the
+volume of criminalization and overcriminalization and we must
+learn to work through the crisis of overcriminalization. I look
+forward to hearing from our very astute witnesses today and
+engaging in what I hope will be a productive conversation.
+With that, Mr. Chair, I would like to reserve, but I will
+reserve and yield at the same time.
+Mr. Biggs. The gentlelady yields back. I understand that
+the Ranking Member is arriving.
+Ms. Jackson Lee. We are checking, yes.
+Mr. Biggs. We will pause for just a moment. The Chair
+recognizes the Ranking Member of the Full Committee, Mr.
+Nadler, for his opening statement.
+Mr. Nadler. Thank you, Mr. Chair, for convening this
+important hearing. Roughly a decade ago, we learned through
+this Committee's bipartisan Overcriminalization Task Force, of
+which I was a Member, that there are simply too many Federal
+criminal laws on the books, that the reach is often too broad,
+and that too many individuals are jailed for far too long
+because of them.
+For too long, Congress, under both parties, has created new
+offenses or extended existing laws in response to a national
+crisis, daily headlines, or highly publicized tragedies, often
+Federalizing crimes traditionally prosecuted by the States,
+without inquiring as to whether the Federal Government should
+be involved at all. Instead of playing politics and trying to
+prove who is toughest on crime, we should be doing more to
+prevent crime before it even happens. For instance, we could
+address substance abuse and mental health disorders, end the
+school-to-prison pipeline, cutoff the iron pipeline that
+funnels guns into major cities like New York and Philadelphia,
+or provide real solutions to the unhoused. Nonetheless, I am
+pleased that we have the opportunity to tackle the important
+subject of overcriminalization today which as long as it
+recognizes the major contributing factor to both mass
+incarceration and overpolicing in America. Let's be clear. This
+hearing should not be about Donald Trump or about the January
+6th rioters. The courts will decide whether they were properly
+charged. Nor should it serve as a platform to undermine the
+Federal regulations that keep us, our constituents, and our
+communities safe.
+While overcriminalization in the regulatory context is
+certainly cause for concern, we should remember that
+regulations ensure that we breathe clean air, drink clean
+water, consume safe food and medicines, and that our loved ones
+work in safe environments. This hearing should be about
+countless individuals, mostly Black, Brown, and poor, who for
+decades have borne the brunt of the overuse and abuse of
+criminal law in the Federal system. As the number of Federal
+criminal statutes has ballooned, overcriminalization has had
+wide-ranging negative impact on individuals who are at a social
+or economic disadvantage, whether by exploiting already
+existing disparities and access to legal resources, by leading
+to the increased surveillance and targeting of minority
+communities by law enforcement, or by driving mass
+incarceration. The Department of Justice, and particularly the
+Bureau of Prisons, continues to grapple with the cost of
+overcriminalization and mass incarceration, both fiscally and
+with respect to other resources such as manpower. That is why
+Congress should be working together to craft legislation that
+ensures that the resources of Federal agencies, Federal law
+enforcement, and Federal courts are used most effectively and
+not wasted on the enforcement of crimes that are better handled
+by the States.
+If we are to have a real discussion about the problems
+associated with overcriminalization and solutions, we must
+first recognize the many forms that overcriminalization takes
+in the Federal criminal justice system. It occurs most
+frequently through Federalizing crimes traditionally reserved
+for the states, adopting duplicative and overlapping statutes,
+enacting vague or broad criminal statutes and enacting criminal
+statutes that fail to set meaningful mens rea standards.
+Whether Republican or Democrat, we should all agree that the
+resulting broad expansion of Federal criminal law undermines
+any efforts to provide just and proportionate punishment for
+criminal conduct and lessens the legitimacy of the criminal
+justice system overall.
+It is vitally important that we rein in the growth of the
+Federal criminal code and ask whether all the laws on the books
+are truly necessary and whether they are accomplishing what
+should be their ultimate goal, the protection of the public
+safety. I look forward to hearing from our witnesses and before
+I yield back the balance of my time, I ask unanimous consent to
+enter into the record a written statement from Michael P.
+Heiskell, President of the National Association of Criminal
+Defense, an organization that has worked for more than a decade
+on the issue of overcriminalization.
+Mr. Biggs. Without objection.
+Mr. Nadler. Now, I yield back the balance of my time.
+Mr. Biggs. The gentleman yields back. I appreciate that.
+Without objection, all other opening statements will be
+included in the record and now it is now my pleasure to
+introduce today's witnesses.
+We have Patrick Purtill, who serves as the Director of
+Legislative Affairs at Faith and Freedom Coalition and is the
+Charles Evans Hughes Lecturer in Politics at Colgate
+University. Previously, he practiced law advising corporations
+on formation, transactions, corporate governance, and
+compliance issues. In the George W. Bush Administration, he
+spent three years as Special Assistant to Deputy Attorney
+General, where he served on the Serious and Violent Offender
+Reentry Initiative Working Group. We thank you for being with
+us today, Mr. Purtill.
+Dr. Patrick McLaughlin. Dr. McLaughlin is Director of
+Policy and Analytics and a Senior Research Fellow at the
+Mercatus Center at George Mason University. His research
+focuses primarily on regulations and the regulatory process.
+Dr. McLaughlin has authored more than a dozen peer-reviewed
+studies on topics such as regulatory economics, administrative
+law, industrial organization, and international trade. Thank
+you for being with us, Doctor.
+Mr. Brett Tolman. Mr. Tolman is the founder of the Tolman
+Group, a public policy law firm that works to hold Federal,
+State, and local governments accountable and advance
+transparency. He previously served as the United States
+Attorney for the District of Utah, and has testified before
+Congress multiple times on criminal justice issues including
+the First Step Act. Thank you, Mr. Tolman for being here.
+Ms. Bianca Tylek. Did I say that right? OK, thank you. Ms.
+Tylek is the founder and Executive Director of Worth Rises, a
+nonprofit organization that advocates for reform in the
+criminal justice system. She has previously worked at the
+Brennan Center for Justice and the ACLU and co-founded College
+Way, the program that worked to prepare students in Rikers
+Island to pursue higher education on their release. Thank you
+for being with us, Ms. Tylek.
+We welcome all our witnesses, and we will begin by swearing
+you in. If you would each, please rise and raise your right
+hand?
+Do you swear or affirm under penalty of perjury that the
+testimony you are about to give is true and correct to the best
+of your knowledge, information, and belief so help you God?
+Let the record reflect that each of the witnesses has
+answered in the affirmative. You may be seated. Please know
+that your written testimony will be entered into the record in
+its entirety. Accordingly, we ask that you summary your
+testimony in five minutes and if you get close, I will probably
+tap like this a little bit, not trying to break your flow, but
+just trying to let you know that you are near the end of your
+time. I mean your time for testimony. You might have all the
+time in the world. I don't know, but I just want to make clear
+of that.
+So, with that, Mr. Purtill, you may proceed.
+STATEMENT OF PATRICK PURTILL
+Mr. Purtill. Very good. Mr. Chair, Madam Ranking Member,
+the Members of the Committee, thank you for the opportunity to
+speak to you today on the topic of overcriminalization, its
+impact on our criminal justice system, and its impact on the
+rule of law. I commend the Committee for examining this
+important, but often overlooked issue.
+The power to punish is the greatest domestic power that the
+Government has the ability to take life, liberty, and property.
+As Government continues to grow exponentially, the number of
+acts and beliefs that it prohibits has continued to grow as
+well. The overcriminalization, the proliferation of laws is
+often--they are often in vague or ambiguous terms. They expand
+the scope of criminal behavior beyond reasonable limits. This
+proliferation has resulted in a regime of statutes that
+criminalize conduct previously considered innocuous or
+noncriminal. Consequently, individuals, including those with no
+intent to break the law, find themselves ensnared in a complex
+web of statutes and regulations that are difficult, if not
+possible, to navigate.
+It is illuminating to remember that at common law, there
+were only nine major felonies: Murder, robbery, arson, rape,
+for example, and various misdemeanors. Our Constitution itself
+only specified three felonies within the body of the document
+although, as the Chair pointed out, one of the first acts of
+Congress was to create another 23, I believe it was, certainly
+a number that was comprehensible. Today, we have got more than
+5,000 Federal crimes and there are so many rules and
+regulations with criminal consequence that no one is able to
+count them. A complete and systematic effort to count stops
+somewhere at--just North of 300,000 including the Federal
+regulations.
+This is one of the chief reasons that one in three
+Americans today has a criminal record of some sort and that
+many Americans, frankly, have lost faith and trust in the
+impartiality of the justice system and in the equal application
+of our laws. It can't be overstated how dangerous this loss of
+faith and trust in the justice system is for a democratic
+republic.
+So, why is this important? I think that overcriminalization
+is important for several key reasons. First, is that it enables
+the proliferation of criminal laws tilts the playing field too
+far in favor of the prosecutor. It has effectively undermined
+the Sixth Amendment right to a jury trial. According to the
+American Bar Association, 98 percent of criminal cases in
+Federal court end with a plea and there is substantial evidence
+that innocent people are coerced into guilty pleas because of
+the power that the prosecutors have over them.
+Now, I should pause for a moment to say I think prosecutors
+are trying to do a good job. They are an integral part of our
+system in protecting public safety, so I don't mean this to be
+an overt attack on them. I think that this is the nature of the
+problem when you have these many criminal statutes. You are
+going to have this happen. Too many laws make overcharging or
+charge stacking one of the most common tools used by Federal
+prosecutors which is why trials have become essentially just
+rare artifacts. Overcharging can be used not only to force a
+plea deal, but it can also if you do decide to exercise your
+Sixth Amendment and go to trial, overcharging also can
+influence the jury into thinking that well, there are so many
+charges, one of these must be accurate. So, you can see
+situations where defendants are acquitted on a number of
+charges, but sometimes juries feel like they have to come back
+with a guilty charge on something just because there were so
+many charges to begin with.
+So many criminal laws make it impossible for an ordinary
+citizen or probably anyone for that matter, as you noted that
+it would take three years to simply read through all the
+criminal statutes and regulations on the books today, but that
+means that ordinary citizens can't actually know what the law
+is. The legal maxim used to be that ignorance of the law is no
+excuse and this made sense when we had nine felonies at common
+law. Those felonies were inherently blameworthy. Everyone
+understands that murder is wrong. You don't need to know that
+someone passed a statute criminalizing murder to know that it
+is wrong. They were inherently blameworthy offenses, but if a
+free citizen cannot be certain that they are in compliance with
+the law, the problem is with the overly complicated legal
+regime. It is not with the citizenry. It is because we are
+criminalizing actions and beliefs that are not inherently
+blameworthy.
+When you add this to the way that we go about charging now
+and indicting, a New York Judge, Sol Wachtler, famously
+observed years ago that if a District Attorney wanted, a Grand
+Jury would indict a ham sandwich. The simple truth is that the
+mass of Federal criminal laws and regulations makes this easier
+and makes every American a potential criminal. Rather than
+seeing a crime and then investigating to find the perpetrator,
+the staggering labyrinth of criminal statutes and regulations
+means you can identify an individual for prosecution and dig
+until you find some rule that they have violated.
+Mr. Biggs. You are over your time limit.
+Mr. Purtill. I am sorry. I will stop there, but the only
+other thing I would say if you did mention this comes with a
+host of collateral consequences and I think that the real
+danger in why I think it is important what you are doing here
+today is the real danger is it undermines the public confidence
+in the fair application of the law. That is truly a dangerous
+situation to be in. So, I commend you for having this hearing.
+
+
+Mr. Biggs. Thank you, Mr. Purtill. Now, I recognize Dr.
+McLaughlin for your five minutes.
+STATEMENT OF PATRICK McLAUGHLIN
+Mr. McLaughlin. Thank you.
+Chair Biggs, Ranking Member Nader, and Ranking Member
+Jackson Lee, the Members of the Committee, I'm Patrick
+McLaughlin, a Senior Research Fellow at the Mercatus Center at
+George Mason University, and Mercatus Center is a nonprofit,
+nonpartisan research center dedicated to bridging the gap
+between academic ideas and real-world problems. Thanks again
+for inviting me here to testify today.
+For more than a decade, I have specialized in using
+computer algorithms to quantify various aspects of accumulated
+laws and regulations. I learned early on in my career that it
+would be impossible for any human to read the entirety of
+Federal laws and regulations. So, I devised computational
+solutions instead.
+Some of my work on regulatory accumulation has demonstrated
+how the buildup of rules over time significantly slows economic
+growth, but I have also studied the accumulation of crimes, as
+defined in the U.S. Code. On that topic, I have three main
+points today.
+First, there has been a significant increase in the number
+of Federal criminal statutes and regulations over the past
+three decades.
+Second, the expansion of Federal criminal laws over the
+past few decades has been linked to an increase in Federal
+incarceration rates.
+Third, the haphazard expansion of Federal crimes may
+duplicate State laws or existing Federal laws, resulting in
+redundant crimes.
+A few years ago, I worked on a project that used some of
+these advanced computer algorithms to create an inventory of
+criminal laws within the U.S. Code. Using a carefully
+cultivated set of search terms, such as the phrases
+``imprisoned for not more than'' or ``shall be guilty of,'' we
+were able to estimate not only how many crimes Congress has
+written into the U.S. Code as of 2019, but also how that number
+has changed over time.
+Our work revealed a significant increase in the number of
+Federal criminal statutes over the past three decades. We
+estimated that 3,825 Federal crimes were on the books as of
+1994. By the year 2019, that number had increased by more than
+a third to 5,199.
+Interestingly, more than half of the total growth in that
+entire 22-year period that we studied occurred between 1994-
+1996. This matched our expectations, because a tough-on-crime
+agenda played a significant part in politics in the 1980s
+through the mid-1990s.
+I recently ran the same algorithm on the Code of Federal
+Regulations to estimate the crimes that are defined in Federal
+regulations. I estimate that an additional 2,157-2,876 crimes
+are defined in similar ways as in the U.S. Code within the Code
+of Federal Regulations as of 2023.
+Now, the number 300,000 has also been used in this hearing,
+and I will just point out that I'm using the same algorithms to
+look for these search terms that we devised by looking through
+the statutes and applying it to the CFR, to the regulations.
+So, my number is probably on the floor, probably not the
+ceiling. Anyway, that means the total number of crimes defined
+across Federal laws, including both statutes and regulations,
+likely falls at least in the 7,000-8,000 range.
+Now, a longstanding criticism of the haphazard expansion of
+Federal crimes is that new Federal criminal laws may duplicate
+State laws or existing Federal laws in a patchwork of redundant
+crimes. This duplication has a number of downsides.
+It erodes principles of federalism by having Federal
+authorities police conduct that has been traditionally viewed
+as better left to State and local governments.
+This duplication also dilutes political accountability
+because the public is not able to discern who has primary
+authority for addressing a particular crime or whom to blame if
+a crime is not addressed.
+Finally, duplicative Federal crimes give prosecutors wide
+latitude to charge different people committing the same
+offenses with different crimes--opening the door for bias to
+factor into charging decisions.
+The U.S. has the highest incarceration rate of any country
+in the world, and that rate seems obviously linked to the
+number of crimes defined in law. The number of Federal prison
+inmates alone has risen by 500 percent since 1980. Any action
+by Congress to reduce the number of duplicative or otherwise
+undesirable crimes could only serve the reduce that
+incarceration rate.
+The accumulation of laws and regulations, and the crimes
+that are defined within them, should not be assumed to be
+harmless. The U.S. needs legislative reforms to simplify
+Federal laws and regulations, period. Such reforms could
+involve reducing the number of Federal crimes, clarifying the
+language of statutes, and considering decriminalization or the
+use of civil penalties for certain offenses to alleviate the
+burden on the criminal justice system.
+Reforms like these are crucial to ensuring that laws are
+fair, just, and proportionate to the behaviors they aim to
+regulate, safeguarding against the negative consequences of
+overcriminalization.
+Thank you again for inviting me here today to discuss this
+important topic.
+
+
+Mr. Biggs. Thank you, Dr. McLaughlin.
+Ms. Tylek, we recognize you now for your five minutes.
+You might need to hit that microphone button, please. Thank
+you.
+STATEMENT OF BIANCA TYLEK
+Ms. Tylek. Sorry. There we go. Thank you. Good morning,
+Chair Biggs, Ranking Member Jackson Lee, and the Members of the
+Committee.
+I am Bianca Tylek, Executive Director of Worth Rises, a
+national organization working to remove the financial
+incentives to incarcerate people. I am also a crime victim and
+have had a loved one who has been murdered.
+Thank you for the opportunity to appear before you to
+discuss the issue of overcriminalization. We all want safe and
+thriving communities and we can get there by working together.
+While the others on this panel are and will continue to
+speak about some of the legal specifics of overreach in the
+Criminal Code, I will cover--which I also cover in my written
+testimony--I will focus my comments today on the impact that
+Federal overcriminalization has on the American people.
+To start, any discussion of overcriminalization at the
+Federal level must reflect on the significant influence it has
+over State policies, especially when funding is attached. This
+was the case throughout the 1990s and 2000s, when Congress
+provided Federal funding for prison construction to States that
+enacted tough-on-crimes laws, like mandatory minimums.
+Unfortunately, today, Federal programs like civil asset
+forfeiture continue to root the issue of Federal
+overcriminalization in State and local budgetary policy. As a
+result of overcriminalization at the Federal and State level,
+someone is arrested every three seconds in the United States.
+This amounts to 10\1/2\ million arrests annually, with over 80
+percent for low-level offenses like drugs and disorderly
+conduct. Those arrested are disproportionately Black and Brown
+and low-income people--leading to the overincarceration and
+oversurveillance of these communities.
+Core to the overcriminalization crisis is that even
+committing a minor offense can impart a lifetime of negative
+consequences. A simple arrest can lead to job loss, while a
+criminal conviction--and, worse yet, incarceration--can
+threaten the financial stability and economic mobility of the
+person convicted and their family for years, even generations
+to come.
+Consider that, roughly, 57 percent of people in Federal
+prison are the parents of minor children, and more than half
+were the primary breadwinners for their families before they
+were incarcerated. Though most incarcerated people in prison
+work, their penny wages prevent them from sending anything
+home. So, unsurpris-ingly, about half of families with an
+incarcerated loved one struggle to make ends meet.
+It's not just the loss of income at issue, but families end
+up with new egregious expenses for basic food and hygiene
+products and communication services for their incarcerated
+loved ones.
+To make matters worse, funds deposited by families for
+their incarcerated loved ones can be garnished for court fines
+and fees. The Federal Bureau of Prisons recently sought to
+garnish as much as 75 percent of what families deposited.
+Thankfully, Congress has recently created some relief. For
+decades, one in three families with an incarcerated loved one
+has gone into debt trying to stay connected over expensive
+calls. Some cutoff contact, unable to afford it, which is
+detrimental to correctional officers and public safety--with
+studies repeatedly showing that, when incarcerated people are
+connected to their support systems, facility violence decreases
+and reentry success increases.
+Congress passed the Martha Wright-Reed Just and Reasonable
+Communications Act to increase regulation of the prison telecom
+industry and made all calls free in Federal prisons through the
+CARES Act, a policy I urge Congress to implement permanently.
+For too long, women like Martha Wright-Reed, who skipped
+medication to afford calls with her grandson in Federal prison,
+have carried the cost of overcriminalization. Indeed, over 80
+percent of carceral costs, like the cost of calls, commissary,
+and court fees, are borne by women, largely Black and Brown
+women.
+See, the issue of overcriminalization is not just about
+criminal justice. It's about gender equity, children's health,
+family unity, economic justice, and more that we don't have the
+time to talk about today, like privacy rights and regressive
+taxes. The intersection of these issues--all or one of which
+may matter to you--should bring us collectively to the table to
+address them.
+Importantly, overcriminalization does not just impact those
+arrested and sentenced, but all of us. Overcriminalization
+dramatically hinders public safety by exacerbating the social
+conditions that lead to crime in the first place. In doing so,
+it lines the pockets of the $80 billion niche prison industry
+with a deep financial interest in the overcriminalization of
+Americans.
+In fact, major players in the prison industry have plainly
+stated that declining crime rates, which improve our safety,
+hurt their business. An industry so offensive that it cannot
+advertise uses public fearmongering to hide its interests and
+boost its business. A huge reason for overcriminalization, the
+prison industry is an impediment to passing smart policies that
+promote safety, freedom, and justice, and we must put an end to
+it.
+In closing, I would be remiss not to mention that the roots
+of overcriminalization, and even the prison industry, date back
+to the exception in the Thirteenth Amendment which gave way for
+the passage of Black Codes during the Reconstruction Era that
+applied only to newly freed Black people and criminalized minor
+offenses, like vagrancy, to feed the brutal practice of convict
+leasing, by which states leased incarcerated people to private
+businesses.
+More than a century later, slavery is still legal as
+criminal punishment--
+Mr. Biggs. Ms. Tylek, your time is expired. If you would
+wrap it up?
+Ms. Tylek. OK. I have two seconds.
+Mr. Biggs. OK. All right.
+Ms. Tylek. More than a century later, slavery is still
+legal as criminal punishment, and we are still
+overcriminalizing minor offenses with a disproportionate impact
+on Black and Brown people. I urge you to not just seek minor
+tweaks to existing policy, but truly shift the trajectory of
+our country by ending the exception in the Thirteenth
+Amendment, ending Federal overcriminalization, and using the
+Federal power of the purse to incentivize State and localities
+to do the same.
+I appreciate the opportunity.
+
+
+Mr. Biggs. Thanks, Ms. Tylek, for being here.
+The Chair now recognizes Mr. Tolman for his five minutes.
+STATEMENT OF BRETT TOLMAN
+Mr. Tolman. Chair Biggs, Ranking Member Nader, Ranking
+Member Jackson Lee, and distinguished Members of the Committee,
+thank you for inviting me to testify today.
+I am a former United States Attorney for the District of
+Utah, appointed by George Bush in 2006. Today, however, I serve
+as the Executive Director of Right on Crime, a national
+criminal justice campaign focusing on conservative, data-driven
+solutions to reduce crime, restore victims, reform offenders,
+and lower taxpayer costs.
+As U.S. Attorney, I remember a plaque in the halls of
+Justice that read, ``The hallmark of fairness in the
+administration of justice is consistency.'' Yet, this principle
+can be easily lost when there are too many Federal criminal
+laws to keep track of, let alone understand.
+James Madison warned of this issue in Federalist Paper 62
+writing,
+It will be of little avail to the people, that the laws be so
+voluminous that they cannot be read, or so incoherent that they
+cannot be understood.
+Madison was onto something, because we have no idea how many
+crimes are on the books, as many have commented today. Nobody
+really knows the number of crimes. What we do know is the
+overcriminalization offends both sides of the aisle and is
+antithetical to our Nation's founding principles.
+Criminal laws now cover so many facets of our everyday
+lives that the government can target citizens with impunity.
+Many of these crimes are easy to prosecute because many lack
+the mens rea element. To commit a crime, you have to do it and
+you have to mean to do it, or at least know that it could
+happen. Often, mental State requirements are abandoned,
+allowing the government to prove its case by a person's actions
+alone. This isn't how our criminal laws are meant to function.
+The bloated administrative State contributes greatly to
+overcriminalization. Faceless bureaucrats have made thousands
+of activities illegal, but they don't have to justify their
+decisions to the voters.
+Last, overcriminalization encroaches on State prosecution
+powers. When Congress oversteps into the traditionally State-
+held criminal prosecution space, State offenses can be
+unnecessarily replicated, making everything a crime and
+everyone a potential criminal.
+Overcriminalization is problematic in normal times, but
+we're living in a unique time with political pressures taking
+precedent over the rule of law. I've worked in the criminal
+justice system for over 25 years and cannot believe how the
+current DOJ is choosing to throw away the rule of law to attack
+political enemies.
+When I was U.S. Attorney, I was determined to prosecute
+both Republicans or Democrats alike, so far as the facts and
+law supported the charges. Times have changed. Now, Federal
+prosecutors use their massive discretion, and the overabundance
+of applicable laws, to target whomever they choose.
+Even State prosecutors have jumped on the bandwagon--with
+the most relevant example being the targeted prosecution of
+President Trump by DA Alvin Bragg. This case didn't have enough
+evidence to support a legitimate Federal charge, but
+prosecutors seeking to gain political points have chosen to
+target political enemy No. 1.
+Even for Democrats this should be concerning. Because if
+it's Donald Trump today, it could be you tomorrow.
+Prosecutions, even politically motivated ones, have the guise
+of legitimacy and are difficult to undercut or question.
+Partner this with our overcriminalization problem, and it's
+easy to see how power can be abused. Justice Scalia pinpointed
+this issue almost 30 years ago warning that prosecutors, if
+left to their own devices, can pick people they think they
+should get, rather than cases that need to be prosecuted.
+With there being thousands of crimes to choose from, a
+prosecutor can target a man, and then, search the books to pin
+an offense on him. This should scare every Member of this
+Committee.
+My written testimony goes into more detail on how to avoid
+and solve this problem, but I'll quickly summarize some
+suggestions.
+First, Congress should practice restraint in creating more
+Federal criminal laws. Decriminalization should be equally
+important. If Congress does pen a new criminal statute, it must
+ensure that it has a mens rea element. Also, this Committee can
+revive broader mens rea reform by considering bills that attach
+a default mens rea to every statutory and regulatory offense.
+Next, Congress can conduct robust oversight. President
+Trump issued an Executive Order that told agencies to specify
+mens rea standards and make regulatory crimes understandable.
+President Biden undid this Executive Order. Why? This Committee
+can get to the bottom of that and urge the administration to
+take overcriminalization seriously.
+In a similar vein, agencies' powers must be reined in. The
+Fourth Branch shouldn't be able to impose weighty criminal
+sanctions on Americans. This power belongs to the people's
+representatives.
+Overcriminalization threatens our public safety, individual
+liberties, and the fair administration of justice. Consistent
+application of the law is a cornerstone of our criminal justice
+system, and addressing our overcriminalization is a critical
+step to achieving this goal.
+I appreciate your time and look forward to any questions
+you have.
+
+
+Mr. Biggs. Thank you, Mr. Tolman.
+We appreciate all the statements that you have given to us.
+Now, the Chair recognizes Mr. Tiffany, the gentleman from
+Wisconsin, for his five minutes.
+Mr. Tiffany. Thank you, Mr. Chair. I really appreciate you
+using the term ``crisis'' in your opening remarks. Everything
+in America is a crisis today, and when everything is a crisis,
+nothing is. It is really unfortunate that the word gets used
+the way it does, especially to drive public policy.
+Mr. Tolman, it is attributed to one of the worst despots in
+the history of the world, Joseph Stalin, ``Show me the man and
+I will show you the crime.''
+What role does Federal agencies play in the complication of
+the Criminal Code through their regulations?
+Mr. Tolman. Well, it's fascinating to me that three
+entities--the ABA, the Department of Justice, and the research
+agencies--all attempted to identify the number of regulations
+that have criminal penalties. It is an abdication, but Congress
+to let anybody pass a criminal law, but I don't necessarily
+blame Congress on this. It is the Branch, the Executive Branch
+and the Branches seeking to expand that regulatory power, and
+they're bloating these agencies with both the power, and then,
+no accountability.
+Mr. Tiffany. Are there any Federal agencies--are there any
+you name, in particular, that have exceeded their authority
+more than others that are repeat offenders?
+Mr. Tolman. Well, you certainly have--history has proven
+the IRS has gone from not a single agent carrying a firearm to
+now most agents carrying firearms. What is the evolution of
+that? The evolution is a regulatory body becoming a police
+body. So, there, we could go down the list of all the acronyms
+that are now moving from a regulatory body to a policing
+agency.
+Mr. Tiffany. Ms. Tylek, are you saying in your testimony
+that slavery still exists in America?
+Ms. Tylek. Excuse me. Yes, slavery is actually still legal
+in America. It's not just knowing that it exists in practice,
+but, according to the Thirteenth Amendment, there's an
+exception clause that says, ``except as punishment for a
+crime,'' which means, by law, slavery is still allowed.
+Mr. Tiffany. Have you noticed, is there, in the work that
+you've done, is there a greater impact with this, call it,
+overcriminalization--is there a greater impact on men versus
+women?
+Ms. Tylek. For sure. Ninety-Two percent of the prison
+population is men. So, undoubtedly, there is an impact from
+incarceration specifically, and most of those arrested are also
+men. However, women are carrying in many ways the actual cost
+of incarceration, literally fiscally. Eighty-seven percent of
+the cost of, for example, phone calls, visits, and court fees
+are actually covered by women.
+Mr. Tiffany. Mr. Purtill, do you accept that this has had a
+greater impact on men than women with this overcriminalization?
+Mr. Purtill. I do think that this is the case, and I do
+think the prison population bears that out.
+Mr. Tiffany. Can you give a couple of examples or give me
+something briefly that causes you to say that other than the
+statistic 92 percent?
+Mr. Purtill. It would cause me to say that
+overcriminalization has had a greater impact on men than women?
+Mr. Tiffany. Yes.
+Mr. Purtill. Really, I would kind of lean in on--unless
+you're saying that there's a higher degree of criminality
+between one sex or the other, I would think that there is the
+prison population probably bears some of that out.
+Mr. Tiffany. Mr. McLaughlin, have any recent Supreme Court
+decisions over the last decade been helpful in this? If you
+believe there's overcriminalization, have there been any
+Supreme Court decisions that have been helpful in reining that
+in?
+Mr. McLaughlin. One case comes to mind, but keep in mind
+I'm an economist, not an attorney. I do recall--in fact, I
+jotted down the name of the cases, Yates v. The United States,
+where a crime created by the Sarbanes-Oxley Act was applied in
+the case of a fishing boat. The captain of the boat destroyed
+evidence of keeping a fish that was too small to keep, but he
+was prosecuted under the Sarbanes-Oxley Act.
+That comes to mind as an example of using a crime that was
+created for one situation, financial fraud, and apply it
+somewhere else.
+Mr. Tiffany. Do you recall, ultimately, what penalty was
+that he paid for that?
+Mr. McLaughlin. Well, ultimately, the Supreme Court
+overruled under a way the prosecution. So, I don't believe
+there actually was any penalty.
+Mr. Tiffany. How do we fix this problem?
+Mr. McLaughlin. I would advise active review of both
+regulations and statutes to, first, find the stuff that's
+obviously outdated, obviously doesn't fit modern society.
+Also, I think you can address more serious things. One
+example I would point to for review of old things that we no
+longer want is the Base Realignment and Closure Commission.
+Mr. Biggs. The gentleman's time has expired, but you may
+finish your answer.
+Mr. McLaughlin. That might be an example to point to.
+Mr. Biggs. I interrupted you. Please finish. Please
+recite--please restate what you were saying.
+Mr. McLaughlin. I was saying one example of government
+reform, where we looked back on things that we didn't want
+anymore and tried to figure out what could we get rid of, was
+the Base Realignment and Closure Commissions.
+Mr. Biggs. OK.
+Mr. McLaughlin. A similar approach might work here.
+Mr. Biggs. Thank you very much.
+Mr. Tiffany. I yield back, Mr. Chair.
+Mr. Biggs. Thank you, Mr. Tiffany.
+The Chair recognizes the Ranking Member from New York, Mr.
+Nadler.
+Mr. Nadler. Thank you, Mr. Chair.
+Ms. Tylek, you launched the Corrections Accountability
+Project at the Urban Justice Center. As I understand it, the
+goal was to eliminate the influence of commercial interests on
+the criminal justice system and those it touches. Could you
+explain the various ways in which the criminal justice system
+has been financially exploited?
+Ms. Tylek. Absolutely. Thank you.
+The Corrections Accountability Project is a predecessor to
+Worth Rises. I think one of the ways to think about it is the
+ways in which the prison industry is both working in tandem
+with the correctional system, but also at times exploiting the
+correctional system for its own gains.
+So, what we see is a massive industry that has been built,
+and oftentimes, sometimes in conflict with the correctional
+system. So, a correctional system that wants to provide care
+with correctional healthcare companies that are actually
+cutting costs dramatically and, in many ways, harming people
+significantly inside of prisons and jails. So, that's just one
+example.
+There is a really broad industry here that has leached its
+way onto our carceral system.
+Mr. Nadler. So, you believe that the prison industry has
+come to depend on stripping people of their liberty?
+Ms. Tylek. Absolutely. In fact, if you take the biggest
+example, right, the private prison operators that are actually
+publicly traded, they have minimum occupancy guarantees
+embedded in their contracts with agencies that are 80 percent,
+90 percent requiring all their beds, or 80-90 percent of their
+beds to be filled. So, there's no doubt that they have an
+interest in putting more people behind bars.
+Mr. Nadler. Do you believe the prison, the private prison
+industry should be abolished?
+Ms. Tylek. Absolutely. There is no world that we can have a
+just system where people are profiting off of putting people in
+prisons and jails. There's only two ways for a business to make
+money. My career before what I do today was on Wall Street and
+I worked at Goldman Sachs, the Morgan Stanleys, and the
+Citigroups of the world. There's two ways you make money. You
+either increase revenue, which for the prison industry means
+more bodies behind bars for longer, or you cut costs, expenses,
+which means, basically, worse quality in care.
+Mr. Nadler. How does the prison industry increase, work to
+increase the number of prisoners?
+Ms. Tylek. They lobby and they give campaign financing
+donations to those who are interested in tough-on-crime laws.
+They have done that extensively.
+Mr. Nadler. Now, thank you.
+Approximately 68 million Americans have a criminal record.
+We are aware of the direct costs of law enforcement, prison,
+and courts, as well as the cost of businesses and the economy.
+Can you discuss the cost to the individual of having a criminal
+record? How does it impact their quality of life and their
+ability to contribute to society and the overall economy?
+Ms. Tylek. So, there are all--45,000 collateral
+consequences to being incarcerated. These just having a
+criminal conviction generally--these collateral consequences
+can impact your ability to get housing or access public
+assistance. As was mentioned, it can impact your ability to get
+a professional license, which can hinder your future income.
+In fact, when people are incarcerated, their families
+immediately see a decline in income of 22 percent, and even
+when they come home, income is depressed by 15 percent after
+incarceration. What that does is hinder their ability to grow
+economically up the ladder, and not just for them, but also
+their families.
+Mr. Nadler. Is there a correlation between collateral
+consequences that hinder the reintegration into society of
+offenders and recidivism rates?
+Ms. Tylek. Absolutely. As I said earlier, there's no way to
+think about a world in which you're creating more crime,
+creating more collateral consequences, creating a situation
+when people have less economic opportunity, and expecting them
+to be able to exist in this society productively, right?
+At the end of the day, people will do what they need to do
+to make ends meet--to eat, to find a place to sleep, right? We
+are seeing these cases of people who have nowhere else to turn
+but sleeping on the street and those becoming criminalized
+behaviors.
+Mr. Nadler. Finally, what needs to be done to improve
+reentry outcomes?
+Ms. Tylek. We need to invest in community support. The
+reality is that prisons were not meant for care, and that if we
+really want to address the social ills that lead to criminal
+behavior, we need to provide support and fund that support in
+community.
+Mr. Nadler. Thank you.
+Last, you said there were 32,000 consequences?
+Ms. Tylek. Forty-five thousand.
+Mr. Nadler. How do you measure? Where do you get that
+statistic? Where is the number--
+Ms. Tylek. There's actually a data base, partially, where
+BJA is actually involved, where they have measured the number
+of collateral consequences across States. So, that's
+consequences at the Federal level, as well as consequences in
+every State, for having a criminal conviction.
+Mr. Nadler. So, there are 45,000 possible consequences to
+an individual?
+Ms. Tylek. Yes, to having a criminal conviction.
+Mr. Nadler. Thank you very much.
+I yield back, Mr. Chair.
+Mr. Biggs. The gentleman's time has expired.
+The Chair now recognizes the gentleman from South Carolina,
+Mr. Fry.
+Mr. Fry. Thank you, Mr. Chair. Thank you for having this
+hearing today.
+Mr. Tolman, in your testimony earlier you mentioned a few
+reasons why overcriminalization is a problem. You said that the
+average American commits three felonies a day without even
+knowing it. What are some of those examples?
+Mr. Tolman. Well, the crimes on the books right now there
+are many that are almost laughable. Federal crime to write a
+check for under a dollar, for example.
+I personally had a case in which a father and son were cold
+and didn't think they would make it out of the wilderness, and
+they cut up a park bench and burned it to stay warm and they
+were charged and put in jail.
+So, it's examples like that we could go through. Those
+would be the low-hanging easy fruit for Congress to get rid of
+many of those laws.
+Mr. Fry. My understanding is one of them is to sell malt
+liquor labeled as pre-war strength.
+Mr. Tolman. Yes.
+Mr. Fry. What is that about?
+Mr. Tolman. Yes. The liquor business is very, very serious.
+You can't label it. When they were regulating it very, very
+tightly then, there were issues with how they would be labeled
+to not falsely advertise the contents and you develop the
+bottled in bond laws, which required certain levels of alcohol.
+Those are still in the books.
+Mr. Fry. So, the good stuff was the pre-war stuff?
+Mr. Tolman. That's right.
+Mr. Fry. Just to be clear.
+You also spoke that the current DOJ is choosing to throw
+away the rule of law when they attack political enemies. Can
+you talk about that a little bit and give me some examples of
+how that's happening?
+Mr. Tolman. It is a more recent development. There's always
+been at times pressures. When I was a U.S. Attorney, I received
+a phone call from a Member of Congress to investigate his
+political opponent and I indicated that I would not and that if
+he had a claim that he should submit it to the FBI.
+I think there are good well-meaning individuals that try to
+make those good decisions. There's no question you cannot
+simultaneously proliferate the laws and expand the power of the
+prosecutor and at the same time expand immunity protection. You
+can't take away accountability and give them more power and not
+expect abuse to come as a result.
+Mr. Fry. Mr. Tolman, I think it's interesting prosecutor
+abuse happens. It's happened for years.
+You look in the case of politics, you look at Senator Ted
+Stevens, as an example several years ago. To me it seems to be
+much more in your face than it has ever been before. Would you
+agree with that?
+Mr. Tolman. I would agree with that.
+Mr. Fry. The prime example would probably be the
+prosecution of President Trump under Federal law and, quite
+frankly, under State law, too.
+Mr. Tolman. Well, you have a prosecution going on right now
+that individuals on both sides of the aisle have commented on
+the lack of evidence, the inapplicability of the law, the
+attempt to manipulate the facts to go after.
+Whether you like him or don't like President Trump it
+should be concerning that a prosecutor would be able to
+manipulate their way into the courtroom against a political
+opponent.
+Mr. Fry. Right. I'm going to switch gears on you again. You
+mentioned several examples--writing a check, the pre-war stuff,
+pre-war liquor. How can we or even Federal agencies start to
+rein in this growth, quite frankly, in the administrative side?
+How can we do that?
+Mr. Tolman. I think there are plenty of professors,
+advocates, groups, even, Right on Crime, the organization I'm
+with, or many of the other organizations here that would be
+willing to lend a hand to identify the criminal statutes and
+the criminal regulations that are outdated and could very
+easily be taken off the books and that process should begin and
+it should be maintained.
+So, you should continually be doing that as we move
+forward. Otherwise, we're just collecting, compiling, and
+bloating our Criminal Code.
+Mr. Fry. Thank you.
+Mr. McLaughlin, I want to turn to you. The expansion of our
+Federal criminal laws encroaching on areas traditionally
+governed by the States, creating constitutional tensions,
+redundancies in statutes.
+Prior to Congress I served in the General Assembly of South
+Carolina, and I want to make sure that Federal laws don't
+really over complicate efforts that are happening on the State
+and local level.
+Can you talk a little bit about how Federal regulations are
+affecting State economies and local businesses?
+Mr. McLaughlin. Yes, thank you. It's a subtle effect in the
+work that I've done. Generally speaking, there's not a single
+regulation that will put a business out of business, but it's
+the death by 10,000 cuts sort of effect or, in this case, over
+a million cuts.
+So, I found that as Federal regulation accumulates over
+time it slows down investments in new ideas and then it slows
+down innovation and that ultimately makes businesses suffer
+because they can't put out new products, can't employ more
+people.
+There's all sorts of consequences all the way down the
+line.
+Mr. Fry. So, death by a thousand cuts, the straw that broke
+the camel's back. These are the things that local businesses
+are facing every single day from the growth of the Federal
+regulatory overreach.
+Mr. McLaughlin. Absolutely.
+Mr. Biggs. The gentleman's time has expired.
+Mr. Fry. Thank you, Mr. Chair. I yield back.
+Mr. Biggs. The gentleman yields back. The Chair recognizes
+the gentleman from Georgia, Mr. Johnson.
+Mr. Johnson. Thank you, Mr. Chair.
+Mr. Purcell, the Mercatus Center was founded and is funded
+by the Koch Family Foundation. Isn't that correct?
+Mr. McLaughlin. Is that for me, sir?
+Mr. Johnson. Well, Mr. Purcell, you're with the Mercatus
+Institute also, correct?
+Mr. Purtill. No, sir.
+Mr. Johnson. Just you, Mr. McLaughlin?
+Mr. McLaughlin. I am with the Mercatus Center. Yes, sir.
+Mr. Johnson. You are familiar with the fact that the
+Mercatus Center was founded and funded by the Koch Family
+Foundation?
+Mr. McLaughlin. It was funded long before--excuse me,
+founded long before I was employed there. I'm not privy to the
+details of the founding. I'm not privy to the details of the
+funding.
+Mr. Johnson. So, you don't know anything about the Koch
+brothers then?
+Mr. McLaughlin. I probably know less than you, sir.
+Mr. Johnson. Gosh, you're really putting me on a pedestal
+there. You probably have superior knowledge. You're just being
+modest.
+Mr. Tolman, your organization Right on Crime is also Koch
+brothers funded. Isn't that correct?
+Mr. Tolman. We have a number of funders. So, one of--
+Mr. Johnson. The Koch brothers are one of them, correct?
+Mr. Tolman. One of them is also the Just Trust and--
+Mr. Johnson. Has actually funded you at the rate of about
+$5 million. Isn't that correct?
+Mr. Tolman. I don't have those numbers.
+Mr. Johnson. Then you come, and you make the case against
+Alvin Bragg for prosecuting Donald Trump and you also served as
+a pardon broker during the waning days of the Trump
+Administration when pardons were being dispensed as if they had
+been paid for, correct?
+Mr. Tolman. No, that's not correct.
+Mr. Johnson. About--
+Mr. Tolman. That's not correct. I am very, very proud--I
+was an attorney and I represented individuals who were
+deserving of clemency, and I represented many and wish that we
+would have been able to get many through. Clemency--those last
+days were not the way clemency should be run and I--
+Mr. Johnson. This is not about pardons. I don't want to get
+bogged down on pay to play. I do want to commend the Koch
+brothers for having an interest in criminal justice reform.
+They're to be commended for that. I wonder whether or not they
+are looking down the line about perhaps being more involved in
+the privatization of the prison industrial complex. We spend
+about $80 billion to incarcerate--$80 billion dollars annually
+to incarcerate 2.2 million people.
+Ms. Tylek, can you give us--I'm wondering whether or not
+Koch brothers is interested in criminal justice reform because
+at some point they see dollar signs about privatization of the
+criminal justice system just as they have supported the civil
+justice system privatization with forced arbitration.
+Can you comment on that for us, Ms. Tylek, please?
+Ms. Tylek. Sure. Well, I definitely don't want to ascribe
+intention to anyone I don't know and so I can't say for certain
+what their long-term plans are.
+What I can say is that it's not uncommon for people in this
+space to get into and invest in this industry with other long-
+term plans.
+There was a mention earlier of the school to prison
+pipeline. We actually recently found that there are people
+interested in the prison to nursing home pipeline and looking
+at ways to invest in correctional healthcare because they
+already own nursing homes on the outside.
+That said, I will give one nod and say that Americans for
+Prosperity, which is one of the Kochs' sorts of nonprofit
+organizations, does actually support the end to the prison
+telecom industry.
+Mr. Johnson. That industry, by the way, generates--gosh, I
+don't know how many--
+Ms. Tylek. It's $1.4 billion, just telecom.
+Mr. Johnson. The $1.4 billion, sipping off the backs of
+inmates' relatives who are seeking to communicate with their
+loved ones. How about how medical care and food for the inmates
+come into play in terms of privatization?
+Ms. Tylek. I think in our time I want to really
+specifically address healthcare because healthcare in prisons
+and jails right now is under attack. It has been completely in
+many cases privatized and one of the most egregious examples of
+bankruptcy fraud and some things happening currently is
+Corizon's bankruptcy.
+So, for those who aren't aware Corizon--
+Mr. Biggs. Time is expired but you may continue your
+answer.
+Ms. Tylek. I'll just say really quickly Corizon is a major
+correctional healthcare company that was saddled with over a
+billion dollars in lawsuits and settlements and they separated
+the company into two.
+Gave one half all the liabilities, the other half all the
+assets, and then they bankrupted the liabilities and all the
+families who lost their loved ones.
+Mr. Johnson. Kind of like the Sackler family.
+Mr. Biggs. The gentleman's time has expired.
+The Chair now recognizes the gentleman from Alabama, Mr.
+Moore.
+Mr. Moore. Thank you, Mr. Chair.
+Mr. Tolman, I have a friend who was an Assistant Attorney
+General in Alabama and he actually told me you can go in a
+Publix grocery store and lock the door and charge every single
+citizen in there with some kind of crime if you were looking to
+do so.
+So, how does the overwhelming expansion of the Federal
+criminal laws now affect ordinary citizens' ability to abide by
+the law?
+Mr. Tolman. When I when I was a U.S. Attorney, I used to
+tell people that--give me a person or a company and give me
+just anytime in their books, in their documents, or in their
+affairs, and I could find a crime that we could apply.
+That's how confident I was as a prosecutor that the
+expansion was so robust, and it is no coincidence we have one
+in three Americans with a criminal history, whether arrest or
+conviction, and those two are connected--inextricably connected
+with the expansion of our criminal laws and then the failure to
+rein in any prosecutorial abuse of it.
+Mr. Moore. I think Mr. Purtill hit on a point in his
+opening testimony about how we have got to have trust in the
+justice system within this country. That undermines our entire
+ability to be a Nation of laws.
+So, when I was doing our town halls in August 2021 the No.
+1 concern of the citizens that I spoke with was the
+weaponization of the government against them and, of course, we
+recently hired a bunch of IRS agents--I think 87,000 new IRS
+agents.
+Those are the kind of things to me that just send the wrong
+signal of what we need to be doing as a Nation. So, Dr.
+McLaughlin, I wanedt to talk a little bit about regulatory.
+I was a small business owner and it seemed like every day I
+was either doing--well, I can remember one day specifically I
+was dealing with the IRS, the DOT, and the EPA, just trying to
+run a small business.
+One of my favorite quotes is Ronald Reagan said,
+If it moves, tax it. If it keeps moving, regulate it. And if it
+stops moving, subsidize it . . . .
+So, Dr. McLaughlin, could you elaborate a little bit on the
+regulations and how that impacts small business and even our
+economy? I know you talked a little bit about it earlier.
+That's part of the thing we have not really talked a lot
+about today. We talked a little bit about criminal but
+certainly regulatory--the impact on the economy itself. Could
+you elaborate a little bit on it?
+Mr. McLaughlin. Absolutely. Thank you.
+My career has built up, first, a way of measuring how much
+regulation there is and how many crimes there are. Because we
+have these metrics we can measure it. We can see what the
+effects on small businesses, the economy overall.
+So, one study that I published a few years ago was looking
+at small businesses, in particular. They found that they get
+overwhelmed when there's a bunch of regulations created all at
+once and the thing I want to point out--this is not surprising,
+right.
+All businesses must deal with these costs. It's worse for
+small businesses than large businesses. Large businesses are
+able to absorb all those costs at once whereas small businesses
+founder.
+Mr. Moore. Yes. Certainly, like you said, the small
+business owner doesn't have all the attorneys. He didn't have
+the team of lobbyists, whatever the case may be, to try to work
+through that process.
+Mr. Purtill, I remember when I was first elected to
+Congress, I was sworn in 2021, and I was getting on an airplane
+all the time.
+It said Federal law requires that you wear a mask and I
+didn't remember voting on that. So, very often it seems like to
+me there's a lot of regulatory or a lot of things, supposedly
+law, that are put on the books by agencies, if you will.
+Could you elaborate a little bit on what that impact has on
+the American citizen itself? We can't keep up, obviously.
+Mr. Purtill. Right, and I think that's the real problem
+because it means that as a free people, we can't even know what
+the laws are so we can't even comply with them. So, it really
+undermines that trust and faith in the law.
+When you've got hundreds of thousands of regulations that
+are out there that carry a criminal penalty and, as Mr. Tolman
+pointed out, some of them are just kind of comical. Some of
+them are contradictory so that you can literally--no matter
+what you do you could be prosecuted for a crime because
+criminalized both sides of the behavior, so to speak.
+I think with the regulatory--I think a lot of this is,
+frankly, there's so much congressional authority has been
+delegated to the executive branch and independent agencies that
+it's a real challenge and I think better guidance on what they
+can do with that authority when Congress delegates it would be
+good and Congress pulling that authority back in more often
+would be very good as well.
+Mr. Moore. How does the faith and family or Faith and
+Freedom Coalition view the moral aspects of criminalizing
+trivial and inadvertent actions? How do you all view that?
+Mr. Purtill. Right. No, that's absolutely wrong. Criminal
+sanctions are one of the most powerful forms--one of the most
+incredible powers that we give to government.
+The fact that we can take life or liberty from someone and
+trivializing that harms the family, it harms our communities,
+it overburdens the taxpayers, and it's not necessary for public
+safety.
+Mr. Moore. Thank you, Mr. Chair. I yield back.
+Mr. Biggs. The gentleman yields.
+The Chair recognizes now the gentlelady from Pennsylvania,
+Ms. Dean.
+Ms. Dean. Thank you, Chair Biggs--thank you, Ranking Member
+Jackson Lee, for convening this hearing and I thank all of you
+for being here and sharing with us your expertise and your
+ideas.
+I wanted to focus on a particular area of criminalization
+or over criminalization and I'll relate it to an experience I
+had just recently the last few weeks.
+I met with the Secretary of Corrections for Pennsylvania.
+Her last name is Harry from our Department of Corrections. She
+shared that in the facility she oversees a staggering
+percentage of inmates struggle with addiction and mental health
+challenges.
+This is not new to any of you--I know that. Just by her
+round estimates--this is not perfect data--70 percent struggle
+with substance use or addiction and anywhere between 15-35
+percent mental illness--women and men.
+So, I raise that because it bears repeating. More than one
+in three people in our Federal prisons have a history of mental
+illness and probably two in three are struggling with some kind
+of an addiction.
+It's an important issue for me and my family. We have had
+folks who have struggled with addiction and are blessedly in
+recovery. Not everybody gets that. They are not incarcerated--
+not everybody gets that.
+So, Ms. Tylek, I'd like to start with the facts that you
+used in your written testimony. Every three seconds someone in
+the United States is arrested, most often for low-level
+infractions including drug offenses, and those arrested are
+disproportionately Black, Brown, and poor.
+Thanks for grounding us in that reality. We have to
+continually say that. It tells us there's something skewed
+about what's going on with our carceral system.
+What has your work taught you about the connection between
+addiction and incarceration? Specifically, what impact does
+incarceration have on somebody struggling with addiction?
+Ms. Tylek. Thank you. So, addiction--drugs are actually the
+No. 1 arrested crime in the entire country so of all those
+crimes that we're talking about drugs is the center of
+everything and that is in part because of the failed war on
+drugs that we have seen over all these years and the reality
+that there is no way to incarcerate our way out of drug
+addiction.
+Drug addiction does, in many cases, have the dual diagnosis
+of mental health where people are trying to self-medicate and
+so you can't really separate drug addiction from the issue of
+mental health in many cases and over the last--since the 1950s,
+1960s, we have completely deinstitutionalized all support for
+mental health, right, and so as a result we have 350,000 people
+who are incarcerated today with a serious mental illness, not
+just a history of mental illness.
+So, what we really need is we actually need a care approach
+to drug addiction. We need to be actually providing treatment
+and there is nothing about prisons--the way they are built, the
+way they are designed, the way they are financed, the way they
+are structured--that is meant to help deal with drug addiction.
+Those things need to happen in our community, and we need
+to be investing them through harm reduction and then, further,
+efforts to actually get people back to productivity.
+Ms. Dean. I completely agree with you, and we have to
+change the narrative on that.
+Mr. Tolman, drawing on your experience as a prosecutor, I'm
+sure you did work with many cases where the defendant suffered
+from addiction. I was reading something in your testimony on
+page 2.
+More and more individuals on both sides of the political
+aisle are recognizing that many of these low-level offenders
+are being given extremely long sentences in Federal prisons,
+sentences that too often do not match the gravity of the crimes
+committed.
+Take drug--I'm still quoting you--take drug offenses as an
+example. The Department of Justice is expected to use the
+hammer of mandatory minimum sentences to identify and take down
+kingpins at the high level and I'll end there by saying not an
+addict, a user, a small possession case.
+What do you see? Maybe from your own work in the criminal
+justice system what's the chances of a defendant's recovery
+when he or she--most often he--but he gets the hammer for a low
+level drug offense?
+Mr. Tolman. Well, thank you for the question. I think it's
+important--critically important that people understand that we
+are doing a disservice by lengthening the sentences on what is,
+in essence, low level drug cases and when I tell you that--I
+have a friend who was a prosecutor for 25 years.
+I asked him--Federal prosecutor--how many kingpins did you
+get in your 25 years. He said one, and yet he was applying
+mandatory minimums to low level distribution.
+Why? Because they can and the philosophy is that if you
+have the case, you're going to reward your prosecutors if
+they're being aggressive and they're prosecuting a lot of
+people. That's how they get pats on the back.
+So, that's the danger of over criminalization.
+Mr. Biggs. Your time has expired.
+Ms. Dean. The impact that has on the family of the
+incarcerated person and the future of the incarcerated person.
+Thank you. I yield back.
+Mr. Biggs. Thank you. The gentlelady yields back. The Chair
+recognizes now the gentlelady from Florida, Ms. Lee.
+Ms. Lee. Mr. Tolman, I'd like to go back to a concept that
+you raised earlier that I think is one of the really broad
+ideas we need to focus on here today and that is that the
+advent of over criminalization empowers rogue or politically
+motivated prosecutors to identify a person or target to
+prosecute rather than bringing criminal prosecutions based on
+community needs, community safety, or the principles
+necessarily of fairness and equity and you raised a particular
+example that I believe is instructive and that is DA Alvin
+Bragg.
+I'd like to return to him for just a moment. Mr. Tolman, it
+is correct, is it not, that the case that Mr. Bragg brought
+against President Trump is actually predicated on a set of
+misdemeanors for which the statute of limitation has run?
+Mr. Tolman. Yes, that is correct.
+Ms. Lee. Would you agree, Mr. Tolman, that in fact that
+case is a good example of over criminalization leading to
+selective or what appears to be entirely politically motivated
+prosecution?
+Mr. Tolman. When they have so many tools at their disposal
+and the ability to manipulate them, that is what over
+criminalization ultimately leads to is the use of the criminal
+code for something other than administration of fairness and
+justice.
+Ms. Lee. Mr. Purtill, I'd like to return to testimony that
+you gave in your opening statement that referred to criminal
+conduct that was not inherently blameworthy--rather, the
+criminalization of conduct that wouldn't inherently be
+identified as wrong or blameworthy, and I'd like to discuss the
+concept of mens rea.
+How do you think we could use or integrate the concept of
+mens rea to ensure that this type of conduct to which you refer
+is not criminalized?
+Mr. Purtill. Well, thank you for the question. The concept
+of mens rea is critical. I think it was Oliver Wendell Holmes
+who said even a dog knows the difference between being tripped
+over and being kicked.
+That guilty mind element is a necessary component to take
+away life or liberty from someone. So, I think one of the
+things that can be done is really taking a look.
+Where this shows up more often than not is in the
+regulatory realm where either Congress has given vague or an
+ambiguous term to an agency and the ability to criminalize
+behavior, or an agency is stretching beyond a little bit--maybe
+a little beyond what Congress had intended it to be able to do.
+I think there was a bill a number of years ago that would
+have simply--if there was no mens rea in a Federal statute or a
+Federal regulation it would insert a default mens rea
+requirement into the regulation of the statute and I think that
+this would be a huge step forward by Congress.
+Ms. Lee. Dr. McLaughlin, I'd like to go back to the
+testimony you gave earlier as well. You used as an analogy the
+Base Realignment and Closure Commissions as a concept on how we
+might come at identifying all these regulations and all these
+things that we need to take account of and address as Congress.
+Would you go into some more detail there about your
+thoughts on how we might identify all these regulatory agencies
+who have acted with such overreach and diminish the amount of
+these purported crimes that are out there?
+Mr. McLaughlin. Sure, the BRAC Commissions was an example
+of--they put together a blue-ribbon panel of experts to look at
+what can we get rid of, where we need to keep what's essential.
+That's just one approach.
+I think another approach that we have seen be very
+effective in finding someone to go back and identify
+regulations that could be cut because they aren't accomplishing
+their purpose but they're creating harm is regulatory budgeting
+and this is where you put the agencies themselves on the task
+of finding old regulations that they've written and that they
+can get rid of.
+You say if you want to make a new regulation, great, go do
+your job. If you're going to do that get rid of something
+that's on the books that's been there for 30 years that you
+think isn't effective anymore.
+Ms. Lee. Then you mentioned also that you particularly
+utilize data and research and analysis in your work and in
+identifying where these problems might exist. Are there ways in
+which you think Congress could use the same types of tools to
+assist us in our work?
+Mr. McLaughlin. Sure. One easy example here is the dates
+when statutes and regulations were made and looking if they've
+been updated, especially regulations.
+I can run a computer program through the code of Federal
+regulations and find when each regulation was last updated. If
+something hasn't been updated in 20-40 years maybe it's time to
+get rid of it or at least look at whether it's time to get rid
+of it.
+Ms. Lee. Thank you, Mr. Chair. I yield back.
+Mr. Biggs. The gentlelady yields back.
+The Chair now recognizes the distinguished Ranking Member
+from Texas, Ms. Jackson Lee, for her five minutes.
+Ms. Jackson Lee. Let me thank you very much, Mr. Chair.
+You must have some uncanny sense of rightness or timeliness
+to hold this hearing on a day, as I indicated, every part of
+America seems to be focused on student protests, which we
+haven't had in a while.
+I can recall my years of campus activity, in particular,
+when it was extremely, how should I say, exercised, if you
+will. It was extremely active and engaged and students had any
+myriad of activity to be engaged in the war.
+Of course, the Vietnam War was certainly one of great
+height. What we call the Black Power movement was an important
+element, the whole issue of discrimination against minority
+students in particular, in this instance African-American
+students.
+There was a long litany, and these were legitimate
+grievances that individuals had. I am particularly grateful--I
+don't know, Mr. Tolman, whether or not we will have a new
+litany of offenses by the time we get out of this hearing.
+I hope not. I hope that we will not design more grievances
+Ms. Tylek and others were--our college students to be charged
+with. This is a perfect, how shall I say it, scenario of
+freedom of speech, protests. I can't imagine what else and hope
+there is no other litany of things that these students might be
+engaged in.
+They have the right for their expressions to be heard and I
+want to, for one, indicate that I support the freedom of
+speech, the freedom of the right to associate. The First
+Amendment is a wide, vast amendment that many people have
+misused.
+So, in any event, the Chair has certainly picked a very
+timely moment for these cases and I hope that we will be
+handling them appropriately, which I think is going to be most
+important.
+Let me quickly then try to ask questions quickly and go to
+you, Ms. Tylek, and hope for quick answers because you
+graduated from Harvard, one of the Nation's renowned
+universities that are grappling quietly, I guess, with their
+engagement.
+You led the Nation's first successful campaign to make jail
+phone calls free. I remember that case. I was here in the
+Judiciary Committee. It was an unbelievable expression of free
+speech.
+You are right, women carry the heavy burden of carrying
+forward this whole idea of the cost of being incarcerated in
+many different ways. Travel, bus fares, all that was excessive.
+So, I have a very quick question. How much were inmates
+required to pay for phone calls at that time and what other
+ways do corporations make money? If you could just do that very
+quickly.
+I have a series--I see where I am on the clock--I have a
+series of questions that you just might give me a brief
+scenario because I've got a series of other questions for other
+witnesses.
+Ms. Tylek. Very quickly, at the time in New York it was 50
+cents for the first minute and five cents every minute after
+that. Throughout the country those calls can still run 25-50
+cents, and even 75 cents a minute and that labor is not just--
+that cost is not just physical, but it may be emotional labor.
+Ms. Jackson Lee. You could run up to--yes. You can run up
+to how much on that?
+Ms. Tylek. Today they still can run up to about 70-75 cents
+a minute in 2024.
+Ms. Jackson Lee. Would cost a hard-working, maybe hourly
+compensated person how much? What would they wind up--they're
+taking care of their children; they're taking care of their
+grandchildren.
+Ms. Tylek. We're talking about a few hundred dollars a
+month and for people who are incarcerated that are either
+making nothing or 9-15 cents an hour it can be hours' worth of
+labor before they can get a simple 15-minute call.
+Ms. Jackson Lee. So, what has been a hourly charge that our
+labor--what has been a meager offense may wind up bankrolling--
+not bankrolling, you may wind up breaking your account,
+literally.
+Ms. Tylek. Absolutely. One in three families are going into
+debt over the cost of a simple phone call in 2024.
+Ms. Jackson Lee. Which leads to why am I being slapped more
+than once on the incarceration for a very low-level crime, if
+you will. If you can say that.
+Ms. Tylek. Why is my family being slapped in that case.
+Ms. Jackson Lee. For sure.
+Let me go to Mr. Tolman. There are many overlapping
+statutes in the Federal criminal code. For example, there are
+more than two dozen different false statement statutes, Chapter
+47, Title 18, which is a famous title.
+There are also a number of fraud statutes and obstruction
+statutes. So, how could we reduce these of the statutes that
+overlap? I do want to just make a point.
+If you can answer that, I also want to say that my comments
+are not pointed to Mr. Bragg because it is in the judicial
+system and I'm going to allow the judicial system to work its
+will. I would like Mr. Tolman to be able to answer this
+question, please.
+Mr. Biggs. Yes, of course. The gentlelady's time has
+expired. Mr. Tolman, you may answer the question.
+Mr. Tolman. Thank you. There's no question that if we need
+to take current Federal statutes right now and we need to see
+the overlap. There are ways you can do that through programs
+that you can run.
+We absolutely, Congress should and advocacy groups should
+be looking very closely at the overlaps of these statutes
+because many of them can result in adding additional charges
+when you otherwise wouldn't, because as a prosecutor you wanted
+to make sure you had all the potential crimes at issue.
+So, then you get bloated indictments that have multiple and
+multiple counts in them when really they should be charged with
+what the heart of--or the essence of the crime is.
+Ms. Jackson Lee. Well, thank you very much. We want to do
+good in public service, not do bad and do ill.
+Thank you so very much. With that, I wish I had more time,
+but I thank the witnesses and I yield to you, Mr. Chair.
+Mr. Biggs. Thank you. The gentlelady yields back. So, I
+recognize myself for my questions.
+So, the first thing I want to just say is I appreciate the
+testimony. When I first got to Congress I thought we really
+need to do this, because in my law practice people said, ``why
+did you go into politics.'' I said, ``because most of my
+clients had been abused by just the regulations.''
+So, let's see here. I'm going to ask all of you this
+question before and I want you to think about it because I
+appreciate all of you have produced in your documents and in
+your testimony today some reform movement that you think we
+should do.
+I want each one of you to give us the lowest-hanging fruit
+because that's always the easiest for Congress to do. As I like
+to say, I'm willing to do--it was the least I can do. I'm
+always happy to do the least I can do.
+So, that's kind of the Congress' attitude on this. We want
+to do that. So, I'm going to ask each of you to do that. In
+speaking to that, I also want us to focus on really what
+Congress can do because we have actually been derelict in our
+duty, in my opinion, and that's the problem and we need now to
+be active.
+I know that--you don't need--don't say the mens rea thing
+because we all agree on the mens rea thing. OK. So, we all--I
+need something else besides the mens rea issue, OK?
+So, Ms. Tylek, you had about 20 different reforms that you
+put in yours. So, if you can just give me your top one--your
+No. 1--that would be good.
+Ms. Tylek. I don't know if it's the lowest-hanging fruit,
+but I do think ending the exception of the Thirteenth Amendment
+is a critical step for our country and in the 250th Year
+Anniversary that's coming I would say that.
+Mr. Biggs. OK. You're right. That may not be the lowest-
+hanging fruit.
+
+Ms. Tylek. OK. Make phone calls free in Federal prisons
+permanently. You already did it in the CARES Act. We can just
+make it a permanent policy.
+Mr. Biggs. OK. That may be the lowest-hanging fruit, but
+I'll take a look at your other proposal there. Thank you, Ms.
+Tylek.
+Mr. Tolman?
+Mr. Tolman. Thank you, Mr. Chair.
+I would very strongly urge--you've obviously talked about
+mens rea. Everybody understands that. That passage alone would
+be the largest band-aid until you could deregulate.
+So, I would then say deregulation and if you do have
+President Trump put in place if you're going to pass a
+regulation you've got to get rid of two, and whatever you think
+about it that was really good governance, and the Congress
+forcing the agencies to do that would probably be the most
+important thing they could do immediately.
+Mr. Biggs. Thank you.
+Dr. McLaughlin?
+Mr. McLaughlin. I agree with Mr. Tolman. Changing the
+incentives of regulatory agencies to review their own
+regulations--the old ones--to identify a duplication or a
+contradiction, and you could accomplish that through a
+regulatory budget such as the one in two-alpha (phonetic) or
+other means as well. I think that's the lowest-hanging fruit.
+Make agencies review their own rules and get rid of ones that
+aren't effective.
+Mr. Biggs. Thank you. Thank you, Doctor.
+Mr. Purtill?
+Mr. Purtill. I would associate myself with those so I will
+take a slightly different tack. I think there are a couple of
+bills before Congress right now that might really be
+interesting that do things to ameliorate for folks who are
+already incarcerated or reentering back into society some of
+the burdens that we have talked about here today.
+The first would be the Federal Prison Oversight Act, which
+came out of the Oversight Committee, I think maybe unanimously
+but overwhelmingly for sure bipartisan support.
+I think there's also a bill called the Safer Supervision
+Act which would help--before this Committee which would help
+incentivize moving folks who are compliant--who have served
+their term and are compliant with their terms of their release
+into society more quickly so we can focus on the more dangerous
+folks still within the system.
+The other would be the Clean Slate Act, which we
+mentioned--we were talking about the collateral--the host of
+collateral consequences that we have, that for lower-level
+offenders who have committed nonviolent crimes you would seal
+their record after they commit there--after they complete their
+sentence and complete their supervision without committing new
+crimes.
+You'd seal their records so that it'd be easier for them to
+get housed, to get licensure, to get a job, and things like
+that and reenter back into community.
+Once again, removing them out of the criminal justice
+system so that we can refocus our criminal justice system on
+the most dangerous. Really, I'd love to see something done with
+clearance rates which are really quite low.
+Mr. Biggs. Thank you. I'll just say that a couple things
+that I've thought of--I appreciate your suggestion that some of
+these things need to move to civil penalties, and I couldn't
+help but think of the Ranking Member's discussion of the
+explosion in Texas City--is that where it was? Texas City.
+There was no reason, quite frankly, in my mind for the Feds
+to get involved. You could have prosecuted the Execs who had
+overt violations of safety regs for manslaughter at least and
+you could also have facilitated civil rewards, which is
+actually really what you've needed when people are maimed or
+killed, in my opinion.
+So, that's one thing. The other one is maybe--and I'm
+really reticent to believe that bureaucratic institutions are
+going to give up their power base. I really don't think that's
+where they want to go.
+So, maybe Congress needs to every time--take a really good
+look at the rulemaking process because that's how these things
+occur. Second, maybe Congress, like we do with
+constitutionality, you have to put something on a bill that
+it's constitutional.
+You have to go in and say maybe whether you intend or don't
+intend for there to be some kind of criminal punishment
+involved with it as well. Just another thing for Congress to
+do.
+Anyway, I appreciate all the testimony. A lot to come out
+of this. I think this is actually a very complex issue that has
+some simple solutions in part before you that we need to take
+those first steps.
+So, I appreciate all your testimony today. Thank you, and
+with that, we are adjourned.
+
+All materials submitted for the record by Members of the
+Sub-
+committee on Crime and Federal Government Surveillance can
+be found at: https://docs.house.gov/Committee/Calendar/ByEvent.
+aspx?EventID=117202.

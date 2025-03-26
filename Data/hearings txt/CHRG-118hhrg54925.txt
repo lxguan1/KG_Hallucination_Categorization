@@ -1,1 +1,1447 @@
-OVERSIGHT OF THE UNITED STATES MARSHALS SERVICE ---------- Wednesday, February 14, 2024 House of Representatives Subcommittee on Crime and Federal Government Surveillance Committee on the Judiciary Washington, DC The Subcommittee met, pursuant to notice, at 10:10 a.m., in Room 2141, Rayburn House Office Building, the Hon. Andy Biggs  presiding. Members present: Representatives Biggs, Jordan, Tiffany, Nehls, Moore, Lee, Fry, Jackson Lee, Nadler, Dean, Cohen, and Johnson. Mr. Biggs. The Subcommittee on Crime and Federal Government Surveillance is called to order. I appreciate all of you attendance today. Director Davis, thank you for being here. Welcome, everyone, to today's hearing on Oversight of the United States Marshals Service. The United States Marshals Service is the Federal law enforcement agency responsible for the protection of Federal judges and courthouses, apprehending fugitives, transporting prisoners in Federal custody, maintaining the Witness Security Program, and more. Just over a year ago, Congress passed judicial security legislation that prohibits Federal agencies and businesses from posting publicly the personally identifiable information of Federal judges and immediate families. Additionally, the law prohibits data brokers and other businesses from buying and selling this information, provides training for Federal judges and family members on best practices for maintaining on-line privacy. The law also authorized funding for the USMS to expand its office of protective intelligence of the Judicial Security Division by hiring additional Intelligence Analysts, Deputy Marshals, and other individuals necessary to anticipate and deter threats to the judiciary. The legislation was named after Daniel Anderl, son of Judge Esther Salas, who was murdered by an attorney who had a previous case in front of Judge Salas. When law enforcement later found the attorney's body after an apparent self- inflicted gunshot wound, he had a list of other people he allegedly wanted to kill including three other judges. The legislation also came in the wake of Attorney General Merrick Garland's directive to the U.S. Marshals Service to provide enhanced, around-the-clock security at the residences of all nine Supreme Court justices. This directive occurred following the leak of a draft opinion in the Dobbs v. Jackson Women's Health Organization case. The leaked opinion ignited a series of organized harassment including picketing and harassment at the residences of several justices. The threat became so grave that in June 2022, a man showed up to the home of Justice Kavanaugh with a handgun, a tactical knife, pepper spray, zip ties, a hammer, and other gear to ``remove some people from the Supreme Court'' to ``stop Roe v. Wade from being overturned.'' The man hoped to assassinate as many Supreme Court justices because in his own words if ``there are more liberal than conservative judges, they will have the power.'' The would-be assassin acted just weeks after Senator Schumer, the Senate Democrat leader stood on the Supreme Court steps and threatened specific justices by name, I want to tell you, Gorsuch, I want to tell you, Kavanaugh, you have released a whirlwind, and you will pay the price. You won't know what hit you if you go forward with these awful decisions. Despite these elevated threat risks, Attorney General Garland provided guidance to the U.S. Marshals Service to avoid arresting protesters unless absolutely necessary according to training documents obtained by Senator Katie Britt. The training materials directed U.S. Marshals Service personnel to ``avoid, unless absolutely necessary, criminal enforcement actions involving the protest or protestors, especially in public spaces.'' These events are clear attempts to intimidate and influence the justices' rulings in violation of Federal law which prohibits ``pickets or parades in a near building or residence'' of a judge when done with the intent to interfere, strike, or impede the administration of justice. Unfortunately, not enforcing the law has become an all-too- common theme with this administration. We have a Secretary of Homeland Security that refuses to enforce our Nation's border security laws. This should come as no surprise that we have an Attorney General that refuses to enforce our criminal laws as well. On May 3, 2023, Chair Jordan sent a letter to Director Davis requesting documents regarding the Attorney General's directive to stand down. I understand that Chair Jordan received a response to that letter just yesterday and I hope we can discuss that directive today. I have not had a chance to fully read that letter, but I intend to read it as we go along today, and we will ask questions no doubt. I would also note that left-wing threats to our justices persist, just a couple of months ago, Neal Sidhwaney was arrested for leaving a voice mail for Chief Justice John Roberts stating, ``I will f'ing kill you.'' I look forward to the Director's testimony and to have a discussion on judicial security and the other important duties of the Marshals Service. With that, I am going to yield back and recognize the Ranking Member, Ms. Jackson Lee, for an opening statement. Ms. Jackson Lee. Good morning and I thank the Chair very much. Happy Valentine's Day to all gathered. I am delighted to be able to welcome Mr. Davis here this morning. Unfortunately, in the aftermath of a senseless revenge impeachment of a very fine public servant, Secretary Mayorkas, I think as we are in the Judiciary Committee, we should make it very clear that was an outrageous act, a one-vote margin, political in its nature, and truly ineffective in terms of working to bring us together around comprehensive immigration reform, as well as to bring us together around effective policing, law enforcement, and giving other tools of law enforcement to all our services. Secretary Mayorkas has jurisdiction over a number of our law enforcement agencies that every day are putting their lives on the line to protect the American people and to protect public officials and we are tragically, frivolously engaging in the misuse of impeachment by voting on an outrageous action. I for one am outraged about it and I want the record of the Judiciary Committee to reflect the insanity of doing this kind of work, as opposed to the work that helps the American people. So, again, I welcome you, Director Davis. Having been to the Judiciary Committee on several occasions, Director Davis has dedicated his career not simply to enforcing the law, but to the advancement of community policing, inspiring public trust, and enhancing accountability while improving public safety. For that we thank you. Recognizing his extensive background, I am confident that Director Davis is laser focused on meaningful implementation of the United States Marshals' multifaceted mission. The agency is as vital today as it was at its inception, more than 200 years ago. We rely on the Marshals Service comprised of over 10,000 employees across the country to uphold the rule of law, protect the Federal judicial process, and ensure the safety and security of our community. Each of the Marshals' key responsibilities are fundamental to the fabric of our justice system and their efforts extend beyond national borders, from apprehending fugitives and noncomplying sex offenders, to transporting and safeguarding prisoners, and overseeing the management of SSCs from criminal enterprises, these duties are essential to the preservation of public safety. Because the Marshals Service spends more than $2 billion on housing, detaining, providing their medical care, and transporting, it is necessary for us to examine implementation of President Biden's Executive Order that prohibits the continued use of private detention facilities by Federal agencies. Many of us on the Judiciary Committee have long called for an end to the use of private detention facilities due, in part, to a lack of meaningful oversight or accountability in the Federal Government's relationship with these facilities. That really has to improve. Confronted by security breaches, overcrowding, and misuse of funds, President Obama, and now President Biden, ordered a phasing out of these relationships. We are still far from fulfilling this mandate, nearly three years later. It is our responsibility to provide support to those agencies such as the Marshals that are responsible for implementing the President's Order. This leads me to another pressing issue the Marshals Service is currently facing which cannot go unaddressed today. Above all else, the Marshals Service plays a critical role in protecting the Federal judiciary which is foundational to our democracy. The agency's commitment to safeguarding the judiciary or judicial process is indispensable in maintaining the integrity of our court system, particularly during this politically charged time. Let us focus on making sure that the Marshals have the tools they need to protect nearly 3,000 Federal judges, more than 30,000 Federal prosecutors, and core personnel serving in Federal Districts from the District of Columbia to the Districts of Guam, Puerto Rico, and the U.S. Virgin Islands. We have seen more than an uptick. We have seen a tsunami of attacks against these public officials. Judges and core personnel are enduring threats and personal attacks with increased regularity in States across the country including my home State of Texas. Just ordinary speech, however, it should not be characterized as being limited by our citizens. That we protect. What we are concerned about is any direct threats that may come about because of the position of the individual that is held. This problem is not new. Threats against judges have increased steadily over the last years, several years. Texas Office of Court Administration found that in Texas alone, there have been 522 judicial security threats since 2018, along with 29 assaults, and 68 bomb threats. While many of these threats were not acted on, we can never forget the brazen attack on New Jersey District Judge Esther Salas that resulted in her son lying dead in her home and her husband critically injured. Today, the crescendo of threats precipitated by political divisiveness and malicious instigators on social media is more than concerning. Serious threats against Federal judges, those that require an investigation by the Marshals rose from 224 in Fiscal Year in 2021 to 457 in Fiscal Year 2023. Yet, it does not stop there. Serious threats against Federal prosecutors more than doubled during the same two-period. It is up to us to support the Marshals in their efforts to protect these individuals. The agency is vital to upholding the rule of law and safeguarding our judicial system and our system of democracy, ultimately protecting our communities and our democracy. As we fulfill our oversight duties today, let us focus our energies on supporting their efforts. Thank you very much and I will look forward to your testimony. Mr. Chair, do you want to recognize Mr. Nadler? Thank you very much, Mr. Davis. Mr. Nehls.  The gentlelady yields. I now recognize the Ranking Member of the Full Committee, Mr. Nadler, for his opening statement. Mr. Nadler. Thank you, Mr. Chair. Thank you for convening today's hearing on Oversight of the United States Marshals Service. Welcome back, Director Davis, and thank you for being here today. The United States Marshals Service is the oldest Federal law enforcement agency in the world. It has broad and varied responsibilities and plays a vital role in enforcing the law and keeping us safe and secure. As the enforcement arm of the Federal courts, its duties include protecting the Federal judiciary, apprehending Federal fugitives, managing and selling seized assets, housing and transporting Federal prisoners, and operating the witness security program. To ensure the success and efficiency of the agency, it is essential that we fulfill our oversight responsibility by carefully examining the operations, performance, and challenges faced by the Marshals Service. More importantly, we must be certain that we are doing all that we can to support the agency's multifaceted mission which ultimately keeps Americans safe at home and abroad. I hope that we will take advantage of the opportunity to avoid party politics, so that we can delve into critical areas that should be a bipartisan concern. I am particularly interested in learning more about the management of the Marshals' budget and resources, the implementation of policies and procedures that promote safety, and the preservation of life, the responsible use of new technologies, and the protection of civil rights and civil liberties. The agency has an annual operating budget of more than $3.8 billion with more than 550 offices throughout the country. Nearly half of its funding is expended to provide housing, subsistence, medical care, and transportation for Federal detainees that are housed largely in local State and private facilities. That presents unique challenges because the agency is charged with protecting detainees in facilities that they do not control. Despite having relied on the use of private detention facilities for many years, the Marshals are currently tasked with implementing President Biden's Executive Order to phaseout the Federal Government's use of private facilities. This was an important step because of the contrast of these private facilities provided for minimal oversight, leaving Congress, detainees, loved ones, and the public clamoring for information about the safety and well-being of Federal detainees. While they recognize that a deliberate process is necessary to carry out the President's Executive Order, including the consideration of logistical and due process concerns, I understand that the agency has continued to contract with some private facilities, often with the support of Federal defenders and District Court judges in affected districts. In some cases, the White House Counsel's Office has granted specific exemptions, but some of these contracts have been entered into by exploiting certain legal loopholes. I am interested to hear how the agency is working toward full compliance with the Executive Order. I also hope that we can examine more fully whether the Marshals maintain sufficient oversight of the facilities that it contracts with to house Federal detainees. This is true for private detention facilities, as well as State, local, and Federal detention facilities. We just also closely examine the Marshals' coordination with other law enforcement entities in its response to evolving threats and risks, particularly since threats and inappropriate communications against Federal judges and other court personnel continue to rise. There is an urgent need to understand the extent of the problem and to develop a strategy to address it as evidenced by the tragic attack on U.S. District Judge Esther Salas that left her son dead, and her husband seriously injured. The Marshals Service has many accomplishments to be proud of including the arrest of more than 73,000 fugitives while clearing over 86,000 State, local, and Federal arrest warrants last year. I also applaud the agency's earnest commitment to promoting transparency and enhancing public trust by equipping its offices with body-worn cameras. I am hopeful that today's hearing will be a constructive dialog across party lines that will enable us to address any deficiencies or inefficiencies that might hinder the agency's ability to fulfill its critical mission. With these goals in mind, I look forward to hearing from our witness, and I yield back the balance of my time. Mr. Nehls. The Ranking Member yields. Without objection, all other opening statements will be included into the record. We will now introduce today's witness. The Honorable Ronald L. Davis is the Director of the United States Marshals Service. He was sworn in on September 27, 2021. Director Davis leads an agency with more than 10,000 employees and more than 500 domestic offices and four foreign field offices. He has served more than 28 years in law enforcement and thank you for that, starting in 1985 with the Oakland, California Police Department. We welcome our witness and thank him for appearing today. We will begin by swearing you in. Will you please rise and raise your right hand? Do you swear or affirm under penalty of perjury that the testimony that you are about to give is true and correct to the best of your knowledge, information, and belief so help you God? Let the record reflect that the witness has answered the affirmative. Thank you and please be seated. Please know that your written testimony will be entered into the record in its entirety. Accordingly, we ask that you summarize your testimony. Director Davis, you may begin. STATEMENT OF THE HON. RONALD L. DAVIS Mr. Davis. Good morning, Mr. Chair, Ranking Member Jackson Lee, distinguished Members of the Committee, thank you for the opportunity to appear before you today. As was mentioned, after 35 years of public service starting in the military, over 28 years in law enforcement with 20 years in Oakland, and eight years as Police Chief in the beautiful city of East Palo Alto, and three years as Director of the Department of Justice's Office of Community Oriented Policing Services, I am proud to appear before you today to discuss the agency I now have the distinct honor and privilege of leading, the United States Marshals Service. As mentioned, my complete statement for the record is available, but I would like to take a couple of moments to highlight several critical missions of our Nation's oldest Federal law enforcement agency. Let me start with the most important factor to our success and that is the women and men of the United States Marshals Service. Our workforce is comprised of dedicated, courageous, and effective professionals committed to our mission and the agency's core values of justice, integrity, and service. Let me give you a snapshot of just their work. In the last year, in partnership with our local, State, and Tribal partners, we apprehended over 73,000 fugitives. That includes over 5,400 homicide suspects. We also recovered 495 missing and endangered children and assisted local law enforcement in conducting over 53,000 sex offender compliance checks. As outlined in the Attorney General's Violence Reduction Strategy, focusing on those individuals that are the drivers of violent crime makes our community safer. This success, however, comes at an extremely steep price. My deputy and task force officers have faced gunfire during 47 separate incidents over a three- year period. Just in the first two weeks of this month, in February, our deputies and task force officers faced gunfire during four separate incidents and one local sheriff's deputy that was assisting our efforts was shot and injured. I plan to visit this wounded sheriff's deputy over the next couple of weeks. When I do, he will be the eighth deputy marshal or local officer shot in the line of duty that I will visit just over two years as director. Our work is exceedingly dangerous. It requires exceptional skill and sophisticated training and equipment and as you can imagine, the daily risk is not just physical. It also includes psychological stress to our entire workforce and their families. Accordingly, officer safety, morale, and wellness have and will continue to be one of my top priorities. We cannot effectively serve the American people if we do not take care of our most valuable asset, that is the men and women of the United States Marshals Service. I am grateful that the administration included $29 million to support deputy safety and wellness in the Fiscal Year 2024 budget. I hope this Committee in Congress will keep officer safety in front of mind as it finishes this budget. With that being said, let me now focus on our primary mission of judicial security. Since our creation in 1789, the United States Marshals Service has been charged with protecting the judicial process including safeguarding over 2,700 Federal judges and as was mentioned, over 30,000 members of the court family including prosecutors, defense attorneys, witnesses, jurors, and other court officials. In Fiscal Year 2023, the Marshals Service produced over 500,000 pretrial detainees in court proceedings and provided custody and care for an average daily population of over 59,000 detainees. We also provided security for over 800 Federal courts across the country. The importance of the judicial security mission cannot be overstated. Courts are a democracy are an independent judiciary that can operate safely without the threat of violence. This is why I am deeply concerned with the alarming increase in threats against our judiciary and the violent nature of those threats. In the past three years, the number of threats against Federal judges have more than doubled as have threats against prosecutors and other court officials. We are also seeing increases in the use of social media and platforms to target officials with hate language and violent rhetoric that has potential to incite violence. Additionally, there is a troubling increase in criminal swatting incidents. Let me give you a couple examples of threats. These were somewhat edited to protect the investigations. A Federal judge got a phone call from someone who said, ``I am going to kill you, if you don't kill yourself.'' In another case someone threatened to, ``Go to a Federal courthouse and do a mass shooting.'' As was mentioned at the opening, we cannot forget in 2022, there was attempted assassination of a U.S. Supreme Court Justice at his residence that was deterred by Deputy Marshals standing their post. These are just a few examples, but they highlight why the Marshals Service is now providing an unprecedented level of staff and resources toward judicial protection and risk mitigation measures. I must state in stark terms that the current and evolving threat environment facing the judiciary constitutes a substantial risk to our democracy. I look forward to discussing this risk in more detail and outline the measures we are taking, as well as the impact these resource-intense measures have on our other critical missions. Please allow me to close my opening comments as I started by thanking the men and women of the United States Marshals Service. It is my greatest professional honor to work beside them. Thank you, Mr. Chair and Madam Ranking Member for this hearing. I look forward to answering your questions.   Mr. Nehls. Thank you, Director Davis. I will now proceed under the five-minute rule with questioning. The Chair recognizes myself for five minutes. Director Davis, is it true that the U.S. Marshals Service is responsible for the care, control, and custody of the January 6th detainees? Mr. Davis. Thank you for that question, Mr. Chair. It will be for those that are still pending trial, yes. Mr. Nehls. Very good. Are you aware of a Lieutenant Crystal Lancaster? Mr. Davis. Offhand, no, I am not. Mr. Nehls. Fair enough. What about a Mr. Ronald Colton McAbee, this former deputy behind me, who was a January 6th inmate at the D.C. Department of Corrections? Mr. Davis. Mr. Chair, I am not. I just remind you that we do have over 59,000 people in our agency. Mr. Nehls. Fair enough. I am just asking the question are you aware or are you not. Director Davis, on September 6, 2022, at around 11:45 a.m. in the D.C. Department of Corrections, Lieutenant Lancaster confronted Mr. McAbee at the medical cart for not wearing his face mask. We were in the height of COVID. I got it. Not having his face mask. As I understand it, Lieutenant Lancaster then deployed her hand-held OC spray, sprayed it all into his face at close range. It has been reported that Lieutenant Lancaster intentionally used these chemical agents several times against Mr. McAbee without any provocation. As a former sheriff, did it for a long, long time, 30 years, talk a little bit about the use of this chemical agent, the OC spray. In the use of force model, the use of force continuum, it would require that even if an inmate, his passivity, the restraint, he is not being physically assaultive, an officer would not be authorized to use these chemical munitions unless the inmate was assaulted. If video footage were to show that Mr. McAbee was not assaultive, would Lieutenant Lancaster have violated Colton's civil rights under the color of law? Mr. Davis. I am sorry, can you repeat the question, Mr. Chair? Mr. Nehls. Would Lieutenant Lancaster have violated Mr. Colton's civil rights under the color of law if he was not showing any type of assaultive behavior? Mr. Davis. Thank you for the question. I am not in a position to respond to or talk about any specific investigation. Mr. Nehls. OK, all right. Do you know--so you don't know this Lieutenant Lancaster, placed on administrative leave, like right away, placed on administrative leave, I placed deputies on--I had 600 or so, placed them on administrative leave when there was some type of investigation. Lieutenant Lancaster was on administrative leave which I learned she was placed on it immediately after this incident, but I don't know where she is now and apparently you wouldn't know either, where this individual would be today has been placed on administrative leave after the incident? Mr. Davis. I thank you again. I am just reminded that it is also--custodial facilities are run by-- Mr. Nehls. Right. Mr. Davis. Not run by the Marshals Service. Mr. Nehls. January 2023, I had an opportunity to visit the D.C. Jail. Spent about an hour there, spoke with the Director Thomas Faust. Are you familiar with Thomas Faust? Mr. Davis. Yes. Mr. Nehls. OK, he is the director. He and I got along. He is a former sheriff. I am a former sheriff. We just connected right away. Great, great individual. The guys in the jail seemed to be pretty concerned. I went into the pod where these J6 detainees, we learned that the officers all wear body cameras. Everybody has a body camera in the D.C. Jail. Director Faust said the footage between Mr. McAbee and Lieutenant Lancaster existed because I was concerned about this incident. People complained about it. The wife reached out to me and said. ``hey, my husband was sprayed with foam.'' He is a former lawman. He just served seven years. In fact, he later told me that I could come down and view the footage. I said I got some complaints here, let me come down and view the footage of this Lancaster spraying and see if we have any issues. Later was retracted. You haven't seen the footage then, I am assuming. Mr. Davis. No, I have not. Mr. Nehls. OK. In January, my staff FOIA'd this camera footage from both the U.S. Marshals and the Department of Corrections. The U.S. Marshals, who you oversee, J6 detainees, denied our request and stated that it fell within the D.C. DOC. We accepted it. Thought it was OK. However, the DOC later denied our request and appeal because, A release of such footage would constitute as a clearly unwanted invasion of personal privacy and is exempt from disclosure. I got a release here from the wife. It is all here. He signed it. Said I would like to see the video footage. Right? He signed this congressional privacy disclosure to release the footage. I have it here. Lieutenant Lancaster is a public employee. The D.C. Mayor's Office determined Mr. McAbee's privacy disclosure form was ambiguous since the D.C. DOC is not a Federal agency. Mr. McAbee is a detainee of the U.S. Marshals under you. I find this to be a severe departure from the truth and a blatant excuse not to release the footage. My point is that we have a problem here. I got complaints from the wife. I got complaints from the inmate under your custody inside the D.C. Jail, right? Now, we can't get this footage. It stinks. It seems like she is on administrative leave. We got a problem. We have a severe problem. My point is this, I am not really even asking you. I demand that you call the D.C. DOC to release the footage on one of your detainees. We should have a right to see this. If it is bad news, you don't like what it shows, we have to confess up to it. We have a problem here. In fact, I am going to make it my personal mission, my personal mission, to use every subpoena power that I can get from this Committee to get this footage. I apologize to this gentleman. I apologize to his wife, Sarah, for having to go through this with no answers or help. So, can I get a commitment from you and we are going to look into this. I have your assurance and we are going to look into this, and get this video footage because if not, we got to go to DOJ, I don't care. I have to go to whoever because I think we have a problem here and it seems like it is being covered up. Mr. Davis. If I could start by saying that I share your priority to make sure that those that are in our custody are treated humanely and within Federal standards. If there is misconduct, we are committed to investigating all allegations of misconduct. I will commit my team to work with yours to see how we can be responsive to your request, but as also mentioned, we have our 60,000 detainees in some 1,800 facilities, so we also have to work with the local jurisdiction as well. I am committed to working within the team on that. Mr. Nehls. Very good. My team will get with one of you in the back of you before we leave this hearing. All right. I yield back. I now will recognize Ms. Jackson Lee for five minutes. Ms. Jackson Lee. I thank the Ranking Member. Mr. Director, you have a lot of responsibility, and it is even increasing in light of the rising threats that we have against the Judiciary. Let me find out how you are trying to implement the President's Executive Order, both former President Obama and President Biden, on the private prisons. Mr. Davis. Thank you-- Ms. Jackson Lee. How many of you have remaining, and what are the firewalls that you are using to ensure the constitutional of our prisoners. Mr. Davis. Thank you, Ranking Member. As of now, we are in complete compliance, we believe in the Executive Order with regard to private prisons. With the tremendous work of my team, we have ended the use of seven private prisons. They reduced their population inside. Use of private prisons, if I may, we are still operating five, but we are moving forward in full compliance with this order. Ms. Jackson Lee. So, you are operating in five, and they are located where? Mr. Davis. I would have to come back, Ranking Member, to give you the exact locations. We still have five. Ms. Jackson Lee. Do you know what the guesstimate of the total detainees would be in those five? Mr. Davis. Right now, the total population of detainees we have in private prisons is about 6,400. Ms. Jackson Lee. OK, are you to affirm that you are doing everything you can for the safety and security but also, again, the constitutional protections that they should have? Mr. Davis. Yes, we are. We are still working with the districts to make sure that we inspections, that we are still taking full responsibility for the treatment of our detainees, whether in private prison or others. So, we would continue to work with the districts in the field to make sure that the standards are being met. Ms. Jackson Lee. So, my friend from Texas indicated an incident that it is not your facility, obviously, and you have inmates in other facilities. How do you manage that when there are potential complaints against inmates in other--detainees in facilities, you have jurisdiction over the detainees, that the facility is not yours? How do you respond? The safety and security and constitutional protection. Mr. Davis. Thank you for the question. We have a couple things. One, each district, as mentioned, we have 94 U.S. Marshals, one for each judicial district, that are Presidentially appointed. They are responsible for the facilities, and oversight of the facilities in their district. We also have thousands of career professionals who do a tremendous job in holding these facilities accountable. We have some over 1,800 facilities that we use. So, we have processes in our agreement with them that they are to meet Federal detention standards. We have processes in which we will conduct inspections, some announced, some unannounced, to make sure they live up to these standards. We also work very closely with the people that run our facilities. A large percent of them, about 50 percent, are run by our sheriffs around the country, who we work very closely with to make sure that we are always living up to the conditions of confinement. Ms. Jackson Lee. Mr. Davis, do you consider full compliance with the Executive Order, even though you have five remaining facilities, private prisons, are you in dialog with the DOJ to say that this is in compliance or you have a certain deadline of moving forward? Mr. Davis. Yes, we are. Full compliance because we have ceased the use of seven and removed all our detainees from them. We have one that will be coming to an end, which we will not renew when it does end. We have not renewed any new additional private contracts. For the other four, they were waivers provided because of, it was mentioned earlier, issues of due process and logistics. We are continuing to make sure that we will comply with this order. Ms. Jackson Lee. Obviously, there have been some--I would like you to sort wrap your questions, I am going to give it as a holistic question. Obviously, some earlier points were made about political speech, First Amendment protected speech, but dealing with the safety and security of Federal judges. I would like you to comment on that, even SCOTUS, to indicate whether you have in any way diminished your protection of those jurors. Then to respond to my concern on the continued threats and attacks on our judges act legislation we are proposing for dealing with the safety and security of State judges. So, if you can speak to the protection of judges from SCOTUS to the Federal, so that you can convince us that you have not diminished your service in any way. Then, the importance of looking at judges in other jurisdictions. Mr. Davis. Mr. Davis. Yes, thank you for that. Protection of our Federal judiciary is our top priority. We do that in many ways. One, we provide protective assessments, risk assessments. We monitor communications of concern when it is targeting our judges. We have created intelligence units to track that. We also have increased our ability to enhance, thanks to Congress, actually, with extra positions to enhance security to do home residence. We have a home intrusion detection system program, which I am glad to say over 70 percent of the judges have agreed to, have actually signed up with it. We still try to prosecute, to the extent that we can, those that are making threats or attempted assaults on our judiciary. So, we are fully committed that we believe strongly that the protecting of our judiciary is the protection of our democracy. That this independent judiciary must be able to operate without those threats of direct violence. So, we are responding, we are working with our other agencies to do so. With regard to your question about your legislation, the State and local, I have talked to you about the legislation. I have not yet seen the language. Ms. Jackson Lee. Yes. Mr. Davis. So, I look forward to working with your team as you proceed forward. I would say some obviously recent cases in Maryland with the tragic assassination of a judge, and even one person witnessed in Las Vegas with the physical attack of a judge, makes the idea of judicial security is obviously just not Federal. So, in the way we can help as you move forward, we look forward to working with you. Ms. Jackson Lee. I hope to get my Chair and my fellow colleagues to join me on legislation that deals with the insight that the U.S. Marshals would have dealt with State and local judges. Let me finish this last point, Mr. Chair, if I might. Let me--you might answer this going forward, is the comings and goings of these Federal judges as they travel to home, a district home location, speaking engagements, and others. It came to my attention that a Supreme Court justice was traveling and was rightly placed in a first-class seat for the protection thereof, might have had someone traveling with them for their protection. Was subjected, I am not sure whether it was loud enough to be heard, to antagonistic comments. In this instance, why would this person have that authority to be in a first-class seat but intimidating. I want to raise this question, and I need you think about it as we go forward as to the travels and comings and goings. Our justices should not be subjected to that, absolutely not. We need to find a way to make sure there is complete protection of the comings and goings of our justices and judges. Mr. Biggs.  The gentlelady's time has expired. Thank you. I gave her, just so you know, I gave her a little bit of extra time because my surrogate took a little bit of time over his five minutes. So, we will go back to the five- minute rule now. The Chair recognizes Mr. Tiffany from Wisconsin. Mr. Tiffany. Thank you, Mr. Chair. I will honor that five- minute limit. I want to do a followup, Director Davis, in regard to Representative Jackson Lee's question. Is it correct that you folks received guidance to avoid arresting protesters unless absolutely necessary from the Attorney General? Mr. Davis. Thank you for that questions, Congressman. No, it is not. Mr. Tiffany. So, you were not told, the U.S. Marshal Service was not given guidance to avoid arresting protesters unless absolutely necessary? Mr. Davis. The guidance from the Attorney General of the United States was to protect the Supreme Court justices' lives and that of their family while at their residence. That we retain full authority to enforce the law. Also, to make sure that we did not do anything that would place the Supreme Court justices' lives at risk--lives at risk, excuse me. Mr. Tiffany. Thank you, Director, we will be following up on that. In regard to transporting prisoners that are in Federal custody, how many of them are illegal aliens, on your watch? Mr. Davis. Thank you for the question. We do not track our detainees by that status, or by immigration status. Mr. Tiffany. Where can I find that information? Actually, Director, wouldn't that be germane? Wouldn't it be important to know that for the U.S. Marshal Service if someone is in the country illegally and you are having to transport them? Mr. Davis. Thank you for the question. Again, we don't track by immigration status. What we do factor in for transportation would be the offense itself, what they are being arrested and charged with. Mr. Tiffany. What do you say, Mr. Chair, maybe that is something we need followup in the future? Do you have staffing shortages in some of your offices around the country? Mr. Davis. I think my Marshals would say yes. Mr. Tiffany. Is it true you are dedicating half a dozen or more Deputy U.S. Marshals to provide armed personal protection for you? Mr. Davis. For me personally? Mr. Tiffany. Yes, for you. Mr. Davis. I won't get to the extent of the security measures, but I do have a protective detail, yes. Mr. Tiffany. Does it include chauffeuring you to work each day? Mr. Davis. I am not going to get into the extent of the coverage. I hope you will understand, because all our details are risk-based or threat-based. As a result of that, I just don't want to do anything that would expose me to further risk or threat, if you don't mind. Mr. Tiffany. So, the people that are on your security detail when you are at the office because your office in Crystal City is a secure facility, is that correct? Mr. Davis. Correct. Mr. Tiffany. What do they do all day, then, when they--if they have come in, escorted you in, will take you, escort you home, what do they do then all day? Mr. Davis. I appreciate the question, but again, I won't get into what my detail does or any detail. There is a lot of work that goes into protecting more than just what people may see. Once again, I don't want to give--expose our methods or talk about to what extent or the size of any protective detail, let alone mine. Mr. Tiffany. Was there a threat assessment conducted in regard to what your security detail should be? Mr. Davis. Yes. Mr. Tiffany. So, there was? Mr. Davis. Yes. Mr. Tiffany. Is that available to us? Mr. Davis. I will give it to your team to see if is to make sure it does not compromise: (1) I would ask that it not compromise safety or that of my family. Once again, because they are risk-based and threat- based. I would prefer not to have risk and threat, but this is where we are at. (2) That it does not undermine or release any type of method. So, I do commit to working with your team to see how we can be responsive to that request. Mr. Tiffany. Yes, to be clear, the questions are done for the sake of accountability. I certainly understand your personal safety and your family's safety in regard to this. Mr. Chair, this I think would be another ask that I would make, is if we could get a copy or get an understanding of the threat assessment that this Committee could evaluate, if we would do that. Did your protection detail accompany, or a detail accompany you on recent travel abroad? Mr. Davis. Once again, I'm not going to get into the level of coverage. I want to know what travel you are referring to. Mr. Tiffany. Have you and your office explored dedicating an aircraft for your domestic travel? So, in other words, having an aircraft dedicated to the U.S. Marshal Service and specifically you as the Director? Mr. Davis. No, we have not. Mr. Tiffany. You have not explored that? Mr. Davis. We have explored--no, not for my personal travel. We are exploring aircraft for extraditions, for the transportation of our special operations group, for those operational missions in which commercial flight may not be prudent. Definitely not for my travel. Mr. Tiffany. Do you have the numbers for what is the cost to the taxpayers for your personal protection detail? Mr. Davis. Like I said, I can followup with you. I am sure we can provide you with those numbers. Mr. Tiffany. Yes, Mr. Chair, if we could get that. I am going to honor the five-minutes here. I yield back. Mr. Biggs. The gentleman yields back. The Chair recognizes the Ranking Member for the entire Committee, Mr. Nadler from New York. Mr. Nadler. Thank the gentleman. Director Davis, the order to phaseout private prisons was issued in January 2021, so it is three years ago. In three years, you phased out seven prisons. You have got five left. How long do you think it will take to phaseout the remaining five? Mr. Davis. Thank you for that question. As a starter, we are definitely committed to full compliance with the order. It may be a little bit hard to answer that. We know at least one the time, the contract will end very soon, I would say within the next year. For others, there are still the issues of logistics and making sure we have alternatives where we can place our detainees. So, I think to give you a number, that would be hard to give you that number. Mr. Nadler. OK. Second, the Secret Service protects the Executive Branch, you protect the Judicial Branch. Many Members of Congress--there have been many threats to Congress recently. Senator Romney said that he spends personally $5,000, I forget whether he said a day or a week, for his personal protection. Do you think it for the Marshal Service to think about protecting threatened Members of Congress? Mr. Davis. I'm sorry, the last part of the question I didn't get. Mr. Nadler. Do you think it for your office to think about protecting threatened Members of Congress? Mr. Davis. I thank you for that question. The challenge with that would be our statute right now authorizes us to protect specific Members as far as the judicial process. So, we would not have the authority do so. Mr. Nadler. You need a statutory change. Mr. Davis. Statutory, yes. Mr. Nadler. Thank you. Have current appropriations levels presented any issues or challenges in executing the Marshal Service's missions, and if so, what are they and how are you responding to these challenges? Mr. Davis. So, the current funding measures for Fiscal Year 2023, I think we are responding to the threats that I mentioned. We are putting in an inordinate amount of resources now based on judicial security because of the threat environments. I am concerned about moving forward, and I think we have identified in the President's Fiscal Year 2024 budget the additional resources that we would need to increase protective operation in judicial security and other challenges that we are going to be facing. Mr. Nadler. What is the Marshal Service's current policy on housing detainees with respect to distance from court? Mr. Davis. We try to make--thank you for that question, Congressman. We try to keep our detainees close to where the hearings are going to be or the court case. As we move them around, and it does provide challenges with regard to some cases of due process, access to their counsel, and obviously increased resources and costs to transport them. So, there is not a specific policy, it has to be we can really accommodate their trial--their hearings, if you will. Mr. Nadler. Do you believe that the Federal justice would be better served by a statutory requirement that limits the distance that detainees can be housed? Mr. Davis. I don't think--I appreciate the question, Congressman. I don't think I can answer that. I would have to get more into the details, because there's a lot of variables. So, I really could not answer that. Mr. Nadler. OK. Following the President's Executive Order, which banned renewal of contracts with privately operated detention facilities, the Marshal Service has entered into several agreements with local government entities that in turn have contracted with these same private facilities. Essentially, this had enabled the Marshal Service to do an end-run around the Executive Order, continuing to house detainees in the same private facilities that they would otherwise be prohibited from contracting with directly. The White Counsel's Office has granted a number of exemptions from the Executive Order. Why has the Marshal Service chosen to enter into these passthrough, intergovernmental agreements, instead of simply requesting additional exemptions from the White House Counsel's Office? Mr. Davis. Thank you for that question. From my understanding, there is one facility that you may be referencing in Northeast Ohio. From my understanding at that time, that was the best option that the agency as far as subcontracting with the local government, based on the time when the contract ended and based on the ability for us to maintain our detainees. So, that was the best option. Mr. Nadler. Thank you. What oversight does the agency engage in when it contracts with private facilities? Mr. Davis. Thank you again. As I mentioned earlier, our priority is still to make sure that all our detainees are basically held to the best standards. So, we will still conduct the inspections. We work with the facilities. We do the inspections; we do regular inspections. We make sure, and we have a process to make sure that we investigate all complaints that were mentioned and all allegations of misconduct. Mr. Nadler. Thank you. I asked about the policy on housing detainees with respect to distance from court. What about the policy in housing distance with respect to loved ones and with respect to legal counsel? Mr. Davis. Thank you again. I think that is what I was mentioning. That is a critical part of the process. As you mentioned, it is why it is, as we are moving forward with the order, that we try to make sure we don't move them too far because of the access to counsel, access to family. If I just may say this, Congressman, that is really important because nearly all our detainees are pretrial. So, they should be afforded the presumption of innocence, which means they need to have the ability to be close to their counsel as they proceed through the process. Mr. Nadler. Thank you. I yield back. Mr. Biggs. The gentleman yields. The Chair recognizes the gentleman from Alabama, Mr. Moore. Mr. Moore. Thank you, Mr. Moore. Thank you, Mr. Davis, Director Davis, for being here today. Over the last few years, left-wing activists have threatened our justices. After the unprecedented leak of the Dobbs opinion, Attorney General Garland directed around-the- close security for all non-Supreme Court justices. Our independent justices' lives are at stake. After the Dobbs opinion was leaked, the left-wing activists attempted to harass and even harm members of the Supreme Court. One individual was arrested at the home of Justice Kavanaugh armed with a handgun, a knife, zip ties, and other weapons in his opposition to the Dobbs opinion. Just recently in December, a man was arrested for leaving a voice mail threatening to kill Chief Justice Roberts. Considering all the threats, the Attorney General Garland directed the United States Marshal Service to avoid arresting pro-choice protesters unless absolutely necessary. Director Davis, thank you for your leadership in protecting our Federal judges. What was your response to Attorney General Garland when he directed you to limit the arrest of protesters? Mr. Davis. Thank you for your question. The Attorney General's order was very clear, it was actually crystal clear: Protect the lives of the justices. He made sure that we still had full authority to make arrests, but not to engage in any activity that would compromise their safety. I did not receive any orders from the Attorney General to avoid any specific arrest. Mr. Moore. So, would you have agreed with that directive if he gave it? Mr. Davis. I am sorry? Mr. Moore. Would you have agreed with the directive? Mr. Davis. I am not going to respond to a hypothetical. Mr. Moore. Let me ask you this: Any idea who leaked the Dobbs decision? I mean, we have got all these great arrests going around the country right now for certain activists, but any idea who leaked the Dobbs decision? Do we have any record of that? Mr. Davis. Once again, thank you for your question. I think probably as the Congressman knows that would be--I would refer you to the Supreme Court Marshal, which actually is not part of the Marshal Service. They were doing that investigation. Mr. Moore. Well, thank you, Director, I appreciate your efforts in terms of protecting the judges and protecting our system of justice. So, with that, Mr. Chair, I will yield back. Yield to the Chair. Mr. Biggs. Thanks, I thank the gentleman for yielding to me. So, I want to cover your response that you sent yesterday, Director, to a letter sent not quite a year ago, about nine months ago, on May 3, 2023, by Chair Jordan. In that, he makes reference to Section 1507 of Title 18 and talks about the very things that Mr. Moore was talking about, which is why I wanted to dovetail with his comments. One of the things that he did is he noted that, The training materials provided strongly suggest that the administration has continued to weaponize Federal law enforcement agencies for partisan purposes. Whether you agree with that or not, what he did ask specifically was for the production of documents. He gave four categories of documents. I will read to you what those are. (1) All documents, communications between the Marshal Service and the Department of Justice referring or relating to enforcement of 18 U.S.C. 1507 for the period of May 2, 2022, to the present. (2) All documents, communications between the U.S. Marshal Service and the U.S. Attorney's Office for the District of Maryland referring or relating to the enforcement of 18 U.S.C. 1507 for the same period. (3) All documents, again, same time period, ``for the Eastern District of Virginia.'' (4) Then all documents and communications between the U.S. Marshal Service and the Executive Office of the President referring or relating to the enforcement of 18 U.S.C. 1507 for the same period. The reason I raised that is because in your response, there were no documents included or produced or any communications. I am wondering if you can explain what your thought was in not including any of those documents or communications. Mr. Davis. Yes, thank you, Mr. Chair, and I am aware of the response that we sent to the Chair. I look forward to working with the Committee, is there is additional information that you requested? We provided a response to the Chair. Mr. Biggs. You didn't provide the documents, and that is what he specifically asked, Mr. Director. He asked for the documents and communications. The reason that those are important is because it will either corroborate--it is going to corroborate somebody. Somebody's allegations or the position of the U.S. Marshal Service. Somebody is going to be corroborated, but we are going to get to the truth. As part of our oversight function, we are entitled to those documents and communications. That is why I am wondering when you might provide those to us. Or are you telling me categorically that you are not going to provide those to us? Mr. Davis. Once again, thank you. I would continue to work with my Office of Congressional Affairs, as well as the Department's Office of Legislative Affairs that I know has been in contact with the Chair's team to try to be responsive. We did send a response, as you mentioned, that the Chair should have received it yesterday. We will continue to work to see how we can be responsive. Mr. Biggs. So, that is really not responsive to my question. Are you going to provide the documents or not, I guess is the question? Mr. Davis. I would say I would work with the team to see how we can process the request. Mr. Biggs. All right. My time is up, or Mr. Moore's time is up, actually. So, I yield. I will recognize the gentlelady from Pennsylvania, Ms. Dean. Ms. Dean. I thank you, Mr. Chair, and I thank the Ranking Member for having this oversight hearing. Welcome, Director Davis. Thank you and your more than 10,000 employees of the United States Marshal Service, USMS. In your written testimony, and you have said it here of course, you said, ``Safety is our top priority.'' Of course, you are charged with ensuring the safety of USMS detainees, the judiciary as well as officers. I would like to ask you a few questions about how you fulfill that mission and those important duties. I am thinking particularly of guns in courtrooms. As you noted, USMS is responsible for protecting the judiciary. Can you explain what are the procedures that exist to keep courtroom proceedings safe and peaceful? I am thinking, particularly, how do you make sure people intending to commit violence do not bring guns into courts and courtrooms? Mr. Davis. Thank you, Congresswoman, for that question. When you mentioned--I just want to correct one thing for the record, if I may. When you mentioned the 10,000 employees, it will be 5,700 employees. I was adding as part of the workforce would be the 5,800 court security officers that I would now reference now. That part of the security that you are asking about is to make sure that, as you know, when you walk into a Federal courthouse, that we do have processes and magnetometers to try to prevent firearms from getting inside the courthouse. That would be staffed by those court security officers. Ms. Dean. Can you tell us about that? Is every one of these courthouses using magnetometers, and have you had any leakage of weapons in courtrooms? Mr. Davis. Thank you for the question. Every courthouse does have that. I cannot think of any, but I can double check and make sure that we have had any leakage, or as far as people have actually been able to breach that location with a firearm. I can definitely double check. Ms. Dean. OK. Or other weapons? Mr. Davis. Or other weapons, yes. Ms. Dean. Yes, if you would get back to us on that, that would be terrific. We are all alarmed to know the threats against judges have been rising steadily in recent years. Tragically, we have spoken about the two fatal shootings and the serious wounding, of course, of the husband of one judge. What are you observing in terms of these increased threats? Who is most likely to be targeted? Sadly, do you worry that deaths will increase if it becomes easier to bring guns into court? Mr. Davis. So, thank you for the question. I will start with the last part first, if you don't mind. I would definitely worry if there was a way to bring in firearms and weapons into the courtroom. So, that would increase our risk posture greatly. The kind of threats that we are seeing right now, it is-- the challenge that we have right now, Congresswoman, it would be hard to say who is more at risk. What we are seeing right now is that people--extreme views, usually opposite views of any decision, if they are extreme, we see increase in violent rhetoric, increase in threats. So, there is no leaning, it is just people that are, unfortunately, some are disagreeing with the opinions of the court or the actions of government officials. They are basically, they are resorting to either violence or threats of violence in response. Ms. Dean. Thank you. A very sad State of affairs for our country. Do you do assessments as to nondetectable firearms getting into court? Mr. Davis. My understanding, no, we do not. Ms. Dean. Maybe you should. I think it is time to begin thinking about that, because we know the technology is ever- changing. I wanted to turn for my last minute and a half or so to the treatment for addicted persons in USMS custody or detention. What resources does USMS provide to addicted persons in your custody or care? Is there medical treatment like methadone available? Is there counseling? How long would somebody who is suffering symptoms of withdrawal need to wait before being treated, basically? Mr. Davis. Thank you for the question. I will start by saying that obviously we are responsible for providing medical and healthcare to all our detainees. That decision would be made by medical professionals after taking a look at what is the best response or course of action. I cannot speak specifically if there is specific treatment for addiction or different programs. I would have to get back to you on that one to identify what kind of programs in our various facilities across the country. Ms. Dean. Are you aware of instances of folks going into withdrawal, suffering from the disease of addiction, in your custody? Mr. Davis. I am not personally aware of it, but it would not surprise me. Ms. Dean. I would sk, if you would, to offer us a review of that. Mr. Davis. Yes. Ms. Dean. To see what kinds of attention and treatment, care is given to those suffering from a disease. I also would ask in followup to some of the very important questions here about the private prisons, privately run detentions, that you would offer us a review of those final five. What is the timeline to close the final five? Mr. Davis. I look forward to working with the Committee and the group about continuation of the compliance with the Executive Order. So, I can definitely work with your team on that. Ms. Dean. Terrific, and I thank you again for your service to our country. Mr. Davis. Thank you, ma'am. Mr. Biggs. The gentlelady's time has expired. The Chair recognizes the gentleman from South Carolina, Mr. Fry. Mr. Fry. Thank you, Mr. Chair. Director, thank you for being here. I want to go back to kind of a theme a little bit about the Supreme Court detail that you all have provided. In May 2022, Merrick Garland of course as you discuss issued or directed the Marshal Service to provide around-the-clock security for the judges. In light of, particularly, the leak of the Dobbs decision, Director, why do you think people protest? What is the point, not the reason why, or not the specific issue, but why do you think people generally protest in this country? Mr. Davis. Thank you, Congressman, for that question. I don't think I am in a position to speak for why. Mr. Fry. It is to impact change. It is to impact policy. Is that correct? That is probably why people--they don't just go out there for nothing, they go out there to impact something, right? They go out there to make their voice heard and create change that they want, right? That is the point of the protest. Mr. Davis. I can't speak to that. Mr. Fry. That is fine. We can play this game. So, the question is, is Senator Katie Britt, back in March of last year, had a conversation with the Attorney General about some slides that were created for the Marshals in the training up to the protection of these justices. Are you aware of that? Are you aware of the slides, first of all? Mr. Davis. I am aware of the slides that the Senator brought forward, yes. Mr. Fry. OK. Did the Department of Justice create those slides, or was it the U.S. Marshals that created those slides? Mr. Davis. The training provided to the deputies on that assignment was provided by the Marshal Service at my direction and with my career professionals, who by the way I think did a tremendous job, as that mission has been met every day for about 400 days. They have been very successful. Mr. Fry. So, were there instructions not to arrest protesters given by you or someone else with the Marshals? Mr. Davis. The direction provided to the deputies, and if I can say, it has been 1,700 deputies have rotated through this assignment. The message to them was very clear, it is the same as the Attorney General gave me: Protect the lives of the justices and their families, retain full--the deputies always retain full authority to enforce the law, but take no action that would compromise their safety. That was the heart and soul of the training. Mr. Fry. Right, so here is the rub that I have and the problem that I have, Director, is that for a month, protests have been happening outside of justices' homes in a leak of a Dobbs decision that was not yet decided, presumably, right. So, are you aware of 18 U.S.C. 1507? Mr. Davis. Yes, I am. Mr. Fry. What does that say? Mr. Davis. I am going to paraphrase, if you all trust me to do that. Mr. Fry. That is fine, yes. Mr. Davis. Basically, anyone that pickets or parades with the intent to interfere, obstruct basically--it doesn't say just Supreme Court, any court official. Mr. Fry. Correct. Mr. Davis. Right, at their place where they are presiding or where they are residing or maybe at. Mr. Fry. Right, and so they could be arrested, presumably under that code section, correct? Mr. Davis. Yes, they could. Mr. Fry. They could be fined, according to that code section, right? Mr. Davis. Yes. Mr. Fry. So, why was that not done here? Mr. Davis. If I may go again, once again, the primary mission for the Marshal Service, given by the Attorney General, was the protection of the Supreme Court justices' lives and that of their family. Mr. Fry. Look, I don't dispute the mission, and thank you for what you have done to protect their lives. They have received death threats, have they not? Mr. Davis. I can't speak to the threats to the-- Mr. Fry. That is in the media. So, they have received death threats. There have been arrests. The whole point is the code section is pretty cut and dry to me. There is no ambiguity within the code section. It says that if you protest or picket outside of a judge's or justice's homes, that they can be arrested. So, these justices, in fear for their lives, are like confined to their homes with these people outside that are threatening their lives, picketing outside. You all protected them. The question is why would we even issue guidance from the U.S. Marshals that is contrary to code that was passed by Congress in I think 1994? Mr. Davis. Thank you again. The guidance given to the deputies would be to protect the lives of the justices. It was a protective mission to protect the lives of the justices. As the Attorney General has said repeatedly and I will say again, retaining full authority to enforce the law as long as any action they take did not compromise the safety of the justices. That is, the Attorney General also mentioned, and I will say again, is the decision on whether to take action and whether that action compromises the safety has to be made by the deputy in the field at the time. Mr. Fry. Director, this is where I have a little bit of an issue, because the law is pretty clear. That law says that you will arrest people for picketing outside of a judge's or justice's home with the intent of influencing their decision. This was a leak of a decision that had not yet been decided, and you all made the--look, I am for protecting free speech. I encourage it. If you look at this statute, it is very clear, the directive is clear, that you shall arrest people who are doing these things outside of a judge's home with the intent to influence a decision. That was not done, and that is deeply concerning to me and the American people. Thank you, Mr. Chair, I yield back. Mr. Biggs. The gentleman's time is expired. The Chair recognizes the gentleman from Georgia, Mr. Johnson. Mr. Johnson of Georgia. Thank you, Mr. Chair. Director Davis, thank you for your testimony today, sir. I was particularly struck when you talked about the escalating volatility and severity of threats against public officials and judges. We need to ensure that judges and court personnel are kept safe, and your officers are crucial in that effort. I will fight for a budget that gives you sufficient funding so that you can do this very important work. I would be remiss if I were not to highlight the threat to your funding that exists from this MAGA House Republican Congress, or House of Representatives, actually, who proposed, in their drastic budget, a cut of 22 percent. That would be the effect of funding U.S. Marshal Service operations at 2022 levels. This is what they proposed in the Fiscal Year 2024 budget. How would a rollback or a defunding of your budget affect your operations in terms of protecting judges, apprehending fugitives, protecting courthouses, and all the other responsibilities that your department has? Mr. Davis. Thank you for the question. I will point to the President's 2024 budget that outlines what we have identified is what is needed to be able to maintain the security posture that talked about, to respond to this evolving threat. Mr. Johnson of Georgia. You actually needed more money. Mr. Davis. Yes, that was in the request. Mr. Johnson of Georgia. Not less. House MAGA Republicans are proposing to give you less money. How would that be devastating on your ability to carry out the responsibilities that you are charged with? Mr. Davis. Congressman, what I was saying is if we ask for additional protective operations to address the threats, if we were not to get additional resources or the budget or cuts in that, then we would make the decision that would have--that judicial security is still the no. 1 priority. Which means we would have to--this would have an impact on the other critical missions, as you alluded to, like fugitive apprehensions, recovery of missing endangered children. Because our primary mission is the protection of judiciary. So, we would have to then make sure that all the resources necessary to accomplish that. We cannot compromise the third branch of government under any circumstances. It would have been done. I think it would have an impact. Mr. Johnson of Georgia. It would have a devastating impact, would it not? Mr. Davis. I won't use the word devastating, but it would definitely have an impact. Mr. Johnson of Georgia. Well, thank you. Sir, in 2022, DOJ updated its use-of-force to generally limit the use of no-knock search warrants to only those situations where an agent has reasonable grounds to believe that knocking and announcing the agent's presence would create an imminent threat of physical violence to the agent and/or another person. Has that new policy resulted in a decrease in search warrant applications for no-knock warrants, no-knock search warrants? Mr. Davis. Thank you, Congressman. I would say for the Marshal Service, based on our primary mission with fugitives, that we embrace greatly the idea that the very loud announcement, we are going to make it very clear why we are there and who we are after. So, I can't think of a time and my staff can't think of the last few years in which we have ever used no-knock. So, this has not had, the policy, which we comply with, does not have any impact, negative impact on our ability to operate. Mr. Johnson. All right, thank you. Insofar, as the use of body cam videos by your Deputy Marshals on their arrests and executions of search warrants, are 100 percent of your deputies equipped with body cam video technology? Mr. Davis. Thank you, Congressman. Not yet. We are moving forward with that. Right now, I want to say we have some over 1,700 deputies that are equipped. We are also-- Mr. Johnson. Seventeen hundred out of about 5,500? Mr. Davis. About 4,000 deputies. So, about out of 4,038 operational personnel, about 1,700 are equipped. We have identified, once again, I am going to point back to the President's Fiscal Year 2024, there would be sufficient resources to get to that 100 percent. So, we are moving forward. As you mentioned, it is a priority of the Attorney General and the Deputy Attorney General. So, we are definitely on target with the goals set by the Department. I think the team is doing very well. We definitely need to move forward and look at equipping the remaining deputies. Mr. Johnson of Georgia. Thank you. I yield back. Mr. Biggs. The gentleman yields. I yield to myself five minutes to ask questions. So, Director Davis, again, thank you for being here. My questions now are going to go to Executive Order 14019, which is from March 2021. I am wondering how many inmates have been registered to vote under this Executive Order. Mr. Davis. Thank you, Mr. Chair. I don't think we would have that number. We would not track how many inmates, how many detainees actually register. Mr. Biggs. So, if you are not tracking, how are you facilitating registration to vote and their ability to vote? Mr. Davis. So, I may just clarify a question, if I may, sir, you are referring to the Executive Order on voting access, 14019? Mr. Biggs. That is correct. Mr. Davis. So, the Executive Order requires that we provide our detainees, and as I mentioned earlier just as a reminder, nearly all of them being pretrial--so, not yet convicted, presumed innocent--education materials at their facilities about their right to vote if appropriate. It is nothing--we do not, the Marshal Service does not register voters or track who does register. Mr. Biggs. So, that leaves me baffled, actually, a little bit. So, you don't know how many inmates are actually voting then, actually requesting ballots or registering to vote. You don't know that. Mr. Davis. We don't track that, that is correct. Mr. Biggs. So, you got a number of Secretary of States have a problem with that, with that Executive Order. So, I am interested in the compliance then. Do you feel like you are otherwise in compliance with that Executive Order? Mr. Davis. I do. Mr. Biggs. Inmates are allowed to register in States that typically require a specific amount of time to pass before an individual's voting rights are restored. So, even though they are presumed, many inmates are recidivists, is that not true? Mr. Davis. I couldn't answer that, not with any certainty. Mr. Biggs. Interesting. So, you don't get any criminal history on any of these inmates as you are just temporarily housing them? So, you are saying we don't need to know about their propensity to violence or anything else? Mr. Davis. No, I understand the question, Mr. Chair. I just am trying to provide accurate responses. I don't know the numbers or percentage of those that are in our custody or the 80,000 or 100,000 we will process; how many have criminal histories? I am not suggesting that none of them do, I am just not--I can't answer the question. Mr. Biggs. OK, so I really want to try to get to the bottom of this, make sure I understand this. So, in Arizona, for instance, any term of supervised release has to be completed before voting rights of an inmate are restored, for instance, right. So, the language in the Executive Order I read as fairly broad to encourage and facilitate, that type of thing, registration and voting. I guess my question at this point becomes are you ensuring that the Executive Order is not contradictory to State law? How are you doing that? Mr. Davis. Thank you for that question. The implementation of the Executive Order for the United States Marshal Service is working with our facilities, and I think you identified there are facilities all over the entire country, is to provide them the educational materials about their access and right. We do not register them; we do not basically provide election guidance. It is about providing materials about their right to vote. I think the Executive Order goes further to say as applicable or as eligible. So, it is for our Executive Order, for our part of the order. Mr. Biggs. Right, right, that I get. So, when you said earlier that you didn't keep track, for instance, if somebody was illegally in the country or not, which would have influence of their ability to, and eligibility to vote, how do you determine then who you are going to facilitate and provide this? You just provide a blanket to it and say hey, you have got a right to vote, but you guys don't step in and say but not you, you are here illegally in the country? Mr. Davis. Right, I am not going to--the implementation requires the facilities to provide educational material. Then, it is up to the facilities how they do that. Once, I would just clarify that we do not process, we do facilitate and provide them the materials. Mr. Biggs. No, I got that. So, we may want to consider this conversation so much later. I am almost out of time, so I want to ask this question: On the protesters that were parading and whatever, trying to influence and intimidate with that particular Supreme Court decision, did the marshals, were they wearing body cams? Do you know? Mr. Davis. I do not. I can definitely find out. Mr. Biggs. You said 1,700 deputies went through, so I assume some of them had to have body cams and had a video. The reason I ask this question is because I am curious whether anyone went back. I get it, I get you were saying our first priority was to make sure that the lives of the justices were preserved, so we are going to protect them. You got people out here clearly violating the law. I am just wondering after that toned down and settled down, whether anybody went through, back through and looked at the body cam footage and started going after those people for violating clearly 18 U.S.C. 1507. Mr. Davis. Thank you for the question. I have to get back to you about the body-work camera, but I will add this, if I may, Mr. Chair. In addition to the instructions, they were also trained and instructed that they had the ability, that they were witnessing anything of concern or crime, to call our command center. Our command center stays in continued contact with law enforcement partners. So, if they saw something and made the determination I cannot engage because it would put the justice at risk, then they can pick up the phone and call the command center. Mr. Biggs. Right, I think I understood that. I am out of time. So, I appreciate that, but we need to continue that. I want to know more about the footage. I would certainly like the documents that Chair Jordan asked for earlier. Thanks for your time, thanks for being here today. With that, we are adjourned. Ms. Jackson Lee. I have an unanimous consent for documents-- Mr. Biggs. Oh, I am sorry. Yes, I will note that you have submissions for the record, and we will admit those.  The record for this hearing by the Members of the Subcommittee on Crime and Federal Government Surveillance is available at: https://docs.house.gov/Committee/Calendar/ ByEvent.aspx?Event ID=116837. 
+OVERSIGHT OF THE UNITED STATES MARSHALS SERVICE
+----------
+Wednesday, February 14, 2024
+House of Representatives
+Subcommittee on Crime and Federal Government Surveillance
+Committee on the Judiciary
+Washington, DC
+The Subcommittee met, pursuant to notice, at 10:10 a.m., in
+Room 2141, Rayburn House Office Building, the Hon. Andy Biggs
+ presiding.
+Members present: Representatives Biggs, Jordan, Tiffany,
+Nehls, Moore, Lee, Fry, Jackson Lee, Nadler, Dean, Cohen, and
+Johnson.
+Mr. Biggs. The Subcommittee on Crime and Federal Government
+Surveillance is called to order. I appreciate all of you
+attendance today. Director Davis, thank you for being here.
+Welcome, everyone, to today's hearing on Oversight of the
+United States Marshals Service. The United States Marshals
+Service is the Federal law enforcement agency responsible for
+the protection of Federal judges and courthouses, apprehending
+fugitives, transporting prisoners in Federal custody,
+maintaining the Witness Security Program, and more.
+Just over a year ago, Congress passed judicial security
+legislation that prohibits Federal agencies and businesses from
+posting publicly the personally identifiable information of
+Federal judges and immediate families. Additionally, the law
+prohibits data brokers and other businesses from buying and
+selling this information, provides training for Federal judges
+and family members on best practices for maintaining on-line
+privacy. The law also authorized funding for the USMS to expand
+its office of protective intelligence of the Judicial Security
+Division by hiring additional Intelligence Analysts, Deputy
+Marshals, and other individuals necessary to anticipate and
+deter threats to the judiciary.
+The legislation was named after Daniel Anderl, son of Judge
+Esther Salas, who was murdered by an attorney who had a
+previous case in front of Judge Salas. When law enforcement
+later found the attorney's body after an apparent self-
+inflicted gunshot wound, he had a list of other people he
+allegedly wanted to kill including three other judges. The
+legislation also came in the wake of Attorney General Merrick
+Garland's directive to the U.S. Marshals Service to provide
+enhanced, around-the-clock security at the residences of all
+nine Supreme Court justices. This directive occurred following
+the leak of a draft opinion in the Dobbs v. Jackson Women's
+Health Organization case. The leaked opinion ignited a series
+of organized harassment including picketing and harassment at
+the residences of several justices.
+The threat became so grave that in June 2022, a man showed
+up to the home of Justice Kavanaugh with a handgun, a tactical
+knife, pepper spray, zip ties, a hammer, and other gear to
+``remove some people from the Supreme Court'' to ``stop Roe v.
+Wade from being overturned.'' The man hoped to assassinate as
+many Supreme Court justices because in his own words if ``there
+are more liberal than conservative judges, they will have the
+power.'' The would-be assassin acted just weeks after Senator
+Schumer, the Senate Democrat leader stood on the Supreme Court
+steps and threatened specific justices by name,
+I want to tell you, Gorsuch, I want to tell you, Kavanaugh, you
+have released a whirlwind, and you will pay the price. You
+won't know what hit you if you go forward with these awful
+decisions.
+Despite these elevated threat risks, Attorney General Garland
+provided guidance to the U.S. Marshals Service to avoid
+arresting protesters unless absolutely necessary according to
+training documents obtained by Senator Katie Britt. The
+training materials directed U.S. Marshals Service personnel to
+``avoid, unless absolutely necessary, criminal enforcement
+actions involving the protest or protestors, especially in
+public spaces.'' These events are clear attempts to intimidate
+and influence the justices' rulings in violation of Federal law
+which prohibits ``pickets or parades in a near building or
+residence'' of a judge when done with the intent to interfere,
+strike, or impede the administration of justice.
+Unfortunately, not enforcing the law has become an all-too-
+common theme with this administration. We have a Secretary of
+Homeland Security that refuses to enforce our Nation's border
+security laws. This should come as no surprise that we have an
+Attorney General that refuses to enforce our criminal laws as
+well.
+On May 3, 2023, Chair Jordan sent a letter to Director
+Davis requesting documents regarding the Attorney General's
+directive to stand down. I understand that Chair Jordan
+received a response to that letter just yesterday and I hope we
+can discuss that directive today. I have not had a chance to
+fully read that letter, but I intend to read it as we go along
+today, and we will ask questions no doubt.
+I would also note that left-wing threats to our justices
+persist, just a couple of months ago, Neal Sidhwaney was
+arrested for leaving a voice mail for Chief Justice John
+Roberts stating, ``I will f'ing kill you.''
+I look forward to the Director's testimony and to have a
+discussion on judicial security and the other important duties
+of the Marshals Service.
+With that, I am going to yield back and recognize the
+Ranking Member, Ms. Jackson Lee, for an opening statement.
+Ms. Jackson Lee. Good morning and I thank the Chair very
+much. Happy Valentine's Day to all gathered. I am delighted to
+be able to welcome Mr. Davis here this morning. Unfortunately,
+in the aftermath of a senseless revenge impeachment of a very
+fine public servant, Secretary Mayorkas, I think as we are in
+the Judiciary Committee, we should make it very clear that was
+an outrageous act, a one-vote margin, political in its nature,
+and truly ineffective in terms of working to bring us together
+around comprehensive immigration reform, as well as to bring us
+together around effective policing, law enforcement, and giving
+other tools of law enforcement to all our services. Secretary
+Mayorkas has jurisdiction over a number of our law enforcement
+agencies that every day are putting their lives on the line to
+protect the American people and to protect public officials and
+we are tragically, frivolously engaging in the misuse of
+impeachment by voting on an outrageous action. I for one am
+outraged about it and I want the record of the Judiciary
+Committee to reflect the insanity of doing this kind of work,
+as opposed to the work that helps the American people.
+So, again, I welcome you, Director Davis. Having been to
+the Judiciary Committee on several occasions, Director Davis
+has dedicated his career not simply to enforcing the law, but
+to the advancement of community policing, inspiring public
+trust, and enhancing accountability while improving public
+safety. For that we thank you. Recognizing his extensive
+background, I am confident that Director Davis is laser focused
+on meaningful implementation of the United States Marshals'
+multifaceted mission. The agency is as vital today as it was at
+its inception, more than 200 years ago. We rely on the Marshals
+Service comprised of over 10,000 employees across the country
+to uphold the rule of law, protect the Federal judicial
+process, and ensure the safety and security of our community.
+Each of the Marshals' key responsibilities are fundamental to
+the fabric of our justice system and their efforts extend
+beyond national borders, from apprehending fugitives and
+noncomplying sex offenders, to transporting and safeguarding
+prisoners, and overseeing the management of SSCs from criminal
+enterprises, these duties are essential to the preservation of
+public safety.
+Because the Marshals Service spends more than $2 billion on
+housing, detaining, providing their medical care, and
+transporting, it is necessary for us to examine implementation
+of President Biden's Executive Order that prohibits the
+continued use of private detention facilities by Federal
+agencies. Many of us on the Judiciary Committee have long
+called for an end to the use of private detention facilities
+due, in part, to a lack of meaningful oversight or
+accountability in the Federal Government's relationship with
+these facilities. That really has to improve. Confronted by
+security breaches, overcrowding, and misuse of funds, President
+Obama, and now President Biden, ordered a phasing out of these
+relationships. We are still far from fulfilling this mandate,
+nearly three years later. It is our responsibility to provide
+support to those agencies such as the Marshals that are
+responsible for implementing the President's Order.
+This leads me to another pressing issue the Marshals
+Service is currently facing which cannot go unaddressed today.
+Above all else, the Marshals Service plays a critical role in
+protecting the Federal judiciary which is foundational to our
+democracy. The agency's commitment to safeguarding the
+judiciary or judicial process is indispensable in maintaining
+the integrity of our court system, particularly during this
+politically charged time. Let us focus on making sure that the
+Marshals have the tools they need to protect nearly 3,000
+Federal judges, more than 30,000 Federal prosecutors, and core
+personnel serving in Federal Districts from the District of
+Columbia to the Districts of Guam, Puerto Rico, and the U.S.
+Virgin Islands. We have seen more than an uptick. We have seen
+a tsunami of attacks against these public officials.
+Judges and core personnel are enduring threats and personal
+attacks with increased regularity in States across the country
+including my home State of Texas. Just ordinary speech,
+however, it should not be characterized as being limited by our
+citizens. That we protect. What we are concerned about is any
+direct threats that may come about because of the position of
+the individual that is held.
+This problem is not new. Threats against judges have
+increased steadily over the last years, several years. Texas
+Office of Court Administration found that in Texas alone, there
+have been 522 judicial security threats since 2018, along with
+29 assaults, and 68 bomb threats. While many of these threats
+were not acted on, we can never forget the brazen attack on New
+Jersey District Judge Esther Salas that resulted in her son
+lying dead in her home and her husband critically injured.
+Today, the crescendo of threats precipitated by political
+divisiveness and malicious instigators on social media is more
+than concerning. Serious threats against Federal judges, those
+that require an investigation by the Marshals rose from 224 in
+Fiscal Year in 2021 to 457 in Fiscal Year 2023. Yet, it does
+not stop there. Serious threats against Federal prosecutors
+more than doubled during the same two-period. It is up to us to
+support the Marshals in their efforts to protect these
+individuals. The agency is vital to upholding the rule of law
+and safeguarding our judicial system and our system of
+democracy, ultimately protecting our communities and our
+democracy. As we fulfill our oversight duties today, let us
+focus our energies on supporting their efforts.
+Thank you very much and I will look forward to your
+testimony. Mr. Chair, do you want to recognize Mr. Nadler?
+Thank you very much, Mr. Davis.
+Mr. Nehls.  The gentlelady yields. I now
+recognize the Ranking Member of the Full Committee, Mr. Nadler,
+for his opening statement.
+Mr. Nadler. Thank you, Mr. Chair. Thank you for convening
+today's hearing on Oversight of the United States Marshals
+Service. Welcome back, Director Davis, and thank you for being
+here today.
+The United States Marshals Service is the oldest Federal
+law enforcement agency in the world. It has broad and varied
+responsibilities and plays a vital role in enforcing the law
+and keeping us safe and secure. As the enforcement arm of the
+Federal courts, its duties include protecting the Federal
+judiciary, apprehending Federal fugitives, managing and selling
+seized assets, housing and transporting Federal prisoners, and
+operating the witness security program. To ensure the success
+and efficiency of the agency, it is essential that we fulfill
+our oversight responsibility by carefully examining the
+operations, performance, and challenges faced by the Marshals
+Service. More importantly, we must be certain that we are doing
+all that we can to support the agency's multifaceted mission
+which ultimately keeps Americans safe at home and abroad.
+I hope that we will take advantage of the opportunity to
+avoid party politics, so that we can delve into critical areas
+that should be a bipartisan concern. I am particularly
+interested in learning more about the management of the
+Marshals' budget and resources, the implementation of policies
+and procedures that promote safety, and the preservation of
+life, the responsible use of new technologies, and the
+protection of civil rights and civil liberties.
+The agency has an annual operating budget of more than $3.8
+billion with more than 550 offices throughout the country.
+Nearly half of its funding is expended to provide housing,
+subsistence, medical care, and transportation for Federal
+detainees that are housed largely in local State and private
+facilities. That presents unique challenges because the agency
+is charged with protecting detainees in facilities that they do
+not control.
+Despite having relied on the use of private detention
+facilities for many years, the Marshals are currently tasked
+with implementing President Biden's Executive Order to phaseout
+the Federal Government's use of private facilities. This was an
+important step because of the contrast of these private
+facilities provided for minimal oversight, leaving Congress,
+detainees, loved ones, and the public clamoring for information
+about the safety and well-being of Federal detainees.
+While they recognize that a deliberate process is necessary
+to carry out the President's Executive Order, including the
+consideration of logistical and due process concerns, I
+understand that the agency has continued to contract with some
+private facilities, often with the support of Federal defenders
+and District Court judges in affected districts. In some cases,
+the White House Counsel's Office has granted specific
+exemptions, but some of these contracts have been entered into
+by exploiting certain legal loopholes. I am interested to hear
+how the agency is working toward full compliance with the
+Executive Order.
+I also hope that we can examine more fully whether the
+Marshals maintain sufficient oversight of the facilities that
+it contracts with to house Federal detainees. This is true for
+private detention facilities, as well as State, local, and
+Federal detention facilities. We just also closely examine the
+Marshals' coordination with other law enforcement entities in
+its response to evolving threats and risks, particularly since
+threats and inappropriate communications against Federal judges
+and other court personnel continue to rise. There is an urgent
+need to understand the extent of the problem and to develop a
+strategy to address it as evidenced by the tragic attack on
+U.S. District Judge Esther Salas that left her son dead, and
+her husband seriously injured.
+The Marshals Service has many accomplishments to be proud
+of including the arrest of more than 73,000 fugitives while
+clearing over 86,000 State, local, and Federal arrest warrants
+last year. I also applaud the agency's earnest commitment to
+promoting transparency and enhancing public trust by equipping
+its offices with body-worn cameras. I am hopeful that today's
+hearing will be a constructive dialog across party lines that
+will enable us to address any deficiencies or inefficiencies
+that might hinder the agency's ability to fulfill its critical
+mission. With these goals in mind, I look forward to hearing
+from our witness, and I yield back the balance of my time.
+Mr. Nehls. The Ranking Member yields. Without objection,
+all other opening statements will be included into the record.
+We will now introduce today's witness. The Honorable Ronald
+L. Davis is the Director of the United States Marshals Service.
+He was sworn in on September 27, 2021. Director Davis leads an
+agency with more than 10,000 employees and more than 500
+domestic offices and four foreign field offices. He has served
+more than 28 years in law enforcement and thank you for that,
+starting in 1985 with the Oakland, California Police
+Department. We welcome our witness and thank him for appearing
+today.
+We will begin by swearing you in. Will you please rise and
+raise your right hand? Do you swear or affirm under penalty of
+perjury that the testimony that you are about to give is true
+and correct to the best of your knowledge, information, and
+belief so help you God?
+Let the record reflect that the witness has answered the
+affirmative. Thank you and please be seated. Please know that
+your written testimony will be entered into the record in its
+entirety. Accordingly, we ask that you summarize your
+testimony.
+Director Davis, you may begin.
+STATEMENT OF THE HON. RONALD L. DAVIS
+Mr. Davis. Good morning, Mr. Chair, Ranking Member Jackson
+Lee, distinguished Members of the Committee, thank you for the
+opportunity to appear before you today.
+As was mentioned, after 35 years of public service starting
+in the military, over 28 years in law enforcement with 20 years
+in Oakland, and eight years as Police Chief in the beautiful
+city of East Palo Alto, and three years as Director of the
+Department of Justice's Office of Community Oriented Policing
+Services, I am proud to appear before you today to discuss the
+agency I now have the distinct honor and privilege of leading,
+the United States Marshals Service.
+As mentioned, my complete statement for the record is
+available, but I would like to take a couple of moments to
+highlight several critical missions of our Nation's oldest
+Federal law enforcement agency. Let me start with the most
+important factor to our success and that is the women and men
+of the United States Marshals Service. Our workforce is
+comprised of dedicated, courageous, and effective professionals
+committed to our mission and the agency's core values of
+justice, integrity, and service.
+Let me give you a snapshot of just their work. In the last
+year, in partnership with our local, State, and Tribal
+partners, we apprehended over 73,000 fugitives. That includes
+over 5,400 homicide suspects. We also recovered 495 missing and
+endangered children and assisted local law enforcement in
+conducting over 53,000 sex offender compliance checks. As
+outlined in the Attorney General's Violence Reduction Strategy,
+focusing on those individuals that are the drivers of violent
+crime makes our community safer. This success, however, comes
+at an extremely steep price. My deputy and task force officers
+have faced gunfire during 47 separate incidents over a three-
+year period. Just in the first two weeks of this month, in
+February, our deputies and task force officers faced gunfire
+during four separate incidents and one local sheriff's deputy
+that was assisting our efforts was shot and injured. I plan to
+visit this wounded sheriff's deputy over the next couple of
+weeks. When I do, he will be the eighth deputy marshal or local
+officer shot in the line of duty that I will visit just over
+two years as director.
+Our work is exceedingly dangerous. It requires exceptional
+skill and sophisticated training and equipment and as you can
+imagine, the daily risk is not just physical. It also includes
+psychological stress to our entire workforce and their
+families. Accordingly, officer safety, morale, and wellness
+have and will continue to be one of my top priorities. We
+cannot effectively serve the American people if we do not take
+care of our most valuable asset, that is the men and women of
+the United States Marshals Service.
+I am grateful that the administration included $29 million
+to support deputy safety and wellness in the Fiscal Year 2024
+budget. I hope this Committee in Congress will keep officer
+safety in front of mind as it finishes this budget.
+With that being said, let me now focus on our primary
+mission of judicial security. Since our creation in 1789, the
+United States Marshals Service has been charged with protecting
+the judicial process including safeguarding over 2,700 Federal
+judges and as was mentioned, over 30,000 members of the court
+family including prosecutors, defense attorneys, witnesses,
+jurors, and other court officials. In Fiscal Year 2023, the
+Marshals Service produced over 500,000 pretrial detainees in
+court proceedings and provided custody and care for an average
+daily population of over 59,000 detainees. We also provided
+security for over 800 Federal courts across the country.
+The importance of the judicial security mission cannot be
+overstated. Courts are a democracy are an independent judiciary
+that can operate safely without the threat of violence. This is
+why I am deeply concerned with the alarming increase in threats
+against our judiciary and the violent nature of those threats.
+In the past three years, the number of threats against Federal
+judges have more than doubled as have threats against
+prosecutors and other court officials. We are also seeing
+increases in the use of social media and platforms to target
+officials with hate language and violent rhetoric that has
+potential to incite violence. Additionally, there is a
+troubling increase in criminal swatting incidents.
+Let me give you a couple examples of threats. These were
+somewhat edited to protect the investigations. A Federal judge
+got a phone call from someone who said, ``I am going to kill
+you, if you don't kill yourself.'' In another case someone
+threatened to, ``Go to a Federal courthouse and do a mass
+shooting.'' As was mentioned at the opening, we cannot forget
+in 2022, there was attempted assassination of a U.S. Supreme
+Court Justice at his residence that was deterred by Deputy
+Marshals standing their post. These are just a few examples,
+but they highlight why the Marshals Service is now providing an
+unprecedented level of staff and resources toward judicial
+protection and risk mitigation measures.
+I must state in stark terms that the current and evolving
+threat environment facing the judiciary constitutes a
+substantial risk to our democracy. I look forward to discussing
+this risk in more detail and outline the measures we are
+taking, as well as the impact these resource-intense measures
+have on our other critical missions.
+Please allow me to close my opening comments as I started
+by thanking the men and women of the United States Marshals
+Service. It is my greatest professional honor to work beside
+them. Thank you, Mr. Chair and Madam Ranking Member for this
+hearing. I look forward to answering your questions.
+
+
+Mr. Nehls. Thank you, Director Davis. I will now proceed
+under the five-minute rule with questioning. The Chair
+recognizes myself for five minutes.
+Director Davis, is it true that the U.S. Marshals Service
+is responsible for the care, control, and custody of the
+January 6th detainees?
+Mr. Davis. Thank you for that question, Mr. Chair. It will
+be for those that are still pending trial, yes.
+Mr. Nehls. Very good. Are you aware of a Lieutenant Crystal
+Lancaster?
+Mr. Davis. Offhand, no, I am not.
+Mr. Nehls. Fair enough. What about a Mr. Ronald Colton
+McAbee, this former deputy behind me, who was a January 6th
+inmate at the D.C. Department of Corrections?
+Mr. Davis. Mr. Chair, I am not. I just remind you that we
+do have over 59,000 people in our agency.
+Mr. Nehls. Fair enough. I am just asking the question are
+you aware or are you not.
+Director Davis, on September 6, 2022, at around 11:45 a.m.
+in the D.C. Department of Corrections, Lieutenant Lancaster
+confronted Mr. McAbee at the medical cart for not wearing his
+face mask. We were in the height of COVID. I got it. Not having
+his face mask. As I understand it, Lieutenant Lancaster then
+deployed her hand-held OC spray, sprayed it all into his face
+at close range. It has been reported that Lieutenant Lancaster
+intentionally used these chemical agents several times against
+Mr. McAbee without any provocation. As a former sheriff, did it
+for a long, long time, 30 years, talk a little bit about the
+use of this chemical agent, the OC spray. In the use of force
+model, the use of force continuum, it would require that even
+if an inmate, his passivity, the restraint, he is not being
+physically assaultive, an officer would not be authorized to
+use these chemical munitions unless the inmate was assaulted.
+If video footage were to show that Mr. McAbee was not
+assaultive, would Lieutenant Lancaster have violated Colton's
+civil rights under the color of law?
+Mr. Davis. I am sorry, can you repeat the question, Mr.
+Chair?
+Mr. Nehls. Would Lieutenant Lancaster have violated Mr.
+Colton's civil rights under the color of law if he was not
+showing any type of assaultive behavior?
+Mr. Davis. Thank you for the question. I am not in a
+position to respond to or talk about any specific
+investigation.
+Mr. Nehls. OK, all right. Do you know--so you don't know
+this Lieutenant Lancaster, placed on administrative leave, like
+right away, placed on administrative leave, I placed deputies
+on--I had 600 or so, placed them on administrative leave when
+there was some type of investigation. Lieutenant Lancaster was
+on administrative leave which I learned she was placed on it
+immediately after this incident, but I don't know where she is
+now and apparently you wouldn't know either, where this
+individual would be today has been placed on administrative
+leave after the incident?
+Mr. Davis. I thank you again. I am just reminded that it is
+also--custodial facilities are run by--
+Mr. Nehls. Right.
+Mr. Davis. Not run by the Marshals Service.
+Mr. Nehls. January 2023, I had an opportunity to visit the
+D.C. Jail. Spent about an hour there, spoke with the Director
+Thomas Faust. Are you familiar with Thomas Faust?
+Mr. Davis. Yes.
+Mr. Nehls. OK, he is the director. He and I got along. He
+is a former sheriff. I am a former sheriff. We just connected
+right away. Great, great individual. The guys in the jail
+seemed to be pretty concerned. I went into the pod where these
+J6 detainees, we learned that the officers all wear body
+cameras. Everybody has a body camera in the D.C. Jail. Director
+Faust said the footage between Mr. McAbee and Lieutenant
+Lancaster existed because I was concerned about this incident.
+People complained about it. The wife reached out to me and
+said. ``hey, my husband was sprayed with foam.'' He is a former
+lawman. He just served seven years. In fact, he later told me
+that I could come down and view the footage. I said I got some
+complaints here, let me come down and view the footage of this
+Lancaster spraying and see if we have any issues.
+Later was retracted. You haven't seen the footage then, I
+am assuming.
+Mr. Davis. No, I have not.
+Mr. Nehls. OK. In January, my staff FOIA'd this camera
+footage from both the U.S. Marshals and the Department of
+Corrections. The U.S. Marshals, who you oversee, J6 detainees,
+denied our request and stated that it fell within the D.C. DOC.
+We accepted it. Thought it was OK. However, the DOC later
+denied our request and appeal because,
+A release of such footage would constitute as a clearly
+unwanted invasion of personal privacy and is exempt from
+disclosure.
+I got a release here from the wife. It is all here. He signed
+it. Said I would like to see the video footage. Right? He
+signed this congressional privacy disclosure to release the
+footage. I have it here. Lieutenant Lancaster is a public
+employee. The D.C. Mayor's Office determined Mr. McAbee's
+privacy disclosure form was ambiguous since the D.C. DOC is not
+a Federal agency. Mr. McAbee is a detainee of the U.S. Marshals
+under you. I find this to be a severe departure from the truth
+and a blatant excuse not to release the footage.
+My point is that we have a problem here. I got complaints
+from the wife. I got complaints from the inmate under your
+custody inside the D.C. Jail, right? Now, we can't get this
+footage. It stinks. It seems like she is on administrative
+leave. We got a problem. We have a severe problem. My point is
+this, I am not really even asking you. I demand that you call
+the D.C. DOC to release the footage on one of your detainees.
+We should have a right to see this. If it is bad news, you
+don't like what it shows, we have to confess up to it. We have
+a problem here. In fact, I am going to make it my personal
+mission, my personal mission, to use every subpoena power that
+I can get from this Committee to get this footage. I apologize
+to this gentleman. I apologize to his wife, Sarah, for having
+to go through this with no answers or help.
+So, can I get a commitment from you and we are going to
+look into this. I have your assurance and we are going to look
+into this, and get this video footage because if not, we got to
+go to DOJ, I don't care. I have to go to whoever because I
+think we have a problem here and it seems like it is being
+covered up.
+Mr. Davis. If I could start by saying that I share your
+priority to make sure that those that are in our custody are
+treated humanely and within Federal standards. If there is
+misconduct, we are committed to investigating all allegations
+of misconduct. I will commit my team to work with yours to see
+how we can be responsive to your request, but as also
+mentioned, we have our 60,000 detainees in some 1,800
+facilities, so we also have to work with the local jurisdiction
+as well. I am committed to working within the team on that.
+Mr. Nehls. Very good. My team will get with one of you in
+the back of you before we leave this hearing. All right. I
+yield back. I now will recognize Ms. Jackson Lee for five
+minutes.
+Ms. Jackson Lee. I thank the Ranking Member.
+Mr. Director, you have a lot of responsibility, and it is
+even increasing in light of the rising threats that we have
+against the Judiciary. Let me find out how you are trying to
+implement the President's Executive Order, both former
+President Obama and President Biden, on the private prisons.
+Mr. Davis. Thank you--
+Ms. Jackson Lee. How many of you have remaining, and what
+are the firewalls that you are using to ensure the
+constitutional of our prisoners.
+Mr. Davis. Thank you, Ranking Member.
+As of now, we are in complete compliance, we believe in the
+Executive Order with regard to private prisons. With the
+tremendous work of my team, we have ended the use of seven
+private prisons. They reduced their population inside.
+Use of private prisons, if I may, we are still operating
+five, but we are moving forward in full compliance with this
+order.
+Ms. Jackson Lee. So, you are operating in five, and they
+are located where?
+Mr. Davis. I would have to come back, Ranking Member, to
+give you the exact locations. We still have five.
+Ms. Jackson Lee. Do you know what the guesstimate of the
+total detainees would be in those five?
+Mr. Davis. Right now, the total population of detainees we
+have in private prisons is about 6,400.
+Ms. Jackson Lee. OK, are you to affirm that you are doing
+everything you can for the safety and security but also, again,
+the constitutional protections that they should have?
+Mr. Davis. Yes, we are. We are still working with the
+districts to make sure that we inspections, that we are still
+taking full responsibility for the treatment of our detainees,
+whether in private prison or others. So, we would continue to
+work with the districts in the field to make sure that the
+standards are being met.
+Ms. Jackson Lee. So, my friend from Texas indicated an
+incident that it is not your facility, obviously, and you have
+inmates in other facilities. How do you manage that when there
+are potential complaints against inmates in other--detainees in
+facilities, you have jurisdiction over the detainees, that the
+facility is not yours?
+How do you respond? The safety and security and
+constitutional protection.
+Mr. Davis. Thank you for the question. We have a couple
+things. One, each district, as mentioned, we have 94 U.S.
+Marshals, one for each judicial district, that are
+Presidentially appointed. They are responsible for the
+facilities, and oversight of the facilities in their district.
+We also have thousands of career professionals who do a
+tremendous job in holding these facilities accountable. We have
+some over 1,800 facilities that we use. So, we have processes
+in our agreement with them that they are to meet Federal
+detention standards.
+We have processes in which we will conduct inspections,
+some announced, some unannounced, to make sure they live up to
+these standards.
+We also work very closely with the people that run our
+facilities. A large percent of them, about 50 percent, are run
+by our sheriffs around the country, who we work very closely
+with to make sure that we are always living up to the
+conditions of confinement.
+Ms. Jackson Lee. Mr. Davis, do you consider full compliance
+with the Executive Order, even though you have five remaining
+facilities, private prisons, are you in dialog with the DOJ to
+say that this is in compliance or you have a certain deadline
+of moving forward?
+Mr. Davis. Yes, we are. Full compliance because we have
+ceased the use of seven and removed all our detainees from
+them. We have one that will be coming to an end, which we will
+not renew when it does end. We have not renewed any new
+additional private contracts.
+For the other four, they were waivers provided because of,
+it was mentioned earlier, issues of due process and logistics.
+We are continuing to make sure that we will comply with this
+order.
+Ms. Jackson Lee. Obviously, there have been some--I would
+like you to sort wrap your questions, I am going to give it as
+a holistic question. Obviously, some earlier points were made
+about political speech, First Amendment protected speech, but
+dealing with the safety and security of Federal judges.
+I would like you to comment on that, even SCOTUS, to
+indicate whether you have in any way diminished your protection
+of those jurors.
+Then to respond to my concern on the continued threats and
+attacks on our judges act legislation we are proposing for
+dealing with the safety and security of State judges.
+So, if you can speak to the protection of judges from
+SCOTUS to the Federal, so that you can convince us that you
+have not diminished your service in any way. Then, the
+importance of looking at judges in other jurisdictions. Mr.
+Davis.
+Mr. Davis. Yes, thank you for that. Protection of our
+Federal judiciary is our top priority. We do that in many ways.
+One, we provide protective assessments, risk assessments. We
+monitor communications of concern when it is targeting our
+judges. We have created intelligence units to track that.
+We also have increased our ability to enhance, thanks to
+Congress, actually, with extra positions to enhance security to
+do home residence. We have a home intrusion detection system
+program, which I am glad to say over 70 percent of the judges
+have agreed to, have actually signed up with it.
+We still try to prosecute, to the extent that we can, those
+that are making threats or attempted assaults on our judiciary.
+So, we are fully committed that we believe strongly that
+the protecting of our judiciary is the protection of our
+democracy. That this independent judiciary must be able to
+operate without those threats of direct violence. So, we are
+responding, we are working with our other agencies to do so.
+With regard to your question about your legislation, the
+State and local, I have talked to you about the legislation. I
+have not yet seen the language.
+Ms. Jackson Lee. Yes.
+Mr. Davis. So, I look forward to working with your team as
+you proceed forward. I would say some obviously recent cases in
+Maryland with the tragic assassination of a judge, and even one
+person witnessed in Las Vegas with the physical attack of a
+judge, makes the idea of judicial security is obviously just
+not Federal.
+So, in the way we can help as you move forward, we look
+forward to working with you.
+Ms. Jackson Lee. I hope to get my Chair and my fellow
+colleagues to join me on legislation that deals with the
+insight that the U.S. Marshals would have dealt with State and
+local judges.
+Let me finish this last point, Mr. Chair, if I might. Let
+me--you might answer this going forward, is the comings and
+goings of these Federal judges as they travel to home, a
+district home location, speaking engagements, and others.
+It came to my attention that a Supreme Court justice was
+traveling and was rightly placed in a first-class seat for the
+protection thereof, might have had someone traveling with them
+for their protection. Was subjected, I am not sure whether it
+was loud enough to be heard, to antagonistic comments.
+In this instance, why would this person have that authority
+to be in a first-class seat but intimidating. I want to raise
+this question, and I need you think about it as we go forward
+as to the travels and comings and goings. Our justices should
+not be subjected to that, absolutely not.
+We need to find a way to make sure there is complete
+protection of the comings and goings of our justices and
+judges.
+Mr. Biggs.  The gentlelady's time has expired.
+Thank you. I gave her, just so you know, I gave her a little
+bit of extra time because my surrogate took a little bit of
+time over his five minutes. So, we will go back to the five-
+minute rule now.
+The Chair recognizes Mr. Tiffany from Wisconsin.
+Mr. Tiffany. Thank you, Mr. Chair. I will honor that five-
+minute limit.
+I want to do a followup, Director Davis, in regard to
+Representative Jackson Lee's question. Is it correct that you
+folks received guidance to avoid arresting protesters unless
+absolutely necessary from the Attorney General?
+Mr. Davis. Thank you for that questions, Congressman. No,
+it is not.
+Mr. Tiffany. So, you were not told, the U.S. Marshal
+Service was not given guidance to avoid arresting protesters
+unless absolutely necessary?
+Mr. Davis. The guidance from the Attorney General of the
+United States was to protect the Supreme Court justices' lives
+and that of their family while at their residence. That we
+retain full authority to enforce the law.
+Also, to make sure that we did not do anything that would
+place the Supreme Court justices' lives at risk--lives at risk,
+excuse me.
+Mr. Tiffany. Thank you, Director, we will be following up
+on that.
+In regard to transporting prisoners that are in Federal
+custody, how many of them are illegal aliens, on your watch?
+Mr. Davis. Thank you for the question. We do not track our
+detainees by that status, or by immigration status.
+Mr. Tiffany. Where can I find that information? Actually,
+Director, wouldn't that be germane? Wouldn't it be important to
+know that for the U.S. Marshal Service if someone is in the
+country illegally and you are having to transport them?
+Mr. Davis. Thank you for the question. Again, we don't
+track by immigration status. What we do factor in for
+transportation would be the offense itself, what they are being
+arrested and charged with.
+Mr. Tiffany. What do you say, Mr. Chair, maybe that is
+something we need followup in the future?
+Do you have staffing shortages in some of your offices
+around the country?
+Mr. Davis. I think my Marshals would say yes.
+Mr. Tiffany. Is it true you are dedicating half a dozen or
+more Deputy U.S. Marshals to provide armed personal protection
+for you?
+Mr. Davis. For me personally?
+Mr. Tiffany. Yes, for you.
+Mr. Davis. I won't get to the extent of the security
+measures, but I do have a protective detail, yes.
+Mr. Tiffany. Does it include chauffeuring you to work each
+day?
+Mr. Davis. I am not going to get into the extent of the
+coverage. I hope you will understand, because all our details
+are risk-based or threat-based. As a result of that, I just
+don't want to do anything that would expose me to further risk
+or threat, if you don't mind.
+Mr. Tiffany. So, the people that are on your security
+detail when you are at the office because your office in
+Crystal City is a secure facility, is that correct?
+Mr. Davis. Correct.
+Mr. Tiffany. What do they do all day, then, when they--if
+they have come in, escorted you in, will take you, escort you
+home, what do they do then all day?
+Mr. Davis. I appreciate the question, but again, I won't
+get into what my detail does or any detail. There is a lot of
+work that goes into protecting more than just what people may
+see. Once again, I don't want to give--expose our methods or
+talk about to what extent or the size of any protective detail,
+let alone mine.
+Mr. Tiffany. Was there a threat assessment conducted in
+regard to what your security detail should be?
+Mr. Davis. Yes.
+Mr. Tiffany. So, there was?
+Mr. Davis. Yes.
+Mr. Tiffany. Is that available to us?
+Mr. Davis. I will give it to your team to see if is to make
+sure it does not compromise:
+(1) I would ask that it not compromise safety or that of my
+family. Once again, because they are risk-based and threat-
+based. I would prefer not to have risk and threat, but this is
+where we are at.
+(2) That it does not undermine or release any type of
+method. So, I do commit to working with your team to see how we
+can be responsive to that request.
+Mr. Tiffany. Yes, to be clear, the questions are done for
+the sake of accountability. I certainly understand your
+personal safety and your family's safety in regard to this.
+Mr. Chair, this I think would be another ask that I would
+make, is if we could get a copy or get an understanding of the
+threat assessment that this Committee could evaluate, if we
+would do that.
+Did your protection detail accompany, or a detail accompany
+you on recent travel abroad?
+Mr. Davis. Once again, I'm not going to get into the level
+of coverage. I want to know what travel you are referring to.
+Mr. Tiffany. Have you and your office explored dedicating
+an aircraft for your domestic travel? So, in other words,
+having an aircraft dedicated to the U.S. Marshal Service and
+specifically you as the Director?
+Mr. Davis. No, we have not.
+Mr. Tiffany. You have not explored that?
+Mr. Davis. We have explored--no, not for my personal
+travel. We are exploring aircraft for extraditions, for the
+transportation of our special operations group, for those
+operational missions in which commercial flight may not be
+prudent. Definitely not for my travel.
+Mr. Tiffany. Do you have the numbers for what is the cost
+to the taxpayers for your personal protection detail?
+Mr. Davis. Like I said, I can followup with you. I am sure
+we can provide you with those numbers.
+Mr. Tiffany. Yes, Mr. Chair, if we could get that. I am
+going to honor the five-minutes here. I yield back.
+Mr. Biggs. The gentleman yields back. The Chair recognizes
+the Ranking Member for the entire Committee, Mr. Nadler from
+New York.
+Mr. Nadler. Thank the gentleman.
+Director Davis, the order to phaseout private prisons was
+issued in January 2021, so it is three years ago. In three
+years, you phased out seven prisons. You have got five left.
+How long do you think it will take to phaseout the remaining
+five?
+Mr. Davis. Thank you for that question. As a starter, we
+are definitely committed to full compliance with the order. It
+may be a little bit hard to answer that. We know at least one
+the time, the contract will end very soon, I would say within
+the next year.
+For others, there are still the issues of logistics and
+making sure we have alternatives where we can place our
+detainees. So, I think to give you a number, that would be hard
+to give you that number.
+Mr. Nadler. OK. Second, the Secret Service protects the
+Executive Branch, you protect the Judicial Branch. Many Members
+of Congress--there have been many threats to Congress recently.
+Senator Romney said that he spends personally $5,000, I forget
+whether he said a day or a week, for his personal protection.
+Do you think it for the Marshal Service to think about
+protecting threatened Members of Congress?
+Mr. Davis. I'm sorry, the last part of the question I
+didn't get.
+Mr. Nadler. Do you think it for your office to think about
+protecting threatened Members of Congress?
+Mr. Davis. I thank you for that question. The challenge
+with that would be our statute right now authorizes us to
+protect specific Members as far as the judicial process. So, we
+would not have the authority do so.
+Mr. Nadler. You need a statutory change.
+Mr. Davis. Statutory, yes.
+Mr. Nadler. Thank you. Have current appropriations levels
+presented any issues or challenges in executing the Marshal
+Service's missions, and if so, what are they and how are you
+responding to these challenges?
+Mr. Davis. So, the current funding measures for Fiscal Year
+2023, I think we are responding to the threats that I
+mentioned. We are putting in an inordinate amount of resources
+now based on judicial security because of the threat
+environments.
+I am concerned about moving forward, and I think we have
+identified in the President's Fiscal Year 2024 budget the
+additional resources that we would need to increase protective
+operation in judicial security and other challenges that we are
+going to be facing.
+Mr. Nadler. What is the Marshal Service's current policy on
+housing detainees with respect to distance from court?
+Mr. Davis. We try to make--thank you for that question,
+Congressman. We try to keep our detainees close to where the
+hearings are going to be or the court case. As we move them
+around, and it does provide challenges with regard to some
+cases of due process, access to their counsel, and obviously
+increased resources and costs to transport them.
+So, there is not a specific policy, it has to be we can
+really accommodate their trial--their hearings, if you will.
+Mr. Nadler. Do you believe that the Federal justice would
+be better served by a statutory requirement that limits the
+distance that detainees can be housed?
+Mr. Davis. I don't think--I appreciate the question,
+Congressman. I don't think I can answer that. I would have to
+get more into the details, because there's a lot of variables.
+So, I really could not answer that.
+Mr. Nadler. OK. Following the President's Executive Order,
+which banned renewal of contracts with privately operated
+detention facilities, the Marshal Service has entered into
+several agreements with local government entities that in turn
+have contracted with these same private facilities.
+Essentially, this had enabled the Marshal Service to do an
+end-run around the Executive Order, continuing to house
+detainees in the same private facilities that they would
+otherwise be prohibited from contracting with directly.
+The White Counsel's Office has granted a number of
+exemptions from the Executive Order. Why has the Marshal
+Service chosen to enter into these passthrough,
+intergovernmental agreements, instead of simply requesting
+additional exemptions from the White House Counsel's Office?
+Mr. Davis. Thank you for that question. From my
+understanding, there is one facility that you may be
+referencing in Northeast Ohio.
+From my understanding at that time, that was the best
+option that the agency as far as subcontracting with the local
+government, based on the time when the contract ended and based
+on the ability for us to maintain our detainees. So, that was
+the best option.
+Mr. Nadler. Thank you. What oversight does the agency
+engage in when it contracts with private facilities?
+Mr. Davis. Thank you again. As I mentioned earlier, our
+priority is still to make sure that all our detainees are
+basically held to the best standards. So, we will still conduct
+the inspections. We work with the facilities.
+We do the inspections; we do regular inspections. We make
+sure, and we have a process to make sure that we investigate
+all complaints that were mentioned and all allegations of
+misconduct.
+Mr. Nadler. Thank you. I asked about the policy on housing
+detainees with respect to distance from court. What about the
+policy in housing distance with respect to loved ones and with
+respect to legal counsel?
+Mr. Davis. Thank you again. I think that is what I was
+mentioning. That is a critical part of the process. As you
+mentioned, it is why it is, as we are moving forward with the
+order, that we try to make sure we don't move them too far
+because of the access to counsel, access to family.
+If I just may say this, Congressman, that is really
+important because nearly all our detainees are pretrial. So,
+they should be afforded the presumption of innocence, which
+means they need to have the ability to be close to their
+counsel as they proceed through the process.
+Mr. Nadler. Thank you. I yield back.
+Mr. Biggs. The gentleman yields. The Chair recognizes the
+gentleman from Alabama, Mr. Moore.
+Mr. Moore. Thank you, Mr. Moore.
+Thank you, Mr. Davis, Director Davis, for being here today.
+Over the last few years, left-wing activists have
+threatened our justices. After the unprecedented leak of the
+Dobbs opinion, Attorney General Garland directed around-the-
+close security for all non-Supreme Court justices.
+Our independent justices' lives are at stake. After the
+Dobbs opinion was leaked, the left-wing activists attempted to
+harass and even harm members of the Supreme Court. One
+individual was arrested at the home of Justice Kavanaugh armed
+with a handgun, a knife, zip ties, and other weapons in his
+opposition to the Dobbs opinion.
+Just recently in December, a man was arrested for leaving a
+voice mail threatening to kill Chief Justice Roberts.
+Considering all the threats, the Attorney General Garland
+directed the United States Marshal Service to avoid arresting
+pro-choice protesters unless absolutely necessary.
+Director Davis, thank you for your leadership in protecting
+our Federal judges. What was your response to Attorney General
+Garland when he directed you to limit the arrest of protesters?
+Mr. Davis. Thank you for your question. The Attorney
+General's order was very clear, it was actually crystal clear:
+Protect the lives of the justices. He made sure that we still
+had full authority to make arrests, but not to engage in any
+activity that would compromise their safety.
+I did not receive any orders from the Attorney General to
+avoid any specific arrest.
+Mr. Moore. So, would you have agreed with that directive if
+he gave it?
+Mr. Davis. I am sorry?
+Mr. Moore. Would you have agreed with the directive?
+Mr. Davis. I am not going to respond to a hypothetical.
+Mr. Moore. Let me ask you this: Any idea who leaked the
+Dobbs decision? I mean, we have got all these great arrests
+going around the country right now for certain activists, but
+any idea who leaked the Dobbs decision? Do we have any record
+of that?
+Mr. Davis. Once again, thank you for your question. I think
+probably as the Congressman knows that would be--I would refer
+you to the Supreme Court Marshal, which actually is not part of
+the Marshal Service. They were doing that investigation.
+Mr. Moore. Well, thank you, Director, I appreciate your
+efforts in terms of protecting the judges and protecting our
+system of justice.
+So, with that, Mr. Chair, I will yield back. Yield to the
+Chair.
+Mr. Biggs. Thanks, I thank the gentleman for yielding to
+me.
+So, I want to cover your response that you sent yesterday,
+Director, to a letter sent not quite a year ago, about nine
+months ago, on May 3, 2023, by Chair Jordan.
+In that, he makes reference to Section 1507 of Title 18 and
+talks about the very things that Mr. Moore was talking about,
+which is why I wanted to dovetail with his comments.
+One of the things that he did is he noted that,
+The training materials provided strongly suggest that the
+administration has continued to weaponize Federal law
+enforcement agencies for partisan purposes.
+Whether you agree with that or not, what he did ask
+specifically was for the production of documents. He gave four
+categories of documents. I will read to you what those are.
+(1) All documents, communications between the Marshal
+Service and the Department of Justice referring or relating to
+enforcement of 18 U.S.C. 1507 for the period of May 2, 2022, to
+the present.
+(2) All documents, communications between the U.S. Marshal
+Service and the U.S. Attorney's Office for the District of
+Maryland referring or relating to the enforcement of 18 U.S.C.
+1507 for the same period.
+(3) All documents, again, same time period, ``for the
+Eastern District of Virginia.''
+(4) Then all documents and communications between the U.S.
+Marshal Service and the Executive Office of the President
+referring or relating to the enforcement of 18 U.S.C. 1507 for
+the same period.
+The reason I raised that is because in your response, there
+were no documents included or produced or any communications. I
+am wondering if you can explain what your thought was in not
+including any of those documents or communications.
+Mr. Davis. Yes, thank you, Mr. Chair, and I am aware of the
+response that we sent to the Chair. I look forward to working
+with the Committee, is there is additional information that you
+requested? We provided a response to the Chair.
+Mr. Biggs. You didn't provide the documents, and that is
+what he specifically asked, Mr. Director. He asked for the
+documents and communications.
+The reason that those are important is because it will
+either corroborate--it is going to corroborate somebody.
+Somebody's allegations or the position of the U.S. Marshal
+Service. Somebody is going to be corroborated, but we are going
+to get to the truth.
+As part of our oversight function, we are entitled to those
+documents and communications. That is why I am wondering when
+you might provide those to us. Or are you telling me
+categorically that you are not going to provide those to us?
+Mr. Davis. Once again, thank you. I would continue to work
+with my Office of Congressional Affairs, as well as the
+Department's Office of Legislative Affairs that I know has been
+in contact with the Chair's team to try to be responsive.
+We did send a response, as you mentioned, that the Chair
+should have received it yesterday. We will continue to work to
+see how we can be responsive.
+Mr. Biggs. So, that is really not responsive to my
+question. Are you going to provide the documents or not, I
+guess is the question?
+Mr. Davis. I would say I would work with the team to see
+how we can process the request.
+Mr. Biggs. All right. My time is up, or Mr. Moore's time is
+up, actually. So, I yield.
+I will recognize the gentlelady from Pennsylvania, Ms.
+Dean.
+Ms. Dean. I thank you, Mr. Chair, and I thank the Ranking
+Member for having this oversight hearing.
+Welcome, Director Davis. Thank you and your more than
+10,000 employees of the United States Marshal Service, USMS.
+In your written testimony, and you have said it here of
+course, you said, ``Safety is our top priority.'' Of course,
+you are charged with ensuring the safety of USMS detainees, the
+judiciary as well as officers.
+I would like to ask you a few questions about how you
+fulfill that mission and those important duties. I am thinking
+particularly of guns in courtrooms.
+As you noted, USMS is responsible for protecting the
+judiciary. Can you explain what are the procedures that exist
+to keep courtroom proceedings safe and peaceful? I am thinking,
+particularly, how do you make sure people intending to commit
+violence do not bring guns into courts and courtrooms?
+Mr. Davis. Thank you, Congresswoman, for that question.
+When you mentioned--I just want to correct one thing for the
+record, if I may. When you mentioned the 10,000 employees, it
+will be 5,700 employees.
+I was adding as part of the workforce would be the 5,800
+court security officers that I would now reference now. That
+part of the security that you are asking about is to make sure
+that, as you know, when you walk into a Federal courthouse,
+that we do have processes and magnetometers to try to prevent
+firearms from getting inside the courthouse.
+That would be staffed by those court security officers.
+Ms. Dean. Can you tell us about that? Is every one of these
+courthouses using magnetometers, and have you had any leakage
+of weapons in courtrooms?
+Mr. Davis. Thank you for the question. Every courthouse
+does have that. I cannot think of any, but I can double check
+and make sure that we have had any leakage, or as far as people
+have actually been able to breach that location with a firearm.
+I can definitely double check.
+Ms. Dean. OK. Or other weapons?
+Mr. Davis. Or other weapons, yes.
+Ms. Dean. Yes, if you would get back to us on that, that
+would be terrific.
+We are all alarmed to know the threats against judges have
+been rising steadily in recent years. Tragically, we have
+spoken about the two fatal shootings and the serious wounding,
+of course, of the husband of one judge.
+What are you observing in terms of these increased threats?
+Who is most likely to be targeted? Sadly, do you worry that
+deaths will increase if it becomes easier to bring guns into
+court?
+Mr. Davis. So, thank you for the question. I will start
+with the last part first, if you don't mind. I would definitely
+worry if there was a way to bring in firearms and weapons into
+the courtroom. So, that would increase our risk posture
+greatly.
+The kind of threats that we are seeing right now, it is--
+the challenge that we have right now, Congresswoman, it would
+be hard to say who is more at risk. What we are seeing right
+now is that people--extreme views, usually opposite views of
+any decision, if they are extreme, we see increase in violent
+rhetoric, increase in threats.
+So, there is no leaning, it is just people that are,
+unfortunately, some are disagreeing with the opinions of the
+court or the actions of government officials. They are
+basically, they are resorting to either violence or threats of
+violence in response.
+Ms. Dean. Thank you. A very sad State of affairs for our
+country. Do you do assessments as to nondetectable firearms
+getting into court?
+Mr. Davis. My understanding, no, we do not.
+Ms. Dean. Maybe you should. I think it is time to begin
+thinking about that, because we know the technology is ever-
+changing.
+I wanted to turn for my last minute and a half or so to the
+treatment for addicted persons in USMS custody or detention.
+What resources does USMS provide to addicted persons in your
+custody or care? Is there medical treatment like methadone
+available? Is there counseling? How long would somebody who is
+suffering symptoms of withdrawal need to wait before being
+treated, basically?
+Mr. Davis. Thank you for the question. I will start by
+saying that obviously we are responsible for providing medical
+and healthcare to all our detainees. That decision would be
+made by medical professionals after taking a look at what is
+the best response or course of action.
+I cannot speak specifically if there is specific treatment
+for addiction or different programs. I would have to get back
+to you on that one to identify what kind of programs in our
+various facilities across the country.
+Ms. Dean. Are you aware of instances of folks going into
+withdrawal, suffering from the disease of addiction, in your
+custody?
+Mr. Davis. I am not personally aware of it, but it would
+not surprise me.
+Ms. Dean. I would sk, if you would, to offer us a review of
+that.
+Mr. Davis. Yes.
+Ms. Dean. To see what kinds of attention and treatment,
+care is given to those suffering from a disease.
+I also would ask in followup to some of the very important
+questions here about the private prisons, privately run
+detentions, that you would offer us a review of those final
+five. What is the timeline to close the final five?
+Mr. Davis. I look forward to working with the Committee and
+the group about continuation of the compliance with the
+Executive Order. So, I can definitely work with your team on
+that.
+Ms. Dean. Terrific, and I thank you again for your service
+to our country.
+Mr. Davis. Thank you, ma'am.
+Mr. Biggs. The gentlelady's time has expired. The Chair
+recognizes the gentleman from South Carolina, Mr. Fry.
+Mr. Fry. Thank you, Mr. Chair. Director, thank you for
+being here.
+I want to go back to kind of a theme a little bit about the
+Supreme Court detail that you all have provided. In May 2022,
+Merrick Garland of course as you discuss issued or directed the
+Marshal Service to provide around-the-clock security for the
+judges.
+In light of, particularly, the leak of the Dobbs decision,
+Director, why do you think people protest? What is the point,
+not the reason why, or not the specific issue, but why do you
+think people generally protest in this country?
+Mr. Davis. Thank you, Congressman, for that question. I
+don't think I am in a position to speak for why.
+Mr. Fry. It is to impact change. It is to impact policy. Is
+that correct? That is probably why people--they don't just go
+out there for nothing, they go out there to impact something,
+right? They go out there to make their voice heard and create
+change that they want, right? That is the point of the protest.
+Mr. Davis. I can't speak to that.
+Mr. Fry. That is fine. We can play this game. So, the
+question is, is Senator Katie Britt, back in March of last
+year, had a conversation with the Attorney General about some
+slides that were created for the Marshals in the training up to
+the protection of these justices.
+Are you aware of that? Are you aware of the slides, first
+of all?
+Mr. Davis. I am aware of the slides that the Senator
+brought forward, yes.
+Mr. Fry. OK. Did the Department of Justice create those
+slides, or was it the U.S. Marshals that created those slides?
+Mr. Davis. The training provided to the deputies on that
+assignment was provided by the Marshal Service at my direction
+and with my career professionals, who by the way I think did a
+tremendous job, as that mission has been met every day for
+about 400 days. They have been very successful.
+Mr. Fry. So, were there instructions not to arrest
+protesters given by you or someone else with the Marshals?
+Mr. Davis. The direction provided to the deputies, and if I
+can say, it has been 1,700 deputies have rotated through this
+assignment.
+The message to them was very clear, it is the same as the
+Attorney General gave me: Protect the lives of the justices and
+their families, retain full--the deputies always retain full
+authority to enforce the law, but take no action that would
+compromise their safety. That was the heart and soul of the
+training.
+Mr. Fry. Right, so here is the rub that I have and the
+problem that I have, Director, is that for a month, protests
+have been happening outside of justices' homes in a leak of a
+Dobbs decision that was not yet decided, presumably, right. So,
+are you aware of 18 U.S.C. 1507?
+Mr. Davis. Yes, I am.
+Mr. Fry. What does that say?
+Mr. Davis. I am going to paraphrase, if you all trust me to
+do that.
+Mr. Fry. That is fine, yes.
+Mr. Davis. Basically, anyone that pickets or parades with
+the intent to interfere, obstruct basically--it doesn't say
+just Supreme Court, any court official.
+Mr. Fry. Correct.
+Mr. Davis. Right, at their place where they are presiding
+or where they are residing or maybe at.
+Mr. Fry. Right, and so they could be arrested, presumably
+under that code section, correct?
+Mr. Davis. Yes, they could.
+Mr. Fry. They could be fined, according to that code
+section, right?
+Mr. Davis. Yes.
+Mr. Fry. So, why was that not done here?
+Mr. Davis. If I may go again, once again, the primary
+mission for the Marshal Service, given by the Attorney General,
+was the protection of the Supreme Court justices' lives and
+that of their family.
+Mr. Fry. Look, I don't dispute the mission, and thank you
+for what you have done to protect their lives. They have
+received death threats, have they not?
+Mr. Davis. I can't speak to the threats to the--
+Mr. Fry. That is in the media. So, they have received death
+threats. There have been arrests.
+The whole point is the code section is pretty cut and dry
+to me. There is no ambiguity within the code section. It says
+that if you protest or picket outside of a judge's or justice's
+homes, that they can be arrested.
+So, these justices, in fear for their lives, are like
+confined to their homes with these people outside that are
+threatening their lives, picketing outside. You all protected
+them.
+The question is why would we even issue guidance from the
+U.S. Marshals that is contrary to code that was passed by
+Congress in I think 1994?
+Mr. Davis. Thank you again. The guidance given to the
+deputies would be to protect the lives of the justices. It was
+a protective mission to protect the lives of the justices.
+As the Attorney General has said repeatedly and I will say
+again, retaining full authority to enforce the law as long as
+any action they take did not compromise the safety of the
+justices.
+That is, the Attorney General also mentioned, and I will
+say again, is the decision on whether to take action and
+whether that action compromises the safety has to be made by
+the deputy in the field at the time.
+Mr. Fry. Director, this is where I have a little bit of an
+issue, because the law is pretty clear. That law says that you
+will arrest people for picketing outside of a judge's or
+justice's home with the intent of influencing their decision.
+This was a leak of a decision that had not yet been
+decided, and you all made the--look, I am for protecting free
+speech. I encourage it.
+If you look at this statute, it is very clear, the
+directive is clear, that you shall arrest people who are doing
+these things outside of a judge's home with the intent to
+influence a decision. That was not done, and that is deeply
+concerning to me and the American people.
+Thank you, Mr. Chair, I yield back.
+Mr. Biggs. The gentleman's time is expired. The Chair
+recognizes the gentleman from Georgia, Mr. Johnson.
+Mr. Johnson of Georgia. Thank you, Mr. Chair.
+Director Davis, thank you for your testimony today, sir. I
+was particularly struck when you talked about the escalating
+volatility and severity of threats against public officials and
+judges.
+We need to ensure that judges and court personnel are kept
+safe, and your officers are crucial in that effort. I will
+fight for a budget that gives you sufficient funding so that
+you can do this very important work.
+I would be remiss if I were not to highlight the threat to
+your funding that exists from this MAGA House Republican
+Congress, or House of Representatives, actually, who proposed,
+in their drastic budget, a cut of 22 percent.
+That would be the effect of funding U.S. Marshal Service
+operations at 2022 levels. This is what they proposed in the
+Fiscal Year 2024 budget.
+How would a rollback or a defunding of your budget affect
+your operations in terms of protecting judges, apprehending
+fugitives, protecting courthouses, and all the other
+responsibilities that your department has?
+Mr. Davis. Thank you for the question. I will point to the
+President's 2024 budget that outlines what we have identified
+is what is needed to be able to maintain the security posture
+that talked about, to respond to this evolving threat.
+Mr. Johnson of Georgia. You actually needed more money.
+Mr. Davis. Yes, that was in the request.
+Mr. Johnson of Georgia. Not less. House MAGA Republicans
+are proposing to give you less money. How would that be
+devastating on your ability to carry out the responsibilities
+that you are charged with?
+Mr. Davis. Congressman, what I was saying is if we ask for
+additional protective operations to address the threats, if we
+were not to get additional resources or the budget or cuts in
+that, then we would make the decision that would have--that
+judicial security is still the no. 1 priority.
+Which means we would have to--this would have an impact on
+the other critical missions, as you alluded to, like fugitive
+apprehensions, recovery of missing endangered children. Because
+our primary mission is the protection of judiciary.
+So, we would have to then make sure that all the resources
+necessary to accomplish that. We cannot compromise the third
+branch of government under any circumstances. It would have
+been done. I think it would have an impact.
+Mr. Johnson of Georgia. It would have a devastating impact,
+would it not?
+Mr. Davis. I won't use the word devastating, but it would
+definitely have an impact.
+Mr. Johnson of Georgia. Well, thank you. Sir, in 2022, DOJ
+updated its use-of-force to generally limit the use of no-knock
+search warrants to only those situations where an agent has
+reasonable grounds to believe that knocking and announcing the
+agent's presence would create an imminent threat of physical
+violence to the agent and/or another person.
+Has that new policy resulted in a decrease in search
+warrant applications for no-knock warrants, no-knock search
+warrants?
+Mr. Davis. Thank you, Congressman. I would say for the
+Marshal Service, based on our primary mission with fugitives,
+that we embrace greatly the idea that the very loud
+announcement, we are going to make it very clear why we are
+there and who we are after.
+So, I can't think of a time and my staff can't think of the
+last few years in which we have ever used no-knock. So, this
+has not had, the policy, which we comply with, does not have
+any impact, negative impact on our ability to operate.
+Mr. Johnson. All right, thank you. Insofar, as the use of
+body cam videos by your Deputy Marshals on their arrests and
+executions of search warrants, are 100 percent of your deputies
+equipped with body cam video technology?
+Mr. Davis. Thank you, Congressman. Not yet. We are moving
+forward with that. Right now, I want to say we have some over
+1,700 deputies that are equipped. We are also--
+Mr. Johnson. Seventeen hundred out of about 5,500?
+Mr. Davis. About 4,000 deputies. So, about out of 4,038
+operational personnel, about 1,700 are equipped. We have
+identified, once again, I am going to point back to the
+President's Fiscal Year 2024, there would be sufficient
+resources to get to that 100 percent.
+So, we are moving forward. As you mentioned, it is a
+priority of the Attorney General and the Deputy Attorney
+General. So, we are definitely on target with the goals set by
+the Department. I think the team is doing very well. We
+definitely need to move forward and look at equipping the
+remaining deputies.
+Mr. Johnson of Georgia. Thank you. I yield back.
+Mr. Biggs. The gentleman yields. I yield to myself five
+minutes to ask questions.
+So, Director Davis, again, thank you for being here. My
+questions now are going to go to Executive Order 14019, which
+is from March 2021. I am wondering how many inmates have been
+registered to vote under this Executive Order.
+Mr. Davis. Thank you, Mr. Chair. I don't think we would
+have that number. We would not track how many inmates, how many
+detainees actually register.
+Mr. Biggs. So, if you are not tracking, how are you
+facilitating registration to vote and their ability to vote?
+Mr. Davis. So, I may just clarify a question, if I may,
+sir, you are referring to the Executive Order on voting access,
+14019?
+Mr. Biggs. That is correct.
+Mr. Davis. So, the Executive Order requires that we provide
+our detainees, and as I mentioned earlier just as a reminder,
+nearly all of them being pretrial--so, not yet convicted,
+presumed innocent--education materials at their facilities
+about their right to vote if appropriate.
+It is nothing--we do not, the Marshal Service does not
+register voters or track who does register.
+Mr. Biggs. So, that leaves me baffled, actually, a little
+bit. So, you don't know how many inmates are actually voting
+then, actually requesting ballots or registering to vote. You
+don't know that.
+Mr. Davis. We don't track that, that is correct.
+Mr. Biggs. So, you got a number of Secretary of States have
+a problem with that, with that Executive Order. So, I am
+interested in the compliance then. Do you feel like you are
+otherwise in compliance with that Executive Order?
+Mr. Davis. I do.
+Mr. Biggs. Inmates are allowed to register in States that
+typically require a specific amount of time to pass before an
+individual's voting rights are restored. So, even though they
+are presumed, many inmates are recidivists, is that not true?
+Mr. Davis. I couldn't answer that, not with any certainty.
+Mr. Biggs. Interesting. So, you don't get any criminal
+history on any of these inmates as you are just temporarily
+housing them? So, you are saying we don't need to know about
+their propensity to violence or anything else?
+Mr. Davis. No, I understand the question, Mr. Chair. I just
+am trying to provide accurate responses. I don't know the
+numbers or percentage of those that are in our custody or the
+80,000 or 100,000 we will process; how many have criminal
+histories?
+I am not suggesting that none of them do, I am just not--I
+can't answer the question.
+Mr. Biggs. OK, so I really want to try to get to the bottom
+of this, make sure I understand this. So, in Arizona, for
+instance, any term of supervised release has to be completed
+before voting rights of an inmate are restored, for instance,
+right.
+So, the language in the Executive Order I read as fairly
+broad to encourage and facilitate, that type of thing,
+registration and voting. I guess my question at this point
+becomes are you ensuring that the Executive Order is not
+contradictory to State law? How are you doing that?
+Mr. Davis. Thank you for that question. The implementation
+of the Executive Order for the United States Marshal Service is
+working with our facilities, and I think you identified there
+are facilities all over the entire country, is to provide them
+the educational materials about their access and right. We do
+not register them; we do not basically provide election
+guidance.
+It is about providing materials about their right to vote.
+I think the Executive Order goes further to say as applicable
+or as eligible. So, it is for our Executive Order, for our part
+of the order.
+Mr. Biggs. Right, right, that I get. So, when you said
+earlier that you didn't keep track, for instance, if somebody
+was illegally in the country or not, which would have influence
+of their ability to, and eligibility to vote, how do you
+determine then who you are going to facilitate and provide
+this?
+You just provide a blanket to it and say hey, you have got
+a right to vote, but you guys don't step in and say but not
+you, you are here illegally in the country?
+Mr. Davis. Right, I am not going to--the implementation
+requires the facilities to provide educational material. Then,
+it is up to the facilities how they do that. Once, I would just
+clarify that we do not process, we do facilitate and provide
+them the materials.
+Mr. Biggs. No, I got that. So, we may want to consider this
+conversation so much later. I am almost out of time, so I want
+to ask this question: On the protesters that were parading and
+whatever, trying to influence and intimidate with that
+particular Supreme Court decision, did the marshals, were they
+wearing body cams? Do you know?
+Mr. Davis. I do not. I can definitely find out.
+Mr. Biggs. You said 1,700 deputies went through, so I
+assume some of them had to have body cams and had a video. The
+reason I ask this question is because I am curious whether
+anyone went back.
+I get it, I get you were saying our first priority was to
+make sure that the lives of the justices were preserved, so we
+are going to protect them. You got people out here clearly
+violating the law.
+I am just wondering after that toned down and settled down,
+whether anybody went through, back through and looked at the
+body cam footage and started going after those people for
+violating clearly 18 U.S.C. 1507.
+Mr. Davis. Thank you for the question. I have to get back
+to you about the body-work camera, but I will add this, if I
+may, Mr. Chair. In addition to the instructions, they were also
+trained and instructed that they had the ability, that they
+were witnessing anything of concern or crime, to call our
+command center.
+Our command center stays in continued contact with law
+enforcement partners. So, if they saw something and made the
+determination I cannot engage because it would put the justice
+at risk, then they can pick up the phone and call the command
+center.
+Mr. Biggs. Right, I think I understood that. I am out of
+time. So, I appreciate that, but we need to continue that. I
+want to know more about the footage. I would certainly like the
+documents that Chair Jordan asked for earlier.
+Thanks for your time, thanks for being here today. With
+that, we are adjourned.
+Ms. Jackson Lee. I have an unanimous consent for
+documents--
+Mr. Biggs. Oh, I am sorry. Yes, I will note that you have
+submissions for the record, and we will admit those.
+
+The record for this hearing by the Members of the
+Subcommittee on Crime and Federal Government Surveillance is
+available at: https://docs.house.gov/Committee/Calendar/
+ByEvent.aspx?Event ID=116837.

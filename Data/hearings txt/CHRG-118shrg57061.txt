@@ -1,1 +1,1599 @@
-OVERSIGHT OF A.I.: THE FUTURE OF JOURNALISM ---------- WEDNESDAY, JANUARY 10, 2024 United States Senate, Subcomittee on Privacy, Technology, and the Law, Committee on the Judiciary, Washington, DC. The Subcommittee met, pursuant to notice, at 2:05 p.m., in Room 226, Dirksen Senate Office Building, Hon. Richard Blumenthal, Chair of the Subcommittee, presiding. Present: Senators Blumenthal , Klobuchar, Hirono, Padilla, Hawley, and Blackburn. OPENING STATEMENT OF HON. RICHARD BLUMENTHAL, A U.S. SENATOR FROM THE STATE OF CONNECTICUT Chair Blumenthal. Welcome everyone. I'm pleased to convene the Subcommittee and welcome our witnesses. Welcome everyone who's come to hear, and of course, my colleagues from both sides of the aisle, for a hearing that is critical to our democracy. It's critical to the future of journalism in the United States because local reporting is the lifeblood of our democracy, and local reporting by newspapers and broadcast stations are in existential crisis. It is, in fact, a perfect storm. The result of increasing cost, declining revenue, and exploding disinformation. A lot of the cause of this perfect storm is in fact technologies like artificial intelligence--not new, not original for me to observe it--but it is literally eating away at the lifeblood of our democracy, which as we all know is essential to local jobs, local accountability, local awareness, and knowledge. Everything from obituaries to the planning and zoning commissions. You can't get it anywhere else. National news you can buy by the yard or by the word, but local reporting is truly the result of sweat and tears and sometimes even blood of local reporters. What we're seeing, and it's a stark fact about American journalism in existential crisis, is the decline and potential death of local reporting. As a result of that perfect storm, local papers are closing at a staggering rate. A third of our newspapers have been lost in the last two decades. I don't need to tell anyone here that some of the oldest newspapers in the country, like the Hartford Courant, have closed their newsrooms, and it is a national tragedy, a painful and traumatic time for reporters, editors, and their industry, and a deep danger for our democracy. Hedge funds are buying those papers, not for the news they can communicate, but often for the real estate that they own. They are publishing weekly instead of daily, and they are buying out reporting staffs, sometimes firing them. Millions of Americans now live in a news desert where there's no local paper, and that's especially true for rural populations and communities of color. There's an equity aspect to this challenge as well. For any of us on this panel, we know the importance of local news, but so should people who live in those communities, because just as local police and fire services are the first responders, local reporters are often the first informers, and that information is no less important to them than fire and police service in the long-term. The rise of Big Tech has been directly responsible for the decline in local news, and it is largely the cause of that perfect storm, accelerating and expanding the destruction of local reporting. First, Meta, Google and OpenAI are using the hard work of newspapers and authors to train their AI models without compensation or credit. Adding insult to injury, those models are then used to compete with newspapers and broadcast, cannibalizing readership and revenue from the journalistic institutions that generate the content in the first place. As The New York Times recent lawsuit against OpenAI and Microsoft shows, those AI models will even essentially plagiarize articles and directly permit readers to evade paywalls to access protected content free of charge. I realize that those claims and allegations are yet to be contended or concluded in court, but they are certainly more than plausible. Second, the models may also misidentify or misattribute statements about media outlet content or endorsement of a product, and the result is more rampant misinformation and disinformation online and damage to the brand and credibility of those media outlets. There are legitimate fears that AI will directly replace journalists. The experiments we've seen with fake reporters are a breach of trust. It's never a substitute for local reporters in local newsrooms, broadcasters, journalists who reflect their community and talk to their neighbors. Our purpose here must be to determine how we can ensure that reporters and readers reap the benefits of AI and avoid the pitfalls. That's been one of the themes of our hearings, and another has been that we need to move more quickly than we did on social media and learn from our mistakes in the delay there. Once again, we need to learn from the mistakes of that failure to oversee social media and adopt standards. I think there are some that maybe we can form a consensus around, just as Senator Hawley and I have on the framework that we've proposed. First, on licensing: guaranteeing that newspapers and broadcasters are given credit, financially and publicly, for reporting and other content they provide. Second, on an AI framework, such as we've proposed, requiring transparency about the limits and use of AI models, including disclosures when copyrighted material is used as provided for in our framework now. But we may need to expand on it and make it more explicit. Third, on Section 230, clarifying that Section 230 does not apply to AI. Again, as Senator Hawley and I have proposed in our legislation, to create the right incentives for companies to develop trustworthy products. Finally--not really finally, but fourth, updating our antitrust laws to stop Big Tech's monopolistic business practices in advertising that undercut newspapers. I want to thank my colleague, Senator Klobuchar, and Senator Lee, for their work on legislation that I've joined as a co-sponsor. We're fortunate to have an extraordinary panel today. I want to thank all of you for being here, and now turn to the Ranking Member for his comments. STATEMENT OF HON. JOSH HAWLEY, A U.S. SENATOR FROM THE STATE OF MISSOURI Senator Hawley. Thank you very much, Mr. Chairman. Thank you for convening this hearing. The first hearing of the year, but the latest in a series of hearings that Senator Blumenthal and I have been able to host together. Senator Blumenthal has just done tremendous, tremendous work chairing this Committee, and I've started now to notice a pattern. This is the fifth or sixth hearing I think we've had, and I've noticed now a pretty decided pattern. It goes something like this: You have on the one hand all of the AI cheerleaders who say that AI is going to be wonderful. AI is going to be life changing; it's going to be world changing; it's going to be the best thing that has ever happened to the human race, or something to that effect. Then you have a group of people who have concerns, and they say, well, you know, I don't know. I mean, what's AI going to do to jobs? What's AI going to mean for my privacy? What's AI going to mean for my kids? Here's the pattern I've noticed over a year: almost everybody who takes the AI cheerleading stance is here in this building. Then when you leave the confines of this building and the lobbyists who inhabit it, when you go out and actually talk to real people, working real jobs, you find the second set of concerns. I have yet to talk to a Missourian who is an enthusiastic, no holds barred cheerleader for AI. Not one. There probably is someone somewhere, but they haven't talked to me yet. What, I hear over, and over, and over from workaday people who are working their job, raising their kids, trying to just, you know, keep it going--what they say over and over is, I don't know about this. I don't know what this is going to mean for my kids online. I don't know what this is going to mean for my job in the future. I just--I don't know. I have concerns. They also usually say, I sure really wish that Congress would do something about this. That leads me to the second observation, the second pattern that I have noticed in this last year. And that is, while there's a lot of talk about the need for Congress to act, we're beginning to slip into a familiar pattern whereby the biggest companies who increasingly control this technology, just like they've controlled social media, don't want us to act and are willing to expend any amount of resources, money, time, and effort, influence to make sure we don't. Senator Blumenthal mentioned our bipartisan bill. That would just--a very modest bill, if I may say, that would just clarify that AI-generated tools are not entitled to the Section 230 protections. Very modest. Do you know when we had AI executives sitting right here in this room, and we asked them directly, do you think Section 230 covers your model in your industry? They said, no. Senator Blumenthal and I wrote it up. I said, well, good, good. This is consensus. Let's pass this. I went to the floor to try to pass this bill in December and immediately was blocked and objected to. The same story we've been hearing for years from the technology companies. It's always, theoretically, we should put safeguards in place for real people. But when you come to do it, it's, oh, no, no, no, no, no, no, we can't. It's too soon. It's too much. It's too quick. What it really means is it would interfere with our profits. I mean, that's what they really mean. We cannot allow that pattern to continue with AI. That's the final thing I noticed is this: From the hearings and the information we've gathered, is AI is supposed to be new, but it really is contributing to what is now a familiar, familiar story, which is the monopolization in this country of information, of data, of large swaths of our economy. AI is increasingly controlled by two, three, four of the biggest companies, not just in this country, the biggest companies in the world. Apropos of today's subject to this hearing, I think we have to ask ourselves, ``Do we want all the news and information in this Nation to be controlled by two or three companies?'' I certainly don't. I certainly don't. So, I think we've got to ask ourselves, what are we going to do, practically, to make sure that normal people--whether they are journalists, whether they're bloggers, or whether it's just the working mom at home--what they can do to protect their work product, their information, their data? How are we going to make sure they are able to keep control of it, how they're able to vindicate their rights--because they do have rights, and they should have rights--and it shouldn't be that just because the biggest companies in the world want to gobble up your data, they should be able to do it, and you know what? Too bad; we're all just supposed to live with it. So, I think we've got a tall task in front of us. I salute Senator Blumenthal, again, for holding these hearings, and I hope that we'll be able to drive toward clarity and then toward solutions, because that's what the American people deserve. Thank you, Mr. Chairman. Chair Blumenthal. Thanks, Senator Hawley. I'm going to turn to Senator Klobuchar, who's been a leader in this area. As you know, she is the Chairwoman of the Subcommittee on Antitrust of the Judiciary Committee. STATEMENT OF HON. AMY KLOBUCHAR, A U.S. SENATOR FROM THE STATE OF MINNESOTA Senator Klobuchar. Thank you very much, Senator Blumenthal. Thank you for your work, and outlining some solutions, which I appreciated, and Senator Hawley as well. We have the bill to ban deepfake political ads, which is getting growing support. I'm hopeful if there is a package on AI, that that will be included, and of course, Senator Hirono is with us, who's been there from day one on these issues. This is personal for me. As many of you know, my dad was a journalist. He spent his career as a reporter, a columnist. He also had a local radio station, local TV show. When he retired in 1995, he had written 8,400 columns and 12 million words, and he did it all without AI. I will note, as a timely matter, he wrote 23 books, including one called ``Will the Vikings Ever Win the Super Bowl,'' which is sadly still relevant after this season. So, local news. Senator Blumenthal really laid out the problems and what we've seen with the closure of newspapers. We note this is how so many people, whether it is local radio, and I keep adding local TV as well, this is where they get their disaster alerts. This is when they find out if there's floods in Missouri. This is how they find out what the fire cleanup is in Hawaii. This is how they find out if a blizzard is coming in Minnesota. It's also where they find out their local football scores, and if a business is opening. And it is, yes, how finely city councils get reported on and what's covered. If this goes away, it literally frays at the connections in our democracies. So, what's happened? Diagnosis: the closure because of ad revenue. Not only because of that, but a lot because of that. In one quarter, 3 months in October, Google reported--this is last year--more than $59 billion in advertising revenue, one quarter, in a single 3-month period. When you look at what's happened with a newspaper's advertising revenue in just one, from 2008 to 2020, went down from $37 billion to $9 billion. I am very concerned that these trends will only worsen with the rise of Generative AI. So that is why in addition to the solutions that Senator Blumenthal--the top ones on licensing and the like that we need to look at--we can finally include some version, I hope, of the bill that Senator Kennedy and I have led for years, the Journalism Competition and Preservation Act. We know that just recently, Google negotiated an agreement in Canada after a similar bill had passed in Canada, which is going to mean a major shift for local news there, which will mean $74 million annually to those news organizations. We know that in Australia, where a similar bill passed, $140 million has shifted to the content providers, to the people who are actually doing the work, who are reporting the stories on the front line. So to me, that is a market-based way--by having negotiation of what the actual rates are, it is a market-based way to resolve this. It's why people like Senator Cruz support this bill. It is not some bill that is supported by one party or the other. It's been bipartisan from the very beginning. I'm hopeful that that will be considered as one of our solutions to all of this. Of course, we're also very concerned, as was noted by Senator Blumenthal, about these fake images of news anchors, people who are trusted, in addition to the politicians. It's not just movie stars, it's not just Tom Hanks and Taylor Swift as cool as they are. It's also going to be the local news anchor that maybe people haven't heard of nationally, but is trusted in Rochester, Minnesota. That's why I think this is such a timely hearing, and I want to thank Senator Blumenthal for having it as well as Senator Hawley. Chair Blumenthal. Thank you. Thanks, Senator Klobuchar. Just for the record, our local news anchors in Connecticut are pretty cool too. And you'll take that back to them, Mr. LeGeyt. Thank you. I want to introduce the witnesses, then we'll swear them in and ask for your opening statements. Danielle Coffey, welcome, is president and CEO of News Media Alliance, which represents more than 2,200 news and magazine media outlets worldwide, serving the largest cities and smallest towns, as well as national and international publication. She's a member of the board of directors at the National Press Club Journalism Institute. Professor Jeff Jarvis is the Tow Professor of Journalism at CUNY's Newmark School of Journalism. He's the author of six books, including, ``The Gutenberg Parenthesis: The Age of Print and Its Lessons for the Age of the Internet,'' and later this year, preview of coming attractions, ``The Web We Weave: Why We Must Reclaim the Internet from Moguls, Misanthropes, and Moral Panic.'' He co-hosts two podcasts, ``This Week in Google'' and ``AI Inside.'' Curtis LeGeyt, is president and chief executive officer of the National Association of Broadcasters. That organization is the premier advocacy association for America's broadcasters. It advances radio and television interests in legislative, regulatory, and public affairs. Roger Lynch is the CEO of Conde Nast, the global media company that creates and distributes content through its iconic brands including The New Yorker, Vanity Fair, Vogue, Wired, GQ, Bon Appetit. Prior to his current position at Conde Nast, he served as CEO of the music streaming service Pandora and also was the founding CEO of Sling TV. If you would please rise, I will administer the oath.  Chair Blumenthal. Thank you. Ms. Coffey, if you would begin, please. STATEMENT OF MS. DANIELLE COFFEY, PRESIDENT AND CEO, NEWS MEDIA ALLIANCE, ARLINGTON, VIRGINIA Ms. Coffey. Thank you, Chairman Blumenthal, Ranking Member Hawley, and Members of the Subcommittee. Thank you for inviting me here to testify here today on AI and the future of journalism. My name is Danielle Coffey, and I'm president and CEO of the News Media Alliance, representing 2,200 news publications, magazines, digital-only outlets, some publications that started before the Constitutional Convention, such as the Hartford Courant. My members produce quality journalistic and creative content that seeks to inform, educate, and connect with readers and enrich their daily lives. We cover natural disasters, conflict zones, school boards, city halls, town halls, entertainment and the arts, and matters of public interest. We invest a significant amount of financial and human capital to serve our readers across the country. Our publications adhere to principles and processes that support verification, accuracy, and fidelity to facts. We abide by standards and codes of conduct and provide readers a voice through correction policies to ensure accuracy and reporting. Unfortunately, the same accountability is not seen across the rest of the internet. Without proper safeguards, we cannot rely on a common set of facts that promote healthy public discourse. Without quality reporting, we cannot have an informed electorate and functional society. Generative Artificial Intelligence, GAI, could create an even greater risk to the information ecosystem with inaccuracies and hallucinations, if not curbed with quality content produced by news publications. This risk will become worse as the economic decline of our industry accelerates. Our revenue has been cut in half. Over the last 10 years, demand for our content has grown the same amount over the same period of time in the opposite direction. This lack of return is because dominant distributors of our news content are scraping publications, websites, and selling portions for engagement and personal information to target users with advertising. Over the last several years, there have been countless studies, investigations, and litigation by the DOJ and the FTC in the past two administrations that have found anti- competitive conduct by the monopoly distributors of news content. This proves the direct nexus between anti-competitive conduct and the steep decline of financial revenue return to news publications, leading to a dramatic shortfall of the revenue that's needed to invest in news gathering and hiring journalists. We are deeply appreciative of Senators Klobuchar and Kennedy for their relentless leadership on the Journalism Competition and Preservation Act, which addresses this marketplace imbalance, and we thank this Committee for overwhelmingly passing the legislation last July. This marketplace imbalance will only be increased by GAI. An analysis that the N/MA commissioned in cases before the courts, it shows evidence of copyright-protective, expressive works being taken from behind paywalls without authorization, and used repeatedly in modeling, model training, processing, and display. In addition to massive amounts of content used in training GAI output, results to users' inquiries often contain summaries, excerpts, and even full verbatim copies of articles written and fact-checked by human journalists. These outputs compete in the same market with the same audience, serving the same purpose as the original articles that feed the algorithms in the first place. Because these uses go far beyond the guardrail set by the courts, this is not considered fair use under current copyright law. To be clear, news publishers are not opposed to AI. We want to help developers realize their potential in a responsible way. N/MA's members are by and large willing to come to the table and discuss licensing terms and licensing solutions to facilitate reliable, updated access to trustworthy and authoritative content. A constructive solution will benefit all interested parties and society at large and avoid protracted uncertainty in the courts. Some GAI developers are good actors and seek licensing agreements with news publications, and we applaud their efforts. In addition to encouraging such licensing practices, there are other issues that Congress can address around transparency, copyright, accountability, and competition that we have submitted for the record. The Fourth Estate has served a valuable role in this country for centuries, calling on governments and civic leaders to act responsibly in their positions of power. Local news, especially, has uncovered and reported on events around the country that keep readers informed, educated, and engaged in their communities. We simply cannot let the free press be disregarded at the expense of these new and exciting technologies. Both can exist in harmony, and both can thrive. We must ensure that for the future of our country and the future of our society. Thank you for the opportunity to participate, and I look forward to questions.  Chair Blumenthal. Thank you, Ms. Coffey. Professor Jarvis. STATEMENT OF PROFESSOR JEFF JARVIS, TOW PROFESSOR OF JOURNALISM, CUNY GRADUATE SCHOOL OF JOURNALISM, BASKING RIDGE, NEW JERSEY Professor Jarvis. Thank you so much for this opportunity and invitation. I've been a journalist for 50 years, and a journalism professor for the last 18 of those. I'd like to begin with three lessons about the history of news and copyright that I've learned from researching my book, ``The Gutenberg Parenthesis.'' First, America's 1790 Copyright Act protected only maps, charts, and books. Newspapers were not covered by the statute until 1909. Second, the Post Office Act of 1792 allowed newspapers to exchange copies for free, enabling so-called ``scissors editor''--an actual job title--to reprint articles, thus creating a network for news, and with it, a nation. To this day, journalists read, learn from, and repurpose facts from each other. The question before us today is whether the machine has similar rights to read and learn. Third, a century ago, when print media faced their first competitor, radio, newspapers were inhospitable, limiting broadcasters to two daily updates, excluding radio from congressional press galleries, and even forbidding on-air commentators from discussing an event until 12 hours after the fact. They accused radio of stealing content and revenue. They warned radio would endanger democracy, as they have since to television, the internet, and now AI. Today, I prefer to focus on the good that might come from news collaborating with this new technology. First, a caveat. Large language models have no sense of fact and should not be used where facts matter, as some learn the hard way. Still, AI presents many opportunities. For example, AI is excellent at translation. News organizations could use it to present their news internationally. AI is good at summarizing specific documents. That is what Google's NotebookLM does, helping writers and journalists organize their research. AI can analyze more text than any one reporter. I advised one editor to have citizens record, say, 100 school board meetings so the technology could transcribe them and then answer questions about how many boards are discussing, say, banning books. I'm fascinated with the idea that AI could extend literacy, helping people who are intimidated by writing to tell and illustrate their own stories. A task force of academics from the Modern Language Association concluded recently that AI could help students with word play, analyzing writing, and overcoming writer's block. AI now enables anyone to write computer code. As a tech executive told me in an AI podcast that I co-host, the hottest programming language on planet Earth right now is English. Finally, I see business opportunities for publishers to put large language models in front of their content to allow readers to enter into dialog with that content. I just spoke with one entrepreneur I know who's working on a business like that. This morning, I talked to an executive at Schibsted, the very good Norwegian newspaper company, and they're working on something similar. All these opportunities and more are put at risk if we fence off the open internet. Common Crawl is a foundation that for 16 years has archived the web, 250 billion pages and 10 petabytes made available to scholars for free, yielding 10,000 research papers. I'm disturbed to learn that The New York Times demanded that the entire history of its content, including that which had been available for free, be erased. Now, when I learned that my books were included in Books3, a data set used to train AI, I was delighted, for I write not only to make money, but also to spread ideas. What happens to our information ecosystem and our democracy when all authoritative news retreats behind paywalls, available only to privileged citizens and giant corporations that can afford to pay. I understand the economic plight of my industry. I've been an executive in this industry. I've run a center for entrepreneurial journalism. I understand the urgency. But instead of debating protectionist legislation sought by lobbyists for a struggling industry, I hope we also have a discussion about journalism's moral obligation to an informed democracy. Please let us rethink copyright for this age. In my next book, ``The Web We Weave,'' I ask technologists, users, scholars, media, and governments to enter into covenants of mutual obligation for the future of the internet, and by extension, AI. Today, I propose to you as government, to promise, first, to protect the rights of speech and assembly that have been made possible by the internet. Please base decisions that affect internet rights on rational proof of harms, not media's moral panic. Do not splinter the internet along national borders and encourage and enable new competition and openness rather than entrenching incumbent interests through regulatory capture. In some, I seek a Hippocratic Oath for the internet. First, do no harm.  Chair Blumenthal. Thanks, Professor. Mr. LeGeyt. STATEMENT OF MR. CURTIS LEGEYT, PRESIDENT AND CEO, NATIONAL ASSOCIATION OF BROADCASTERS, WASHINGTON, DC Mr. LeGeyt. Good afternoon, Chairman Blumenthal, Ranking Member Hawley, and Members of the Subcommittee. My name is Curtis LeGeyt. I'm the president and CEO of the National Association of Broadcasters. I'm proud to testify today on behalf of our thousands of local television and radio station members who serve your constituents every day. Study after study shows that local broadcasters are the most trusted source of news and information. Our investigative reports received countless awards for exemplifying the importance and impact of journalism as a service to the community. This includes WTNH News 8 in New Haven, which received an Edward R. Murrow Award for its reporting on child sex trafficking in the State, and KMOX Radio and KMOV-TV in St. Louis, which were also recently honored with Murrow Awards for their accurate and heartfelt reporting of a deadly school shooting. Stories like these are the antidote to the misinformation and disinformation that thrives online. Broadcasters will build on this trust by embracing new AI tools that will help our journalists, particularly when it comes to delivering breaking news and emergency information. For example, one broadcaster is piloting a tool that would use AI to quickly cull through inbound tips from email and social media to produce recommendations they can verify and turn into impactful stories. Other broadcasters are using AI to translate their stories into other languages to better serve diverse audiences. When AI can help these journalists, real people, perform their jobs and their communities, we welcome it. However, this Subcommittee should be mindful of three significant risks that Generative AI poses to broadcast newsrooms across the country. First, the use of broadcasters' news content in AI models without authorization diminishes our audience trust and our reinvestment in local news. Broadcasters have already seen numerous examples where content created by our journalists has been ingested and regurgitated by AI bots with little or no attribution. For example, when a well-known AI platform was recently prompted to provide the latest news in Parkersburg, West Virginia, it generated outputs, copied nearly word for word from WTAP-TV's website. The station did not grant permission for that use, nor were they even made aware of it. Not only are broadcasters losing out on that compensation, but this unauthorized usage risks undermining trust as stations lose control over how their content is used, and whether it's integrated with other unverified information. All of the concerns that drive Senators Klobuchar, Kennedy, and this Committee's work on the Journalism Competition and Preservation Act, are exacerbated by the emergence of Generative AI. Second, the use of AI to doctor, manipulate, or misappropriate the likeness of trusted radio or television personalities risk spreading misinformation or even perpetuating fraud. One example, a recent video clip of a routine discussion between two broadcast TV anchors, was manipulated to create a hateful, racist, antisemitic rant. Univision's Jorge Ramos, one of the most respected figures in American journalism, has repeatedly been a victim of AI tools, appropriating and manipulating his voice and image to advertise all kinds of unauthorized goods and services. We appreciate the attention of Senators Coons, Blackburn, Klobuchar, and Tillis to this growing and significant problem, which should be addressed in balance with the First Amendment. Finally, the rising prevalence of deepfakes makes it increasingly burdensome for both our newsrooms and users to identify and distinguish legitimate copyrighted broadcast content from the unvetted and potentially inaccurate content being generated by AI. To give a recent illustration, following the recent October 7th terrorist attacks on Israel, fake photos and videos reached an unprecedented level on social media in a matter of minutes. Of the thousands of videos that one broadcast network sifted through to report on the attacks, only 10 percent of them were authentic and usable. As, I document my written testimony, broadcasters across the country have launched significant new initiatives to bolster the vetting process of the content that is aired on our stations. These efforts are costly, and the problem grows more complex by the day. In conclusion, America's broadcasters are extremely proud of the role we play in serving your constituents, and we are eager to embrace AI when it can be harnessed to enhance that critical role. However, as we have seen in the cautionary tale of Big Tech, exploitation of new technologies can undermine local news. This Subcommittee is wise to keep a close eye on AI as well as the way our current laws are applied to it. Thank you again for inviting me to testify today. I look forward to your questions.  Chair Blumenthal. Thank you, Mr. LeGeyt. Mr. Lynch. STATEMENT OF MR. ROGER LYNCH, CEO, CONDE NAST, NEW YORK, NEW YORK Mr. Lynch. Thank you, Chair of Blumenthal, Ranking Member Hawley, and Members of the Subcommittee. Thank you very much for inviting me to participate today in the critical discussion about AI and future of journalism. My name is Roger Lynch, and I'm the CEO of Conde Nast. Conde Nast iconic brands and publications include The New Yorker, Vogue, Vanity Fair, Wired, Architectural Digest, Conde Nast Traveler, GQ, Bon Appetit, and many more, including, I might add, Tatler, which was first published in the UK in 1709. Our mission is to produce culture-defining exceptional journalism and creative content, and this purpose is evident in our output that only humans can make, together with rigorous standards in fact-checking that can be produced. The result is stories that change society for the better, information that helps people make decisions in their daily lives, and content that creates an informed and empowered electorate. As an example, this is what The New Yorker has done for over a hundred years; from the publishing of John Hersey's 1946 account of the survivors of the atomic bombing of Hiroshima, to the serialized chapters of Rachel Carson's, ``Silent Spring,'' which helped launch the modern environmental movement in 1962, to more recently, Patrick Radden Keefe's exposes on the Sackler family's ruthless marketing of OxyContin, the drug that profited billions from people's addictions. I have long experience leading companies through times of great technological change. You could say it's in my DNA, and Generative AI is certainly bringing about such change, and is already demonstrating tremendous potential to make the world a better place. But Gen AI cannot replace journalism. Journalism is fundamentally a human pursuit, and it plays an essential and irreplaceable role in our society and our democracy. It takes reporters with grit, integrity, ambition, and human creativity to develop the stories that allow free markets, free speech, and freedom itself, to thrive. In each business that I've led, successful new businesses were built on a foundation of licensing content rights. Licensing allowed distributors to work together with content creators to innovate new and better consumer experiences and generate profits that were invested in creating more great content. I'm here today because congressional intervention is needed to make clear that Gen AI companies must also take licenses to utilize publisher content for use with Gen AI. Unfortunately, currently deployed Gen AI tools have been built with stolen goods. Gen AI companies copy and display our content without permission or compensation in order to build massive commercial businesses that directly compete with us. Big Tech companies argue that this is fair use. That their machines are just learning from reading our content just as humans learn, and that no licenses are required for that. This is a false analogy. Gen AI models do not learn like humans do. They maintain complete copies of the works they train on, our content, and output its substance while keeping 100 percent of the value for themselves and training consumers to come to them for information, not to us, depriving us of essential customer relationships. Fair use is designed to allow criticism, parody, scholarship, research, and news reporting. The law is clear that it is not fair use when there is an adverse effect on the market for the copyrighted material. It is that market that creates the incentive to invest and innovate in content. In that way, the market supports journalism and innovation in the long run. Fair use is not intended to simply enrich technology companies that prefer not to pay. Moreover, Gen AI technology enables misinformation on an unprecedented scale. In the wrong hands, Gen AI can generate outputs that are customized for individuals, making misinformation in all forms; fake photographs, audio, video, and documents look real. Widely available Gen AI tools hallucinate and generate misstatements that are sometimes attributed to real publications like ours, damaging our brands. Americans can't possibly spend all of their time determining what's true and what's false. Instead, they may stop trusting any source of information with devastating consequences. Luckily, there is a path forward. That's good policy, its good business, and it's already the law. Licensed and compensated use of publisher content for both training and output. This will ensure a sustainable ecosystem in which high quality content continues to be produced by brands consumers trust. This will also ensure that information comes from many sources without Big Tech companies as gatekeepers. Licensing will support a sustainable future. In conclusion, we urge Congress to take immediate action to clarify that the use of publisher content for both Gen AI training and output must be licensed and compensated. The time to act is now and the stakes are nothing short of the continued viability of journalism. Thank you very much for your work on these important issues.  Chair Blumenthal. Thank you very much, Mr. Lynch. And let me begin where you ended to say that what we're proposing really is to clarify. The argument could be made, I think, that the law now requires this kind of licensing, but I think you would agree with me that the costs of enforcing those rights through litigation, the financial costs, the delay, the cost and time, make it often an impractical or less effective remedy than is needed and deserved. Is that the thrust of your testimony? Mr. Lynch. Yes, Senator. If the big AI companies had agreed with that position, we would be able to negotiate arrangements with them. Unfortunately, they do not agree with that. They do not agree that they should have to be paying for this, and they believe that it is covered under fair use, and hence, the lawsuits that you've already seen starting. Chair Blumenthal. In a blog post, I believe, from OpenAI reported very recently, within the last 24 hours or so, the reference was made, in fact, to ongoing negotiations proceeding The New York Times lawsuit, and possibly other negotiations are ongoing. But in the long-term, those kinds of individual ad hoc agreements maybe will be unavailing to the smaller newspapers or broadcast stations that don't have the resources of The New York Times. Correct? Mr. Lynch. Certainly. That would be a major concern, is that the amount of time it would take to litigate appeal, go back to the courts, appeal, maybe ultimately make it to the Supreme Court to settle. Between now and then, there'd be many, many media companies that would go out of business. Chair Blumenthal. One of the core principles of the framework that Senator Hawley and I have proposed is record keeping and transparency. Developers ought to be required to disclose essential information about the training, data, and safety of AI models to users and other companies. Ms. Coffey, you make the point that this is important for newspapers. The AI companies have been intensely secretive about where they get their data, but we know based on even the limited transparency that's available to us, that they use copyright material, and it's the bedrock for many of their models. For example, Meta and other companies use a data base called Books3, which is a collection of nearly 200,000 pirated books. That's not public information. That's theft, in my view. I'm a former prosecutor, so I don't use that term lightly, but seems to me that's the right term for it. Part of the problem is that AI companies are using this hard work, not just the sweat, and tears, and sometimes blood, but also the financial investment that is made to produce news. It doesn't appear magically, it's not out of thin air. It's an investment, and the kind of lack of transparency makes it harder for you to protect your rights. Is that correct? Ms. Coffey. That is correct. And we found the same thing with news media. It's 5 of the top 10 sites that are used by C4, which is the curated, more responsible dataset that train the models of Common Crawl. We found that 5 of the top 10 were news media sites because it is quality, it is reliable, it is vetted, and fact-based. Then, we would agree that licensing would be the best marketplace solution so that we can avoid protracted litigation. And in order to do that, we need to know how they're using our content. So, a searchable data base would be something that we would recommend. There are other options and ways to do that, and I know that there's legislation that we're supportive of that would identify how our content is being used, because any sort of tagging that we do, any authentication, we work with Adobe and others, but it's stripped whenever they take our content, and it doesn't follow the content through to the output. We don't know how our content is actually being used, and therefore we can't enforce, and it's difficult to negotiate if we don't have that information. There's different versions that might work, but we would be very supportive of that so that we can enforce our rights. Chair Blumenthal. I would be very interested in more specifics from all the witnesses. We may not have time today to explore all the technical details, but obviously those details are important. I just want to emphasize the point that, I think, really all of you have made, which is there's great promise. There are tremendous potential benefits to using AI. For example, in investigative reporting, to go through court files or documents, discovery, depositions, all kinds of stuff that can be more effectively and efficiently explored and summarized by AI. But we also need to be mindful of the perils. We're going to have 5-minute rounds of questions, and I'll turn to the Ranking Member, Senator Hawley. Senator Hawley. Thanks again, Mr. Chairman. Thanks to all the witnesses for being here. Mr. Lynch, if I could just come back to you because I was struck by your comment that the problem with Generative AI as it exists currently, it's been built with stolen goods. Let's just talk a little bit about the sort of content licensing framework that you would favor. Can, you give us a sort of a sketch of what that would look like, something that protects existing copyright law, something that you think would be workable? I'm not asking you to write the statute for us---- Mr. Lynch. Sure, sure. Senator Hawley . But just maybe give us a thumbnail overview. Mr. Lynch. I think quite simply, if Congress could clarify that the use of our content and other publisher content for training and output of AI models is not fair use, then the free market will take care of the rest. Just like it has in the music industry where I worked, and film and television, sports rights. It can enable private negotiations, and you know, in the music industry where you have--you think about millions of artists, millions of ultimate consumers, consuming that content. There have been models that have been set up, ASCAP, BMI, CISAC, GMR, these collective rights organizations to simplify the licensing of that content. And the nice thing about that is it doesn't take a company the size of Conde Nast or The New York Times to create these licensing deals. These organizations can do it for all content producers. You know, fundamentally we think a simple fix or clarification that use of content for training and output of AI models is not fair use, the market will take care of the rest. Senator Hawley. I have to say that that seems imminently sensible to me, and it leads me to ask the question: Why shouldn't we expand that regime outward? I mean, why shouldn't we say that anybody whose data is ingested and then regurgitated by Generative AI, whether that's, you know, their name, their image, their likeness, why shouldn't they be able also to have a right to compensation? I mean, our copyright laws are quite broad, I think, justly so. You know, why shouldn't--I'm very sympathetic to this argument for journalists and content creators for whom content creation is a career. But there are lots of other folks for whom it's not a career, but they post, they create things, they have work product. They post things online. Why shouldn't they also be protected? It seems to me that they should. I mean, it seems to me that every American ought to have some rights here in their data and in their content. This sort of regime you've described, I mean, these ordinary Americans are already protected by copyright law. It seems that we should find a way to enforce that, and the way that you've described in terms of clarifying fair use, seems to me to be a potential path forward. Mr. LeGeyt, let me shift gears and ask you about something that you said. It's in your written testimony, and you mentioned it, too, just a moment ago about this video clip, one of many, unfortunately, with the broadcast TV anchors that was manipulated. And we've seen this is proliferating. You know, The New York Times did a report just a couple of days ago about similar manipulation of images. In this case, not news reporters; this was just--the Times reported on, for instance, I think, a doctor. ``Online trolls''--I'm quoting from the report now--``took screenshots of a doctor from an online feed of her testimony,'' she was giving at a parole board hearing, ``and edited the images with AI tools,'' in that case, to make them sexually explicit. You know, completely fake. This is the classic deepfake, but obviously extremely, extremely harmful, extremely invasive, and then posted them online. I mean, use these images, created these images, and then in this case, put them on 4Chan. My question to you is, shouldn't there be some sort of Federal limit, Federal ban on deepfake images, certainly of a sexually explicit nature? But shouldn't every American have the right to think--with appropriate First Amendment exceptions for, you know, parody--but shouldn't we have the right to think that--listen, you're not just going to--if you put a picture on Instagram of your child, it's not going to be scraped up by somebody, some company, or some individual using company software to generate a sexually explicit image, or, in the case of these news anchors, to put, literally, words in their mouth? Mr. LeGeyt. You are absolutely right to prioritize this issue. For local broadcasters, all our local personalities have is the trust of their audiences. The second that that is undermined by disinformation and these technologies, these deepfakes, are going to put all of that on steroids. It is just more noise, and I think we have seen the steady decline in our public discourse as a result of the fact that the public can't separate fact from fiction. Absolutely, this is an area that demands your attention, this Committee's attention. There are certainly some elements of this in the expressive context that the Committee needs to be mindful of. Certainly, we've aligned ourselves with the Motion Picture Association, and in the creative context, some of the potential carve outs that they have flagged. But this is an issue that is existential for local news, it's existential for our democracy, and so we absolutely support this Committee's attention to it. Senator Hawley. I would just say in closing, Mr. Chairman, to your point, Mr. LeGeyt, the reason that the public can't separate fact from fiction is in the case of these images. I mean, they look like they're the real thing. I mean, they're indistinguishable. I mean, it's not a matter of all, you know, the public, they're not paying attention. They are paying attention. That's the problem, is that they look absolutely real. Whether you're a broadcaster, or a doctor, or a mom, or whatever, I just think the idea that at any moment you live in the fear that some image of me out there could be manipulated and turned into something completely else, ruin my reputation. What's your alternative? Go file a legal suit and fight that out. And I mean, most people don't have money for that. This just seems to me, Mr. Chairman, like a situation we've got to address and quickly. Thank you. Chair Blumenthal. Thanks, Senator Hawley. Senator Klobuchar. Senator Klobuchar. I agree with what Senator Hawley just said. Why don't we start with you, Ms. Coffey. So, numbers I have, Pew Research Center found that we lost about 40,000 newsroom jobs between 2008 and 2020. Why are these newspapers shutting down? Is it because we are so perfect that you have nothing to cover, or perhaps there's a lot to cover, but there's not enough reporters? Could you answer why they're shutting down? Ms. Coffey. You're right to recognize that there is plenty to cover, and the value of the audience is exponentially increasing every year. Like I said, it's the opposite trajectory when it comes to the revenue that returns to us because we have two dominant intermediaries who sit in between us and our readers. Seventy percent of our traffic is relied upon, so we have no choice but to acquiesce to their terms of letting them crawl, scrape, and place our content within their walled gardens where users are ingesting, right now, images, snippets, featured snippets, and now soon, AI, which will make them just never leave the platform. Because it's by design, personalized to get personal information to then target users with advertising using our content to engage those users in the first place. If there's no return to those who create the original content that's distributed by the monopoly dominant platforms, then we're just not going to be able to pay journalists who create the quality in the first place. Senator Klobuchar. Exactly. Mr. Lynch, do you have any choice over whether you are able to decide whether your content is used to train AI models, and do you have a choice about whether to let them scrape your content or not? Mr. Lynch. It's somewhat a complicated issue. The answer is they've already used it. The models are already trained. And so, where you hear some of the AI companies say that they are creating or allow opt outs, it's great, they've already trained their models. The only thing the opt outs will do, will is to prevent a new competitor from training new models to compete with them. So, the opt out of the training is too late, frankly. The other side of the equation is the output. Remember, the models need to be trained, then they need access to current content to respond to queries. So, in the case of search companies, if you opt out of the output, you have to opt out of all of their search. Search is the lifeblood of digital publishers. Most digital publishers, half or more of their traffic originates from a search engine. If you cutoff your search engine, you cutoff your business. So, there's not a way to opt out of the output side of it, letting it have access to your content for the outputs retrieval augmentation in generation without opting out of search. Senator Klobuchar. You have a dominant search engine, like 90 percent with Google, and so then you pay fees, right, to get this content to get to you. Is that right? You said in your testimony, Ms. Coffey, you explained that when users click through to news sites, Big Tech gets fees for web traffic. Is that right? Ms. Coffey. Yes, the ad tech tax. That's correct. Senator Klobuchar. That's for the ad tech, right? Ms. Coffey. Right. Senator Klobuchar. So, but then, if you want to opt out of the AI model, you'll be opting out of what is for many news organizations now, the monopoly model that you're forced to use is the only way to get to your site? Mr. Lynch. Correct. You opt out of search. Senator Klobuchar. Got it down. Okay. So, last question. In addition to the licensing issues my colleagues have raised in ways we can clarify that, is the bill that Senator Kennedy and I have. And Mr. Lynch, in your testimony, you explained that Australia's news media bargaining code has been successful in leading to negotiations between tech platforms and news organizations. People have to understand these are trillion-dollar companies and all. Sometimes you'll have a tiny newspaper for a town of 1,000 people, and they won't even return their calls. Can you talk about how the success of the new laws in Australia, and actually in Canada, have supported journalism and led to the hiring of additional journalists? Mr. Lynch. Yes. There's been reporting out of Australia that the $140 million that has flowed back to news organization and publishers there have resulted in hiring or in rehiring of journalists. You know, the first thing we have to do is, is you heard from Ms. Coffey earlier about the decline. You know, what was the cause of the decline? The number of reporters this last year alone--8,000 journalists--have lost their jobs in the U.S., and Canada, and the UK. The first thing is to stop that decline, because that decline, I would argue, undermines democracy, undermines the Fourth Estate. The way to do that is to ensure there's compensation for the use of this content. There's adequate, I think, evidence now from what's happened in Australia, and now in Canada, that the Big Tech companies didn't fall over. Their business models continued on, and now journalism is starting to flourish again in these markets. Senator Klobuchar. Just Ms. Coffey, anything you want to add to that, then I'm done. Ms. Coffey. If we can send something, it's back on the labor index. It shows that journalists jobs spiked afterwards, and have plateaued, and then have steadily rose. Senator Klobuchar. Okay. Thank You. Senator Hawley . Thank you, Senator Klobuchar. Senator Blackburn. Senator Blackburn. Thank you. Thank you to each of you for being here because this is an issue that needs our attention. And Professor Jarvis, we've had Mr. Lynch discussing fair use. I will have to say, dealing with musicians and creators in Tennessee, I have often referred to fair use as a fairly useful way to steal their content, and that's what it turns out to be so many times. I actually argued for a narrowed application of fair use in the amicus brief that I wrote for the Supreme Court in the Warhol v. Goldsmith case. I think that's important. I think the Court made the right decision here. And I--you've said that you agree with OpenAI's models using materials, training AI models on publicly available material. So, let's look at this from the commercial side. So, do you not believe that content creators should be compensated when they're going to be competing commercially with the content that is generated from the AI models? Professor Jarvis. Senator, thank you for the question. I am concerned about all the talk I hear about limiting fair use around this table, because fair use is used every day by journalists. We ingest data, we ingest information, and we put it out in a different way. Newspapers complained about radio over the years for doing rip and read. They tried to stop it. They created the Biltmore Agreement to stop radio from being in news at all. In the end, democracy was better served because journalists could read each other and use each other's information. I think if we limit that too much, we limit the freedom that comes. I'm also concerned that if we talk about trying to license all content for all uses, we set precedents that may affect, in fact, journalists, but also will affect small open-source efforts to compete with the Big Tech companies. Senator Blackburn. You would have a broader allowance for fair use instead of a narrowed use? Professor Jarvis. Yes. And I think that it is fair use, and it is transformative, but as Mr. Lynch also separated them---- Senator Blackburn. Then for Ms. Coffey, then what you're doing is saying there are content creators who would not be compensated, even though in the commercial applications, the AI-generated content is competing directly with the original creator of that content. That would be your position. Professor Jarvis. Not to pick on the New York Times, but I can point you to many news organizations that resent when their stories are taken by the Times without credit or payment. Senator Blackburn. Let me move on. I want to talk about bias in AI algorithms. I think we all know there, it's no secret the mainstream media tilts left, and significantly to the left, when giving Americans their news. Now we're seeing bias against conservatives in some of the AI tools and training, and there are a couple of examples that we really need to put on the record. Now, if you go to ChatGPT and you say, ``I want to write a poem admiring former President Trump.'' What ChatGPT says is, ``I'm sorry, but I am not able to create a poem admiring President Trump.'' If you turn around and next you say, ``I want to write a poem, ask for a poem, admiring Joe Biden.'' Here's what you get, and I quote ChatGPT, ``Joe Biden, leader of the land with a steady hand and heart of a man. You took the helm in troubled times with the message of unity. Your words of hope and empathy provide comfort to the Nation.'' And it goes on and on, and here's a screenshot that I have for the record.  Senator Blackburn. So, my question to you would be, is this type of bias acceptable in these training models, machine learning for AI? Professor Jarvis. First, it's really bad poetry. So, I think maybe perhaps President Trump is lucky not to have been so memorialized. I think that if we try to get to a point of legislating fake versus not fake, true versus false, we end up in a very dangerous teritory, and similarly around bias. What all of these models do is reflect the biases of society. I'll take you, as you say, that media are generally liberal, and thus what they ingest is going to be that way. Senator Blackburn. I think it reflects the bias that is coming from what they're ingesting. My time has expired. Thank you, all. Senator Hawley. Thank you, Senator. Senator Hirono. Senator Hirono. Thank you very much. As we wrestle with what kind of regulation or parameters we should put on the training in AI, it just seems to make sense that the creators of the content should get some kind of compensation for the use of their material in training the AI platforms. This is for Mr. LeGeyt. Don't you already have a lot of expertise, experience in figuring out what would be an appropriate way to license for copyrighted material and the use of this kind of content, and how would that be applied in the case of AI? Mr. LeGeyt. Senator, thank you for the question. Over the last three decades, local television broadcasters have literally done thousands of deals with cable and satellite systems across the country for the distribution of their programming. The notion that the tech industry is saying that it is too complicated to license from such a diverse array of content owners just doesn't stand up. We negotiate with some of the largest cable systems in the country. We negotiate with small mom-and-pop cable systems. And the result of that is that instead of just doing national deals with our broadcast networks or news organizations in New York, and LA, every local community in the country is served by a locally focused broadcast station, and that station's programming is carried on the local cable and satellite system. So, we have a lot of experience here. Similarly, on the radio side, there are licensing organizations--Mr. Lynch referred to this in his testimony-- that allow for collective licensing of songwriter rights, performing rights. All of this, our industry has been in the center of, both as a licensor and licensee, and has been tremendously beneficial. Senator Hirono. Do we need to enact legislation for this kind of licensing procedures to be put together and implemented? Mr. LeGeyt. I think it is premature. Some of the discussion around legislation thus far in the hearing has been about reaffirming the application of current law. If we have clarity that current law applies to Generative AI, then let's let the marketplace work. We have every reason to believe the marketplace will work, but I think it is incumbent on this Subcommittee to pay careful attention to these court decisions, and also the way that the tech industry is treating the current law in the interim. Because as we've said, if it's an arm race of who can spend the most on litigation, we know that the tech industry beats out everyone else. Senator Hirono. This is also for Ms. Coffey. So, do you think that--for both of you, do you think that current law, the application of current law should sort of be left and determined by what cases, lawsuits that have been filed? How do we clarify that current law applies in the AI situation? Ms. Coffey. We submitted a lot of recommendations for the record that have to do with transparency, that have to do with accountability, supporting legislation that's already pending, that have to do with competition going to previous references to the search and tying to AI. When, it comes to licensing, there is already healthy ecosystem, as my colleagues have said, and there's also already a market when it comes to newspapers, because we have archives that have existed over hundreds of years that we've spent a lot of money to digitize so that you can find the history. As far as the current existing market and the current law, I would encourage these licensing agreements and arrangements between AI developers and news publishers so that we can avoid protracted litigation that's not good for either industries. Senator Hirono. But for that to happen, do you agree that we don't need to enact legislation? We should wait to see how things turn out a little bit longer before we take steps that may end up with some unintended consequences? Ms. Coffey. There are things that Congress can do at this time, around copyright law, to ensure responsibility, but as far as what's pending in the courts at this time, we do believe we have the law behind us, and we have the protection in the current law. Mr. LeGeyt. These technologies should be licensing our content. If they're not, Congress should act. But under current law, they should be doing it. Senator Hirono. Thank you. Thank you, Mr. Chairman. Chair Blumenthal . Thank you, Senator Hirono. As you may have gathered, we're kind of playing tag here. We have a vote going on. We have another one after it. There's also a conference of Republican Senators that will be ongoing. I think it's at 3:30. So, in case Senator Hawley leaves, or I leave, or others leave, you'll know why. Senator Padilla. Senator Padilla. Thank you, Mr. Chair. Generative AI tools reduced the cost and time needed for content creation. I think we've all recognized that you've established that, and sadly, it includes the production of misinformation. Now, these models cannot be relied upon to provide 100 percent accurate information, obviously because it can generate, and often do generate false information. I believe all the panelists affirm both statements that I just made. We're trying to predict how then in such an environment, consumer behaviors will shift, and its impact on the future of the news industry. One prediction is that in a sea of unhelpful or false information, consumers will gravitate more directly toward trusted news sources, like the outlets represented by the witnesses today as opposed to away from them. Ms. Coffey, and Mr. LeGeyt, in both of your testimonies, you expressed concern that consumers who would actually lose faith, generally, in the validity of all information they come across, including from sources you represent. Can you expand upon why? And we'll start with Ms. Coffey. Ms. Coffey. Thank you, Senator. We've seen--there have been reports in the EU when they passed early laws around TDM, which is an early version of AI, where there was an impact assessment done, and it showed how the competing product does not allow for the return of revenue to the original content creator. So, you stay in these walled gardens, and revenue is not returned to those who use it. There was also another study done by the ACCC in Australia that demonstrates the same. And also, the House Majority report shows that that these walled gardens act as a competing marketplace for the same audience, the same--the same eyeballs as our original content. We find that 65 percent of users do not leave those walled gardens and click through, which is the only way, albeit taxed, we can monetize through advertising. AI will only make the situation gravely worse because when you have summaries and when you have--when there's nothing left you need from the original article, this will become an existential threat to our industry. There's just no business model for us in that, in that ecosystem. Mr. LeGeyt. Senator, we've focused a lot here on the need for fair compensation to support the local news model. But you're actually touching on a second and equally important point that underscores why our authorization should be needed before our content is used by these systems, which is the control we need to maintain over how our content is used, right? If, we don't have control over the way our content is used, our trusted news content in these technologies, it can be confused with non-verified facts. It can be shaped in misleading ways. There's not always transparency as to what other information's being ingested into the Generative AI technology. It's not always clear, the explainability element of this, of how the information's being used together. So, all of that raises major concerns as to how we maintain control of how audiences see our content. Then the second piece of this is the deepfakes. The trust in local broadcast only goes as far as the trust in our local personalities. Your communities value their local broadcasters because they know these news anchors. They see them in the grocery store, they see them at town hall events. One deepfake can undermine all of that trust. Senator Padilla. Thank you. And as a follow-up, Professor Jarvis, how do you predict consumer behaviors adapting to a GAI environment? Professor Jarvis. It's a good question--which is how professors buy time to find an answer. I don't know. I think that there'll be distrust of the output of these machines. We know that they are not reliable when it comes to fact. I covered the show cause hearing for the lawyer who famously used ChatGPT for citations. And the problem wasn't the technology, the problem was the lawyer didn't do his job. So in these cases, I think that brands and human beings, yes, absolutely will still matter. However, I also watch my own international students use these technologies to be able to code-switch their English for us professors and to use these tools to do things that are beneficial for them. So, I think that right now, we're in an early stage where it's a parlor trick. ``Oh, look, it can write a speech for you.'' That's funny and that's amusing, but it's not going to be terribly useful as long as these machines can't do facts, and they cannot. They can do other things. I think we'll find different applications that will make these things more useful for consumers. Now, it's a trick. Senator Padilla. Thank you very much. Thank you, Mr. Chair. Chair Blumenthal. Thank you, Senator Padilla. You know, I have very little sympathy for the lawyer who relied on AI to do that legal research as one who spent literally countless hours in law libraries with red books that were called ``Shepard's.'' Senator Hawley may or may not have been through this experience, but the reason that I mentioned it is that the Chief Justice, in his annual report, noted that many lawyers who didn't use ``Shepard's'' and submitted briefs to the courts would sometimes say, ``The Lord is my Shepard's.'' You can't rely on the Lord or AI to do Shepardizing of cases. The reliance here, and it goes to trust, is so important because whether it's a lawyer or a journalist or anyone the-- the fallibility of these systems is ever present. I have some additional questions. We're going to have a second round. I'm going to call on Senator Hawley because he's going to have to leave and vote. Senator Hawley. Thank you, Mr. Chairman. Just one follow-up on fair use since we were going back and forth on fair use. You're talking about limited readings or broader readings, but correct me if I'm wrong, my understanding is that currently, the broadest reading possible is the one that these tech companies, AI companies, are adopting, which their view is that none of your content should be compensable in any way, right? I mean, Mr. Lynch, have your properties received any form of licensing compensation from GAI, from these Generative AI? Mr. Lynch. No, we have not. And that has been their position. Senator Hawley. Right. Mr. Lynch. Although they negotiate with us, their starting point is we don't want to pay for content that we know that we should be able to get for free. Senator Hawley. Right. Mr. LeGeyt, different for you? Mr. LeGeyt. I don't want to speak for every one of my members because---- Senator Hawley. Sure. Mr. LeGeyt . I do think there are conversations taking place. It's also hard to paint with a broad brush here between the major tech companies and let alone the nascent entrants, but no doubt there are a substantial number of these companies taking that position. Senator Hawley. Yes. I'm just concerned that this is going to be--if they're reading, if the AI companies, which are really just the Big Tech companies, again, if they're reading a fair use prevails, is that fair use is going to be the exception that swallowed the rule. It's the mouse that ate the elephant. I mean, we're not going to have any copyright law left. I mean, it won't be a matter of, well, it's a little too broad. It won't exist. It just won't exist. That can't possibly be right. I mean, to see an entire body of law just destroyed. I mean, that can't possibly be right. Thank you, Mr. Chairman. Chair Blumenthal. Thanks. Thank you, Senator Hawley, for your input to this hearing. As Senator Hawley mentioned at the very start, we've held a number of hearings, not a single one of our participants, not a single witness has contended that AI, generative or otherwise, is covered by Section 230. And in fact, Sam Altman, at our very first hearing, acknowledged that it is not covered. Nonetheless, we have introduced No Section 230 Immunity for AI Act, just to make it explicit and clear. There is a really, kind of, deeply offensive irony here, which is that all of you and your publications or your broadcast station can be sued. You can be sued for, in effect, falsity, and if it's with respect to a public figure like myself, maybe the standard's a little bit higher. I have a right to go to court. Not so when it comes to social media. So, that--the organizations that use your content to train or appropriated, in effect, misappropriated without crediting or paying for it, can't be sued. They can become breeding grounds for criminality, literally, and they claim total and complete immunity. There is a double whammy here. It's a double kind of danger and damage that's being done because of Section 230 and because of their continued insistence on protection under Section 230. Given that point, and I want to go back to Senator Hirono's question, some may argue, well, it's not necessary to change the law, so we shouldn't do anything. But I think we have an obligation, both as to Section 230 and as to the licensing provisions, to act, to clarify the current law, and make sure that people understand there has to be licensing. It's not only morally right, but it's legally required, and Section 230 does not apply. So let me just open that question to you, and perhaps go down the panel beginning with you, Ms. Coffey. Ms. Coffey. We can agree more the hypocrisy that there would be a contradiction. So, it's good to hear, then, they're saying that they're the creator of the content because they're saying that in courts over copyright right now. ``We're creating this new expressive content. We're not taking your work. It's ours.'' So, it would be contradictory to then be immune for hosting others' content if they're the ones creating it. Which is why it's different from original Section 230 applications. It would lead to a healthier ecosystem here, too, like you say, because they would outsource their liability to those who already carry their liability, and they would license, like we're hoping that they will, they would serve attributions because they would want to attach a credible brand to what they're serving. Then it would be good for users because it would be a healthy ecosystem. It would be a win, win, win. We would be very supportive of that accountability and legislation, and also, I believe, lead to licensing that we're looking for as well. Chair Blumenthal. Professor Jarvis. Professor Jarvis. You may have found your first person who disagrees a bit, because I think the question, it's very, very subtle. I think the question is, who would be liable in these cases? If we go back to Gutenberg, at first, the person running the press was liable, the bookseller was liable, and, finally, the author became liable. In the case of that poor lawyer who used ChatGPT, was ChatGPT at fault? Was Microsoft at fault for presenting it in a way that may have seemed specifically to present fact? Or was the lawyer at fault for asking the question? I can go to the machine, and I can have it write a horrible poem, as the Senator said, about anyone that's bad. Is that my fault, or is that the machine's fault? I think that the question becomes-- you're going to find newspapers and TV stations that are going to be using Generative AI in all kinds of ways themselves. You're going to find their contributors are going to be using it. I think it's very difficult to try to pin liability. I went to a World Economic Forum event on AI governance, and the argument there was that we shouldn't pin liability at the model level, but at the application level because that's where people will interact with it, or I would also say at the user level. If I make it do something terrible, then I'm the one who should be liable. The printing press--Gutenberg's printing press did not cause the reformation, Luther did. Chair Blumenthal. But if Meta or Google or OpenAI takes The New Yorker logo, or the Hartford Courant's headline, and in effect creates some kind of false content, that is defamatory. Professor Jarvis. Well, in that case, they are the creator, and they are liable the same way that any publication would be if Meta created the content on their own, then Meta is indeed liable. Section 230, as you well know--and I love Section 230, I think it's great law. I think it protects the essence of the internet. Section 230 protects the public conversation that can occur because the platform where that conversation occurs is not liable for that conversation. In this case, in your example, if Meta created something, then they're liable. However, if someone used a tool, whether that is Adobe or whether that is ChatGPT, to create something and put it on Meta, I don't think Meta should be liable. The person who created it should be. Chair Blumenthal. But--and I don't want to get too deeply into the legalities here--but if Meta has reason to know that that content which is generated by AI could be fallible, doesn't it have an obligation to check? You know, again, the irony here is that I've been a source for stories in The New Yorker, and as I mentioned to Mr. Lynch, I'm always amazed that I get a call from someone at The New Yorker a week or so later, ``Here's the quote that you gave to our reporter. Is this correct?'' In other words, they're fact- checking before the story actually appears. Now then, one of the social media companies could take artificially generated trash attributed to The New Yorker, put it up. And as Mr. LeGeyt and Mr. Lynch have observed, the trust and credibility of the publication itself is undermined by artificial intelligence and then Meta using that content publicly. Professor Jarvis. It's a tool, it's a printing press. In that sense, it can be misused by anyone. If we think that we have to make the model liable for everything that could possibly happen with that model, then we're not going to have models. Chair Blumenthal. Well, the printing press never created anything. Ben Franklin ran a printing shop, and Ben Franklin would never have told us here that, ``Oh, it's not my fault. It's the printing press that did it.'' I think there is a fundamental difference between the printing press and artificial intelligence here, but let me give Mr. LeGeyt and Mr. Lynch a chance to comment. Mr. LeGeyt. On behalf of NAB and local stations around the country, I want to align myself and ourselves with every concern that you just raised. To the extent that there is any lack of clarity that our content needs to be licensed before it is used in any of these novel AI technologies, Congress would certainly be well served to clarify that. Our hope is that the courts will read the current law the same way that we do and not see a need for that. But let me also focus on a second piece of this, which is, I hear the tech companies talking about fair use, and it's this fourth factor that really sticks out to me, which is the potential harm to the market for the original work as a consideration. We have already seen, over the last decade, the tremendous harm that Big Tech has done to the market for local journalism. That's in an environment where we are well aware of how our content is being used by Google, Facebook, Microsoft, in their algorithms. We can at least see when our content is showing up in a search on a social network, and it's being accessed. Here, we won't even have that transparency to begin to quantify the harm. So, in a world in which we've already, as a broadcast industry, lost more than $2 billion in comercial value in this Big Tech ecosystem--the newspapers have quantified this at several times that--and we know that Generative AI technologies will exacerbate all of that harm, this, to me, doesn't pass the smell test. Certainly, if courts see it another way, we would urge Congress to act. Chair Blumenthal. Mr. Lynch. Mr. Lynch. Yes. I mean, as I stated earlier, we urge Congress really to take immediate action to clarify that the use of publisher content for both training and the output of Gen AI is not covered by fair use. It must be licensed and compensated. Chair Blumenthal. Thank you. You know, Mr. LeGeyt, you refer to the financial consequences. One of the other ironies here is that very often companies like Facebook talk as though they're doing you a favor by using your content. These companies have extraordinary power, as I think the public is just beginning to learn, one change to the algorithms, to deprioritize news or downrank your publications, and your threatened with financial disaster. In December, as a matter of fact, the Wall Street Journal, I think, published a report that found that Google's adoption of AI could lead to a 30 percent drop--30 percent decline, in traffic to news publishers. And it's using that same news content in their AI products, Google is, to compete with you. Does it strike you that that Wall Street Journal estimate is correct, and what would a 30 percent drop in traffic mean for news organizations, Ms. Coffey? Ms. Coffey. It would be devastating to our bottom lines. What would that look like? We would not be able to--well, before not hiring reporters, we would continue to hemorrhage. We would continue to lay off quality journalists who do this for a living, who are professionals. First of all, we're not in the business of trying to figure out how to get a click. We're in the business of creating quality news content. So, figuring out SEO, right, doing videos and being at the whim of these platforms, we need to find our true independence so that we can create the quality content we're intended to do. That's our purpose and our mission. If our content declines, our traffic declines, we will not be able to continue to do the work that we do for the American public. Chair Blumenthal. I am just going to close on this question. You know, rights need remedies. A right without a remedy is not worth the paper it's printed on. The remedies to be effective, need to be enforceable without years delay and millions of dollars in litigation costs. As, I mentioned at the very outset, The New York Times can afford to go to court, take it to the Supreme Court, establish precedent as it has done, and others like The Washington Post, and Conde Nast, your publications have done as well, and broadcast station. But a news organization like The Connecticut Mirror, which I know firsthand because it is groundbreaking, profoundly important investigative reporting that nobody else is doing, it could ill afford to go to court. It simply doesn't have the resources to do it. I think there is a question here about the need for Congress to act, simply make those rights real, to give them effective and enforceable remedies that don't require years delay or excessive costs. I respect Senator Hirono's point about unintended consequences. It's always a danger, but I'm very hopeful that Congress perhaps can act on this issue because it has an urgency even without an overarching comprehensive regulatory reform dealing with artificial intelligence. We certainly have an opportunity and obligation to deal with a lot of the general issues, which are urgent and important, but this one, it seems to me, we could tackle in a more discreet and targeted way. I'm open to any final comments that any of you may have. We're going to keep the record open for 2 weeks in case my colleagues have any additional questions. Any closing comments? Ms. Coffey. I would just thank you, Senator, Chairman, for holding this hearing on what is the Fourth Estate and critical to our country. As much as we're in a competitive race with these emerging technologies, which are very exciting, and we support them. There can be a balance, and it's not a zero-sum game. One does not have to exist at the expense of the other. That's the intention of all these laws, copyright law, especially, for there to be a balance so that you reward the content creation. There are existing laws that should be able to be enforced today that should be able to handle this partnership. I would just encourage those who are able to build those partnerships--there are good actors in this space--to undo what we've seen in previous years to be able to do the right thing, to be responsible, to license just like other companies did-- Netflix, Spotify--this is a cost of doing business. Both industries can survive. It doesn't have to be at the expense of the other. Thank you very much for holding this hearing on this important topic. Professor Jarvis. Also, thank you for holding this hearing, and I'm honored to be here. I also hope that we keep in mind that where we're going to see innovation in news, we see it--I worked for Advance for 12 years, and they do very innovative things, there's a lot of members here that do innovative things. But let's also be honest that a great number of the chains and newspapers now are owned by hedge funds that do not invest and do not innovate, and the innovation is coming from the bottom up. In New Jersey, at the New Jersey News Commons at Montclair State University, there are more than 400 small journalists doing small things that couldn't possibly enter into these discussions about licensing, and fair use, and courts, but they're creating a new journalism. So, I would urge that Congress keep in mind how to encourage and nurture the innovation that's going to come bottom-up. Chair Blumenthal. Thank you. Mr. LeGeyt. Senator, I want to echo the thanks for your holding this hearing, your attention to this issue. I think over the next 5 years, this is the existential one, but I would also ask the Committee not to lose focus on the issue we are still trying to solve for on Big Tech and the harm that's been posed to this industry as a result of their market power. We don't need to implore you, but I want to say thank you for your support of the Journalism Competition Preservation Act in this Committee, as well as your co-sponsorship. Frankly, the most meaningful thing that Congress could do tomorrow to address some of these stresses on local newsrooms is to pass that piece of legislation, so at least we're dealing with the problem that's already behind us, the impact of these tech platforms, and then we can focus and have some solid footing to really grapple with all of the additional disruption that's going to be posed by Generative AI. Thank you. Mr. Lynch. Senator, I would also like to thank you and Ranking Member Hawley, and the other Members for focusing this hearing on this important issue. You know, we do believe that there's a solution here. I think it's actually quite simple, just clarifying that this is not fair use. Then the Big Tech companies have proven their ability to license content. They've done it in music, in creating their own music services. They've done it in television, in creating their own streaming TV services that compete with companies that I've started before. So, they've proven the ability and desire to license content when there is a framework that is clear that they have to. They need that clarity now. Thank you. Chair Blumenthal. Thank you. Well, again, my thanks to all of you. And Mr. LeGeyt, I want to assure you that we're not losing sight of the Journalism Competition and Preservation Act. It remains a priority. Professor Jarvis, I'm totally in accord on innovation, which has already changed newsrooms for the better. When I worked for The Washington Post, we used a manual typewriter, and we sent our stories down a tube to printing presses. Mr. Lynch. Was the Linotype still working then? Chair Blumenthal. The Linotype was still working. And one of the thrills of my life was to go to the basement of The Washington Post and see those big Linotype machines turning out the molten lead that went into the stories that then hit the presses in the old-time way of printing. My point would be that those hundreds of journalists who are working their hearts out right now that you referred to, they deserve compensation for the content they're creating. Even innovation, no matter how exciting and promising, doesn't justify taking people's work without crediting and compensating them for, as Ms. Coffey says, that we need a balance even in the innovation. The old adage, ``No free lunch.'' There is no free lunch here. The content doesn't appear by magic, and we need to protect both the innovation and the creativity, which I may sound old fashioned, which not even artificial intelligence can do as magically and beautifully as those folks who are working in broadcast or print journalism. My thanks to all of you for being here today. We're going to continue working on this topic, as we are the issue of monopolistic practice and predatory abuse, which the Journalism Competition and Preservation Act is designed to address. Again, my thanks to all of you. This hearing is adjourned. Thank you.   A P P E N D I X Submitted by Chair Blumenthal: CJL Submission--AI-Journalism Hearing--January 2024.............. 74 Public Knowledge--Journalism & AI--Letter to Senate Judiciary Committee..................................................... 83 Submitted by Senator Blackburn: AI Poem Comparison............................................... 90  
+OVERSIGHT OF A.I.:
+THE FUTURE OF JOURNALISM
+----------
+WEDNESDAY, JANUARY 10, 2024
+United States Senate,
+Subcomittee on Privacy, Technology, and the Law,
+Committee on the Judiciary,
+Washington, DC.
+The Subcommittee met, pursuant to notice, at 2:05 p.m., in
+Room 226, Dirksen Senate Office Building, Hon. Richard
+Blumenthal, Chair of the Subcommittee, presiding.
+Present: Senators Blumenthal , Klobuchar,
+Hirono, Padilla, Hawley, and Blackburn.
+OPENING STATEMENT OF HON. RICHARD BLUMENTHAL,
+A U.S. SENATOR FROM THE STATE OF CONNECTICUT
+Chair Blumenthal. Welcome everyone. I'm pleased to convene
+the Subcommittee and welcome our witnesses. Welcome everyone
+who's come to hear, and of course, my colleagues from both
+sides of the aisle, for a hearing that is critical to our
+democracy. It's critical to the future of journalism in the
+United States because local reporting is the lifeblood of our
+democracy, and local reporting by newspapers and broadcast
+stations are in existential crisis.
+It is, in fact, a perfect storm. The result of increasing
+cost, declining revenue, and exploding disinformation. A lot of
+the cause of this perfect storm is in fact technologies like
+artificial intelligence--not new, not original for me to
+observe it--but it is literally eating away at the lifeblood of
+our democracy, which as we all know is essential to local jobs,
+local accountability, local awareness, and knowledge.
+Everything from obituaries to the planning and zoning
+commissions.
+You can't get it anywhere else. National news you can buy
+by the yard or by the word, but local reporting is truly the
+result of sweat and tears and sometimes even blood of local
+reporters. What we're seeing, and it's a stark fact about
+American journalism in existential crisis, is the decline and
+potential death of local reporting. As a result of that perfect
+storm, local papers are closing at a staggering rate. A third
+of our newspapers have been lost in the last two decades.
+I don't need to tell anyone here that some of the oldest
+newspapers in the country, like the Hartford Courant, have
+closed their newsrooms, and it is a national tragedy, a painful
+and traumatic time for reporters, editors, and their industry,
+and a deep danger for our democracy.
+Hedge funds are buying those papers, not for the news they
+can communicate, but often for the real estate that they own.
+They are publishing weekly instead of daily, and they are
+buying out reporting staffs, sometimes firing them. Millions of
+Americans now live in a news desert where there's no local
+paper, and that's especially true for rural populations and
+communities of color. There's an equity aspect to this
+challenge as well.
+For any of us on this panel, we know the importance of
+local news, but so should people who live in those communities,
+because just as local police and fire services are the first
+responders, local reporters are often the first informers, and
+that information is no less important to them than fire and
+police service in the long-term.
+The rise of Big Tech has been directly responsible for the
+decline in local news, and it is largely the cause of that
+perfect storm, accelerating and expanding the destruction of
+local reporting. First, Meta, Google and OpenAI are using the
+hard work of newspapers and authors to train their AI models
+without compensation or credit. Adding insult to injury, those
+models are then used to compete with newspapers and broadcast,
+cannibalizing readership and revenue from the journalistic
+institutions that generate the content in the first place.
+As The New York Times recent lawsuit against OpenAI and
+Microsoft shows, those AI models will even essentially
+plagiarize articles and directly permit readers to evade
+paywalls to access protected content free of charge. I realize
+that those claims and allegations are yet to be contended or
+concluded in court, but they are certainly more than plausible.
+Second, the models may also misidentify or misattribute
+statements about media outlet content or endorsement of a
+product, and the result is more rampant misinformation and
+disinformation online and damage to the brand and credibility
+of those media outlets. There are legitimate fears that AI will
+directly replace journalists. The experiments we've seen with
+fake reporters are a breach of trust. It's never a substitute
+for local reporters in local newsrooms, broadcasters,
+journalists who reflect their community and talk to their
+neighbors.
+Our purpose here must be to determine how we can ensure
+that reporters and readers reap the benefits of AI and avoid
+the pitfalls. That's been one of the themes of our hearings,
+and another has been that we need to move more quickly than we
+did on social media and learn from our mistakes in the delay
+there.
+Once again, we need to learn from the mistakes of that
+failure to oversee social media and adopt standards. I think
+there are some that maybe we can form a consensus around, just
+as Senator Hawley and I have on the framework that we've
+proposed.
+First, on licensing: guaranteeing that newspapers and
+broadcasters are given credit, financially and publicly, for
+reporting and other content they provide. Second, on an AI
+framework, such as we've proposed, requiring transparency about
+the limits and use of AI models, including disclosures when
+copyrighted material is used as provided for in our framework
+now. But we may need to expand on it and make it more explicit.
+Third, on Section 230, clarifying that Section 230 does not
+apply to AI. Again, as Senator Hawley and I have proposed in
+our legislation, to create the right incentives for companies
+to develop trustworthy products. Finally--not really finally,
+but fourth, updating our antitrust laws to stop Big Tech's
+monopolistic business practices in advertising that undercut
+newspapers. I want to thank my colleague, Senator Klobuchar,
+and Senator Lee, for their work on legislation that I've joined
+as a co-sponsor.
+We're fortunate to have an extraordinary panel today. I
+want to thank all of you for being here, and now turn to the
+Ranking Member for his comments.
+STATEMENT OF HON. JOSH HAWLEY,
+A U.S. SENATOR FROM THE STATE OF MISSOURI
+Senator Hawley. Thank you very much, Mr. Chairman. Thank
+you for convening this hearing. The first hearing of the year,
+but the latest in a series of hearings that Senator Blumenthal
+and I have been able to host together. Senator Blumenthal has
+just done tremendous, tremendous work chairing this Committee,
+and I've started now to notice a pattern. This is the fifth or
+sixth hearing I think we've had, and I've noticed now a pretty
+decided pattern.
+It goes something like this: You have on the one hand all
+of the AI cheerleaders who say that AI is going to be
+wonderful. AI is going to be life changing; it's going to be
+world changing; it's going to be the best thing that has ever
+happened to the human race, or something to that effect. Then
+you have a group of people who have concerns, and they say,
+well, you know, I don't know. I mean, what's AI going to do to
+jobs? What's AI going to mean for my privacy? What's AI going
+to mean for my kids?
+Here's the pattern I've noticed over a year: almost
+everybody who takes the AI cheerleading stance is here in this
+building. Then when you leave the confines of this building and
+the lobbyists who inhabit it, when you go out and actually talk
+to real people, working real jobs, you find the second set of
+concerns. I have yet to talk to a Missourian who is an
+enthusiastic, no holds barred cheerleader for AI. Not one.
+There probably is someone somewhere, but they haven't talked to
+me yet.
+What, I hear over, and over, and over from workaday people
+who are working their job, raising their kids, trying to just,
+you know, keep it going--what they say over and over is, I
+don't know about this. I don't know what this is going to mean
+for my kids online. I don't know what this is going to mean for
+my job in the future. I just--I don't know. I have concerns.
+They also usually say, I sure really wish that Congress would
+do something about this.
+That leads me to the second observation, the second pattern
+that I have noticed in this last year. And that is, while
+there's a lot of talk about the need for Congress to act, we're
+beginning to slip into a familiar pattern whereby the biggest
+companies who increasingly control this technology, just like
+they've controlled social media, don't want us to act and are
+willing to expend any amount of resources, money, time, and
+effort, influence to make sure we don't.
+Senator Blumenthal mentioned our bipartisan bill. That
+would just--a very modest bill, if I may say, that would just
+clarify that AI-generated tools are not entitled to the Section
+230 protections. Very modest. Do you know when we had AI
+executives sitting right here in this room, and we asked them
+directly, do you think Section 230 covers your model in your
+industry? They said, no. Senator Blumenthal and I wrote it up.
+I said, well, good, good. This is consensus. Let's pass this. I
+went to the floor to try to pass this bill in December and
+immediately was blocked and objected to.
+The same story we've been hearing for years from the
+technology companies. It's always, theoretically, we should put
+safeguards in place for real people. But when you come to do
+it, it's, oh, no, no, no, no, no, no, we can't. It's too soon.
+It's too much. It's too quick. What it really means is it would
+interfere with our profits. I mean, that's what they really
+mean. We cannot allow that pattern to continue with AI.
+That's the final thing I noticed is this: From the hearings
+and the information we've gathered, is AI is supposed to be
+new, but it really is contributing to what is now a familiar,
+familiar story, which is the monopolization in this country of
+information, of data, of large swaths of our economy. AI is
+increasingly controlled by two, three, four of the biggest
+companies, not just in this country, the biggest companies in
+the world. Apropos of today's subject to this hearing, I think
+we have to ask ourselves, ``Do we want all the news and
+information in this Nation to be controlled by two or three
+companies?'' I certainly don't. I certainly don't.
+So, I think we've got to ask ourselves, what are we going
+to do, practically, to make sure that normal people--whether
+they are journalists, whether they're bloggers, or whether it's
+just the working mom at home--what they can do to protect their
+work product, their information, their data? How are we going
+to make sure they are able to keep control of it, how they're
+able to vindicate their rights--because they do have rights,
+and they should have rights--and it shouldn't be that just
+because the biggest companies in the world want to gobble up
+your data, they should be able to do it, and you know what? Too
+bad; we're all just supposed to live with it.
+So, I think we've got a tall task in front of us. I salute
+Senator Blumenthal, again, for holding these hearings, and I
+hope that we'll be able to drive toward clarity and then toward
+solutions, because that's what the American people deserve.
+Thank you, Mr. Chairman.
+Chair Blumenthal. Thanks, Senator Hawley. I'm going to turn
+to Senator Klobuchar, who's been a leader in this area. As you
+know, she is the Chairwoman of the Subcommittee on Antitrust of
+the Judiciary Committee.
+STATEMENT OF HON. AMY KLOBUCHAR,
+A U.S. SENATOR FROM THE STATE OF MINNESOTA
+Senator Klobuchar. Thank you very much, Senator Blumenthal.
+Thank you for your work, and outlining some solutions, which I
+appreciated, and Senator Hawley as well. We have the bill to
+ban deepfake political ads, which is getting growing support.
+I'm hopeful if there is a package on AI, that that will be
+included, and of course, Senator Hirono is with us, who's been
+there from day one on these issues.
+This is personal for me. As many of you know, my dad was a
+journalist. He spent his career as a reporter, a columnist. He
+also had a local radio station, local TV show. When he retired
+in 1995, he had written 8,400 columns and 12 million words, and
+he did it all without AI. I will note, as a timely matter, he
+wrote 23 books, including one called ``Will the Vikings Ever
+Win the Super Bowl,'' which is sadly still relevant after this
+season.
+So, local news. Senator Blumenthal really laid out the
+problems and what we've seen with the closure of newspapers. We
+note this is how so many people, whether it is local radio, and
+I keep adding local TV as well, this is where they get their
+disaster alerts. This is when they find out if there's floods
+in Missouri. This is how they find out what the fire cleanup is
+in Hawaii. This is how they find out if a blizzard is coming in
+Minnesota. It's also where they find out their local football
+scores, and if a business is opening. And it is, yes, how
+finely city councils get reported on and what's covered. If
+this goes away, it literally frays at the connections in our
+democracies.
+So, what's happened? Diagnosis: the closure because of ad
+revenue. Not only because of that, but a lot because of that.
+In one quarter, 3 months in October, Google reported--this is
+last year--more than $59 billion in advertising revenue, one
+quarter, in a single 3-month period. When you look at what's
+happened with a newspaper's advertising revenue in just one,
+from 2008 to 2020, went down from $37 billion to $9 billion. I
+am very concerned that these trends will only worsen with the
+rise of Generative AI.
+So that is why in addition to the solutions that Senator
+Blumenthal--the top ones on licensing and the like that we need
+to look at--we can finally include some version, I hope, of the
+bill that Senator Kennedy and I have led for years, the
+Journalism Competition and Preservation Act.
+We know that just recently, Google negotiated an agreement
+in Canada after a similar bill had passed in Canada, which is
+going to mean a major shift for local news there, which will
+mean $74 million annually to those news organizations. We know
+that in Australia, where a similar bill passed, $140 million
+has shifted to the content providers, to the people who are
+actually doing the work, who are reporting the stories on the
+front line.
+So to me, that is a market-based way--by having negotiation
+of what the actual rates are, it is a market-based way to
+resolve this. It's why people like Senator Cruz support this
+bill. It is not some bill that is supported by one party or the
+other. It's been bipartisan from the very beginning. I'm
+hopeful that that will be considered as one of our solutions to
+all of this.
+Of course, we're also very concerned, as was noted by
+Senator Blumenthal, about these fake images of news anchors,
+people who are trusted, in addition to the politicians. It's
+not just movie stars, it's not just Tom Hanks and Taylor Swift
+as cool as they are. It's also going to be the local news
+anchor that maybe people haven't heard of nationally, but is
+trusted in Rochester, Minnesota.
+That's why I think this is such a timely hearing, and I
+want to thank Senator Blumenthal for having it as well as
+Senator Hawley.
+Chair Blumenthal. Thank you. Thanks, Senator Klobuchar.
+Just for the record, our local news anchors in Connecticut are
+pretty cool too. And you'll take that back to them, Mr. LeGeyt.
+Thank you.
+I want to introduce the witnesses, then we'll swear them in
+and ask for your opening statements. Danielle Coffey, welcome,
+is president and CEO of News Media Alliance, which represents
+more than 2,200 news and magazine media outlets worldwide,
+serving the largest cities and smallest towns, as well as
+national and international publication. She's a member of the
+board of directors at the National Press Club Journalism
+Institute.
+Professor Jeff Jarvis is the Tow Professor of Journalism at
+CUNY's Newmark School of Journalism. He's the author of six
+books, including, ``The Gutenberg Parenthesis: The Age of Print
+and Its Lessons for the Age of the Internet,'' and later this
+year, preview of coming attractions, ``The Web We Weave: Why We
+Must Reclaim the Internet from Moguls, Misanthropes, and Moral
+Panic.'' He co-hosts two podcasts, ``This Week in Google'' and
+``AI Inside.''
+Curtis LeGeyt, is president and chief executive officer of
+the National Association of Broadcasters. That organization is
+the premier advocacy association for America's broadcasters. It
+advances radio and television interests in legislative,
+regulatory, and public affairs.
+Roger Lynch is the CEO of Conde Nast, the global media
+company that creates and distributes content through its iconic
+brands including The New Yorker, Vanity Fair, Vogue, Wired, GQ,
+Bon Appetit. Prior to his current position at Conde Nast, he
+served as CEO of the music streaming service Pandora and also
+was the founding CEO of Sling TV. If you would please rise, I
+will administer the oath.
+
+Chair Blumenthal. Thank you. Ms. Coffey, if you would
+begin, please.
+STATEMENT OF MS. DANIELLE COFFEY, PRESIDENT AND CEO,
+NEWS MEDIA ALLIANCE, ARLINGTON, VIRGINIA
+Ms. Coffey. Thank you, Chairman Blumenthal, Ranking Member
+Hawley, and Members of the Subcommittee. Thank you for inviting
+me here to testify here today on AI and the future of
+journalism. My name is Danielle Coffey, and I'm president and
+CEO of the News Media Alliance, representing 2,200 news
+publications, magazines, digital-only outlets, some
+publications that started before the Constitutional Convention,
+such as the Hartford Courant.
+My members produce quality journalistic and creative
+content that seeks to inform, educate, and connect with readers
+and enrich their daily lives. We cover natural disasters,
+conflict zones, school boards, city halls, town halls,
+entertainment and the arts, and matters of public interest. We
+invest a significant amount of financial and human capital to
+serve our readers across the country.
+Our publications adhere to principles and processes that
+support verification, accuracy, and fidelity to facts. We abide
+by standards and codes of conduct and provide readers a voice
+through correction policies to ensure accuracy and reporting.
+Unfortunately, the same accountability is not seen across the
+rest of the internet. Without proper safeguards, we cannot rely
+on a common set of facts that promote healthy public discourse.
+Without quality reporting, we cannot have an informed
+electorate and functional society.
+Generative Artificial Intelligence, GAI, could create an
+even greater risk to the information ecosystem with
+inaccuracies and hallucinations, if not curbed with quality
+content produced by news publications. This risk will become
+worse as the economic decline of our industry accelerates. Our
+revenue has been cut in half.
+Over the last 10 years, demand for our content has grown
+the same amount over the same period of time in the opposite
+direction. This lack of return is because dominant distributors
+of our news content are scraping publications, websites, and
+selling portions for engagement and personal information to
+target users with advertising.
+Over the last several years, there have been countless
+studies, investigations, and litigation by the DOJ and the FTC
+in the past two administrations that have found anti-
+competitive conduct by the monopoly distributors of news
+content. This proves the direct nexus between anti-competitive
+conduct and the steep decline of financial revenue return to
+news publications, leading to a dramatic shortfall of the
+revenue that's needed to invest in news gathering and hiring
+journalists.
+We are deeply appreciative of Senators Klobuchar and
+Kennedy for their relentless leadership on the Journalism
+Competition and Preservation Act, which addresses this
+marketplace imbalance, and we thank this Committee for
+overwhelmingly passing the legislation last July.
+This marketplace imbalance will only be increased by GAI.
+An analysis that the N/MA commissioned in cases before the
+courts, it shows evidence of copyright-protective, expressive
+works being taken from behind paywalls without authorization,
+and used repeatedly in modeling, model training, processing,
+and display.
+In addition to massive amounts of content used in training
+GAI output, results to users' inquiries often contain
+summaries, excerpts, and even full verbatim copies of articles
+written and fact-checked by human journalists. These outputs
+compete in the same market with the same audience, serving the
+same purpose as the original articles that feed the algorithms
+in the first place. Because these uses go far beyond the
+guardrail set by the courts, this is not considered fair use
+under current copyright law.
+To be clear, news publishers are not opposed to AI. We want
+to help developers realize their potential in a responsible
+way. N/MA's members are by and large willing to come to the
+table and discuss licensing terms and licensing solutions to
+facilitate reliable, updated access to trustworthy and
+authoritative content.
+A constructive solution will benefit all interested parties
+and society at large and avoid protracted uncertainty in the
+courts. Some GAI developers are good actors and seek licensing
+agreements with news publications, and we applaud their
+efforts.
+In addition to encouraging such licensing practices, there
+are other issues that Congress can address around transparency,
+copyright, accountability, and competition that we have
+submitted for the record.
+The Fourth Estate has served a valuable role in this
+country for centuries, calling on governments and civic leaders
+to act responsibly in their positions of power. Local news,
+especially, has uncovered and reported on events around the
+country that keep readers informed, educated, and engaged in
+their communities.
+We simply cannot let the free press be disregarded at the
+expense of these new and exciting technologies. Both can exist
+in harmony, and both can thrive. We must ensure that for the
+future of our country and the future of our society. Thank you
+for the opportunity to participate, and I look forward to
+questions.
+[The prepared statement of Ms. Coffey appears as a
+submission for the record.]
+Chair Blumenthal. Thank you, Ms. Coffey. Professor Jarvis.
+STATEMENT OF PROFESSOR JEFF JARVIS, TOW PROFESSOR
+OF JOURNALISM, CUNY GRADUATE SCHOOL
+OF JOURNALISM, BASKING RIDGE, NEW JERSEY
+Professor Jarvis. Thank you so much for this opportunity
+and invitation. I've been a journalist for 50 years, and a
+journalism professor for the last 18 of those. I'd like to
+begin with three lessons about the history of news and
+copyright that I've learned from researching my book, ``The
+Gutenberg Parenthesis.''
+First, America's 1790 Copyright Act protected only maps,
+charts, and books. Newspapers were not covered by the statute
+until 1909. Second, the Post Office Act of 1792 allowed
+newspapers to exchange copies for free, enabling so-called
+``scissors editor''--an actual job title--to reprint articles,
+thus creating a network for news, and with it, a nation. To
+this day, journalists read, learn from, and repurpose facts
+from each other. The question before us today is whether the
+machine has similar rights to read and learn.
+Third, a century ago, when print media faced their first
+competitor, radio, newspapers were inhospitable, limiting
+broadcasters to two daily updates, excluding radio from
+congressional press galleries, and even forbidding on-air
+commentators from discussing an event until 12 hours after the
+fact. They accused radio of stealing content and revenue. They
+warned radio would endanger democracy, as they have since to
+television, the internet, and now AI.
+Today, I prefer to focus on the good that might come from
+news collaborating with this new technology. First, a caveat.
+Large language models have no sense of fact and should not be
+used where facts matter, as some learn the hard way. Still, AI
+presents many opportunities. For example, AI is excellent at
+translation. News organizations could use it to present their
+news internationally. AI is good at summarizing specific
+documents. That is what Google's NotebookLM does, helping
+writers and journalists organize their research. AI can analyze
+more text than any one reporter.
+I advised one editor to have citizens record, say, 100
+school board meetings so the technology could transcribe them
+and then answer questions about how many boards are discussing,
+say, banning books. I'm fascinated with the idea that AI could
+extend literacy, helping people who are intimidated by writing
+to tell and illustrate their own stories.
+A task force of academics from the Modern Language
+Association concluded recently that AI could help students with
+word play, analyzing writing, and overcoming writer's block. AI
+now enables anyone to write computer code. As a tech executive
+told me in an AI podcast that I co-host, the hottest
+programming language on planet Earth right now is English.
+Finally, I see business opportunities for publishers to put
+large language models in front of their content to allow
+readers to enter into dialog with that content. I just spoke
+with one entrepreneur I know who's working on a business like
+that. This morning, I talked to an executive at Schibsted, the
+very good Norwegian newspaper company, and they're working on
+something similar.
+All these opportunities and more are put at risk if we
+fence off the open internet. Common Crawl is a foundation that
+for 16 years has archived the web, 250 billion pages and 10
+petabytes made available to scholars for free, yielding 10,000
+research papers. I'm disturbed to learn that The New York Times
+demanded that the entire history of its content, including that
+which had been available for free, be erased.
+Now, when I learned that my books were included in Books3,
+a data set used to train AI, I was delighted, for I write not
+only to make money, but also to spread ideas. What happens to
+our information ecosystem and our democracy when all
+authoritative news retreats behind paywalls, available only to
+privileged citizens and giant corporations that can afford to
+pay.
+I understand the economic plight of my industry. I've been
+an executive in this industry. I've run a center for
+entrepreneurial journalism. I understand the urgency. But
+instead of debating protectionist legislation sought by
+lobbyists for a struggling industry, I hope we also have a
+discussion about journalism's moral obligation to an informed
+democracy. Please let us rethink copyright for this age. In my
+next book, ``The Web We Weave,'' I ask technologists, users,
+scholars, media, and governments to enter into covenants of
+mutual obligation for the future of the internet, and by
+extension, AI.
+Today, I propose to you as government, to promise, first,
+to protect the rights of speech and assembly that have been
+made possible by the internet. Please base decisions that
+affect internet rights on rational proof of harms, not media's
+moral panic. Do not splinter the internet along national
+borders and encourage and enable new competition and openness
+rather than entrenching incumbent interests through regulatory
+capture. In some, I seek a Hippocratic Oath for the internet.
+First, do no harm.
+[The prepared statement of Professor Jarvis appears as a
+submission for the record.]
+Chair Blumenthal. Thanks, Professor. Mr. LeGeyt.
+STATEMENT OF MR. CURTIS LEGEYT, PRESIDENT AND CEO,
+NATIONAL ASSOCIATION OF BROADCASTERS,
+WASHINGTON, DC
+Mr. LeGeyt. Good afternoon, Chairman Blumenthal, Ranking
+Member Hawley, and Members of the Subcommittee. My name is
+Curtis LeGeyt. I'm the president and CEO of the National
+Association of Broadcasters. I'm proud to testify today on
+behalf of our thousands of local television and radio station
+members who serve your constituents every day.
+Study after study shows that local broadcasters are the
+most trusted source of news and information. Our investigative
+reports received countless awards for exemplifying the
+importance and impact of journalism as a service to the
+community. This includes WTNH News 8 in New Haven, which
+received an Edward R. Murrow Award for its reporting on child
+sex trafficking in the State, and KMOX Radio and KMOV-TV in St.
+Louis, which were also recently honored with Murrow Awards for
+their accurate and heartfelt reporting of a deadly school
+shooting.
+Stories like these are the antidote to the misinformation
+and disinformation that thrives online. Broadcasters will build
+on this trust by embracing new AI tools that will help our
+journalists, particularly when it comes to delivering breaking
+news and emergency information.
+For example, one broadcaster is piloting a tool that would
+use AI to quickly cull through inbound tips from email and
+social media to produce recommendations they can verify and
+turn into impactful stories. Other broadcasters are using AI to
+translate their stories into other languages to better serve
+diverse audiences. When AI can help these journalists, real
+people, perform their jobs and their communities, we welcome
+it.
+However, this Subcommittee should be mindful of three
+significant risks that Generative AI poses to broadcast
+newsrooms across the country. First, the use of broadcasters'
+news content in AI models without authorization diminishes our
+audience trust and our reinvestment in local news. Broadcasters
+have already seen numerous examples where content created by
+our journalists has been ingested and regurgitated by AI bots
+with little or no attribution.
+For example, when a well-known AI platform was recently
+prompted to provide the latest news in Parkersburg, West
+Virginia, it generated outputs, copied nearly word for word
+from WTAP-TV's website. The station did not grant permission
+for that use, nor were they even made aware of it.
+Not only are broadcasters losing out on that compensation,
+but this unauthorized usage risks undermining trust as stations
+lose control over how their content is used, and whether it's
+integrated with other unverified information. All of the
+concerns that drive Senators Klobuchar, Kennedy, and this
+Committee's work on the Journalism Competition and Preservation
+Act, are exacerbated by the emergence of Generative AI.
+Second, the use of AI to doctor, manipulate, or
+misappropriate the likeness of trusted radio or television
+personalities risk spreading misinformation or even
+perpetuating fraud. One example, a recent video clip of a
+routine discussion between two broadcast TV anchors, was
+manipulated to create a hateful, racist, antisemitic rant.
+Univision's Jorge Ramos, one of the most respected figures
+in American journalism, has repeatedly been a victim of AI
+tools, appropriating and manipulating his voice and image to
+advertise all kinds of unauthorized goods and services. We
+appreciate the attention of Senators Coons, Blackburn,
+Klobuchar, and Tillis to this growing and significant problem,
+which should be addressed in balance with the First Amendment.
+Finally, the rising prevalence of deepfakes makes it
+increasingly burdensome for both our newsrooms and users to
+identify and distinguish legitimate copyrighted broadcast
+content from the unvetted and potentially inaccurate content
+being generated by AI. To give a recent illustration, following
+the recent October 7th terrorist attacks on Israel, fake photos
+and videos reached an unprecedented level on social media in a
+matter of minutes. Of the thousands of videos that one
+broadcast network sifted through to report on the attacks, only
+10 percent of them were authentic and usable.
+As, I document my written testimony, broadcasters across
+the country have launched significant new initiatives to
+bolster the vetting process of the content that is aired on our
+stations. These efforts are costly, and the problem grows more
+complex by the day.
+In conclusion, America's broadcasters are extremely proud
+of the role we play in serving your constituents, and we are
+eager to embrace AI when it can be harnessed to enhance that
+critical role. However, as we have seen in the cautionary tale
+of Big Tech, exploitation of new technologies can undermine
+local news.
+This Subcommittee is wise to keep a close eye on AI as well
+as the way our current laws are applied to it. Thank you again
+for inviting me to testify today. I look forward to your
+questions.
+[The prepared statement of Mr. LeGeyt appears as a
+submission for the record.]
+Chair Blumenthal. Thank you, Mr. LeGeyt. Mr. Lynch.
+STATEMENT OF MR. ROGER LYNCH, CEO, CONDE NAST,
+NEW YORK, NEW YORK
+Mr. Lynch. Thank you, Chair of Blumenthal, Ranking Member
+Hawley, and Members of the Subcommittee. Thank you very much
+for inviting me to participate today in the critical discussion
+about AI and future of journalism.
+My name is Roger Lynch, and I'm the CEO of Conde Nast.
+Conde Nast iconic brands and publications include The New
+Yorker, Vogue, Vanity Fair, Wired, Architectural Digest, Conde
+Nast Traveler, GQ, Bon Appetit, and many more, including, I
+might add, Tatler, which was first published in the UK in 1709.
+Our mission is to produce culture-defining exceptional
+journalism and creative content, and this purpose is evident in
+our output that only humans can make, together with rigorous
+standards in fact-checking that can be produced. The result is
+stories that change society for the better, information that
+helps people make decisions in their daily lives, and content
+that creates an informed and empowered electorate.
+As an example, this is what The New Yorker has done for
+over a hundred years; from the publishing of John Hersey's 1946
+account of the survivors of the atomic bombing of Hiroshima, to
+the serialized chapters of Rachel Carson's, ``Silent Spring,''
+which helped launch the modern environmental movement in 1962,
+to more recently, Patrick Radden Keefe's exposes on the Sackler
+family's ruthless marketing of OxyContin, the drug that
+profited billions from people's addictions.
+I have long experience leading companies through times of
+great technological change. You could say it's in my DNA, and
+Generative AI is certainly bringing about such change, and is
+already demonstrating tremendous potential to make the world a
+better place. But Gen AI cannot replace journalism.
+Journalism is fundamentally a human pursuit, and it plays
+an essential and irreplaceable role in our society and our
+democracy. It takes reporters with grit, integrity, ambition,
+and human creativity to develop the stories that allow free
+markets, free speech, and freedom itself, to thrive.
+In each business that I've led, successful new businesses
+were built on a foundation of licensing content rights.
+Licensing allowed distributors to work together with content
+creators to innovate new and better consumer experiences and
+generate profits that were invested in creating more great
+content.
+I'm here today because congressional intervention is needed
+to make clear that Gen AI companies must also take licenses to
+utilize publisher content for use with Gen AI. Unfortunately,
+currently deployed Gen AI tools have been built with stolen
+goods. Gen AI companies copy and display our content without
+permission or compensation in order to build massive commercial
+businesses that directly compete with us.
+Big Tech companies argue that this is fair use. That their
+machines are just learning from reading our content just as
+humans learn, and that no licenses are required for that. This
+is a false analogy. Gen AI models do not learn like humans do.
+They maintain complete copies of the works they train on, our
+content, and output its substance while keeping 100 percent of
+the value for themselves and training consumers to come to them
+for information, not to us, depriving us of essential customer
+relationships.
+Fair use is designed to allow criticism, parody,
+scholarship, research, and news reporting. The law is clear
+that it is not fair use when there is an adverse effect on the
+market for the copyrighted material. It is that market that
+creates the incentive to invest and innovate in content. In
+that way, the market supports journalism and innovation in the
+long run. Fair use is not intended to simply enrich technology
+companies that prefer not to pay.
+Moreover, Gen AI technology enables misinformation on an
+unprecedented scale. In the wrong hands, Gen AI can generate
+outputs that are customized for individuals, making
+misinformation in all forms; fake photographs, audio, video,
+and documents look real.
+Widely available Gen AI tools hallucinate and generate
+misstatements that are sometimes attributed to real
+publications like ours, damaging our brands. Americans can't
+possibly spend all of their time determining what's true and
+what's false. Instead, they may stop trusting any source of
+information with devastating consequences.
+Luckily, there is a path forward. That's good policy, its
+good business, and it's already the law. Licensed and
+compensated use of publisher content for both training and
+output. This will ensure a sustainable ecosystem in which high
+quality content continues to be produced by brands consumers
+trust. This will also ensure that information comes from many
+sources without Big Tech companies as gatekeepers. Licensing
+will support a sustainable future.
+In conclusion, we urge Congress to take immediate action to
+clarify that the use of publisher content for both Gen AI
+training and output must be licensed and compensated. The time
+to act is now and the stakes are nothing short of the continued
+viability of journalism.
+Thank you very much for your work on these important
+issues.
+[The prepared statement of Mr. Lynch appears as a
+submission for the record.]
+Chair Blumenthal. Thank you very much, Mr. Lynch. And let
+me begin where you ended to say that what we're proposing
+really is to clarify. The argument could be made, I think, that
+the law now requires this kind of licensing, but I think you
+would agree with me that the costs of enforcing those rights
+through litigation, the financial costs, the delay, the cost
+and time, make it often an impractical or less effective remedy
+than is needed and deserved. Is that the thrust of your
+testimony?
+Mr. Lynch. Yes, Senator. If the big AI companies had agreed
+with that position, we would be able to negotiate arrangements
+with them. Unfortunately, they do not agree with that. They do
+not agree that they should have to be paying for this, and they
+believe that it is covered under fair use, and hence, the
+lawsuits that you've already seen starting.
+Chair Blumenthal. In a blog post, I believe, from OpenAI
+reported very recently, within the last 24 hours or so, the
+reference was made, in fact, to ongoing negotiations proceeding
+The New York Times lawsuit, and possibly other negotiations are
+ongoing. But in the long-term, those kinds of individual ad hoc
+agreements maybe will be unavailing to the smaller newspapers
+or broadcast stations that don't have the resources of The New
+York Times. Correct?
+Mr. Lynch. Certainly. That would be a major concern, is
+that the amount of time it would take to litigate appeal, go
+back to the courts, appeal, maybe ultimately make it to the
+Supreme Court to settle. Between now and then, there'd be many,
+many media companies that would go out of business.
+Chair Blumenthal. One of the core principles of the
+framework that Senator Hawley and I have proposed is record
+keeping and transparency. Developers ought to be required to
+disclose essential information about the training, data, and
+safety of AI models to users and other companies.
+Ms. Coffey, you make the point that this is important for
+newspapers. The AI companies have been intensely secretive
+about where they get their data, but we know based on even the
+limited transparency that's available to us, that they use
+copyright material, and it's the bedrock for many of their
+models. For example, Meta and other companies use a data base
+called Books3, which is a collection of nearly 200,000 pirated
+books.
+That's not public information. That's theft, in my view.
+I'm a former prosecutor, so I don't use that term lightly, but
+seems to me that's the right term for it. Part of the problem
+is that AI companies are using this hard work, not just the
+sweat, and tears, and sometimes blood, but also the financial
+investment that is made to produce news. It doesn't appear
+magically, it's not out of thin air. It's an investment, and
+the kind of lack of transparency makes it harder for you to
+protect your rights. Is that correct?
+Ms. Coffey. That is correct. And we found the same thing
+with news media. It's 5 of the top 10 sites that are used by
+C4, which is the curated, more responsible dataset that train
+the models of Common Crawl. We found that 5 of the top 10 were
+news media sites because it is quality, it is reliable, it is
+vetted, and fact-based.
+Then, we would agree that licensing would be the best
+marketplace solution so that we can avoid protracted
+litigation. And in order to do that, we need to know how
+they're using our content. So, a searchable data base would be
+something that we would recommend.
+There are other options and ways to do that, and I know
+that there's legislation that we're supportive of that would
+identify how our content is being used, because any sort of
+tagging that we do, any authentication, we work with Adobe and
+others, but it's stripped whenever they take our content, and
+it doesn't follow the content through to the output. We don't
+know how our content is actually being used, and therefore we
+can't enforce, and it's difficult to negotiate if we don't have
+that information. There's different versions that might work,
+but we would be very supportive of that so that we can enforce
+our rights.
+Chair Blumenthal. I would be very interested in more
+specifics from all the witnesses. We may not have time today to
+explore all the technical details, but obviously those details
+are important. I just want to emphasize the point that, I
+think, really all of you have made, which is there's great
+promise. There are tremendous potential benefits to using AI.
+For example, in investigative reporting, to go through
+court files or documents, discovery, depositions, all kinds of
+stuff that can be more effectively and efficiently explored and
+summarized by AI. But we also need to be mindful of the perils.
+We're going to have 5-minute rounds of questions, and I'll turn
+to the Ranking Member, Senator Hawley.
+Senator Hawley. Thanks again, Mr. Chairman. Thanks to all
+the witnesses for being here. Mr. Lynch, if I could just come
+back to you because I was struck by your comment that the
+problem with Generative AI as it exists currently, it's been
+built with stolen goods. Let's just talk a little bit about the
+sort of content licensing framework that you would favor.
+Can, you give us a sort of a sketch of what that would look
+like, something that protects existing copyright law, something
+that you think would be workable? I'm not asking you to write
+the statute for us----
+Mr. Lynch. Sure, sure.
+Senator Hawley . But just maybe give us a
+thumbnail overview.
+Mr. Lynch. I think quite simply, if Congress could clarify
+that the use of our content and other publisher content for
+training and output of AI models is not fair use, then the free
+market will take care of the rest. Just like it has in the
+music industry where I worked, and film and television, sports
+rights. It can enable private negotiations, and you know, in
+the music industry where you have--you think about millions of
+artists, millions of ultimate consumers, consuming that
+content.
+There have been models that have been set up, ASCAP, BMI,
+CISAC, GMR, these collective rights organizations to simplify
+the licensing of that content. And the nice thing about that is
+it doesn't take a company the size of Conde Nast or The New
+York Times to create these licensing deals. These organizations
+can do it for all content producers.
+You know, fundamentally we think a simple fix or
+clarification that use of content for training and output of AI
+models is not fair use, the market will take care of the rest.
+Senator Hawley. I have to say that that seems imminently
+sensible to me, and it leads me to ask the question: Why
+shouldn't we expand that regime outward? I mean, why shouldn't
+we say that anybody whose data is ingested and then
+regurgitated by Generative AI, whether that's, you know, their
+name, their image, their likeness, why shouldn't they be able
+also to have a right to compensation? I mean, our copyright
+laws are quite broad, I think, justly so.
+You know, why shouldn't--I'm very sympathetic to this
+argument for journalists and content creators for whom content
+creation is a career. But there are lots of other folks for
+whom it's not a career, but they post, they create things, they
+have work product. They post things online. Why shouldn't they
+also be protected?
+It seems to me that they should. I mean, it seems to me
+that every American ought to have some rights here in their
+data and in their content. This sort of regime you've
+described, I mean, these ordinary Americans are already
+protected by copyright law. It seems that we should find a way
+to enforce that, and the way that you've described in terms of
+clarifying fair use, seems to me to be a potential path
+forward.
+Mr. LeGeyt, let me shift gears and ask you about something
+that you said. It's in your written testimony, and you
+mentioned it, too, just a moment ago about this video clip, one
+of many, unfortunately, with the broadcast TV anchors that was
+manipulated. And we've seen this is proliferating.
+You know, The New York Times did a report just a couple of
+days ago about similar manipulation of images. In this case,
+not news reporters; this was just--the Times reported on, for
+instance, I think, a doctor. ``Online trolls''--I'm quoting
+from the report now--``took screenshots of a doctor from an
+online feed of her testimony,'' she was giving at a parole
+board hearing, ``and edited the images with AI tools,'' in that
+case, to make them sexually explicit. You know, completely
+fake. This is the classic deepfake, but obviously extremely,
+extremely harmful, extremely invasive, and then posted them
+online. I mean, use these images, created these images, and
+then in this case, put them on 4Chan.
+My question to you is, shouldn't there be some sort of
+Federal limit, Federal ban on deepfake images, certainly of a
+sexually explicit nature? But shouldn't every American have the
+right to think--with appropriate First Amendment exceptions
+for, you know, parody--but shouldn't we have the right to think
+that--listen, you're not just going to--if you put a picture on
+Instagram of your child, it's not going to be scraped up by
+somebody, some company, or some individual using company
+software to generate a sexually explicit image, or, in the case
+of these news anchors, to put, literally, words in their mouth?
+Mr. LeGeyt. You are absolutely right to prioritize this
+issue. For local broadcasters, all our local personalities have
+is the trust of their audiences. The second that that is
+undermined by disinformation and these technologies, these
+deepfakes, are going to put all of that on steroids. It is just
+more noise, and I think we have seen the steady decline in our
+public discourse as a result of the fact that the public can't
+separate fact from fiction.
+Absolutely, this is an area that demands your attention,
+this Committee's attention. There are certainly some elements
+of this in the expressive context that the Committee needs to
+be mindful of. Certainly, we've aligned ourselves with the
+Motion Picture Association, and in the creative context, some
+of the potential carve outs that they have flagged. But this is
+an issue that is existential for local news, it's existential
+for our democracy, and so we absolutely support this
+Committee's attention to it.
+Senator Hawley. I would just say in closing, Mr. Chairman,
+to your point, Mr. LeGeyt, the reason that the public can't
+separate fact from fiction is in the case of these images. I
+mean, they look like they're the real thing. I mean, they're
+indistinguishable. I mean, it's not a matter of all, you know,
+the public, they're not paying attention. They are paying
+attention. That's the problem, is that they look absolutely
+real.
+Whether you're a broadcaster, or a doctor, or a mom, or
+whatever, I just think the idea that at any moment you live in
+the fear that some image of me out there could be manipulated
+and turned into something completely else, ruin my reputation.
+What's your alternative? Go file a legal suit and fight that
+out. And I mean, most people don't have money for that. This
+just seems to me, Mr. Chairman, like a situation we've got to
+address and quickly. Thank you.
+Chair Blumenthal. Thanks, Senator Hawley. Senator
+Klobuchar.
+Senator Klobuchar. I agree with what Senator Hawley just
+said. Why don't we start with you, Ms. Coffey. So, numbers I
+have, Pew Research Center found that we lost about 40,000
+newsroom jobs between 2008 and 2020. Why are these newspapers
+shutting down? Is it because we are so perfect that you have
+nothing to cover, or perhaps there's a lot to cover, but
+there's not enough reporters? Could you answer why they're
+shutting down?
+Ms. Coffey. You're right to recognize that there is plenty
+to cover, and the value of the audience is exponentially
+increasing every year. Like I said, it's the opposite
+trajectory when it comes to the revenue that returns to us
+because we have two dominant intermediaries who sit in between
+us and our readers.
+Seventy percent of our traffic is relied upon, so we have
+no choice but to acquiesce to their terms of letting them
+crawl, scrape, and place our content within their walled
+gardens where users are ingesting, right now, images, snippets,
+featured snippets, and now soon, AI, which will make them just
+never leave the platform. Because it's by design, personalized
+to get personal information to then target users with
+advertising using our content to engage those users in the
+first place.
+If there's no return to those who create the original
+content that's distributed by the monopoly dominant platforms,
+then we're just not going to be able to pay journalists who
+create the quality in the first place.
+Senator Klobuchar. Exactly. Mr. Lynch, do you have any
+choice over whether you are able to decide whether your content
+is used to train AI models, and do you have a choice about
+whether to let them scrape your content or not?
+Mr. Lynch. It's somewhat a complicated issue. The answer is
+they've already used it. The models are already trained. And
+so, where you hear some of the AI companies say that they are
+creating or allow opt outs, it's great, they've already trained
+their models. The only thing the opt outs will do, will is to
+prevent a new competitor from training new models to compete
+with them. So, the opt out of the training is too late,
+frankly.
+The other side of the equation is the output. Remember, the
+models need to be trained, then they need access to current
+content to respond to queries. So, in the case of search
+companies, if you opt out of the output, you have to opt out of
+all of their search. Search is the lifeblood of digital
+publishers. Most digital publishers, half or more of their
+traffic originates from a search engine. If you cutoff your
+search engine, you cutoff your business. So, there's not a way
+to opt out of the output side of it, letting it have access to
+your content for the outputs retrieval augmentation in
+generation without opting out of search.
+Senator Klobuchar. You have a dominant search engine, like
+90 percent with Google, and so then you pay fees, right, to get
+this content to get to you. Is that right? You said in your
+testimony, Ms. Coffey, you explained that when users click
+through to news sites, Big Tech gets fees for web traffic. Is
+that right?
+Ms. Coffey. Yes, the ad tech tax. That's correct.
+Senator Klobuchar. That's for the ad tech, right?
+Ms. Coffey. Right.
+Senator Klobuchar. So, but then, if you want to opt out of
+the AI model, you'll be opting out of what is for many news
+organizations now, the monopoly model that you're forced to use
+is the only way to get to your site?
+Mr. Lynch. Correct. You opt out of search.
+Senator Klobuchar. Got it down. Okay. So, last question. In
+addition to the licensing issues my colleagues have raised in
+ways we can clarify that, is the bill that Senator Kennedy and
+I have. And Mr. Lynch, in your testimony, you explained that
+Australia's news media bargaining code has been successful in
+leading to negotiations between tech platforms and news
+organizations.
+People have to understand these are trillion-dollar
+companies and all. Sometimes you'll have a tiny newspaper for a
+town of 1,000 people, and they won't even return their calls.
+Can you talk about how the success of the new laws in
+Australia, and actually in Canada, have supported journalism
+and led to the hiring of additional journalists?
+Mr. Lynch. Yes. There's been reporting out of Australia
+that the $140 million that has flowed back to news organization
+and publishers there have resulted in hiring or in rehiring of
+journalists. You know, the first thing we have to do is, is you
+heard from Ms. Coffey earlier about the decline. You know, what
+was the cause of the decline? The number of reporters this last
+year alone--8,000 journalists--have lost their jobs in the
+U.S., and Canada, and the UK.
+The first thing is to stop that decline, because that
+decline, I would argue, undermines democracy, undermines the
+Fourth Estate. The way to do that is to ensure there's
+compensation for the use of this content. There's adequate, I
+think, evidence now from what's happened in Australia, and now
+in Canada, that the Big Tech companies didn't fall over. Their
+business models continued on, and now journalism is starting to
+flourish again in these markets.
+Senator Klobuchar. Just Ms. Coffey, anything you want to
+add to that, then I'm done.
+Ms. Coffey. If we can send something, it's back on the
+labor index. It shows that journalists jobs spiked afterwards,
+and have plateaued, and then have steadily rose.
+Senator Klobuchar. Okay. Thank You.
+Senator Hawley . Thank you, Senator Klobuchar.
+Senator Blackburn.
+Senator Blackburn. Thank you. Thank you to each of you for
+being here because this is an issue that needs our attention.
+And Professor Jarvis, we've had Mr. Lynch discussing fair use.
+I will have to say, dealing with musicians and creators in
+Tennessee, I have often referred to fair use as a fairly useful
+way to steal their content, and that's what it turns out to be
+so many times.
+I actually argued for a narrowed application of fair use in
+the amicus brief that I wrote for the Supreme Court in the
+Warhol v. Goldsmith case. I think that's important. I think the
+Court made the right decision here. And I--you've said that you
+agree with OpenAI's models using materials, training AI models
+on publicly available material.
+So, let's look at this from the commercial side. So, do you
+not believe that content creators should be compensated when
+they're going to be competing commercially with the content
+that is generated from the AI models?
+Professor Jarvis. Senator, thank you for the question. I am
+concerned about all the talk I hear about limiting fair use
+around this table, because fair use is used every day by
+journalists. We ingest data, we ingest information, and we put
+it out in a different way.
+Newspapers complained about radio over the years for doing
+rip and read. They tried to stop it. They created the Biltmore
+Agreement to stop radio from being in news at all. In the end,
+democracy was better served because journalists could read each
+other and use each other's information. I think if we limit
+that too much, we limit the freedom that comes.
+I'm also concerned that if we talk about trying to license
+all content for all uses, we set precedents that may affect, in
+fact, journalists, but also will affect small open-source
+efforts to compete with the Big Tech companies.
+Senator Blackburn. You would have a broader allowance for
+fair use instead of a narrowed use?
+Professor Jarvis. Yes. And I think that it is fair use, and
+it is transformative, but as Mr. Lynch also separated them----
+Senator Blackburn. Then for Ms. Coffey, then what you're
+doing is saying there are content creators who would not be
+compensated, even though in the commercial applications, the
+AI-generated content is competing directly with the original
+creator of that content. That would be your position.
+Professor Jarvis. Not to pick on the New York Times, but I
+can point you to many news organizations that resent when their
+stories are taken by the Times without credit or payment.
+Senator Blackburn. Let me move on. I want to talk about
+bias in AI algorithms. I think we all know there, it's no
+secret the mainstream media tilts left, and significantly to
+the left, when giving Americans their news. Now we're seeing
+bias against conservatives in some of the AI tools and
+training, and there are a couple of examples that we really
+need to put on the record.
+Now, if you go to ChatGPT and you say, ``I want to write a
+poem admiring former President Trump.'' What ChatGPT says is,
+``I'm sorry, but I am not able to create a poem admiring
+President Trump.'' If you turn around and next you say, ``I
+want to write a poem, ask for a poem, admiring Joe Biden.''
+Here's what you get, and I quote ChatGPT, ``Joe Biden, leader
+of the land with a steady hand and heart of a man. You took the
+helm in troubled times with the message of unity. Your words of
+hope and empathy provide comfort to the Nation.'' And it goes
+on and on, and here's a screenshot that I have for the record.
+
+Senator Blackburn. So, my question to you would be, is this
+type of bias acceptable in these training models, machine
+learning for AI?
+Professor Jarvis. First, it's really bad poetry. So, I
+think maybe perhaps President Trump is lucky not to have been
+so memorialized. I think that if we try to get to a point of
+legislating fake versus not fake, true versus false, we end up
+in a very dangerous teritory, and similarly around bias. What
+all of these models do is reflect the biases of society. I'll
+take you, as you say, that media are generally liberal, and
+thus what they ingest is going to be that way.
+Senator Blackburn. I think it reflects the bias that is
+coming from what they're ingesting. My time has expired. Thank
+you, all.
+Senator Hawley. Thank you, Senator. Senator Hirono.
+Senator Hirono. Thank you very much. As we wrestle with
+what kind of regulation or parameters we should put on the
+training in AI, it just seems to make sense that the creators
+of the content should get some kind of compensation for the use
+of their material in training the AI platforms.
+This is for Mr. LeGeyt. Don't you already have a lot of
+expertise, experience in figuring out what would be an
+appropriate way to license for copyrighted material and the use
+of this kind of content, and how would that be applied in the
+case of AI?
+Mr. LeGeyt. Senator, thank you for the question. Over the
+last three decades, local television broadcasters have
+literally done thousands of deals with cable and satellite
+systems across the country for the distribution of their
+programming. The notion that the tech industry is saying that
+it is too complicated to license from such a diverse array of
+content owners just doesn't stand up.
+We negotiate with some of the largest cable systems in the
+country. We negotiate with small mom-and-pop cable systems. And
+the result of that is that instead of just doing national deals
+with our broadcast networks or news organizations in New York,
+and LA, every local community in the country is served by a
+locally focused broadcast station, and that station's
+programming is carried on the local cable and satellite system.
+So, we have a lot of experience here.
+Similarly, on the radio side, there are licensing
+organizations--Mr. Lynch referred to this in his testimony--
+that allow for collective licensing of songwriter rights,
+performing rights. All of this, our industry has been in the
+center of, both as a licensor and licensee, and has been
+tremendously beneficial.
+Senator Hirono. Do we need to enact legislation for this
+kind of licensing procedures to be put together and
+implemented?
+Mr. LeGeyt. I think it is premature. Some of the discussion
+around legislation thus far in the hearing has been about
+reaffirming the application of current law. If we have clarity
+that current law applies to Generative AI, then let's let the
+marketplace work. We have every reason to believe the
+marketplace will work, but I think it is incumbent on this
+Subcommittee to pay careful attention to these court decisions,
+and also the way that the tech industry is treating the current
+law in the interim. Because as we've said, if it's an arm race
+of who can spend the most on litigation, we know that the tech
+industry beats out everyone else.
+Senator Hirono. This is also for Ms. Coffey. So, do you
+think that--for both of you, do you think that current law, the
+application of current law should sort of be left and
+determined by what cases, lawsuits that have been filed? How do
+we clarify that current law applies in the AI situation?
+Ms. Coffey. We submitted a lot of recommendations for the
+record that have to do with transparency, that have to do with
+accountability, supporting legislation that's already pending,
+that have to do with competition going to previous references
+to the search and tying to AI.
+When, it comes to licensing, there is already healthy
+ecosystem, as my colleagues have said, and there's also already
+a market when it comes to newspapers, because we have archives
+that have existed over hundreds of years that we've spent a lot
+of money to digitize so that you can find the history.
+As far as the current existing market and the current law,
+I would encourage these licensing agreements and arrangements
+between AI developers and news publishers so that we can avoid
+protracted litigation that's not good for either industries.
+Senator Hirono. But for that to happen, do you agree that
+we don't need to enact legislation? We should wait to see how
+things turn out a little bit longer before we take steps that
+may end up with some unintended consequences?
+Ms. Coffey. There are things that Congress can do at this
+time, around copyright law, to ensure responsibility, but as
+far as what's pending in the courts at this time, we do believe
+we have the law behind us, and we have the protection in the
+current law.
+Mr. LeGeyt. These technologies should be licensing our
+content. If they're not, Congress should act. But under current
+law, they should be doing it.
+Senator Hirono. Thank you. Thank you, Mr. Chairman.
+Chair Blumenthal . Thank you, Senator Hirono. As
+you may have gathered, we're kind of playing tag here. We have
+a vote going on. We have another one after it. There's also a
+conference of Republican Senators that will be ongoing. I think
+it's at 3:30. So, in case Senator Hawley leaves, or I leave, or
+others leave, you'll know why. Senator Padilla.
+Senator Padilla. Thank you, Mr. Chair. Generative AI tools
+reduced the cost and time needed for content creation. I think
+we've all recognized that you've established that, and sadly,
+it includes the production of misinformation. Now, these models
+cannot be relied upon to provide 100 percent accurate
+information, obviously because it can generate, and often do
+generate false information. I believe all the panelists affirm
+both statements that I just made.
+We're trying to predict how then in such an environment,
+consumer behaviors will shift, and its impact on the future of
+the news industry. One prediction is that in a sea of unhelpful
+or false information, consumers will gravitate more directly
+toward trusted news sources, like the outlets represented by
+the witnesses today as opposed to away from them.
+Ms. Coffey, and Mr. LeGeyt, in both of your testimonies,
+you expressed concern that consumers who would actually lose
+faith, generally, in the validity of all information they come
+across, including from sources you represent. Can you expand
+upon why? And we'll start with Ms. Coffey.
+Ms. Coffey. Thank you, Senator. We've seen--there have been
+reports in the EU when they passed early laws around TDM, which
+is an early version of AI, where there was an impact assessment
+done, and it showed how the competing product does not allow
+for the return of revenue to the original content creator. So,
+you stay in these walled gardens, and revenue is not returned
+to those who use it. There was also another study done by the
+ACCC in Australia that demonstrates the same. And also, the
+House Majority report shows that that these walled gardens act
+as a competing marketplace for the same audience, the same--the
+same eyeballs as our original content.
+We find that 65 percent of users do not leave those walled
+gardens and click through, which is the only way, albeit taxed,
+we can monetize through advertising. AI will only make the
+situation gravely worse because when you have summaries and
+when you have--when there's nothing left you need from the
+original article, this will become an existential threat to our
+industry. There's just no business model for us in that, in
+that ecosystem.
+Mr. LeGeyt. Senator, we've focused a lot here on the need
+for fair compensation to support the local news model. But
+you're actually touching on a second and equally important
+point that underscores why our authorization should be needed
+before our content is used by these systems, which is the
+control we need to maintain over how our content is used,
+right?
+If, we don't have control over the way our content is used,
+our trusted news content in these technologies, it can be
+confused with non-verified facts. It can be shaped in
+misleading ways. There's not always transparency as to what
+other information's being ingested into the Generative AI
+technology. It's not always clear, the explainability element
+of this, of how the information's being used together. So, all
+of that raises major concerns as to how we maintain control of
+how audiences see our content.
+Then the second piece of this is the deepfakes. The trust
+in local broadcast only goes as far as the trust in our local
+personalities. Your communities value their local broadcasters
+because they know these news anchors. They see them in the
+grocery store, they see them at town hall events. One deepfake
+can undermine all of that trust.
+Senator Padilla. Thank you. And as a follow-up, Professor
+Jarvis, how do you predict consumer behaviors adapting to a GAI
+environment?
+Professor Jarvis. It's a good question--which is how
+professors buy time to find an answer. I don't know. I think
+that there'll be distrust of the output of these machines. We
+know that they are not reliable when it comes to fact. I
+covered the show cause hearing for the lawyer who famously used
+ChatGPT for citations. And the problem wasn't the technology,
+the problem was the lawyer didn't do his job.
+So in these cases, I think that brands and human beings,
+yes, absolutely will still matter. However, I also watch my own
+international students use these technologies to be able to
+code-switch their English for us professors and to use these
+tools to do things that are beneficial for them. So, I think
+that right now, we're in an early stage where it's a parlor
+trick. ``Oh, look, it can write a speech for you.'' That's
+funny and that's amusing, but it's not going to be terribly
+useful as long as these machines can't do facts, and they
+cannot. They can do other things.
+I think we'll find different applications that will make
+these things more useful for consumers. Now, it's a trick.
+Senator Padilla. Thank you very much. Thank you, Mr. Chair.
+Chair Blumenthal. Thank you, Senator Padilla. You know, I
+have very little sympathy for the lawyer who relied on AI to do
+that legal research as one who spent literally countless hours
+in law libraries with red books that were called ``Shepard's.''
+Senator Hawley may or may not have been through this
+experience, but the reason that I mentioned it is that the
+Chief Justice, in his annual report, noted that many lawyers
+who didn't use ``Shepard's'' and submitted briefs to the courts
+would sometimes say, ``The Lord is my Shepard's.''
+You can't rely on the Lord or AI to do Shepardizing of
+cases. The reliance here, and it goes to trust, is so important
+because whether it's a lawyer or a journalist or anyone the--
+the fallibility of these systems is ever present. I have some
+additional questions. We're going to have a second round. I'm
+going to call on Senator Hawley because he's going to have to
+leave and vote.
+Senator Hawley. Thank you, Mr. Chairman. Just one follow-up
+on fair use since we were going back and forth on fair use.
+You're talking about limited readings or broader readings, but
+correct me if I'm wrong, my understanding is that currently,
+the broadest reading possible is the one that these tech
+companies, AI companies, are adopting, which their view is that
+none of your content should be compensable in any way, right? I
+mean, Mr. Lynch, have your properties received any form of
+licensing compensation from GAI, from these Generative AI?
+Mr. Lynch. No, we have not. And that has been their
+position.
+Senator Hawley. Right.
+Mr. Lynch. Although they negotiate with us, their starting
+point is we don't want to pay for content that we know that we
+should be able to get for free.
+Senator Hawley. Right. Mr. LeGeyt, different for you?
+Mr. LeGeyt. I don't want to speak for every one of my
+members because----
+Senator Hawley. Sure.
+Mr. LeGeyt . I do think there are conversations
+taking place. It's also hard to paint with a broad brush here
+between the major tech companies and let alone the nascent
+entrants, but no doubt there are a substantial number of these
+companies taking that position.
+Senator Hawley. Yes. I'm just concerned that this is going
+to be--if they're reading, if the AI companies, which are
+really just the Big Tech companies, again, if they're reading a
+fair use prevails, is that fair use is going to be the
+exception that swallowed the rule. It's the mouse that ate the
+elephant.
+I mean, we're not going to have any copyright law left. I
+mean, it won't be a matter of, well, it's a little too broad.
+It won't exist. It just won't exist. That can't possibly be
+right. I mean, to see an entire body of law just destroyed. I
+mean, that can't possibly be right. Thank you, Mr. Chairman.
+Chair Blumenthal. Thanks. Thank you, Senator Hawley, for
+your input to this hearing. As Senator Hawley mentioned at the
+very start, we've held a number of hearings, not a single one
+of our participants, not a single witness has contended that
+AI, generative or otherwise, is covered by Section 230. And in
+fact, Sam Altman, at our very first hearing, acknowledged that
+it is not covered. Nonetheless, we have introduced No Section
+230 Immunity for AI Act, just to make it explicit and clear.
+There is a really, kind of, deeply offensive irony here,
+which is that all of you and your publications or your
+broadcast station can be sued. You can be sued for, in effect,
+falsity, and if it's with respect to a public figure like
+myself, maybe the standard's a little bit higher.
+I have a right to go to court. Not so when it comes to
+social media. So, that--the organizations that use your content
+to train or appropriated, in effect, misappropriated without
+crediting or paying for it, can't be sued. They can become
+breeding grounds for criminality, literally, and they claim
+total and complete immunity. There is a double whammy here.
+It's a double kind of danger and damage that's being done
+because of Section 230 and because of their continued
+insistence on protection under Section 230.
+Given that point, and I want to go back to Senator Hirono's
+question, some may argue, well, it's not necessary to change
+the law, so we shouldn't do anything. But I think we have an
+obligation, both as to Section 230 and as to the licensing
+provisions, to act, to clarify the current law, and make sure
+that people understand there has to be licensing. It's not only
+morally right, but it's legally required, and Section 230 does
+not apply. So let me just open that question to you, and
+perhaps go down the panel beginning with you, Ms. Coffey.
+Ms. Coffey. We can agree more the hypocrisy that there
+would be a contradiction. So, it's good to hear, then, they're
+saying that they're the creator of the content because they're
+saying that in courts over copyright right now. ``We're
+creating this new expressive content. We're not taking your
+work. It's ours.'' So, it would be contradictory to then be
+immune for hosting others' content if they're the ones creating
+it.
+Which is why it's different from original Section 230
+applications. It would lead to a healthier ecosystem here, too,
+like you say, because they would outsource their liability to
+those who already carry their liability, and they would
+license, like we're hoping that they will, they would serve
+attributions because they would want to attach a credible brand
+to what they're serving.
+Then it would be good for users because it would be a
+healthy ecosystem. It would be a win, win, win. We would be
+very supportive of that accountability and legislation, and
+also, I believe, lead to licensing that we're looking for as
+well.
+Chair Blumenthal. Professor Jarvis.
+Professor Jarvis. You may have found your first person who
+disagrees a bit, because I think the question, it's very, very
+subtle. I think the question is, who would be liable in these
+cases? If we go back to Gutenberg, at first, the person running
+the press was liable, the bookseller was liable, and, finally,
+the author became liable. In the case of that poor lawyer who
+used ChatGPT, was ChatGPT at fault? Was Microsoft at fault for
+presenting it in a way that may have seemed specifically to
+present fact? Or was the lawyer at fault for asking the
+question?
+I can go to the machine, and I can have it write a horrible
+poem, as the Senator said, about anyone that's bad. Is that my
+fault, or is that the machine's fault? I think that the
+question becomes-- you're going to find newspapers and TV
+stations that are going to be using Generative AI in all kinds
+of ways themselves. You're going to find their contributors are
+going to be using it. I think it's very difficult to try to pin
+liability.
+I went to a World Economic Forum event on AI governance,
+and the argument there was that we shouldn't pin liability at
+the model level, but at the application level because that's
+where people will interact with it, or I would also say at the
+user level. If I make it do something terrible, then I'm the
+one who should be liable. The printing press--Gutenberg's
+printing press did not cause the reformation, Luther did.
+Chair Blumenthal. But if Meta or Google or OpenAI takes The
+New Yorker logo, or the Hartford Courant's headline, and in
+effect creates some kind of false content, that is defamatory.
+Professor Jarvis. Well, in that case, they are the creator,
+and they are liable the same way that any publication would be
+if Meta created the content on their own, then Meta is indeed
+liable. Section 230, as you well know--and I love Section 230,
+I think it's great law. I think it protects the essence of the
+internet. Section 230 protects the public conversation that can
+occur because the platform where that conversation occurs is
+not liable for that conversation.
+In this case, in your example, if Meta created something,
+then they're liable. However, if someone used a tool, whether
+that is Adobe or whether that is ChatGPT, to create something
+and put it on Meta, I don't think Meta should be liable. The
+person who created it should be.
+Chair Blumenthal. But--and I don't want to get too deeply
+into the legalities here--but if Meta has reason to know that
+that content which is generated by AI could be fallible,
+doesn't it have an obligation to check?
+You know, again, the irony here is that I've been a source
+for stories in The New Yorker, and as I mentioned to Mr. Lynch,
+I'm always amazed that I get a call from someone at The New
+Yorker a week or so later, ``Here's the quote that you gave to
+our reporter. Is this correct?'' In other words, they're fact-
+checking before the story actually appears.
+Now then, one of the social media companies could take
+artificially generated trash attributed to The New Yorker, put
+it up. And as Mr. LeGeyt and Mr. Lynch have observed, the trust
+and credibility of the publication itself is undermined by
+artificial intelligence and then Meta using that content
+publicly.
+Professor Jarvis. It's a tool, it's a printing press. In
+that sense, it can be misused by anyone. If we think that we
+have to make the model liable for everything that could
+possibly happen with that model, then we're not going to have
+models.
+Chair Blumenthal. Well, the printing press never created
+anything. Ben Franklin ran a printing shop, and Ben Franklin
+would never have told us here that, ``Oh, it's not my fault.
+It's the printing press that did it.'' I think there is a
+fundamental difference between the printing press and
+artificial intelligence here, but let me give Mr. LeGeyt and
+Mr. Lynch a chance to comment.
+Mr. LeGeyt. On behalf of NAB and local stations around the
+country, I want to align myself and ourselves with every
+concern that you just raised. To the extent that there is any
+lack of clarity that our content needs to be licensed before it
+is used in any of these novel AI technologies, Congress would
+certainly be well served to clarify that.
+Our hope is that the courts will read the current law the
+same way that we do and not see a need for that. But let me
+also focus on a second piece of this, which is, I hear the tech
+companies talking about fair use, and it's this fourth factor
+that really sticks out to me, which is the potential harm to
+the market for the original work as a consideration.
+We have already seen, over the last decade, the tremendous
+harm that Big Tech has done to the market for local journalism.
+That's in an environment where we are well aware of how our
+content is being used by Google, Facebook, Microsoft, in their
+algorithms. We can at least see when our content is showing up
+in a search on a social network, and it's being accessed. Here,
+we won't even have that transparency to begin to quantify the
+harm.
+So, in a world in which we've already, as a broadcast
+industry, lost more than $2 billion in comercial value in this
+Big Tech ecosystem--the newspapers have quantified this at
+several times that--and we know that Generative AI technologies
+will exacerbate all of that harm, this, to me, doesn't pass the
+smell test. Certainly, if courts see it another way, we would
+urge Congress to act.
+Chair Blumenthal. Mr. Lynch.
+Mr. Lynch. Yes. I mean, as I stated earlier, we urge
+Congress really to take immediate action to clarify that the
+use of publisher content for both training and the output of
+Gen AI is not covered by fair use. It must be licensed and
+compensated.
+Chair Blumenthal. Thank you. You know, Mr. LeGeyt, you
+refer to the financial consequences. One of the other ironies
+here is that very often companies like Facebook talk as though
+they're doing you a favor by using your content. These
+companies have extraordinary power, as I think the public is
+just beginning to learn, one change to the algorithms, to
+deprioritize news or downrank your publications, and your
+threatened with financial disaster.
+In December, as a matter of fact, the Wall Street Journal,
+I think, published a report that found that Google's adoption
+of AI could lead to a 30 percent drop--30 percent decline, in
+traffic to news publishers. And it's using that same news
+content in their AI products, Google is, to compete with you.
+Does it strike you that that Wall Street Journal estimate is
+correct, and what would a 30 percent drop in traffic mean for
+news organizations, Ms. Coffey?
+Ms. Coffey. It would be devastating to our bottom lines.
+What would that look like? We would not be able to--well,
+before not hiring reporters, we would continue to hemorrhage.
+We would continue to lay off quality journalists who do this
+for a living, who are professionals.
+First of all, we're not in the business of trying to figure
+out how to get a click. We're in the business of creating
+quality news content. So, figuring out SEO, right, doing videos
+and being at the whim of these platforms, we need to find our
+true independence so that we can create the quality content
+we're intended to do. That's our purpose and our mission. If
+our content declines, our traffic declines, we will not be able
+to continue to do the work that we do for the American public.
+Chair Blumenthal. I am just going to close on this
+question. You know, rights need remedies. A right without a
+remedy is not worth the paper it's printed on. The remedies to
+be effective, need to be enforceable without years delay and
+millions of dollars in litigation costs.
+As, I mentioned at the very outset, The New York Times can
+afford to go to court, take it to the Supreme Court, establish
+precedent as it has done, and others like The Washington Post,
+and Conde Nast, your publications have done as well, and
+broadcast station. But a news organization like The Connecticut
+Mirror, which I know firsthand because it is groundbreaking,
+profoundly important investigative reporting that nobody else
+is doing, it could ill afford to go to court. It simply doesn't
+have the resources to do it.
+I think there is a question here about the need for
+Congress to act, simply make those rights real, to give them
+effective and enforceable remedies that don't require years
+delay or excessive costs. I respect Senator Hirono's point
+about unintended consequences. It's always a danger, but I'm
+very hopeful that Congress perhaps can act on this issue
+because it has an urgency even without an overarching
+comprehensive regulatory reform dealing with artificial
+intelligence.
+We certainly have an opportunity and obligation to deal
+with a lot of the general issues, which are urgent and
+important, but this one, it seems to me, we could tackle in a
+more discreet and targeted way. I'm open to any final comments
+that any of you may have. We're going to keep the record open
+for 2 weeks in case my colleagues have any additional
+questions. Any closing comments?
+Ms. Coffey. I would just thank you, Senator, Chairman, for
+holding this hearing on what is the Fourth Estate and critical
+to our country. As much as we're in a competitive race with
+these emerging technologies, which are very exciting, and we
+support them. There can be a balance, and it's not a zero-sum
+game. One does not have to exist at the expense of the other.
+That's the intention of all these laws, copyright law,
+especially, for there to be a balance so that you reward the
+content creation. There are existing laws that should be able
+to be enforced today that should be able to handle this
+partnership.
+I would just encourage those who are able to build those
+partnerships--there are good actors in this space--to undo what
+we've seen in previous years to be able to do the right thing,
+to be responsible, to license just like other companies did--
+Netflix, Spotify--this is a cost of doing business. Both
+industries can survive. It doesn't have to be at the expense of
+the other. Thank you very much for holding this hearing on this
+important topic.
+Professor Jarvis. Also, thank you for holding this hearing,
+and I'm honored to be here. I also hope that we keep in mind
+that where we're going to see innovation in news, we see it--I
+worked for Advance for 12 years, and they do very innovative
+things, there's a lot of members here that do innovative
+things. But let's also be honest that a great number of the
+chains and newspapers now are owned by hedge funds that do not
+invest and do not innovate, and the innovation is coming from
+the bottom up.
+In New Jersey, at the New Jersey News Commons at Montclair
+State University, there are more than 400 small journalists
+doing small things that couldn't possibly enter into these
+discussions about licensing, and fair use, and courts, but
+they're creating a new journalism. So, I would urge that
+Congress keep in mind how to encourage and nurture the
+innovation that's going to come bottom-up.
+Chair Blumenthal. Thank you.
+Mr. LeGeyt. Senator, I want to echo the thanks for your
+holding this hearing, your attention to this issue. I think
+over the next 5 years, this is the existential one, but I would
+also ask the Committee not to lose focus on the issue we are
+still trying to solve for on Big Tech and the harm that's been
+posed to this industry as a result of their market power. We
+don't need to implore you, but I want to say thank you for your
+support of the Journalism Competition Preservation Act in this
+Committee, as well as your co-sponsorship.
+Frankly, the most meaningful thing that Congress could do
+tomorrow to address some of these stresses on local newsrooms
+is to pass that piece of legislation, so at least we're dealing
+with the problem that's already behind us, the impact of these
+tech platforms, and then we can focus and have some solid
+footing to really grapple with all of the additional disruption
+that's going to be posed by Generative AI. Thank you.
+Mr. Lynch. Senator, I would also like to thank you and
+Ranking Member Hawley, and the other Members for focusing this
+hearing on this important issue. You know, we do believe that
+there's a solution here. I think it's actually quite simple,
+just clarifying that this is not fair use.
+Then the Big Tech companies have proven their ability to
+license content. They've done it in music, in creating their
+own music services. They've done it in television, in creating
+their own streaming TV services that compete with companies
+that I've started before. So, they've proven the ability and
+desire to license content when there is a framework that is
+clear that they have to. They need that clarity now. Thank you.
+Chair Blumenthal. Thank you. Well, again, my thanks to all
+of you. And Mr. LeGeyt, I want to assure you that we're not
+losing sight of the Journalism Competition and Preservation
+Act. It remains a priority. Professor Jarvis, I'm totally in
+accord on innovation, which has already changed newsrooms for
+the better. When I worked for The Washington Post, we used a
+manual typewriter, and we sent our stories down a tube to
+printing presses.
+Mr. Lynch. Was the Linotype still working then?
+Chair Blumenthal. The Linotype was still working. And one
+of the thrills of my life was to go to the basement of The
+Washington Post and see those big Linotype machines turning out
+the molten lead that went into the stories that then hit the
+presses in the old-time way of printing.
+My point would be that those hundreds of journalists who
+are working their hearts out right now that you referred to,
+they deserve compensation for the content they're creating.
+Even innovation, no matter how exciting and promising, doesn't
+justify taking people's work without crediting and compensating
+them for, as Ms. Coffey says, that we need a balance even in
+the innovation.
+The old adage, ``No free lunch.'' There is no free lunch
+here. The content doesn't appear by magic, and we need to
+protect both the innovation and the creativity, which I may
+sound old fashioned, which not even artificial intelligence can
+do as magically and beautifully as those folks who are working
+in broadcast or print journalism.
+My thanks to all of you for being here today. We're going
+to continue working on this topic, as we are the issue of
+monopolistic practice and predatory abuse, which the Journalism
+Competition and Preservation Act is designed to address.
+Again, my thanks to all of you. This hearing is adjourned.
+Thank you.
+
+
+A P P E N D I X
+Submitted by Chair Blumenthal:
+CJL Submission--AI-Journalism Hearing--January 2024.............. 74
+Public Knowledge--Journalism & AI--Letter to Senate Judiciary
+Committee..................................................... 83
+Submitted by Senator Blackburn:
+AI Poem Comparison............................................... 90
+

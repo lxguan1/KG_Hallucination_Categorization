@@ -1,1 +1,1348 @@
-   TOO CRITICAL TO FAIL: GETTING SOFTWARE RIGHT IN AN AGE OF RAPID INNOVATION __________ HEARING BEFORE THE SUBCOMMITTEE ON CYBER, INFORMATION TECHNOLOGIES, AND INNOVATION OF THE COMMITTEE ON ARMED SERVICES HOUSE OF REPRESENTATIVES ONE HUNDRED EIGHTEENTH CONGRESS SECOND SESSION __________ HEARING HELD MARCH 13, 2024  ______ U.S. GOVERNMENT PUBLISHING OFFICE 56-071 WASHINGTON : 2024 SUBCOMMITTEE ON CYBER, INFORMATION TECHNOLOGIES, AND INNOVATION MIKE GALLAGHER, Wisconsin, Chairman MATT GAETZ, Florida RO KHANNA, California LISA C. McCLAIN, Michigan SETH MOULTON, Massachusetts PAT FALLON, Texas WILLIAM R. KEATING, Massachusetts DALE W. STRONG, Alabama ANDY KIM, New Jersey MORGAN LUTTRELL, Texas ELISSA SLOTKIN, Michigan JENNIFER A. KIGGANS, Virginia JARED F. GOLDEN, Maine NICK LaLOTA, New York PATRICK RYAN, New York RICHARD McCORMICK, Georgia CHRISTOPHER R. DELUZIO, Pennsylvania Joshua Stiefel, Professional Staff Member Michael Hermann, Professional Staff Member Brooke Alred, Research Assistant C O N T E N T S ---------- Page STATEMENTS PRESENTED BY MEMBERS OF CONGRESS Khanna, Hon. Ro, a Representative from California, Ranking Member, Subcommittee on Cyber, Information Technologies, and Innovation..................................................... 2 Luttrell, Hon. Morgan, a Representative from Texas, Subcommittee on Cyber, Information Technologies, and Innovation............. 1 WITNESSES Lord, Hon. Ellen M., Former Under Secretary of Defense for Acquisition and Sustainment, Department of Defense............. 2 Murray, Richard M., Professor of Control and Dynamical Systems and Bioengineering, California Institute of Technology......... 3 Patt, Daniel, Senior Fellow, Hudson Institute.................... 6 APPENDIX Prepared Statements: Lord, Hon. Ellen M........................................... 23 Murray, Richard M............................................ 37 Patt, Daniel................................................. 47 Documents Submitted for the Record:  Witness Responses to Questions Asked During the Hearing:  Questions Submitted by Members Post Hearing: Mr. Fallon................................................... 66 Mr. Gaetz.................................................... 65 Mr. Gallagher................................................ 65 Mr. LaLota................................................... 67 Dr. McCormick................................................ 67 TOO CRITICAL TO FAIL: GETTING SOFTWARE RIGHT IN AN AGE OF RAPID INNOVATION ---------- House of Representatives, Committee on Armed Services, Subcommittee on Cyber, Information Technologies, and Innovation, Washington, DC, Wednesday, March 13, 2024. The subcommittee met, pursuant to call, at 9:00 a.m., in room 2212, Rayburn House Office Building, Hon. Morgan Luttrell (a Representative from Texas) presiding. OPENING STATEMENT OF HON. MORGAN LUTTRELL, A REPRESENTATIVE FROM TEXAS, SUBCOMMITTEE ON CYBER, INFORMATION TECHNOLOGIES, AND INNOVATION Mr. Luttrell. The subcommittee will come to order. I ask unanimous consent that the Chair be authorized to declare a recess at any time. Without objection, so ordered. Good morning, everyone. Thank you for attending. We are here today to discuss one of the most critical enablers within the U.S. arsenal, and that is software. Software that the warfighter uses is crucial to our ability to conduct operations in the air, the sea, on land, in space, and obviously in cyberspace. Similar to our expectations the aircraft carriers will be able to leave our pier and the F-18s can deliver a payload over its target. We expect that the systems and code that we rely on will work when needed. Despite this criticality, we see a Department that collectively struggles in procuring, operating, and prioritizing software. Congress  know when something is wrong and something is right or when something is working or not working. We see the reports, we read the studies repeatedly noting that the Department struggles with software findings that are remarkably consistent from the 1980s to today. We know that some things are fundamentally amiss. My hope today is for the witnesses to not only describe the problem but contextualize, where possible, what is being done to date and what the largest barriers have been for addressing these issues in a truly meaningful manner. I can't think of a better set of witnesses in front of us today to help with that task than the three that I am about to introduce. Ms. Ellen Lord, the former Under Secretary for Defense for Acquisitions and Sustainment; Dr. Richard Murray, professor of control and dynamic systems and bioengineering at Caltech  and co-chair of the 2019 Defense Innovation Board's Software Acquisition and Practices study. And Dr. Dan Pratt, senior fellow at the Hudson Institute. Thank you all for being with us today. I will now recognize the ranking member for his opening remarks. STATEMENT OF HON. RO KHANNA, A REPRESENTATIVE FROM CALIFORNIA, RANKING MEMBER, SUBCOMMITTEE ON CYBER, INFORMATION TECHNOLOGIES, AND INNOVATION Mr. Khanna. Thank you, Mr. Chair. And thank you to our three excellent witnesses, looking forward to hearing from you. The Department of Defense and U.S. Government has been critical in the development of software and technology in this country. As a Representative of Silicon Valley, I remember that it was our mission to the Moon that led to the acquisition of semiconductors, and that is what spawned Silicon Valley. Had we not had the U.S. Government buy semiconductors in the scale they did, you would never have seen the development of Silicon Valley and the technology. Now, a lot of the innovation is happening in my district and in the private sector. And we need to figure out how we continue and strengthen the collaboration between our Department of Defense and private sector, recognizing the dynamic nature of software, how quickly it changes, how much we need that innovation to keep us the strongest military and country in the world. So I am looking forward to your comments and your suggestions. Thank you, Mr. Chairman. Mr. Luttrell. Thank you, Mr. Khanna. We will now start with the witnesses. Ms. Lord, you are recognized for 5 minutes for your opening statement. STATEMENT OF HON. ELLEN M. LORD, FORMER UNDER SECRETARY OF DEFENSE FOR ACQUISITION AND SUSTAINMENT, DEPARTMENT OF DEFENSE Ms. Lord. Thank you very much, Congressman Luttrell, for chairing this hearing and thank you, Mr. Khanna, and members of the committee to allow me to come and talk with some of my former colleagues and now current colleagues. In an era of strategic competition among technologically advanced powers, software will shape the nature of deterrence and define national security advantage. The urgency to empower our defense and national security apparatus across all domains with both the best existing and emerging technology is critical to not only preserve our freedoms, but also those of our partners and allies. Our Nation has developed an operationalized technology solutions that have transformed our commercial sector, and in turn, our everyday lives. Now we must harness and apply this ingenuity and innovation to bolster U.S. military superiority in the digital age. Given current geopolitical conditions, the stakes could not be higher. Software development and implementation in support of our country's defense and intelligence infrastructure needs to meet the challenge of the moment. To fall short now would not just be a bureaucratic debacle but a source of imminent risk to our ability to deter, fight, and win. The ability to quickly develop and deliver capability to close the gap between information discovery and mission response is a defining differentiator in emerging global competition. Defense and intelligence agencies must develop, acquire, execute, and maintain software to meet current mission needs, while also having the agility to quickly respond to future threat environments. The statutory, regulatory, and budgetary framework for these agencies are ripe for streamlining, to build and maintain the Nation's software advantage. The Department of Defense procurement process is one of the greatest challenges and opportunities to software acquisition. Often, software's purchased using the same approach that is traditionally employed for major hardware systems purchases. Typically, this entails setting rigid requirements, conducting lengthy solicitation processes, and ultimately, years later, facing costly sustainment contracts to adapt software that is often obsolete upon delivery. Although alternative acquisition pathways exist, they are only as effective as an acquisition professional's ability to implement them. Funding professional training and development for acquisition professionals to ensure they have key skills for implementing the full spectrum of acquisition approaches will enable the best and most innovative software and technology to be quickly provided for our national security workforce. DOD  must operationalize policies and procedures to support the use of modern software development and delivery practices, such as agile software development lifecycle, software-as-a-service delivery, human centered design, DevSecOps , and modern technology stacks. Training the acquisition workforce is necessary but not sufficient to modernize software development and deployment. Resourcing must be available to provide flexible budgeting, rapid and continuous authority to operate, and leadership must demand that all relevant authorities, procedures, and processes are employed. My submitted testimony goes into more details on these items. I would like to close by acknowledging three efforts that are producing actionable recommendations that might be useful to this subcommittee. One is the Commission on Planning, Programming, Budgeting, and Execution, who just last week produced our final report. Chairman Rogers and Ranking Member Smith held a hearing in which we talked about recommendations that could be employed; many would help our software initiatives. Two, the Software  Defense Coalition that is led by Jane Lee is producing actionable recommendations for the subcommittee. And finally, the Atlantic Council Commission on Software- Defined Warfare, on which I serve, is again producing actionable recommendations. I urge the committee to follow up on these. Thank you.  Mr. Luttrell. Thank you, Ms. Lord. Dr. Murray, you are recognized for 5 minutes. STATEMENT OF RICHARD M. MURRAY, PROFESSOR OF CONTROL AND DYNAMICAL SYSTEMS AND BIOENGINEERING, CALIFORNIA INSTITUTE OF TECHNOLOGY Dr. Murray. Mr. Luttrell, Mr. Khanna, and distinguished members of the subcommittee, thank you for inviting me to speak with you this morning on the topic of software development in the Department of Defense. From 2016 to 2021 I was member of the Defense Innovation Board and I co-chaired along with Michael McQuade the DIB study on Software Acquisition and  which we call SWAP. This was established in the 2018 NDAA , and our report was titled ``Software is Never Done'' and it was released in May of 2019. One of the key findings of our report was that Congress and DOD had been talking about the importance of software and struggling with how to make better use of software in support of national security for decades. In many ways the DIB report of 2019 was just a rephrasing of the 1987 Defense Science Board task force on military software written 32 years earlier, which identified itself over 30 previous studies on that same topic. As we described in our report, ``Chapter 3: Been There, Said That,'' we know what we need to do, we just need to figure out how to actually do it and get to it. In our 2019 report we identified three themes that I believe are still the most important points to make about getting software right. The first is that speed and cycle time are the most important metrics for software. Being able to develop and deploy faster than our adversaries means that we can provide more advanced capabilities, respond to our adversaries moves, and be more responsive to end users. Faster reduces risk, leads to increased reliability, and gives us a tactical advantage on the battlefield by allowing operation and response inside our adversaries' OODA loop--observe, orient, decide, and act. Second, software is made by people and for people so digital talent matters. DOD resource policies are often not conducive to attracting, retaining, and promoting digital talent. Talented software developers and acquisition personnel with software experience are often put in jobs that did not allow them to make use of those talents, particularly in the military, where rotating job assignments may not recognize and reward the importance of software development experience. Today, in DOD and the industrial base that supports it, the people with the necessary skills exist. But instead of taking advantage of their skills, we often put them in environments where it is difficult for them to be effective. Third, software is different than hardware and not all software is the same. Over the years, Congress and DOD have established a sophisticated set of statutes, regulations, and instructions that govern the development, procurement, and sustainment of defense systems. But software development is fundamentally different than hardware development. And software should be developed, deployed, tested, and continuously improved using much different cycle time, support, infrastructure, and maintenance strategies. Software is never done, and must be managed as an enduring capability that is treated differently than hardware. In preparing for this meeting, I took the opportunity to read recent GAO  reports on the implementation of some of the recommendations from the SWAP study which we partnered with Ms. Lord on when she was in the DOD. I was pleased to see that Congress and DOD have made substantial progress in implementing many of our recommendations, including establishing new acquisition pathways for software and exploring new appropriation categories that allow software to be funded as a single budget item. These are important steps and they should be continued and accelerated if we are going to get software right. In addition to these important actions that focused on the acquisition process, DOD implemented many actions on other primary and secondary recommendations from our report. Some of the most important are developing guidance on authority to operate, ATOs, including ATO reciprocity and continuous ATOs which enable continuous integration and deployment pipelines. As of April 2023, it appears that guidance for continuous ATOs has not yet been published, and I would encourage the DOD to do so if it hasn't already. Another area of high importance is recruiting digital talent. DOD reports progress in establishing software factories that combine personnel from specialized teams, but it appears they have yet to establish a separate career track for software developers, something that we recommended. A well-defined career track for software developers, including service members, will allow DOD to train and retain the skilled workforce necessary to design, build, and test modern software systems. Finally, an area that is completely different today than it was 5 years ago when we did the SWAP study is the role of artificial intelligence in military systems. The implications of AI will be profound across all areas of society and the field is changing so rapidly that it is impossible to predict how AI is going to progress over anything more than the next few years. In the context of software development, AI is poised to revolutionize the way we write, test, and deploy code. Modern large language models, LLMs, are already writing code based on descriptions of the desired function, and are being used in industry to speed development. In the future they will be integral to testing, deployment, and protection of software as well. These developments will democratize software development in ways that have a potential to drastically reduce cycle time, both for the U.S. and for our adversaries. At the same time software that is used for military systems is too critical to fail, and so we must find ways to harness those tools that fit the increased levels of security and safety that are required in safety and mission critical systems. DOD must stay on top of these developments and take advantage of current U.S. leadership being developed in the commercial sector. Congress working with DOD plays an essential role in moving forward and breaking us out of the cycle of repeating for the last 32 years. Thank you for your attention. And I look forward to our discussion.  Mr. Luttrell. Thank you, Dr. Murray. Dr. Patt, you are recognized for 5 minutes, sir. STATEMENT OF DANIEL PATT, SENIOR FELLOW, HUDSON INSTITUTE Dr. Patt. Thank you for inviting me here to speak on such an important topic. I am here in an individual capacity, but I serve in diverse roles offering me perspectives on the cutting edge of national security technology and threats, the broad techno-economic shifts which are reshaping the global order, and the vibrant commercial tech ecosystem. As you all know, software is ubiquitous, its powerful implications for economic productivity, for government effectiveness, for cybersecurity, and the character of national security. And these technological changes are overlaid on the geopolitical context of our time, strategic competition between the United States and the People's Republic of China . And the crux of the problem for national security is this: In a sustained competition, in a long-term competition, advantage ultimately depends on the ability of one side to adapt, move by move, year by year, mitigating weaknesses and building advantage. The kinds of questions that we end up with in the military dimension of competition are things like are our weapon systems relevant against a relentless pace of new threats? Can commanders access data to control highly distributed forces? Can we invent new ways of fighting that put the PRC on the back foot and dissuade aggression? These are the issues that the Department of Defense must tackle if it wants to compete and now every one of these issues now depends on software. Even changing a military unit's tactics now depends on a software update, not just a whiteboard planning session. And we need look no further than the battlefields of Ukraine to find evidence that units which are able to change their software more quickly see better outcomes. So we face a choice. We can be victims of software, cursing its bugs and delays and overruns, or we can harness it for competitive advantage by leveraging American ingenuity, a robust talent base, and leading technology. That's our question, can we create a defense system built for evolution and adaptation, a defense system built to compete? My central message is this, and it will echo those of my fellow witnesses here: The process of getting code from a programmer to an operational system is critical. This is what is so different about software, we blur the lines between what is development, building something, and what is operations, using that same thing. So making this quick and robust is a necessary condition for competition. And there are a handful of forward-leaning trailblazers in the Department doing this well today, but they remain in the minority and they face daily struggles against organizations and processes built for another era. So I call your attention to two actionable items for oversight. First, enabling rapid software deployment and updates through the ATO process, as we have discussed, where again ATO refers to the process of how the Department decides that software is safe to deploy and use. The second item, talent, attracting qualified technical expertise to guide DOD's software development and procurement. On the first topic, I will introduce an analogy. In many ways making software resembles a potter molding wet clay and forming it into some finished piece. When an engineering team works with source code, it acts like wet clay, they can quickly adjust it, make fixes. But once the code is compiled, built, shipped, it becomes fixed and brittle. The executable code only works on one particular type of processor, as many fixed assumptions about those operating conditions. And what we find is modern software is so complex and has so many dependencies that you need to feed the results back to the engineering team, you need a cycle. And unfortunately our ATO process often makes this quite difficult. So this is addressed in greater detail in my written statements. On the second topic, technical talent, software is a complex and technical subject matter, details matter, the bits matter. So we hear these clickbait headlines sometimes, like one simple trick can solve DOD software like use Kubernetes or get to the cloud or one software factory to rule them all, or just hire Silicon Valley, or it's all about agile. Those are all great tools, those are useful things, but navigating that complexity requires judgment and organic technical talent on the part of the Department. The DOD needs a few top tier technical leaders driven by mission, it doesn't need armies of CAC  badge coders. And it can attract this talent, if given the right tools, using things like term appointments, and giving these people autonomy to make a mission impact. Thank you.  Mr. Luttrell. Thank you, Dr. Patt. We will move into questioning. I will open up. Authority to operate, you all three hit on that. It seems--I hate to say it seems almost as--you guys shouldn't leave, I am going to talk to you guys if you want to hang out. Yeah, totally cool. Sit back down. The authority to operate, I don't necessarily mean-- it seems like it is the improper medium for software innovation into the Department because software is updated every half second of every second of every minute of every hour of every day, correct. I mean, it just moves so fluidly. For the past 40 years, the authority to operate seems to be a bogging the system down. I am asking three subject matter experts, we will start with you Mr. Patt. Or Ms. Lord, we will start with you, ladies first. What is the fix? I don't want something hanging on the wall that we talked about. I don't want a report that we never read. What is the actual fix to fix this problem? This is the way that we--forward leaning in front of our adversaries and we seem to be bogging--the system is failing itself it sounds like. Ms. Lord. Ms. Lord. The challenge is the need for speed. And I believe there are two things that we need to do, is one, move to continuous ATOs. There has been a lot written and a lot discussed, but continuous ATOs are not yet implemented. And I would suggest that  posture hearings, this would be a very good thing to ask DOD leadership about. Secondly, we are repeatedly across even programs, military services, agencies, not allowing reciprocal rights for ATOs, so the same software is being reauthorized again and again. Those are the two key things that I think you should push on. Mr. Luttrell. So breaking down the silos between the multiple departments. Ms. Lord. Absolutely, and not looking at discrete, repetitive approvals. Right now, in fact, there is only a requirement to approve 12 systems a year, which given the fact that most of our systems run on hardware, software, and data, is frightening. Mr. Luttrell. Dr. Murray. Dr. Murray. Yeah, I would completely agree, I think when you think about continuous ATO in particular, right? What do we need to be able to do? We need to be able to say this software needs to be updated, it needs to be updated now, the longer we wait, the more risk we put our warfighters in by not giving them the code they need to do the job they need to do. So how do we get to the point where we are an industry, right, where if a zero day comes out, that is some attack on my cell phone, that is going to going to break into my cell phone, there will be an update in the next day or two, right? And that means they have already figured out how do we put an update out there that is not going to break all of those , it is going to satisfy all of our own security things. We need to do that within the DOD. We need to define what that is. I think you should be asking on every program what is the cycle time that is going into the software? How much of that cycle time is the ATO process, right? And if that ATO process, if that is more than sort of a day, there is a problem, right, because it needs to be a continuous ATO. It needs it be something where we automatically check, does this satisfy the security requirements? This is important code, we have got to be careful about it. But we need to be able to get out there quickly, or we're putting our warfighters at risk. Mr. Luttrell. Mr. Patt. Dr. Patt. I agree very much with those comments. It is useful to talk about--the ATO is about the risk of using the software, about deploying the software, and this gets aligned with mission risk. And sometimes I feel this point gets lost. If it's buying body armor you can really separate these decisions of did I buy the body armor and does it meet the spec, and, you know, is it safe to use this on a mission, does this help support the mission. With software though, again, these lines get blurred. I will say that one of the places where you see progress in the Department is where they try to put these risks together, so if you look at, in the Navy, PEO IWS , or PMW  150. There are program offices and program managers which both own the risk of use of the software on the operational network, and the development of the software. And you move those things together, you tend to get these more mission-focused outcomes. These are the organizations which have been successfully able to use continuous ATOs. And I would expect that, you know, that same characteristic to carry us forward. You know, as Dr. Murray said, you know, we often focus on ATOs like this old-fashioned boxed software model, and we forget the risk of not updating the software, of not deploying new features which will make us more successful in our mission. And we have become too focused on compliance, checking the boxes of, you know, did we meet the boxes that we said we would when we shipped that software, and we forget the underlying problems of we are trying to conduct a mission here. And the most important thing is the cycle time that we keep coming back to, so you can keep updating, adding features and mitigating problems. Ms. Lord. If I may have one quick followup on that. Mr. Luttrell. Yes, ma'am. Ms. Lord. I think we need to differentiate in the Department between risk management and risk elimination. We are never going to eliminate all risk and these tradeoffs are what take human judgment calls and what Dr. Patt is talking about. Also he called out PEO IWS. I think it is very important for Congress to recognize those individuals in the Department who are leaning forward and demonstrating, embracing authorities, policies, procedures. And I would say Admiral Seiko Okano, who was, I think, she is just moving along PEO IWS, has done that admirably. Thank you. Mr. Luttrell. Thank you, Ms. Lord. For all the young men and women sitting behind the witnesses, they are talking to you. You are the next generation that will keep this country ahead of nefarious actors across the globe. So I highly recommend you play this tape back because we are counting on you. Do you understand? Outstanding. Mr. Khanna, you are recognized for 5 minutes. Mr. Khanna.  In my district when you have a software challenge at Apple or Google, they don't just go out and buy new software. In fact, that is the last thing they do. They have a mission and they figure things out. I have heard from people who sold to the DOD or worked at the DOD that they just buy new software to check off the box that they have complied, but this isn't actually innovating in the way that the private sector does. Could you comment on how we change that culture, other than getting Tim Cook to run these things? Ms. Lord. I think it comes down to investing in the human capital at DOD. If individuals are not trained to be smart buyers, and we cannot attract contemporary coders and so forth, we will not change that culture. Right now we have a huge issue and this is mentioned in our PPBE  final report with modernizing a lot of our business systems. We are pretty good at talking about innovating from a warfighting technology point of view. We typically do not talk about innovating business systems. We need to digitize those systems. And we have to attract individuals who want to work on contemporary COTS  systems. Right now we have a hard time attracting a lot of software specialists in the Department because we are working on 10-, 20-, 30-year-old software. And frankly, there is not the knowledge of the art of a possible as to what could be done. So I suggest working with DAU , training the acquisition professionals on what a digital environment really is. Thank you. Dr. Murray. I would say that, you know, I completely agree with you. We can't sort of say, hey, this software is not doing what it is supposed to do so let us go specify and put a bunch of requirements into finding a new piece of software that is going to do that and go buy that somehow, and 5 years later this thing comes along. I think what you see in Silicon Valley and other places is that we say we need a platform, and that platform is an enduring capability. We are going to be doing search forever. We are going to be delivering apps to cell phones forever. And so, we are going to be tracking satellites and tracking debris in space forever. There is an enduring capability there. And there is software that is going to do that. And we need to think about that platform as something that is going to get updated, new features are going to be added and other things. And we are not going to say, let's, you know, sort of write down the requirements for that, buy it, and then it's done and it's going to sit there for 10, 20 years. It needs to be something we say every year, we are going to invest a certain amount of money in that software and a development team that is going to do that. And we need to create a system in which we sort of think of software as an enduring capability. And get into that that mind-set. It is absolutely possible. We have seen it in the commercial sector. It is part of the reason that the U.S. commercial sector is so far ahead is that we are just able to jump on all of those things. And so, we have to do that within the DOD. I think there are spots that are doing that. We need to again, as Ms. Lord said, we need to amplify those, we need to recognize those, we need to do that more. One other thing I'll say is, you know, I think that we see some of that starting in the software acquisition pathway, but it's for things that are pure software, so much software is sitting on top of hardware and the hardware mind-set dominates the software that is part of that hardware. We have got to break out of that. That software also needs to be updated. If you are looking at an F-22 there is software in that. Some of that software should stay there for a decade or more. But much of that software is things that should really be updated on a regular basis. Mr. Khanna. I had one more question, so I will give you the chance to answer it. If there is a company and they are awarded a second phase SBIR  grant, a lot of the startups do, then they often are waiting for a year, year and a half to get the SBIR III. And this is the valley of death in Silicon Valley for a lot of startups. Is there a way that you could authorize the contracting officer to a least give a letter of intent to possibly give--that they are going to get the grant because so many of these startups don't make it at the SBIR III phase. Dr. Patt. Yeah, so this question on acquisition policy is there are a variety of tools that the government can use. However, there are also limits. For example, a frequent limit that comes up with SBIR III awards is an anti-deficiency thing, often you have to wait for funding to become available from a future year so that the government can't just indicate advanced notice of award. Some of the things that the PPBE Commission has done in its report, its recommendations, could create additional flexibilities which could be delegated down to program managers and contract officers, which could allow flexibility, allow in the same year flexing of priorities of being able to maybe move some money that isn't being put to good purpose to advancing, say, an SBIR Phase III award. Ms. Lord. Following up on that a little bit, I think it is important to note that right now the National Academies is running a study on recertification of the SBIR/STTR  process for just this very reason. And as Dan mentioned, we in this PPBE report talked about how if we didn't have so many discreet budget line elements, but had more capability elements, we could allow the PEOs and PMs  to have more agility, especially in the year of execution, to move money towards emerging technologies and these smaller companies. Right now, unfortunately, in my opinion, the SBIR/STTR process is an afterthought for most PEOs and PMs. There is not a lot of education on it, and it is a little bit trickier to use. So again, educating the workforce is critical. Mr. Luttrell. Thank you, Mr. Khanna. Mr. Gaetz, you are recognized for 5 minutes. Mr. Gaetz. March 7 of this year, AviationTimes.com reported that the TR-3  software delay could force the DOD to combat-code F-35s. I don't know what it means to combat-code something, sounds dangerous. So maybe, Ms. Lord, we could draw on your experience and you could explain what combat-coding is and whether that is a good idea? Ms. Lord. I am not sure I totally know the definition of combat-coding, but it sounds like coding on the go. I will say the F-35 is the perfect example of a program that looked to our major primes who are absolutely critical for our national security, but frankly to a large degree has excluded the small companies where the predominance of innovation in this country takes place. And that is where the coding capability is. And I think having lived through the TR-3 drama, if you will, we need to decompose this and make sure when we are awarding these large contracts that we are reaching out to the companies who know how to do this coding, and again, manage risk, don't eliminate risk, and find a way to bring them in. Mr. Gaetz. So here is our challenge that we have with a lot of these companies. They are dying to get the contract, they do all sorts of things to get these big old contracts, to get these, you know, $180 million-a-copy F-35s. And then they want to protect their source code, and not allow other innovators to be able to be able to access it to kind of springboard and innovate off of it. Dr. Murray, is the F-35 one of these kind of hardware dominated paradigm systems where the upgrades that are needed for the warfighter are now being executed through this combat- coding system. Dr. Murray. I don't know whether or not the combat-coding system is being used there, but, you know, it is certainly the case that it is a large hardware program that has used, from what I can tell, a very traditional DOD process to decide---- Mr. Gaetz. And you mean that as a critique? Dr. Murray. Yes, as a critique. I agree. And the software components of that again, some software components, the embedded flight control code is not something you should be changing every day. Other parts that are doing the logistics change and other things are things that we want to be agile about and we want to take advantage of. And so, how do we, in those programs, say, not that we should break the rules because now there is a crisis and so we are going to do it differently, but rather, we have a well-defined way of putting software in there, checking, doing continuous ATOs. Part of our process is we know what is the frequency at which we are going to update the different pieces of software. I think when you look at---- Mr. Gaetz. And what they love to say to us is, oh, you need to update it frequently, and we need to be sole source. And of course, we can't share our source code with anyone else so that they might be able to participate in that update. So how do I break through that? Dr. Murray. I think it is great question, you know, and I will let Dan say a little bit about it, you know. I do think that you have to think about where the pieces of software are going to come from, and they don't all have to come necessarily from one manufacturer. Mr. Gaetz. Oh, we will have to wake Lockheed Martin up with smelling salts, that not every update to the F-35 has to come through Lockheed Martin. Dr. Patt. So first, let me just add some operational context to this. Sometimes I think that in peacetime it is hard to understand how important delivering software updates is. But if you just look at the conflict playing out in the Ukraine, one of the things is you see Ukrainian radios only last about 3 weeks before some countermeasure comes along and they have to reprogram the radio or change a wave form. We see the Excalibur munition, its targeting system dropped from 70 percent effectiveness to 6 percent effectiveness over a matter of a few months as new EW  mechanisms came out. If we expect our major weapon system programs to follow these waterfall processes where we spend years planning a tech refresh, how do you ever hope to adapt in competition? Mr. Gaetz. But that is what we are doing now. Dr. Patt. That's right. This is the problem. Mr. Gaetz. Help us liberate ourselves from this. Dr. Patt. So, much of it is going to go back to--there is two principles, and Congressman, you introduced--so one, we've talked a little bit about ATOs already, that is one. The other principle you just brought up is this notion of vendor lock. One, I want to point out that an ATO is another mechanism by which one can achieve vendor lock, we are beginning to see this already. Some companies get a continuous ATO, and then they seek to use that to lock themselves in because it is so expensive. Companies can spend $1 million just getting through an ATO process. But there are a set of principles, and these are known as the MOSA  principles and actually, Congress put this in place, and Ms. Lord oversaw a number of efforts. But these are poorly used. What MOSA principles do is they say, the program manager, who is in charge of the acquisition, shall define modules and interfaces and make those interfaces available to qualified contractors to the government. And what this does is this allows other companies to come along, they see the data, they see the interface, and they can make new software that works with that. If the government has the right infrastructure, it can figure out how to test this and make sure that it works effectively in context. So the principles exist; in fact, put in law. They are just poorly adopted. Mr. Gaetz. Well, yeah, that is because people are protecting their turf. I greatly appreciate that. I have got further questions for you, Dr. Murray, about AI and hypersonics, but I see my time has expired and so I will be submitting those for the record. Thank you, Mr. Chairman, I yield back. Mr. Luttrell. Ms. Slotkin, you are recognized for 5 minutes. Ms. Slotkin. Thank you. Thanks for being here. You know, I was at the Pentagon for 7 years and in the 5-ish years that I have been here we have done a ton of hearings that kind of looked at this issue from one way or another, just our cultural problem of speeding up decisionmaking, particularly as it relates to tech. And to the point where I feel like, to use a Pentagon term, we are admiring the problem, like, we're just-- we just love a hearing about it. And actually there is deep bipartisan agreement on the need to spin up and to speed up that string on going from concept to fielding of the technology of any kind, obviously software being some of the most complicated. And it has led me to believe, even as someone who, you know, cares deeply about the Pentagon and our national security, that it's not, you know, any one program or any one authority, it is truly culture, culture across administrations, culture across leaders. And I am not, like, a burn-it-down kind of person, you know, saying like, okay, the system doesn't work so we need to destroy it and start from zero. But if separating yourself from the tech, if you could make--and some of you have served inside the Pentagon--if you could be queen or king for the day, on one cultural change, what would that be? And I would say, you know, aware of the fact that the Pentagon has a lot of rules and restrictions when they use taxpayer dollars that Google and Silicon Valley and everyone else doesn't have to adhere to. And the responsibility of stewarding those dollars is different than a small startup in Palo Alto, it is never going to be the same thing. Comparing the two is apples to oranges. But speaking from culture as people who have been either in the inside or adjacent, what is the one thing you would change, starting with Ms. Lord. Ms. Lord. I would ask leadership to demonstrate that smart risk management benefits the warfighter and the Nation. Therefore, I believe there are many more motivations and rewards that can be given to those individuals, whether civilians or in uniform, who lean forward and take smart risks. They manage risk, they don't try to eliminate it, and they move at the speed of need here. And I believe that leadership needs to speak up and make rewards and highlight those individuals who are doing the right thing and recognize that people will falter and not to blame them, if you will, when everybody is looking for perfect being the enemy of good enough. Ms. Slotkin. Yeah. I certainly know, in Silicon Valley, when I have the chance to visit, it is like people wear their mistakes as a badge of honor. I started a company, it didn't succeed, but I learned these important lessons, and now I am on my third company and look at all this amazing stuff. It was so strange as a Pentagon official to visit Silicon Valley and hear people talking about their failures because at the Pentagon, you would never talk about your failures, right? Ms. Lord. Well, and with all due respect, I think Congress has a piece of this. Ms. Slotkin. For sure, for sure. Sir, we will just go down the line here, Mr. Murray. Dr. Murray. Yeah, so I think it is a great question and I think you are right, changing that culture is going to be hard and how do we do it. I think there are lots of things we could do. If I could sort of be king for a day, I think one of the things I would do is change the way we think about the teams of people that are working on software. If you look at what happens in Silicon Valley or other places, you see a lot of this turnover, right. People are not there for 10, 20, 30 years doing this, right. They come in for 2 years, they do this part, they go out, they start another company, they go to another place. How do we take advantage of the commercial sector, bring them into government for a short period of time. Put them in a position that is skipping a couple of GS levels and other things because they are super talented, they know what to do, we get them in there. I think they will help change that culture because they will ask why. Why are we doing it this way? Why don't we do it this way? I know how to do it that way. So I think that is what I would do, right. We have to change the culture. We are not going to change the culture by just taking the people who are there and saying change. I think we do that by bringing people in who look different and think about things differently, right, and that is one way to do it. Ms. Slotkin. Very quickly in my remaining time, Dr. Patt. Dr. Patt. Yeah, I think fostering a culture of doers is really the key here, which is encouraging the accountability down to an individual program manager for the outcomes they achieve. When you run a decades-long development, and you only serve in a position for a few years, it is very hard to have a sense of accountability or responsibility or pride in the outcomes that get delivered. But the great thing about software is you can compress these delivery timelines and suddenly, you can start to celebrate this. And, you know, combined with the suggestion that Dr. Murray just made of bringing in people for short tours of duty from commercial industry, I think you can get a vibrancy and dynamism in the perspective and talent to drive to results. Ms. Slotkin. Thanks very much. My time--I yield back. Mr. Luttrell. Thank you, Ms. Slotkin. Mr. McCormick, you are recognized for 5 minutes, sir. Dr. McCormick. Thank you, Mr. Chair. And thank you to the witnesses for being here today. I am going to start--it is fascinating, I love the variety of questions. It has kind of been all over the map and you guys have been such great subject matter experts. I am going to go a little off the chart of things that I was supposed to ask today because I am fascinated by this topic, and we have a couple doctors in technological fields. I am a doctor in medicine. And it is interesting to watch how AI has been developed and how it has taken these columns, very similar to the way the brain is-- this is kind of fascinating for the kids out there and how AI is developed. And different parts of your brain affect different parts of your body. Specifically, it is designed for this part of the brain for your arm, this part for your leg, this part for your eyesight, this part for your hearing. This is your decisionmaking, this is your personality. And we have done the same thing in AI since we can no longer rely on Moore's law to shrink the size of these chips. And there is one atomic structure of thinness per layer, which is fascinating to me, that we can actually design software to go in this hardware and fit into these capacities to do specific functions just like we do in our brain. It is fascinating that after all this technology and all this science, we are getting back to the way that God designed the brain. It is fascinating to me. My question is, and this is for my two technology experts is, as we do this, and we are designing software into--to match the hardware, and we are going forward, and AI accelerates that process, how does that affect cybersecurity and our enemies' ability to combat us and how do we unleash that potential as we design the software going forward? Dr. Murray. I will give it a start. So as I said earlier I think it is hard for us to predict the impact that AI is going to have. It is clear it is going to be huge and we have figure out how to take advantage of that. Our adversaries are going to take advantage of that. And so, if we are not on the front end of that, we are in trouble. I think one of the things we have to do is start saying, we need to be using AI to design software. We need to be using AI to test software. We need to be using AI to try and attack software internal to what we are doing, right? Where is that happening now, right? What are the AI programs that are saying, hey, we write code with AI, we test code with AI, and other things. Why? Because if we are not smart at that, we are not going to be able to take advantage as that technology goes so quickly. It is fascinating, I think, because AI is one of those areas, I heard a talk by John Hennessy, former president of Stanford. And he said, AI is one of those areas where the developers of the technology were legitimately surprised by what it could do. They didn't know that it would be able to code. They didn't know it would be able to do these things. It is amazing, right, to have that, you know, John Hennessy has been involved in a lot of things but it did what they designed it to do. AI is something that truly is moving faster than we thought it would move. I think it is going to be huge. I think the DOD needs to take advantage of that. I think we ought to be asking where are the AI efforts that are happening in use of large language models for coding and other things. Dr. McCormick. Dr. Patt, before you get started, one of the things I also want you to consider as a university kind of guy, too. Georgia Tech has three different columns of AI development. But we all said 250,000 students from India just alone here in the United States studying. We have got a ton of kids from China studying. And we have all of our AI production over in Taiwan at TSMC , right? So we have production overseas, we have our technologies going back overseas, that is another consideration I want to--you know, how do we protect this stuff from being used against us when we are training those people and producing the chips overseas in a nation that we said we are going to take over. I am just concerned about the security measures of that. Dr. Patt. Yes, this is an important question. The complexity of our software and our hardware and the codesign is absolutely exploding. I will say, though, that you can use this complexity as a tool. For example, one of the things you can do is you can create a chip, you can produce the hardware, and then you can set features of it later. You can defer some of that, and you can build in forms of defense. But at the same time, you know, I don't think it is possible to prevent all vulnerabilities beforehand. This is one of the reasons why being able to go back and drive updates, detect anomalies, detect problems, and drive updates is so important. And we begin to see this now, for example, in some of the Navy operational networks of automated anomaly detection, and then they are able to go push a patch before any users see a problem. So tools like this, of figuring out how to use this exploding complexity that we see to the advantage of the U.S. is how we stay ahead. Dr. McCormick. Thank you. Ms. Lord, I am going to just kind of push that question back on you. Again, we always talk about securing our software as we develop. We are the leaders in technology as far as developing software, but we don't create our own hardware when it comes to AI. How do we protect our technologies from the bad guys. Ms. Lord. I think what we have to do is look at this from both a defensive and offensive point of view. And it is absolutely critical that we have standards that are held to when we look at the system level, that we also understand the provenance of all hardware and software that we include. Right now, we don't always understand the beneficial ownership of some of the companies in our supply chain. And frankly, AI has done an incredible job in illuminating supply chains just scraping publicly available information to really understand where items began. So the Department of Defense has begun to put some contracts in place to use that technology. And cybersecurity standards are already, to some degree, in the acquisition policies, but that needs to be followed up on. Dr. McCormick. Thanks. I yield. Thank you. Mr. Luttrell. Thank you, Mr. McCormick. Mr. Ryan, sir, you are recognized for 5 minutes. Mr. Ryan. Thank you, Mr. Chair. Thank you all for being here and really appreciate your input and also your service in many various hats to the country. Despite my desire to ask about TikTok, I am not going to do that this morning. I am sure many in our audience would be curious, myself included. I want to follow up on my colleague Ms. Slotkin's sort of line of questioning and something specifically you said, Ms. Lord. You started to say, Congress has a role in this discussion about culture and risk--changing the risk sort of appetite, if you will, and tolerance. Could you talk a little bit more about that, any specific ideas you have and we will turn it to others, too. Ms. Lord. Absolutely. I think often it is easy to look at what has gone wrong in DOD and pound on that a little bit, if you will. But I think, perhaps, if thoughtful questions about what did you learn from this? How did it happen? How do we do things differently in the future? That line of discussion would be very useful. Also, I think asking questions about what is holding you back from taking more risk. And I think that there is an incredible fear of failure. And if you could engage senior leadership in the building relative to discussions about that and ask them how you motivate and reward them to act more like the commercial sector where we do things quickly, we pull the patches, you know, in a day or so. I think that would be really, really useful. Mr. Ryan. Just in setting up others to answer, too, and somewhat leading, but is there--not to overly formalize it, but do you think it could ever make sense for there to be some more public, or more broad assessment of which programs, which leaders, which individuals are accepting risk, sort of holding them up in a somewhat more formal way. Ms. Lord. Absolutely. For years, when I was in the building we talked about holding hearings to showcase these types of individuals. And I believe the reality is that scheduling does not allow you to do that type of thing. There are things like TikTok that you need to work about--to talk about and work on. But there is so much you can do just with recognition with letters, with talking to the media, showing--inviting people up to your office for an hour or so. It just doesn't cost much, would go a long way, and it would cast a very long shadow. Mr. Ryan. Thank you. Dr. Murray. So, you know, I think Congress does play a role in shaping the culture of the DOD. And it is the way you ask the questions, I think in part, right? If you do something where you say, here are all the requirements, why didn't you meet these requirements, why is it over budget, et cetera, you are forcing us into a system in which we are looking at the requirements and checking all the boxes, and that may not be the right answer. If you look at speed and cycle time as your main metrics, and for software programs that is what it is, how quickly can you get something out into the field. That is fantastic. Can we get a leader board going, to your point, right, where we sort of say, this program they have got their sort of time down to 1 week or 2 weeks, you know, why is it that they are doing better? Maybe we get people in a friendly competition, right, for saying we have got the best speed and cycle time, right. Can we make those things public? Can we say, here's how quickly these different software-dominated programs can get things out into the field and working. Mr. Ryan. Thank you. Love the leader board. Dr. Patt. One of the most remarkable technological achievements is just how safe civil air travel is. It is remarkable how few fatalities come out of this. And the reason that it became so safe and so successful is there was a strong culture around a blame-free debrief, which is if you step forward and you talk about the problem, then it is about learning, it is not about failure. This is the same principle that we need to apply here as we figure out collectively how to do software right. Just to call out two specific examples. Many of you have heard of this Air Force project called Kessel Run which is about software delivery. Many of you have also heard about the Air Force's ABMS, the Advanced Battle Management System, that is run by PEO C3BM  in the Air Force, General Cropsey. Both of those efforts are efforts which did deep hard introspection about their early efforts, and they said, you know what? We need to pivot. The early choices that we made around architecture and how to approach this or how we think about managing this effort aren't right and we need to pivot. Those are the kinds of people, the kind of decisions, and that sort of blame-free culture, that focus on learning that you need to make this work. Mr. Ryan. I appreciate that. And I think just with the 20 seconds I have left, I think recognizing that that has to start from the very, very top, and has to be a principle of all the senior, senior leadership is just something that I think we can hopefully all agree. So thank you, Mr. Chair. I yield back the balance. Mr. Luttrell. Thank you, Mr. Ryan. Mr. Khanna, closing statement? Mr. Khanna. I just want to thank the excellent witnesses and your very concrete recommendations. And appreciate your time. Thank you, Mr. Chairman. Mr. Luttrell. Thank you again as well, coming in--shedding light and amplifying information of--again, we have talked about it. We learn more from our failures than we ever will our successes. To your point, sir, in the military, we often never spoke about how well the operation went. We always talked about how horrible the small things, or in order to capitalize that on the next op. I have been sitting back here trying to--I think I have it, but I am not going to say it out loud. I think I know why the reason why we are so risk averse in the House of Representatives. And I will just keep that to myself since I am on TV right now. But my colleagues and I will definitely discuss that behind closed doors. But again, thank you. So, members will have 5 business days to submit their questions for the record. This committee is now adjourned.  ======================================================================= A P P E N D I X March 13, 2024 ======================================================================= ======================================================================= PREPARED STATEMENTS SUBMITTED FOR THE RECORD March 13, 2024 =======================================================================  ======================================================================= QUESTIONS SUBMITTED BY MEMBERS POST HEARING March 13, 2024 ======================================================================= QUESTIONS SUBMITTED BY MR. GALLAGHER Mr. Gallagher. Ms. Lord, you are very familiar with the ``authority to operate'' or ATO process from your time as Under Secretary. As you know, the process is extremely slow and inefficient. However, software evolves at the speed of war; in Ukraine for instance, their software- defined platforms can be updated in hours or days, while updates through our ATO process takes several months, at best. As a result, the ATO process makes it impossible for our forces to field the best software at the speed of war. How do you suggest we fix this process to ensure our service members can leverage the best software on the battlefield? Ms. Lord. I recommend continue working with the OSD CIO, John Sherman, as well as each of the Military Service CIO's to prioritize scaling the current continuous ATO projects to encompass an increasing percentage of software programs on an annual basis with a three year goal to move to 100% continuous ATO implication. (I have personally spoken with John Sherman about the need to accelerate this process.) As the technology exists, there appears to be more of a cultural and leadership challenge to cATO implementation. Requiring six month updates from the OSD CIO would provide visibility to Congress, as well as industry, to the progress. ______ QUESTIONS SUBMITTED BY MR. GAETZ Mr. Gaetz. On February 19, 2024, Interestingengineering.com reported that EpiSci was chosen for U.S. AI hypersonic missile tracking system software: EpiSci has won a $1.6 million contract with the U.S. Space Development Agency to flesh out its AI-powered, hypersonic missile tracking system. The U.S. Space Development Agency (SDA) has officially chosen California-based EpiSci to develop its planned cutting-edge software to detect hypersonic missiles in flight. This initiative marks a significant advancement in missile defense capabilities, leveraging the power of artificial intelligence (AI) to analyze extensive data from low Earth orbit (LEO) satellites. A key factor of developing hypersonic defense is knowing when and where they might be deployed. Are you familiar with the Hypersonic detection program and the development of AI based software to detect the deployment of weapons? What roadblocks has the DOD faced when developing software to deploy and detect hypersonic weapons? Are there software related complications preventing our hypersonic weapons from hitting a moving target? How far away are we, not a specific date, FY25 or 29? I'm just trying to get a sense of how much more it'll take from Congress to get our capabilities on par with our adversaries. https://interestingengineering.com/military/episci-us-ai- hypersonic-missile-tracking Ms. Lord. I am generally aware of the challenge of tracking hypersonic missiles, but have not worked on this issue for three years. The challenge is not only the software, but establishing a network of space-based sensors to provide sufficient fidelity to cover incoming missiles and then providing the electronics to transmit the target data in real-time. The real-time integration of sensors, communication electronics and software is a complex task. Mr. Gaetz. On February 19, 2024, Interestingengineering.com reported that EpiSci was chosen for U.S. AI hypersonic missile tracking system software: EpiSci has won a $1.6 million contract with the U.S. Space Development Agency to flesh out its AI-powered, hypersonic missile tracking system. The U.S. Space Development Agency (SDA) has officially chosen California-based EpiSci to develop its planned cutting-edge software to detect hypersonic missiles in flight. This initiative marks a significant advancement in missile defense capabilities, leveraging the power of artificial intelligence (AI) to analyze extensive data from low Earth orbit (LEO) satellites. A key factor of developing hypersonic defense is knowing when and where they might be deployed. Are you familiar with the Hypersonic detection program and the development of AI based software to detect the deployment of weapons? What roadblocks has the DOD faced when developing software to deploy and detect hypersonic weapons? Are there software related complications preventing our hypersonic weapons from hitting a moving target? How far away are we, not a specific date, FY25 or 29? I'm just trying to get a sense of how much more it'll take from congress to get our capabilities on par with our adversaries. https://interestingengineering.com/military/episci-us-ai- hypersonic-missile-tracking Dr. Murray. Unfortunately, I am not familiar with the Hypersonic Detection Program. Mr. Gaetz. On February 19, 2024, Interestingengineering.com reported that EpiSci was chosen for U.S. AI hypersonic missile tracking system software: EpiSci has won a $1.6 million contract with the U.S. Space Development Agency to flesh out its AI-powered, hypersonic missile tracking system. The U.S. Space Development Agency (SDA) has officially chosen California-based EpiSci to develop its planned cutting-edge software to detect hypersonic missiles in flight. This initiative marks a significant advancement in missile defense capabilities, leveraging the power of artificial intelligence (AI) to analyze extensive data from low Earth orbit (LEO) satellites. A key factor of developing hypersonic defense is knowing when and where they might be deployed. Are you familiar with the Hypersonic detection program and the development of AI based software to detect the deployment of weapons? What roadblocks has the DOD faced when developing software to deploy and detect hypersonic weapons? Are there software related complications preventing our hypersonic weapons from hitting a moving target? How far away are we, not a specific date, FY25 or 29? I'm just trying to get a sense of how much more it'll take from congress to get our capabilities on par with our adversaries. https://interestingengineering.com/military/episci-us-ai- hypersonic-missile-tracking Dr. Patt. I am not directly familiar with the specifics of the Hypersonic detection program and EpiSci's software. However, based on my general knowledge of defense software development, I would anticipate that the software challenges for hypersonic tracking are similar to those faced in fielding other advanced sensor or weapon systems. As outlined in Appendix A, the attached policy memo ``Compiling Advantage'', co-authored with the Honorable Ellen Lord, the Department of Defense faces several key roadblocks in rapidly developing and deploying software, including onerous Authority to Operate (ATO) processes, talent gaps, lack of access to data and interfaces, and inflexible resourcing. Overcoming these challenges to enable greater software adaptability will be critical for the DOD to outpace adversaries in areas like hypersonic detection and defense. While I cannot comment on a specific timeline, continued Congressional support and funding will be essential to ensure the DOD can attract top technical talent, reform cumbersome processes, and drive the innovations needed to achieve parity with competitors in critical technology areas. The attachment provides a detailed analysis of the roadblocks and potential solutions. ______ QUESTIONS SUBMITTED BY MR. FALLON Mr. Fallon. Ms. Lord, during your time as Under Secretary of Defense for Acquisition and Sustainment the Department of Defense decided to replace the Defense Travel System (DTS), a twenty-year old legacy software that was found to contribute to almost $1 billion of improper payments, with a commercial travel and expense system. The decision to use commercial technology solutions is in line with decades of precedence in statute and regulation and supported in the recent PPBE Commission Report. Unfortunately, following your ten-year in the DOD, the current administration decided to turn its back on modernization and to stick with DTS because the military services were not adopting the solution as mandated by the Under Secretary of Defense for Personnel and Readiness. In June of last year, the GAO testified that DOD does not have the power to reform business operations when the services do not agree. Is the Under Secretary of Defense for Personnel and Readiness the best office to implement enterprise-wide software transformation and modernization for travel? If not, what office within the Office of the Secretary of Defense should take on the modernization of defense travel? Ms. Lord. I would send a letter to SecDef Austin, copying the DepSecDef Hicks, directing Hon LaPlante as UnderSecretary of Acquisition and Sustainment to contract a new commercial travel system within the next six months with support from the CIO. The effort supports the need to upgrade multiple business systems with commercially available software versus contracting for a bespoke system. An update on progress in three months should be requested. ______ QUESTIONS SUBMITTED BY MR. LaLOTA Mr. LaLota. During recent Congressional testimony before the Armed Services Committee, Lieutenant General Michael Schmidt, overseeing the F-35 Program, testified that the testing of new software in labs before flight trials is a significant bottleneck, leading to unforeseen challenges and delays. I suspect this issue isn't exclusive to the F-35 but prevalent across various weapon systems, illustrating a gap between our rapid software development pace and testing capabilities, ultimately hindering timely capability delivery to our forces. In an era focused on innovation, it's critical we resolve this. Could you shed light on whether software test capacity is indeed a bottleneck in weapon system deliveries? What strategies can be implemented to enhance DOD software integration labs' capacity and efficiency? Additionally, considering the costs of acquiring necessary physical hardware, how feasible is the development of a virtual test environment to supplement our current capabilities and meet the DOD's growing needs? Ms. Lord. Software testing is indeed a bottleneck. Making developmental testing and operational testing a continuum is key to speeding the fielding process. In other words, taking credit for testing conducted during development should count towards operational testing versus repeating testing. The Director of Operational Test and Development should be tasked with establishing a process that not only counts developmental test towards production testing, but ensures that hardware in the loop testing at Patuxent River is conducted 24/7. The JPO Director and PEO should be required to submit written updates on software testing acceleration on a quarterly basis along with Lockheed Martin. ______ QUESTIONS SUBMITTED BY DR. McCORMICK Dr. McCormick. Secretary Lord, for quite some time federal law has preferred the procurement and use of commercial business systems (10 U.S.C. 2222(b)(4)) and best practices (10 U.S.C. 2222(a)). The thought being, if it works for industry the federal government should not have to reinvent the wheel and can focus on solving problems that are not found in the commercial sector. I was pleased to see that the final report of the PPBE Commission, which you were the Vice Chair, supports the use of commercial business systems. Yet, as the Commission identified DOD's practices and digital culture result in the continued use and investment in bespoke solutions (PPBE Commission Final Report page 106--first two paragraphs under ``Shortfalls in DOD Practices and Digital Culture). The report states that ``Business system reform should be accompanied with the equally important streamlining of business processes and practices'' (PPBE Commission Final Report--see third paragraph on page 107) or change management. There is no clearer example of failed change management than the DOD's decision to end its transition away from the Defense Travel System to a modern commercial solution. If you may, who is in charge of digital change management within the Department and the services regarding business systems? Additionally, what can Congress do to empower these individuals to ensure the law if followed and that those in uniform are not stuck with legacy systems like DTS for another twenty years? Ms. Lord. The SecDef should receive a letter from Congress directing the Undersecretary for Acquisition and Sustainment to procure a commercial travel system, with advice from the DOD CIO, in the next six months. The DepSecDef should be copied and a written update in three months should be required. This issue needs to be elevated to the SecDef level and Dr. LaPlante needs to be empowered to move forward quickly with the procurement while SecDef must compel the Military Services and Agencies to establish and implement a transition from legacy systems to a new commercial system within the next fiscal year. Dr. McCormick. Dr. Patt, in 2019, the Defense Innovation Board issued a report encouraging the use of ``. . . commercial software whenever possible . . .'' and that ``DOD should not build something that it can buy.'' It went on to say that `. . . DOD should take actions to ensure that both the letter and spirit of commercial preference laws (e.g., 10 USC 2377, which requires defense agencies to give strong preference to commercial and non-developmental products) are being followed'' (SWAP Study page 47). Unfortunately, the DOD continues to develop its own business systems rather than conform to existing commercial solutions. Nearly five years after the publication of this report, the DOD decided to maintain the Defense Travel System, a legacy system more than twenty years old and responsible for approximately $1 billion in improper payments rather than use a commercial solution that was already available in the DOD system. In a recent War on the Rocks Article, titled Software Defines Tactics, you highlighted ``When a program can cleanly express a need, including its reliability . . . the program's first instinct should be to outsource that capability to a commercial or dual-use provider.'' Why is it that that the DOD is not incentivized nor managed to outsource these capabilities and leverage commercial systems and business best practices? What can the DOD do to heed your advice? Dr. Patt. The DOD's challenges in leveraging commercial solutions often contrast with the well-established ``Commercial Items Preference'' outlined in sections 1906, 1907, and 3307 of title 41, United States Code, and sections 2375, 2376, and 2377 of title 10, United States Code. A key issue is that Department of Defense requirements are often structured in a way that bundles unique defense- specific features together with components that are readily available commercially off-the-shelf. One potential acquisition approach feasible today is to unbundle these aspects and use techniques like modular contracting to gradually evolve the defense-unique features. However, acquisition officials often perceive this unbundled approach as higher risk compared to a single monolithic contract. Driving change at scale would require either: 1) Continued training for the acquisition and contracting workforce on how to structure procurements to maximize commercial leverage, or 2) Rethinking how the DOD generates and competes requirements, shifting from a ``build-to-spec'' to a ``buy- and-evolve'' mindset. Today, practices around competitive procedures often incentivize a lowest-price, technically acceptable (LPTA) approach against a common specification, rather than allowing for tradeoffs between features, timelines, and overall value. Enabling the DOD to flexibly adopt commercial solutions may require consideration of the risk that contracting officers face in interpreting acceptable competitive procedures. The policy recommendations outlined in the attached ``Compiling Advantage'' memo provide some guidelines to address these systemic issues.
+
+
+
+TOO CRITICAL TO FAIL:
+GETTING SOFTWARE RIGHT
+IN AN AGE OF RAPID INNOVATION
+__________
+HEARING
+BEFORE THE
+SUBCOMMITTEE ON CYBER, INFORMATION TECHNOLOGIES, AND INNOVATION
+OF THE
+COMMITTEE ON ARMED SERVICES
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED EIGHTEENTH CONGRESS
+SECOND SESSION
+__________
+HEARING HELD
+MARCH 13, 2024
+
+______
+U.S. GOVERNMENT PUBLISHING OFFICE
+56-071 WASHINGTON : 2024
+SUBCOMMITTEE ON CYBER, INFORMATION TECHNOLOGIES, AND INNOVATION
+MIKE GALLAGHER, Wisconsin, Chairman
+MATT GAETZ, Florida RO KHANNA, California
+LISA C. McCLAIN, Michigan SETH MOULTON, Massachusetts
+PAT FALLON, Texas WILLIAM R. KEATING, Massachusetts
+DALE W. STRONG, Alabama ANDY KIM, New Jersey
+MORGAN LUTTRELL, Texas ELISSA SLOTKIN, Michigan
+JENNIFER A. KIGGANS, Virginia JARED F. GOLDEN, Maine
+NICK LaLOTA, New York PATRICK RYAN, New York
+RICHARD McCORMICK, Georgia CHRISTOPHER R. DELUZIO,
+Pennsylvania
+Joshua Stiefel, Professional Staff Member
+Michael Hermann, Professional Staff Member
+Brooke Alred, Research Assistant
+C O N T E N T S
+----------
+Page
+STATEMENTS PRESENTED BY MEMBERS OF CONGRESS
+Khanna, Hon. Ro, a Representative from California, Ranking
+Member, Subcommittee on Cyber, Information Technologies, and
+Innovation..................................................... 2
+Luttrell, Hon. Morgan, a Representative from Texas, Subcommittee
+on Cyber, Information Technologies, and Innovation............. 1
+WITNESSES
+Lord, Hon. Ellen M., Former Under Secretary of Defense for
+Acquisition and Sustainment, Department of Defense............. 2
+Murray, Richard M., Professor of Control and Dynamical Systems
+and Bioengineering, California Institute of Technology......... 3
+Patt, Daniel, Senior Fellow, Hudson Institute.................... 6
+APPENDIX
+Prepared Statements:
+Lord, Hon. Ellen M........................................... 23
+Murray, Richard M............................................ 37
+Patt, Daniel................................................. 47
+Documents Submitted for the Record:
+
+Witness Responses to Questions Asked During the Hearing:
+
+Questions Submitted by Members Post Hearing:
+Mr. Fallon................................................... 66
+Mr. Gaetz.................................................... 65
+Mr. Gallagher................................................ 65
+Mr. LaLota................................................... 67
+Dr. McCormick................................................ 67
+TOO CRITICAL TO FAIL: GETTING SOFTWARE RIGHT IN AN AGE OF RAPID
+INNOVATION
+----------
+House of Representatives,
+Committee on Armed Services,
+Subcommittee on Cyber, Information Technologies, and
+Innovation,
+Washington, DC, Wednesday, March 13, 2024.
+The subcommittee met, pursuant to call, at 9:00 a.m., in
+room 2212, Rayburn House Office Building, Hon. Morgan Luttrell
+(a Representative from Texas) presiding.
+OPENING STATEMENT OF HON. MORGAN LUTTRELL, A REPRESENTATIVE
+FROM TEXAS, SUBCOMMITTEE ON CYBER, INFORMATION TECHNOLOGIES,
+AND INNOVATION
+Mr. Luttrell. The subcommittee will come to order. I ask
+unanimous consent that the Chair be authorized to declare a
+recess at any time.
+Without objection, so ordered.
+Good morning, everyone. Thank you for attending. We are
+here today to discuss one of the most critical enablers within
+the U.S. arsenal, and that is software. Software that the
+warfighter uses is crucial to our ability to conduct operations
+in the air, the sea, on land, in space, and obviously in
+cyberspace. Similar to our expectations the aircraft carriers
+will be able to leave our pier and the F-18s can deliver a
+payload over its target. We expect that the systems and code
+that we rely on will work when needed.
+Despite this criticality, we see a Department that
+collectively struggles in procuring, operating, and
+prioritizing software. Congress  know when something is
+wrong and something is right or when something is working or
+not working. We see the reports, we read the studies repeatedly
+noting that the Department struggles with software findings
+that are remarkably consistent from the 1980s to today. We know
+that some things are fundamentally amiss.
+My hope today is for the witnesses to not only describe the
+problem but contextualize, where possible, what is being done
+to date and what the largest barriers have been for addressing
+these issues in a truly meaningful manner. I can't think of a
+better set of witnesses in front of us today to help with that
+task than the three that I am about to introduce. Ms. Ellen
+Lord, the former Under Secretary for Defense for Acquisitions
+and Sustainment; Dr. Richard Murray, professor of control and
+dynamic systems and bioengineering at Caltech [California
+Institute of Technology] and co-chair of the 2019 Defense
+Innovation Board's Software Acquisition and Practices study.
+And Dr. Dan Pratt, senior fellow at the Hudson Institute. Thank
+you all for being with us today.
+I will now recognize the ranking member for his opening
+remarks.
+STATEMENT OF HON. RO KHANNA, A REPRESENTATIVE FROM CALIFORNIA,
+RANKING MEMBER, SUBCOMMITTEE ON CYBER, INFORMATION
+TECHNOLOGIES, AND INNOVATION
+Mr. Khanna. Thank you, Mr. Chair. And thank you to our
+three excellent witnesses, looking forward to hearing from you.
+The Department of Defense and U.S. Government has been
+critical in the development of software and technology in this
+country. As a Representative of Silicon Valley, I remember that
+it was our mission to the Moon that led to the acquisition of
+semiconductors, and that is what spawned Silicon Valley. Had we
+not had the U.S. Government buy semiconductors in the scale
+they did, you would never have seen the development of Silicon
+Valley and the technology. Now, a lot of the innovation is
+happening in my district and in the private sector. And we need
+to figure out how we continue and strengthen the collaboration
+between our Department of Defense and private sector,
+recognizing the dynamic nature of software, how quickly it
+changes, how much we need that innovation to keep us the
+strongest military and country in the world. So I am looking
+forward to your comments and your suggestions.
+Thank you, Mr. Chairman.
+Mr. Luttrell. Thank you, Mr. Khanna. We will now start with
+the witnesses. Ms. Lord, you are recognized for 5 minutes for
+your opening statement.
+STATEMENT OF HON. ELLEN M. LORD, FORMER UNDER SECRETARY OF
+DEFENSE FOR ACQUISITION AND SUSTAINMENT, DEPARTMENT OF DEFENSE
+Ms. Lord. Thank you very much, Congressman Luttrell, for
+chairing this hearing and thank you, Mr. Khanna, and members of
+the committee to allow me to come and talk with some of my
+former colleagues and now current colleagues.
+In an era of strategic competition among technologically
+advanced powers, software will shape the nature of deterrence
+and define national security advantage. The urgency to empower
+our defense and national security apparatus across all domains
+with both the best existing and emerging technology is critical
+to not only preserve our freedoms, but also those of our
+partners and allies.
+Our Nation has developed an operationalized technology
+solutions that have transformed our commercial sector, and in
+turn, our everyday lives. Now we must harness and apply this
+ingenuity and innovation to bolster U.S. military superiority
+in the digital age. Given current geopolitical conditions, the
+stakes could not be higher.
+Software development and implementation in support of our
+country's defense and intelligence infrastructure needs to meet
+the challenge of the moment. To fall short now would not just
+be a bureaucratic debacle but a source of imminent risk to our
+ability to deter, fight, and win. The ability to quickly
+develop and deliver capability to close the gap between
+information discovery and mission response is a defining
+differentiator in emerging global competition.
+Defense and intelligence agencies must develop, acquire,
+execute, and maintain software to meet current mission needs,
+while also having the agility to quickly respond to future
+threat environments. The statutory, regulatory, and budgetary
+framework for these agencies are ripe for streamlining, to
+build and maintain the Nation's software advantage.
+The Department of Defense procurement process is one of the
+greatest challenges and opportunities to software acquisition.
+Often, software's purchased using the same approach that is
+traditionally employed for major hardware systems purchases.
+Typically, this entails setting rigid requirements, conducting
+lengthy solicitation processes, and ultimately, years later,
+facing costly sustainment contracts to adapt software that is
+often obsolete upon delivery. Although alternative acquisition
+pathways exist, they are only as effective as an acquisition
+professional's ability to implement them.
+Funding professional training and development for
+acquisition professionals to ensure they have key skills for
+implementing the full spectrum of acquisition approaches will
+enable the best and most innovative software and technology to
+be quickly provided for our national security workforce. DOD
+ must operationalize policies and
+procedures to support the use of modern software development
+and delivery practices, such as agile software development
+lifecycle, software-as-a-service delivery, human centered
+design, DevSecOps , and
+modern technology stacks.
+Training the acquisition workforce is necessary but not
+sufficient to modernize software development and deployment.
+Resourcing must be available to provide flexible budgeting,
+rapid and continuous authority to operate, and leadership must
+demand that all relevant authorities, procedures, and processes
+are employed. My submitted testimony goes into more details on
+these items.
+I would like to close by acknowledging three efforts that
+are producing actionable recommendations that might be useful
+to this subcommittee. One is the Commission on Planning,
+Programming, Budgeting, and Execution, who just last week
+produced our final report. Chairman Rogers and Ranking Member
+Smith held a hearing in which we talked about recommendations
+that could be employed; many would help our software
+initiatives.
+Two, the Software  Defense Coalition that is led by
+Jane Lee is producing actionable recommendations for the
+subcommittee.
+And finally, the Atlantic Council Commission on Software-
+Defined Warfare, on which I serve, is again producing
+actionable recommendations.
+I urge the committee to follow up on these. Thank you.
+[The prepared statement of Ms. Lord can be found in the
+Appendix on page 23.]
+Mr. Luttrell. Thank you, Ms. Lord.
+Dr. Murray, you are recognized for 5 minutes.
+STATEMENT OF RICHARD M. MURRAY, PROFESSOR OF CONTROL AND
+DYNAMICAL SYSTEMS AND BIOENGINEERING, CALIFORNIA INSTITUTE OF
+TECHNOLOGY
+Dr. Murray. Mr. Luttrell, Mr. Khanna, and distinguished
+members of the subcommittee, thank you for inviting me to speak
+with you this morning on the topic of software development in
+the Department of Defense.
+From 2016 to 2021 I was member of the Defense Innovation
+Board and I co-chaired along with Michael McQuade the DIB study
+on Software Acquisition and  which we call SWAP.
+This was established in the 2018 NDAA [National Defense
+Authorization Act], and our report was titled ``Software is
+Never Done'' and it was released in May of 2019.
+One of the key findings of our report was that Congress and
+DOD had been talking about the importance of software and
+struggling with how to make better use of software in support
+of national security for decades. In many ways the DIB report
+of 2019 was just a rephrasing of the 1987 Defense Science Board
+task force on military software written 32 years earlier, which
+identified itself over 30 previous studies on that same topic.
+As we described in our report, ``Chapter 3: Been There, Said
+That,'' we know what we need to do, we just need to figure out
+how to actually do it and get to it.
+In our 2019 report we identified three themes that I
+believe are still the most important points to make about
+getting software right. The first is that speed and cycle time
+are the most important metrics for software. Being able to
+develop and deploy faster than our adversaries means that we
+can provide more advanced capabilities, respond to our
+adversaries moves, and be more responsive to end users. Faster
+reduces risk, leads to increased reliability, and gives us a
+tactical advantage on the battlefield by allowing operation and
+response inside our adversaries' OODA loop--observe, orient,
+decide, and act.
+Second, software is made by people and for people so
+digital talent matters. DOD resource policies are often not
+conducive to attracting, retaining, and promoting digital
+talent. Talented software developers and acquisition personnel
+with software experience are often put in jobs that did not
+allow them to make use of those talents, particularly in the
+military, where rotating job assignments may not recognize and
+reward the importance of software development experience.
+Today, in DOD and the industrial base that supports it, the
+people with the necessary skills exist. But instead of taking
+advantage of their skills, we often put them in environments
+where it is difficult for them to be effective.
+Third, software is different than hardware and not all
+software is the same. Over the years, Congress and DOD have
+established a sophisticated set of statutes, regulations, and
+instructions that govern the development, procurement, and
+sustainment of defense systems. But software development is
+fundamentally different than hardware development. And software
+should be developed, deployed, tested, and continuously
+improved using much different cycle time, support,
+infrastructure, and maintenance strategies.
+Software is never done, and must be managed as an enduring
+capability that is treated differently than hardware. In
+preparing for this meeting, I took the opportunity to read
+recent GAO  reports on
+the implementation of some of the recommendations from the SWAP
+study which we partnered with Ms. Lord on when she was in the
+DOD.
+I was pleased to see that Congress and DOD have made
+substantial progress in implementing many of our
+recommendations, including establishing new acquisition
+pathways for software and exploring new appropriation
+categories that allow software to be funded as a single budget
+item. These are important steps and they should be continued
+and accelerated if we are going to get software right.
+In addition to these important actions that focused on the
+acquisition process, DOD implemented many actions on other
+primary and secondary recommendations from our report. Some of
+the most important are developing guidance on authority to
+operate, ATOs, including ATO reciprocity and continuous ATOs
+which enable continuous integration and deployment pipelines.
+As of April 2023, it appears that guidance for continuous
+ATOs has not yet been published, and I would encourage the DOD
+to do so if it hasn't already.
+Another area of high importance is recruiting digital
+talent. DOD reports progress in establishing software factories
+that combine personnel from specialized teams, but it appears
+they have yet to establish a separate career track for software
+developers, something that we recommended.
+A well-defined career track for software developers,
+including service members, will allow DOD to train and retain
+the skilled workforce necessary to design, build, and test
+modern software systems.
+Finally, an area that is completely different today than it
+was 5 years ago when we did the SWAP study is the role of
+artificial intelligence in military systems. The implications
+of AI will be profound across all areas of society and the
+field is changing so rapidly that it is impossible to predict
+how AI is going to progress over anything more than the next
+few years.
+In the context of software development, AI is poised to
+revolutionize the way we write, test, and deploy code. Modern
+large language models, LLMs, are already writing code based on
+descriptions of the desired function, and are being used in
+industry to speed development. In the future they will be
+integral to testing, deployment, and protection of software as
+well. These developments will democratize software development
+in ways that have a potential to drastically reduce cycle time,
+both for the U.S. and for our adversaries.
+At the same time software that is used for military systems
+is too critical to fail, and so we must find ways to harness
+those tools that fit the increased levels of security and
+safety that are required in safety and mission critical
+systems. DOD must stay on top of these developments and take
+advantage of current U.S. leadership being developed in the
+commercial sector.
+Congress working with DOD plays an essential role in moving
+forward and breaking us out of the cycle of repeating for the
+last 32 years.
+Thank you for your attention. And I look forward to our
+discussion.
+[The prepared statement of Dr. Murray can be found in the
+Appendix on page 37.]
+Mr. Luttrell. Thank you, Dr. Murray.
+Dr. Patt, you are recognized for 5 minutes, sir.
+STATEMENT OF DANIEL PATT, SENIOR FELLOW, HUDSON INSTITUTE
+Dr. Patt. Thank you for inviting me here to speak on such
+an important topic.
+I am here in an individual capacity, but I serve in diverse
+roles offering me perspectives on the cutting edge of national
+security technology and threats, the broad techno-economic
+shifts which are reshaping the global order, and the vibrant
+commercial tech ecosystem.
+As you all know, software is ubiquitous, its powerful
+implications for economic productivity, for government
+effectiveness, for cybersecurity, and the character of national
+security. And these technological changes are overlaid on the
+geopolitical context of our time, strategic competition between
+the United States and the People's Republic of China . And
+the crux of the problem for national security is this: In a
+sustained competition, in a long-term competition, advantage
+ultimately depends on the ability of one side to adapt, move by
+move, year by year, mitigating weaknesses and building
+advantage.
+The kinds of questions that we end up with in the military
+dimension of competition are things like are our weapon systems
+relevant against a relentless pace of new threats? Can
+commanders access data to control highly distributed forces?
+Can we invent new ways of fighting that put the PRC on the back
+foot and dissuade aggression?
+These are the issues that the Department of Defense must
+tackle if it wants to compete and now every one of these issues
+now depends on software. Even changing a military unit's
+tactics now depends on a software update, not just a whiteboard
+planning session. And we need look no further than the
+battlefields of Ukraine to find evidence that units which are
+able to change their software more quickly see better outcomes.
+So we face a choice. We can be victims of software, cursing its
+bugs and delays and overruns, or we can harness it for
+competitive advantage by leveraging American ingenuity, a
+robust talent base, and leading technology. That's our
+question, can we create a defense system built for evolution
+and adaptation, a defense system built to compete?
+My central message is this, and it will echo those of my
+fellow witnesses here: The process of getting code from a
+programmer to an operational system is critical. This is what
+is so different about software, we blur the lines between what
+is development, building something, and what is operations,
+using that same thing. So making this quick and robust is a
+necessary condition for competition. And there are a handful of
+forward-leaning trailblazers in the Department doing this well
+today, but they remain in the minority and they face daily
+struggles against organizations and processes built for another
+era.
+So I call your attention to two actionable items for
+oversight. First, enabling rapid software deployment and
+updates through the ATO process, as we have discussed, where
+again ATO refers to the process of how the Department decides
+that software is safe to deploy and use.
+The second item, talent, attracting qualified technical
+expertise to guide DOD's software development and procurement.
+On the first topic, I will introduce an analogy. In many ways
+making software resembles a potter molding wet clay and forming
+it into some finished piece. When an engineering team works
+with source code, it acts like wet clay, they can quickly
+adjust it, make fixes. But once the code is compiled, built,
+shipped, it becomes fixed and brittle. The executable code only
+works on one particular type of processor, as many fixed
+assumptions about those operating conditions. And what we find
+is modern software is so complex and has so many dependencies
+that you need to feed the results back to the engineering team,
+you need a cycle. And unfortunately our ATO process often makes
+this quite difficult. So this is addressed in greater detail in
+my written statements.
+On the second topic, technical talent, software is a
+complex and technical subject matter, details matter, the bits
+matter. So we hear these clickbait headlines sometimes, like
+one simple trick can solve DOD software like use Kubernetes or
+get to the cloud or one software factory to rule them all, or
+just hire Silicon Valley, or it's all about agile. Those are
+all great tools, those are useful things, but navigating that
+complexity requires judgment and organic technical talent on
+the part of the Department.
+The DOD needs a few top tier technical leaders driven by
+mission, it doesn't need armies of CAC 
+badge coders. And it can attract this talent, if given the
+right tools, using things like term appointments, and giving
+these people autonomy to make a mission impact. Thank you.
+[The prepared statement of Dr. Patt can be found in the
+Appendix on page 47.]
+Mr. Luttrell. Thank you, Dr. Patt.
+We will move into questioning. I will open up. Authority to
+operate, you all three hit on that. It seems--I hate to say it
+seems almost as--you guys shouldn't leave, I am going to talk
+to you guys if you want to hang out. Yeah, totally cool. Sit
+back down. The authority to operate, I don't necessarily mean--
+it seems like it is the improper medium for software innovation
+into the Department because software is updated every half
+second of every second of every minute of every hour of every
+day, correct. I mean, it just moves so fluidly.
+For the past 40 years, the authority to operate seems to be
+a bogging the system down. I am asking three subject matter
+experts, we will start with you Mr. Patt. Or Ms. Lord, we will
+start with you, ladies first. What is the fix? I don't want
+something hanging on the wall that we talked about. I don't
+want a report that we never read. What is the actual fix to fix
+this problem? This is the way that we--forward leaning in front
+of our adversaries and we seem to be bogging--the system is
+failing itself it sounds like. Ms. Lord.
+Ms. Lord. The challenge is the need for speed. And I
+believe there are two things that we need to do, is one, move
+to continuous ATOs. There has been a lot written and a lot
+discussed, but continuous ATOs are not yet implemented. And I
+would suggest that  posture hearings, this would be
+a very good thing to ask DOD leadership about.
+Secondly, we are repeatedly across even programs, military
+services, agencies, not allowing reciprocal rights for ATOs, so
+the same software is being reauthorized again and again. Those
+are the two key things that I think you should push on.
+Mr. Luttrell. So breaking down the silos between the
+multiple departments.
+Ms. Lord. Absolutely, and not looking at discrete,
+repetitive approvals. Right now, in fact, there is only a
+requirement to approve 12 systems a year, which given the fact
+that most of our systems run on hardware, software, and data,
+is frightening.
+Mr. Luttrell. Dr. Murray.
+Dr. Murray. Yeah, I would completely agree, I think when
+you think about continuous ATO in particular, right? What do we
+need to be able to do? We need to be able to say this software
+needs to be updated, it needs to be updated now, the longer we
+wait, the more risk we put our warfighters in by not giving
+them the code they need to do the job they need to do.
+So how do we get to the point where we are an industry,
+right, where if a zero day comes out, that is some attack on my
+cell phone, that is going to going to break into my cell phone,
+there will be an update in the next day or two, right? And that
+means they have already figured out how do we put an update out
+there that is not going to break all of those , it
+is going to satisfy all of our own security things. We need to
+do that within the DOD. We need to define what that is. I think
+you should be asking on every program what is the cycle time
+that is going into the software? How much of that cycle time is
+the ATO process, right? And if that ATO process, if that is
+more than sort of a day, there is a problem, right, because it
+needs to be a continuous ATO. It needs it be something where we
+automatically check, does this satisfy the security
+requirements? This is important code, we have got to be careful
+about it. But we need to be able to get out there quickly, or
+we're putting our warfighters at risk.
+Mr. Luttrell. Mr. Patt.
+Dr. Patt. I agree very much with those comments. It is
+useful to talk about--the ATO is about the risk of using the
+software, about deploying the software, and this gets aligned
+with mission risk. And sometimes I feel this point gets lost.
+If it's buying body armor you can really separate these
+decisions of did I buy the body armor and does it meet the
+spec, and, you know, is it safe to use this on a mission, does
+this help support the mission. With software though, again,
+these lines get blurred.
+I will say that one of the places where you see progress in
+the Department is where they try to put these risks together,
+so if you look at, in the Navy, PEO IWS [Program Executive
+Office Integrated Warfare Systems], or PMW [Program Manager,
+Warfare] 150. There are program offices and program managers
+which both own the risk of use of the software on the
+operational network, and the development of the software. And
+you move those things together, you tend to get these more
+mission-focused outcomes. These are the organizations which
+have been successfully able to use continuous ATOs. And I would
+expect that, you know, that same characteristic to carry us
+forward. You know, as Dr. Murray said, you know, we often focus
+on ATOs like this old-fashioned boxed software model, and we
+forget the risk of not updating the software, of not deploying
+new features which will make us more successful in our mission.
+And we have become too focused on compliance, checking the
+boxes of, you know, did we meet the boxes that we said we would
+when we shipped that software, and we forget the underlying
+problems of we are trying to conduct a mission here. And the
+most important thing is the cycle time that we keep coming back
+to, so you can keep updating, adding features and mitigating
+problems.
+Ms. Lord. If I may have one quick followup on that.
+Mr. Luttrell. Yes, ma'am.
+Ms. Lord. I think we need to differentiate in the
+Department between risk management and risk elimination. We are
+never going to eliminate all risk and these tradeoffs are what
+take human judgment calls and what Dr. Patt is talking about.
+Also he called out PEO IWS. I think it is very important for
+Congress to recognize those individuals in the Department who
+are leaning forward and demonstrating, embracing authorities,
+policies, procedures. And I would say Admiral Seiko Okano, who
+was, I think, she is just moving along PEO IWS, has done that
+admirably.
+Thank you.
+Mr. Luttrell. Thank you, Ms. Lord.
+For all the young men and women sitting behind the
+witnesses, they are talking to you. You are the next generation
+that will keep this country ahead of nefarious actors across
+the globe. So I highly recommend you play this tape back
+because we are counting on you. Do you understand? Outstanding.
+Mr. Khanna, you are recognized for 5 minutes.
+Mr. Khanna. 
+In my district when you have a software challenge at Apple
+or Google, they don't just go out and buy new software. In
+fact, that is the last thing they do. They have a mission and
+they figure things out.
+I have heard from people who sold to the DOD or worked at
+the DOD that they just buy new software to check off the box
+that they have complied, but this isn't actually innovating in
+the way that the private sector does. Could you comment on how
+we change that culture, other than getting Tim Cook to run
+these things?
+Ms. Lord. I think it comes down to investing in the human
+capital at DOD. If individuals are not trained to be smart
+buyers, and we cannot attract contemporary coders and so forth,
+we will not change that culture. Right now we have a huge issue
+and this is mentioned in our PPBE [Planning, Programming,
+Budgeting, and Execution Reform Commission] final report with
+modernizing a lot of our business systems. We are pretty good
+at talking about innovating from a warfighting technology point
+of view.
+We typically do not talk about innovating business systems.
+We need to digitize those systems. And we have to attract
+individuals who want to work on contemporary COTS [commercial-
+off-the-shelf] systems. Right now we have a hard time
+attracting a lot of software specialists in the Department
+because we are working on 10-, 20-, 30-year-old software. And
+frankly, there is not the knowledge of the art of a possible as
+to what could be done. So I suggest working with DAU [Defense
+Acquisition University], training the acquisition professionals
+on what a digital environment really is. Thank you.
+Dr. Murray. I would say that, you know, I completely agree
+with you. We can't sort of say, hey, this software is not doing
+what it is supposed to do so let us go specify and put a bunch
+of requirements into finding a new piece of software that is
+going to do that and go buy that somehow, and 5 years later
+this thing comes along.
+I think what you see in Silicon Valley and other places is
+that we say we need a platform, and that platform is an
+enduring capability. We are going to be doing search forever.
+We are going to be delivering apps to cell phones forever. And
+so, we are going to be tracking satellites and tracking debris
+in space forever. There is an enduring capability there. And
+there is software that is going to do that. And we need to
+think about that platform as something that is going to get
+updated, new features are going to be added and other things.
+And we are not going to say, let's, you know, sort of write
+down the requirements for that, buy it, and then it's done and
+it's going to sit there for 10, 20 years.
+It needs to be something we say every year, we are going to
+invest a certain amount of money in that software and a
+development team that is going to do that. And we need to
+create a system in which we sort of think of software as an
+enduring capability. And get into that that mind-set. It is
+absolutely possible. We have seen it in the commercial sector.
+It is part of the reason that the U.S. commercial sector is so
+far ahead is that we are just able to jump on all of those
+things.
+And so, we have to do that within the DOD. I think there
+are spots that are doing that. We need to again, as Ms. Lord
+said, we need to amplify those, we need to recognize those, we
+need to do that more.
+One other thing I'll say is, you know, I think that we see
+some of that starting in the software acquisition pathway, but
+it's for things that are pure software, so much software is
+sitting on top of hardware and the hardware mind-set dominates
+the software that is part of that hardware. We have got to
+break out of that. That software also needs to be updated.
+If you are looking at an F-22 there is software in that.
+Some of that software should stay there for a decade or more.
+But much of that software is things that should really be
+updated on a regular basis.
+Mr. Khanna. I had one more question, so I will give you the
+chance to answer it. If there is a company and they are awarded
+a second phase SBIR  grant,
+a lot of the startups do, then they often are waiting for a
+year, year and a half to get the SBIR III. And this is the
+valley of death in Silicon Valley for a lot of startups. Is
+there a way that you could authorize the contracting officer to
+a least give a letter of intent to possibly give--that they are
+going to get the grant because so many of these startups don't
+make it at the SBIR III phase.
+Dr. Patt. Yeah, so this question on acquisition policy is
+there are a variety of tools that the government can use.
+However, there are also limits. For example, a frequent limit
+that comes up with SBIR III awards is an anti-deficiency thing,
+often you have to wait for funding to become available from a
+future year so that the government can't just indicate advanced
+notice of award.
+Some of the things that the PPBE Commission has done in its
+report, its recommendations, could create additional
+flexibilities which could be delegated down to program managers
+and contract officers, which could allow flexibility, allow in
+the same year flexing of priorities of being able to maybe move
+some money that isn't being put to good purpose to advancing,
+say, an SBIR Phase III award.
+Ms. Lord. Following up on that a little bit, I think it is
+important to note that right now the National Academies is
+running a study on recertification of the SBIR/STTR [Small
+Business Technology Transfer] process for just this very
+reason.
+And as Dan mentioned, we in this PPBE report talked about
+how if we didn't have so many discreet budget line elements,
+but had more capability elements, we could allow the PEOs and
+PMs  to have more agility, especially in the
+year of execution, to move money towards emerging technologies
+and these smaller companies.
+Right now, unfortunately, in my opinion, the SBIR/STTR
+process is an afterthought for most PEOs and PMs. There is not
+a lot of education on it, and it is a little bit trickier to
+use. So again, educating the workforce is critical.
+Mr. Luttrell. Thank you, Mr. Khanna.
+Mr. Gaetz, you are recognized for 5 minutes.
+Mr. Gaetz. March 7 of this year, AviationTimes.com reported
+that the TR-3  software delay could force
+the DOD to combat-code F-35s. I don't know what it means to
+combat-code something, sounds dangerous. So maybe, Ms. Lord, we
+could draw on your experience and you could explain what
+combat-coding is and whether that is a good idea?
+Ms. Lord. I am not sure I totally know the definition of
+combat-coding, but it sounds like coding on the go. I will say
+the F-35 is the perfect example of a program that looked to our
+major primes who are absolutely critical for our national
+security, but frankly to a large degree has excluded the small
+companies where the predominance of innovation in this country
+takes place. And that is where the coding capability is. And I
+think having lived through the TR-3 drama, if you will, we need
+to decompose this and make sure when we are awarding these
+large contracts that we are reaching out to the companies who
+know how to do this coding, and again, manage risk, don't
+eliminate risk, and find a way to bring them in.
+Mr. Gaetz. So here is our challenge that we have with a lot
+of these companies. They are dying to get the contract, they do
+all sorts of things to get these big old contracts, to get
+these, you know, $180 million-a-copy F-35s. And then they want
+to protect their source code, and not allow other innovators to
+be able to be able to access it to kind of springboard and
+innovate off of it.
+Dr. Murray, is the F-35 one of these kind of hardware
+dominated paradigm systems where the upgrades that are needed
+for the warfighter are now being executed through this combat-
+coding system.
+Dr. Murray. I don't know whether or not the combat-coding
+system is being used there, but, you know, it is certainly the
+case that it is a large hardware program that has used, from
+what I can tell, a very traditional DOD process to decide----
+Mr. Gaetz. And you mean that as a critique?
+Dr. Murray. Yes, as a critique. I agree. And the software
+components of that again, some software components, the
+embedded flight control code is not something you should be
+changing every day. Other parts that are doing the logistics
+change and other things are things that we want to be agile
+about and we want to take advantage of. And so, how do we, in
+those programs, say, not that we should break the rules because
+now there is a crisis and so we are going to do it differently,
+but rather, we have a well-defined way of putting software in
+there, checking, doing continuous ATOs. Part of our process is
+we know what is the frequency at which we are going to update
+the different pieces of software. I think when you look at----
+Mr. Gaetz. And what they love to say to us is, oh, you need
+to update it frequently, and we need to be sole source. And of
+course, we can't share our source code with anyone else so that
+they might be able to participate in that update. So how do I
+break through that?
+Dr. Murray. I think it is great question, you know, and I
+will let Dan say a little bit about it, you know. I do think
+that you have to think about where the pieces of software are
+going to come from, and they don't all have to come necessarily
+from one manufacturer.
+Mr. Gaetz. Oh, we will have to wake Lockheed Martin up with
+smelling salts, that not every update to the F-35 has to come
+through Lockheed Martin.
+Dr. Patt. So first, let me just add some operational
+context to this. Sometimes I think that in peacetime it is hard
+to understand how important delivering software updates is. But
+if you just look at the conflict playing out in the Ukraine,
+one of the things is you see Ukrainian radios only last about 3
+weeks before some countermeasure comes along and they have to
+reprogram the radio or change a wave form. We see the Excalibur
+munition, its targeting system dropped from 70 percent
+effectiveness to 6 percent effectiveness over a matter of a few
+months as new EW  mechanisms came out.
+If we expect our major weapon system programs to follow
+these waterfall processes where we spend years planning a tech
+refresh, how do you ever hope to adapt in competition?
+Mr. Gaetz. But that is what we are doing now.
+Dr. Patt. That's right. This is the problem.
+Mr. Gaetz. Help us liberate ourselves from this.
+Dr. Patt. So, much of it is going to go back to--there is
+two principles, and Congressman, you introduced--so one, we've
+talked a little bit about ATOs already, that is one. The other
+principle you just brought up is this notion of vendor lock.
+One, I want to point out that an ATO is another mechanism by
+which one can achieve vendor lock, we are beginning to see this
+already. Some companies get a continuous ATO, and then they
+seek to use that to lock themselves in because it is so
+expensive. Companies can spend $1 million just getting through
+an ATO process.
+But there are a set of principles, and these are known as
+the MOSA  principles and
+actually, Congress put this in place, and Ms. Lord oversaw a
+number of efforts. But these are poorly used. What MOSA
+principles do is they say, the program manager, who is in
+charge of the acquisition, shall define modules and interfaces
+and make those interfaces available to qualified contractors to
+the government. And what this does is this allows other
+companies to come along, they see the data, they see the
+interface, and they can make new software that works with that.
+If the government has the right infrastructure, it can
+figure out how to test this and make sure that it works
+effectively in context. So the principles exist; in fact, put
+in law. They are just poorly adopted.
+Mr. Gaetz. Well, yeah, that is because people are
+protecting their turf. I greatly appreciate that.
+I have got further questions for you, Dr. Murray, about AI
+and hypersonics, but I see my time has expired and so I will be
+submitting those for the record.
+Thank you, Mr. Chairman, I yield back.
+Mr. Luttrell. Ms. Slotkin, you are recognized for 5
+minutes.
+Ms. Slotkin. Thank you. Thanks for being here. You know, I
+was at the Pentagon for 7 years and in the 5-ish years that I
+have been here we have done a ton of hearings that kind of
+looked at this issue from one way or another, just our cultural
+problem of speeding up decisionmaking, particularly as it
+relates to tech. And to the point where I feel like, to use a
+Pentagon term, we are admiring the problem, like, we're just--
+we just love a hearing about it. And actually there is deep
+bipartisan agreement on the need to spin up and to speed up
+that string on going from concept to fielding of the technology
+of any kind, obviously software being some of the most
+complicated.
+And it has led me to believe, even as someone who, you
+know, cares deeply about the Pentagon and our national
+security, that it's not, you know, any one program or any one
+authority, it is truly culture, culture across administrations,
+culture across leaders. And I am not, like, a burn-it-down kind
+of person, you know, saying like, okay, the system doesn't work
+so we need to destroy it and start from zero. But if separating
+yourself from the tech, if you could make--and some of you have
+served inside the Pentagon--if you could be queen or king for
+the day, on one cultural change, what would that be?
+And I would say, you know, aware of the fact that the
+Pentagon has a lot of rules and restrictions when they use
+taxpayer dollars that Google and Silicon Valley and everyone
+else doesn't have to adhere to. And the responsibility of
+stewarding those dollars is different than a small startup in
+Palo Alto, it is never going to be the same thing. Comparing
+the two is apples to oranges. But speaking from culture as
+people who have been either in the inside or adjacent, what is
+the one thing you would change, starting with Ms. Lord.
+Ms. Lord. I would ask leadership to demonstrate that smart
+risk management benefits the warfighter and the Nation.
+Therefore, I believe there are many more motivations and
+rewards that can be given to those individuals, whether
+civilians or in uniform, who lean forward and take smart risks.
+They manage risk, they don't try to eliminate it, and they move
+at the speed of need here. And I believe that leadership needs
+to speak up and make rewards and highlight those individuals
+who are doing the right thing and recognize that people will
+falter and not to blame them, if you will, when everybody is
+looking for perfect being the enemy of good enough.
+Ms. Slotkin. Yeah. I certainly know, in Silicon Valley,
+when I have the chance to visit, it is like people wear their
+mistakes as a badge of honor. I started a company, it didn't
+succeed, but I learned these important lessons, and now I am on
+my third company and look at all this amazing stuff.
+It was so strange as a Pentagon official to visit Silicon
+Valley and hear people talking about their failures because at
+the Pentagon, you would never talk about your failures, right?
+Ms. Lord. Well, and with all due respect, I think Congress
+has a piece of this.
+Ms. Slotkin. For sure, for sure.
+Sir, we will just go down the line here, Mr. Murray.
+Dr. Murray. Yeah, so I think it is a great question and I
+think you are right, changing that culture is going to be hard
+and how do we do it. I think there are lots of things we could
+do. If I could sort of be king for a day, I think one of the
+things I would do is change the way we think about the teams of
+people that are working on software. If you look at what
+happens in Silicon Valley or other places, you see a lot of
+this turnover, right. People are not there for 10, 20, 30 years
+doing this, right. They come in for 2 years, they do this part,
+they go out, they start another company, they go to another
+place. How do we take advantage of the commercial sector, bring
+them into government for a short period of time. Put them in a
+position that is skipping a couple of GS levels and other
+things because they are super talented, they know what to do,
+we get them in there.
+I think they will help change that culture because they
+will ask why. Why are we doing it this way? Why don't we do it
+this way? I know how to do it that way. So I think that is what
+I would do, right. We have to change the culture. We are not
+going to change the culture by just taking the people who are
+there and saying change. I think we do that by bringing people
+in who look different and think about things differently,
+right, and that is one way to do it.
+Ms. Slotkin. Very quickly in my remaining time, Dr. Patt.
+Dr. Patt. Yeah, I think fostering a culture of doers is
+really the key here, which is encouraging the accountability
+down to an individual program manager for the outcomes they
+achieve. When you run a decades-long development, and you only
+serve in a position for a few years, it is very hard to have a
+sense of accountability or responsibility or pride in the
+outcomes that get delivered. But the great thing about software
+is you can compress these delivery timelines and suddenly, you
+can start to celebrate this. And, you know, combined with the
+suggestion that Dr. Murray just made of bringing in people for
+short tours of duty from commercial industry, I think you can
+get a vibrancy and dynamism in the perspective and talent to
+drive to results.
+Ms. Slotkin. Thanks very much. My time--I yield back.
+Mr. Luttrell. Thank you, Ms. Slotkin.
+Mr. McCormick, you are recognized for 5 minutes, sir.
+Dr. McCormick. Thank you, Mr. Chair. And thank you to the
+witnesses for being here today.
+I am going to start--it is fascinating, I love the variety
+of questions. It has kind of been all over the map and you guys
+have been such great subject matter experts.
+I am going to go a little off the chart of things that I
+was supposed to ask today because I am fascinated by this
+topic, and we have a couple doctors in technological fields. I
+am a doctor in medicine. And it is interesting to watch how AI
+has been developed and how it has taken these columns, very
+similar to the way the brain is-- this is kind of fascinating
+for the kids out there and how AI is developed. And different
+parts of your brain affect different parts of your body.
+Specifically, it is designed for this part of the brain for
+your arm, this part for your leg, this part for your eyesight,
+this part for your hearing. This is your decisionmaking, this
+is your personality. And we have done the same thing in AI
+since we can no longer rely on Moore's law to shrink the size
+of these chips. And there is one atomic structure of thinness
+per layer, which is fascinating to me, that we can actually
+design software to go in this hardware and fit into these
+capacities to do specific functions just like we do in our
+brain. It is fascinating that after all this technology and all
+this science, we are getting back to the way that God designed
+the brain. It is fascinating to me.
+My question is, and this is for my two technology experts
+is, as we do this, and we are designing software into--to match
+the hardware, and we are going forward, and AI accelerates that
+process, how does that affect cybersecurity and our enemies'
+ability to combat us and how do we unleash that potential as we
+design the software going forward?
+Dr. Murray. I will give it a start. So as I said earlier I
+think it is hard for us to predict the impact that AI is going
+to have. It is clear it is going to be huge and we have figure
+out how to take advantage of that. Our adversaries are going to
+take advantage of that. And so, if we are not on the front end
+of that, we are in trouble. I think one of the things we have
+to do is start saying, we need to be using AI to design
+software. We need to be using AI to test software. We need to
+be using AI to try and attack software internal to what we are
+doing, right? Where is that happening now, right? What are the
+AI programs that are saying, hey, we write code with AI, we
+test code with AI, and other things. Why? Because if we are not
+smart at that, we are not going to be able to take advantage as
+that technology goes so quickly.
+It is fascinating, I think, because AI is one of those
+areas, I heard a talk by John Hennessy, former president of
+Stanford. And he said, AI is one of those areas where the
+developers of the technology were legitimately surprised by
+what it could do. They didn't know that it would be able to
+code. They didn't know it would be able to do these things. It
+is amazing, right, to have that, you know, John Hennessy has
+been involved in a lot of things but it did what they designed
+it to do. AI is something that truly is moving faster than we
+thought it would move. I think it is going to be huge. I think
+the DOD needs to take advantage of that. I think we ought to be
+asking where are the AI efforts that are happening in use of
+large language models for coding and other things.
+Dr. McCormick. Dr. Patt, before you get started, one of the
+things I also want you to consider as a university kind of guy,
+too. Georgia Tech has three different columns of AI
+development. But we all said 250,000 students from India just
+alone here in the United States studying. We have got a ton of
+kids from China studying. And we have all of our AI production
+over in Taiwan at TSMC [Taiwan Semiconductor Manufacturing
+Company], right? So we have production overseas, we have our
+technologies going back overseas, that is another consideration
+I want to--you know, how do we protect this stuff from being
+used against us when we are training those people and producing
+the chips overseas in a nation that we said we are going to
+take over. I am just concerned about the security measures of
+that.
+Dr. Patt. Yes, this is an important question. The
+complexity of our software and our hardware and the codesign is
+absolutely exploding. I will say, though, that you can use this
+complexity as a tool. For example, one of the things you can do
+is you can create a chip, you can produce the hardware, and
+then you can set features of it later. You can defer some of
+that, and you can build in forms of defense.
+But at the same time, you know, I don't think it is
+possible to prevent all vulnerabilities beforehand. This is one
+of the reasons why being able to go back and drive updates,
+detect anomalies, detect problems, and drive updates is so
+important. And we begin to see this now, for example, in some
+of the Navy operational networks of automated anomaly
+detection, and then they are able to go push a patch before any
+users see a problem. So tools like this, of figuring out how to
+use this exploding complexity that we see to the advantage of
+the U.S. is how we stay ahead.
+Dr. McCormick. Thank you. Ms. Lord, I am going to just kind
+of push that question back on you. Again, we always talk about
+securing our software as we develop. We are the leaders in
+technology as far as developing software, but we don't create
+our own hardware when it comes to AI. How do we protect our
+technologies from the bad guys.
+Ms. Lord. I think what we have to do is look at this from
+both a defensive and offensive point of view. And it is
+absolutely critical that we have standards that are held to
+when we look at the system level, that we also understand the
+provenance of all hardware and software that we include. Right
+now, we don't always understand the beneficial ownership of
+some of the companies in our supply chain. And frankly, AI has
+done an incredible job in illuminating supply chains just
+scraping publicly available information to really understand
+where items began.
+So the Department of Defense has begun to put some
+contracts in place to use that technology. And cybersecurity
+standards are already, to some degree, in the acquisition
+policies, but that needs to be followed up on.
+Dr. McCormick. Thanks. I yield. Thank you.
+Mr. Luttrell. Thank you, Mr. McCormick.
+Mr. Ryan, sir, you are recognized for 5 minutes.
+Mr. Ryan. Thank you, Mr. Chair. Thank you all for being
+here and really appreciate your input and also your service in
+many various hats to the country. Despite my desire to ask
+about TikTok, I am not going to do that this morning. I am sure
+many in our audience would be curious, myself included.
+I want to follow up on my colleague Ms. Slotkin's sort of
+line of questioning and something specifically you said, Ms.
+Lord. You started to say, Congress has a role in this
+discussion about culture and risk--changing the risk sort of
+appetite, if you will, and tolerance. Could you talk a little
+bit more about that, any specific ideas you have and we will
+turn it to others, too.
+Ms. Lord. Absolutely. I think often it is easy to look at
+what has gone wrong in DOD and pound on that a little bit, if
+you will. But I think, perhaps, if thoughtful questions about
+what did you learn from this? How did it happen? How do we do
+things differently in the future? That line of discussion would
+be very useful. Also, I think asking questions about what is
+holding you back from taking more risk. And I think that there
+is an incredible fear of failure. And if you could engage
+senior leadership in the building relative to discussions about
+that and ask them how you motivate and reward them to act more
+like the commercial sector where we do things quickly, we pull
+the patches, you know, in a day or so. I think that would be
+really, really useful.
+Mr. Ryan. Just in setting up others to answer, too, and
+somewhat leading, but is there--not to overly formalize it, but
+do you think it could ever make sense for there to be some more
+public, or more broad assessment of which programs, which
+leaders, which individuals are accepting risk, sort of holding
+them up in a somewhat more formal way.
+Ms. Lord. Absolutely. For years, when I was in the building
+we talked about holding hearings to showcase these types of
+individuals. And I believe the reality is that scheduling does
+not allow you to do that type of thing. There are things like
+TikTok that you need to work about--to talk about and work on.
+But there is so much you can do just with recognition with
+letters, with talking to the media, showing--inviting people up
+to your office for an hour or so. It just doesn't cost much,
+would go a long way, and it would cast a very long shadow.
+Mr. Ryan. Thank you.
+Dr. Murray. So, you know, I think Congress does play a role
+in shaping the culture of the DOD. And it is the way you ask
+the questions, I think in part, right? If you do something
+where you say, here are all the requirements, why didn't you
+meet these requirements, why is it over budget, et cetera, you
+are forcing us into a system in which we are looking at the
+requirements and checking all the boxes, and that may not be
+the right answer. If you look at speed and cycle time as your
+main metrics, and for software programs that is what it is, how
+quickly can you get something out into the field. That is
+fantastic. Can we get a leader board going, to your point,
+right, where we sort of say, this program they have got their
+sort of time down to 1 week or 2 weeks, you know, why is it
+that they are doing better? Maybe we get people in a friendly
+competition, right, for saying we have got the best speed and
+cycle time, right. Can we make those things public? Can we say,
+here's how quickly these different software-dominated programs
+can get things out into the field and working.
+Mr. Ryan. Thank you. Love the leader board.
+Dr. Patt. One of the most remarkable technological
+achievements is just how safe civil air travel is. It is
+remarkable how few fatalities come out of this. And the reason
+that it became so safe and so successful is there was a strong
+culture around a blame-free debrief, which is if you step
+forward and you talk about the problem, then it is about
+learning, it is not about failure. This is the same principle
+that we need to apply here as we figure out collectively how to
+do software right.
+Just to call out two specific examples. Many of you have
+heard of this Air Force project called Kessel Run which is
+about software delivery. Many of you have also heard about the
+Air Force's ABMS, the Advanced Battle Management System, that
+is run by PEO C3BM [Program Executive Office, Command, Control,
+Communications and Battle Management] in the Air Force, General
+Cropsey. Both of those efforts are efforts which did deep hard
+introspection about their early efforts, and they said, you
+know what? We need to pivot. The early choices that we made
+around architecture and how to approach this or how we think
+about managing this effort aren't right and we need to pivot.
+Those are the kinds of people, the kind of decisions, and that
+sort of blame-free culture, that focus on learning that you
+need to make this work.
+Mr. Ryan. I appreciate that. And I think just with the 20
+seconds I have left, I think recognizing that that has to start
+from the very, very top, and has to be a principle of all the
+senior, senior leadership is just something that I think we can
+hopefully all agree.
+So thank you, Mr. Chair. I yield back the balance.
+Mr. Luttrell. Thank you, Mr. Ryan.
+Mr. Khanna, closing statement?
+Mr. Khanna. I just want to thank the excellent witnesses
+and your very concrete recommendations. And appreciate your
+time.
+Thank you, Mr. Chairman.
+Mr. Luttrell. Thank you again as well, coming in--shedding
+light and amplifying information of--again, we have talked
+about it. We learn more from our failures than we ever will our
+successes.
+To your point, sir, in the military, we often never spoke
+about how well the operation went. We always talked about how
+horrible the small things, or in order to capitalize that on
+the next op. I have been sitting back here trying to--I think I
+have it, but I am not going to say it out loud. I think I know
+why the reason why we are so risk averse in the House of
+Representatives. And I will just keep that to myself since I am
+on TV right now. But my colleagues and I will definitely
+discuss that behind closed doors. But again, thank you.
+So, members will have 5 business days to submit their
+questions for the record. This committee is now adjourned.
+
+=======================================================================
+A P P E N D I X
+March 13, 2024
+=======================================================================
+=======================================================================
+PREPARED STATEMENTS SUBMITTED FOR THE RECORD
+March 13, 2024
+=======================================================================
+
+=======================================================================
+QUESTIONS SUBMITTED BY MEMBERS POST HEARING
+March 13, 2024
+=======================================================================
+QUESTIONS SUBMITTED BY MR. GALLAGHER
+Mr. Gallagher. Ms. Lord, you are very familiar with the ``authority
+to operate'' or ATO process from your time as Under Secretary. As you
+know, the process is extremely slow and inefficient. However, software
+evolves at the speed of war; in Ukraine for instance, their software-
+defined platforms can be updated in hours or days, while updates
+through our ATO process takes several months, at best. As a result, the
+ATO process makes it impossible for our forces to field the best
+software at the speed of war. How do you suggest we fix this process to
+ensure our service members can leverage the best software on the
+battlefield?
+Ms. Lord. I recommend continue working with the OSD CIO, John
+Sherman, as well as each of the Military Service CIO's to prioritize
+scaling the current continuous ATO projects to encompass an increasing
+percentage of software programs on an annual basis with a three year
+goal to move to 100% continuous ATO implication. (I have personally
+spoken with John Sherman about the need to accelerate this process.) As
+the technology exists, there appears to be more of a cultural and
+leadership challenge to cATO implementation. Requiring six month
+updates from the OSD CIO would provide visibility to Congress, as well
+as industry, to the progress.
+______
+QUESTIONS SUBMITTED BY MR. GAETZ
+Mr. Gaetz. On February 19, 2024, Interestingengineering.com
+reported that EpiSci was chosen for U.S. AI hypersonic missile tracking
+system software:
+EpiSci has won a $1.6 million contract with the U.S. Space
+Development Agency to flesh out its AI-powered, hypersonic missile
+tracking system.
+The U.S. Space Development Agency (SDA) has officially chosen
+California-based EpiSci to develop its planned cutting-edge software to
+detect hypersonic missiles in flight. This initiative marks a
+significant advancement in missile defense capabilities, leveraging the
+power of artificial intelligence (AI) to analyze extensive data from
+low Earth orbit (LEO) satellites.
+A key factor of developing hypersonic defense is knowing when and
+where they might be deployed.
+Are you familiar with the Hypersonic detection program and the
+development of AI based software to detect the deployment of weapons?
+What roadblocks has the DOD faced when developing software to
+deploy and detect hypersonic weapons?
+Are there software related complications preventing our hypersonic
+weapons from hitting a moving target?
+How far away are we, not a specific date, FY25 or 29? I'm just
+trying to get a sense of how much more it'll take from Congress to get
+our capabilities on par with our adversaries.
+https://interestingengineering.com/military/episci-us-ai-
+hypersonic-missile-tracking
+Ms. Lord. I am generally aware of the challenge of tracking
+hypersonic missiles, but have not worked on this issue for three years.
+The challenge is not only the software, but establishing a network of
+space-based sensors to provide sufficient fidelity to cover incoming
+missiles and then providing the electronics to transmit the target data
+in real-time. The real-time integration of sensors, communication
+electronics and software is a complex task.
+Mr. Gaetz. On February 19, 2024, Interestingengineering.com
+reported that EpiSci was chosen for U.S. AI hypersonic missile tracking
+system software:
+EpiSci has won a $1.6 million contract with the U.S. Space
+Development Agency to flesh out its AI-powered, hypersonic missile
+tracking system.
+The U.S. Space Development Agency (SDA) has officially chosen
+California-based EpiSci to develop its planned cutting-edge software to
+detect hypersonic missiles in flight. This initiative marks a
+significant advancement in missile defense capabilities, leveraging the
+power of artificial intelligence (AI) to analyze extensive data from
+low Earth orbit (LEO) satellites.
+A key factor of developing hypersonic defense is knowing when and
+where they might be deployed.
+Are you familiar with the Hypersonic detection program and the
+development of AI based software to detect the deployment of weapons?
+What roadblocks has the DOD faced when developing software to
+deploy and detect hypersonic weapons?
+Are there software related complications preventing our hypersonic
+weapons from hitting a moving target?
+How far away are we, not a specific date, FY25 or 29? I'm just
+trying to get a sense of how much more it'll take from congress to get
+our capabilities on par with our adversaries.
+https://interestingengineering.com/military/episci-us-ai-
+hypersonic-missile-tracking
+Dr. Murray. Unfortunately, I am not familiar with the Hypersonic
+Detection Program.
+Mr. Gaetz. On February 19, 2024, Interestingengineering.com
+reported that EpiSci was chosen for U.S. AI hypersonic missile tracking
+system software:
+EpiSci has won a $1.6 million contract with the U.S. Space
+Development Agency to flesh out its AI-powered, hypersonic missile
+tracking system.
+The U.S. Space Development Agency (SDA) has officially chosen
+California-based EpiSci to develop its planned cutting-edge software to
+detect hypersonic missiles in flight. This initiative marks a
+significant advancement in missile defense capabilities, leveraging the
+power of artificial intelligence (AI) to analyze extensive data from
+low Earth orbit (LEO) satellites.
+A key factor of developing hypersonic defense is knowing when and
+where they might be deployed.
+Are you familiar with the Hypersonic detection program and the
+development of AI based software to detect the deployment of weapons?
+What roadblocks has the DOD faced when developing software to
+deploy and detect hypersonic weapons?
+Are there software related complications preventing our hypersonic
+weapons from hitting a moving target?
+How far away are we, not a specific date, FY25 or 29? I'm just
+trying to get a sense of how much more it'll take from congress to get
+our capabilities on par with our adversaries.
+https://interestingengineering.com/military/episci-us-ai-
+hypersonic-missile-tracking
+Dr. Patt. I am not directly familiar with the specifics of the
+Hypersonic detection program and EpiSci's software. However, based on
+my general knowledge of defense software development, I would
+anticipate that the software challenges for hypersonic tracking are
+similar to those faced in fielding other advanced sensor or weapon
+systems. As outlined in Appendix A, the attached policy memo
+``Compiling Advantage'', co-authored with the Honorable Ellen Lord, the
+Department of Defense faces several key roadblocks in rapidly
+developing and deploying software, including onerous Authority to
+Operate (ATO) processes, talent gaps, lack of access to data and
+interfaces, and inflexible resourcing. Overcoming these challenges to
+enable greater software adaptability will be critical for the DOD to
+outpace adversaries in areas like hypersonic detection and defense.
+While I cannot comment on a specific timeline, continued Congressional
+support and funding will be essential to ensure the DOD can attract top
+technical talent, reform cumbersome processes, and drive the
+innovations needed to achieve parity with competitors in critical
+technology areas. The attachment provides a detailed analysis of the
+roadblocks and potential solutions.
+______
+QUESTIONS SUBMITTED BY MR. FALLON
+Mr. Fallon. Ms. Lord, during your time as Under Secretary of
+Defense for Acquisition and Sustainment the Department of Defense
+decided to replace the Defense Travel System (DTS), a twenty-year old
+legacy software that was found to contribute to almost $1 billion of
+improper payments, with a commercial travel and expense system. The
+decision to use commercial technology solutions is in line with decades
+of precedence in statute and regulation and supported in the recent
+PPBE Commission Report. Unfortunately, following your ten-year in the
+DOD, the current administration decided to turn its back on
+modernization and to stick with DTS because the military services were
+not adopting the solution as mandated by the Under Secretary of Defense
+for Personnel and Readiness. In June of last year, the GAO testified
+that DOD does not have the power to reform business operations when the
+services do not agree.
+Is the Under Secretary of Defense for Personnel and Readiness the
+best office to implement enterprise-wide software transformation and
+modernization for travel? If not, what office within the Office of the
+Secretary of Defense should take on the modernization of defense
+travel?
+Ms. Lord. I would send a letter to SecDef Austin, copying the
+DepSecDef Hicks, directing Hon LaPlante as UnderSecretary of
+Acquisition and Sustainment to contract a new commercial travel system
+within the next six months with support from the CIO. The effort
+supports the need to upgrade multiple business systems with
+commercially available software versus contracting for a bespoke
+system. An update on progress in three months should be requested.
+______
+QUESTIONS SUBMITTED BY MR. LaLOTA
+Mr. LaLota. During recent Congressional testimony before the Armed
+Services Committee, Lieutenant General Michael Schmidt, overseeing the
+F-35 Program, testified that the testing of new software in labs before
+flight trials is a significant bottleneck, leading to unforeseen
+challenges and delays. I suspect this issue isn't exclusive to the F-35
+but prevalent across various weapon systems, illustrating a gap between
+our rapid software development pace and testing capabilities,
+ultimately hindering timely capability delivery to our forces. In an
+era focused on innovation, it's critical we resolve this.
+Could you shed light on whether software test capacity is indeed a
+bottleneck in weapon system deliveries? What strategies can be
+implemented to enhance DOD software integration labs' capacity and
+efficiency? Additionally, considering the costs of acquiring necessary
+physical hardware, how feasible is the development of a virtual test
+environment to supplement our current capabilities and meet the DOD's
+growing needs?
+Ms. Lord. Software testing is indeed a bottleneck. Making
+developmental testing and operational testing a continuum is key to
+speeding the fielding process. In other words, taking credit for
+testing conducted during development should count towards operational
+testing versus repeating testing. The Director of Operational Test and
+Development should be tasked with establishing a process that not only
+counts developmental test towards production testing, but ensures that
+hardware in the loop testing at Patuxent River is conducted 24/7. The
+JPO Director and PEO should be required to submit written updates on
+software testing acceleration on a quarterly basis along with Lockheed
+Martin.
+______
+QUESTIONS SUBMITTED BY DR. McCORMICK
+Dr. McCormick. Secretary Lord, for quite some time federal law has
+preferred the procurement and use of commercial business systems (10
+U.S.C. 2222(b)(4)) and best practices (10 U.S.C. 2222(a)). The thought
+being, if it works for industry the federal government should not have
+to reinvent the wheel and can focus on solving problems that are not
+found in the commercial sector. I was pleased to see that the final
+report of the PPBE Commission, which you were the Vice Chair, supports
+the use of commercial business systems. Yet, as the Commission
+identified DOD's practices and digital culture result in the continued
+use and investment in bespoke solutions (PPBE Commission Final Report
+page 106--first two paragraphs under ``Shortfalls in DOD Practices and
+Digital Culture). The report states that ``Business system reform
+should be accompanied with the equally important streamlining of
+business processes and practices'' (PPBE Commission Final Report--see
+third paragraph on page 107) or change management. There is no clearer
+example of failed change management than the DOD's decision to end its
+transition away from the Defense Travel System to a modern commercial
+solution.
+If you may, who is in charge of digital change management within
+the Department and the services regarding business systems?
+Additionally, what can Congress do to empower these individuals to
+ensure the law if followed and that those in uniform are not stuck with
+legacy systems like DTS for another twenty years?
+Ms. Lord. The SecDef should receive a letter from Congress
+directing the Undersecretary for Acquisition and Sustainment to procure
+a commercial travel system, with advice from the DOD CIO, in the next
+six months. The DepSecDef should be copied and a written update in
+three months should be required. This issue needs to be elevated to the
+SecDef level and Dr. LaPlante needs to be empowered to move forward
+quickly with the procurement while SecDef must compel the Military
+Services and Agencies to establish and implement a transition from
+legacy systems to a new commercial system within the next fiscal year.
+Dr. McCormick. Dr. Patt, in 2019, the Defense Innovation Board
+issued a report encouraging the use of ``. . . commercial software
+whenever possible . . .'' and that ``DOD should not build something
+that it can buy.'' It went on to say that `. . . DOD should take
+actions to ensure that both the letter and spirit of commercial
+preference laws (e.g., 10 USC 2377, which requires defense agencies to
+give strong preference to commercial and non-developmental products)
+are being followed'' (SWAP Study page 47). Unfortunately, the DOD
+continues to develop its own business systems rather than conform to
+existing commercial solutions. Nearly five years after the publication
+of this report, the DOD decided to maintain the Defense Travel System,
+a legacy system more than twenty years old and responsible for
+approximately $1 billion in improper payments rather than use a
+commercial solution that was already available in the DOD system. In a
+recent War on the Rocks Article, titled Software Defines Tactics, you
+highlighted ``When a program can cleanly express a need, including its
+reliability . . . the program's first instinct should be to outsource
+that capability to a commercial or dual-use provider.''
+Why is it that that the DOD is not incentivized nor managed to
+outsource these capabilities and leverage commercial systems and
+business best practices? What can the DOD do to heed your advice?
+Dr. Patt. The DOD's challenges in leveraging commercial solutions
+often contrast with the well-established ``Commercial Items
+Preference'' outlined in sections 1906, 1907, and 3307 of title 41,
+United States Code, and sections 2375, 2376, and 2377 of title 10,
+United States Code. A key issue is that Department of Defense
+requirements are often structured in a way that bundles unique defense-
+specific features together with components that are readily available
+commercially off-the-shelf. One potential acquisition approach feasible
+today is to unbundle these aspects and use techniques like modular
+contracting to gradually evolve the defense-unique features. However,
+acquisition officials often perceive this unbundled approach as higher
+risk compared to a single monolithic contract. Driving change at scale
+would require either: 1) Continued training for the acquisition and
+contracting workforce on how to structure procurements to maximize
+commercial leverage, or 2) Rethinking how the DOD generates and
+competes requirements, shifting from a ``build-to-spec'' to a ``buy-
+and-evolve'' mindset. Today, practices around competitive procedures
+often incentivize a lowest-price, technically acceptable (LPTA)
+approach against a common specification, rather than allowing for
+tradeoffs between features, timelines, and overall value. Enabling the
+DOD to flexibly adopt commercial solutions may require consideration of
+the risk that contracting officers face in interpreting acceptable
+competitive procedures. The policy recommendations outlined in the
+attached ``Compiling Advantage'' memo provide some guidelines to
+address these systemic issues.

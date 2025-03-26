@@ -1,1 +1,1808 @@
-LEGISLATIVE PROPOSALS TO SUPPORT MODERNIZING THE CONGRESSIONAL RESEARCH SERVICES AND THE USE OF FEDERAL DATA ---------- March 20, 2024 House of Representatives, Subcommittee on Modernization, Committee on House Administration, Washington, DC. The Subcommittee met, pursuant to notice, at 10:32 a.m., in room 1310, Longworth House Office Building, Hon. Stephanie Bice  presiding. Present: Representatives Bice, Steil, Carey, and Kilmer. Staff present: Annemarie Cake, Professional Staff and Deputy Clerk; Marian Currinder, Senior Professional Staff; Alexander Deise, Parliamentarian; Kristen Monterroso, Director of Operations and Legislative Clerk; Michael Platt, Staff Director; Jordan Wilson, Director of Member Services. OPENING STATEMENT OF HON. STEPHANIE BICE, CHAIRWOMAN OF THE SUBCOMMITTEE ON MODERNIZATION, A U.S. REPRESENTATIVE FROM OKLAHOMA Chairwoman Bice. The Subcommittee on Modernization will come to order. I note that a quorum is present. Without objection--thank you--the chair may declare a recess at any time. The hearing record will remain open for 5 legislative days so Members may submit any materials they wish to be included therein. Thank you, Ranking Member Kilmer--and Subcommittee Members and the chairman I think will be here shortly--as well as our witness for taking time today to be with us. This is the Modernization Subcommittee's first legislative hearing. We will be learning more about two bills and one resolution that have been referred to the Subcommittee, and we will have the opportunity to dive into what problems these measures address and what solutions they propose. This should go without saying, but legislative hearings like this one provide an important forum for Members to gather information, ask questions, and form opinions or positions on the legislation before us. Legislative hearings are consistent with regular order, but we do not see a lot of them at the Subcommittee level these days, and the same is true of markups on the Subcommittee level. As the chair, I think the Subcommittee process is important, and that is especially true here as we consider bills that directly relate to our mission to improve and modernize the institution and implement the recommendations of the Select Committee on Modernization. Today we will hear about two measures related to the Congressional Research Service's ongoing efforts to modernize the way the agency works on behalf of Congress. We will also learn more about a resolution introduced by my colleague, Ranking Member Kilmer, and cosponsored by full Committee Member Ranking Member Morelle, that is based on a Select Committee recommendation to create a congressional commission on evidence-based policymaking. The Modernization Subcommittee held a hearing in April of last year to examine CRS' efforts to improve their processes and products in ways that reflect how today's Congress operates. It was clear then that more work was needed, but I am pleased to say that we have seen the agency take positive steps to improve culture and modernize operations. I fully recognize the work CRS analysts do to support Congress. That work is invaluable. I am encouraged and excited with the results recent changes have yielded, and I look forward to the continued progress and the modernization of CRS. Robert, I want to personally thank you for your leadership. On that note, I am pleased that we are joined today by Robert Newlen, CRS' interim director, who, in addition to speaking about the two CRS-related bills on the agenda today, will update the Subcommittee on some of the agency's ongoing efforts to improve and enhance services. Mr. Newlen will discuss the underlying problems that the two CRS bills address and explain how they will help strengthen the agency's mission to support Congress. I would like to note that for all Members of the Subcommittee, we jointly introduced these bills as we all saw value in what they set forth to accomplish. Access to Federal agency data is critical to CRS' mission to provide timely and accurate research and analysis to Congress. The agency's current statute, which has not been seriously modified in 50 years, needs to be updated to reflect new forums and uses of data. The Select Committee on Modernization recognized this problem and recommended enhancing support agency access to Federal data, and the bill we are discussing today does just that. The Select Committee also recommended examining legislative support agency authorities more broadly to determine if they need to be updated, and this bill is certainly consistent with that goal. I will say here that our intention continues to be a larger examination of CRS' organic statute, with an eye toward developing more modern authorities and Congressional directives that better support CRS' work and more accurately reflect the needs of Congress today. We look forward to working with you, Mr. Newlen, your successor, and your entire team in this very important endeavor. Modernizing how CRS produces and provides access to the Constitution Annotated is also consistent with the goal of updating how the agency serves Congress. CONAN, as this massive tome is known, has been available online since 2019. Would you like to, you know, take a gander at this? There we go. Mr. Kilmer. Bicep work. Chairwoman Bice. There you go, yes. Mr. Kilmer. It is an arm---- Chairwoman Bice. Let us turn that around so you can see it. The digital version is regularly updated and has gotten millions of views since its inception, and meanwhile, producing this hard-bound version is costly. According to the most recent estimates available from CRS and the GPO, the 2012 hard-bound CONAN cost taxpayers approximately $1 million to produce. We are waiting on estimates for the 2022 version but expect they will be nearly the same. Getting rid of this behemoth print requirement enhances efficiency and is a very easy, cost-saving measure. The second panel today includes three witness experts who can share additional views on Congress' access to the use of Federal agency data. They will shed light on legislative and executive branch interactions and provide perspective on some of the challenges analysts face accessing data and how the work that CRS does on behalf of Members and staff is impacted when analysts cannot get data. Understanding the different ways that data can inform the policymaking and oversight process is another important part of the conversation and is consideration--in considering bipartisan--I am sorry--is considering partisan bias in data and how we ensure the data is accurate and reliable. At this time, I will now recognize the Ranking Member, Mr. Kilmer, for the purpose of providing an opening statement.  PREPARED STATEMENT OF HON. STEPHANIE BICE, CHAIRWOMAN OF THE SUBCOMMITTEE ON MODERNIZATION This is the Modernization Subcommittee's first legislative hearing. We will be learning more about two bills and one resolution that have been referred to the Subcommittee, and we will have the opportunity to dive into what problems these measures address and what solutions they propose. This should go without saying, but legislative hearings like this one provide an important forum for Members to gather information, ask questions, and form opinions or positions on the legislation before us. Legislative hearings are consistent with regular order, but we do not see a lot of them at the Subcommittee level these days, and the same is true of markups on the Subcommittee level. As the chair, I think the Subcommittee process is important, and that is especially true here as we consider bills that directly relate to our mission to improve and modernize the institution and implement the recommendations of the Select Committee on Modernization. Today we will hear about two measures related to the Congressional Research Service's ongoing efforts to modernize the way the agency works on behalf of Congress. We will also learn more about a resolution introduced by my colleague, Ranking Member Kilmer, and cosponsored by full Committee Member Ranking Member Morelle, that is based on a Select Committee recommendation to create a congressional commission on evidence-based policymaking. The Modernization Subcommittee held a hearing in April of last year to examine CRS' efforts to improve their processes and products in ways that reflect how today's Congress operates. It was clear then that more work was needed, but I am pleased to say that we have seen the agency take positive steps to improve culture and modernize operations. I fully recognize the work CRS analysts do to support Congress. That work is invaluable. I am encouraged and excited with the results recent changes have yielded, and I look forward to the continued progress and the modernization of CRS. Robert, I want to personally thank you for your leadership. On that note, I am pleased that we are joined today by Robert Newlen, CRS' interim director, who, in addition to speaking about the two CRS-related bills on the agenda today, will update the Subcommittee on some of the agency's ongoing efforts to improve and enhance services. Mr. Newlen will discuss the underlying problems that the two CRS bills address and explain how they will help strengthen the agency's mission to support Congress. I would like to note that for all Members of the Subcommittee, we jointly introduced these bills as we all saw value in what they set forth to accomplish. Access to Federal agency data is critical to CRS' mission to provide timely and accurate research and analysis to Congress. The agency's current statute, which has not been seriously modified in 50 years, needs to be updated to reflect new forums and uses of data. The Select Committee on Modernization recognized this problem and recommended enhancing support agency access to Federal data, and the bill we are discussing today does just that. The Select Committee also recommended examining legislative support agency authorities more broadly to determine if they need to be updated, and this bill is certainly consistent with that goal. I will say here that our intention continues to be a larger examination of CRS' organic statute, with an eye toward developing more modern authorities and Congressional directives that better support CRS' work and more accurately reflect the needs of Congress today. We look forward to working with you, Mr. Newlen, your successor, and your entire team in this very important endeavor. Modernizing how CRS produces and provides access to the Constitution Annotated is also consistent with the goal of updating how the agency serves Congress. CONAN, as this massive tome is known, has been available online since 2019. Would you like to, you know, take a gander at this? There we go. Mr. Kilmer. Bicep work. Chairwoman Bice. There you go, yes. Mr. Kilmer. It is an arm---- Chairwoman Bice. Let us turn that around so you can see it. The digital version is regularly updated and has gotten millions of views since its inception, and meanwhile, producing this hard-bound version is costly. According to the most recent estimates available from CRS and the GPO, the 2012 hard-bound CONAN cost taxpayers approximately $1 million to produce. We are waiting on estimates for the 2022 version but expect they will be nearly the same. Getting rid of this behemoth print requirement enhances efficiency and is a very easy, cost-saving measure. The second panel today includes three witness experts who can share additional views on Congress' access to the use of Federal agency data. They will shed light on legislative and executive branch interactions and provide perspective on some of the challenges analysts face accessing data and how the work that CRS does on behalf of Members and staff is impacted when analysts cannot get data. Understanding the different ways that data can inform the policymaking and oversight process is another important part of the conversation and is consideration--in considering bipartisan--I am sorry--is considering partisan bias in data and how we ensure the data is accurate and reliable. OPENING STATEMENT OF HON. DEREK KILMER, RANKING MEMBER OF THE SUBCOMMITTEE ON MODERNIZATION, A U.S. REPRESENTATIVE FROM WASHINGTON Mr. Kilmer. Thanks, Madam Chair. Thanks to our colleague and the witnesses who are here at our inaugural legislative hearing on the Subcommittee, so way to go. I think I am excited about the three bills that we are taking up today. I think taken collectively, they bring us closer to the Subcommittee's mission of making Congress work better for the American people. Each one of these bills harkens back to a problem that we identified on the ModCom. The Modernizing the congressional Research Service's Access to Data Act is--speaks to recommendation 33, which states that congressional support agencies should report on challenges and potential solutions for accessing Federal data. Director Newlen, thank you for doing just that, which paved the way forward for this bill. CRS statute, developed in the 1970's, states that Federal agencies need to comply with data requests from Congress to serve Congressional Committees, and it mentions that CRS is responsible for otherwise assisting individual Member offices with information requests. However, given the lack of explicit statutory reference to personal offices, you have indicated that you at times have struggled to access necessary information from Federal agencies to execute your mission of serving Committees and personal offices alike. Your customer service mission to Congress is very important. As I have mentioned before the Subcommittee previously, my team and I regularly use CRS. The amendments and bills and letter ideas we put forth are better because of CRS' involvement and support to us. Thank you for not putting out a restraining order against my team. It matters that you have access to the Federal data you need to do your jobs, to update reports on timely and pressing issues proactively, and in response to specific requests, that you have access that is on par with that provided to other legislative branch support agencies, like the CBO, for example. I am a proud cosponsor of H.R. 7592 to this end, and look forward to hearing your testimony on that and that of the second panel. Speaking of further Select Committee recs that remain open and we will touch on today, recommendation 140 states that Congressional Committees, including this one, should examine support agency authorities and determine if they need to be updated. Thank you again, Director Newlen, for bringing the CONAN issue to our attention in the spirit. You know, this is about saving money. This is about making sure that there is continued access for information. The American people can receive better information online, and we can save valuable CRS staff capacity and time and taxpayer dollars. Again, proud to cosponsor that bill as well. Then, finally, want to mention the congressional evidence- based policymaking resolution. Part of what makes this Subcommittee work, and what sets us apart, is our commitment to looking at problems, collecting a common set of data and facts about them, and then respectfully negotiating the potential solutions, and then charting a path forward. Call me an optimist, but I think that this institutions and Members of both parties from every ideological persuasion could benefit from a similar approach. Simply put, though, we need sound evidence and nonpartisan facts about the pressing problems facing the American people that would allow us to better design policies to measure their impact, to conduct oversight, and ultimately to improve outcomes for the American people. The Select Committee on the Modernization of Congress proposed the establishment of a bipartisan, bicameral Commission on Evidence-Based Policymaking to facilitate this, which would be accomplished by this bill. This commission approach is supported by precedent as well. Former Speaker Paul Ryan and the senior Senator from my home State, Patty Murray, previously led an effort to establish such a commission specific to the executive branch, which was an effort I was proud to support. That commission effort cleared the House under suspension of the rules and the Senate on unanimous consent. It was signed into law in 2016. It was signed into law by President Obama. The recommendations that stem from the Commission were turned into overwhelmingly bipartisan changes from the Foundations for Evidence-Based Policymaking Act, which was signed into law in 2019 by former President Trump. The problems we face as a Nation are hard, but the idea that we will deliver more for our constituents and for our country with a common set of facts does not have to be hard. One of our witnesses today, Nick Hart, with the Data Foundation, was involved in those past executive branch efforts and can shed some light on how the legislative branch can get this right. Thanks again to my colleagues, thank you to Subcommittee Chair Bice, our Subcommittee colleagues, and to each of our witnesses for taking time to be here today. Look forward to your thoughts and suggestions regarding these bills, and just appreciate your partnership on this important work of trying to make Congress work better for the people we represent. With that, I yield back.  PREPARED STATEMENT OF RANKING MEMBER OF THE SUBCOMMITTEE ON MODERNIZATION DEREK KILMER I think I am excited about the three bills that we are taking up today. I think taken collectively, they bring us closer to the Subcommittee's mission of making Congress work better for the American people. Each one of these bills harkens back to a problem that we identified on the ModCom. The Modernizing the congressional Research Service's Access to Data Act is--speaks to recommendation 33, which states that congressional support agencies should report on challenges and potential solutions for accessing Federal data. Director Newlen, thank you for doing just that, which paved the way forward for this bill. CRS statute, developed in the 1970's, states that Federal agencies need to comply with data requests from Congress to serve Congressional Committees, and it mentions that CRS is responsible for otherwise assisting individual Member offices with information requests. However, given the lack of explicit statutory reference to personal offices, you have indicated that you at times have struggled to access necessary information from Federal agencies to execute your mission of serving Committees and personal offices alike. Your customer service mission to Congress is very important. As I have mentioned before the Subcommittee previously, my team and I regularly use CRS. The amendments and bills and letter ideas we put forth are better because of CRS' involvement and support to us. Thank you for not putting out a restraining order against my team. It matters that you have access to the Federal data you need to do your jobs, to update reports on timely and pressing issues proactively, and in response to specific requests, that you have access that is on par with that provided to other legislative branch support agencies, like the CBO, for example. I am a proud cosponsor of H.R. 7592 to this end, and look forward to hearing your testimony on that and that of the second panel. Speaking of further Select Committee recs that remain open and we will touch on today, recommendation 140 states that Congressional Committees, including this one, should examine support agency authorities and determine if they need to be updated. Thank you again, Director Newlen, for bringing the CONAN issue to our attention in the spirit. You know, this is about saving money. This is about making sure that there is continued access for information. The American people can receive better information online, and we can save valuable CRS staff capacity and time and taxpayer dollars. Again, proud to cosponsor that bill as well. Then, finally, want to mention the congressional evidence- based policymaking resolution. Part of what makes this Subcommittee work, and what sets us apart, is our commitment to looking at problems, collecting a common set of data and facts about them, and then respectfully negotiating the potential solutions, and then charting a path forward. Call me an optimist, but I think that this institutions and Members of both parties from every ideological persuasion could benefit from a similar approach. Simply put, though, we need sound evidence and nonpartisan facts about the pressing problems facing the American people that would allow us to better design policies to measure their impact, to conduct oversight, and ultimately to improve outcomes for the American people. The Select Committee on the Modernization of Congress proposed the establishment of a bipartisan, bicameral Commission on Evidence-Based Policymaking to facilitate this, which would be accomplished by this bill. This commission approach is supported by precedent as well. Former Speaker Paul Ryan and the senior Senator from my home State, Patty Murray, previously led an effort to establish such a commission specific to the executive branch, which was an effort I was proud to support. That commission effort cleared the House under suspension of the rules and the Senate on unanimous consent. It was signed into law in 2016. It was signed into law by President Obama. The recommendations that stem from the Commission were turned into overwhelmingly bipartisan changes from the Foundations for Evidence-Based Policymaking Act, which was signed into law in 2019 by former President Trump. The problems we face as a Nation are hard, but the idea that we will deliver more for our constituents and for our country with a common set of facts does not have to be hard. One of our witnesses today, Nick Hart, with the Data Foundation, was involved in those past executive branch efforts and can shed some light on how the legislative branch can get this right. Thanks again to my colleagues, thank you to Subcommittee Chair Bice, our Subcommittee colleagues, and to each of our witnesses for taking time to be here today. Look forward to your thoughts and suggestions regarding these bills, and just appreciate your partnership on this important work of trying to make Congress work better for the people we represent. With that, I yield back. Chairwoman Bice. Thank you, Mr. Kilmer. At this time, I would like to recognize the full Committee Chairman, Mr. Steil, for the purpose of providing opening remarks. OPENING STATEMENT OF HON. BRYAN STEIL, CHAIRMAN OF THE COMMITTEE ON HOUSE ADMINISTRATION, A U.S. REPRESENTATIVE FROM WISCONSIN Chairman Steil. Thank you, Chair Bice, and thank you to the work that you and Ranking Member Kilmer are doing on the Subcommittee on Modernization. You can tell there is energy on it because we have a full room, including your daughter, Ainsley, who is here with us today, and so shout-out there. Today's Subcommittee's first legislative hearing, where we will be focusing on two bills related to the Congressional Research Service and a resolution focused on the possibility of a new congressional commission on evidence-based policymaking is, as you said, Mrs. Bice, it is important that the legislative process, even at the Subcommittee level, be carried out to achieve our mission, and that mission is to modernize the institution. A Congress that is modern is a Congress that can be more efficient. Two of the bills we are looking at today will help modernize CRS and support the work of Congress, making our institution more effective. We will look into a possible evidence-based congressional commission to help ensure that Congress can successfully use agency data in its policymaking and oversight, and I look forward to seeing where these conversations take us today. Again, thank you to you, Subcommittee Chair Bice, Ranking Member Kilmer, for your work today, and our witnesses as well. I yield back.  PREPARED STATEMENT OF CHAIRMAN OF THE COMMITTEE ON HOUSE ADMINISTRATION BRYAN STEIL Chairman Steil. Thank you, Chair Bice, and thank you to the work that you and Ranking Member Kilmer are doing on the Subcommittee on Modernization. You can tell there is energy on it because we have a full room, including your daughter, Ainsley, who is here with us today, and so shout-out there. Today's Subcommittee's first legislative hearing, where we will be focusing on two bills related to the Congressional Research Service and a resolution focused on the possibility of a new congressional commission on evidence-based policymaking is, as you said, Mrs. Bice, it is important that the legislative process, even at the Subcommittee level, be carried out to achieve our mission, and that mission is to modernize the institution. A Congress that is modern is a Congress that can be more efficient. Two of the bills we are looking at today will help modernize CRS and support the work of Congress, making our institution more effective. We will look into a possible evidence-based congressional commission to help ensure that Congress can successfully use agency data in its policymaking and oversight, and I look forward to seeing where these conversations take us today. Again, thank you to you, Subcommittee Chair Bice, Ranking Member Kilmer, for your work today, and our witnesses as well. Chairwoman Bice. Thank you, Chairman Steil. We now welcome Mr. Robert Newlen, the interim director of the congressional Research Service. Mr. Newlen has a 42-year career at the Library of Congress, holding leadership positions in CRS, the Law Library, and as deputy librarian of Congress. Mr. Newlen has also held a variety of positions in the American Library Association, which include serving as a member of the executive board and senior trustee of the ALA endowment. He was the recipient of the ALA Medal of Excellence in 2016 for, quote, creative leadership of high order, particularly in library management. He most recently served as the executive director and director of strategic initiatives of the Dwight D. Opperman Foundation in Phoenix. We appreciate your service, Mr. Newlen, and we appreciate you being here with us today. We are grateful for all of the work you have done and continue to do at CRS. A couple of housekeeping items. Please remember to press the button on the microphone in front of you so that the light is green. When you begin to speak, the timer in front of you will turn green. As previously agreed to by the Subcommittee Members, you will have 7 minutes for your opening statement. After 6 minutes, the light will turn yellow. When the red lights comes on, the 7 minutes has expired, and we kindly ask that you would please conclude your remarks. At this time, Mr. Newlen, I recognize you for 7 minutes. STATEMENT OF MR. ROBERT RANDOLPH NEWLEN, INTERIM DIRECTOR, CONGRESSIONAL RESEARCH SERVICE Mr. Newlen. I am not seeing a green light. Chairwoman Bice. You are good. Mr. Newlen. I am good? Thank you. Thank you. Chairwoman Bice, Ranking Member Kilmer, and Members of the Subcommittee, thank you for the opportunity to testify before you today, especially at your inaugural hearing, about CRS' need for legislative fixes that will support its modernization efforts and ensure access to Federal data and other information needed to effectively serve Congress. I have three goals today. First, I will outline some of the challenges CRS faces in securing from--securing information from Federal agencies. Second, I will make the case for the savings and efficiencies to be gained by transitioning to a digital-only Constitution Annotated. Finally, I will highlight CRS' progress with modernization over the past year and the initiatives the Service has undertaken to ensure that it continues to provide exceptional service to the 21st century Congress. It has been my honor to serve as the interim director of CRS. I have just completed 9 months, and it has been both rewarding and challenging. There is much more to be done, but I am confident that CRS is moving in the right direction, and it will be in a good place when the new director begins several months from now. My goal has been to identify areas of CRS' operation where we can reduce costs, add value, and maximize the return on the taxpayers' investment without diminishing service to Congress. I have also closely reviewed the recommendations of the Subcommittee which have guided my activities as director, and technology has been one of our highest priorities. I feel confident that the legislative initiatives discussed today support these goals. I believe strongly in institutional stewardship, and you might think of me as a loving critic of CRS. I am also mindful, Chairwoman Bice, of our conversation early in my tenure when we discussed the topic of return on investment for the resources invested in CRS, and that has been a guiding mantra for me. Thank you. CRS' mission is to provide Congress with timely, objective, nonpartisan research, analysis, and information. Access to the data and other information held by Federal agencies is critical to CRS' ability to effectively carry out this important responsibility. Generally, CRS has been successful in securing the information that it needs. However, there have been instances when the Service encountered resistance from Federal agencies. Agencies have responded with directions to CRS to file Freedom of Information Act requests, require disclosure of congressional office requesting the information, and requested confidentiality assurances. In other instances, agencies have ignored or simply refused the request. This sort of agency resistance can delay CRS' response to congressional clients and impede the Service's ability to inform and advise Congress utilizing the most authoritative information available. CRS' governing statute provides limited authority to enable the Service to address these challenges. CRS is authorized to make information requests to Federal agencies and requires those agencies to provide the requested information only when the request is, quote, authorized by a Committee, unquote, and then only when CRS is acting as an agent of the Committee. The limitation to CRS' work for Committees leaves the Service with no formal authority to acquire information it needs to support individual Member offices or to conduct anticipatory research and analysis. CRS' current information access authority originates from a time when Congress operated primarily under a Committee-centric structure. As legislative activity has become more dispersed, CRS' workload has expanded to include more requests from individual Member offices. In Fiscal Year 2023, for example, CRS responded to over 57,000 requests from individual Member and other congressional offices. Broader authority is required to ensure the Service's access to the information needed to effectively serve all congressional users. The authority CRS is seeking would be comparable to that currently provided to our sister agencies, CBO and GAO. CRS is also requesting elimination of the statutory requirement to publish the Constitution Annotated in hard-bound copy. I brought my own copy. You will have---- Chairwoman Bice. These are the only two copies that exist currently? I do not---- Mr. Newlen. Currently, the Librarian of Congress is directed by statute to print a decennial revised edition of CONAN after every tenth term of the Supreme Court and cumulative pocket part supplements every 2 years in between the decennial edition. The cost of printing these copies are significant to both CRS and the Government Publishing Office. Production costs for the 2012 version of CONAN, as you mentioned earlier, Chairwoman Bice, totaled nearly $1 million, primarily in GPO. As you know, CRS, in collaboration with the Law Library of Congress and the Library's Office of the Chief Information Officer, launched a new website for CONAN in 2019. The site features a search capability and hundreds of pages of constitutional analysis and content prepared by CRS' legal staff. The website has been overwhelmingly successful since its launch, and it has received over 50 million views. Given the success of the CONAN site, CRS has requested amendment of CONAN's authorizing statute to require its preparation in digital form only. Transition to a digital-only Constitution Annotated would provide significant savings in time, labor, and taxpayer dollars, and permit CRS to better deploy its resources toward the production of content for future enhancements of the website. Modernization initiatives--since I have just a short amount of time, I am going to go through those. We have been very actively pursuing interactive graphics, infographics, and story map prototypes. We are exploring many projects with artificial intelligence applications. I will be happy to tell you more about those. We are working to strengthen our data and analytics capabilities. We also feel very privileged to participate in the new Agency Connection Center in the Longworth Building. This is going to be a wonderful form of outreach, and we are very grateful for having you include that. In conclusion, I want to express my appreciation to the Librarian of Congress, Dr. Carla Hayden, for the opportunity to once again serve alongside CRS' talented staff. A constant in CRS is the staff passion and dedication to serving the Congress. On behalf of my--excuse me, am I hoarse--on behalf of my CRS colleagues, I want to thank the Subcommittee for its continued support, and I welcome your questions. Thank you.  PREPARED STATEMENT OF ROBERT RANDOLPH NEWLEN  Chairwoman Bice. Thank you, Mr. Newlen. We will now begin questioning, and that will start with me, followed by Ranking Member Kilmer, and then we will alternate between Members. Any Member wishing to be recognized can signal their request to the chair. At this time, I will now recognize myself for 5 minutes of questions. Mr. Newlen, CRS has sought expanded access to agency data at least since the 112th Congress, as we can best tell, when legislation was last introduced to try to address this issue. Your testimony addresses what improved data access will do for CRS and for Congress. Can you give a little bit of color to what CRS will not do with expanded access to this authority? Mr. Newlen. Thank you for that question. We are very mindful of several things, first, security of the data and transfer of the data within the agency. We have been working with our chief information officers here today to ensure that the data meets all the security standards of the Library of Congress which are extremely stringent. As always, we will maintain that data in a confidential manner. Chairwoman Bice. Can you address the potential concerns about expanded access leading to, quote/unquote, fishing expeditions that could be more politically charged requests from Congress? Mr. Newlen. Certainly. Can you repeat the question, please? Chairwoman Bice. Sure. I want to make sure that his microphone is working properly. Are you able to--great. OK. Thank you. Would you be willing--or would you be able to address the potential concerns about expanded access to data leading to, quote/unquote, fishing expeditions or more politically charged requests from Congress? Mr. Newlen. Yes. Thank you. When Members of Congress or Committees make requests, we do not ask them how they are going to use the data. We may ask them if it would help us in the research process, but--is the light not coming on? Okay. Apologies. Chairwoman Bice. There we go. There we go. Mr. Newlen. Yes. The---- Chairwoman Bice. You said you were going to allow them to request the data without asking them what the data would be used for. Mr. Newlen. If they--if we think it is important to know, then we will ask, for the research process, but generally that is not necessary. As with everything we do, it is always confidential, and we do not share the information with anyone outside of the Service or the Member or Committee office. Chairwoman Bice. Thank you. At this time I will recognize Ranking Member Kilmer for questions. Mr. Kilmer. Thanks, Madam Chair. You know, this issue around data access and, you know, how to make sure CRS is getting what it wants. You know, Dr. Glassman mentioned in his written testimony that the new authority would be more effective if it was paired with an information campaign such that the agencies understand their obligation to provide CRS with such data. Any thoughts on how CRS might actually do that and how Congress can help you do that? Mr. Newlen. Yes. Thank you. The first thing we would do if we had this authority is use it with pending requests that we have with several agencies right now where we are having a lot of problem moving forward. They set up all kinds of roadblocks. I can give you one example of one agency. I will not say the name of the agency. I will be happy to share it with you in private, but I do not want to jeopardize our talks, but they told us at one point that they considered CRS analysts as the same thing as press. We have had substantial conversations with them to change that. It has really--it has really been very difficult. Mr. Kilmer. Yes, I wanted to--I think we can only just look at this, and it kind of makes the case for the bill. You know, I think oftentimes, you know, when something gets put on a site, it is only as valuable as its ease of search and the ability to navigate, and, you know, if it is visually interesting, and if it is accurate. If this bill passes and CONAN moves to a digital-only format, you know, any guidance on what--on how CRS will approach that to ensure that the digital version is, you know, state-of-the-art in its presentation and its usability? Mr. Newlen. Yes, absolutely. The big advantage of the digital version is, is that it is always up to date. This, the moment it came out, it was outdated. There have been Supreme Court decisions since this was printed that are not here. Speaking as a librarian by training, most librarians would never put this book on their shelf because they would be concerned---- Mr. Kilmer. There is no room for it. Mr. Newlen. That is a big concern too--because they would be concerned that a patron might look at this and think this was the authoritative source, which it is not. The advantage of the online version is, is that we can link directly to Supreme Court cases. We have embedded links. The other thing is that we update this very quickly. If there is a court decision that impacts the Constitution, our lawyers, headed by Sanchi Jayaram, who is with us today, head of the American Law Division, updates this immediately so that we have real-time information on the data base. We have devoted considerable assets to ensuring that the virtual version of CONAN is up to date and in good shape. We always welcome feedback from anyone. It is easy to do on the site, and we are very responsive to those concerns. Mr. Kilmer. The final thing I want to ask about, you know, this conversation around this behemoth, as the chairwoman called it, is actually a good sort of segue into another thing that we have been working on, which is the In Case Act, because it both touches on making sure that there is information that is up to date and accurate, and, two, it is an efficiency measure, you know, the In Case Act would require Federal agencies to provide better agency contacts to CRS, and CRS, in turn, could share that information with House offices, you know, so that policy staff, so district casework staff could be able to find the people that they need. That was built upon the existing CRS report that details some agency legislative affairs contacts which we found sometimes either lacks the needed information or has outdated information, and that means our staff and Committee staff and Member office staff are spending time trying to track down information individually, agency by agency, or even contacting someone who no longer works at the agency by mistake, you know, which can cause delays in getting technical assistance, which can delay a constituent's casework claims and more, so--and it would help us implement one of the open recommendations of the Modernization Committee. One, just an invitation, we would love to find a way to work together on this with you, and I would love to hear if there is other thoughts that you have about ways to improve efficiencies that you are pursuing at CRS. Mr. Newlen. Well, thank you. That report is--the congressional Liaison Report is our most popular report. It gets more hits than anything else. I think that you are right on target, Mr. Kilmer, because there is a huge interest in that, and we would welcome the opportunity to explore how we might do that. We have done some preliminary thinking about it in terms of the resources that would be necessary and what--how--what the governance structure would be of it. We welcome the opportunity to sit down with you and your staff and see how we can improve on that---- Mr. Kilmer. Great. Mr. Newlen . access to that kind of information. Mr. Kilmer. Thank you. Thanks, Madam Chair. I yield back. Chairwoman Bice. Thank you, Ranking Member. At this time I recognize the Chair of the full Committee, Mr. Steil. Chairman Steil. Thank you, Chair Bice. I have two questions I want to dive into. One, I would love you just to comment briefly about how the requests that come from Members and staff to CRS have changed over the past 20 to 30 years. Mr. Newlen. Certainly. Well, with the advances in technology, the first thing that I would observe is, is that we no longer have those kind of simple reference questions: population, addresses, that kind of thing. People are finding that themselves with Google and other tools. What we are experiencing is that the questions are harder, and it takes sometimes longer to answer the kinds of really detailed reference questions that Members have. One thing that has been a constant is the continued interest in analysis and providing options to the Congress concerning legislation. That is something that has been kind of a constant throughout the history of CRS and something that we devote a lot of resources to, to ensuring that we have the right analysts in place, which is not always easy. At the present moment, we have a number of positions that are outstanding in our resources, science, and industry section, and we look forward to filling those in the near future. Chairman Steil. Thank you. Let me jump into the second point. We talked a lot about getting the data and data access to you. The second side of that I think is, as Ranking Member Kilmer was referencing, is, how do we utilize the data, how do we present it? Can you walk through just a little bit about how CRS is positioned to take advantage of the data if it arrives? I am thinking about data dashboards, presentation aspects, training, visualization, other aspects that you have spent time on or other tools that you may need in that regard. Mr. Newlen. Absolutely. Well, one of the studies that gave us really, really good direction was a RAND study done several years ago. It suggested that we start looking at newer analytic methods, which we are doing, and also looking at cloud-based solutions, which of course are very expensive right now. That was one of the recommendations. The other one was to apply newer data-science methods, and we have begun that process. We have--we have some of the, I would say, good staff that know how to manage that data, but we also have a request outstanding at the moment in an effort--for about 3 million to continue that effort so that we have the ability to manage big data. Chairman Steil. Thank you. Thank you very much. I appreciate the work you are doing over at CRS. It is a spectacular resource, and I appreciate the work you, Chair Bice, and Ranking Member Kilmer are doing as we look to continue to enhance the work and modernize it. I will yield back. Chairwoman Bice. Thank you, Mr. Chairman. At this time I will recognize Mr. Carey for 5 minutes for questions. Mr. Carey. Well, thank you for being here today. I would like to focus a little bit on AI, if that is alright. Mr. Newlen. Yes. Mr. Carey. CRS' modernization initiatives as it relates to AI, can you tell us more about the working group and particularly the work in exploring how AI might be used to expedite bill summary process? Mr. Newlen. Yes, absolutely. We are very excited about artificial intelligence, but like everyone, we are taking it-- we are moving cautiously to ensure that any information that we get from AI is--meets all of our standards of nonpartisanship, authoritativeness. We have a number of things in place right now. The working group looks for opportunities in CRS processes for short-, medium-, and long-term projects that we might use. We also coordinate very closely with the Library's Office of CIO, with their AI working group. Right now, we have dipped our toe in the water, and one of the things that we are very excited about is a process that we are looking at right now to develop five models that would help us with bill summaries. We have a huge backlog of bill summaries and analysis for Congress.gov. We think there is potential for AI to help us with those summaries, so we are exploring these five models as we speak. We have a whole set of criteria that have to be met, and our hope is, is that we can implement this soon so that our staff can spend more time on the analysis, which is the, you know, the really hard work, and less time on the summaries. At the same time, we have to be absolutely assured that that information is a very high quality. You may be familiar with the effort that Politico did recently with AI, and we actually took some of the examples just to kind of see if they were accurate, and they did not pass the test. This is a good caution for us to ensure that we always have the best data available. Mr. Carey. I mean, it is definitely something that, you know, I think it is finding its way into Members' offices and often with the staff, but--so another question. How is CRS making Members and their staff aware of its new visually based products? Mr. Newlen. We are doing several things. At the present time, we are doing new work on our CRS website for Members and staff, and we have been doing some development. I decided that we needed to take kind of a harder look at this, do some more consultation, and one of the things that we want to feature prominently are infographics, interactive graphics, and story book maps. That is going to be one of the primary ways. We also have a number of outreach efforts that we do through our divisions to client bases. They send out weekly information about new reports that CRS is doing in areas that they are interested in, and we feature those topics--or feature those kinds of products with infographics. One thing that would be helpful to us is--we would like your help as well--if there is any kind of forum where we can-- where CRS can be to talk about our services, to talk about the kind of innovative products that we are offering Congress, we would be very, very grateful. Mr. Carey. I would add to that, you know, I came in in a special election. Now, I am former staff. I was staff, and then--you know, I hate to say when I was a staff, but a long time ago--but, you know, the thing that I have--the services that you provide are remarkable. You know, we have a number of Members that have left, and we have got a bunch of new Members that are going to be coming in as, you know, special elections. However we can work with your offices, because, you know, the thing about when you come in as a special election, all your staff is--you do not have any staff, you know. As you start getting those team members that come in and join your team, it would be great to work with your office to make sure they are well aware of the services and the things that you provide, so---- Mr. Newlen. Absolutely. We would be very happy to work with your office to give you a really in-depth orientation as we would give any new Member. Mr. Carey. Well, I am more concerned about the ones that are coming in, in the future, because I know we have talked about this--I know the chairwoman and I have--about orientation, and when you are in the special election, you do not have that. You know, it is just like, here is your hat and what is your hurry, right? As we bring these new Members in, I would like very much to make sure they coordinate with you, so---- Mr. Newlen. Well, this is something at the front of our priorities right now, and that is the new Member seminar, that we work with the Committee as soon as the new Members are inducted, we take them to Williamsburg, Virginia, and have 3 days of policy seminars, discussions about legislative process and procedure, budget process. It provides an opportunity for Members to get to know CRS staff and their capacity, and there is no one else present for distractions--no staff, no press--it is a very, very good program. Mr. Carey. I would be remiss if I did not ask this question, but what other areas that you guys are doing--I know you have done a lot with AI, you have done a lot with visually--but in terms of cost-savings as it relates to your organization, improved efficiency, what are some of the things that you are doing with CRS? Mr. Newlen. Well, thank you for asking that question. I did not answer Mr. Kilmer's question very thoroughly, so I am glad that you have posed it. When I came, when I started at CRS, I had 13 focus groups within the span of 5 weeks, where I met with staff in an informal situation to--and this is the question I posed to them: What is it that I can do in the short time that I am here to help you better serve the Congress? They came through with a lot of--a lot of different ideas. For those that did not want to participate in a forum, I encouraged them to send emails, and I got 400. I took all of that information and started looking at what are low-hanging fruits in terms of efficiencies that we can get. I will give you a couple examples. The staff were using a Zoom account, which, you know, our bread and butter is consultations with Members and staff, whether it is in person or virtually. They, unfortunately, had the lowest priority Zoom account. At 40 minutes, it would cutoff. They have to go back--well, you can imagine the embarrassment if you are doing this with a Member of Congress. Within a week, thanks to our--the Library's technology office, everybody in the Service has a Zoom, that needs one, has a Zoom Pro account. The other thing that I discovered was--actually, two other things. Because we have so many deadlines, and one of our, you know, hallmarks is responsiveness, there was a lot of concern about IT support in our divisions and offices and frustration with getting things resolved very quickly. Everything we do is deadline-driven. You know, if your printer is not working, your software is not working, we use all kinds of different software throughout the Service depending on the policy need. We get a pilot where we embedded technicians in the Service unit and the offices, and I can say that it has been 100 percent successful. It has reduced the time, in terms of efficiencies, and the frustration that our analysts, attorneys, and librarians have in getting their problems resolved. The other thing which has been wonderful, was a big complaint, was cell coverage. I will give you one example that I think is very graphic. I was walking by an office of one of our Government and finance analysts who routinely does briefings for Members, and I saw that she had her cell phone hanging in the--like on the hinge of her door. I said, Val, what is going on here? She said, well, that is the only place in the office that it will ring. I said, you cannot be serious. She said, yes, when I answer it, I stand there, and then I tell the person I have to go out so that I can call you back. Well, that was ridiculous. Again, working with Judith Conklin and John Rutledge in our Office of CIO, they have done all kinds of things to upgrade that, Wi-Fi extenders, which has, again, improved efficiency and also improved morale. Mr. Carey. Well, and just to go back to your thing. If for some reason you are on a Zoom and you cutoff after 40 minutes, I am a firm believer that the mind can only handle what the seat can bear, so that 40-minutes timeframe is probably not a bad thing, so---- With that, I really appreciate your testimony. I had an opportunity to read through it, and thank you for being here today. With that, Madam Chair, I yield back. Chairwoman Bice. Thank you, Mr. Carey. A couple of just quick comments. You mentioned the Williamsburg visit, getting the Members together and having a conversation about some of those things. I think, unfortunately, as a Member of the 117th congressional class, we unfortunately did not have that opportunity, which I think would have been fantastic. I would also say, I think it would be helpful to have some of those things with staff, because you all, especially your analysts, are interacting with staff so much more than even the Members directly, and I think that we can hopefully try to find some ways to work with your team to find the opportunities to put you all together in person. The second thing is, you mentioned AI, and I think that looking at whether or not we have the opportunity to utilize AI to create those bill summaries is really, I think, important. I also agree with you, that caution has to be had, though, because if we were participating or listened to the hearing yesterday, which was really about AI and the legislative process, there was a lot of conversation around inaccurate information being presented. I think that I look at it as sort of a garbage in, garbage out, right? Whatever you put into that AI platform, if it is not, you know, sort of vetted and thorough, then it is going to come out incorrect, and the human oversight of that, not only on the front end, but also as the product is produced, is going to be really important. I appreciate you sort of recognizing those pitfalls that have the potential to be problematic for you all. One last final question before we wrap up this quick segment, and that is, you know, you talked a little bit about some of the agencies that have been less than forthcoming with providing data to you. Have you had any pushback from other entities that do not want you to have this data for some reason? Have they been really forthcoming to say, we do not want to give this to you, and what was their reason for that if they did? Mr. Newlen. Probably less that they--they have not been upfront about saying they do not want to give it to us, but the reality is, they do not want to give it to us. They use different ways of, you know, throwing up roadblocks, requesting MOUs. They want to know which office that we are, you know, working for. You know, often we are doing anticipatory work, so there is no office. Often a Member, to answer a request, we need data from an agency, and we have had some negotiations that have been going on for several years. That is why I am so delighted that the Subcommittee has taken this up because this could be a huge--a huge improvement for us. Again, it is something I heard from our analytic staff about the frustration that they have, and it impacts our service to you. Chairwoman Bice. Sure, yes. Mr. Newlen, thank you so much for being with us this morning. We appreciate your time and your testimony, and look forward to continuing to move these initiatives forward. At this time we will pause briefly to set for the second panel of witnesses. Thank you for your time. Mr. Newlen. Thank you. Chairwoman Bice. I will now introduce our second panel of witnesses. Our first witness is Ms. Elise Bean, the director of the Washington office of the Carl Levin Center for Oversight and Democracy at Wayne State University Law School. Ms. Bean worked as an investigator for Senator Carl Levin for 30 years, including 15 years at the U.S. Senate Permanent Subcommittee on Investigations as staff director and chief counsel. After leaving the Senate, she helped establish the Levin Center, and now works to help legislators and staff conduct oversight investigations. Next, we welcome Dr. Matthew Glassman, a senior fellow at the Government Affairs Institute at Georgetown University. Prior to joining GAI, Matt spent 10 years on Capitol Hill at the congressional Research Service, including 2 years as a detailee to the legislative branch Subcommittee on the House Committee on Appropriations. Our final witness is Dr. Nicholas Hart, president and CEO of Data Foundation. Previously, Dr. Hart served as the director of the Bipartisan Policy Center's Evidence Project, building on his work as policy and research director for the U.S. Commission on Evidence-Based Policymaking. Thank you to our second panel of witnesses for being with us this afternoon. Please remember to press the button on the microphone in front of you so the light comes on, and when you begin speaking, you will have 5 minutes. After 4, the light will turn yellow, and when the red light comes on, your 5 minutes have expired, and we would kindly ask that you please wrap up your comments. At this time, I am delighted to recognize Ms. Bean for 5 minutes. STATEMENTS OF MS. ELISE BEAN, DIRECTOR, WASHINGTON OFFICE, CARL LEVIN CENTER FOR OVERSIGHT & DEMOCRACY; DR. MATTHEW GLASSMAN, SENIOR FELLOW, GOVERNMENT AFFAIRS INSTITUTE, GEORGETOWN UNIVERSITY; AND DR. NICHOLAS HART, PRESIDENT AND CEO, DATA FOUNDATION STATEMENT OF MS. ELISE BEAN Ms. Bean. Subcommittee Chair Bice, Ranking Member Kilmer, and the Subcommittee Members, thank you for this opportunity to support the Subcommittee's efforts to modernize and strengthen the congressional Research Service, especially because CRS strongly supports congressional oversight. As you mentioned, I represent the Carl Levin Center for Oversight and Democracy, which is part of Wayne State University Law School in Detroit. Senator Levin used to say, ``Good Government requires good oversight.'' He also appreciated the fact that the Supreme Court has long recognized Congress' need for information to carry out its constitutional duties. Nearly 100 years ago in an 8-0 opinion upholding a congressional subpoena seeking information related to the Attorney General, the Supreme Court wrote, quote, ``The power of inquiry, with process to enforce it, is an essential and appropriate auxiliary to the legislative function. A legislative body cannot legislate wisely or effectively in the absence of information,'' end quote. The Supreme Court recently explicitly reaffirmed those principles in 2020 in the Mazars case. Investigating facts, what happened and why, and analyzing complex problems are at the heart of congressional oversight. They are critical to Congress' work to enact effective legislation, allocate Federal funds, inform the public about what its Government is doing, and act as a check on the executive branch. Sixty years ago the Supreme Court held that, quote, ``it is unquestionably the duty of all citizens to cooperate with the Congress in its efforts to obtain facts needed for intelligent legislative action,'' end quote. The duty to cooperate with congressional information requests, including through CRS, applies to Federal agencies no less than others and is fundamental to the checks and balances envisioned by the Constitution. CRS has long played a key role in helping Congress gather facts and conduct effective oversight. CRS employs hundreds of experts whose sole responsibility is to answer questions and provide research requested by Congress. CRS has also built a reputation as a source of nonpartisan, reliable information trusted by both sides of the aisle. It produces a wealth of data in service to Congress. Its latest annual report states that in fiscal 2022, CRS responded to over 73,000 congressional requests for information. Senator Levin's staff made frequent use of CRS. To offer one example, some years ago, Senator Levin wanted to investigate how you set gasoline prices. At the time, his staff knew very little about the subject, so we called in CRS' experts who provided multiple briefings to educate both sides of the aisle at the same time on key facts: how the gasoline market worked, what factors affected price, where do you get data on gasoline prices over time, and much more. It was invaluable assistance given our limited staff, our limited resources, and limited time. CRS was a force multiplier. That is just one example. The CRS annual report includes a list 65 pages long of reports and other written products issued during a single year on a vast array of topics for Congress. Examples include U.S. Immigration Courts and the Pending Cases Backlog; The Dark Web: An Overview; a primer on China and Hong Kong; Cost-Benefit Analysis in Federal Agency Rulemaking. To produce those types of reports, CRS needs access to data held by Federal agencies. For over 50 years to obtain agency information, CRS has relied on the Federal statute, 2 U.S.C., section 166, which requires Federal agencies to comply with CRS information requests when those requests are authorized by a Committee. It is time for Congress to modernize that law. One of the bills under consideration today would do just that. For example, the bill would extend CRS' authority to obtain agency information, not only when CRS is authorized by a Committee, but also when authorized by an individual Member of Congress or when CRS itself anticipates Congress will need the information. The bill also states explicitly that agencies must produce information in, quote, ``a timely manner,'' end quote. The improved statutory language would not, of course, cure all of the problems that CRS faces with agencies. This Subcommittee and other House and Senate Committees will still need to lend CRS a helping hand by overseeing agency compliance with the law. At the same time, enacting a stronger statute would send a clear message to the Federal agencies that they are expected to comply with CRS requests. CRS is one of the few institutions dedicated to supporting the work of Congress, including congressional oversight. It is also one of the few institutions trusted by both sides of the aisle. In return, Congress should support CRS. Equipping CRS with better legal authority to obtain the information to which Congress is entitled under the Constitution will benefit every Member of the House and Senate. Thank you.  PREPARED STATEMENT OF ELISE BEAN  Chairwoman Bice. Thank you, Ms. Bean. At this time, I recognize Dr. Glassman for 5 minutes. STATEMENT OF MATTHEW GLASSMAN Mr. Glassman. Chairwoman Bice, Ranking Member Kilmer, Congressman Carey, thank you for the opportunity to testify today. As you mentioned, I am a senior fellow at the Government Affairs Institute at Georgetown University. I am also an alum of the congressional Research Service where my portfolio consisted of institutional issues in Congress, including congressional operations, budget and appropriations process, and separation of powers. I am a legislative branch patriot and committed to the goal of a modern, capable, and powerful legislature. I strongly support the proposed legislation to expand CRS' access to data from the executive branch. I want to make four points today: First, access to data is vital for CRS. CRS' mission is to provide Members and staff nonpartisan, objective, authoritative, and timely research and analysis. To do this, CRS analysts use data from a wide variety of Government, academic, and private sector sources. There is simply no way to do high quality research and policy analysis without data. During my time at CRS, I do not think there was a single day where I did not make use of the vast data collections available to me at CRS or in the Library of Congress. More than once, I held my breath while looking for what I needed within CRS, knowing that if I did not find it there, I was going to have to head to sources outside the library where the wait would be longer and the results unknown. Second, during my time at CRS, I often experienced frustrating difficulties obtaining data from the executive branch. In rare cases, I was simply told by a Federal agency I could not have the data. More often, my point of contact was not sure whether they should share the data with me. In many cases, they were not even familiar with CRS. Where are you calling from? Is that a Government agency? was a very common response. Many of these contacts, quite reasonably told me they would have to check with their supervisors. My data request, presumably a pretty low priority on their busy agenda, was often forgotten until I called back 3 days later, only to have the entire process start over again. For data that I would be requesting on an ongoing basis, my usual strategy was collegial. I would try to make a friend at the agency. In this sense, I often felt like I imagined journalists feel writing stories. I always felt like I was asking someone to do me a favor. To be clear, in most cases where I sought data from the executive branch, I eventually was able to get it, but the time it could take, the hassle of the process, and the possibility of ultimately not getting the data often led to a worse CRS response for Congress. Third, the proposed legislation we have here today will improve the situation, especially if it is well-implemented. I fully support H.R. 7593. Requiring executive branch agencies to share information for all requests, not just Committee requests, will give CRS analysts and management a firm leg to stand on when requesting this data from the agencies. For high-profile data requests that management gets involved in negotiating, the new authority will be extremely helpful on its own, and it will be great for a CRS analyst to be able to politely point to statutory language in emails and phone calls requesting data. That said, I do not believe the statutory authority alone will fully solve the problem. As noted earlier, the stumbling block for me was often timeliness due to agency unfamiliarity with or uncertainty about their obligations. Consequently, for many analyst-to-agency simple data requests, the new authority would be most effective if it is paired with an information campaign. Perhaps starting with the leg affairs shops at the agencies, such that the agencies understand their updated obligations to provide CRS with data. Finally, the need for these data access authorities should be seen as a first step toward broader statutory reform for CRS. The CRS organic statute was last substantially revised in 1970. The reforms under consideration today suggest the entire statute could use review. Congress has changed significantly in the last 50 years. Two quick examples: First, in 1970, policymaking was strongly centered in the Committee system controlled by powerful old bull chairs and built on top of a strict seniority system. In that atmosphere, it was natural to organize a support agency like CRS around the Committees. Times have changed. The relative power of the Committees has weakened, and policymaking roles have expanded far outside the Committee system. CRS requests for analysis now routinely come from all corners of the Hill: Member offices, leadership, CMOs, even informal working groups. Second, technology. The 1970 Act could not have foreseen the explosion of digital information and communications available to Members and staff, all on computers carried in their pockets. This has made some of CRS' statutory mission seem plain anachronistic, such as providing Committees at the beginning of Congress with lists of policy areas they may want to study, while also in some ways, making CRS more distant from the Hill as emails and pdf reports have replaced face-to-face briefings and physical information delivery. Updating the CRS statute to adjust to these realities will better focus the mission of the service and allow it to better serve the Members. Thanks for having me here today, and I look forward to your questions.  PREPARED STATEMENT OF MATTHEW GLASSMAN  Chairwoman Bice. Thank you, Dr. Glassman. Finally, Dr. Hart, you are recognized for 5 minutes for an opening statement. STATEMENT OF NICHOLAS HART Mr. Hart. Thank you. As someone who has spent most of their career in the executive branch, I am happy to say I know what CRS is. Thank you for the invitation to join today's hearing. As you noted, I lead the Data Foundation, which is a nonpartisan national nonprofit that works to improve Government, business, and society through open data and evidence-informed policy. I am really pleased to be here to share perspectives about the use of data and evidence to support Congress. I get to zoom out of it. Because Congress needs data, it is actively using evidence and really always has. As the world, country, and Congress change, Congress really needs to review, as an institution, whether it is actually receiving the right kinds of data and evidence to support effective oversight and decisionmaking. Importantly, our value systems are actually part of how each of you, as Members, represent the values in our Democratic Republic, and that is actually vital to decisionmaking and our success as a country. That is a very important input that we should not miss. Evidence must have a seat at the table. It must be a key seat. Congress, as an institution, needs to have procedures and processes to access what Members and staff actually need to fulfill effective legislative and oversight functions. In a sense, we are aspiring to align the best available evidence in decisionmaking for the legislative process. Ensuring Congress has the data and evidence it needs at the right time and in the right format for decisions requires planning and coordination, and even a sense of humility about what we want and need to know. Evidence helps determine, as Mr. Kilmer was alluding to, whether, how, when, where, and for whom policies work and also helps describe the conditions and solutions that we want. We have seen lots of bipartisan examples over the years. I alluded to some in my written statement, including things like the bipartisan negotiations that achieves solvency for the social security disability trust fund back in 2015, along with major reforms for the program. We are talking right now about the child tax credit expansions and improved evaluations for tax expenditures. A major point of discussion that we desperately need, and we know from the CTC that it has impacts on reducing child poverty. Using evidence should be easy for decisionmakers and not challenged by institutional processes and barriers to access. This is why I strongly endorse the congressional Evidence- Based Policymaking Commission resolution--a mouthful. A broader cohort of the data and evidence community will also agree with us. Establishing this Commission is a low-cost, rapid mechanism for addressing the question of how Congress can establish capacity, process and procedure to better use data and evidence. There are so many resources today that already exist to do this, and the question is, how can we better achieve this goal through congressional support agencies and executive branch agencies? A prior evidence commission back in 2017, established by then-Speaker Paul Ryan and Senator Patty Murray, focused on ways to drastically improve executive branch capabilities through data infrastructure and evidence capacity. They achieved unanimous recommendations. Because of the Ryan-Murray Commission and those unanimous recommendations, Congress passed the Evidence Act, the foundations for Evidence-Based Policymaking Act. It includes Congressman Kilmer's Open Government Data Act, and Congress later passed the National Secure Data Service Authority. The Ryan-Murray Commission directly led to an improved understanding of what evidence is, established new leadership roles, like the chief data officers and evaluation officers to coordinate with senior leaders, new data strategies and data governance in agencies, new data sharing projects and evaluation, advanced data governance with privacy improvements, and planning for evidence through learning agendas resulting in OMB defining evaluations, a core function of Government. There is even an expectation of open data by default in the executive branch. This is a lot, and all of that happened over the last 5 years, but did not necessarily align with the congressional support function and the timing of decisions in Congress. That means there is a lot to think about for this institution and in Congress. Congress still needs to think about its capacity and what infrastructure it needs, noting the 50 years--50-year-old design and gaps that currently exist. Should Congress have a CEO, like it mandated for executive branch agencies, how do we think about CRS data access noting that the executive branch is building out a standard access portal for data access? How do we think about engagement and transparency? There are so many other issues that a congressionally focused commission can think about. The Commission offers an opportunity to support Member and congressional staff in the endeavor to produce and encourage good policy outcomes for the American people. Congress needs a coherent, depoliticized discussion about the process and accountability of evidence, specifically, what it wants to function better as an institution and using knowledge starting with the question. I encourage Members to advance this congressional Evidence Commission to support this discussion and planning for ways to strengthen Congress in the years ahead. Thank you.  PREPARED STATEMENT OF NICHOLAS HART  Chairwoman Bice. Thank you, Dr. Hart. Ranking Member Kilmer is, as we often are, floating between Committees right now, so he will return shortly. We will start with questions, myself first, and then we will try to move around. First of all, thank you all again for being here this morning/afternoon. We appreciate your time. I want to start--you mentioned something toward the end of your testimony that I think ties in perfectly with the question I have here, and I will open it up to everyone on the witness panel, and that is, Dr. Hart, your testimony calls for depoliticized discussion of how Congress can use evidence to better function as an institution using the knowledge being gained. Certainly, that is a very admirable goal, but how do you get around the fact that data can be used to promote sort of partisan aims? How can we be certain that the data being presented is not biased, especially when both sides point to data in these policy debates? Mr. Hart. A major component of this is thinking about how we transparently share the information evidence that we are using, and this is actually one of the pillars of Evidence Commission, the Ryan-Murray Commission when we talked about evidence-based policymaking. Transparency was one of the five pillars, and in the executive branch, this is something that we have encouraged, promoted as we are talking about sharing more information from the American public. It is one of the reasons that we promote openness of data. It is not to say that we will never have different views about what data mean and what data analysis means, but the more that we are able to share and have open and honest dialogs about the information that is in front of us, the more we can have a productive discussion about what problems are really there and how to solve them. This is one of the reasons that the Open Government Data Act is such a powerful piece of legislation that should be something that Congress is interested in providing oversight of and we should be moving forward with. It is a topic in front of us. Chairwoman Bice. Thank you. Ms. Bean, you mentioned in your testimony the 65 reports that are done annually by CRS that provide an, I think, incredible amount of information to us, and it is one of the things I think is maybe most overlooked, as Members and staff, that these reports are done and are out there for our viewing pleasure, but also to gain insight for. My question to you really revolves around why do support agencies have their data access authorities detailed in statute? Ms. Bean. Well, I think there are two reasons: First, we are a Nation of laws, and so it is very helpful for an agency to have a very clear, strong law that it can point to that enables it to get the information that Congress needs. I think that is sort of one reason it is important to have that kind of statutory foundation. Another reason is that Congress, you know, needs information for virtually all of the things that it does, whether it is enacting legislation, spending taxpayer dollars, overseeing the executive branch. It needs that information. We want to provide that strong foundation for its support agencies to act as those force multipliers to help the staffs that have limited resources and limited time get the information they need. Chairwoman Bice. Excellent. Dr. Glassman, understanding that you were actually at CRS a while ago, my question to you is, may be a little more technical, and that is: Do confidentiality agreements between analysts and their congressional clients prevent analysts from sharing those raw datasets that they may be given by the executive branch? Mr. Glassman. You mean, confidentiality between an analyst like myself and a congressional requester, such as you? Chairwoman Bice. Correct. Mr. Glassman. You know, confidentiality at CRS is airtight between CRS, the agency, and the office of the Member or the staff requesting. I always thought about it as that was the baseline. I would never tell anyone outside the office I was working for or CRS what was going on. I would certainly talk to other analysts and ask them to help me on something. Unless the requester specifically said do not talk to anyone else in my office, I would think it would be sort of fair game to talk to someone in their office. In terms of data coming from the executive branch, when I had it, I never used it in terms of handing over raw datasets. In fact, often, when I was dealing with the executive branch, that. Would be the one condition they would want on the data, I would say. Well, we will give it to you, but you are just using this to write a report with analysis, right? I would say, yes, and then I would do that. Then I would have the data, and I would continue to use it for that purpose. I would never transfer sort of large-scale data to Congress. I think I would probably be very weary of doing that without sort of getting my supervisor involved or discussing it further with the agency, the requester. Now, I often wrote things, analysis pieces that were confidential to Members who I then went back later and said, Hey, I have another client who might be interested in similar things. Is it OK if I share that with them? That happened routinely, and I almost never had anyone say no to that. I would think that that would be how I would handle these sort of data things. You know, I think it is understandable if you are taking massive raw datasets from the executive branch agencies. I think they would be concerned about this, and I think I would be, too. Chairwoman Bice. I think for many looking at this issue, they want to make sure that that information may not be shared specifically or directly with, you know, either Members or staff, but still the information that is provided there within is given to you all and then you all can sort of translate that, put it into those papers, and provide us the data that we are asking for. Yes, perfect. Thank you for that. Since Mr. Kilmer has not returned yet, I am going to move over to Mr. Carey for 5 minutes of questioning. Mr. Carey. I appreciate that, Chairwoman. You know, one of the things that--it is interesting being former staff. Ms. Bean, you worked for Senator Levin for a number of years. Ms. Bean. Thirty years. Mr. Carey. Thirty years? Ms. Bean. Yes. Mr. Carey. See, you know, that is where AI should do a better job when they ask the questions because they said decades of experience. I would not have gone there, but. As somebody who watched his career, I mean, everybody knows about his service on the Armed Services Committee and all the things that he did, but truly was a champion for pensions and healthcare for retirees, a rare gift these days. Glad you are continuing his legacy. With your decades of experience and oversight and managing, can you lay out for us, in straightforward terms, what Congress is legally entitled to obtain from the executive branch? I know you worked on this with agencies and departments. Ms. Bean. Well, the Supreme Court has been very clear that as long as Congress has a legislative purpose, Congress has broad authority to obtain information. The Supreme Court first affirmed Congress' authority to conduct oversight of the executive branch nearly 100 years ago in McGrain vs. Daugherty, and it reaffirmed that authority in 2020 in the Mazars case. Here are some direct quotes from the Supreme Court in Mazars: Quote, ``congressional power to obtain information is broad and indispensable,'' end quote. Quote, ``It is the proper duty of a representative body to look diligently into every affair of Government,'' end quote. Quote, ``Unless Congress have and use every means of acquainting itself with the acts and disposition of the administrative agents of the Government, the country must be helpless to learn how it is being served,'' end quote. The Supreme Court could not have been more clear about Congress' right to obtain information for a legislative purpose from the executive branch, and that includes when Congress is enacting legislation, overseeing the executive branch, and it includes information requests from its support agencies since the only reason they are asking is to assist Congress. Mr. Carey. Let me go into that. Given the reality of the executive legislative relations, do you think that changing CRS' statute would make a difference? Ms. Bean. I do. I mentioned before that we are a Nation of laws, and one of the first things executive branch agencies like to know is, Well, what is your legislative authority? What is your statutory authority. Having that strong, clear, statute would make a difference. A strong Congress needs a strong CRS operating under strong statutory authority. Mr. Carey. I cannot remember whether it was you, Dr. Glassman, or Dr. Hart. In reading your bios, I know we have a real--we have a very educated body that we are asking questions to. What is it that we can do as Members of Congress that can help CRS be--help the agencies understand the role of CRS? Because that is--you know, you get young staff that comes in, and whether it is, you know, here in the Capitol or whether it is in an agency, and they just do not really understand the role. What could we be doing? I am going to go to you, Dr. Glassman. What could we do better as a Congress to make sure the agencies know your role? Mr. Glassman. Sure. I mean, I think, you know, one of the biggest frustrations I would have, that I would often have with staffers when we were both working on something together, was that the agencies did not see CRS as an extension of, say, Committee staff, right. Making sure the agencies knew that when CRS was requesting something, it was no different than if a Committee staffer was requesting something. At least bringing it up on that plane would be extremely helpful. In part, because, you know, there were a fair amount of times I would have a request where I would be working with a Committee staffer, and the reason I was requesting the data is because they wanted to remain anonymous, and they did not want the agency to know that this Committee was looking at this or that they were looking at this. I would go to the agency, and they would sort of just, you know, not answer my thing. I would go back to the staffer and be, like, Can you call? They would, you know, throw their hands up in the air because that was exactly what they did not want to do. Making sure the agencies know that CRS should be treated as the equivalent of Committee staff when they are dealing with leg affairs shops, or when they are dealing with program managers would be great. I can imagine writing lines in Committee reports and appropriations bills just reminding them of that, right, when they get their funding. Yes, that would be the most beneficial thing I think. Chairwoman Bice. Perfect. Mr. Carey. I will go to Dr. Hart. I mean, the same type of question. What do you think that we could be doing a better job of as Member of Congress to make sure the agencies understand the role of CRS? Mr. Hart. I think there is a lot, actually, that sort of fits in this conversation about the access of CRS to executive branch data, including some very important privacy discourse. CRS does not necessarily need unfettered access to executive branch information. For example, the Census Bureau collects a lot of information from the American public that we place very important privacy protections on. We are not necessarily talking about CRS getting access to the confidential records of the Census Bureau. We are having a conversation about aggregate information, I think, is largely what CRS is looking for and ensuring that aggregated administrative records. I think there is an important starting point that CRS is going to need to understand about what it actually needs. Then there is a second level of this about the executive branch has an expectation of transparency in communicating when it is using data. CRS does not have that same expectation. You are just talking a little bit about a veil of secrecy in a sense between the communications that CRS has with Members. However, when we talk about evidence production in the executive branch, we are often encouraging transparency. I think we are going to have to reconcile that. Congress actually told the executive branch agencies to have more transparency as it is producing evidence. That to me seems like a bit of a conflict. I think if CRS is going to have this legislation move forward, that communication--maybe this is part of the information campaign that you are describing--will have to figure that out. Chairwoman Bice. Thank you. Mr. Carey. Well, listen, I thank the witnesses, and I thank the Chairwoman for being indulgent with her time. With that, I yield back. Chairwoman Bice. Thank you, Mr. Carey. At this time, I recognize Ranking Member Kilmer. Mr. Kilmer. Thanks, Madam Chair. First, I want to speak in support of the Committee deconfliction tool, which my clone did not arrive at work today. Chairwoman Bice. Second. Mr. Kilmer. First, I wanted to ask Dr. Hart, you know, for folks who maybe are less familiar with the history of the U.S. Commission on Evidence-Based Policymaking and the work it did, I was just hoping you would share a little bit about the nuts and bolts of how the Commission was staffed, how its agenda was set, what it did on a day-to-day basis. You know, assuming the work was driven by trying to arrive at a set of recommendations, were there predetermined categories or areas of jurisdiction that the Commission used as guideposts? Were there competing priorities? How were those resolved? Mr. Hart. Yes. The Evidence Commission from Ryan and Murray had about 18 months to do its work. It was a very fast timeline and was charged with, essentially, studying the whole of Government, the whole of the executive branch. Its initial charge was to answer a question about whether there should be a clearinghouse for data in the executive branch. That was a pretty wicked question, in essence. The answer was very quickly no, by the way. It had a staff of 10, so it was not a large staff. It largely came from executive branch agencies and 15 politically appointed Members, five of which were appointed for their expertise in privacy, which was very important in the final recommendation formulation. SIn addition to the focus on that data clearinghouse question, it had priorities that were very specifically around data access, the theme of much of the conversation around CRS, privacy protections, and the capacity of the executive branch to actually do this work. All of the recommendations from that Ryan-Murray Commission, essentially, focused on those priorities. The way that the Commission converged on those priorities I think was something that is actually very relevant to the congressional Evidence Commission. Some of it came from the Members, the sponsors. In the very first meeting of the Commission, the staff of those Members presented and had some conversation with the Members, but all of the individual Members went around the table and said what one of their priorities was. I still remember the co-chair, Ron Haskins, a former Ways and Means staffer said if I get nothing else from this Commission, I want there to be chief evaluation officers in Government. By God, that was one of the recommendations of the Commission. One of the reasons that we have an evaluation function in Government today that is across Government is largely a credit to Ron Haskins. I would say it was a very noncontroversial commission behind the scenes. The Members really collaborated, much a testament to good leadership from the chair, Katherine Abraham, and the co-chair, Ron Haskins, but also to a very savvy executive director, Shelley Martinez, who knew a lot about the functioning of Government. She came from the Federal statistical system over in the leadership office at OMB. Good leadership, savvy first meetings, some good planning, but it was a very efficient and fast mechanism to get to recommendations. Mr. Kilmer. You know, one of the issues that the Modernization Committee looked at was just congressional capacity. One of the things I sort of grapple with is if Congress, if the institution were to have better access to data and evidence, does the institution have the capacity to actually use it and to incorporate it? Are Members in their offices sufficiently trained in how to actually use evidence for the purposes of public policymaking? I would love to get your take on that, and if you do not think we have the capacity, what do we do to develop that capacity within the institution? Ms. Bean. I will just say that I do think Congress has the capacity to use it, but I think it depends on how it is set up. For example, if you had an evidence-based policy commission, perhaps they could work on developing what I would call oversight dashboard for each Committee. Each Committee would decide what is the information that they want that would help them to do effective oversight. For example, you might say for this agency--several agencies that we oversee, improper payments. What is the information out there on that? What are key lawsuits? Maybe what are the high risks identified by GAO. There are all kinds of ways to avoid being biased information by using entities like GAO or IG or something like that, and a way to focus. You are not going to get everything about an agency, but what are the things that we would want that would help us do evidence-based policymaking. I think that is a way. You are going to have to set priorities. You are going to have to focus. Yes, I think Committees would love to have an oversight dashboard that gave them certain kinds of information in a very easy way to access and digest. Mr. Kilmer. Anyone else want to swing at that pitch, or should I yield back? Mr. Glassman. I mean, I think that everyone is concerned about sort of congressional capacity generally here. We have had two broad periods of expansion of commercial capacity in the 1940's and then again in 1970. Each followed a major expansion of the executive branch. We have had a third major expansion of the executive branch after 9-11 in the last 20 years, we have had no sort of corresponding increase from Congress. You can see this from a CRS perspective. The number of requests have exploded. The population is getting bigger. There are more and more constituents communicating with Congress. The number of staffers in those House offices remains at 18. I think there is no doubt this is a challenge. In regard to data, from my perspective at CRS, I do not really envision a world where CRS had unfettered access to executive branch data, which I do not necessarily think should be the case, where a CRS analyst would be sort of, like, digging through personally identified information or grabbing terabytes of data from the Census Bureau in doing that. In my experience, getting data from the executive branch was almost always an on-demand sort of thing from Congress. There were anticipatory reports I wrote where I needed some data from the executive branch, but that was not where sort of the bottlenecks were. The bottlenecks were when I was responding to specific requests from specific requesters for timely things. I am not wholly concerned about sort of a flood of data coming in if CRS were given sort of expanded data authorities in that sense and having the capacity to deal with that. That said, the broader issue of having a capable legislative branch that can handle sort of the modern responsibilities of this incredibly complex policymaking requires increased capacity, not only of its workforce but of the training and tools to use the data that is now out there. Mr. Kilmer. Thanks. I will mention the Modernization Committee does have a recommendation to increase the staff cap, too. Chairwoman Bice. Parking. Parking is an issue for that, certainly. I would also just throw out there, Ranking Member Kilmer and I have also been working on a provision that would allow for itemized--what am I trying to say here--anonymized casework data, so that we can actually see almost real time what is happening from a casework standpoint. I use the example of the issues of passports. Certainly, after COVID, people wanted to travel again, and all of our offices were absolutely bludgeoned with people's request for new passports because many--and oftentimes their passports had expired, and they were rushing to try to get new passports. Had we known that that was coming, we would have been able to maybe prepare accordingly or differently. That sort of provision I think could be helpful in trying to address some of the concerns. Mr. Kilmer, any additional questions? Mr. Kilmer. I yield back. Thanks. Chairwoman Bice. Alright, fantastic. Well, again, I want to thank our second panel of witnesses for being with us today. The Members of the Subcommittee may have additional questions for you, and we ask that you would please respond to those questions in writing should they be sent your way. If there is no further business to be had, I thank the Members for their participation. Without objection, the Subcommittee stands adjourned.  QUESTIONS FOR THE RECORD 
+LEGISLATIVE PROPOSALS TO SUPPORT MODERNIZING THE CONGRESSIONAL RESEARCH
+SERVICES AND THE USE OF FEDERAL DATA
+----------
+March 20, 2024
+House of Representatives,
+Subcommittee on Modernization,
+Committee on House Administration,
+Washington, DC.
+The Subcommittee met, pursuant to notice, at 10:32 a.m., in
+room 1310, Longworth House Office Building, Hon. Stephanie Bice
+ presiding.
+Present: Representatives Bice, Steil, Carey, and Kilmer.
+Staff present: Annemarie Cake, Professional Staff and
+Deputy Clerk; Marian Currinder, Senior Professional Staff;
+Alexander Deise, Parliamentarian; Kristen Monterroso, Director
+of Operations and Legislative Clerk; Michael Platt, Staff
+Director; Jordan Wilson, Director of Member Services.
+OPENING STATEMENT OF HON. STEPHANIE BICE, CHAIRWOMAN OF THE
+SUBCOMMITTEE ON MODERNIZATION, A U.S. REPRESENTATIVE FROM
+OKLAHOMA
+Chairwoman Bice. The Subcommittee on Modernization will
+come to order.
+I note that a quorum is present. Without objection--thank
+you--the chair may declare a recess at any time.
+The hearing record will remain open for 5 legislative days
+so Members may submit any materials they wish to be included
+therein.
+Thank you, Ranking Member Kilmer--and Subcommittee Members
+and the chairman I think will be here shortly--as well as our
+witness for taking time today to be with us.
+This is the Modernization Subcommittee's first legislative
+hearing. We will be learning more about two bills and one
+resolution that have been referred to the Subcommittee, and we
+will have the opportunity to dive into what problems these
+measures address and what solutions they propose.
+This should go without saying, but legislative hearings
+like this one provide an important forum for Members to gather
+information, ask questions, and form opinions or positions on
+the legislation before us.
+Legislative hearings are consistent with regular order, but
+we do not see a lot of them at the Subcommittee level these
+days, and the same is true of markups on the Subcommittee
+level. As the chair, I think the Subcommittee process is
+important, and that is especially true here as we consider
+bills that directly relate to our mission to improve and
+modernize the institution and implement the recommendations of
+the Select Committee on Modernization.
+Today we will hear about two measures related to the
+Congressional Research Service's ongoing efforts to modernize
+the way the agency works on behalf of Congress. We will also
+learn more about a resolution introduced by my colleague,
+Ranking Member Kilmer, and cosponsored by full Committee Member
+Ranking Member Morelle, that is based on a Select Committee
+recommendation to create a congressional commission on
+evidence-based policymaking.
+The Modernization Subcommittee held a hearing in April of
+last year to examine CRS' efforts to improve their processes
+and products in ways that reflect how today's Congress
+operates. It was clear then that more work was needed, but I am
+pleased to say that we have seen the agency take positive steps
+to improve culture and modernize operations.
+I fully recognize the work CRS analysts do to support
+Congress. That work is invaluable. I am encouraged and excited
+with the results recent changes have yielded, and I look
+forward to the continued progress and the modernization of CRS.
+Robert, I want to personally thank you for your leadership.
+On that note, I am pleased that we are joined today by Robert
+Newlen, CRS' interim director, who, in addition to speaking
+about the two CRS-related bills on the agenda today, will
+update the Subcommittee on some of the agency's ongoing efforts
+to improve and enhance services.
+Mr. Newlen will discuss the underlying problems that the
+two CRS bills address and explain how they will help strengthen
+the agency's mission to support Congress.
+I would like to note that for all Members of the
+Subcommittee, we jointly introduced these bills as we all saw
+value in what they set forth to accomplish.
+Access to Federal agency data is critical to CRS' mission
+to provide timely and accurate research and analysis to
+Congress. The agency's current statute, which has not been
+seriously modified in 50 years, needs to be updated to reflect
+new forums and uses of data.
+The Select Committee on Modernization recognized this
+problem and recommended enhancing support agency access to
+Federal data, and the bill we are discussing today does just
+that.
+The Select Committee also recommended examining legislative
+support agency authorities more broadly to determine if they
+need to be updated, and this bill is certainly consistent with
+that goal.
+I will say here that our intention continues to be a larger
+examination of CRS' organic statute, with an eye toward
+developing more modern authorities and Congressional directives
+that better support CRS' work and more accurately reflect the
+needs of Congress today.
+We look forward to working with you, Mr. Newlen, your
+successor, and your entire team in this very important
+endeavor.
+Modernizing how CRS produces and provides access to the
+Constitution Annotated is also consistent with the goal of
+updating how the agency serves Congress. CONAN, as this massive
+tome is known, has been available online since 2019.
+Would you like to, you know, take a gander at this? There
+we go.
+Mr. Kilmer. Bicep work.
+Chairwoman Bice. There you go, yes.
+Mr. Kilmer. It is an arm----
+Chairwoman Bice. Let us turn that around so you can see it.
+The digital version is regularly updated and has gotten
+millions of views since its inception, and meanwhile, producing
+this hard-bound version is costly. According to the most recent
+estimates available from CRS and the GPO, the 2012 hard-bound
+CONAN cost taxpayers approximately $1 million to produce. We
+are waiting on estimates for the 2022 version but expect they
+will be nearly the same.
+Getting rid of this behemoth print requirement enhances
+efficiency and is a very easy, cost-saving measure.
+The second panel today includes three witness experts who
+can share additional views on Congress' access to the use of
+Federal agency data. They will shed light on legislative and
+executive branch interactions and provide perspective on some
+of the challenges analysts face accessing data and how the work
+that CRS does on behalf of Members and staff is impacted when
+analysts cannot get data.
+Understanding the different ways that data can inform the
+policymaking and oversight process is another important part of
+the conversation and is consideration--in considering
+bipartisan--I am sorry--is considering partisan bias in data
+and how we ensure the data is accurate and reliable.
+At this time, I will now recognize the Ranking Member, Mr.
+Kilmer, for the purpose of providing an opening statement.
+
+PREPARED STATEMENT OF HON. STEPHANIE BICE, CHAIRWOMAN OF THE
+SUBCOMMITTEE ON MODERNIZATION
+This is the Modernization Subcommittee's first legislative
+hearing. We will be learning more about two bills and one
+resolution that have been referred to the Subcommittee, and we
+will have the opportunity to dive into what problems these
+measures address and what solutions they propose.
+This should go without saying, but legislative hearings
+like this one provide an important forum for Members to gather
+information, ask questions, and form opinions or positions on
+the legislation before us.
+Legislative hearings are consistent with regular order, but
+we do not see a lot of them at the Subcommittee level these
+days, and the same is true of markups on the Subcommittee
+level. As the chair, I think the Subcommittee process is
+important, and that is especially true here as we consider
+bills that directly relate to our mission to improve and
+modernize the institution and implement the recommendations of
+the Select Committee on Modernization.
+Today we will hear about two measures related to the
+Congressional Research Service's ongoing efforts to modernize
+the way the agency works on behalf of Congress. We will also
+learn more about a resolution introduced by my colleague,
+Ranking Member Kilmer, and cosponsored by full Committee Member
+Ranking Member Morelle, that is based on a Select Committee
+recommendation to create a congressional commission on
+evidence-based policymaking.
+The Modernization Subcommittee held a hearing in April of
+last year to examine CRS' efforts to improve their processes
+and products in ways that reflect how today's Congress
+operates. It was clear then that more work was needed, but I am
+pleased to say that we have seen the agency take positive steps
+to improve culture and modernize operations.
+I fully recognize the work CRS analysts do to support
+Congress. That work is invaluable. I am encouraged and excited
+with the results recent changes have yielded, and I look
+forward to the continued progress and the modernization of CRS.
+Robert, I want to personally thank you for your leadership.
+On that note, I am pleased that we are joined today by Robert
+Newlen, CRS' interim director, who, in addition to speaking
+about the two CRS-related bills on the agenda today, will
+update the Subcommittee on some of the agency's ongoing efforts
+to improve and enhance services.
+Mr. Newlen will discuss the underlying problems that the
+two CRS bills address and explain how they will help strengthen
+the agency's mission to support Congress.
+I would like to note that for all Members of the
+Subcommittee, we jointly introduced these bills as we all saw
+value in what they set forth to accomplish.
+Access to Federal agency data is critical to CRS' mission
+to provide timely and accurate research and analysis to
+Congress. The agency's current statute, which has not been
+seriously modified in 50 years, needs to be updated to reflect
+new forums and uses of data.
+The Select Committee on Modernization recognized this
+problem and recommended enhancing support agency access to
+Federal data, and the bill we are discussing today does just
+that.
+The Select Committee also recommended examining legislative
+support agency authorities more broadly to determine if they
+need to be updated, and this bill is certainly consistent with
+that goal.
+I will say here that our intention continues to be a larger
+examination of CRS' organic statute, with an eye toward
+developing more modern authorities and Congressional directives
+that better support CRS' work and more accurately reflect the
+needs of Congress today.
+We look forward to working with you, Mr. Newlen, your
+successor, and your entire team in this very important
+endeavor.
+Modernizing how CRS produces and provides access to the
+Constitution Annotated is also consistent with the goal of
+updating how the agency serves Congress. CONAN, as this massive
+tome is known, has been available online since 2019.
+Would you like to, you know, take a gander at this? There
+we go.
+Mr. Kilmer. Bicep work.
+Chairwoman Bice. There you go, yes.
+Mr. Kilmer. It is an arm----
+Chairwoman Bice. Let us turn that around so you can see it.
+The digital version is regularly updated and has gotten
+millions of views since its inception, and meanwhile, producing
+this hard-bound version is costly. According to the most recent
+estimates available from CRS and the GPO, the 2012 hard-bound
+CONAN cost taxpayers approximately $1 million to produce. We
+are waiting on estimates for the 2022 version but expect they
+will be nearly the same.
+Getting rid of this behemoth print requirement enhances
+efficiency and is a very easy, cost-saving measure.
+The second panel today includes three witness experts who
+can share additional views on Congress' access to the use of
+Federal agency data. They will shed light on legislative and
+executive branch interactions and provide perspective on some
+of the challenges analysts face accessing data and how the work
+that CRS does on behalf of Members and staff is impacted when
+analysts cannot get data.
+Understanding the different ways that data can inform the
+policymaking and oversight process is another important part of
+the conversation and is consideration--in considering
+bipartisan--I am sorry--is considering partisan bias in data
+and how we ensure the data is accurate and reliable.
+OPENING STATEMENT OF HON. DEREK KILMER, RANKING MEMBER OF THE
+SUBCOMMITTEE ON MODERNIZATION, A U.S. REPRESENTATIVE FROM
+WASHINGTON
+Mr. Kilmer. Thanks, Madam Chair. Thanks to our colleague
+and the witnesses who are here at our inaugural legislative
+hearing on the Subcommittee, so way to go.
+I think I am excited about the three bills that we are
+taking up today. I think taken collectively, they bring us
+closer to the Subcommittee's mission of making Congress work
+better for the American people. Each one of these bills harkens
+back to a problem that we identified on the ModCom.
+The Modernizing the congressional Research Service's Access
+to Data Act is--speaks to recommendation 33, which states that
+congressional support agencies should report on challenges and
+potential solutions for accessing Federal data.
+Director Newlen, thank you for doing just that, which paved
+the way forward for this bill.
+CRS statute, developed in the 1970's, states that Federal
+agencies need to comply with data requests from Congress to
+serve Congressional Committees, and it mentions that CRS is
+responsible for otherwise assisting individual Member offices
+with information requests. However, given the lack of explicit
+statutory reference to personal offices, you have indicated
+that you at times have struggled to access necessary
+information from Federal agencies to execute your mission of
+serving Committees and personal offices alike.
+Your customer service mission to Congress is very
+important. As I have mentioned before the Subcommittee
+previously, my team and I regularly use CRS. The amendments and
+bills and letter ideas we put forth are better because of CRS'
+involvement and support to us.
+Thank you for not putting out a restraining order against
+my team.
+It matters that you have access to the Federal data you
+need to do your jobs, to update reports on timely and pressing
+issues proactively, and in response to specific requests, that
+you have access that is on par with that provided to other
+legislative branch support agencies, like the CBO, for example.
+I am a proud cosponsor of H.R. 7592 to this end, and look
+forward to hearing your testimony on that and that of the
+second panel.
+Speaking of further Select Committee recs that remain open
+and we will touch on today, recommendation 140 states that
+Congressional Committees, including this one, should examine
+support agency authorities and determine if they need to be
+updated.
+Thank you again, Director Newlen, for bringing the CONAN
+issue to our attention in the spirit. You know, this is about
+saving money. This is about making sure that there is continued
+access for information.
+The American people can receive better information online,
+and we can save valuable CRS staff capacity and time and
+taxpayer dollars. Again, proud to cosponsor that bill as well.
+Then, finally, want to mention the congressional evidence-
+based policymaking resolution. Part of what makes this
+Subcommittee work, and what sets us apart, is our commitment to
+looking at problems, collecting a common set of data and facts
+about them, and then respectfully negotiating the potential
+solutions, and then charting a path forward. Call me an
+optimist, but I think that this institutions and Members of
+both parties from every ideological persuasion could benefit
+from a similar approach.
+Simply put, though, we need sound evidence and nonpartisan
+facts about the pressing problems facing the American people
+that would allow us to better design policies to measure their
+impact, to conduct oversight, and ultimately to improve
+outcomes for the American people.
+The Select Committee on the Modernization of Congress
+proposed the establishment of a bipartisan, bicameral
+Commission on Evidence-Based Policymaking to facilitate this,
+which would be accomplished by this bill.
+This commission approach is supported by precedent as well.
+Former Speaker Paul Ryan and the senior Senator from my home
+State, Patty Murray, previously led an effort to establish such
+a commission specific to the executive branch, which was an
+effort I was proud to support. That commission effort cleared
+the House under suspension of the rules and the Senate on
+unanimous consent. It was signed into law in 2016. It was
+signed into law by President Obama. The recommendations that
+stem from the Commission were turned into overwhelmingly
+bipartisan changes from the Foundations for Evidence-Based
+Policymaking Act, which was signed into law in 2019 by former
+President Trump.
+The problems we face as a Nation are hard, but the idea
+that we will deliver more for our constituents and for our
+country with a common set of facts does not have to be hard.
+One of our witnesses today, Nick Hart, with the Data
+Foundation, was involved in those past executive branch efforts
+and can shed some light on how the legislative branch can get
+this right.
+Thanks again to my colleagues, thank you to Subcommittee
+Chair Bice, our Subcommittee colleagues, and to each of our
+witnesses for taking time to be here today. Look forward to
+your thoughts and suggestions regarding these bills, and just
+appreciate your partnership on this important work of trying to
+make Congress work better for the people we represent. With
+that, I yield back.
+
+PREPARED STATEMENT OF RANKING MEMBER OF THE SUBCOMMITTEE ON
+MODERNIZATION DEREK KILMER
+I think I am excited about the three bills that we are
+taking up today. I think taken collectively, they bring us
+closer to the Subcommittee's mission of making Congress work
+better for the American people. Each one of these bills harkens
+back to a problem that we identified on the ModCom.
+The Modernizing the congressional Research Service's Access
+to Data Act is--speaks to recommendation 33, which states that
+congressional support agencies should report on challenges and
+potential solutions for accessing Federal data.
+Director Newlen, thank you for doing just that, which paved
+the way forward for this bill.
+CRS statute, developed in the 1970's, states that Federal
+agencies need to comply with data requests from Congress to
+serve Congressional Committees, and it mentions that CRS is
+responsible for otherwise assisting individual Member offices
+with information requests. However, given the lack of explicit
+statutory reference to personal offices, you have indicated
+that you at times have struggled to access necessary
+information from Federal agencies to execute your mission of
+serving Committees and personal offices alike.
+Your customer service mission to Congress is very
+important. As I have mentioned before the Subcommittee
+previously, my team and I regularly use CRS. The amendments and
+bills and letter ideas we put forth are better because of CRS'
+involvement and support to us.
+Thank you for not putting out a restraining order against
+my team.
+It matters that you have access to the Federal data you
+need to do your jobs, to update reports on timely and pressing
+issues proactively, and in response to specific requests, that
+you have access that is on par with that provided to other
+legislative branch support agencies, like the CBO, for example.
+I am a proud cosponsor of H.R. 7592 to this end, and look
+forward to hearing your testimony on that and that of the
+second panel.
+Speaking of further Select Committee recs that remain open
+and we will touch on today, recommendation 140 states that
+Congressional Committees, including this one, should examine
+support agency authorities and determine if they need to be
+updated.
+Thank you again, Director Newlen, for bringing the CONAN
+issue to our attention in the spirit. You know, this is about
+saving money. This is about making sure that there is continued
+access for information.
+The American people can receive better information online,
+and we can save valuable CRS staff capacity and time and
+taxpayer dollars. Again, proud to cosponsor that bill as well.
+Then, finally, want to mention the congressional evidence-
+based policymaking resolution. Part of what makes this
+Subcommittee work, and what sets us apart, is our commitment to
+looking at problems, collecting a common set of data and facts
+about them, and then respectfully negotiating the potential
+solutions, and then charting a path forward. Call me an
+optimist, but I think that this institutions and Members of
+both parties from every ideological persuasion could benefit
+from a similar approach.
+Simply put, though, we need sound evidence and nonpartisan
+facts about the pressing problems facing the American people
+that would allow us to better design policies to measure their
+impact, to conduct oversight, and ultimately to improve
+outcomes for the American people.
+The Select Committee on the Modernization of Congress
+proposed the establishment of a bipartisan, bicameral
+Commission on Evidence-Based Policymaking to facilitate this,
+which would be accomplished by this bill.
+This commission approach is supported by precedent as well.
+Former Speaker Paul Ryan and the senior Senator from my home
+State, Patty Murray, previously led an effort to establish such
+a commission specific to the executive branch, which was an
+effort I was proud to support. That commission effort cleared
+the House under suspension of the rules and the Senate on
+unanimous consent. It was signed into law in 2016. It was
+signed into law by President Obama. The recommendations that
+stem from the Commission were turned into overwhelmingly
+bipartisan changes from the Foundations for Evidence-Based
+Policymaking Act, which was signed into law in 2019 by former
+President Trump.
+The problems we face as a Nation are hard, but the idea
+that we will deliver more for our constituents and for our
+country with a common set of facts does not have to be hard.
+One of our witnesses today, Nick Hart, with the Data
+Foundation, was involved in those past executive branch efforts
+and can shed some light on how the legislative branch can get
+this right.
+Thanks again to my colleagues, thank you to Subcommittee
+Chair Bice, our Subcommittee colleagues, and to each of our
+witnesses for taking time to be here today. Look forward to
+your thoughts and suggestions regarding these bills, and just
+appreciate your partnership on this important work of trying to
+make Congress work better for the people we represent. With
+that, I yield back.
+Chairwoman Bice. Thank you, Mr. Kilmer.
+At this time, I would like to recognize the full Committee
+Chairman, Mr. Steil, for the purpose of providing opening
+remarks.
+OPENING STATEMENT OF HON. BRYAN STEIL, CHAIRMAN OF THE
+COMMITTEE ON HOUSE ADMINISTRATION, A U.S. REPRESENTATIVE FROM
+WISCONSIN
+Chairman Steil. Thank you, Chair Bice, and thank you to the
+work that you and Ranking Member Kilmer are doing on the
+Subcommittee on Modernization. You can tell there is energy on
+it because we have a full room, including your daughter,
+Ainsley, who is here with us today, and so shout-out there.
+Today's Subcommittee's first legislative hearing, where we
+will be focusing on two bills related to the Congressional
+Research Service and a resolution focused on the possibility of
+a new congressional commission on evidence-based policymaking
+is, as you said, Mrs. Bice, it is important that the
+legislative process, even at the Subcommittee level, be carried
+out to achieve our mission, and that mission is to modernize
+the institution. A Congress that is modern is a Congress that
+can be more efficient.
+Two of the bills we are looking at today will help
+modernize CRS and support the work of Congress, making our
+institution more effective. We will look into a possible
+evidence-based congressional commission to help ensure that
+Congress can successfully use agency data in its policymaking
+and oversight, and I look forward to seeing where these
+conversations take us today.
+Again, thank you to you, Subcommittee Chair Bice, Ranking
+Member Kilmer, for your work today, and our witnesses as well.
+I yield back.
+
+PREPARED STATEMENT OF CHAIRMAN OF THE COMMITTEE ON HOUSE
+ADMINISTRATION BRYAN STEIL
+Chairman Steil. Thank you, Chair Bice, and thank you to the
+work that you and Ranking Member Kilmer are doing on the
+Subcommittee on Modernization. You can tell there is energy on
+it because we have a full room, including your daughter,
+Ainsley, who is here with us today, and so shout-out there.
+Today's Subcommittee's first legislative hearing, where we
+will be focusing on two bills related to the Congressional
+Research Service and a resolution focused on the possibility of
+a new congressional commission on evidence-based policymaking
+is, as you said, Mrs. Bice, it is important that the
+legislative process, even at the Subcommittee level, be carried
+out to achieve our mission, and that mission is to modernize
+the institution. A Congress that is modern is a Congress that
+can be more efficient.
+Two of the bills we are looking at today will help
+modernize CRS and support the work of Congress, making our
+institution more effective. We will look into a possible
+evidence-based congressional commission to help ensure that
+Congress can successfully use agency data in its policymaking
+and oversight, and I look forward to seeing where these
+conversations take us today.
+Again, thank you to you, Subcommittee Chair Bice, Ranking
+Member Kilmer, for your work today, and our witnesses as well.
+Chairwoman Bice. Thank you, Chairman Steil.
+We now welcome Mr. Robert Newlen, the interim director of
+the congressional Research Service. Mr. Newlen has a 42-year
+career at the Library of Congress, holding leadership positions
+in CRS, the Law Library, and as deputy librarian of Congress.
+Mr. Newlen has also held a variety of positions in the
+American Library Association, which include serving as a member
+of the executive board and senior trustee of the ALA endowment.
+He was the recipient of the ALA Medal of Excellence in 2016
+for, quote, creative leadership of high order, particularly in
+library management.
+He most recently served as the executive director and
+director of strategic initiatives of the Dwight D. Opperman
+Foundation in Phoenix.
+We appreciate your service, Mr. Newlen, and we appreciate
+you being here with us today. We are grateful for all of the
+work you have done and continue to do at CRS.
+A couple of housekeeping items. Please remember to press
+the button on the microphone in front of you so that the light
+is green. When you begin to speak, the timer in front of you
+will turn green. As previously agreed to by the Subcommittee
+Members, you will have 7 minutes for your opening statement.
+After 6 minutes, the light will turn yellow. When the red
+lights comes on, the 7 minutes has expired, and we kindly ask
+that you would please conclude your remarks.
+At this time, Mr. Newlen, I recognize you for 7 minutes.
+STATEMENT OF MR. ROBERT RANDOLPH NEWLEN, INTERIM DIRECTOR,
+CONGRESSIONAL RESEARCH SERVICE
+Mr. Newlen. I am not seeing a green light.
+Chairwoman Bice. You are good.
+Mr. Newlen. I am good? Thank you. Thank you.
+Chairwoman Bice, Ranking Member Kilmer, and Members of the
+Subcommittee, thank you for the opportunity to testify before
+you today, especially at your inaugural hearing, about CRS'
+need for legislative fixes that will support its modernization
+efforts and ensure access to Federal data and other information
+needed to effectively serve Congress.
+I have three goals today. First, I will outline some of the
+challenges CRS faces in securing from--securing information
+from Federal agencies. Second, I will make the case for the
+savings and efficiencies to be gained by transitioning to a
+digital-only Constitution Annotated. Finally, I will highlight
+CRS' progress with modernization over the past year and the
+initiatives the Service has undertaken to ensure that it
+continues to provide exceptional service to the 21st century
+Congress.
+It has been my honor to serve as the interim director of
+CRS. I have just completed 9 months, and it has been both
+rewarding and challenging. There is much more to be done, but I
+am confident that CRS is moving in the right direction, and it
+will be in a good place when the new director begins several
+months from now.
+My goal has been to identify areas of CRS' operation where
+we can reduce costs, add value, and maximize the return on the
+taxpayers' investment without diminishing service to Congress.
+I have also closely reviewed the recommendations of the
+Subcommittee which have guided my activities as director, and
+technology has been one of our highest priorities.
+I feel confident that the legislative initiatives discussed
+today support these goals. I believe strongly in institutional
+stewardship, and you might think of me as a loving critic of
+CRS.
+I am also mindful, Chairwoman Bice, of our conversation
+early in my tenure when we discussed the topic of return on
+investment for the resources invested in CRS, and that has been
+a guiding mantra for me. Thank you.
+CRS' mission is to provide Congress with timely, objective,
+nonpartisan research, analysis, and information. Access to the
+data and other information held by Federal agencies is critical
+to CRS' ability to effectively carry out this important
+responsibility.
+Generally, CRS has been successful in securing the
+information that it needs. However, there have been instances
+when the Service encountered resistance from Federal agencies.
+Agencies have responded with directions to CRS to file Freedom
+of Information Act requests, require disclosure of
+congressional office requesting the information, and requested
+confidentiality assurances.
+In other instances, agencies have ignored or simply refused
+the request. This sort of agency resistance can delay CRS'
+response to congressional clients and impede the Service's
+ability to inform and advise Congress utilizing the most
+authoritative information available.
+CRS' governing statute provides limited authority to enable
+the Service to address these challenges. CRS is authorized to
+make information requests to Federal agencies and requires
+those agencies to provide the requested information only when
+the request is, quote, authorized by a Committee, unquote, and
+then only when CRS is acting as an agent of the Committee.
+The limitation to CRS' work for Committees leaves the
+Service with no formal authority to acquire information it
+needs to support individual Member offices or to conduct
+anticipatory research and analysis.
+CRS' current information access authority originates from a
+time when Congress operated primarily under a Committee-centric
+structure. As legislative activity has become more dispersed,
+CRS' workload has expanded to include more requests from
+individual Member offices. In Fiscal Year 2023, for example,
+CRS responded to over 57,000 requests from individual Member
+and other congressional offices.
+Broader authority is required to ensure the Service's
+access to the information needed to effectively serve all
+congressional users. The authority CRS is seeking would be
+comparable to that currently provided to our sister agencies,
+CBO and GAO.
+CRS is also requesting elimination of the statutory
+requirement to publish the Constitution Annotated in hard-bound
+copy. I brought my own copy. You will have----
+Chairwoman Bice. These are the only two copies that exist
+currently? I do not----
+Mr. Newlen. Currently, the Librarian of Congress is
+directed by statute to print a decennial revised edition of
+CONAN after every tenth term of the Supreme Court and
+cumulative pocket part supplements every 2 years in between the
+decennial edition. The cost of printing these copies are
+significant to both CRS and the Government Publishing Office.
+Production costs for the 2012 version of CONAN, as you
+mentioned earlier, Chairwoman Bice, totaled nearly $1 million,
+primarily in GPO.
+As you know, CRS, in collaboration with the Law Library of
+Congress and the Library's Office of the Chief Information
+Officer, launched a new website for CONAN in 2019. The site
+features a search capability and hundreds of pages of
+constitutional analysis and content prepared by CRS' legal
+staff. The website has been overwhelmingly successful since its
+launch, and it has received over 50 million views.
+Given the success of the CONAN site, CRS has requested
+amendment of CONAN's authorizing statute to require its
+preparation in digital form only. Transition to a digital-only
+Constitution Annotated would provide significant savings in
+time, labor, and taxpayer dollars, and permit CRS to better
+deploy its resources toward the production of content for
+future enhancements of the website.
+Modernization initiatives--since I have just a short amount
+of time, I am going to go through those. We have been very
+actively pursuing interactive graphics, infographics, and story
+map prototypes. We are exploring many projects with artificial
+intelligence applications. I will be happy to tell you more
+about those. We are working to strengthen our data and
+analytics capabilities. We also feel very privileged to
+participate in the new Agency Connection Center in the
+Longworth Building. This is going to be a wonderful form of
+outreach, and we are very grateful for having you include that.
+In conclusion, I want to express my appreciation to the
+Librarian of Congress, Dr. Carla Hayden, for the opportunity to
+once again serve alongside CRS' talented staff. A constant in
+CRS is the staff passion and dedication to serving the
+Congress.
+On behalf of my--excuse me, am I hoarse--on behalf of my
+CRS colleagues, I want to thank the Subcommittee for its
+continued support, and I welcome your questions. Thank you.
+
+PREPARED STATEMENT OF ROBERT RANDOLPH NEWLEN
+
+Chairwoman Bice. Thank you, Mr. Newlen.
+We will now begin questioning, and that will start with me,
+followed by Ranking Member Kilmer, and then we will alternate
+between Members. Any Member wishing to be recognized can signal
+their request to the chair.
+At this time, I will now recognize myself for 5 minutes of
+questions.
+Mr. Newlen, CRS has sought expanded access to agency data
+at least since the 112th Congress, as we can best tell, when
+legislation was last introduced to try to address this issue.
+Your testimony addresses what improved data access will do for
+CRS and for Congress.
+Can you give a little bit of color to what CRS will not do
+with expanded access to this authority?
+Mr. Newlen. Thank you for that question. We are very
+mindful of several things, first, security of the data and
+transfer of the data within the agency.
+We have been working with our chief information officers
+here today to ensure that the data meets all the security
+standards of the Library of Congress which are extremely
+stringent. As always, we will maintain that data in a
+confidential manner.
+Chairwoman Bice. Can you address the potential concerns
+about expanded access leading to, quote/unquote, fishing
+expeditions that could be more politically charged requests
+from Congress?
+Mr. Newlen. Certainly.
+Can you repeat the question, please?
+Chairwoman Bice. Sure. I want to make sure that his
+microphone is working properly. Are you able to--great. OK.
+Thank you.
+Would you be willing--or would you be able to address the
+potential concerns about expanded access to data leading to,
+quote/unquote, fishing expeditions or more politically charged
+requests from Congress?
+Mr. Newlen. Yes. Thank you. When Members of Congress or
+Committees make requests, we do not ask them how they are going
+to use the data. We may ask them if it would help us in the
+research process, but--is the light not coming on?
+Okay. Apologies.
+Chairwoman Bice. There we go. There we go.
+Mr. Newlen. Yes. The----
+Chairwoman Bice. You said you were going to allow them to
+request the data without asking them what the data would be
+used for.
+Mr. Newlen. If they--if we think it is important to know,
+then we will ask, for the research process, but generally that
+is not necessary. As with everything we do, it is always
+confidential, and we do not share the information with anyone
+outside of the Service or the Member or Committee office.
+Chairwoman Bice. Thank you.
+At this time I will recognize Ranking Member Kilmer for
+questions.
+Mr. Kilmer. Thanks, Madam Chair.
+You know, this issue around data access and, you know, how
+to make sure CRS is getting what it wants. You know, Dr.
+Glassman mentioned in his written testimony that the new
+authority would be more effective if it was paired with an
+information campaign such that the agencies understand their
+obligation to provide CRS with such data.
+Any thoughts on how CRS might actually do that and how
+Congress can help you do that?
+Mr. Newlen. Yes. Thank you. The first thing we would do if
+we had this authority is use it with pending requests that we
+have with several agencies right now where we are having a lot
+of problem moving forward. They set up all kinds of roadblocks.
+I can give you one example of one agency. I will not say
+the name of the agency. I will be happy to share it with you in
+private, but I do not want to jeopardize our talks, but they
+told us at one point that they considered CRS analysts as the
+same thing as press. We have had substantial conversations with
+them to change that. It has really--it has really been very
+difficult.
+Mr. Kilmer. Yes, I wanted to--I think we can only just look
+at this, and it kind of makes the case for the bill. You know,
+I think oftentimes, you know, when something gets put on a
+site, it is only as valuable as its ease of search and the
+ability to navigate, and, you know, if it is visually
+interesting, and if it is accurate.
+If this bill passes and CONAN moves to a digital-only
+format, you know, any guidance on what--on how CRS will
+approach that to ensure that the digital version is, you know,
+state-of-the-art in its presentation and its usability?
+Mr. Newlen. Yes, absolutely. The big advantage of the
+digital version is, is that it is always up to date. This, the
+moment it came out, it was outdated. There have been Supreme
+Court decisions since this was printed that are not here.
+Speaking as a librarian by training, most librarians would
+never put this book on their shelf because they would be
+concerned----
+Mr. Kilmer. There is no room for it.
+Mr. Newlen. That is a big concern too--because they would
+be concerned that a patron might look at this and think this
+was the authoritative source, which it is not.
+The advantage of the online version is, is that we can link
+directly to Supreme Court cases. We have embedded links.
+The other thing is that we update this very quickly. If
+there is a court decision that impacts the Constitution, our
+lawyers, headed by Sanchi Jayaram, who is with us today, head
+of the American Law Division, updates this immediately so that
+we have real-time information on the data base.
+We have devoted considerable assets to ensuring that the
+virtual version of CONAN is up to date and in good shape. We
+always welcome feedback from anyone. It is easy to do on the
+site, and we are very responsive to those concerns.
+Mr. Kilmer. The final thing I want to ask about, you know,
+this conversation around this behemoth, as the chairwoman
+called it, is actually a good sort of segue into another thing
+that we have been working on, which is the In Case Act, because
+it both touches on making sure that there is information that
+is up to date and accurate, and, two, it is an efficiency
+measure, you know, the In Case Act would require Federal
+agencies to provide better agency contacts to CRS, and CRS, in
+turn, could share that information with House offices, you
+know, so that policy staff, so district casework staff could be
+able to find the people that they need.
+That was built upon the existing CRS report that details
+some agency legislative affairs contacts which we found
+sometimes either lacks the needed information or has outdated
+information, and that means our staff and Committee staff and
+Member office staff are spending time trying to track down
+information individually, agency by agency, or even contacting
+someone who no longer works at the agency by mistake, you know,
+which can cause delays in getting technical assistance, which
+can delay a constituent's casework claims and more, so--and it
+would help us implement one of the open recommendations of the
+Modernization Committee.
+One, just an invitation, we would love to find a way to
+work together on this with you, and I would love to hear if
+there is other thoughts that you have about ways to improve
+efficiencies that you are pursuing at CRS.
+Mr. Newlen. Well, thank you. That report is--the
+congressional Liaison Report is our most popular report. It
+gets more hits than anything else. I think that you are right
+on target, Mr. Kilmer, because there is a huge interest in
+that, and we would welcome the opportunity to explore how we
+might do that.
+We have done some preliminary thinking about it in terms of
+the resources that would be necessary and what--how--what the
+governance structure would be of it. We welcome the opportunity
+to sit down with you and your staff and see how we can improve
+on that----
+Mr. Kilmer. Great.
+Mr. Newlen . access to that kind of
+information.
+Mr. Kilmer. Thank you.
+Thanks, Madam Chair. I yield back.
+Chairwoman Bice. Thank you, Ranking Member.
+At this time I recognize the Chair of the full Committee,
+Mr. Steil.
+Chairman Steil. Thank you, Chair Bice.
+I have two questions I want to dive into. One, I would love
+you just to comment briefly about how the requests that come
+from Members and staff to CRS have changed over the past 20 to
+30 years.
+Mr. Newlen. Certainly. Well, with the advances in
+technology, the first thing that I would observe is, is that we
+no longer have those kind of simple reference questions:
+population, addresses, that kind of thing. People are finding
+that themselves with Google and other tools. What we are
+experiencing is that the questions are harder, and it takes
+sometimes longer to answer the kinds of really detailed
+reference questions that Members have.
+One thing that has been a constant is the continued
+interest in analysis and providing options to the Congress
+concerning legislation. That is something that has been kind of
+a constant throughout the history of CRS and something that we
+devote a lot of resources to, to ensuring that we have the
+right analysts in place, which is not always easy.
+At the present moment, we have a number of positions that
+are outstanding in our resources, science, and industry
+section, and we look forward to filling those in the near
+future.
+Chairman Steil. Thank you. Let me jump into the second
+point. We talked a lot about getting the data and data access
+to you. The second side of that I think is, as Ranking Member
+Kilmer was referencing, is, how do we utilize the data, how do
+we present it?
+Can you walk through just a little bit about how CRS is
+positioned to take advantage of the data if it arrives? I am
+thinking about data dashboards, presentation aspects, training,
+visualization, other aspects that you have spent time on or
+other tools that you may need in that regard.
+Mr. Newlen. Absolutely. Well, one of the studies that gave
+us really, really good direction was a RAND study done several
+years ago. It suggested that we start looking at newer analytic
+methods, which we are doing, and also looking at cloud-based
+solutions, which of course are very expensive right now. That
+was one of the recommendations.
+The other one was to apply newer data-science methods, and
+we have begun that process. We have--we have some of the, I
+would say, good staff that know how to manage that data, but we
+also have a request outstanding at the moment in an effort--for
+about 3 million to continue that effort so that we have the
+ability to manage big data.
+Chairman Steil. Thank you. Thank you very much. I
+appreciate the work you are doing over at CRS. It is a
+spectacular resource, and I appreciate the work you, Chair
+Bice, and Ranking Member Kilmer are doing as we look to
+continue to enhance the work and modernize it.
+I will yield back.
+Chairwoman Bice. Thank you, Mr. Chairman.
+At this time I will recognize Mr. Carey for 5 minutes for
+questions.
+Mr. Carey. Well, thank you for being here today. I would
+like to focus a little bit on AI, if that is alright.
+Mr. Newlen. Yes.
+Mr. Carey. CRS' modernization initiatives as it relates to
+AI, can you tell us more about the working group and
+particularly the work in exploring how AI might be used to
+expedite bill summary process?
+Mr. Newlen. Yes, absolutely. We are very excited about
+artificial intelligence, but like everyone, we are taking it--
+we are moving cautiously to ensure that any information that we
+get from AI is--meets all of our standards of nonpartisanship,
+authoritativeness. We have a number of things in place right
+now.
+The working group looks for opportunities in CRS processes
+for short-, medium-, and long-term projects that we might use.
+We also coordinate very closely with the Library's Office of
+CIO, with their AI working group.
+Right now, we have dipped our toe in the water, and one of
+the things that we are very excited about is a process that we
+are looking at right now to develop five models that would help
+us with bill summaries. We have a huge backlog of bill
+summaries and analysis for Congress.gov.
+We think there is potential for AI to help us with those
+summaries, so we are exploring these five models as we speak.
+We have a whole set of criteria that have to be met, and our
+hope is, is that we can implement this soon so that our staff
+can spend more time on the analysis, which is the, you know,
+the really hard work, and less time on the summaries. At the
+same time, we have to be absolutely assured that that
+information is a very high quality.
+You may be familiar with the effort that Politico did
+recently with AI, and we actually took some of the examples
+just to kind of see if they were accurate, and they did not
+pass the test. This is a good caution for us to ensure that we
+always have the best data available.
+Mr. Carey. I mean, it is definitely something that, you
+know, I think it is finding its way into Members' offices and
+often with the staff, but--so another question. How is CRS
+making Members and their staff aware of its new visually based
+products?
+Mr. Newlen. We are doing several things. At the present
+time, we are doing new work on our CRS website for Members and
+staff, and we have been doing some development.
+I decided that we needed to take kind of a harder look at
+this, do some more consultation, and one of the things that we
+want to feature prominently are infographics, interactive
+graphics, and story book maps. That is going to be one of the
+primary ways.
+We also have a number of outreach efforts that we do
+through our divisions to client bases. They send out weekly
+information about new reports that CRS is doing in areas that
+they are interested in, and we feature those topics--or feature
+those kinds of products with infographics.
+One thing that would be helpful to us is--we would like
+your help as well--if there is any kind of forum where we can--
+where CRS can be to talk about our services, to talk about the
+kind of innovative products that we are offering Congress, we
+would be very, very grateful.
+Mr. Carey. I would add to that, you know, I came in in a
+special election. Now, I am former staff. I was staff, and
+then--you know, I hate to say when I was a staff, but a long
+time ago--but, you know, the thing that I have--the services
+that you provide are remarkable.
+You know, we have a number of Members that have left, and
+we have got a bunch of new Members that are going to be coming
+in as, you know, special elections. However we can work with
+your offices, because, you know, the thing about when you come
+in as a special election, all your staff is--you do not have
+any staff, you know. As you start getting those team members
+that come in and join your team, it would be great to work with
+your office to make sure they are well aware of the services
+and the things that you provide, so----
+Mr. Newlen. Absolutely. We would be very happy to work with
+your office to give you a really in-depth orientation as we
+would give any new Member.
+Mr. Carey. Well, I am more concerned about the ones that
+are coming in, in the future, because I know we have talked
+about this--I know the chairwoman and I have--about
+orientation, and when you are in the special election, you do
+not have that. You know, it is just like, here is your hat and
+what is your hurry, right?
+As we bring these new Members in, I would like very much to
+make sure they coordinate with you, so----
+Mr. Newlen. Well, this is something at the front of our
+priorities right now, and that is the new Member seminar, that
+we work with the Committee as soon as the new Members are
+inducted, we take them to Williamsburg, Virginia, and have 3
+days of policy seminars, discussions about legislative process
+and procedure, budget process.
+It provides an opportunity for Members to get to know CRS
+staff and their capacity, and there is no one else present for
+distractions--no staff, no press--it is a very, very good
+program.
+Mr. Carey. I would be remiss if I did not ask this
+question, but what other areas that you guys are doing--I know
+you have done a lot with AI, you have done a lot with
+visually--but in terms of cost-savings as it relates to your
+organization, improved efficiency, what are some of the things
+that you are doing with CRS?
+Mr. Newlen. Well, thank you for asking that question. I did
+not answer Mr. Kilmer's question very thoroughly, so I am glad
+that you have posed it.
+When I came, when I started at CRS, I had 13 focus groups
+within the span of 5 weeks, where I met with staff in an
+informal situation to--and this is the question I posed to
+them: What is it that I can do in the short time that I am here
+to help you better serve the Congress? They came through with a
+lot of--a lot of different ideas.
+For those that did not want to participate in a forum, I
+encouraged them to send emails, and I got 400. I took all of
+that information and started looking at what are low-hanging
+fruits in terms of efficiencies that we can get. I will give
+you a couple examples.
+The staff were using a Zoom account, which, you know, our
+bread and butter is consultations with Members and staff,
+whether it is in person or virtually. They, unfortunately, had
+the lowest priority Zoom account. At 40 minutes, it would
+cutoff. They have to go back--well, you can imagine the
+embarrassment if you are doing this with a Member of Congress.
+Within a week, thanks to our--the Library's technology
+office, everybody in the Service has a Zoom, that needs one,
+has a Zoom Pro account.
+The other thing that I discovered was--actually, two other
+things. Because we have so many deadlines, and one of our, you
+know, hallmarks is responsiveness, there was a lot of concern
+about IT support in our divisions and offices and frustration
+with getting things resolved very quickly. Everything we do is
+deadline-driven. You know, if your printer is not working, your
+software is not working, we use all kinds of different software
+throughout the Service depending on the policy need.
+We get a pilot where we embedded technicians in the Service
+unit and the offices, and I can say that it has been 100
+percent successful. It has reduced the time, in terms of
+efficiencies, and the frustration that our analysts, attorneys,
+and librarians have in getting their problems resolved.
+The other thing which has been wonderful, was a big
+complaint, was cell coverage. I will give you one example that
+I think is very graphic. I was walking by an office of one of
+our Government and finance analysts who routinely does
+briefings for Members, and I saw that she had her cell phone
+hanging in the--like on the hinge of her door.
+I said, Val, what is going on here? She said, well, that is
+the only place in the office that it will ring. I said, you
+cannot be serious. She said, yes, when I answer it, I stand
+there, and then I tell the person I have to go out so that I
+can call you back.
+Well, that was ridiculous. Again, working with Judith
+Conklin and John Rutledge in our Office of CIO, they have done
+all kinds of things to upgrade that, Wi-Fi extenders, which
+has, again, improved efficiency and also improved morale.
+Mr. Carey. Well, and just to go back to your thing. If for
+some reason you are on a Zoom and you cutoff after 40 minutes,
+I am a firm believer that the mind can only handle what the
+seat can bear, so that 40-minutes timeframe is probably not a
+bad thing, so----
+With that, I really appreciate your testimony. I had an
+opportunity to read through it, and thank you for being here
+today.
+With that, Madam Chair, I yield back.
+Chairwoman Bice. Thank you, Mr. Carey.
+A couple of just quick comments. You mentioned the
+Williamsburg visit, getting the Members together and having a
+conversation about some of those things. I think,
+unfortunately, as a Member of the 117th congressional class, we
+unfortunately did not have that opportunity, which I think
+would have been fantastic.
+I would also say, I think it would be helpful to have some
+of those things with staff, because you all, especially your
+analysts, are interacting with staff so much more than even the
+Members directly, and I think that we can hopefully try to find
+some ways to work with your team to find the opportunities to
+put you all together in person.
+The second thing is, you mentioned AI, and I think that
+looking at whether or not we have the opportunity to utilize AI
+to create those bill summaries is really, I think, important. I
+also agree with you, that caution has to be had, though,
+because if we were participating or listened to the hearing
+yesterday, which was really about AI and the legislative
+process, there was a lot of conversation around inaccurate
+information being presented.
+I think that I look at it as sort of a garbage in, garbage
+out, right? Whatever you put into that AI platform, if it is
+not, you know, sort of vetted and thorough, then it is going to
+come out incorrect, and the human oversight of that, not only
+on the front end, but also as the product is produced, is going
+to be really important.
+I appreciate you sort of recognizing those pitfalls that
+have the potential to be problematic for you all.
+One last final question before we wrap up this quick
+segment, and that is, you know, you talked a little bit about
+some of the agencies that have been less than forthcoming with
+providing data to you.
+Have you had any pushback from other entities that do not
+want you to have this data for some reason? Have they been
+really forthcoming to say, we do not want to give this to you,
+and what was their reason for that if they did?
+Mr. Newlen. Probably less that they--they have not been
+upfront about saying they do not want to give it to us, but the
+reality is, they do not want to give it to us. They use
+different ways of, you know, throwing up roadblocks, requesting
+MOUs. They want to know which office that we are, you know,
+working for. You know, often we are doing anticipatory work, so
+there is no office.
+Often a Member, to answer a request, we need data from an
+agency, and we have had some negotiations that have been going
+on for several years. That is why I am so delighted that the
+Subcommittee has taken this up because this could be a huge--a
+huge improvement for us.
+Again, it is something I heard from our analytic staff
+about the frustration that they have, and it impacts our
+service to you.
+Chairwoman Bice. Sure, yes. Mr. Newlen, thank you so much
+for being with us this morning. We appreciate your time and
+your testimony, and look forward to continuing to move these
+initiatives forward.
+At this time we will pause briefly to set for the second
+panel of witnesses. Thank you for your time.
+Mr. Newlen. Thank you.
+Chairwoman Bice. I will now introduce our second panel of
+witnesses. Our first witness is Ms. Elise Bean, the director of
+the Washington office of the Carl Levin Center for Oversight
+and Democracy at Wayne State University Law School.
+Ms. Bean worked as an investigator for Senator Carl Levin
+for 30 years, including 15 years at the U.S. Senate Permanent
+Subcommittee on Investigations as staff director and chief
+counsel. After leaving the Senate, she helped establish the
+Levin Center, and now works to help legislators and staff
+conduct oversight investigations.
+Next, we welcome Dr. Matthew Glassman, a senior fellow at
+the Government Affairs Institute at Georgetown University.
+Prior to joining GAI, Matt spent 10 years on Capitol Hill at
+the congressional Research Service, including 2 years as a
+detailee to the legislative branch Subcommittee on the House
+Committee on Appropriations.
+Our final witness is Dr. Nicholas Hart, president and CEO
+of Data Foundation. Previously, Dr. Hart served as the director
+of the Bipartisan Policy Center's Evidence Project, building on
+his work as policy and research director for the U.S.
+Commission on Evidence-Based Policymaking.
+Thank you to our second panel of witnesses for being with
+us this afternoon. Please remember to press the button on the
+microphone in front of you so the light comes on, and when you
+begin speaking, you will have 5 minutes. After 4, the light
+will turn yellow, and when the red light comes on, your 5
+minutes have expired, and we would kindly ask that you please
+wrap up your comments.
+At this time, I am delighted to recognize Ms. Bean for 5
+minutes.
+STATEMENTS OF MS. ELISE BEAN, DIRECTOR, WASHINGTON OFFICE, CARL
+LEVIN CENTER FOR OVERSIGHT & DEMOCRACY; DR. MATTHEW GLASSMAN,
+SENIOR FELLOW, GOVERNMENT AFFAIRS INSTITUTE, GEORGETOWN
+UNIVERSITY; AND DR. NICHOLAS HART, PRESIDENT AND CEO, DATA
+FOUNDATION
+STATEMENT OF MS. ELISE BEAN
+Ms. Bean. Subcommittee Chair Bice, Ranking Member Kilmer,
+and the Subcommittee Members, thank you for this opportunity to
+support the Subcommittee's efforts to modernize and strengthen
+the congressional Research Service, especially because CRS
+strongly supports congressional oversight.
+As you mentioned, I represent the Carl Levin Center for
+Oversight and Democracy, which is part of Wayne State
+University Law School in Detroit.
+Senator Levin used to say, ``Good Government requires good
+oversight.'' He also appreciated the fact that the Supreme
+Court has long recognized Congress' need for information to
+carry out its constitutional duties. Nearly 100 years ago in an
+8-0 opinion upholding a congressional subpoena seeking
+information related to the Attorney General, the Supreme Court
+wrote, quote, ``The power of inquiry, with process to enforce
+it, is an essential and appropriate auxiliary to the
+legislative function. A legislative body cannot legislate
+wisely or effectively in the absence of information,'' end
+quote. The Supreme Court recently explicitly reaffirmed those
+principles in 2020 in the Mazars case.
+Investigating facts, what happened and why, and analyzing
+complex problems are at the heart of congressional oversight.
+They are critical to Congress' work to enact effective
+legislation, allocate Federal funds, inform the public about
+what its Government is doing, and act as a check on the
+executive branch. Sixty years ago the Supreme Court held that,
+quote, ``it is unquestionably the duty of all citizens to
+cooperate with the Congress in its efforts to obtain facts
+needed for intelligent legislative action,'' end quote. The
+duty to cooperate with congressional information requests,
+including through CRS, applies to Federal agencies no less than
+others and is fundamental to the checks and balances envisioned
+by the Constitution.
+CRS has long played a key role in helping Congress gather
+facts and conduct effective oversight. CRS employs hundreds of
+experts whose sole responsibility is to answer questions and
+provide research requested by Congress. CRS has also built a
+reputation as a source of nonpartisan, reliable information
+trusted by both sides of the aisle. It produces a wealth of
+data in service to Congress. Its latest annual report states
+that in fiscal 2022, CRS responded to over 73,000 congressional
+requests for information.
+Senator Levin's staff made frequent use of CRS. To offer
+one example, some years ago, Senator Levin wanted to
+investigate how you set gasoline prices. At the time, his staff
+knew very little about the subject, so we called in CRS'
+experts who provided multiple briefings to educate both sides
+of the aisle at the same time on key facts: how the gasoline
+market worked, what factors affected price, where do you get
+data on gasoline prices over time, and much more. It was
+invaluable assistance given our limited staff, our limited
+resources, and limited time. CRS was a force multiplier.
+That is just one example. The CRS annual report includes a
+list 65 pages long of reports and other written products issued
+during a single year on a vast array of topics for Congress.
+Examples include U.S. Immigration Courts and the Pending Cases
+Backlog; The Dark Web: An Overview; a primer on China and Hong
+Kong; Cost-Benefit Analysis in Federal Agency Rulemaking.
+To produce those types of reports, CRS needs access to data
+held by Federal agencies. For over 50 years to obtain agency
+information, CRS has relied on the Federal statute, 2 U.S.C.,
+section 166, which requires Federal agencies to comply with CRS
+information requests when those requests are authorized by a
+Committee.
+It is time for Congress to modernize that law. One of the
+bills under consideration today would do just that. For
+example, the bill would extend CRS' authority to obtain agency
+information, not only when CRS is authorized by a Committee,
+but also when authorized by an individual Member of Congress or
+when CRS itself anticipates Congress will need the information.
+The bill also states explicitly that agencies must produce
+information in, quote, ``a timely manner,'' end quote.
+The improved statutory language would not, of course, cure
+all of the problems that CRS faces with agencies. This
+Subcommittee and other House and Senate Committees will still
+need to lend CRS a helping hand by overseeing agency compliance
+with the law. At the same time, enacting a stronger statute
+would send a clear message to the Federal agencies that they
+are expected to comply with CRS requests.
+CRS is one of the few institutions dedicated to supporting
+the work of Congress, including congressional oversight. It is
+also one of the few institutions trusted by both sides of the
+aisle. In return, Congress should support CRS. Equipping CRS
+with better legal authority to obtain the information to which
+Congress is entitled under the Constitution will benefit every
+Member of the House and Senate.
+Thank you.
+
+PREPARED STATEMENT OF ELISE BEAN
+
+Chairwoman Bice. Thank you, Ms. Bean.
+At this time, I recognize Dr. Glassman for 5 minutes.
+STATEMENT OF MATTHEW GLASSMAN
+Mr. Glassman. Chairwoman Bice, Ranking Member Kilmer,
+Congressman Carey, thank you for the opportunity to testify
+today.
+As you mentioned, I am a senior fellow at the Government
+Affairs Institute at Georgetown University. I am also an alum
+of the congressional Research Service where my portfolio
+consisted of institutional issues in Congress, including
+congressional operations, budget and appropriations process,
+and separation of powers.
+I am a legislative branch patriot and committed to the goal
+of a modern, capable, and powerful legislature. I strongly
+support the proposed legislation to expand CRS' access to data
+from the executive branch.
+I want to make four points today: First, access to data is
+vital for CRS. CRS' mission is to provide Members and staff
+nonpartisan, objective, authoritative, and timely research and
+analysis. To do this, CRS analysts use data from a wide variety
+of Government, academic, and private sector sources. There is
+simply no way to do high quality research and policy analysis
+without data.
+During my time at CRS, I do not think there was a single
+day where I did not make use of the vast data collections
+available to me at CRS or in the Library of Congress.
+More than once, I held my breath while looking for what I
+needed within CRS, knowing that if I did not find it there, I
+was going to have to head to sources outside the library where
+the wait would be longer and the results unknown.
+Second, during my time at CRS, I often experienced
+frustrating difficulties obtaining data from the executive
+branch. In rare cases, I was simply told by a Federal agency I
+could not have the data. More often, my point of contact was
+not sure whether they should share the data with me.
+In many cases, they were not even familiar with CRS. Where
+are you calling from? Is that a Government agency? was a very
+common response. Many of these contacts, quite reasonably told
+me they would have to check with their supervisors.
+My data request, presumably a pretty low priority on their
+busy agenda, was often forgotten until I called back 3 days
+later, only to have the entire process start over again.
+For data that I would be requesting on an ongoing basis, my
+usual strategy was collegial. I would try to make a friend at
+the agency. In this sense, I often felt like I imagined
+journalists feel writing stories. I always felt like I was
+asking someone to do me a favor.
+To be clear, in most cases where I sought data from the
+executive branch, I eventually was able to get it, but the time
+it could take, the hassle of the process, and the possibility
+of ultimately not getting the data often led to a worse CRS
+response for Congress.
+Third, the proposed legislation we have here today will
+improve the situation, especially if it is well-implemented.
+I fully support H.R. 7593. Requiring executive branch
+agencies to share information for all requests, not just
+Committee requests, will give CRS analysts and management a
+firm leg to stand on when requesting this data from the
+agencies.
+For high-profile data requests that management gets
+involved in negotiating, the new authority will be extremely
+helpful on its own, and it will be great for a CRS analyst to
+be able to politely point to statutory language in emails and
+phone calls requesting data.
+That said, I do not believe the statutory authority alone
+will fully solve the problem. As noted earlier, the stumbling
+block for me was often timeliness due to agency unfamiliarity
+with or uncertainty about their obligations.
+Consequently, for many analyst-to-agency simple data
+requests, the new authority would be most effective if it is
+paired with an information campaign. Perhaps starting with the
+leg affairs shops at the agencies, such that the agencies
+understand their updated obligations to provide CRS with data.
+Finally, the need for these data access authorities should
+be seen as a first step toward broader statutory reform for
+CRS. The CRS organic statute was last substantially revised in
+1970. The reforms under consideration today suggest the entire
+statute could use review.
+Congress has changed significantly in the last 50 years.
+Two quick examples: First, in 1970, policymaking was strongly
+centered in the Committee system controlled by powerful old
+bull chairs and built on top of a strict seniority system. In
+that atmosphere, it was natural to organize a support agency
+like CRS around the Committees.
+Times have changed. The relative power of the Committees
+has weakened, and policymaking roles have expanded far outside
+the Committee system.
+CRS requests for analysis now routinely come from all
+corners of the Hill: Member offices, leadership, CMOs, even
+informal working groups.
+Second, technology. The 1970 Act could not have foreseen
+the explosion of digital information and communications
+available to Members and staff, all on computers carried in
+their pockets. This has made some of CRS' statutory mission
+seem plain anachronistic, such as providing Committees at the
+beginning of Congress with lists of policy areas they may want
+to study, while also in some ways, making CRS more distant from
+the Hill as emails and pdf reports have replaced face-to-face
+briefings and physical information delivery.
+Updating the CRS statute to adjust to these realities will
+better focus the mission of the service and allow it to better
+serve the Members.
+Thanks for having me here today, and I look forward to your
+questions.
+
+PREPARED STATEMENT OF MATTHEW GLASSMAN
+
+Chairwoman Bice. Thank you, Dr. Glassman.
+Finally, Dr. Hart, you are recognized for 5 minutes for an
+opening statement.
+STATEMENT OF NICHOLAS HART
+Mr. Hart. Thank you.
+As someone who has spent most of their career in the
+executive branch, I am happy to say I know what CRS is.
+Thank you for the invitation to join today's hearing. As
+you noted, I lead the Data Foundation, which is a nonpartisan
+national nonprofit that works to improve Government, business,
+and society through open data and evidence-informed policy.
+I am really pleased to be here to share perspectives about
+the use of data and evidence to support Congress. I get to zoom
+out of it.
+Because Congress needs data, it is actively using evidence
+and really always has. As the world, country, and Congress
+change, Congress really needs to review, as an institution,
+whether it is actually receiving the right kinds of data and
+evidence to support effective oversight and decisionmaking.
+Importantly, our value systems are actually part of how
+each of you, as Members, represent the values in our Democratic
+Republic, and that is actually vital to decisionmaking and our
+success as a country. That is a very important input that we
+should not miss.
+Evidence must have a seat at the table. It must be a key
+seat. Congress, as an institution, needs to have procedures and
+processes to access what Members and staff actually need to
+fulfill effective legislative and oversight functions. In a
+sense, we are aspiring to align the best available evidence in
+decisionmaking for the legislative process.
+Ensuring Congress has the data and evidence it needs at the
+right time and in the right format for decisions requires
+planning and coordination, and even a sense of humility about
+what we want and need to know.
+Evidence helps determine, as Mr. Kilmer was alluding to,
+whether, how, when, where, and for whom policies work and also
+helps describe the conditions and solutions that we want.
+We have seen lots of bipartisan examples over the years. I
+alluded to some in my written statement, including things like
+the bipartisan negotiations that achieves solvency for the
+social security disability trust fund back in 2015, along with
+major reforms for the program.
+We are talking right now about the child tax credit
+expansions and improved evaluations for tax expenditures. A
+major point of discussion that we desperately need, and we know
+from the CTC that it has impacts on reducing child poverty.
+Using evidence should be easy for decisionmakers and not
+challenged by institutional processes and barriers to access.
+This is why I strongly endorse the congressional Evidence-
+Based Policymaking Commission resolution--a mouthful. A broader
+cohort of the data and evidence community will also agree with
+us.
+Establishing this Commission is a low-cost, rapid mechanism
+for addressing the question of how Congress can establish
+capacity, process and procedure to better use data and
+evidence. There are so many resources today that already exist
+to do this, and the question is, how can we better achieve this
+goal through congressional support agencies and executive
+branch agencies?
+A prior evidence commission back in 2017, established by
+then-Speaker Paul Ryan and Senator Patty Murray, focused on
+ways to drastically improve executive branch capabilities
+through data infrastructure and evidence capacity. They
+achieved unanimous recommendations.
+Because of the Ryan-Murray Commission and those unanimous
+recommendations, Congress passed the Evidence Act, the
+foundations for Evidence-Based Policymaking Act. It includes
+Congressman Kilmer's Open Government Data Act, and Congress
+later passed the National Secure Data Service Authority.
+The Ryan-Murray Commission directly led to an improved
+understanding of what evidence is, established new leadership
+roles, like the chief data officers and evaluation officers to
+coordinate with senior leaders, new data strategies and data
+governance in agencies, new data sharing projects and
+evaluation, advanced data governance with privacy improvements,
+and planning for evidence through learning agendas resulting in
+OMB defining evaluations, a core function of Government. There
+is even an expectation of open data by default in the executive
+branch.
+This is a lot, and all of that happened over the last 5
+years, but did not necessarily align with the congressional
+support function and the timing of decisions in Congress. That
+means there is a lot to think about for this institution and in
+Congress.
+Congress still needs to think about its capacity and what
+infrastructure it needs, noting the 50 years--50-year-old
+design and gaps that currently exist.
+Should Congress have a CEO, like it mandated for executive
+branch agencies, how do we think about CRS data access noting
+that the executive branch is building out a standard access
+portal for data access? How do we think about engagement and
+transparency?
+There are so many other issues that a congressionally
+focused commission can think about. The Commission offers an
+opportunity to support Member and congressional staff in the
+endeavor to produce and encourage good policy outcomes for the
+American people.
+Congress needs a coherent, depoliticized discussion about
+the process and accountability of evidence, specifically, what
+it wants to function better as an institution and using
+knowledge starting with the question.
+I encourage Members to advance this congressional Evidence
+Commission to support this discussion and planning for ways to
+strengthen Congress in the years ahead.
+Thank you.
+
+PREPARED STATEMENT OF NICHOLAS HART
+
+Chairwoman Bice. Thank you, Dr. Hart.
+Ranking Member Kilmer is, as we often are, floating between
+Committees right now, so he will return shortly.
+We will start with questions, myself first, and then we
+will try to move around.
+First of all, thank you all again for being here this
+morning/afternoon. We appreciate your time.
+I want to start--you mentioned something toward the end of
+your testimony that I think ties in perfectly with the question
+I have here, and I will open it up to everyone on the witness
+panel, and that is, Dr. Hart, your testimony calls for
+depoliticized discussion of how Congress can use evidence to
+better function as an institution using the knowledge being
+gained.
+Certainly, that is a very admirable goal, but how do you
+get around the fact that data can be used to promote sort of
+partisan aims? How can we be certain that the data being
+presented is not biased, especially when both sides point to
+data in these policy debates?
+Mr. Hart. A major component of this is thinking about how
+we transparently share the information evidence that we are
+using, and this is actually one of the pillars of Evidence
+Commission, the Ryan-Murray Commission when we talked about
+evidence-based policymaking.
+Transparency was one of the five pillars, and in the
+executive branch, this is something that we have encouraged,
+promoted as we are talking about sharing more information from
+the American public. It is one of the reasons that we promote
+openness of data.
+It is not to say that we will never have different views
+about what data mean and what data analysis means, but the more
+that we are able to share and have open and honest dialogs
+about the information that is in front of us, the more we can
+have a productive discussion about what problems are really
+there and how to solve them.
+This is one of the reasons that the Open Government Data
+Act is such a powerful piece of legislation that should be
+something that Congress is interested in providing oversight of
+and we should be moving forward with.
+It is a topic in front of us.
+Chairwoman Bice. Thank you.
+Ms. Bean, you mentioned in your testimony the 65 reports
+that are done annually by CRS that provide an, I think,
+incredible amount of information to us, and it is one of the
+things I think is maybe most overlooked, as Members and staff,
+that these reports are done and are out there for our viewing
+pleasure, but also to gain insight for.
+My question to you really revolves around why do support
+agencies have their data access authorities detailed in
+statute?
+Ms. Bean. Well, I think there are two reasons: First, we
+are a Nation of laws, and so it is very helpful for an agency
+to have a very clear, strong law that it can point to that
+enables it to get the information that Congress needs. I think
+that is sort of one reason it is important to have that kind of
+statutory foundation.
+Another reason is that Congress, you know, needs
+information for virtually all of the things that it does,
+whether it is enacting legislation, spending taxpayer dollars,
+overseeing the executive branch. It needs that information.
+We want to provide that strong foundation for its support
+agencies to act as those force multipliers to help the staffs
+that have limited resources and limited time get the
+information they need.
+Chairwoman Bice. Excellent.
+Dr. Glassman, understanding that you were actually at CRS a
+while ago, my question to you is, may be a little more
+technical, and that is: Do confidentiality agreements between
+analysts and their congressional clients prevent analysts from
+sharing those raw datasets that they may be given by the
+executive branch?
+Mr. Glassman. You mean, confidentiality between an analyst
+like myself and a congressional requester, such as you?
+Chairwoman Bice. Correct.
+Mr. Glassman. You know, confidentiality at CRS is airtight
+between CRS, the agency, and the office of the Member or the
+staff requesting. I always thought about it as that was the
+baseline. I would never tell anyone outside the office I was
+working for or CRS what was going on.
+I would certainly talk to other analysts and ask them to
+help me on something. Unless the requester specifically said do
+not talk to anyone else in my office, I would think it would be
+sort of fair game to talk to someone in their office.
+In terms of data coming from the executive branch, when I
+had it, I never used it in terms of handing over raw datasets.
+In fact, often, when I was dealing with the executive branch,
+that.
+Would be the one condition they would want on the data, I
+would say. Well, we will give it to you, but you are just using
+this to write a report with analysis, right? I would say, yes,
+and then I would do that. Then I would have the data, and I
+would continue to use it for that purpose.
+I would never transfer sort of large-scale data to
+Congress. I think I would probably be very weary of doing that
+without sort of getting my supervisor involved or discussing it
+further with the agency, the requester.
+Now, I often wrote things, analysis pieces that were
+confidential to Members who I then went back later and said,
+Hey, I have another client who might be interested in similar
+things. Is it OK if I share that with them?
+That happened routinely, and I almost never had anyone say
+no to that. I would think that that would be how I would handle
+these sort of data things.
+You know, I think it is understandable if you are taking
+massive raw datasets from the executive branch agencies. I
+think they would be concerned about this, and I think I would
+be, too.
+Chairwoman Bice. I think for many looking at this issue,
+they want to make sure that that information may not be shared
+specifically or directly with, you know, either Members or
+staff, but still the information that is provided there within
+is given to you all and then you all can sort of translate
+that, put it into those papers, and provide us the data that we
+are asking for.
+Yes, perfect. Thank you for that.
+Since Mr. Kilmer has not returned yet, I am going to move
+over to Mr. Carey for 5 minutes of questioning.
+Mr. Carey. I appreciate that, Chairwoman.
+You know, one of the things that--it is interesting being
+former staff. Ms. Bean, you worked for Senator Levin for a
+number of years.
+Ms. Bean. Thirty years.
+Mr. Carey. Thirty years?
+Ms. Bean. Yes.
+Mr. Carey. See, you know, that is where AI should do a
+better job when they ask the questions because they said
+decades of experience. I would not have gone there, but.
+As somebody who watched his career, I mean, everybody knows
+about his service on the Armed Services Committee and all the
+things that he did, but truly was a champion for pensions and
+healthcare for retirees, a rare gift these days. Glad you are
+continuing his legacy.
+With your decades of experience and oversight and managing,
+can you lay out for us, in straightforward terms, what Congress
+is legally entitled to obtain from the executive branch? I know
+you worked on this with agencies and departments.
+Ms. Bean. Well, the Supreme Court has been very clear that
+as long as Congress has a legislative purpose, Congress has
+broad authority to obtain information. The Supreme Court first
+affirmed Congress' authority to conduct oversight of the
+executive branch nearly 100 years ago in McGrain vs. Daugherty,
+and it reaffirmed that authority in 2020 in the Mazars case.
+Here are some direct quotes from the Supreme Court in
+Mazars: Quote, ``congressional power to obtain information is
+broad and indispensable,'' end quote.
+Quote, ``It is the proper duty of a representative body to
+look diligently into every affair of Government,'' end quote.
+Quote, ``Unless Congress have and use every means of
+acquainting itself with the acts and disposition of the
+administrative agents of the Government, the country must be
+helpless to learn how it is being served,'' end quote.
+The Supreme Court could not have been more clear about
+Congress' right to obtain information for a legislative purpose
+from the executive branch, and that includes when Congress is
+enacting legislation, overseeing the executive branch, and it
+includes information requests from its support agencies since
+the only reason they are asking is to assist Congress.
+Mr. Carey. Let me go into that. Given the reality of the
+executive legislative relations, do you think that changing
+CRS' statute would make a difference?
+Ms. Bean. I do. I mentioned before that we are a Nation of
+laws, and one of the first things executive branch agencies
+like to know is, Well, what is your legislative authority? What
+is your statutory authority.
+Having that strong, clear, statute would make a difference.
+A strong Congress needs a strong CRS operating under strong
+statutory authority.
+Mr. Carey. I cannot remember whether it was you, Dr.
+Glassman, or Dr. Hart. In reading your bios, I know we have a
+real--we have a very educated body that we are asking questions
+to.
+What is it that we can do as Members of Congress that can
+help CRS be--help the agencies understand the role of CRS?
+Because that is--you know, you get young staff that comes in,
+and whether it is, you know, here in the Capitol or whether it
+is in an agency, and they just do not really understand the
+role.
+What could we be doing? I am going to go to you, Dr.
+Glassman. What could we do better as a Congress to make sure
+the agencies know your role?
+Mr. Glassman. Sure. I mean, I think, you know, one of the
+biggest frustrations I would have, that I would often have with
+staffers when we were both working on something together, was
+that the agencies did not see CRS as an extension of, say,
+Committee staff, right.
+Making sure the agencies knew that when CRS was requesting
+something, it was no different than if a Committee staffer was
+requesting something. At least bringing it up on that plane
+would be extremely helpful.
+In part, because, you know, there were a fair amount of
+times I would have a request where I would be working with a
+Committee staffer, and the reason I was requesting the data is
+because they wanted to remain anonymous, and they did not want
+the agency to know that this Committee was looking at this or
+that they were looking at this.
+I would go to the agency, and they would sort of just, you
+know, not answer my thing. I would go back to the staffer and
+be, like, Can you call? They would, you know, throw their hands
+up in the air because that was exactly what they did not want
+to do.
+Making sure the agencies know that CRS should be treated as
+the equivalent of Committee staff when they are dealing with
+leg affairs shops, or when they are dealing with program
+managers would be great.
+I can imagine writing lines in Committee reports and
+appropriations bills just reminding them of that, right, when
+they get their funding. Yes, that would be the most beneficial
+thing I think.
+Chairwoman Bice. Perfect.
+Mr. Carey. I will go to Dr. Hart. I mean, the same type of
+question. What do you think that we could be doing a better job
+of as Member of Congress to make sure the agencies understand
+the role of CRS?
+Mr. Hart. I think there is a lot, actually, that sort of
+fits in this conversation about the access of CRS to executive
+branch data, including some very important privacy discourse.
+CRS does not necessarily need unfettered access to
+executive branch information. For example, the Census Bureau
+collects a lot of information from the American public that we
+place very important privacy protections on. We are not
+necessarily talking about CRS getting access to the
+confidential records of the Census Bureau.
+We are having a conversation about aggregate information, I
+think, is largely what CRS is looking for and ensuring that
+aggregated administrative records. I think there is an
+important starting point that CRS is going to need to
+understand about what it actually needs.
+Then there is a second level of this about the executive
+branch has an expectation of transparency in communicating when
+it is using data. CRS does not have that same expectation. You
+are just talking a little bit about a veil of secrecy in a
+sense between the communications that CRS has with Members.
+However, when we talk about evidence production in the
+executive branch, we are often encouraging transparency. I
+think we are going to have to reconcile that.
+Congress actually told the executive branch agencies to
+have more transparency as it is producing evidence. That to me
+seems like a bit of a conflict.
+I think if CRS is going to have this legislation move
+forward, that communication--maybe this is part of the
+information campaign that you are describing--will have to
+figure that out.
+Chairwoman Bice. Thank you.
+Mr. Carey. Well, listen, I thank the witnesses, and I thank
+the Chairwoman for being indulgent with her time.
+With that, I yield back.
+Chairwoman Bice. Thank you, Mr. Carey.
+At this time, I recognize Ranking Member Kilmer.
+Mr. Kilmer. Thanks, Madam Chair.
+First, I want to speak in support of the Committee
+deconfliction tool, which my clone did not arrive at work
+today.
+Chairwoman Bice. Second.
+Mr. Kilmer. First, I wanted to ask Dr. Hart, you know, for
+folks who maybe are less familiar with the history of the U.S.
+Commission on Evidence-Based Policymaking and the work it did,
+I was just hoping you would share a little bit about the nuts
+and bolts of how the Commission was staffed, how its agenda was
+set, what it did on a day-to-day basis.
+You know, assuming the work was driven by trying to arrive
+at a set of recommendations, were there predetermined
+categories or areas of jurisdiction that the Commission used as
+guideposts? Were there competing priorities? How were those
+resolved?
+Mr. Hart. Yes. The Evidence Commission from Ryan and Murray
+had about 18 months to do its work. It was a very fast timeline
+and was charged with, essentially, studying the whole of
+Government, the whole of the executive branch.
+Its initial charge was to answer a question about whether
+there should be a clearinghouse for data in the executive
+branch. That was a pretty wicked question, in essence. The
+answer was very quickly no, by the way.
+It had a staff of 10, so it was not a large staff. It
+largely came from executive branch agencies and 15 politically
+appointed Members, five of which were appointed for their
+expertise in privacy, which was very important in the final
+recommendation formulation.
+SIn addition to the focus on that data clearinghouse
+question, it had priorities that were very specifically around
+data access, the theme of much of the conversation around CRS,
+privacy protections, and the capacity of the executive branch
+to actually do this work.
+All of the recommendations from that Ryan-Murray
+Commission, essentially, focused on those priorities. The way
+that the Commission converged on those priorities I think was
+something that is actually very relevant to the congressional
+Evidence Commission. Some of it came from the Members, the
+sponsors.
+In the very first meeting of the Commission, the staff of
+those Members presented and had some conversation with the
+Members, but all of the individual Members went around the
+table and said what one of their priorities was.
+I still remember the co-chair, Ron Haskins, a former Ways
+and Means staffer said if I get nothing else from this
+Commission, I want there to be chief evaluation officers in
+Government. By God, that was one of the recommendations of the
+Commission.
+One of the reasons that we have an evaluation function in
+Government today that is across Government is largely a credit
+to Ron Haskins.
+I would say it was a very noncontroversial commission
+behind the scenes. The Members really collaborated, much a
+testament to good leadership from the chair, Katherine Abraham,
+and the co-chair, Ron Haskins, but also to a very savvy
+executive director, Shelley Martinez, who knew a lot about the
+functioning of Government. She came from the Federal
+statistical system over in the leadership office at OMB.
+Good leadership, savvy first meetings, some good planning,
+but it was a very efficient and fast mechanism to get to
+recommendations.
+Mr. Kilmer. You know, one of the issues that the
+Modernization Committee looked at was just congressional
+capacity. One of the things I sort of grapple with is if
+Congress, if the institution were to have better access to data
+and evidence, does the institution have the capacity to
+actually use it and to incorporate it?
+Are Members in their offices sufficiently trained in how to
+actually use evidence for the purposes of public policymaking?
+I would love to get your take on that, and if you do not
+think we have the capacity, what do we do to develop that
+capacity within the institution?
+Ms. Bean. I will just say that I do think Congress has the
+capacity to use it, but I think it depends on how it is set up.
+For example, if you had an evidence-based policy commission,
+perhaps they could work on developing what I would call
+oversight dashboard for each Committee. Each Committee would
+decide what is the information that they want that would help
+them to do effective oversight.
+For example, you might say for this agency--several
+agencies that we oversee, improper payments. What is the
+information out there on that? What are key lawsuits? Maybe
+what are the high risks identified by GAO.
+There are all kinds of ways to avoid being biased
+information by using entities like GAO or IG or something like
+that, and a way to focus. You are not going to get everything
+about an agency, but what are the things that we would want
+that would help us do evidence-based policymaking.
+I think that is a way. You are going to have to set
+priorities. You are going to have to focus. Yes, I think
+Committees would love to have an oversight dashboard that gave
+them certain kinds of information in a very easy way to access
+and digest.
+Mr. Kilmer. Anyone else want to swing at that pitch, or
+should I yield back?
+Mr. Glassman. I mean, I think that everyone is concerned
+about sort of congressional capacity generally here. We have
+had two broad periods of expansion of commercial capacity in
+the 1940's and then again in 1970. Each followed a major
+expansion of the executive branch.
+We have had a third major expansion of the executive branch
+after 9-11 in the last 20 years, we have had no sort of
+corresponding increase from Congress.
+You can see this from a CRS perspective. The number of
+requests have exploded. The population is getting bigger. There
+are more and more constituents communicating with Congress. The
+number of staffers in those House offices remains at 18. I
+think there is no doubt this is a challenge.
+In regard to data, from my perspective at CRS, I do not
+really envision a world where CRS had unfettered access to
+executive branch data, which I do not necessarily think should
+be the case, where a CRS analyst would be sort of, like,
+digging through personally identified information or grabbing
+terabytes of data from the Census Bureau in doing that.
+In my experience, getting data from the executive branch
+was almost always an on-demand sort of thing from Congress.
+There were anticipatory reports I wrote where I needed some
+data from the executive branch, but that was not where sort of
+the bottlenecks were. The bottlenecks were when I was
+responding to specific requests from specific requesters for
+timely things.
+I am not wholly concerned about sort of a flood of data
+coming in if CRS were given sort of expanded data authorities
+in that sense and having the capacity to deal with that.
+That said, the broader issue of having a capable
+legislative branch that can handle sort of the modern
+responsibilities of this incredibly complex policymaking
+requires increased capacity, not only of its workforce but of
+the training and tools to use the data that is now out there.
+Mr. Kilmer. Thanks.
+I will mention the Modernization Committee does have a
+recommendation to increase the staff cap, too.
+Chairwoman Bice. Parking. Parking is an issue for that,
+certainly.
+I would also just throw out there, Ranking Member Kilmer
+and I have also been working on a provision that would allow
+for itemized--what am I trying to say here--anonymized casework
+data, so that we can actually see almost real time what is
+happening from a casework standpoint.
+I use the example of the issues of passports. Certainly,
+after COVID, people wanted to travel again, and all of our
+offices were absolutely bludgeoned with people's request for
+new passports because many--and oftentimes their passports had
+expired, and they were rushing to try to get new passports.
+Had we known that that was coming, we would have been able
+to maybe prepare accordingly or differently. That sort of
+provision I think could be helpful in trying to address some of
+the concerns.
+Mr. Kilmer, any additional questions?
+Mr. Kilmer. I yield back. Thanks.
+Chairwoman Bice. Alright, fantastic.
+Well, again, I want to thank our second panel of witnesses
+for being with us today.
+The Members of the Subcommittee may have additional
+questions for you, and we ask that you would please respond to
+those questions in writing should they be sent your way.
+If there is no further business to be had, I thank the
+Members for their participation.
+Without objection, the Subcommittee stands adjourned.
+
+QUESTIONS FOR THE RECORD

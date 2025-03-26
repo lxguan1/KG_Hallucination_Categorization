@@ -1,1 +1,728 @@
-MARKUP OF H.R. 9488, H.R. 7764, H.R. 6394, H.R. 6969, H.R. 9489, H.R. 9487, and H.R. 6242 ---------- September 11, 2024 Committee on House Administration, House of Representatives, Washington, D.C. The Committee met, pursuant to notice, at 11:19 a.m., in room 1310, Longworth House Office Building, Hon. Bryan Steil  presiding. Present: Representatives Steil, Loudermilk, Bice, Carey, D'Esposito, Lee, Morelle, Torres, and Kilmer. Staff present: March Bell, General Counsel; Annemarie Cake, Professional Staff and Deputy Clerk; Rachel Collins, Deputy General Counsel; Alexander Deise, Parliamentarian; Thomas Lane, Elections Counsel and Director of Elections Coalitions; Kristen Monterroso, Legislative Clerk; Marissa Mullen, Deputy Director of Member Services; Phillip Pinegar, Oversight Professional Staff; Michael Platt, Staff Director; Elliot Smith, Director of Oversight; Jordan Wilson, Director of Member Services; Khalil Abboud, Minority Deputy Staff Director; Jamie Fleet, Minority Staff Director; Sarah Nasta, Minority Senior Advisor and Director; Matt Schlesinger, Minority Senior Counsel; and Sean Wright, Minority Chief Counsel. OPENING STATEMENT OF HON. BRYAN STEIL, CHAIRMAN OF THE COMMITTEE ON HOUSE ADMINISTRATION, A U.S. REPRESENTATIVE FROM WISCONSIN Chairman Steil. The Committee on House Administration will come to order. I note that a quorum is present. Without objection, the chair may declare a recess at any time. Today we will consider multiple pieces of legislation that showcase the work of this Committee over the Congress. We will consider legislation that will enhance election integrity, something this Committee has been working on since the beginning of the Congress. As Chairman of this Committee, my focus has been on increasing participation and restoring Americans' confidence in our elections. My bill, the Secure Handling of Internet Electronic Donations, or the SHIELD Act, will do just that. The SHIELD Act strengthens donor verification standards for political committees. Increasing election integrity should be a nonpartisan issue, and I hope today's discussion will help prove that. Other pieces of legislation we will be considering today are also nonpartisan in nature. Our first bill will sunset the Advisory Committee on the Records of Congress. This Advisory Committee was established in 1990, a time when records management was not clearly established for the legislative branch. The Advisory Committee met its objective to set good management standards, which makes it redundant to ongoing efforts in the House, the Senate, and the Center for Legislative Archives. This legislation will save taxpayer dollars while ensuring good legislative record keeping. The second bill will make small changes to the House Office of Legislative Counsel. This office provides a critical function--to take our ideas and craft them into legislation. Specifically, this measure will designate one deputy to manage this office should there be any vacancy with the Legislative Counsel. We will also be considering a bill to establish a commission to study the potential transfer of the Weitzman National Museum of American Jewish History to the Smithsonian Institution. Since 1976, the Weitzman National Museum of American Jewish History, based in Philadelphia, served as the only museum in our Nation dedicated to telling the full story of the American Jewish experience. This legislation would commission a study to determine the feasibility of the Smithsonian Institution to incorporate the Weitzman Museum into its collection. Additional pieces of legislation that will be considered will honor American values and our history. From honoring one of our Founding Fathers with a publicly accessible statue in the Capitol to the creation of a congressional time capsule, each piece of legislation would preserve and honor this great country's history. I look forward to a thoughtful discussion on the legislation before us today, and I yield. PREPARED STATEMENT OF CHAIRMAN OF THE COMMITTEE ON HOUSE ADMINISTRATION BRYAN STEIL Today we will consider multiple pieces of legislation that showcase the work of this Committee over the Congress. We will consider legislation that will enhance election integrity, something this Committee has been working on since the beginning of the Congress. As Chairman of this Committee, my focus has been on increasing participation and restoring Americans' confidence in our elections. My bill, the Secure Handling of Internet Electronic Donations, or the SHIELD Act, will do just that. The SHIELD Act strengthens donor verification standards for political committees. Increasing election integrity should be a nonpartisan issue, and I hope today's discussion will help prove that. Other pieces of legislation we will be considering today are also nonpartisan in nature. Our first bill will sunset the Advisory Committee on the Records of Congress. This Advisory Committee was established in 1990, a time when records management was not clearly established for the legislative branch. The Advisory Committee met its objective to set good management standards, which makes it redundant to ongoing efforts in the House, the Senate, and the Center for Legislative Archives. This legislation will save taxpayer dollars while ensuring good legislative record keeping. The second bill will make small changes to the House Office of Legislative Counsel. This office provides a critical function--to take our ideas and craft them into legislation. Specifically, this measure will designate one deputy to manage this office should there be any vacancy with the Legislative Counsel. We will also be considering a bill to establish a commission to study the potential transfer of the Weitzman National Museum of American Jewish History to the Smithsonian Institution. Since 1976, the Weitzman National Museum of American Jewish History, based in Philadelphia, served as the only museum in our Nation dedicated to telling the full story of the American Jewish experience. This legislation would commission a study to determine the feasibility of the Smithsonian Institution to incorporate the Weitzman Museum into its collection. Additional pieces of legislation that will be considered will honor American values and our history. From honoring one of our Founding Fathers with a publicly accessible statue in the Capitol to the creation of a congressional time capsule, each piece of legislation would preserve and honor this great country's history. I look forward to a thoughtful discussion on the legislation before us today, and I yield. I will now recognize the Ranking Member, Mr. Morelle, for 5 minutes for the purpose of offering an opening statement. OPENING STATEMENT OF HON. JOSEPH MORELLE, RANKING MEMBER OF THE COMMITTEE ON HOUSE ADMINISTRATION, A U.S. REPRESENTATIVE FROM NEW YORK Mr. Morelle. Thank you, Mr. Chairman, and thank you for convening today's markup. I am pleased to see several important bills aimed at improving legislative branch operations and supporting our cultural institutions on the agenda, and as each bill is called up I will offer some very, very brief remarks. I do want to express my appreciation for your efforts and the work of the staff to reach bipartisan consensus on these measures. I am also looking forward to our discussion on the elections-related measures on the agenda and expect to support a bill on the integrity of our campaign finances. I want to do some comments with regard to that, however. I appreciate this. We look to have, I hope, a consensus and support from our Members on the bill. Again, I want to thank you and your staff and all the Members for the cooperation with that. PREPARED STATEMENT OF RANKING MEMBER OF THE COMMITTEE ON HOUSE ADMINISTRATION JOSEPH MORELLE I am pleased to see several important bills aimed at improving legislative branch operations and supporting our cultural institutions on the agenda, and as each bill is called up I will offer some very, very brief remarks. I do want to express my appreciation for your efforts and the work of the staff to reach bipartisan consensus on these measures. I am also looking forward to our discussion on the elections-related measures on the agenda and expect to support a bill on the integrity of our campaign finances. I want to do some comments with regard to that, however. I appreciate this. We look to have, I hope, a consensus and support from our Members on the bill. Again, I want to thank you and your staff and all the Members for the cooperation with that. I yield back. Chairman Steil. The gentleman yields back. I will now call up H.R. 9488, the Secure Handling of Internet Electronic Donations Act, the SHIELD Act. As noted, the SHIELD Act would prohibit political committees from accepting contributions from debit or credit cards without the disclosure of the Card Verification Value, or the CVV, and the billing address associated with the card. Additionally, the legislation would prohibit the acceptance of contributions from prepaid debit or gift cards. Finally, the SHIELD Act will strengthen laws that prohibit aiding and abetting making a contribution in another person's name. This has been a top legislative recommendation from the Federal Election Commission for years. This bill will strengthen campaign finance laws and enhance election integrity. As we approach election day, it is more important than ever that we continue our work to protect American election integrity. I want to thank my colleagues for their work and co- sponsorship of this important legislation. I also want to thank our staff and my Democratic colleagues and their staff for their collaboration on getting this bill into final form. I will now recognize Ranking Member Morelle if you would like to give a statement on the bill. Mr. Morelle. Yes. Thank you, Mr. Chair. I am, as others are, deeply committed to protecting the integrity of our campaign finance system. Preventing fraudulent fundraising practices is an important endeavor, and for that reason, I anticipate supporting the Amendment in the Nature of a Substitute before us today. Indeed, the question on whether to include CVV numbers with contributions or ban gift cards and prepaid card contributions is not a new one. Prohibiting aiding and abetting the making of a contribution in the name of another has been a longstanding bipartisan FEC legislative recommendation. I do want to, however, make a broader point, which is, in my opinion, the majority could and should have brought forward these reforms at any point over the last 20 months. In fact, the Committee has instead focused its efforts on other elections-related endeavors. We had, for instance, a multi-panel hearing on a paper ballot shortage in Luzerne County, Pennsylvania; a hearing assessing the law enforcement response to the multiple pipe bombs on January 6--3 years after the attack on the Capitol; a long markup last July on the ACE Act, a bill full of measures hostile to voting rights that perpetuated the former President's big lie and would flood even more dark money into our political system; and the Committee's stewardship of the SAVE Act, former President Trump and Speaker Johnson's extreme MAGA bill that would harm every American, but particularly military voters and married women. This bill, the SHIELD Act, was introduced 2 days ago. The majority did not seek our input on drafting the bill. If they had, I would have suggested to my majority colleagues there are some critical issues that I think the bill should address. For starters, the bill misunderstands how online payments processing works and would severely restrict donors from being able to contribute through online platforms. The bill would require platforms to collect CVV information for all online contributions made with a credit card or debit card at the time the contribution is made. Payment card industry data security standards requirements, however, prohibit payment processors from storing CVV information. In turn, this requirement will prohibit processing transactions, contributions to political candidates, involving saved payment information. Saved payment information is a key to donors making recurring contributions, something candidates on both sides of the aisle receive. Donors would likewise be unable to use common third-party payment processors like Apple Pay, PayPal, and Google Pay, which frequently do not provide CVV information. The legislation confusingly includes requirements for lawful permanent residents living outside the United States. I am not sure how familiar the majority is with the requirements of obtaining a green card, but green card holders do not typically seek to live outside the United States. The language is confusing at best. It certainly needs to be looked at and revised. The bill gives the FEC 10 days to issue regulations, something that will force the Commission to regulate without the benefit of public comment. Finally, campaign treasurers are required to retain all contributor information, but the bill fails to specify for how long they have to retain that information, which could mean forever. In fact, if I were a treasurer, I would assume it means forever. That is a big change when you consider the standard 3-year retention policy applicable at FEC regulations. Those are just a few of the examples of problems of the bill. I do not think they argue against doing it. We would have liked the opportunity and our staff to work to create solutions to these problems, which can be overcome, but there was just not enough time to do it from the bill's introduction to markup to fix what I consider are some serious problems. Here is the rub. We know what this is about. The majority introduced the bill this week without input from the minority. We are marking up the bill 55 days before the election. This is not promoting election integrity. Committee Democrats, we are not going to fall for it. We care deeply about it. That will be our North Star, making sure that elections are protected. I recommend colleagues support the measure, but we should be clear-eyed about the flaws with the bill, and we should in the future take some time to make sure that we get this right. With those reservations, I will support the bill. I yield back. Chairman Steil. The gentleman yields back. The clerk will please report the bill. The Clerk. H.R. 9488---- Chairman Steil. Without objection, the first reading of the bill is dispensed with. Also, without objection, the bill shall be considered as read and open to amendment at any point.   Chairman Steil. I have an Amendment in the Nature of a Substitute at the desk. The clerk will please report the amendment. The Clerk. Amendment in the Nature of a Substitute---- Chairman Steil. Without objection, the Amendment in the Nature of a Substitute is considered as read and will be considered as original text for the purpose to of further amendment.   Chairman Steil. Does any Member seek recognition for amendment or debate? Congresswoman Bice? Mrs. Bice. Thank you, Mr. Chairman. I am proud to cosponsor the SHIELD Act, common-sense legislation that will close loopholes currently allowing illegal donations to fund campaigns. This is necessary because some online portals are not taking steps to protect against fraudulent donations. When enacted, the bill will require the same information you submit when making an online purchase, a CVV and an address. I urge my colleagues to support it. I yield back. Chairman Steil. The gentlewoman yields back. I will recognize myself for 5 minutes--or for purpose of striking the last word. Per the Ranking Member's remarks in our sidebar just now, we would love to engage in working on any potential adjustments prior to this bill coming to the House floor. We could work on a manager's amendment at that time. The speed at which this is coming I think is important, because I think we have seen some anecdotal evidence of illegal contributions. We have identified this loophole through a robust review of our campaign finance laws, and as this loophole was exposed, we think this is the opportunity to make sure that it is closed. I am proud of the work that this Committee has done over the course of 2 years to further election integrity. As this loophole is identified, I think it is imperative for all of us to come together to close the loophole. I thank the Ranking Member's support of the legislation and will be open to any further adjustments that may be necessary between now and this legislation seeing floor action. Does any other Member seek recognition? Representative Kilmer? Mr. Kilmer. Thank you, Chairman. Just briefly. If we are looking at ways in which the Federal Election Commission can be more effective, Representative Fitzpatrick and I have a bipartisan bill called the Restoring Integrity to America's Elections Act that looks at some changes to the Federal Election Commission that are bipartisan, with an eye toward professionalizing it and getting it out of persistent stalemate. If between here and the floor there is an attempt to look at potential changes, I would just request that that be a bill that is incorporated. I yield back. Chairman Steil. The gentleman yields back. I will take that under consideration for sure. Does any other Member seek recognition for amendment or debate? There being no further amendment or debate, the question now occurs on the Amendment in the Nature of a Substitute. All those in favor, signify by saying aye. All those opposed, no. In the opinion of the chair, the ayes have it, and the Amendment in the Nature of a Substitute is adopted. The question now occurs on ordering H.R. 9488, as amended, reported favorably to the House. All those in favor, signify by saying aye. Those opposed, no. In the opinion of the chair, the ayes have it, and the motion to report is agreed to. A majority having voted in favor of H.R. 9488, as amended, the bill is ordered favorably reported to the House. Without objection, the motion to reconsider is laid on the table. I now call up H.R. 7764, the Commission to Study the Potential Transfer of the Weitzman National Museum of American Jewish History to the Smithsonian Institution Act. The nonpartisan legislation would create a commission to study the absorption of the Weitzman National Museum of American Jewish History into the Smithsonian Institution. We are in a critical time where our ally Israel needs our support. With the rise of antisemitism in this country and around the world, it is crucial that we are protecting Jewish American history and expanding education efforts. By studying this potential absorption, we can ensure that the museum is maintained for years to come. I will now recognize the Ranking Member, Mr. Morelle, if he would like to give a statement on the bill. Mr. Morelle. Yes. Thank you, Mr. Chairman. I am very grateful to you for working to advance H.R. 7764, as you indicated, a bipartisan bill creating a commission to study the potential transfer of the Weitzman Museum of American Jewish History to the Smithsonian. Since the first Jews fled the Portuguese inquisition in 1654 and arrived in New Amsterdam, what is now called New York City, Jewish Americans have contributed to the country in innumerable ways, which includes my hometown of Rochester, New York, where Jewish Americans have been an integral part of our community, establishing our first synagogue in the 1840's and building a thriving business community around Joseph Avenue in the early 20th century, and contributing to the cultural diversity that makes my community such a wonderful place to live. Across this Nation, Jewish Americans have served at some of the highest levels of Government, won Nobel Prizes, created enduring pieces of art and literature, and been at the forefront of virtually all fights for social justice, freedom, and equality. It pains me, as I am sure it does you, Mr. Chair, and all the Members, that antisemitism in the United States has increased significantly, fueled by attacks on Jewish Americans after the October 7 terrorist attacks in Israel, as well as the seemingly unbridled growth of racism, extremism around the country. I just want to, again, thank you. The historic levels of antisemitism have to be addressed. This is one way to do that in a thoughtful way and move this commission forward. I, again, want to thank you, want to thank my colleagues and the staff for advancing this, and we will certainly be in the affirmative. Thank you, sir. Chairman Steil. I thank the Ranking Member for his support and his remarks. The clerk will please report the bill. The Clerk. H.R. 7764---- Chairman Steil. Without objection, the first reading of the bill is dispensed with. Also, without objection, the bill shall be considered as read and open to amendment at any point.   Chairman Steil. I have an Amendment in the Nature of a Substitute at the desk. The clerk will please report the amendment. The Clerk. Amendment in the Nature of a Substitute---- Chairman Steil. Without objection, the Amendment in the Nature of a Substitute is considered as read and will be considered as original text for the purpose of further amendment.   Chairman Steil. Does any other Member seek recognition for amendment or debate? Seeing none, the question now occurs on the Amendment in the Nature of a Substitute. All those in favor, signify by saying aye. All those opposed, no. In the opinion of the chair, the ayes have it, and the Amendment in the Nature of a Substitute is adopted. The question now occurs on ordering H.R. 7764, as amended, reported favorably to the House. All those in favor, signify by saying aye. All those opposed, no. In the opinion of the chair, the ayes have it, and the motion to report is agreed to. A majority having voted in favor of H.R. 7764, as amended, the bill is ordered favorably reported to the House. Without objection, the motion to reconsider is laid on the table. I now call up H.R. 6394, the Semiquincentennial Congressional Time Capsule Act. This nonpartisan legislation would authorize a time capsule to be buried on the Capitol Grounds to mark the 250th anniversary of America's founding. The bill has the support of House Members on the America 250 Commission, established to celebrate the 250th anniversary of the signing of the Declaration of Independence in 2026. Additionally, the bill already has the support of the Architect of the Capitol. I would encourage my colleagues to support the legislation. I will recognize the Ranking Member, Mr. Morelle, if he would like to give a statement on the bill. Mr. Morelle. Thank you, Mr. Chair. As you indicated, July 4, 2026, we will celebrate our semiquincentennial, and I want to thank my staff for phonetically placing that before me so I would not stumble over it. I think this really is significant. The time capsule, as I understand, will be determined by bipartisan, bicameral congressional leaders, include written materials, representations of important legislative milestones, and a message to our future colleagues in the 244th Congress, if we have counted properly. I am looking to see what goes into the time capsule. I am, frankly, looking forward to when we open it, because I will be here one way or another. I----  Mr. Morelle. I appreciate everyone bringing it forward. I think this is a great idea. With that, I yield back. Chairman Steil. I have no doubt there are current Members that may be here in the 244th, but it will not be me. The clerk will please report the bill. The Clerk. H.R. 6394, to provide---- Chairman Steil. Without objection, the first reading of the bill is dispensed with. Also, without objection, the bill shall be considered as read and open to amendment at any point.   Chairman Steil. Does any Member seek recognition for amendment or debate? There being no further amendments, without objection, we will consider the question to report the measure at the end of the markup. I now call up H.R. 6969, to Direct the Joint Committee on the Library to procure a statue of Benjamin Franklin for placement in the United States Capitol. This bill would authorize the placement of a statue of Benjamin Franklin in the U.S. Capitol accessible to the public during guided tours. I will recognize Mr. Morelle, if he would like to give an opening statement on the bill. Mr. Morelle. Just to be very brief. I spoke with Representative Chrissy Houlahan, who is a sponsor of the bill along with Representative Fitzpatrick, and while there are certainly some references--and this may be interesting to people who have both been here and to Americans who have not--certainly references to Benjamin Franklin across the Capitol in paintings. I believe there is a statue tucked away in the back hallway on the Senate side. There is no statue prominently displayed in the Capitol of one of the most important Founders of our Nation. Millions of visitors who come by here should see that, and I think this legislation would change that. He was a statesman, a diplomat, scientist, inventor, political philosopher, businessperson, and really mentored so many people during the most difficult times of this Nation's founding, negotiated the Treaty of Paris, which ended the Revolutionary War, helped draft the Declaration. On and on we could go. I think we all appreciate it. I think it is appropriate that we honor him and have him displayed prominently in the Capitol. I thank you for taking up the bill and for your leadership, and, again, thank the staffs on both sides for working this out. Looking forward to support it enthusiastically. I yield back. Chairman Steil. The clerk will please report the bill. The Clerk. H.R. 69---- Chairman Steil. Without objection, the first reading of the bill is dispensed with. Also, without objection, the bill shall be considered as read and open to amendment at any point.   Chairman Steil. Does any Member seek recognition for amendment or debate? Mrs. Bice? Mrs. Bice. Thank you, Mr. Chairman. I am a proud cosponsor of H.R. 6969, which adds to the U.S. Capitol's National Statutory Collection a new piece to honor one of our Nation's foremost Founding Fathers, Benjamin Franklin. As was mentioned by Ranking Member Morelle, he was the first American diplomat, fostering our Nation's relationship with the French Government, which helped us win the Revolutionary War, and that continues, endures to this day. I am excited to see this statue placed ahead of America's 250th birthday. As Benjamin Franklin would say, a penny saved is a penny earned, and this statue comes at no cost. I urge all of my colleagues to vote in support of the legislation. Chairman Steil. Does any other Member seek recognition? There being no further amendments, without objection, we will consider the question to report the measure at the end of the markup. I now call up H.R. 9489, to sunset the Advisory Committee on the Records of Congress and for other purposes. This bill sunsets the Advisory Committee on the Records of Congress, which is no longer needed, and be replaced with a reporting requirement for the Clerk, Secretary of the Senate, and National Archives. The ACRC convenes twice per year to discuss records management for the House and Senate. However, the Clerk and Secretary of the Senate agree that this Committee can be replaced with a reporting requirement. I support this legislation due to the feedback from these agencies that are directly involved with records management. I will recognize the Ranking Member, Mr. Morelle, if he would like to give a statement on the bill. Mr. Morelle. Simply that I appreciate you bringing it forward, and look forward to supporting it. I will yield back. Chairman Steil. The clerk will please report the bill. The Clerk. H.R. 94---- Chairman Steil. Without objection, the first reading of the bill is dispensed with. Also, without objection, the bill should be considered as read and open to amendment at any point.   Chairman Steil. Does any Member seek recognition? There being no further amendments, without objection, we will consider the question and report the measure at the end of the markup. I will now call up H.R. 9487, to amend the Legislative Reorganization Act of 1970 to authorize the Legislative Counsel of the House of Representatives to designate more than one of the attorneys of the Office of the Legislative Counsel as a Deputy Legislative Counsel, and for other purposes. In the event the Legislative Counsel position is vacant, the Deputy Legislative Counsel would be given formal authority to perform all the functions of the Legislative Counsel under this legislation. I strongly support this legislation for continuity of operations and succession purposes. I will recognize the Ranking Member, Mr. Morelle, if you would like to give a statement on the bill. Mr. Morelle. Yes. Just very briefly. Thank you, Mr. Chairman. It has been more than 100 years since the inception of the House Office of Legislative Counsel, which I believe began as an experiment with the House Ways and Means Committee and has become truly a critical House support entity. The expert attorneys in the Office of Legislative Counsel now draft tens of thousands of bills and resolutions each Congress, and the number is growing exponentially when you account for the many drafts of a measure as it is being refined. It is an increasing number of amendments as well being submitted by Members as we have seen on both legislation large and small. As the demands of the office continue to increase, it is vital we provide the attorneys with the support they need to do their jobs effectively. That certainly includes both increasing the resources, but also it requires ensuring the office engages in succession planning, as you said, to ensure continuity of Government. While this may seem like a sort of a pedestrian matter, it is actually a big deal in my view in terms of ensuring that Congress does the job it needs to for the American people. I would be remiss if I did not acknowledge the current Deputy Legislative Counsel, Noah Wofsy. He and his team do a masterful job working closely with Members and staff on the Committee, and on this Committee in particular, and we would quite literally not be able to have this or any other markup without both his talents, dedication, and patience, and also Legislative Counsel Wade Ballou and the entire team in the Office of Legislative Counsel for the work they do. We are very, very grateful for their service. The American people do not know their names but benefit from them every day. I am anxious to be able to be in support of this measure. With that, I yield back. Chairman Steil. The clerk will please report the bill. The Clerk. H.R. 9---- Chairman Steil. Without objection, the first reading of the bill is dispensed with. Also, without objection, the bill should be considered read and open to amendment at any point.   Chairman Steil. Does any Member seek recognition for amendments or debate? Seeing none, there being no further amendments, without objection, we will consider the question to report the measure at the end of the markup. I now call up H.R. 6242, the VOTES Act of 2023. I will recognize the Ranking Member, Mr. Morelle, if he would like to give a statement on the bill. Mr. Morelle. Just briefly. Again, I am really grateful for the opportunity to have this in front of us and to speak in support of the VOTES Act bill. It is an important bill, championed by my friend and colleague Maxwell Frost of Florida as well as a number of Members on this Committee. I cosponsored it, but I know Ms. Lee is a lead sponsor of the bill, and I want to thank her for her leadership and her efforts on that as well. I believe Mr. Kilmer is a cosponsor as well. It is a common-sense update to the UOCAVA to ensure that our overseas servicemembers can participate in our democracy. It is essential that we guarantee every American, we have talked about that at length today, no matter our opinion, we believe every member of our Armed Forces should be able to cast a ballot. Those ballots--we are 10 days from the deadline for States to send out those ballots to our men and women in uniform, and this deadline is a meaningful reminder of our duty as Members to protect the right of all servicemembers. I am grateful for the bill being before the House. Thank you. Thank your staff. Thank Ms. Lee. Thank Mr. Kilmer and Mr. Frost for their leadership on this. With that, I yield back. Chairman Steil. The gentleman yields back. The clerk will please report the bill. The Clerk. H.R. 6242---- Chairman Steil. Without objection, the first reading of the bill is dispensed with. Also, without objection, the bill should be considered as read and open to amendment at any point.   Chairman Steil. Does any Member seek recognition? Ms. Lee is recognized. Ms. Lee. Thank you, Mr. Chairman. I would like to thank my Florida colleague, Congressman Maxwell Frost, for introducing this important bill, which I am proud to cosponsor. This bill amends the Uniformed and Overseas Citizens Absentee Voting Act, otherwise known as UOCAVA, which is how that we ensure that our servicemembers overseas have their right to vote protected and facilitated. This bill expands UOCAVA provisions to ensure that we include men and women who are serving in our National Guard or in an inactive service status so that they, too, are covered by UOCAVA. With that, I encourage the Members of the Committee to support this bill. Mr. Chairman, I yield back. Chairman Steil. The gentlewoman yields back. Does any other Member seek recognition? There being no further amendments, without objection, we will consider the question and report the measure at the end of the markup. There being no further amendments or debate, the question now occurs on ordering 6394, 6969, 9489, 9487, and 6242 reported favorably to the House. All those in favor, signify by saying aye. All those opposed, no. In the opinion of the chair, the ayes have it and the motion report is agreed to. A majority having voted in favor of H.R. 6394, H.R. 6969, H.R. 9489, H.R. 9487, and H.R. 6242, the bills are ordered favorably reported to the House. Without objection, the motion to reconsider is laid on the table. This concludes the order of business for today's markup. Pursuant to House Rule XI, clause 2(l), I ask that the Committee Members have the right to file with the clerk of the Committee supplemental additional minority and dissenting views on each of the items marked up today. Without objection. Also, without objection, the staff is authorized to make necessary technical and conforming changes. If there is no further business, I thank the Members for their participation. Without objection, the Committee on House Administration stands adjourned.  
+MARKUP OF H.R. 9488, H.R. 7764, H.R. 6394, H.R. 6969, H.R. 9489, H.R.
+9487, and H.R. 6242
+----------
+September 11, 2024
+Committee on House Administration,
+House of Representatives,
+Washington, D.C.
+The Committee met, pursuant to notice, at 11:19 a.m., in
+room 1310, Longworth House Office Building, Hon. Bryan Steil
+ presiding.
+Present: Representatives Steil, Loudermilk, Bice, Carey,
+D'Esposito, Lee, Morelle, Torres, and Kilmer.
+Staff present: March Bell, General Counsel; Annemarie Cake,
+Professional Staff and Deputy Clerk; Rachel Collins, Deputy
+General Counsel; Alexander Deise, Parliamentarian; Thomas Lane,
+Elections Counsel and Director of Elections Coalitions; Kristen
+Monterroso, Legislative Clerk; Marissa Mullen, Deputy Director
+of Member Services; Phillip Pinegar, Oversight Professional
+Staff; Michael Platt, Staff Director; Elliot Smith, Director of
+Oversight; Jordan Wilson, Director of Member Services; Khalil
+Abboud, Minority Deputy Staff Director; Jamie Fleet, Minority
+Staff Director; Sarah Nasta, Minority Senior Advisor and
+Director; Matt Schlesinger, Minority Senior Counsel; and Sean
+Wright, Minority Chief Counsel.
+OPENING STATEMENT OF HON. BRYAN STEIL, CHAIRMAN OF THE
+COMMITTEE ON HOUSE ADMINISTRATION, A U.S. REPRESENTATIVE FROM
+WISCONSIN
+Chairman Steil. The Committee on House Administration will
+come to order.
+I note that a quorum is present.
+Without objection, the chair may declare a recess at any
+time.
+Today we will consider multiple pieces of legislation that
+showcase the work of this Committee over the Congress. We will
+consider legislation that will enhance election integrity,
+something this Committee has been working on since the
+beginning of the Congress.
+As Chairman of this Committee, my focus has been on
+increasing participation and restoring Americans' confidence in
+our elections.
+My bill, the Secure Handling of Internet Electronic
+Donations, or the SHIELD Act, will do just that. The SHIELD Act
+strengthens donor verification standards for political
+committees.
+Increasing election integrity should be a nonpartisan
+issue, and I hope today's discussion will help prove that.
+Other pieces of legislation we will be considering today
+are also nonpartisan in nature.
+Our first bill will sunset the Advisory Committee on the
+Records of Congress. This Advisory Committee was established in
+1990, a time when records management was not clearly
+established for the legislative branch. The Advisory Committee
+met its objective to set good management standards, which makes
+it redundant to ongoing efforts in the House, the Senate, and
+the Center for Legislative Archives. This legislation will save
+taxpayer dollars while ensuring good legislative record
+keeping.
+The second bill will make small changes to the House Office
+of Legislative Counsel. This office provides a critical
+function--to take our ideas and craft them into legislation.
+Specifically, this measure will designate one deputy to manage
+this office should there be any vacancy with the Legislative
+Counsel.
+We will also be considering a bill to establish a
+commission to study the potential transfer of the Weitzman
+National Museum of American Jewish History to the Smithsonian
+Institution.
+Since 1976, the Weitzman National Museum of American Jewish
+History, based in Philadelphia, served as the only museum in
+our Nation dedicated to telling the full story of the American
+Jewish experience.
+This legislation would commission a study to determine the
+feasibility of the Smithsonian Institution to incorporate the
+Weitzman Museum into its collection.
+Additional pieces of legislation that will be considered
+will honor American values and our history. From honoring one
+of our Founding Fathers with a publicly accessible statue in
+the Capitol to the creation of a congressional time capsule,
+each piece of legislation would preserve and honor this great
+country's history.
+I look forward to a thoughtful discussion on the
+legislation before us today, and I yield.
+PREPARED STATEMENT OF CHAIRMAN OF THE COMMITTEE ON HOUSE
+ADMINISTRATION BRYAN STEIL
+Today we will consider multiple pieces of legislation that
+showcase the work of this Committee over the Congress. We will
+consider legislation that will enhance election integrity,
+something this Committee has been working on since the
+beginning of the Congress.
+As Chairman of this Committee, my focus has been on
+increasing participation and restoring Americans' confidence in
+our elections.
+My bill, the Secure Handling of Internet Electronic
+Donations, or the SHIELD Act, will do just that. The SHIELD Act
+strengthens donor verification standards for political
+committees.
+Increasing election integrity should be a nonpartisan
+issue, and I hope today's discussion will help prove that.
+Other pieces of legislation we will be considering today
+are also nonpartisan in nature.
+Our first bill will sunset the Advisory Committee on the
+Records of Congress. This Advisory Committee was established in
+1990, a time when records management was not clearly
+established for the legislative branch. The Advisory Committee
+met its objective to set good management standards, which makes
+it redundant to ongoing efforts in the House, the Senate, and
+the Center for Legislative Archives. This legislation will save
+taxpayer dollars while ensuring good legislative record
+keeping.
+The second bill will make small changes to the House Office
+of Legislative Counsel. This office provides a critical
+function--to take our ideas and craft them into legislation.
+Specifically, this measure will designate one deputy to manage
+this office should there be any vacancy with the Legislative
+Counsel.
+We will also be considering a bill to establish a
+commission to study the potential transfer of the Weitzman
+National Museum of American Jewish History to the Smithsonian
+Institution.
+Since 1976, the Weitzman National Museum of American Jewish
+History, based in Philadelphia, served as the only museum in
+our Nation dedicated to telling the full story of the American
+Jewish experience.
+This legislation would commission a study to determine the
+feasibility of the Smithsonian Institution to incorporate the
+Weitzman Museum into its collection.
+Additional pieces of legislation that will be considered
+will honor American values and our history. From honoring one
+of our Founding Fathers with a publicly accessible statue in
+the Capitol to the creation of a congressional time capsule,
+each piece of legislation would preserve and honor this great
+country's history.
+I look forward to a thoughtful discussion on the
+legislation before us today, and I yield.
+I will now recognize the Ranking Member, Mr. Morelle, for 5
+minutes for the purpose of offering an opening statement.
+OPENING STATEMENT OF HON. JOSEPH MORELLE, RANKING MEMBER OF THE
+COMMITTEE ON HOUSE ADMINISTRATION, A U.S. REPRESENTATIVE FROM
+NEW YORK
+Mr. Morelle. Thank you, Mr. Chairman, and thank you for
+convening today's markup.
+I am pleased to see several important bills aimed at
+improving legislative branch operations and supporting our
+cultural institutions on the agenda, and as each bill is called
+up I will offer some very, very brief remarks.
+I do want to express my appreciation for your efforts and
+the work of the staff to reach bipartisan consensus on these
+measures.
+I am also looking forward to our discussion on the
+elections-related measures on the agenda and expect to support
+a bill on the integrity of our campaign finances. I want to do
+some comments with regard to that, however.
+I appreciate this. We look to have, I hope, a consensus
+and support from our Members on the bill. Again, I want to
+thank you and your staff and all the Members for the
+cooperation with that.
+PREPARED STATEMENT OF RANKING MEMBER OF THE COMMITTEE ON HOUSE
+ADMINISTRATION JOSEPH MORELLE
+I am pleased to see several important bills aimed at
+improving legislative branch operations and supporting our
+cultural institutions on the agenda, and as each bill is called
+up I will offer some very, very brief remarks.
+I do want to express my appreciation for your efforts and
+the work of the staff to reach bipartisan consensus on these
+measures.
+I am also looking forward to our discussion on the
+elections-related measures on the agenda and expect to support
+a bill on the integrity of our campaign finances. I want to do
+some comments with regard to that, however.
+I appreciate this. We look to have, I hope, a consensus
+and support from our Members on the bill. Again, I want to
+thank you and your staff and all the Members for the
+cooperation with that.
+I yield back.
+Chairman Steil. The gentleman yields back.
+I will now call up H.R. 9488, the Secure Handling of
+Internet Electronic Donations Act, the SHIELD Act.
+As noted, the SHIELD Act would prohibit political
+committees from accepting contributions from debit or credit
+cards without the disclosure of the Card Verification Value, or
+the CVV, and the billing address associated with the card.
+Additionally, the legislation would prohibit the acceptance
+of contributions from prepaid debit or gift cards.
+Finally, the SHIELD Act will strengthen laws that prohibit
+aiding and abetting making a contribution in another person's
+name.
+This has been a top legislative recommendation from the
+Federal Election Commission for years. This bill will
+strengthen campaign finance laws and enhance election
+integrity.
+As we approach election day, it is more important than ever
+that we continue our work to protect American election
+integrity.
+I want to thank my colleagues for their work and co-
+sponsorship of this important legislation.
+I also want to thank our staff and my Democratic colleagues
+and their staff for their collaboration on getting this bill
+into final form.
+I will now recognize Ranking Member Morelle if you would
+like to give a statement on the bill.
+Mr. Morelle. Yes. Thank you, Mr. Chair.
+I am, as others are, deeply committed to protecting the
+integrity of our campaign finance system. Preventing fraudulent
+fundraising practices is an important endeavor, and for that
+reason, I anticipate supporting the Amendment in the Nature of
+a Substitute before us today.
+Indeed, the question on whether to include CVV numbers with
+contributions or ban gift cards and prepaid card contributions
+is not a new one. Prohibiting aiding and abetting the making of
+a contribution in the name of another has been a longstanding
+bipartisan FEC legislative recommendation.
+I do want to, however, make a broader point, which is, in
+my opinion, the majority could and should have brought forward
+these reforms at any point over the last 20 months. In fact,
+the Committee has instead focused its efforts on other
+elections-related endeavors.
+We had, for instance, a multi-panel hearing on a paper
+ballot shortage in Luzerne County, Pennsylvania; a hearing
+assessing the law enforcement response to the multiple pipe
+bombs on January 6--3 years after the attack on the Capitol; a
+long markup last July on the ACE Act, a bill full of measures
+hostile to voting rights that perpetuated the former
+President's big lie and would flood even more dark money into
+our political system; and the Committee's stewardship of the
+SAVE Act, former President Trump and Speaker Johnson's extreme
+MAGA bill that would harm every American, but particularly
+military voters and married women.
+This bill, the SHIELD Act, was introduced 2 days ago. The
+majority did not seek our input on drafting the bill. If they
+had, I would have suggested to my majority colleagues there are
+some critical issues that I think the bill should address.
+For starters, the bill misunderstands how online payments
+processing works and would severely restrict donors from being
+able to contribute through online platforms.
+The bill would require platforms to collect CVV information
+for all online contributions made with a credit card or debit
+card at the time the contribution is made.
+Payment card industry data security standards requirements,
+however, prohibit payment processors from storing CVV
+information.
+In turn, this requirement will prohibit processing
+transactions, contributions to political candidates, involving
+saved payment information.
+Saved payment information is a key to donors making
+recurring contributions, something candidates on both sides of
+the aisle receive. Donors would likewise be unable to use
+common third-party payment processors like Apple Pay, PayPal,
+and Google Pay, which frequently do not provide CVV
+information.
+The legislation confusingly includes requirements for
+lawful permanent residents living outside the United States. I
+am not sure how familiar the majority is with the requirements
+of obtaining a green card, but green card holders do not
+typically seek to live outside the United States.
+The language is confusing at best. It certainly needs to be
+looked at and revised. The bill gives the FEC 10 days to issue
+regulations, something that will force the Commission to
+regulate without the benefit of public comment.
+Finally, campaign treasurers are required to retain all
+contributor information, but the bill fails to specify for how
+long they have to retain that information, which could mean
+forever. In fact, if I were a treasurer, I would assume it
+means forever. That is a big change when you consider the
+standard 3-year retention policy applicable at FEC regulations.
+Those are just a few of the examples of problems of the
+bill. I do not think they argue against doing it. We would have
+liked the opportunity and our staff to work to create solutions
+to these problems, which can be overcome, but there was just
+not enough time to do it from the bill's introduction to markup
+to fix what I consider are some serious problems.
+Here is the rub. We know what this is about. The majority
+introduced the bill this week without input from the minority.
+We are marking up the bill 55 days before the election. This is
+not promoting election integrity.
+Committee Democrats, we are not going to fall for it. We
+care deeply about it. That will be our North Star, making sure
+that elections are protected.
+I recommend colleagues support the measure, but we should
+be clear-eyed about the flaws with the bill, and we should in
+the future take some time to make sure that we get this right.
+With those reservations, I will support the bill.
+I yield back.
+Chairman Steil. The gentleman yields back.
+The clerk will please report the bill.
+The Clerk. H.R. 9488----
+Chairman Steil. Without objection, the first reading of the
+bill is dispensed with. Also, without objection, the bill shall
+be considered as read and open to amendment at any point.
+
+
+Chairman Steil. I have an Amendment in the Nature of a
+Substitute at the desk. The clerk will please report the
+amendment.
+The Clerk. Amendment in the Nature of a Substitute----
+Chairman Steil. Without objection, the Amendment in the
+Nature of a Substitute is considered as read and will be
+considered as original text for the purpose to of further
+amendment.
+[Chairman Steil's Amendment in the Nature of a Substitute
+to H.R. 9488 follows:]
+
+Chairman Steil. Does any Member seek recognition for
+amendment or debate?
+Congresswoman Bice?
+Mrs. Bice. Thank you, Mr. Chairman.
+I am proud to cosponsor the SHIELD Act, common-sense
+legislation that will close loopholes currently allowing
+illegal donations to fund campaigns.
+This is necessary because some online portals are not
+taking steps to protect against fraudulent donations. When
+enacted, the bill will require the same information you submit
+when making an online purchase, a CVV and an address.
+I urge my colleagues to support it.
+I yield back.
+Chairman Steil. The gentlewoman yields back.
+I will recognize myself for 5 minutes--or for purpose of
+striking the last word.
+Per the Ranking Member's remarks in our sidebar just now,
+we would love to engage in working on any potential adjustments
+prior to this bill coming to the House floor. We could work on
+a manager's amendment at that time.
+The speed at which this is coming I think is important,
+because I think we have seen some anecdotal evidence of illegal
+contributions.
+We have identified this loophole through a robust review of
+our campaign finance laws, and as this loophole was exposed, we
+think this is the opportunity to make sure that it is closed.
+I am proud of the work that this Committee has done over
+the course of 2 years to further election integrity. As this
+loophole is identified, I think it is imperative for all of us
+to come together to close the loophole.
+I thank the Ranking Member's support of the legislation and
+will be open to any further adjustments that may be necessary
+between now and this legislation seeing floor action.
+Does any other Member seek recognition?
+Representative Kilmer?
+Mr. Kilmer. Thank you, Chairman. Just briefly.
+If we are looking at ways in which the Federal Election
+Commission can be more effective, Representative Fitzpatrick
+and I have a bipartisan bill called the Restoring Integrity to
+America's Elections Act that looks at some changes to the
+Federal Election Commission that are bipartisan, with an eye
+toward professionalizing it and getting it out of persistent
+stalemate.
+If between here and the floor there is an attempt to look
+at potential changes, I would just request that that be a bill
+that is incorporated.
+I yield back.
+Chairman Steil. The gentleman yields back. I will take that
+under consideration for sure.
+Does any other Member seek recognition for amendment or
+debate?
+There being no further amendment or debate, the question
+now occurs on the Amendment in the Nature of a Substitute.
+All those in favor, signify by saying aye.
+All those opposed, no.
+In the opinion of the chair, the ayes have it, and the
+Amendment in the Nature of a Substitute is adopted.
+The question now occurs on ordering H.R. 9488, as amended,
+reported favorably to the House.
+All those in favor, signify by saying aye.
+Those opposed, no.
+In the opinion of the chair, the ayes have it, and the
+motion to report is agreed to.
+A majority having voted in favor of H.R. 9488, as amended,
+the bill is ordered favorably reported to the House.
+Without objection, the motion to reconsider is laid on the
+table.
+I now call up H.R. 7764, the Commission to Study the
+Potential Transfer of the Weitzman National Museum of American
+Jewish History to the Smithsonian Institution Act.
+The nonpartisan legislation would create a commission to
+study the absorption of the Weitzman National Museum of
+American Jewish History into the Smithsonian Institution.
+We are in a critical time where our ally Israel needs our
+support. With the rise of antisemitism in this country and
+around the world, it is crucial that we are protecting Jewish
+American history and expanding education efforts. By studying
+this potential absorption, we can ensure that the museum is
+maintained for years to come.
+I will now recognize the Ranking Member, Mr. Morelle, if he
+would like to give a statement on the bill.
+Mr. Morelle. Yes. Thank you, Mr. Chairman.
+I am very grateful to you for working to advance H.R. 7764,
+as you indicated, a bipartisan bill creating a commission to
+study the potential transfer of the Weitzman Museum of American
+Jewish History to the Smithsonian.
+Since the first Jews fled the Portuguese inquisition in
+1654 and arrived in New Amsterdam, what is now called New York
+City, Jewish Americans have contributed to the country in
+innumerable ways, which includes my hometown of Rochester, New
+York, where Jewish Americans have been an integral part of our
+community, establishing our first synagogue in the 1840's and
+building a thriving business community around Joseph Avenue in
+the early 20th century, and contributing to the cultural
+diversity that makes my community such a wonderful place to
+live.
+Across this Nation, Jewish Americans have served at some of
+the highest levels of Government, won Nobel Prizes, created
+enduring pieces of art and literature, and been at the
+forefront of virtually all fights for social justice, freedom,
+and equality.
+It pains me, as I am sure it does you, Mr. Chair, and all
+the Members, that antisemitism in the United States has
+increased significantly, fueled by attacks on Jewish Americans
+after the October 7 terrorist attacks in Israel, as well as the
+seemingly unbridled growth of racism, extremism around the
+country.
+I just want to, again, thank you. The historic levels of
+antisemitism have to be addressed. This is one way to do that
+in a thoughtful way and move this commission forward.
+I, again, want to thank you, want to thank my colleagues
+and the staff for advancing this, and we will certainly be in
+the affirmative.
+Thank you, sir.
+Chairman Steil. I thank the Ranking Member for his support
+and his remarks.
+The clerk will please report the bill.
+The Clerk. H.R. 7764----
+Chairman Steil. Without objection, the first reading of the
+bill is dispensed with. Also, without objection, the bill shall
+be considered as read and open to amendment at any point.
+
+
+Chairman Steil. I have an Amendment in the Nature of a
+Substitute at the desk. The clerk will please report the
+amendment.
+The Clerk. Amendment in the Nature of a Substitute----
+Chairman Steil. Without objection, the Amendment in the
+Nature of a Substitute is considered as read and will be
+considered as original text for the purpose of further
+amendment.
+[Chairman Steil's Amendment in the Nature of a Substitute
+to H.R. 7764 follows:]
+
+Chairman Steil. Does any other Member seek recognition for
+amendment or debate?
+Seeing none, the question now occurs on the Amendment in
+the Nature of a Substitute.
+All those in favor, signify by saying aye.
+All those opposed, no.
+In the opinion of the chair, the ayes have it, and the
+Amendment in the Nature of a Substitute is adopted.
+The question now occurs on ordering H.R. 7764, as amended,
+reported favorably to the House.
+All those in favor, signify by saying aye.
+All those opposed, no.
+In the opinion of the chair, the ayes have it, and the
+motion to report is agreed to.
+A majority having voted in favor of H.R. 7764, as amended,
+the bill is ordered favorably reported to the House.
+Without objection, the motion to reconsider is laid on the
+table.
+I now call up H.R. 6394, the Semiquincentennial
+Congressional Time Capsule Act.
+This nonpartisan legislation would authorize a time capsule
+to be buried on the Capitol Grounds to mark the 250th
+anniversary of America's founding.
+The bill has the support of House Members on the America
+250 Commission, established to celebrate the 250th anniversary
+of the signing of the Declaration of Independence in 2026.
+Additionally, the bill already has the support of the Architect
+of the Capitol.
+I would encourage my colleagues to support the legislation.
+I will recognize the Ranking Member, Mr. Morelle, if he
+would like to give a statement on the bill.
+Mr. Morelle. Thank you, Mr. Chair.
+As you indicated, July 4, 2026, we will celebrate our
+semiquincentennial, and I want to thank my staff for
+phonetically placing that before me so I would not stumble over
+it.
+I think this really is significant. The time capsule, as I
+understand, will be determined by bipartisan, bicameral
+congressional leaders, include written materials,
+representations of important legislative milestones, and a
+message to our future colleagues in the 244th Congress, if we
+have counted properly.
+I am looking to see what goes into the time capsule. I am,
+frankly, looking forward to when we open it, because I will be
+here one way or another. I----
+
+Mr. Morelle. I appreciate everyone bringing it forward. I
+think this is a great idea.
+With that, I yield back.
+Chairman Steil. I have no doubt there are current Members
+that may be here in the 244th, but it will not be me.
+The clerk will please report the bill.
+The Clerk. H.R. 6394, to provide----
+Chairman Steil. Without objection, the first reading of the
+bill is dispensed with. Also, without objection, the bill shall
+be considered as read and open to amendment at any point.
+
+
+Chairman Steil. Does any Member seek recognition for
+amendment or debate?
+There being no further amendments, without objection, we
+will consider the question to report the measure at the end of
+the markup.
+I now call up H.R. 6969, to Direct the Joint Committee on
+the Library to procure a statue of Benjamin Franklin for
+placement in the United States Capitol.
+This bill would authorize the placement of a statue of
+Benjamin Franklin in the U.S. Capitol accessible to the public
+during guided tours.
+I will recognize Mr. Morelle, if he would like to give an
+opening statement on the bill.
+Mr. Morelle. Just to be very brief.
+I spoke with Representative Chrissy Houlahan, who is a
+sponsor of the bill along with Representative Fitzpatrick, and
+while there are certainly some references--and this may be
+interesting to people who have both been here and to Americans
+who have not--certainly references to Benjamin Franklin across
+the Capitol in paintings. I believe there is a statue tucked
+away in the back hallway on the Senate side. There is no statue
+prominently displayed in the Capitol of one of the most
+important Founders of our Nation. Millions of visitors who come
+by here should see that, and I think this legislation would
+change that.
+He was a statesman, a diplomat, scientist, inventor,
+political philosopher, businessperson, and really mentored so
+many people during the most difficult times of this Nation's
+founding, negotiated the Treaty of Paris, which ended the
+Revolutionary War, helped draft the Declaration.
+On and on we could go. I think we all appreciate it. I
+think it is appropriate that we honor him and have him
+displayed prominently in the Capitol.
+I thank you for taking up the bill and for your leadership,
+and, again, thank the staffs on both sides for working this
+out.
+Looking forward to support it enthusiastically.
+I yield back.
+Chairman Steil. The clerk will please report the bill.
+The Clerk. H.R. 69----
+Chairman Steil. Without objection, the first reading of the
+bill is dispensed with. Also, without objection, the bill shall
+be considered as read and open to amendment at any point.
+
+
+Chairman Steil. Does any Member seek recognition for
+amendment or debate?
+Mrs. Bice?
+Mrs. Bice. Thank you, Mr. Chairman.
+I am a proud cosponsor of H.R. 6969, which adds to the U.S.
+Capitol's National Statutory Collection a new piece to honor
+one of our Nation's foremost Founding Fathers, Benjamin
+Franklin.
+As was mentioned by Ranking Member Morelle, he was the
+first American diplomat, fostering our Nation's relationship
+with the French Government, which helped us win the
+Revolutionary War, and that continues, endures to this day.
+I am excited to see this statue placed ahead of America's
+250th birthday. As Benjamin Franklin would say, a penny saved
+is a penny earned, and this statue comes at no cost.
+I urge all of my colleagues to vote in support of the
+legislation.
+Chairman Steil. Does any other Member seek recognition?
+There being no further amendments, without objection, we
+will consider the question to report the measure at the end of
+the markup.
+I now call up H.R. 9489, to sunset the Advisory Committee
+on the Records of Congress and for other purposes.
+This bill sunsets the Advisory Committee on the Records of
+Congress, which is no longer needed, and be replaced with a
+reporting requirement for the Clerk, Secretary of the Senate,
+and National Archives.
+The ACRC convenes twice per year to discuss records
+management for the House and Senate. However, the Clerk and
+Secretary of the Senate agree that this Committee can be
+replaced with a reporting requirement.
+I support this legislation due to the feedback from these
+agencies that are directly involved with records management.
+I will recognize the Ranking Member, Mr. Morelle, if he
+would like to give a statement on the bill.
+Mr. Morelle. Simply that I appreciate you bringing it
+forward, and look forward to supporting it.
+I will yield back.
+Chairman Steil. The clerk will please report the bill.
+The Clerk. H.R. 94----
+Chairman Steil. Without objection, the first reading of the
+bill is dispensed with. Also, without objection, the bill
+should be considered as read and open to amendment at any
+point.
+
+
+Chairman Steil. Does any Member seek recognition?
+There being no further amendments, without objection, we
+will consider the question and report the measure at the end of
+the markup.
+I will now call up H.R. 9487, to amend the Legislative
+Reorganization Act of 1970 to authorize the Legislative Counsel
+of the House of Representatives to designate more than one of
+the attorneys of the Office of the Legislative Counsel as a
+Deputy Legislative Counsel, and for other purposes.
+In the event the Legislative Counsel position is vacant,
+the Deputy Legislative Counsel would be given formal authority
+to perform all the functions of the Legislative Counsel under
+this legislation.
+I strongly support this legislation for continuity of
+operations and succession purposes.
+I will recognize the Ranking Member, Mr. Morelle, if you
+would like to give a statement on the bill.
+Mr. Morelle. Yes. Just very briefly. Thank you, Mr.
+Chairman.
+It has been more than 100 years since the inception of the
+House Office of Legislative Counsel, which I believe began as
+an experiment with the House Ways and Means Committee and has
+become truly a critical House support entity. The expert
+attorneys in the Office of Legislative Counsel now draft tens
+of thousands of bills and resolutions each Congress, and the
+number is growing exponentially when you account for the many
+drafts of a measure as it is being refined.
+It is an increasing number of amendments as well being
+submitted by Members as we have seen on both legislation large
+and small.
+As the demands of the office continue to increase, it is
+vital we provide the attorneys with the support they need to do
+their jobs effectively. That certainly includes both increasing
+the resources, but also it requires ensuring the office engages
+in succession planning, as you said, to ensure continuity of
+Government.
+While this may seem like a sort of a pedestrian matter, it
+is actually a big deal in my view in terms of ensuring that
+Congress does the job it needs to for the American people.
+I would be remiss if I did not acknowledge the current
+Deputy Legislative Counsel, Noah Wofsy. He and his team do a
+masterful job working closely with Members and staff on the
+Committee, and on this Committee in particular, and we would
+quite literally not be able to have this or any other markup
+without both his talents, dedication, and patience, and also
+Legislative Counsel Wade Ballou and the entire team in the
+Office of Legislative Counsel for the work they do.
+We are very, very grateful for their service. The American
+people do not know their names but benefit from them every day.
+I am anxious to be able to be in support of this measure.
+With that, I yield back.
+Chairman Steil. The clerk will please report the bill.
+The Clerk. H.R. 9----
+Chairman Steil. Without objection, the first reading of the
+bill is dispensed with. Also, without objection, the bill
+should be considered read and open to amendment at any point.
+
+
+Chairman Steil. Does any Member seek recognition for
+amendments or debate?
+Seeing none, there being no further amendments, without
+objection, we will consider the question to report the measure
+at the end of the markup.
+I now call up H.R. 6242, the VOTES Act of 2023. I will
+recognize the Ranking Member, Mr. Morelle, if he would like to
+give a statement on the bill.
+Mr. Morelle. Just briefly.
+Again, I am really grateful for the opportunity to have
+this in front of us and to speak in support of the VOTES Act
+bill. It is an important bill, championed by my friend and
+colleague Maxwell Frost of Florida as well as a number of
+Members on this Committee. I cosponsored it, but I know Ms. Lee
+is a lead sponsor of the bill, and I want to thank her for her
+leadership and her efforts on that as well. I believe Mr.
+Kilmer is a cosponsor as well.
+It is a common-sense update to the UOCAVA to ensure that
+our overseas servicemembers can participate in our democracy.
+It is essential that we guarantee every American, we have
+talked about that at length today, no matter our opinion, we
+believe every member of our Armed Forces should be able to cast
+a ballot.
+Those ballots--we are 10 days from the deadline for States
+to send out those ballots to our men and women in uniform, and
+this deadline is a meaningful reminder of our duty as Members
+to protect the right of all servicemembers.
+I am grateful for the bill being before the House. Thank
+you. Thank your staff. Thank Ms. Lee. Thank Mr. Kilmer and Mr.
+Frost for their leadership on this.
+With that, I yield back.
+Chairman Steil. The gentleman yields back.
+The clerk will please report the bill.
+The Clerk. H.R. 6242----
+Chairman Steil. Without objection, the first reading of the
+bill is dispensed with. Also, without objection, the bill
+should be considered as read and open to amendment at any
+point.
+
+
+Chairman Steil. Does any Member seek recognition?
+Ms. Lee is recognized.
+Ms. Lee. Thank you, Mr. Chairman.
+I would like to thank my Florida colleague, Congressman
+Maxwell Frost, for introducing this important bill, which I am
+proud to cosponsor.
+This bill amends the Uniformed and Overseas Citizens
+Absentee Voting Act, otherwise known as UOCAVA, which is how
+that we ensure that our servicemembers overseas have their
+right to vote protected and facilitated.
+This bill expands UOCAVA provisions to ensure that we
+include men and women who are serving in our National Guard or
+in an inactive service status so that they, too, are covered by
+UOCAVA.
+With that, I encourage the Members of the Committee to
+support this bill.
+Mr. Chairman, I yield back.
+Chairman Steil. The gentlewoman yields back.
+Does any other Member seek recognition?
+There being no further amendments, without objection, we
+will consider the question and report the measure at the end of
+the markup.
+There being no further amendments or debate, the question
+now occurs on ordering 6394, 6969, 9489, 9487, and 6242
+reported favorably to the House.
+All those in favor, signify by saying aye.
+All those opposed, no.
+In the opinion of the chair, the ayes have it and the
+motion report is agreed to.
+A majority having voted in favor of H.R. 6394, H.R. 6969,
+H.R. 9489, H.R. 9487, and H.R. 6242, the bills are ordered
+favorably reported to the House. Without objection, the motion
+to reconsider is laid on the table.
+This concludes the order of business for today's markup.
+Pursuant to House Rule XI, clause 2(l), I ask that the
+Committee Members have the right to file with the clerk of the
+Committee supplemental additional minority and dissenting views
+on each of the items marked up today.
+Without objection.
+Also, without objection, the staff is authorized to make
+necessary technical and conforming changes.
+If there is no further business, I thank the Members for
+their participation.
+Without objection, the Committee on House Administration
+stands adjourned.
+

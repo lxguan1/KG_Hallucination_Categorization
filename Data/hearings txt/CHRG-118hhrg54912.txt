@@ -1,1 +1,1175 @@
-EXAMINING THE RISK: THE DANGERS OF EV FIRES FOR FIRST RESPONDERS ---------- THURSDAY, FEBRUARY 29, 2024 House of Representatives, Subcommittee on Investigations and Oversight, Committee on Science, Space, and Technology, Washington, D.C. The Subcommittee met, pursuant to notice, at 10:31 a.m., in room 2318 of the Rayburn House Office Building, Hon. Jay Obernolte  presiding. GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT Chairman Obernolte. The Committee on Science, Space, and Technology will come to order. Without objection, the Chair is authorized to declare a recess of this hearing at any time. Welcome to today's hearing entitled ``Examining the Risk: The Dangers of EV Fires for First Responders.'' I now recognize myself for 5 minutes for an opening statement. I'd like to thank everyone and to Ranking Member Foushee and the other Members of our Committee for being here this morning. Today's hearing will examine the growing dangers that electric vehicle (EV) fires pose to the American public and the lack of guidance and resources provided to first responders across the country. For over 100 years, our highways have been dominated by internal combustion engine (ICE) vehicles. Throughout this time, we've invested resources and expertise to learn the best practices for extinguishing internal combustion engine vehicle fires. However, within the last two decades, we've seen a large increase in the number of electric vehicles on the road. The Federal Government has pushed for a transition to EVs, incentivizing their development through tax credits and charging station infrastructure grants. Worldwide, there are now roughly 3.1 million EVs in operation today. Many experts in the auto industry anticipate that by 2030, there will be nearly 130 million vehicles in operation. As the presence of these vehicles continues to grow on our roads, so does the threat and danger of the fires they can produce. EV fires are fundamentally different from traditional internal combustion engine fires, and they present new dangers that our first responders need to be prepared for. EV fires burn at temperatures far hotter than regular vehicle fires. They produce copious amounts of toxic chemical gases, expose firefighters to the risk of electrocution, and are often inextinguishable for hours or even days with a constant threat of reignition due to thermal runaway. When an EV either experiences an incident due to a manufacturing defect or is damaged in an accident, the battery that powers that vehicle often has a remaining charge. This stranded energy provides the fuel to keep a battery burning for hours, regardless of how much water is poured on it in an attempt to extinguish it. Unfortunately, the Federal Government has been deficient in providing guidance and resources to our firefighters in dealing with this threat. There's currently no uniform guidance on how to address EV fires or protect firefighters from the unique hazards they present, leaving many fire departments to formulate ad hoc solutions. For example, firefighters in Wakefield, Massachusetts, had to dump 2-20,000 gallons of water over 2 hours to put out an EV fire. Firefighters in Sacramento were forced to submerge an EV in a makeshift pond because the vehicle kept reigniting. Vehicle manufacturers themselves have not provided uniform solutions to this problem, with some manufacturers recommending that EVs be removed from the road and left to burn themselves out. As you can imagine, in my home State of California where wildfires are an ever-present danger, letting an EV just burn itself out is not an option. Today's hearing is about ensuring the safety of our firefighters and first responders. This hearing also seeks to raise awareness of the dangers of EV battery fires and ensure that those who help protect and serve our communities are provided with the resources they need to do their jobs. This requires that we understand the threats of EV fires and the substantial differences between EVs and ICE vehicles to develop new best practices and uniform guidance. I'm looking forward to the hearing today. That concludes my opening statement.  Good morning. Thank you to Ranking Member Foushee and the other members of our committee for being here. Today's hearing will examine the growing dangers that electric vehicle fires pose to the American public and the lack of guidance and resources provided to first responders across the country. For over 100 years, our highways have been dominated by internal combustion engine vehicles. Throughout this time, we have invested resources and expertise to learn the best practices for extinguishing internal combustion engine vehicle fires. However, within the last two decades we have seen a large increase in the number of EV's on the road. The federal government has pushed for a transition to electric vehicles, incentivizing their development through tax credits and charging station infrastructure grants. Worldwide there are roughly 3.1 million EVs in operation today. Many experts in the auto industry anticipate that by 2030 there will be nearly 130 million in operation. As the presence of these vehicles continue to grow on our roads, so does the threat and danger of the fires they can produce. EV fires are fundamentally different from traditional internal combustion engine fires, and they present new dangers that our first responders need to be prepared for. EV fires burn at temperatures far hotter than regular vehicle fires; they produce copious amounts of toxic chemical gases, expose firefighters to the risk of electrocution, and are often inextinguishable for hours or days with the threat of reignition due to thermal runaway. When an EV either experiences an incident due to a manufacturing defect or is damaged in an accident, the battery that powers the vehicle often has a remaining charge. This stranded energy provides the fuel to keep a battery burning for hours regardless of how much water is poured on it in an attempt to extinguish it. Unfortunately, the federal government has been deficient in providing guidance and resources to our firefighters and first responders in dealing with this threat. There is currently no uniform guidance on how to address EV fires or protect firefighters from the unique hazards they present, leaving many fire departments to formulate ad hoc solutions. For example, firefighters in Wakefield, Massachusetts had to dump 20,000 gallons of water over two hours to put out an EV fire. Firefighters in Sacramento, California were forced to submerge an EV in a makeshift pond because the vehicle kept reigniting. Vehicle manufacturers themselves have not provided uniform solutions to this problem, with some manufacturers recommending that EVs be removed from the road and left to burn themselves out. As you can imagine, in my home state of California, where wildfires are always an ever-present danger, letting an EV just burn itself out is not an option. Today's hearing is about ensuring the safety of our firefighters and first responders. The hearing also seeks to raise awareness of the dangers of EV battery fires and to ensure that those who help protect and serve our communities are provided with the resources they need to do their jobs. This requires that we understand the threats of EV fires and the substantial differences between EVs and ICE vehicles to develop new best practices and uniform guidance. Our first witness is Mr. Dan Munsey, Fire Chief of the San Bernardino County Fire Department. Chief Munsey is a constituent and friend. He works diligently for the citizens of San Bernardino County and is uniquely positioned through his leadership role with the International Association of Fire Chiefs to speak to the challenges firefighters face on the ground when confronted with an EV fire. Chief Munsey, we are looking forward to hearing your experiences to better understand how we can address this issue in the future. Also testifying today is Dr. Judy Jeevarajan, the Vice President and Executive Director of the Electrochemical Safety Research Institute at UL Research Institutes. UL is one of the leading research organizations on EVs and lithium-ion battery fires. Dr. Jeevarajan is an expert on battery technology, and we look forward to hearing from you today. We hope both of your testimonies will provide solutions to the Committee's concerns with these vehicle fires, and also supply steps that can be taken to provide resources and guidance to first responders. Thank you for your willingness to be here. I now recognize Ranking Member Foushee for her opening statement. Chairman Obernolte. I'll now recognize the Ranking Member of the Investigations and Oversight Subcommittee, the gentlewoman from North Carolina, Mrs. Foushee, for her opening statement. Mrs. Foushee. Thank you, Chairman Obernolte, for holding today's hearing on this important topic. The issue of firefighter safety is very near and dear to me. My husband Stan served as a firefighter and fire marshal for the town of Carrboro, North Carolina, for more than 30 years before his retirement. I witnessed firsthand the bravery and dedication that he and his firefighting comrades brought to the job, as well as the sacrifices that firefighters and their families are required to make. I am incredibly grateful for their service and we should all be grateful for the service of firefighters around the Nation. We must do everything possible to support them and keep them safe the way they keep us safe every single day. Today's hearing is focused on electric vehicles and the distinct safety risks that electric vehicles pose for firefighters and first responders. A key task when considering any emerging technology is to understand the novel challenges posed by the technology and then learn how to mitigate those risks so that society can enjoy its full benefits. Electric vehicles are no different. It is important to note that EVs are a critical piece of America's clean energy transition, and that the rapid adoption of EVs is essential to achieving President Biden's ambitious goal to make the United States a net-zero emitter of greenhouse gases by 2050. I am proud to say that my home State of North Carolina has become a leader in the development and the deployment of EVs here in the U.S. Furthermore, based on currently available data, there is no reason to believe that EVs are any more likely to catch fire than traditional vehicles powered by internal combustion engines. Nevertheless, EV battery fires are different from internal combustion engine fires, and therefore, pose a distinctive risk in terms of firefighter and first responder safety. I appreciate that today's discussion will be rooted in science because we cannot understand the safety risks of EVs without understanding the scientific basis that underlies them. Today's EVs are mostly powered by lithium-ion batteries, which offer great benefits when it comes to energy efficiency, but can suffer extensive damage from high-speed crashes. The sources of EV safety risks that we all--that we will discuss rather, such as electric shocks, stranded energy, thermal runaway, reignition, and toxic chemical release are primarily associated with the properties and characteristics of lithium- ion batteries when those batteries are damaged. I believe there are tremendous opportunities for scientific research to reduce these risks by advancing our understanding of why lithium-ion batteries react in these ways, how the design of lithium-ion batteries can be improved to lessen the risk of fires, and what innovative tools and techniques can be developed to aid firefighters and first responders as they respond to EV fires in real time. I hope to learn more today about the latest research developments surrounding lithium-ion battery safety, the research gaps that currently exist, and the most promising research pathways toward batteries that are less prone to fire hazards. I want to extend my sincere gratitude to both of our witnesses for your testimony at today's hearing. We are fortunate to hear from both of you for your perspectives as leaders in the firefighting community and a leader in the field of battery safety research. It is crucial to bring these worlds together to ensure that firefighters and first responders possess the knowledge and the technical capabilities that they need to respond to EV fires safely and effectively. And, Chief Munsey, thank you for your service. Mr. Chairman, I yield back.  Thank you, Chairman Obernolte, and thank you for holding today's hearing on this important topic. The issue of firefighter safety is very near and dear to me: my husband, Stanley, was a firefighter for over 30 years and served as the Fire Marshal for the town of Carrboro, North Carolina before his retirement. I witnessed firsthand the bravery and dedication that my husband and his firefighting comrades brought to the job, as well as the sacrifices that firefighters and their families are required to make. I am incredibly grateful for their service, and we should all be grateful for the service of firefighters around the nation. We must do everything possible to support them and keep them safe, the way they keep us safe every single day. Today's hearing is focused on electric vehicles, and the distinct safety risks that electric vehicles pose for firefighters and first responders. A key task when considering any emerging technology is to understand the novel challenges posed by the technology and then learn how to mitigate those risks so that society can enjoy its full benefits. Electric vehicles are no different. It is important to note that EVs are a critical piece of America's clean energy transition, and that the rapid adoption of EVs is essential to achieving President Biden's ambitious goal to make the United States a net-zero emitter of greenhouse gases by 2050. I am proud to say that my home state of North Carolina has become a leader in the development and deployment of EVs here in the U.S. Furthermore, based on currently available data, there is no reason to believe that EVs are any more likely to catch fire than traditional vehicles powered by internal combustion engines. Nevertheless, EV battery fires are different from internal combustion engine fires, and therefore pose a distinctive risk in terms of firefighter and first responder safety. I appreciate that today's discussion will be rooted in science, because we cannot understand the safety risks of EVs without understanding the scientific basis that underlies them. Today's EVs are mostly powered by lithium-ion batteries, which offer great benefits when it comes to energy efficiency but can suffer extensive damage from high-speed crashes. The sources of EV safety risk that we will discuss, such as electric shock, stranded energy, thermal runaway, reignition, and toxic chemical release, are primarily associated with the properties and characteristics of lithium-ion batteries when those batteries are damaged. I believe there are tremendous opportunities for scientific research to reduce these risks by advancing our understanding of why lithium-ion batteries react in these ways, how the design of lithium-ion batteries can be improved to lessen the risk of fires, and what innovative tools and techniques can be developed to aid firefighters and first responders as they respond to EV fires in real time. I hope to learn more today about the latest research developments surrounding lithium-ion battery safety, the research gaps that currently exist, and the most promising research pathways towards batteries that are less prone to fire hazards. I want to extend my sincere gratitude to both of our witnesses for your testimony at today's hearing. We are fortunate to hear both of your perspectives, as a leader in the firefighting community and a leader in the field of battery safety research. It is crucial to bring these worlds together to ensure that firefighters and first responders possess the knowledge and the technical capabilities that they need to respond to EV fires safely and effectively. And Chief Munsey, thank you for your service. Mr. Chairman, I yield back. Chairman Obernolte. Thank you, Mrs. Foushee. I'll now recognize the Ranking Member of the full Committee, Ms. Lofgren, for an opening statement. Ms. Lofgren. Well, thank you, Chairman Obernolte and Ranking Member Foushee, for this hearing today. As you've mentioned, electric vehicles make up an increasing share of cars on the road, and that's really good news. That reduces emission from the transportation sector, which is crucial in our fight against climate change. But as with any emerging technology, we need to make sure we understand and adapt to the unique challenges that arise from its widespread adoption. That doesn't mean EVs are any more dangerous than gas-powered vehicles. We simply don't have the data to suggest that. But the data and research on EVs has to increase along with the market for them. Over the decades, we've developed best practices to extinguish internal combustion engine fires as safely and as quickly as possible. Now, we need to give that level of attention and support to research into electric vehicles and specifically, as the Chair and Ranking Member have mentioned, lithium-ion batteries that power them. A 2020 safety report published by the National Transportation Safety Board noted that fires arising from lithium-ion batteries and electric vehicles can present special challenges for firefighters and first responders, along with risks that differ from the risks presented by fires in traditional vehicles. In the years since that report was published, EV sales have ballooned to 1.3 million in 2023. In fact, when I'm home, it looks like every other car on the road is an EV. Fire departments across the country, many staffed by volunteers, don't have the resources to track the EV fires they extinguish. And as we know in the Science Committee, data is absolutely essential. If the data isn't available to indicate that EVs are more dangerous than the internal combustion engine, we need to research that, and we need to have meaningful efforts to deal with the new challenges. I'm happy to join my Chair and Ranking Member in welcoming these two wonderful witnesses. We need to support research into safety mechanisms that can be incorporated into the battery itself so reignition is less of a risk. And we need to develop technology that provides insight into the health of lithium-ion batteries to detect damaged batteries after a crash and keep them off the road and out of waste facilities before they ignite. In the meantime, we need to ensure that first responders are prepared to address the risk present when current generation lithium-ion batteries ignite. Is the personal protective equipment used by firefighters still safe after it's been exposed to battery fumes? How can we ensure that first responders have easy access to safety information that differs from manufacturer to manufacturer? So long as we lack industrywide standards and science to anchor them, responses to EV fires will be hampered, placing first responders and consumers at risk. I look forward to hearing from the experts here today. We know science is important in addressing this issue. Support of zero emissions in our future requires a clear-eyed look at the new challenges introduced by emerging clean technologies. As someone who happily drives a Volt at home, I want to make sure that we know everything that we need to know about lithium-ion batteries so that we can go on reducing our climate change risk but also safely. And with that, Mr. Chairman, I yield back.  Thank you, Chairman Obernolte and Ranking Member Foushee, for leading this hearing today. Electric vehicles make up an increasing share of the cars on the road. This is great news - reducing emissions from the transportation sector is crucial in our fight against climate change. And as with any emerging technology, we need to make sure we understand and adapt to the unique challenges that arise from its widespread adoption. This does not mean EVs are any more dangerous than gas- powered vehicles--we simply don't have data to suggest that. But the data and research on EVs must increase along with the market for them. Over many decades, we've developed best practices to extinguish internal combustion engine fires as safely and quickly as possible. Now, we need to give that level of attention and support to research into electric vehicles, and specifically into the lithium- ion batteries that power them. A 2020 safety report published by the National Transportation Safety Board noted that fires arising from the lithium-ion batteries in electric vehicles can ``present special challenges'' for firefighters and first responders, along with ``risks that differ'' from the risks presented by fires in traditional vehicles. In the years since that report was published, EV sales have ballooned, from 300,000 in 2020 to 1.3 million in 2023. However, the data available on EV fires hasn't increased proportionally. Fire departments across the country--many staffed by volunteers--lack the resources to track the EV fires they extinguish. The data that is available doesn't indicate EVs are any more dangerous than internal combustion engines, but as we know on the Science Committee, we can't meaningfully address new risks without the data to underpin our research questions. I'm happy to join my colleagues in welcoming our witnesses today, who will help us understand these questions from two important angles. As electric vehicles become increasingly popular, practical, and affordable, their lithium-ion batteries must evolve to improve the safety of riders and first responders. We need to support research into safety mechanisms that can be incorporated into the battery itself, so re- ignition is less of a risk. We need to develop technology that provides insight into the health of lithium-ion batteries, to detect damaged batteries after a crash and keep them off the road and out of waste facilities before they ignite. In the meantime, we need to ensure that first responders are prepared to address the risks present when current- generation lithium-ion batteries catch fire. Is the personal protective equipment used by firefighters still safe after it's been exposed to battery fumes? How can we ensure our first responders have easy access to safety information that differs from manufacturer to manufacturer? So long as we lack industry-wide standards and science to anchor them, responses to EV fires will be hampered, placing first responders and consumers at risk. I look forward to hearing expert perspectives on how the Science Committee can help to close the research gaps related to EV fires. Support of a zero-emissions future requires a clear-eyed look at the new challenges introduced by emerging clean technologies. Thank you to our witnesses for appearing today. Mr. Chairman, I yield back. Chairman Obernolte. Thank you, Ranking Member Lofgren. We'll now move to witness testimony. Our first witness is Dan Munsey, who is Fire Chief of the San Bernardino County Fire Department. Chief Munsey is my constituent and friend. He works diligently for the citizens of San Bernardino County and is uniquely positioned through his leadership role with the International Association of Fire Chiefs to speak to the challenges that firefighters face on the ground when confronted with an EV fire. Chief Munsey, we are looking forward to hearing your experiences and to better understanding how we can address this issue in the future. Also testifying today is Dr. Judy Jeevarajan, which, in fairness, is no more difficult a last name than Obernolte. She is the Vice President and Executive Director of the Electrochemical Safety Research Institute at UL Research Institutes. UL is one of the leading research organizations on EVs and lithium-ion battery fires. Dr. Jeevarajan is an expert on battery technology, and we are looking forward to hearing from you today about how to confront this problem. We hope that both of your testimonies will provide some solutions to the Committee's concerns with these vehicle fires and also supply steps that can be taken to provide these needed resources and guidance to our first responders. Chief Munsey, you are now recognized for 5 minutes to present your testimony. TESTIMONY OF MR. DAN MUNSEY, FIRE CHIEF, SAN BERNARDINO COUNTY FIRE DEPARTMENT Mr. Munsey. Chairman Obernolte, thank you for allowing me to testify. Ranking Member Foushee, thank you for you and your husband's service. And, Ms. Lofgren--thank you--Ranking Member Lofgren, thank you--Lofgren, excuse me--thank you for your testimony as well. I have to ask you, Chair, did you use ChatGPT for your remarks? Chairman Obernolte. No, sir, I did not. Mr. Munsey. I'm Dan Munsey. I'm the Fire Chief for the county of San Bernardino. We happen to be the largest county in the United States, over 20,000 square miles. For perspective, you can take the four smallest States in the union and put it within our borders. Of interest is almost 80 percent of our area is State or Federal land. We have a large Federal responsibility and work with the various fire--forest--forestry agencies in our county. I do sit on the International Association of Fire Chiefs as a Tech Council President, have sat there for 4 years. I am on the California Metro Chiefs as a Vice President that represents the largest fire departments in California. And I also sit on Firescope in which an Emerging Information Technology group has spent a lot of time looking at lithium-ion batteries and EVs and the hazards to firefighters. I wrote a written testimony and it focused on prevention because our first job in the fire service is to prevent bad things from happening, and only when those things do occur, then to have a response. I'm not going to go through everything that I've written in my written testimony, but I will say that it's incredibly important that we educate the public to ensure that they understand how to safely charge their vehicles and how to not modify them. It's important that we're enforcing the rules and regulations, and there's certainly some rules and regulations that could be adopted by State, local, and Federal agencies to ensure that our electric vehicles are safe. Third, we have to work with the manufacturers to ensure that we are engineering lithium-ion batteries that can withstand damage from crashes and also sustainability from fire, and I have provided some thoughts in my written testimony. I'm going to call for a video to be played here shortly, and when it's ready to be played, please bring it to the screen. But I'd like to describe this video to you. Now, this isn't a video that's going to show a large explosion or a gas that's quickly burning, but it's going to show four things: the effort required to suppress an emergency vehicle, the duration of the amount of time that it takes to suppress that fire, the amount of specialized equipment, and the cost. As we're fighting electric vehicle fires, as has been mentioned, there are some concerns. The first is the personal protective equipment of the firefighters. Frankly, over my career, I've seen way too many firefighters pass away and die from cancer. Our cancer rate is higher than the civilian population. Their--electric vehicle lithium-ion batteries pose a challenge to firefighters' health. The personal protective equipment, especially when it's exposed by lithium-ion gases in a pressurized environment such as the garage you see in front of you, then leads to extraordinary cleaning costs of around $500 to $1,000. This personal protective equipment must be sent offsite. There is no fire department that I have knowledge of that possesses the cleaning. Generally, it's a CO2 compressed system to remove the gases. Please play the video. OK. So we're waiting for that to come up. Just go ahead and play it when you're ready.  Mr. Munsey. Equipment, you'll see in this video here shortly that they're using a fire blanket. The fire blanket is used to either suppress the fire. It's not putting the fire out, but it's controlling the fire and the gases to prevent spread. These blankets cost between $3,000 to $5,000. What you see here is a single-family residence in the Denver metro area. The firefighters had a garage. The first screen shows gases and a smoke that--under a pressurized environment. They now have to remove the car using specialized equipment. The blanket is in the firefighter's hand. While the fire looks controlled, it is not. There's still thermal runaway of that battery, and it can ignite at any time. This blanket is used to keep that fire under check. They are now going to have to tow this vehicle to a tow yard. When they arrive at a tow yard, they're going to do things such as digging a pit, filling it with water, and immersing this vehicle, or working to isolate that battery. This car must be kept separate from humans and other cars so it doesn't ignite or cause human health. Training is also significant of about $2,500 per firefighter just to understand the electrical concerns, how to adequately fight these fires, how to use the specialized nozzles. Finally, to close the remarks, our plan in San Bernardino, we're going to need to buy a heavy wrecker. The heavy wrecker is about $1.2 million. We're going to use these to lift the cars. We're going to have to buy a trailer with a dip tank to place the cars in a dip tank to fully extinguish these fires. I'll look forward to your questions as they come up. Thank you for the time.  GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT Chairman Obernolte. Thank you, Chief Munsey. I now recognize Dr. Jeevarajan for 5 minutes to present her testimony. TESTIMONY OF DR. JUDY JEEVARAJAN, VICE PRESIDENT AND EXECUTIVE DIRECTOR, ELECTROCHEMICAL SAFETY RESEARCH INSTITUTE AT UL RESEARCH INSTITUTES Dr. Jeevarajan. Good morning, Chairman Obernolte, Ranking Member Foushee, and Ranking Member Lofgren, and Members of the Committee. Thank you for this opportunity to testify on examining the risk and dangers of EV fires for first responders, as this is indeed a very important and timely topic. I'm the Vice President and Executive Director of UL Research Institutes, as you already mentioned, and before joining UL, I worked at NASA (National Aeronautics and Space Administration) Johnson Space Center in Houston as a group lead for battery safety and advanced technology. Since entering the commercial market in the 1990's, lithium-ion rechargeable batteries will continue to maintain the rank for battery chemistry with the highest energy density while also enjoying a long cycle life, lower level of self- discharge, and high-rate capability. The many advantages that is provided by this battery chemistry has made it the option of choice in many sectors ranging from consumer devices to electric vehicles and stationary grid energy storage systems. Lithium-ion batteries are being used in the space sector since the late 1990's, and more recently, have been deployed in the marine sector, too. Associated with this high energy density, though, is the potential for lithium-ion cells to undergo catastrophic failures that can generate fire and toxic gases when they fail to be designed, manufactured, charged, or used correctly. One major challenge is the suppression of fires, as you just heard. Various difficulties arise. The first is the design and location of the battery in an EV. Lithium-ion fires need a suppressant that can efficiently cool down all the cells in the battery pack in order to prevent reignition. However, the physical location of the batteries in the EVs tends to be on the underside of the vehicle, which means a rollover of the vehicle may be required to manage access. Additionally, the batteries are typically in a well-sealed container required--that is specifically to prevent water ingress in the event of a flood or if the vehicle is driven on waterlogged roads. For ease of fire suppression, designs need to be developed here in the event of a catastrophic failure. Sensors allow the opening of a relief valve in the battery pack, which would then be connected to an outlet that is accessible from a convenient location. Another area that requires research is finding methods to remediate possible toxic chemical runoff--suppressant runoff. An area of concern for first responders and firefighters working with an EV that has undergone a catastrophic failure is determining the presence and location of stranded energy. Stranded energy is energy that remains in a partially damaged battery, which can be quite significant. Based on the design of the battery--lithium-ion batteries in EVs, it's possible after a fire or other damage that some modules are fully compromised, while others are not. And it's also possible to have some cells in the modules that are not compromised. So the damaged modules may include energetic cells that can also move around when you move the vehicle while it's moved to a tow yard. This can cause short circuits and possible reignition. So it's critical that parts of the battery--to determine if parts of the battery are still energized and provide a means to discharge the cells or modules before moving the vehicles, and methods need to be developed to remotely access the data to determine the existence of locations where cells continue to be energized and designs that bypass fully compromised modules and discharge the energized modules should also be developed. So I would like to go on to venting and thermal runaway and the release of combustible and toxic gases. My statement has a lot of information, which I'm not going to read every part of it, but I just want to mention that toxic and corrosive gases such as HF and hydrogen cyanide are released. And we have found--we have heard from firefighters that even after washing their suits, they do find traces of HF on their suits. We also know that there are particulate emissions that are given off that are in the sub-micron sizes, in orders of magnitude higher than the limits established for safe human exposure. The type of respirators used by first responders may also need to be reevaluated for their suitability to be worn during EV fire suppressions. And I also mentioned that the materials that are used in the suits may also need to be researched and determine if new types of materials need to be used. Other things that I wanted to talk about are mechanical impacts, talk about fast charging. That is a concern. We would like to have more research that is done in the area of fast charging. And the last thing I also wanted to mention is cybersecurity. With the ease of updating EV vehicles and battery software remotely, it also makes it very attractive, but there are cybersecurity concerns. And lastly, regulations need to be in place, where one can actually recognize a vehicle, that it is an EV or plugin--or any type of an EV. And also the firefighters are given enough information to work with the vehicle. Again, thank you all for the opportunity to address the House Science Committee. I look forward to addressing your questions and comments.  GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT Chairman Obernolte. Well, thank you very much. And thank you to both our witnesses for your testimony. I'll now recognize myself for 5 minutes for questions. Chief Munsey, thanks again for being here. Our county is larger than most States, and that prevents--presents some unique challenges in ignition--extinguishing fires. I was struck by, in listening to your testimony, some of the vast amounts of water that's required to put out EV fires. What do you do if you're responding to a fire and you don't have a hydrant readily available? Or what do you do when an incline is so steep, as it is in many places in our district, when just getting access to the EV is a challenge? Mr. Munsey. These are challenges. I'll point out that the 15 freeway--if we shut down the 15 freeway, there's several million dollars of commerce that's affected per hour. So an EV fire on the freeway, it's best to extinguish it rather than let it burn out. That would be option No. 1, the preferable method, just let it burn. On the 15 freeway in our desert areas or in our mountain areas where we wouldn't have hydrants that are nearby, we really don't have a lot of options except for using a fire blanket that was demonstrated in the video to help control that fire. Two would be to bring a dip tank to the site and fill it. Other than that, there really is no other options. If we start attacking these fires using tank water, meaning the water tank on the fire engine, these are typically only 500 to 750 gallons of water. You're quickly going to run out of water, and this fire is going to flare up. This could ensnarl traffic, or it could, in a bad scenario, start a wildland fire, and now we do not have any water to suppress this wildland fire. Chairman Obernolte. Thank you. It's a serious problem. Dr. Jeevarajan, I was interested in the part of your testimony where you were talking about how necessary it is to know exactly where the battery cells are and to be able to get access to them to be able to cool them all down to prevent reignition. There's kind of a similar problem with aircraft and with airport firefighters needing to know where the fuel is, where the emergency exits are. And that's why there are standard markings on aircraft to designate emergency exits. And most airport firefighting--firefighters are provided with manuals that have a page for each type of airplane that operates at that airport commonly that shows where the flammables are, the fuel and the hydraulics and the oxygen, so that the firefighters are aware of that danger. Do you think that something like that would reduce the risk in EVs and share that knowledge about where these battery cells are located? Dr. Jeevarajan. Sure. As you know, that cells are located-- all the batteries are located on the underside, below the passenger compartment. And they pretty much are through the entire bottom of the vehicle. That also helps with the center of gravity. So one of the things that we are looking at, within the SAE, is writing a standard that--I think it's called J3108, which is going to be looking at putting some type of a symbol on the registration plates that will tell people what type of vehicle it is, whether it's a gasoline vehicle or electric vehicle, and it could be pure battery electric vehicle or a PHEV (plug-in hybrid electric vehicle) or a HEV (hybrid electric vehicles). And I think that's still not in place yet, but at some point when that comes in place, then people should be able to just look at it and then go and figure out or translate it to something like what I would call a QR code, but it's really just going and looking for a manual that says where the battery is or what type it is. But I also think the bigger thing is like design that is required. If you have an excess of production of gas, a rupture valve or something opens up, that would allow the firefighters to be able to connect to the inside of the battery because that will also reduce the amount of water that is needed because at this time, you know, you're really not able to get to the cells. So just trying to cool the outside of the battery is insufficient, which is why it takes a lot more water to put out the fire. And of course, you're not really reaching the cell, so you're not really putting out the entire problem. So I think that there needs to be a little bit more research and design and engineering that goes into this, and I think we can get to that. Chairman Obernolte. All right. Thank you. Chief Munsey, part of your testimony that you touched on just briefly involved the modification of electric vehicles and how hazardous that could be because it creates unapparent and unintended consequences in sometimes causing fires, but our home State of California has a rich tradition of allowing hobbyists to modify vehicles. So how do you balance those two ideas? Because they seem to be in tension. Mr. Munsey. I enjoy working on old cars and motorcycles myself, and if I look at the quote from Alfred Lord Tennyson on the wall about looking into the future, that is something we need to do when it comes to electric vehicles. The fact is lithium-ion batteries that are poorly made and do not meet certification cause fires. My greatest fear is 20, 25 years down the line, as these cars are aging, we will have the home mechanics that are replacing batteries with poorly made, cheaper batteries that could cause fires. This is a concern to me. And while I believe that people should be able to work on hobbies, we just need to make sure that we're giving them the ability to purchase the correct batteries, to install them correctly to maintain their vehicles. Chairman Obernolte. All right. Thank you. Well, I see I am out of time. I'll now recognize the Ranking Member, Mrs. Foushee, for 5 minutes for questions. Mrs. Foushee. Thank you, Mr. Chairman. Dr. Jeevarajan, I'll direct my initial question to you. I think we've acknowledged that, as EVs become more popular, that EV battery fires are going to become more common. As an expert in lithium-ion battery safety, what do you believe are the biggest research gaps in EV battery safety? Dr. Jeevarajan. I think I've mentioned most of it in my statement. I think the fire suppression methods need to be optimized. Getting the suppressants in our vehicle designs, to the cells in the battery pack, those need to be optimized. Stranded energy, understanding stranded energy is something that we need to work on. There should be remote ways to actually access the data. There can be software platforms that can be developed that can remotely understand what's going on in the battery, which areas are energized and so on. And that will give a better idea for the firefighters and first responders to determine which modules need to be discharged. And that requires some science also. Back in the late 1900's, early 2000's at NASA I worked on a project where we were looking at doing an upgrade to the APU (auxiliary power unit) system. The APU at that time--or the APU for the shuttle used hydrazine as a fuel. And we were looking to convert it to an electric APU. So we looked at a large battery. This was like more than 300-volt battery. And at that time--it was lithium-ion. And the way we had designed it is, we need to have two-failure tolerance, which means even if two cells in the battery pack failed, we would need to still have power because it is a critical part of the shuttle. So we were designing bypass for cells that failed. And I think things-- designs like that can easily be done. I mean, I don't say easy because these are high voltage systems, have a lot of cells in them, but there are engineering and scientific methods to be able to do those types of--have those types of designs developed. And so then we can actually bypass--once we know which modules have energy in them, they can be bypassed. And the ones that are energized can still be discharged. I think it just requires a lot more work. I talked about cybersecurity. One of our sister institutions is the Digital Safety Research Institute, and they're worried about cybersecurity. And I think when you have the ease of updating your software in vehicles so easily, there is the possibility of people messing up with that also, so there needs to be security, you know, plans developed, making sure software used follows standards, and standards are used to certify them, and so on. So there are several areas again, looking at the different chemistries, trying to understand if we need new materials for firefighters, as well as trying to understand if we need better respirators. There's a lot of scientific research that can be carried out. And I think we will be working on several of these. And we would certainly like to work on more of these to--one of the goals for my institute is to advance safer energy storage through science, and so we really would like to be involved with carrying out such research and collaborating with many agencies, academia and so on, to get to a point where EVs are safer. Mrs. Foushee. Thank you for that. So firefighters face grave dangers on the job, and it is crucial that the protective gear and equipment available to them is capable of keeping them safe. I find it concerning that so little is known about the effectiveness of traditional protective gear when firefighters are exposed to battery smoke, which is very different from traditional car fires. Chief Munsey, can you describe your department's experience with using conventional protective gear to protect firefighters while responding to EV fires? You showed a little bit of that in that video that we saw from another area, but I'd like to hear from your experience. Mr. Munsey. So we've only had a couple of EV fires in our county, despite responding to 196,000 calls per year and serving an almost 2.2 million population. Electric vehicle fires are not common today. I'm worried about the future. Our experience with personal protective equipment is we are concerned about our firefighters' safety. As I mentioned, cancer is at a higher rate in firefighters today. I've personally been to five cancer funerals for our members in the last 5 years. We're going to do everything we can to keep our members safe. What this means is that we issue second sets of full turnouts. These turnout gears are between $5-10,000 per ensemble. We require that they laundry those between normal-- just normal combustible fires. But when you're talking about electric vehicle fires and the gases, we need to take that full ensemble out of service and send it to a manufacturer--or to a specialized cleaning service to be cleaned. At that point, about 4 percent of the personal protective equipment then fails that cleaning service, requiring us to purchase new gear for our firefighters. Some of the information that Dr. Jeevarajan--did I say that right--just gave is very concerning to me. HF is a very-- hydrogen fluorine is very concerning chemicals to firefighters. It's very dangerous. I don't know that there's been enough research here that the structure--protective equipment that we wear truly is adequate for these types of fires, especially when it's pressurized gas in a container like the garage video that you saw. Mrs. Foushee. Thank you for that. Mr. Chairman, that's my time. Chairman Obernolte. OK. Mrs. Foushee. I yield back. Chairman Obernolte. The gentlewoman yields back. We'll hear next from my colleague from California. Mr. Garcia, you're recognized for 5 minutes. Mr. Garcia. Thank you, Mr. Chairman. Thank you to the--both the witnesses for this testimony, very eye-opening. As someone who drives an electric vehicle, I know--I knew there were a lot of unknowns, but seeing that video, I certainly will be parking in the driveway from here on out. I want to thank you for putting a bright light on these issues around the potential fire dangers of EVs. Chief, thank you for your service. Doctor, thank you for everything you do for our great country. When you look at the potential energy if you will of an electric vehicle, lithium-ion, any sort of lithium-based battery, it's substantial. But when you look at actual other projects that we're looking at throughout the Nation relative to electric storage, it makes an electric vehicle look tiny. Next door to you in L.A. County where I represent, southern California, north L.A. County, Acton/Agua Dulce area, they are installing something that is called a battery electric storage system, which is a huge facility full of lithium battery capacitors, capacity basically being kept there while their sources of electric energy are being, you know, pushed to that site. And so, Chief, you're the Fire Chief of San Bernardino County. I know you don't work in L.A. County, but we're neighbors, and sometimes our sparks turn into your flames and vice versa. So this is an issue that may actually reach out and touch you. But I want to play a quick game of good idea/bad idea. And these aren't trick questions by the way. This isn't the Oversight--the other Oversight Committee. But--and I'll go first. Is it a good idea to have large battery facilities--large battery storage facilities for the purpose of making sure that the grid can handle some of the demands that we have? I would say that's a good idea. I think we need to have electric storage facilities. I think long term when we look at a holistic approach, we've got to have all types of energy coming to especially southern California. So I would say that is a good idea. Go ahead. Mr. Munsey. So you mean a battery storage facility as properly engineered to prevent fire? Mr. Garcia. Correct. Yes, that's what--and, yes, there a lot of assumptions that go into that. And this is where the good idea/bad idea to you comes from. Would you consider it a good idea or a bad idea to put a facility like that next to either the I-15 in your case or, in my case, the 14 freeway, which is the major choke point, biggest freeway--one of the biggest freeways in southern California? Is that a good idea or a bad idea, literally, you know, 200 yards off the freeway? Mr. Munsey. That's a local policy decision. If--as a Fire Chief, I would say that if that is a well-engineered, well- maintained, well-monitored system, then there's going to be a low risk and a low frequency. If there was an ignition, though, that is going to be an extremely hard fire to suppress in a short amount of time. Mr. Garcia. Understood. Mr. Munsey. And that could cause some economic damage to the city. Mr. Garcia. Yes, and like you said, major commerce corridor for southern California. Same kind of good idea/bad idea, if in between that freeway and this battery storage facility there's actually a railroad, which is one of the corridors being looked at for high-speed rail as well, would you put that in the good idea or bad idea bucket with the same caveats that you don't work there, you don't, you know, work in L.A. County, it's well-engineered? But is it a good idea or bad idea? Mr. Munsey. We get these questions, too, from our cities that are looking at putting these battery systems near infrastructure, critical infrastructure, near schools, near residential neighborhoods, near freeways. And as we look at population density and the density in our communities, it's going to be necessary to put these systems somewhere in the near future. Again, I'll go back it needs--must be well- maintained, it must be well-engineered, it must be well- monitored. And if that's the case, you're going to have a low risk, low frequency. But if any of those are violated, you're going to have a higher risk and a higher frequency for ignition. Mr. Garcia. Potentially catastrophic results as a result of that--those things. For the sake of time, I'll condense the last few, but I want to just make a point to my colleagues. And I'm not speaking to our two witnesses here. But in L.A. County, they have decided to put one of these BESS facilities, battery electronic storage system facilities, massive facilities next to the 14 with a railroad going by it within a couple miles of a large water reservoir that feeds about a--or that hydrates about a quarter-million folks. It already has existing large- gauge transmission wires overhead so that if something happens below them, they are going to be compromised. And it's surrounded by some of the largest wildlands that have--in Acton and Agua Dulce in terms of the amount of BTUs in those wildlands right now, probably the highest potential energy of fuel. And so, you know, I guess my message is--I appreciate what you guys have highlighted today, the risks, the concerns of an electric vehicle. And to my colleagues in L.A. County, this BESS facility being discussed in Acton is, in my opinion, setting us up for failure. And if it--anything goes wrong, we are going to recognize one of the biggest catastrophic losses of life and resources. And hopefully, they can reconsider--to the points that you made, Chief--everything that we've discussed around this. So with that, I yield back. Thank you. Chairman Obernolte. The gentleman yields back. We'll hear next from the Ranking Member of the full Committee. Congresswoman Lofgren, you're recognized for 5 minutes. Ms. Lofgren. Well, thank you very much. And thanks to our two witnesses. Chief, you've identified something important, which is the need to--for more research on protective gear and how it relates to EV fires. So, Doctor, are we actually on a path to get that research done? What further work needs to be addressed by this Committee to make sure that the Chief's identified need is met? Dr. Jeevarajan. We actually haven't started any research in that specific area. Our area of research is now looking at different battery chemistries and what gases come out of it. HF is really difficult to detect. We know it is there because if we heat up our pipes, the lines that go into an FTIR (Fourier Transform Infrared Spectroscopy), we are able to see the signals for HF although noisy. We recognize the presence of HF, but we're not able to get a quantitative measurement. So we're really working on getting better estimates of that. But that would be one of the areas I think I would certainly look into talking to the materials people to see if they can do some work on getting new materials that would be tolerant to HF. Ms. Lofgren. Mr. Chairman, this is an important hearing, and I'm hoping that after the hearing, we can have a discussion about what we need to do as a Science Committee to make sure that these identified needs are actually addressed because, Chief, we're so grateful to you and all the firefighters in the country for keeping us safe. But the more we can do to reduce your risks and the risks of your men and women, that's something--it's really a sacred obligation for us to do. The fact that we're not really addressing the need that you've identified, I guess, makes me wonder whether you think the firefighting community has clear lines of communication to researchers and manufacturers so that the needs you're identifying, and not just this one, are actually being researched. Do you think that exists now? Mr. Munsey. Well, I'm a strong supporter of the International Association of Fire Chiefs and other like associations. There are some fire service members that are not, and they are cutting off their own lines of communications. It's important that we're speaking with one voice, that we're doing that through our associations and the U.S. Fire Administrator, Dr. Lori Moore-Merrell. These are important things for us to work closely with research and for us to understand how to keep our firefighters safe. But just as important, we need your help in this. We need to ensure that we are enacting legislation that the manufacturer of these electric vehicles prevent fires from happening. Ms. Lofgren. Yes. Mr. Munsey. We need to make sure that we have access to funds to properly equip and train and buy the equipment--the tools and equipment that are needed to suppress these fires without putting our communities in danger. Ms. Lofgren. I totally agree with all of that, but we also have, you know, a very large number of EVs out on the road today, and we need to make sure if there--it's apparently a low risk, but it is a risk. And when it happens, we need to make sure that the men and women who respond are as safe as possible. And so that's why I want to hone in on these--the need to research further, the protective gear. You know, one of the questions I had, Doctor, is you mentioned cybersecurity. I don't know whether we need to be concerned about whether cyber attacks could actually instigate a failure or an ignition of a battery, or whether just failure of code itself could do that. Can you discuss that and whether we need to be taking steps in that area? Dr. Jeevarajan. Sure. So one of the things that a battery has is a battery management system, and it also has an energy management system. And it's actually talking to the charger. It's talking to the loads and so on. And as you know, there are very easy ways to update software today. And given that, the battery needs really very stringent safety controls, if something is messed up and someone does it on purpose actually, then they could mess up the safety controls and you could have a catastrophic failure with your battery. Because today, the way the manufacturers design the battery and how it's used is they do not use the entire voltage range of the battery. They use a very small range because that not only ensures safety, but it also extends the life of the battery. But if you have that changed in some manner, you can easily have a catastrophic failure induced. Ms. Lofgren. Well, thank you for that. And thank you for both. And that's another issue, Mr. Chairman, I hope we can discuss further. I don't think most of the manufacturers have really addressed cybersecurity, and it's something we might ask NIST (National Institute of Standards and Technology) to identify and provide some standards. So, Chief and Doctor, you've--you're serving your country well. Thank you very much, and I yield back. Chairman Obernolte. The gentlewoman yields back. We'll hear next from my colleague from Georgia. Mr. McCormick, you're recognized for 5 minutes. Mr. McCormick. Thank you, Mr. Chair. I'll get right to the point because we have a lot to cover. Just last year, the Biden Administration announced a mandate of having 50 percent of all new vehicle sales in the United States to be electric by 2030. According to the NFPA (National Fire Protection Association), approximately 130 million EVs are projected to be in operation worldwide by 2030, not very far in the future. There are an estimated 283 million registered vehicles here in the United States. Now, if we're about to add half of that, it'd be well over 100 million vehicles in the United States with the same hazards that we've been talking about today. Although the number of battery fires we've had in the United States is small, it won't be. That's a fact. Chief, as Fire Chief of San Bernardino County, do you believe your fire department is fully prepared to handle the challenges that come with rapid rise of EV ownership in your area of expertise? Mr. Munsey. No, nor do I believe that the fire service is ready as a whole. Mr. McCormick. Great. According to the National Volunteer Fire Council, there are approximately 29,452 fire departments in the country--that's a lot--with 24,208 fire departments that are either entirely or mostly made up of volunteer firefighters. Given that volunteer, do you think that there's any way to prepare these guys for the future challenges of fighting EV fires? Mr. Munsey. Yes, given time and sufficient funding. Mr. McCormick. Time and efficient--sufficient funding. We have approximately--less--about 5 years' time. And the funding, which we know we have a problem with our funding on everything right now, do you think that's a realistic timeline to be ready for that sort of influx of EV fires? Mr. Munsey. To add on to your statistics, there's 1.1 million firefighters. I gave you a price of $2,500 training per firefighter. I would estimate that that's about a 16-hour class. That's about a $3 billion problem just in training itself. I mentioned that we're going to get a heavier wrecker and a dip tank. Not every organization is going to be able to do that. That needs to be a regional asset. Those that--about $2 million for that ensemble starts adding up. You mentioned there's close to 30,000 fire agencies, and you are correct. Each fire agency probably on average has three fire apparatus. And if you were to fully equip these fire apparatus, you're looking at, again, hundreds of millions of dollars, billions of dollars. Mr. McCormick. And then you add to that the development, dissemination, and training of new assets, which is to add another chemical to the repertoire, but I'll leave it to the scientists on my next question. Doctor, do you believe that we have adequate technology and training today that is easily accessible for all fire departments to use in this regard? Dr. Jeevarajan. There are some things that have been put out because we're still in the research stage for some of the-- -- Mr. McCormick. Some things, but we're not adequately prepared across the board, correct? Dr. Jeevarajan. We are---- Mr. McCormick. We'd all agree on that? Dr. Jeevarajan. Yes, we would. Mr. McCormick. OK. Do you think it's legitimate that we could develop, disseminate, and afford these chemicals that we find--and, by the way, I'm a marine--that we have just recently addressed in Camp Lejeune the chemicals that we use to fight other chemicals and fires that have leached into the water system that have caused cancer and other harm to people, that we haven't even studied those side effects, but yet, in 5 years, we're supposed to have not only the means, but also the studies to support that we're not going to harm people more than the carbon emissions that we have right now. Do you think this is a realistic goal? Dr. Jeevarajan. It depends on how much funding is---- Mr. McCormick. Yes, it depends on funding. So it comes back to if we spend a trillion dollars on this, we might be able to be somewhat safe. But let me kind of summarize this because I think this is what this is all about. This whole movement, this green movement is about saving people, I hope, by making sure we take care of the environment. So I want to point out that in this whole ridiculous idea that we're going to spend a trillion dollars to eliminate .00017 percent at most of the car--of the atmospheric content, in other words, that carbon emissions that we produce by 100 percent of our carbon imprint of vehicles. And I'm telling you, I could do the math for you later, but its infinitesimal. It is negligible if we eliminate all the cars in the United States. That's how much impact we'll have on the overall content of the atmosphere. We're going to spend a trillion dollars, we're going to create chemicals, we're going to create fires, we're going to create hazards. If you don't care about the $17,000 per average car vehicle that the poor person has to afford, if you don't care that there's going to be exposure to people who are trying to fight fires and that this is going to leach into the system--the very environment you're trying to save, chemicals that leach into the environment, chemicals that get into people's bodies trying to fight these fires. If we're talking about the environment, I really don't think we're having an honest conversation. I think that's where we need to start this. And this idea that we're saving the atmosphere by creating chemicals and creating hazards to people that we're trying to save is ludicrous. And with that, I yield. Chairman Obernolte. The gentleman yields back. That concludes our questions. I'd like to thank the witnesses for your very valuable testimony and your appearance here today before the Committee. It's very clear, I think, two things have come out of this hearing. One, I very much agree with Ranking Member Lofgren that more research is necessary to make sure that we're making informed decisions around dealing with this problem. And I also very much agree with Chief Munsey that it's clear more resources and more training are going to be necessary to keep our firefighters and first responders safe. So we're going to continue having this discussion and hopefully be able to take steps toward solutions to this as more and more of the vehicles on our roads become EVs. The record will remain open for 10 days for additional comments and written questions from our Members. With that, this hearing is adjourned.  Appendix I ---------- Answers to Post-Hearing Questions Answers to Post-Hearing Questions Responses by Mr. Dan Munsey GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT Responses by Dr. Judy Jeevarajan GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT Appendix II ---------- Additional Material for the Record Statement submitted by Representative Max Miller GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT
+EXAMINING THE RISK: THE DANGERS
+OF EV FIRES FOR FIRST RESPONDERS
+----------
+THURSDAY, FEBRUARY 29, 2024
+House of Representatives,
+Subcommittee on Investigations and Oversight,
+Committee on Science, Space, and Technology,
+Washington, D.C.
+The Subcommittee met, pursuant to notice, at 10:31 a.m., in
+room 2318 of the Rayburn House Office Building, Hon. Jay
+Obernolte  presiding.
+GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT
+Chairman Obernolte. The Committee on Science, Space, and
+Technology will come to order. Without objection, the Chair is
+authorized to declare a recess of this hearing at any time.
+Welcome to today's hearing entitled ``Examining the Risk:
+The Dangers of EV Fires for First Responders.'' I now recognize
+myself for 5 minutes for an opening statement.
+I'd like to thank everyone and to Ranking Member Foushee
+and the other Members of our Committee for being here this
+morning. Today's hearing will examine the growing dangers that
+electric vehicle (EV) fires pose to the American public and the
+lack of guidance and resources provided to first responders
+across the country.
+For over 100 years, our highways have been dominated by
+internal combustion engine (ICE) vehicles. Throughout this
+time, we've invested resources and expertise to learn the best
+practices for extinguishing internal combustion engine vehicle
+fires. However, within the last two decades, we've seen a large
+increase in the number of electric vehicles on the road. The
+Federal Government has pushed for a transition to EVs,
+incentivizing their development through tax credits and
+charging station infrastructure grants. Worldwide, there are
+now roughly 3.1 million EVs in operation today. Many experts in
+the auto industry anticipate that by 2030, there will be nearly
+130 million vehicles in operation. As the presence of these
+vehicles continues to grow on our roads, so does the threat and
+danger of the fires they can produce.
+EV fires are fundamentally different from traditional
+internal combustion engine fires, and they present new dangers
+that our first responders need to be prepared for. EV fires
+burn at temperatures far hotter than regular vehicle fires.
+They produce copious amounts of toxic chemical gases, expose
+firefighters to the risk of electrocution, and are often
+inextinguishable for hours or even days with a constant threat
+of reignition due to thermal runaway. When an EV either
+experiences an incident due to a manufacturing defect or is
+damaged in an accident, the battery that powers that vehicle
+often has a remaining charge. This stranded energy provides the
+fuel to keep a battery burning for hours, regardless of how
+much water is poured on it in an attempt to extinguish it.
+Unfortunately, the Federal Government has been deficient in
+providing guidance and resources to our firefighters in dealing
+with this threat. There's currently no uniform guidance on how
+to address EV fires or protect firefighters from the unique
+hazards they present, leaving many fire departments to
+formulate ad hoc solutions. For example, firefighters in
+Wakefield, Massachusetts, had to dump 2-20,000 gallons of water
+over 2 hours to put out an EV fire. Firefighters in Sacramento
+were forced to submerge an EV in a makeshift pond because the
+vehicle kept reigniting.
+Vehicle manufacturers themselves have not provided uniform
+solutions to this problem, with some manufacturers recommending
+that EVs be removed from the road and left to burn themselves
+out. As you can imagine, in my home State of California where
+wildfires are an ever-present danger, letting an EV just burn
+itself out is not an option.
+Today's hearing is about ensuring the safety of our
+firefighters and first responders. This hearing also seeks to
+raise awareness of the dangers of EV battery fires and ensure
+that those who help protect and serve our communities are
+provided with the resources they need to do their jobs. This
+requires that we understand the threats of EV fires and the
+substantial differences between EVs and ICE vehicles to develop
+new best practices and uniform guidance.
+I'm looking forward to the hearing today. That concludes my
+opening statement.
+
+Good morning. Thank you to Ranking Member Foushee and the
+other members of our committee for being here.
+Today's hearing will examine the growing dangers that
+electric vehicle fires pose to the American public and the lack
+of guidance and resources provided to first responders across
+the country.
+For over 100 years, our highways have been dominated by
+internal combustion engine vehicles. Throughout this time, we
+have invested resources and expertise to learn the best
+practices for extinguishing internal combustion engine vehicle
+fires.
+However, within the last two decades we have seen a large
+increase in the number of EV's on the road. The federal
+government has pushed for a transition to electric vehicles,
+incentivizing their development through tax credits and
+charging station infrastructure grants.
+Worldwide there are roughly 3.1 million EVs in operation
+today. Many experts in the auto industry anticipate that by
+2030 there will be nearly 130 million in operation. As the
+presence of these vehicles continue to grow on our roads, so
+does the threat and danger of the fires they can produce.
+EV fires are fundamentally different from traditional
+internal combustion engine fires, and they present new dangers
+that our first responders need to be prepared for. EV fires
+burn at temperatures far hotter than regular vehicle fires;
+they produce copious amounts of toxic chemical gases, expose
+firefighters to the risk of electrocution, and are often
+inextinguishable for hours or days with the threat of
+reignition due to thermal runaway.
+When an EV either experiences an incident due to a
+manufacturing defect or is damaged in an accident, the battery
+that powers the vehicle often has a remaining charge. This
+stranded energy provides the fuel to keep a battery burning for
+hours regardless of how much water is poured on it in an
+attempt to extinguish it.
+Unfortunately, the federal government has been deficient in
+providing guidance and resources to our firefighters and first
+responders in dealing with this threat. There is currently no
+uniform guidance on how to address EV fires or protect
+firefighters from the unique hazards they present, leaving many
+fire departments to formulate ad hoc solutions.
+For example, firefighters in Wakefield, Massachusetts had
+to dump 20,000 gallons of water over two hours to put out an EV
+fire. Firefighters in Sacramento, California were forced to
+submerge an EV in a makeshift pond because the vehicle kept
+reigniting.
+Vehicle manufacturers themselves have not provided uniform
+solutions to this problem, with some manufacturers recommending
+that EVs be removed from the road and left to burn themselves
+out. As you can imagine, in my home state of California, where
+wildfires are always an ever-present danger, letting an EV just
+burn itself out is not an option.
+Today's hearing is about ensuring the safety of our
+firefighters and first responders. The hearing also seeks to
+raise awareness of the dangers of EV battery fires and to
+ensure that those who help protect and serve our communities
+are provided with the resources they need to do their jobs.
+This requires that we understand the threats of EV fires and
+the substantial differences between EVs and ICE vehicles to
+develop new best practices and uniform guidance.
+Our first witness is Mr. Dan Munsey, Fire Chief of the San
+Bernardino County Fire Department. Chief Munsey is a
+constituent and friend. He works diligently for the citizens of
+San Bernardino County and is uniquely positioned through his
+leadership role with the International Association of Fire
+Chiefs to speak to the challenges firefighters face on the
+ground when confronted with an EV fire. Chief Munsey, we are
+looking forward to hearing your experiences to better
+understand how we can address this issue in the future.
+Also testifying today is Dr. Judy Jeevarajan, the Vice
+President and Executive Director of the Electrochemical Safety
+Research Institute at UL Research Institutes. UL is one of the
+leading research organizations on EVs and lithium-ion battery
+fires. Dr. Jeevarajan is an expert on battery technology, and
+we look forward to hearing from you today.
+We hope both of your testimonies will provide solutions to
+the Committee's concerns with these vehicle fires, and also
+supply steps that can be taken to provide resources and
+guidance to first responders.
+Thank you for your willingness to be here. I now recognize
+Ranking Member Foushee for her opening statement.
+Chairman Obernolte. I'll now recognize the Ranking Member
+of the Investigations and Oversight Subcommittee, the
+gentlewoman from North Carolina, Mrs. Foushee, for her opening
+statement.
+Mrs. Foushee. Thank you, Chairman Obernolte, for holding
+today's hearing on this important topic.
+The issue of firefighter safety is very near and dear to
+me. My husband Stan served as a firefighter and fire marshal
+for the town of Carrboro, North Carolina, for more than 30
+years before his retirement. I witnessed firsthand the bravery
+and dedication that he and his firefighting comrades brought to
+the job, as well as the sacrifices that firefighters and their
+families are required to make. I am incredibly grateful for
+their service and we should all be grateful for the service of
+firefighters around the Nation. We must do everything possible
+to support them and keep them safe the way they keep us safe
+every single day.
+Today's hearing is focused on electric vehicles and the
+distinct safety risks that electric vehicles pose for
+firefighters and first responders. A key task when considering
+any emerging technology is to understand the novel challenges
+posed by the technology and then learn how to mitigate those
+risks so that society can enjoy its full benefits. Electric
+vehicles are no different. It is important to note that EVs are
+a critical piece of America's clean energy transition, and that
+the rapid adoption of EVs is essential to achieving President
+Biden's ambitious goal to make the United States a net-zero
+emitter of greenhouse gases by 2050.
+I am proud to say that my home State of North Carolina has
+become a leader in the development and the deployment of EVs
+here in the U.S. Furthermore, based on currently available
+data, there is no reason to believe that EVs are any more
+likely to catch fire than traditional vehicles powered by
+internal combustion engines. Nevertheless, EV battery fires are
+different from internal combustion engine fires, and therefore,
+pose a distinctive risk in terms of firefighter and first
+responder safety. I appreciate that today's discussion will be
+rooted in science because we cannot understand the safety risks
+of EVs without understanding the scientific basis that
+underlies them.
+Today's EVs are mostly powered by lithium-ion batteries,
+which offer great benefits when it comes to energy efficiency,
+but can suffer extensive damage from high-speed crashes. The
+sources of EV safety risks that we all--that we will discuss
+rather, such as electric shocks, stranded energy, thermal
+runaway, reignition, and toxic chemical release are primarily
+associated with the properties and characteristics of lithium-
+ion batteries when those batteries are damaged.
+I believe there are tremendous opportunities for scientific
+research to reduce these risks by advancing our understanding
+of why lithium-ion batteries react in these ways, how the
+design of lithium-ion batteries can be improved to lessen the
+risk of fires, and what innovative tools and techniques can be
+developed to aid firefighters and first responders as they
+respond to EV fires in real time.
+I hope to learn more today about the latest research
+developments surrounding lithium-ion battery safety, the
+research gaps that currently exist, and the most promising
+research pathways toward batteries that are less prone to fire
+hazards.
+I want to extend my sincere gratitude to both of our
+witnesses for your testimony at today's hearing. We are
+fortunate to hear from both of you for your perspectives as
+leaders in the firefighting community and a leader in the field
+of battery safety research. It is crucial to bring these worlds
+together to ensure that firefighters and first responders
+possess the knowledge and the technical capabilities that they
+need to respond to EV fires safely and effectively.
+And, Chief Munsey, thank you for your service.
+Mr. Chairman, I yield back.
+
+Thank you, Chairman Obernolte, and thank you for holding
+today's hearing on this important topic.
+The issue of firefighter safety is very near and dear to
+me: my husband, Stanley, was a firefighter for over 30 years
+and served as the Fire Marshal for the town of Carrboro, North
+Carolina before his retirement. I witnessed firsthand the
+bravery and dedication that my husband and his firefighting
+comrades brought to the job, as well as the sacrifices that
+firefighters and their families are required to make. I am
+incredibly grateful for their service, and we should all be
+grateful for the service of firefighters around the nation. We
+must do everything possible to support them and keep them safe,
+the way they keep us safe every single day.
+Today's hearing is focused on electric vehicles, and the
+distinct safety risks that electric vehicles pose for
+firefighters and first responders. A key task when considering
+any emerging technology is to understand the novel challenges
+posed by the technology and then learn how to mitigate those
+risks so that society can enjoy its full benefits. Electric
+vehicles are no different.
+It is important to note that EVs are a critical piece of
+America's clean energy transition, and that the rapid adoption
+of EVs is essential to achieving President Biden's ambitious
+goal to make the United States a net-zero emitter of greenhouse
+gases by 2050. I am proud to say that my home state of North
+Carolina has become a leader in the development and deployment
+of EVs here in the U.S.
+Furthermore, based on currently available data, there is no
+reason to believe that EVs are any more likely to catch fire
+than traditional vehicles powered by internal combustion
+engines. Nevertheless, EV battery fires are different from
+internal combustion engine fires, and therefore pose a
+distinctive risk in terms of firefighter and first responder
+safety.
+I appreciate that today's discussion will be rooted in
+science, because we cannot understand the safety risks of EVs
+without understanding the scientific basis that underlies them.
+Today's EVs are mostly powered by lithium-ion batteries, which
+offer great benefits when it comes to energy efficiency but can
+suffer extensive damage from high-speed crashes.
+The sources of EV safety risk that we will discuss, such as
+electric shock, stranded energy, thermal runaway, reignition,
+and toxic chemical release, are primarily associated with the
+properties and characteristics of lithium-ion batteries when
+those batteries are damaged. I believe there are tremendous
+opportunities for scientific research to reduce these risks by
+advancing our understanding of why lithium-ion batteries react
+in these ways, how the design of lithium-ion batteries can be
+improved to lessen the risk of fires, and what innovative tools
+and techniques can be developed to aid firefighters and first
+responders as they respond to EV fires in real time.
+I hope to learn more today about the latest research
+developments surrounding lithium-ion battery safety, the
+research gaps that currently exist, and the most promising
+research pathways towards batteries that are less prone to fire
+hazards.
+I want to extend my sincere gratitude to both of our
+witnesses for your testimony at today's hearing. We are
+fortunate to hear both of your perspectives, as a leader in the
+firefighting community and a leader in the field of battery
+safety research. It is crucial to bring these worlds together
+to ensure that firefighters and first responders possess the
+knowledge and the technical capabilities that they need to
+respond to EV fires safely and effectively.
+And Chief Munsey, thank you for your service. Mr. Chairman,
+I yield back.
+Chairman Obernolte. Thank you, Mrs. Foushee.
+I'll now recognize the Ranking Member of the full
+Committee, Ms. Lofgren, for an opening statement.
+Ms. Lofgren. Well, thank you, Chairman Obernolte and
+Ranking Member Foushee, for this hearing today.
+As you've mentioned, electric vehicles make up an
+increasing share of cars on the road, and that's really good
+news. That reduces emission from the transportation sector,
+which is crucial in our fight against climate change. But as
+with any emerging technology, we need to make sure we
+understand and adapt to the unique challenges that arise from
+its widespread adoption. That doesn't mean EVs are any more
+dangerous than gas-powered vehicles. We simply don't have the
+data to suggest that. But the data and research on EVs has to
+increase along with the market for them.
+Over the decades, we've developed best practices to
+extinguish internal combustion engine fires as safely and as
+quickly as possible. Now, we need to give that level of
+attention and support to research into electric vehicles and
+specifically, as the Chair and Ranking Member have mentioned,
+lithium-ion batteries that power them.
+A 2020 safety report published by the National
+Transportation Safety Board noted that fires arising from
+lithium-ion batteries and electric vehicles can present special
+challenges for firefighters and first responders, along with
+risks that differ from the risks presented by fires in
+traditional vehicles. In the years since that report was
+published, EV sales have ballooned to 1.3 million in 2023. In
+fact, when I'm home, it looks like every other car on the road
+is an EV.
+Fire departments across the country, many staffed by
+volunteers, don't have the resources to track the EV fires they
+extinguish. And as we know in the Science Committee, data is
+absolutely essential. If the data isn't available to indicate
+that EVs are more dangerous than the internal combustion
+engine, we need to research that, and we need to have
+meaningful efforts to deal with the new challenges.
+I'm happy to join my Chair and Ranking Member in welcoming
+these two wonderful witnesses. We need to support research into
+safety mechanisms that can be incorporated into the battery
+itself so reignition is less of a risk. And we need to develop
+technology that provides insight into the health of lithium-ion
+batteries to detect damaged batteries after a crash and keep
+them off the road and out of waste facilities before they
+ignite.
+In the meantime, we need to ensure that first responders
+are prepared to address the risk present when current
+generation lithium-ion batteries ignite. Is the personal
+protective equipment used by firefighters still safe after it's
+been exposed to battery fumes? How can we ensure that first
+responders have easy access to safety information that differs
+from manufacturer to manufacturer? So long as we lack
+industrywide standards and science to anchor them, responses to
+EV fires will be hampered, placing first responders and
+consumers at risk.
+I look forward to hearing from the experts here today. We
+know science is important in addressing this issue. Support of
+zero emissions in our future requires a clear-eyed look at the
+new challenges introduced by emerging clean technologies. As
+someone who happily drives a Volt at home, I want to make sure
+that we know everything that we need to know about lithium-ion
+batteries so that we can go on reducing our climate change risk
+but also safely.
+And with that, Mr. Chairman, I yield back.
+
+Thank you, Chairman Obernolte and Ranking Member Foushee,
+for leading this hearing today. Electric vehicles make up an
+increasing share of the cars on the road. This is great news -
+reducing emissions from the transportation sector is crucial in
+our fight against climate change. And as with any emerging
+technology, we need to make sure we understand and adapt to the
+unique challenges that arise from its widespread adoption. This
+does not mean EVs are any more dangerous than gas- powered
+vehicles--we simply don't have data to suggest that. But the
+data and research on EVs must increase along with the market
+for them. Over many decades, we've developed best practices to
+extinguish internal combustion engine fires as safely and
+quickly as possible. Now, we need to give that level of
+attention and support to research into electric vehicles, and
+specifically into the lithium- ion batteries that power them.
+A 2020 safety report published by the National
+Transportation Safety Board noted that fires arising from the
+lithium-ion batteries in electric vehicles can ``present
+special challenges'' for firefighters and first responders,
+along with ``risks that differ'' from the risks presented by
+fires in traditional vehicles. In the years since that report
+was published, EV sales have ballooned, from 300,000 in 2020 to
+1.3 million in 2023. However, the data available on EV fires
+hasn't increased proportionally. Fire departments across the
+country--many staffed by volunteers--lack the resources to
+track the EV fires they extinguish. The data that is available
+doesn't indicate EVs are any more dangerous than internal
+combustion engines, but as we know on the Science Committee, we
+can't meaningfully address new risks without the data to
+underpin our research questions.
+I'm happy to join my colleagues in welcoming our witnesses
+today, who will help us understand these questions from two
+important angles. As electric vehicles become increasingly
+popular, practical, and affordable, their lithium-ion batteries
+must evolve to improve the safety of riders and first
+responders. We need to support research into safety mechanisms
+that can be incorporated into the battery itself, so re-
+ignition is less of a risk. We need to develop technology that
+provides insight into the health of lithium-ion batteries, to
+detect damaged batteries after a crash and keep them off the
+road and out of waste facilities before they ignite.
+In the meantime, we need to ensure that first responders
+are prepared to address the risks present when current-
+generation lithium-ion batteries catch fire.
+Is the personal protective equipment used by firefighters
+still safe after it's been exposed to battery fumes? How can we
+ensure our first responders have easy access to safety
+information that differs from manufacturer to manufacturer? So
+long as we lack industry-wide standards and science to anchor
+them, responses to EV fires will be hampered, placing first
+responders and consumers at risk.
+I look forward to hearing expert perspectives on how the
+Science Committee can help to close the research gaps related
+to EV fires. Support of a zero-emissions future requires a
+clear-eyed look at the new challenges introduced by emerging
+clean technologies. Thank you to our witnesses for appearing
+today. Mr. Chairman, I yield back.
+Chairman Obernolte. Thank you, Ranking Member Lofgren.
+We'll now move to witness testimony. Our first witness is
+Dan Munsey, who is Fire Chief of the San Bernardino County Fire
+Department. Chief Munsey is my constituent and friend. He works
+diligently for the citizens of San Bernardino County and is
+uniquely positioned through his leadership role with the
+International Association of Fire Chiefs to speak to the
+challenges that firefighters face on the ground when confronted
+with an EV fire.
+Chief Munsey, we are looking forward to hearing your
+experiences and to better understanding how we can address this
+issue in the future.
+Also testifying today is Dr. Judy Jeevarajan, which, in
+fairness, is no more difficult a last name than Obernolte. She
+is the Vice President and Executive Director of the
+Electrochemical Safety Research Institute at UL Research
+Institutes. UL is one of the leading research organizations on
+EVs and lithium-ion battery fires. Dr. Jeevarajan is an expert
+on battery technology, and we are looking forward to hearing
+from you today about how to confront this problem. We hope that
+both of your testimonies will provide some solutions to the
+Committee's concerns with these vehicle fires and also supply
+steps that can be taken to provide these needed resources and
+guidance to our first responders.
+Chief Munsey, you are now recognized for 5 minutes to
+present your testimony.
+TESTIMONY OF MR. DAN MUNSEY, FIRE CHIEF,
+SAN BERNARDINO COUNTY FIRE DEPARTMENT
+Mr. Munsey. Chairman Obernolte, thank you for allowing me
+to testify. Ranking Member Foushee, thank you for you and your
+husband's service. And, Ms. Lofgren--thank you--Ranking Member
+Lofgren, thank you--Lofgren, excuse me--thank you for your
+testimony as well.
+I have to ask you, Chair, did you use ChatGPT for your
+remarks?
+Chairman Obernolte. No, sir, I did not.
+Mr. Munsey. I'm Dan Munsey. I'm the Fire Chief for the
+county of San Bernardino. We happen to be the largest county in
+the United States, over 20,000 square miles. For perspective,
+you can take the four smallest States in the union and put it
+within our borders. Of interest is almost 80 percent of our
+area is State or Federal land. We have a large Federal
+responsibility and work with the various fire--forest--forestry
+agencies in our county.
+I do sit on the International Association of Fire Chiefs as
+a Tech Council President, have sat there for 4 years. I am on
+the California Metro Chiefs as a Vice President that represents
+the largest fire departments in California. And I also sit on
+Firescope in which an Emerging Information Technology group has
+spent a lot of time looking at lithium-ion batteries and EVs
+and the hazards to firefighters.
+I wrote a written testimony and it focused on prevention
+because our first job in the fire service is to prevent bad
+things from happening, and only when those things do occur,
+then to have a response. I'm not going to go through everything
+that I've written in my written testimony, but I will say that
+it's incredibly important that we educate the public to ensure
+that they understand how to safely charge their vehicles and
+how to not modify them. It's important that we're enforcing the
+rules and regulations, and there's certainly some rules and
+regulations that could be adopted by State, local, and Federal
+agencies to ensure that our electric vehicles are safe.
+Third, we have to work with the manufacturers to ensure
+that we are engineering lithium-ion batteries that can
+withstand damage from crashes and also sustainability from
+fire, and I have provided some thoughts in my written
+testimony.
+I'm going to call for a video to be played here shortly,
+and when it's ready to be played, please bring it to the
+screen. But I'd like to describe this video to you. Now, this
+isn't a video that's going to show a large explosion or a gas
+that's quickly burning, but it's going to show four things: the
+effort required to suppress an emergency vehicle, the duration
+of the amount of time that it takes to suppress that fire, the
+amount of specialized equipment, and the cost.
+As we're fighting electric vehicle fires, as has been
+mentioned, there are some concerns. The first is the personal
+protective equipment of the firefighters. Frankly, over my
+career, I've seen way too many firefighters pass away and die
+from cancer. Our cancer rate is higher than the civilian
+population. Their--electric vehicle lithium-ion batteries pose
+a challenge to firefighters' health. The personal protective
+equipment, especially when it's exposed by lithium-ion gases in
+a pressurized environment such as the garage you see in front
+of you, then leads to extraordinary cleaning costs of around
+$500 to $1,000. This personal protective equipment must be sent
+offsite. There is no fire department that I have knowledge of
+that possesses the cleaning. Generally, it's a CO2
+compressed system to remove the gases.
+Please play the video. OK. So we're waiting for that to
+come up. Just go ahead and play it when you're ready.
+
+Mr. Munsey. Equipment, you'll see in this video here
+shortly that they're using a fire blanket. The fire blanket is
+used to either suppress the fire. It's not putting the fire
+out, but it's controlling the fire and the gases to prevent
+spread. These blankets cost between $3,000 to $5,000. What you
+see here is a single-family residence in the Denver metro area.
+The firefighters had a garage. The first screen shows gases and
+a smoke that--under a pressurized environment. They now have to
+remove the car using specialized equipment. The blanket is in
+the firefighter's hand. While the fire looks controlled, it is
+not. There's still thermal runaway of that battery, and it can
+ignite at any time. This blanket is used to keep that fire
+under check.
+They are now going to have to tow this vehicle to a tow
+yard. When they arrive at a tow yard, they're going to do
+things such as digging a pit, filling it with water, and
+immersing this vehicle, or working to isolate that battery.
+This car must be kept separate from humans and other cars so it
+doesn't ignite or cause human health.
+Training is also significant of about $2,500 per
+firefighter just to understand the electrical concerns, how to
+adequately fight these fires, how to use the specialized
+nozzles.
+Finally, to close the remarks, our plan in San Bernardino,
+we're going to need to buy a heavy wrecker. The heavy wrecker
+is about $1.2 million. We're going to use these to lift the
+cars. We're going
+to have to buy a trailer with a dip tank to place the cars in a
+dip tank to fully extinguish these fires.
+I'll look forward to your questions as they come up. Thank
+you for the time.
+
+GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT
+Chairman Obernolte. Thank you, Chief Munsey.
+I now recognize Dr. Jeevarajan for 5 minutes to present her
+testimony.
+TESTIMONY OF DR. JUDY JEEVARAJAN,
+VICE PRESIDENT AND EXECUTIVE DIRECTOR,
+ELECTROCHEMICAL SAFETY RESEARCH INSTITUTE
+AT UL RESEARCH INSTITUTES
+Dr. Jeevarajan. Good morning, Chairman Obernolte, Ranking
+Member Foushee, and Ranking Member Lofgren, and Members of the
+Committee. Thank you for this opportunity to testify on
+examining the risk and dangers of EV fires for first
+responders, as this is indeed a very important and timely
+topic. I'm the Vice President and Executive Director of UL
+Research Institutes, as you already mentioned, and before
+joining UL, I worked at NASA (National Aeronautics and Space
+Administration) Johnson Space Center in Houston as a group lead
+for battery safety and advanced technology.
+Since entering the commercial market in the 1990's,
+lithium-ion rechargeable batteries will continue to maintain
+the rank for battery chemistry with the highest energy density
+while also enjoying a long cycle life, lower level of self-
+discharge, and high-rate capability. The many advantages that
+is provided by this battery chemistry has made it the option of
+choice in many sectors ranging from consumer devices to
+electric vehicles and stationary grid energy storage systems.
+Lithium-ion batteries are being used in the space sector
+since the late 1990's, and more recently, have been deployed in
+the marine sector, too. Associated with this high energy
+density, though, is the potential for lithium-ion cells to
+undergo catastrophic failures that can generate fire and toxic
+gases when they fail to be designed, manufactured, charged, or
+used correctly.
+One major challenge is the suppression of fires, as you
+just heard. Various difficulties arise. The first is the design
+and location of the battery in an EV. Lithium-ion fires need a
+suppressant that can efficiently cool down all the cells in the
+battery pack in order to prevent reignition. However, the
+physical location of the batteries in the EVs tends to be on
+the underside of the vehicle, which means a rollover of the
+vehicle may be required to manage access.
+Additionally, the batteries are typically in a well-sealed
+container required--that is specifically to prevent water
+ingress in the event of a flood or if the vehicle is driven on
+waterlogged roads. For ease of fire suppression, designs need
+to be developed here in the event of a catastrophic failure.
+Sensors allow the opening of a relief valve in the battery
+pack, which would then be connected to an outlet that is
+accessible from a convenient location. Another area that
+requires research is finding methods to remediate possible
+toxic chemical runoff--suppressant runoff.
+An area of concern for first responders and firefighters
+working with an EV that has undergone a catastrophic failure is
+determining the presence and location of stranded energy.
+Stranded energy is energy that remains in a partially damaged
+battery, which can be quite significant. Based on the design of
+the battery--lithium-ion batteries in EVs, it's possible after
+a fire or other damage that some modules are fully compromised,
+while others are not. And it's also possible to have some cells
+in the modules that are not compromised. So the damaged modules
+may include energetic cells that can also move around when you
+move the vehicle while it's moved to a tow yard. This can cause
+short circuits and possible reignition. So it's critical that
+parts of the battery--to determine if parts of the battery are
+still energized and provide a means to discharge the cells or
+modules before moving the vehicles, and methods need to be
+developed to remotely access the data to determine the
+existence of locations where cells continue to be energized and
+designs that bypass fully compromised modules and discharge the
+energized modules should also be developed.
+So I would like to go on to venting and thermal runaway and
+the release of combustible and toxic gases. My statement has a
+lot of information, which I'm not going to read every part of
+it, but I just want to mention that toxic and corrosive gases
+such as HF and hydrogen cyanide are released. And we have
+found--we have heard from firefighters that even after washing
+their suits, they do find traces of HF on their suits. We also
+know that there are particulate emissions that are given off
+that are in the sub-micron sizes, in orders of magnitude higher
+than the limits established for safe human exposure. The type
+of respirators used by first responders may also need to be
+reevaluated for their suitability to be worn during EV fire
+suppressions. And I also mentioned that the materials that are
+used in the suits may also need to be researched and determine
+if new types of materials need to be used.
+Other things that I wanted to talk about are mechanical
+impacts, talk about fast charging. That is a concern. We would
+like to have more research that is done in the area of fast
+charging.
+And the last thing I also wanted to mention is
+cybersecurity. With the ease of updating EV vehicles and
+battery software remotely, it also makes it very attractive,
+but there are cybersecurity concerns.
+And lastly, regulations need to be in place, where one can
+actually recognize a vehicle, that it is an EV or plugin--or
+any type of an EV. And also the firefighters are given enough
+information to work with the vehicle.
+Again, thank you all for the opportunity to address the
+House Science Committee. I look forward to addressing your
+questions and comments.
+
+GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT
+Chairman Obernolte. Well, thank you very much. And thank
+you to both our witnesses for your testimony.
+I'll now recognize myself for 5 minutes for questions.
+Chief Munsey, thanks again for being here. Our county is
+larger than most States, and that prevents--presents some
+unique challenges in ignition--extinguishing fires. I was
+struck by, in listening to your testimony, some of the vast
+amounts of water that's required to put out EV fires. What do
+you do if you're responding to a fire and you don't have a
+hydrant readily available? Or what do you do when an incline is
+so steep, as it is in many places in our district, when just
+getting access to the EV is a challenge?
+Mr. Munsey. These are challenges. I'll point out that the
+15 freeway--if we shut down the 15 freeway, there's several
+million dollars of commerce that's affected per hour. So an EV
+fire on the freeway, it's best to extinguish it rather than let
+it burn out. That would be option No. 1, the preferable method,
+just let it burn.
+On the 15 freeway in our desert areas or in our mountain
+areas where we wouldn't have hydrants that are nearby, we
+really don't have a lot of options except for using a fire
+blanket that was demonstrated in the video to help control that
+fire. Two would be to bring a dip tank to the site and fill it.
+Other than that, there really is no other options. If we start
+attacking these fires using tank water, meaning the water tank
+on the fire engine, these are typically only 500 to 750 gallons
+of water. You're quickly going to run out of water, and this
+fire is going to flare up. This could ensnarl traffic, or it
+could, in a bad scenario, start a wildland fire, and now we do
+not have any water to suppress this wildland fire.
+Chairman Obernolte. Thank you. It's a serious problem.
+Dr. Jeevarajan, I was interested in the part of your
+testimony where you were talking about how necessary it is to
+know exactly where the battery cells are and to be able to get
+access to them to be able to cool them all down to prevent
+reignition. There's kind of a similar problem with aircraft and
+with airport firefighters needing to know where the fuel is,
+where the emergency exits are. And that's why there are
+standard markings on aircraft to designate emergency exits. And
+most airport firefighting--firefighters are provided with
+manuals that have a page for each type of airplane that
+operates at that airport commonly that shows where the
+flammables are, the fuel and the hydraulics and the oxygen, so
+that the firefighters are aware of that danger. Do you think
+that something like that would reduce the risk in EVs and share
+that knowledge about where these battery cells are located?
+Dr. Jeevarajan. Sure. As you know, that cells are located--
+all the batteries are located on the underside, below the
+passenger compartment. And they pretty much are through the
+entire bottom of the vehicle. That also helps with the center
+of gravity. So one of the things that we are looking at, within
+the SAE, is writing a standard that--I think it's called J3108,
+which is going to be looking at putting some type of a symbol
+on the registration plates that will tell people what type of
+vehicle it is, whether it's a gasoline vehicle or electric
+vehicle, and it could be pure battery electric vehicle or a
+PHEV (plug-in hybrid electric vehicle) or a HEV (hybrid
+electric vehicles). And I think that's still not in place yet,
+but at some point when that comes in place, then people should
+be able to just look at it and then go and figure out or
+translate it to something like what I would call a QR code, but
+it's really just going and looking for a manual that says where
+the battery is or what type it is.
+But I also think the bigger thing is like design that is
+required. If you have an excess of production of gas, a rupture
+valve or something opens up, that would allow the firefighters
+to be able to connect to the inside of the battery because that
+will also reduce the amount of water that is needed because at
+this time, you know, you're really not able to get to the
+cells. So just trying to cool the outside of the battery is
+insufficient, which is why it takes a lot more water to put out
+the fire. And of course, you're not really reaching the cell,
+so you're not really putting out the entire problem. So I think
+that there needs to be a little bit more research and design
+and engineering that goes into this, and I think we can get to
+that.
+Chairman Obernolte. All right. Thank you.
+Chief Munsey, part of your testimony that you touched on
+just briefly involved the modification of electric vehicles and
+how hazardous that could be because it creates unapparent and
+unintended consequences in sometimes causing fires, but our
+home State of California has a rich tradition of allowing
+hobbyists to modify vehicles. So how do you balance those two
+ideas? Because they seem to be in tension.
+Mr. Munsey. I enjoy working on old cars and motorcycles
+myself, and if I look at the quote from Alfred Lord Tennyson on
+the wall about looking into the future, that is something we
+need to do when it comes to electric vehicles. The fact is
+lithium-ion batteries that are poorly made and do not meet
+certification cause fires. My greatest fear is 20, 25 years
+down the line, as these cars are aging, we will have the home
+mechanics that are replacing batteries with poorly made,
+cheaper batteries that could cause fires. This is a concern to
+me. And while I believe that people should be able to work on
+hobbies, we just need to make sure that we're giving them the
+ability to purchase the correct batteries, to install them
+correctly to maintain their vehicles.
+Chairman Obernolte. All right. Thank you. Well, I see I am
+out of time.
+I'll now recognize the Ranking Member, Mrs. Foushee, for 5
+minutes for questions.
+Mrs. Foushee. Thank you, Mr. Chairman.
+Dr. Jeevarajan, I'll direct my initial question to you. I
+think we've acknowledged that, as EVs become more popular, that
+EV battery fires are going to become more common. As an expert
+in lithium-ion battery safety, what do you believe are the
+biggest research gaps in EV battery safety?
+Dr. Jeevarajan. I think I've mentioned most of it in my
+statement. I think the fire suppression methods need to be
+optimized. Getting the suppressants in our vehicle designs, to
+the cells in the battery pack, those need to be optimized.
+Stranded energy, understanding stranded energy is something
+that we need to work on. There should be remote ways to
+actually access the data. There can be software platforms that
+can be developed that can remotely understand what's going on
+in the battery, which areas are energized and so on. And that
+will give a better idea for the firefighters and first
+responders to determine which modules need to be discharged.
+And that requires some science also.
+Back in the late 1900's, early 2000's at NASA I worked on a
+project where we were looking at doing an upgrade to the APU
+(auxiliary power unit) system. The APU at that time--or the APU
+for the shuttle used hydrazine as a fuel. And we were looking
+to convert it to an electric APU. So we looked at a large
+battery. This was like more than 300-volt battery. And at that
+time--it was lithium-ion. And the way we had designed it is, we
+need to have two-failure tolerance, which means even if two
+cells in the battery pack failed, we would need to still have
+power because it is a critical part of the shuttle. So we were
+designing bypass for cells that failed. And I think things--
+designs like that can easily be done. I mean, I don't say easy
+because these are high voltage systems, have a lot of cells in
+them, but there are engineering and scientific methods to be
+able to do those types of--have those types of designs
+developed. And so then we can actually bypass--once we know
+which modules have energy in them, they can be bypassed. And
+the ones that are energized can still be discharged. I think it
+just requires a lot more work.
+I talked about cybersecurity. One of our sister
+institutions is the Digital Safety Research Institute, and
+they're worried about cybersecurity. And I think when you have
+the ease of updating your software in vehicles so easily, there
+is the possibility of people messing up with that also, so
+there needs to be security, you know, plans developed, making
+sure software used follows standards, and standards are used to
+certify them, and so on.
+So there are several areas again, looking at the different
+chemistries, trying to understand if we need new materials for
+firefighters, as well as trying to understand if we need better
+respirators. There's a lot of scientific research that can be
+carried out. And I think we will be working on several of
+these. And we would certainly like to work on more of these
+to--one of the goals for my institute is to advance safer
+energy storage through science, and so we really would like to
+be involved with carrying out such research and collaborating
+with many agencies, academia and so on, to get to a point where
+EVs are safer.
+Mrs. Foushee. Thank you for that. So firefighters face
+grave dangers on the job, and it is crucial that the protective
+gear and equipment available to them is capable of keeping them
+safe. I find it concerning that so little is known about the
+effectiveness of traditional protective gear when firefighters
+are exposed to battery smoke, which is very different from
+traditional car fires.
+Chief Munsey, can you describe your department's experience
+with using conventional protective gear to protect firefighters
+while responding to EV fires? You showed a little bit of that
+in that video that we saw from another area, but I'd like to
+hear from your experience.
+Mr. Munsey. So we've only had a couple of EV fires in our
+county, despite responding to 196,000 calls per year and
+serving an almost 2.2 million population. Electric vehicle
+fires are not common today. I'm worried about the future. Our
+experience with personal protective equipment is we are
+concerned about our firefighters' safety. As I mentioned,
+cancer is at a higher rate in firefighters today. I've
+personally been to five cancer funerals for our members in the
+last 5 years. We're going to do everything we can to keep our
+members safe. What this means is that we issue second sets of
+full turnouts. These turnout gears are between $5-10,000 per
+ensemble. We require that they laundry those between normal--
+just normal combustible fires. But when you're talking about
+electric vehicle fires and the gases, we need to take that full
+ensemble out of service and send it to a manufacturer--or to a
+specialized cleaning service to be cleaned. At that point,
+about 4 percent of the personal protective equipment then fails
+that cleaning service, requiring us to purchase new gear for
+our firefighters.
+Some of the information that Dr. Jeevarajan--did I say that
+right--just gave is very concerning to me. HF is a very--
+hydrogen fluorine is very concerning chemicals to firefighters.
+It's very dangerous. I don't know that there's been enough
+research here that the structure--protective equipment that we
+wear truly is adequate for these types of fires, especially
+when it's pressurized gas in a container like the garage video
+that you saw.
+Mrs. Foushee. Thank you for that.
+Mr. Chairman, that's my time.
+Chairman Obernolte. OK.
+Mrs. Foushee. I yield back.
+Chairman Obernolte. The gentlewoman yields back. We'll hear
+next from my colleague from California. Mr. Garcia, you're
+recognized for 5 minutes.
+Mr. Garcia. Thank you, Mr. Chairman. Thank you to the--both
+the witnesses for this testimony, very eye-opening. As someone
+who drives an electric vehicle, I know--I knew there were a lot
+of unknowns, but seeing that video, I certainly will be parking
+in the driveway from here on out.
+I want to thank you for putting a bright light on these
+issues around the potential fire dangers of EVs. Chief, thank
+you for your service. Doctor, thank you for everything you do
+for our great country.
+When you look at the potential energy if you will of an
+electric vehicle, lithium-ion, any sort of lithium-based
+battery, it's substantial. But when you look at actual other
+projects that we're looking at throughout the Nation relative
+to electric storage, it makes an electric vehicle look tiny.
+Next door to you in L.A. County where I represent, southern
+California, north L.A. County, Acton/Agua Dulce area, they are
+installing something that is called a battery electric storage
+system, which is a huge facility full of lithium battery
+capacitors, capacity basically being kept there while their
+sources of electric energy are being, you know, pushed to that
+site.
+And so, Chief, you're the Fire Chief of San Bernardino
+County. I know you don't work in L.A. County, but we're
+neighbors, and sometimes our sparks turn into your flames and
+vice versa. So this is an issue that may actually reach out and
+touch you. But I want to play a quick game of good idea/bad
+idea. And these aren't trick questions by the way. This isn't
+the Oversight--the other Oversight Committee. But--and I'll go
+first.
+Is it a good idea to have large battery facilities--large
+battery storage facilities for the purpose of making sure that
+the grid can handle some of the demands that we have? I would
+say that's a good idea. I think we need to have electric
+storage facilities. I think long term when we look at a
+holistic approach, we've got to have all types of energy coming
+to especially southern California. So I would say that is a
+good idea. Go ahead.
+Mr. Munsey. So you mean a battery storage facility as
+properly engineered to prevent fire?
+Mr. Garcia. Correct. Yes, that's what--and, yes, there a
+lot of assumptions that go into that. And this is where the
+good idea/bad idea to you comes from. Would you consider it a
+good idea or a bad idea to put a facility like that next to
+either the I-15 in your case or, in my case, the 14 freeway,
+which is the major choke point, biggest freeway--one of the
+biggest freeways in southern California? Is that a good idea or
+a bad idea, literally, you know, 200 yards off the freeway?
+Mr. Munsey. That's a local policy decision. If--as a Fire
+Chief, I would say that if that is a well-engineered, well-
+maintained, well-monitored system, then there's going to be a
+low risk and a low frequency. If there was an ignition, though,
+that is going to be an extremely hard fire to suppress in a
+short amount of time.
+Mr. Garcia. Understood.
+Mr. Munsey. And that could cause some economic damage to
+the city.
+Mr. Garcia. Yes, and like you said, major commerce corridor
+for southern California. Same kind of good idea/bad idea, if in
+between that freeway and this battery storage facility there's
+actually a railroad, which is one of the corridors being looked
+at for high-speed rail as well, would you put that in the good
+idea or bad idea bucket with the same caveats that you don't
+work there, you don't, you know, work in L.A. County, it's
+well-engineered? But is it a good idea or bad idea?
+Mr. Munsey. We get these questions, too, from our cities
+that are looking at putting these battery systems near
+infrastructure, critical infrastructure, near schools, near
+residential neighborhoods, near freeways. And as we look at
+population density and the density in our communities, it's
+going to be necessary to put these systems somewhere in the
+near future. Again, I'll go back it needs--must be well-
+maintained, it must be well-engineered, it must be well-
+monitored. And if that's the case, you're going to have a low
+risk, low frequency. But if any of those are violated, you're
+going to have a higher risk and a higher frequency for
+ignition.
+Mr. Garcia. Potentially catastrophic results as a result of
+that--those things.
+For the sake of time, I'll condense the last few, but I
+want to just make a point to my colleagues. And I'm not
+speaking to our two witnesses here. But in L.A. County, they
+have decided to put one of these BESS facilities, battery
+electronic storage system facilities, massive facilities next
+to the 14 with a railroad going by it within a couple miles of
+a large water reservoir that feeds about a--or that hydrates
+about a quarter-million folks. It already has existing large-
+gauge transmission wires overhead so that if something happens
+below them, they are going to be compromised. And it's
+surrounded by some of the largest wildlands that have--in Acton
+and Agua Dulce in terms of the amount of BTUs in those
+wildlands right now, probably the highest potential energy of
+fuel.
+And so, you know, I guess my message is--I appreciate what
+you guys have highlighted today, the risks, the concerns of an
+electric vehicle. And to my colleagues in L.A. County, this
+BESS facility being discussed in Acton is, in my opinion,
+setting us up for failure. And if it--anything goes wrong, we
+are going to recognize one of the biggest catastrophic losses
+of life and resources. And hopefully, they can reconsider--to
+the points that you made, Chief--everything that we've
+discussed around this.
+So with that, I yield back. Thank you.
+Chairman Obernolte. The gentleman yields back.
+We'll hear next from the Ranking Member of the full
+Committee. Congresswoman Lofgren, you're recognized for 5
+minutes.
+Ms. Lofgren. Well, thank you very much. And thanks to our
+two witnesses.
+Chief, you've identified something important, which is the
+need to--for more research on protective gear and how it
+relates to EV fires.
+So, Doctor, are we actually on a path to get that research
+done? What further work needs to be addressed by this Committee
+to make sure that the Chief's identified need is met?
+Dr. Jeevarajan. We actually haven't started any research in
+that specific area. Our area of research is now looking at
+different battery chemistries and what gases come out of it. HF
+is really difficult to detect. We know it is there because if
+we heat up our pipes, the lines that go into an FTIR (Fourier
+Transform Infrared Spectroscopy), we are able to see the
+signals for HF although noisy. We recognize the presence of HF,
+but we're not able to get a quantitative measurement. So we're
+really working on getting better estimates of that. But that
+would be one of the areas I think I would certainly look into
+talking to the materials people to see if they can do some work
+on getting new materials that would be tolerant to HF.
+Ms. Lofgren. Mr. Chairman, this is an important hearing,
+and I'm hoping that after the hearing, we can have a discussion
+about what we need to do as a Science Committee to make sure
+that these identified needs are actually addressed because,
+Chief, we're so grateful to you and all the firefighters in the
+country for keeping us safe. But the more we can do to reduce
+your risks and the risks of your men and women, that's
+something--it's really a sacred obligation for us to do.
+The fact that we're not really addressing the need that
+you've identified, I guess, makes me wonder whether you think
+the firefighting community has clear lines of communication to
+researchers and manufacturers so that the needs you're
+identifying, and not just this one, are actually being
+researched. Do you think that exists now?
+Mr. Munsey. Well, I'm a strong supporter of the
+International Association of Fire Chiefs and other like
+associations. There are some fire service members that are not,
+and they are cutting off their own lines of communications.
+It's important that we're speaking with one voice, that we're
+doing that through our associations and the U.S. Fire
+Administrator, Dr. Lori Moore-Merrell. These are important
+things for us to work closely with research and for us to
+understand how to keep our firefighters safe. But just as
+important, we need your help in this. We need to ensure that we
+are enacting legislation that the manufacturer of these
+electric vehicles prevent fires from happening.
+Ms. Lofgren. Yes.
+Mr. Munsey. We need to make sure that we have access to
+funds to properly equip and train and buy the equipment--the
+tools and equipment that are needed to suppress these fires
+without putting our communities in danger.
+Ms. Lofgren. I totally agree with all of that, but we also
+have, you know, a very large number of EVs out on the road
+today, and we need to make sure if there--it's apparently a low
+risk, but it is a risk. And when it happens, we need to make
+sure that the men and women who respond are as safe as
+possible. And so that's why I want to hone in on these--the
+need to research further, the protective gear.
+You know, one of the questions I had, Doctor, is you
+mentioned cybersecurity. I don't know whether we need to be
+concerned about whether cyber attacks could actually instigate
+a failure or an ignition of a battery, or whether just failure
+of code itself could do that. Can you discuss that and whether
+we need to be taking steps in that area?
+Dr. Jeevarajan. Sure. So one of the things that a battery
+has is a battery management system, and it also has an energy
+management system. And it's actually talking to the charger.
+It's talking to the loads and so on. And as you know, there are
+very easy ways to update software today. And given that, the
+battery needs really very stringent safety controls, if
+something is messed up and someone does it on purpose actually,
+then they could mess up the safety controls and you could have
+a catastrophic failure with your battery. Because today, the
+way the manufacturers design the battery and how it's used is
+they do not use the entire voltage range of the battery. They
+use a very small range because that not only ensures safety,
+but it also extends the life of the battery. But if you have
+that changed in some manner, you can easily have a catastrophic
+failure induced.
+Ms. Lofgren. Well, thank you for that. And thank you for
+both. And that's another issue, Mr. Chairman, I hope we can
+discuss further. I don't think most of the manufacturers have
+really addressed cybersecurity, and it's something we might ask
+NIST (National Institute of Standards and Technology) to
+identify and provide some standards.
+So, Chief and Doctor, you've--you're serving your country
+well. Thank you very much, and I yield back.
+Chairman Obernolte. The gentlewoman yields back.
+We'll hear next from my colleague from Georgia. Mr.
+McCormick, you're recognized for 5 minutes.
+Mr. McCormick. Thank you, Mr. Chair.
+I'll get right to the point because we have a lot to cover.
+Just last year, the Biden Administration announced a mandate of
+having 50 percent of all new vehicle sales in the United States
+to be electric by 2030. According to the NFPA (National Fire
+Protection Association), approximately 130 million EVs are
+projected to be in operation worldwide by 2030, not very far in
+the future. There are an estimated 283 million registered
+vehicles here in the United States. Now, if we're about to add
+half of that, it'd be well over 100 million vehicles in the
+United States with the same hazards that we've been talking
+about today. Although the number of battery fires we've had in
+the United States is small, it won't be. That's a fact.
+Chief, as Fire Chief of San Bernardino County, do you
+believe your fire department is fully prepared to handle the
+challenges that come with rapid rise of EV ownership in your
+area of expertise?
+Mr. Munsey. No, nor do I believe that the fire service is
+ready as a whole.
+Mr. McCormick. Great. According to the National Volunteer
+Fire Council, there are approximately 29,452 fire departments
+in the country--that's a lot--with 24,208 fire departments that
+are either entirely or mostly made up of volunteer
+firefighters. Given that volunteer, do you think that there's
+any way to prepare these guys for the future challenges of
+fighting EV fires?
+Mr. Munsey. Yes, given time and sufficient funding.
+Mr. McCormick. Time and efficient--sufficient funding. We
+have approximately--less--about 5 years' time. And the funding,
+which we know we have a problem with our funding on everything
+right now, do you think that's a realistic timeline to be ready
+for that sort of influx of EV fires?
+Mr. Munsey. To add on to your statistics, there's 1.1
+million firefighters. I gave you a price of $2,500 training per
+firefighter. I would estimate that that's about a 16-hour
+class. That's about a $3 billion problem just in training
+itself. I mentioned that we're going to get a heavier wrecker
+and a dip tank. Not every organization is going to be able to
+do that. That needs to be a regional asset. Those that--about
+$2 million for that ensemble starts adding up.
+You mentioned there's close to 30,000 fire agencies, and
+you are correct. Each fire agency probably on average has three
+fire apparatus. And if you were to fully equip these fire
+apparatus, you're looking at, again, hundreds of millions of
+dollars, billions of dollars.
+Mr. McCormick. And then you add to that the development,
+dissemination, and training of new assets, which is to add
+another chemical to the repertoire, but I'll leave it to the
+scientists on my next question.
+Doctor, do you believe that we have adequate technology and
+training today that is easily accessible for all fire
+departments to use in this regard?
+Dr. Jeevarajan. There are some things that have been put
+out because we're still in the research stage for some of the--
+--
+Mr. McCormick. Some things, but we're not adequately
+prepared across the board, correct?
+Dr. Jeevarajan. We are----
+Mr. McCormick. We'd all agree on that?
+Dr. Jeevarajan. Yes, we would.
+Mr. McCormick. OK. Do you think it's legitimate that we
+could develop, disseminate, and afford these chemicals that we
+find--and, by the way, I'm a marine--that we have just recently
+addressed in Camp Lejeune the chemicals that we use to fight
+other chemicals and fires that have leached into the water
+system that have caused cancer and other harm to people, that
+we haven't even studied those side effects, but yet, in 5
+years, we're supposed to have not only the means, but also the
+studies to support that we're not going to harm people more
+than the carbon emissions that we have right now. Do you think
+this is a realistic goal?
+Dr. Jeevarajan. It depends on how much funding is----
+Mr. McCormick. Yes, it depends on funding. So it comes back
+to if we spend a trillion dollars on this, we might be able to
+be somewhat safe. But let me kind of summarize this because I
+think this is what this is all about. This whole movement, this
+green movement is about saving people, I hope, by making sure
+we take care of the environment. So I want to point out that in
+this whole ridiculous idea that we're going to spend a trillion
+dollars to eliminate .00017 percent at most of the car--of the
+atmospheric content, in other words, that carbon emissions that
+we produce by 100 percent of our carbon imprint of vehicles.
+And I'm telling you, I could do the math for you later, but its
+infinitesimal. It is negligible if we eliminate all the cars in
+the United States. That's how much impact we'll have on the
+overall content of the atmosphere.
+We're going to spend a trillion dollars, we're going to
+create chemicals, we're going to create fires, we're going to
+create hazards. If you don't care about the $17,000 per average
+car vehicle that the poor person has to afford, if you don't
+care that there's going to be exposure to people who are trying
+to fight fires and that this is going to leach into the
+system--the very environment you're trying to save, chemicals
+that leach into the environment, chemicals that get into
+people's bodies trying to fight these fires.
+If we're talking about the environment, I really don't
+think we're having an honest conversation. I think that's where
+we need to start this. And this idea that we're saving the
+atmosphere by creating chemicals and creating hazards to people
+that we're trying to save is ludicrous.
+And with that, I yield.
+Chairman Obernolte. The gentleman yields back.
+That concludes our questions. I'd like to thank the
+witnesses for your very valuable testimony and your appearance
+here today before the Committee.
+It's very clear, I think, two things have come out of this
+hearing. One, I very much agree with Ranking Member Lofgren
+that more research is necessary to make sure that we're making
+informed decisions around dealing with this problem. And I also
+very much agree with Chief Munsey that it's clear more
+resources and more training are going to be necessary to keep
+our firefighters and first responders safe. So we're going to
+continue having this discussion and hopefully be able to take
+steps toward solutions to this as more and more of the vehicles
+on our roads become EVs.
+The record will remain open for 10 days for additional
+comments and written questions from our Members.
+With that, this hearing is adjourned.
+
+Appendix I
+----------
+Answers to Post-Hearing Questions
+Answers to Post-Hearing Questions
+Responses by Mr. Dan Munsey
+GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT
+Responses by Dr. Judy Jeevarajan
+GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT
+Appendix II
+----------
+Additional Material for the Record
+Statement submitted by Representative Max Miller
+GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT

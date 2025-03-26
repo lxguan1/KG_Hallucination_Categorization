@@ -1,1 +1,1517 @@
-RESTORING CONGRESSIONAL OVERSIGHT OVER EMERGENCY POWERS: EXPLORING OPTIONS TO REFORM THE NATIONAL EMERGENCIES ACT ---------- WEDNESDAY, MAY 22, 2024 U.S. Senate, Committee on Homeland Security and Governmental Affairs, Washington, DC. The Committee met, pursuant to notice, at 10 a.m., in room SD-342, Senate Dirksen Building, Hon. Gary Peters, Chair of the Committee, presiding. Present: Senators Peters , Hassan, Rosen, Blumenthal, Ossoff, Paul, Scott, and Marshall. OPENING STATEMENT OF SENATOR PETERS\1\ Chairman Peters. The Committee will come to order. When a crisis unfolds, our government needs to be able to respond quickly. Whether it is a pandemic, extreme weather, or a foreign attack, we must be ready to protect the safety and security of our citizens. In order to act quickly when disaster strikes, Congress has given the President broad emergency powers. --------------------------------------------------------------------------- \1\ The prepared statement of Senator Peters appears in the Appendix on page 29. --------------------------------------------------------------------------- Most emergency powers have never been used, but they could potentially bring sweeping changes to our government, economy, and society. These powers could allow the government to take over communication channels, control transportation systems, halt trade with other countries, and more. Without an appropriate check from Congress, there is a risk that these powers could be misused or abused. That is why Congress passed the National Emergencies Act (NEA) in 1976. This legislation gave Congress the power to conduct oversight over these powers, including a mechanism to quickly end a national emergency. But after a 1983 Supreme Court decision, the National Emergencies Act had to be amended, and the mechanism for Congress to end a national emergency was weakened. It now requires a veto-proof two-thirds majority in both chambers of Congress. In other words, there is an imbalance of power. It is easy for a President to declare a national emergency, but very hard for Congress to end one. We have seen Presidents of both parties increasingly use emergency powers. In cases like the Coronavirus Disease 2019 (COVID-19) pandemic, this was necessary to protect our economy and public health. In other cases, recent Presidents have used emergency powers to attempt to advance their policy goals, often in areas where Congress should be providing input and oversight. Reforming the National Emergencies Act is not about thwarting the policy goals of either party. It is about strengthening our democracy, and ensuring Congress maintains its responsibility to oversee Executive power. We have had bipartisan support for this reform in the past. I am hopeful that we can build on that progress, and am looking forward to considering legislative options that can advance in this Committee, this Congress. We must examine how we use our current national emergency power authorities, and ensure that Congress can effectively oversee emergencies. Today's hearing, and our panel of expert witnesses, will help us do that, and I look forward to the discussion. Now I recognize Ranking Member Paul for his opening remarks. OPENING STATEMENT OF SENATOR PAUL Senator Paul. In 1867, a journalist named Walter Bagehot explained that in Britain the monarchy in the House of Lords no longer exercised true governing authority, that the real work, the real power of government was done by the House of Commons and the Prime Minister. In contrast, the United States has allowed the majority of governing power to remain in the Executive Branch. In some ways, the United States of America (USA) is a monarchy in disguise. The United States maintains the veneer of a constitutional republic, but often operate as an elected monarchy in which the President exercises awesome and unchecked power by decree. Today the President can unilaterally determine when and how to unlock and exercise extraordinary powers not permitted during normal operations. Once the President simply declares an emergency, emergencies are rarely terminated. The national emergency declared in reaction to the 1979 Iranian hostage crisis is still in effect to this day. Some powers are so inimical to the concept of constitutional republic that they could never have been granted to the President, or should have never been granted to the President in the first place. One such emergency power, pursuant to the Communications Act of 1934, gives the President nearly unchallenged authority to restrict access to the Internet, conduct email surveillance, and control computer systems, television, and radio broadcasts, and cellphones. President Woodrow Wilson actually used a similar power three times during World War I. These laws were written for a different time, but this power, which some refer to as the ``internet kill switch,'' threatens the rights protected by the First and Fourth Amendments as well as property rights, simply by declaring an emergency. This dangerous imbalance of constitutional separations of powers is not simply aggrandizement by the Executive Branch. Congress has been complicit and made itself a feckless branch of the Federal Government by granting the President so many emergency powers and refusing to regularly vote on termination of national emergencies as required by current law. We do not have to accept as inevitability the degeneration of a republic into a rule by an all-powerful Executive. We do not have to be a monarchy disguised as a republic. It is time for Congress to restore itself as the first among equals of the branches of government, as envisioned in the Constitution. I hope this hearing marks only the beginning of a serious and sustained effort to restore the Constitution, reclaim the authority of Congress, and protect the liberties of the people by paring back the vast emergency powers delegated to the President. Chairman Peters. It is the practice of the Homeland Security and Governmental Affairs Committee (HSGAC) to swear in witnesses, so if each of you will please stand and raise your right hand. Do you swear the testimony that you will give before this Committee will be the truth, the whole truth, and nothing but the truth, so help you, God? Ms. Goitein. I do. Mr. Thallam. I do. Mr. Healy. I do. Chairman Peters. Thank you. You may be seated. Our first witness is Elizabeth Goitein, and she is the Senior Director of the Liberty and National Security Program at the Brennan Center for Justice. Prior to that role, she served as Counsel to Senator Russ Feingold and as a trial attorney in the Federal Programs Branch of the Civil Division of the Department of Justice (DOJ). Ms. Goitein is a nationally recognized expert on Presidential emergency powers, government surveillance, and government secrecy. Ms. Goitein, thank you for being before us here today, and you are recognized for your opening comments. TESTIMONY OF ELIZABETH GOITEIN,\1\ SENIOR DIRECTOR, LIBERTY & NATIONAL SECURITY PROGRAM, BRENNAN CENTER FOR JUSTICE, NEW YORK UNIVERSITY SCHOOL OF LAW Ms. Goitein. Chair Peters, Ranking Member Paul, and Members of the Committee, thank you for this opportunity to testify. --------------------------------------------------------------------------- \1\ The prepared statement of Ms. Goitein appears in the Appendix on page 30. --------------------------------------------------------------------------- The legal framework for emergency powers in this country is in urgent need of reform. It grants the President sweeping powers, some of which seem like the stuff of autocratic regimes, with few safeguards against abuse. Fortunately, there is a ready way for Congress to build a meaningful check into this system. Emergency powers have existed in countries around the world for hundreds of years. The theory behind them is simple. Because emergencies are, by definition, unforeseen and unforeseeable, the powers conferred on the government by existing laws might be insufficient to address them. But amending the law to provide greater powers might take too long and might do damage to principles that are held sacrosanct in ordinary times. Emergency powers thus authorize a limited departure from the legal norm. Their purpose is to give the head of State a temporary boost in power until the emergency passes or until there is time to change the law through the normal political process. Many countries have emergency powers written into their constitutions. The U.S. Constitution is an outlier. It grants no explicit emergency powers to the President, so Presidents have, for the most part, relied on Congress to provide them. About a century ago, a system evolved where Presidents would declare a national emergency, and that declaration would trigger special powers contained in a whole range of statutes, all of which say something like ``in a national emergency, the President can do X.'' But there was no overarching statute governing this system. The President did not have to identify the powers he was invoking, he did not have to report to Congress, and there was no limit on how long emergency declarations could remain in place. Congress passed the National Emergencies Act in 1976 to rein in Presidential power. It attempted to do that in three main ways. First, it provided that emergency declarations would expire after a year unless the President renewed them; second, it allowed Congress to terminate emergency declarations using a legislative veto, a law that goes into effect without the President's signature; and third, it required Congress to meet every six months while an emergency declaration was in effect to consider a vote on termination. By any measure, the National Emergencies Act has failed to achieve its purpose. Expiration of emergency declarations after one year, which was supposed to be the default, has become the rare exception. There are 43 emergency declarations in place today, most of which have been in effect for over a decade. In 1983, the Supreme Court held that legislative vetoes are unconstitutional, so now Congress effectively needs a supermajority to terminate a declaration over the President's likely veto. For more than 40 years, Congress simply ignored the requirement to periodically review existing emergencies. Why should this worry us? Because an emergency declaration unlocks powers contained in more than 130 statutory provisions, and some of these carry enormous potential for abuse. There is a law that allows the President to take over and shut down wire or radio communications facilities. It was last invoked during World War II, when wire communications meant telephone calls or telegrams, and most American households did not even own a telephone. Today, it could arguably be used to exert control over U.S.-based internet traffic. Other laws allow the President to freeze Americans' assets without any judicial process, to control domestic transportation, and even to suspend the prohibition on government testing of chemical and biological agents on unwitting human subjects. Given how potent these powers are, it is remarkable that there has not been more abuse. We have been lucky. But it would be irresponsible to continue to rely on luck or Presidential self-restraint. Congress should pass legislation to restore its role as a check on these powers. There are several bills pending before Congress right now, broadly supported by Democrats and Republicans, that would require emergency declarations to terminate after 30 days unless approved by Congress using expedited procedures. This simple, commonsense change would give Presidents flexibility when it is most needed, in the immediate aftermath of a crisis, while still allowing Congress to step in and serve as a backstop against Executive overreach or abuse. Thank you, and I look forward to your questions. Chairman Peters. Thank you. Our second witness is Satya Thallam. He is a Senior Fellow at the Foundation for American Innovation. Mr. Thallam is a policy expert and an advisor on administrative law, regulatory policy, and emergency powers. Previously he was a senior policy official at the Office of Information and Regulatory Affairs (OIRA) under President Trump. He also served as the Chief Economist on the Senate Homeland Security and Governmental Affairs Committee--I am familiar with that Committee--serving under Chair Johnson. Welcome back to HSGAC. You may proceed with your opening comments, Mr. Thallam. TESTIMONY OF SATYA THALLAM,\1\ SENIOR FELLOW, FOUNDATION FOR AMERICAN INNOVATION Mr. Thallam. Thank you, Chair Peters, Ranking Member Paul, and Members of the Committee. Thanks for your invitation to testify and return to a place I consider a second home. My name is Satya Thallam. You have my bio. But as was mentioned is most pertinent, I was four or five years a senior staffer at this very Committee where the final bill that I managed was a proposed reform to the National Emergencies Act. I did that before I left, which, as was alluded to in your opening statement, was reported favorably by voice vote at the time. --------------------------------------------------------------------------- \1\ The prepared statement of Mr. Thallam appears in the Appendix on page 61. --------------------------------------------------------------------------- I will forego restating much of what has been and will be said by my esteemed colleagues, especially since I could probably just copy and paste the Chair and Ranking Member's opening statements and just enter that into the record because I agree with all of it. But I will remark on a couple of comments. First, the National Emergencies Act is a thoughtful solution to a problem of Congress' own making. Like many things in both Executive and congressional practice, sometimes one- time circumstances prompted one-time responses. But over time those policy responses buildup without any systemic consideration of their total effect. Indeed, powers meant to be exercised only in the case of an emergency have been observed since before the country's founding. The Federalist Papers speaks of powers needed to address, ``national exigencies.'' In 1776, General Washington observed ``desperate diseases require desperate remedies.'' When the Continental Congress, needed to flee Philadelphia, empowered him with, ``full power to order and direct all things relative to operations of the war.'' Of course, the word ``emergency'' does not appear anywhere in the Constitution, and yet Congress, as the sole lawmaking branch, has deemed it necessary to grant emergency powers across hundreds of duly enacted statutes, the conceit being that the Executive, in execution of the law in the public interest, will need to respond to uniquely emergency situations, though that delegation should be cabined by congressional say-so. I would note although the NEA is definitely in need of an update, owing to an unforeseen judicial decision, its basic structure is sound and is appropriate for Congress to re- examine it to better assert Article I prerogative. Second, a conceptual note, if you will bear a slightly tortured metaphor. Think of the National Emergencies Act not as the direct grant of emergency power itself but as a key which unlocks a vault in which is enclosed the actual instruments of emergency response. That is, Congress, when authorizes through other statutes emergency powers, adds to the tools in the vault. The problem is that there is no timer on this vault, nor easy, plausible way to take back the key. Another central conceit. Emergencies are, by definition, unpredictable, but they should also, by definition, be time limited and self-evident. Therefore, Congress does not need to run down the impossible task of prescribing every possible emergency but rather ensure it has the means to have its say with respect to emergency declarations and the attendant emergency powers based on those generalized aspects. However the Committee decides to proceed, the sweet spot for any reform is one that is, on its face, policy neutral and designed to service only the interests of Congress' lawmaking role, vis-a-vis the President, rather than any particular political agenda. Thank you, and I look forward to your questions. Chairman Peters. Thank you. Our third witness is Gene Healy. He is the Senior Vice President for Policy at the Cato Institute. His research interests include Executive power and the role of the presidency as well as federalism and overcriminalization. Mr. Healy, welcome to the Committee. You may proceed with your opening remarks. TESTIMONY OF GENE HEALY,\1\ SENIOR VICE PRESIDENT FOR POLICY, CATO INSTITUTE Mr. Healy. Thank you. Chair Peters, Ranking Member Paul, and distinguished Members of the Committee, thank you for the opportunity to testify today. As my fellow witness, Ms. Goitein, mentioned, upon assuming office the President now enjoys access to over 230 statutory powers that he can activate in a self-declared national emergency. Most of them could be triggered simply by saying the magic words and putting a signature on an emergency declaration. --------------------------------------------------------------------------- \1\ The prepared statement of Mr. Healy appears in the Appendix on page 67. --------------------------------------------------------------------------- My other co-panelist, Mr. Thallam, suggests that we think of these powers as tools contained in a vault. I like that metaphor but in some cases for ``tools'' I would substitute ``weapons.'' The original national Emergencies Act was an attempt, as he says, to safeguard that vault and time-limit the President's access to the weapons that it holds. But when the NEA framework collapsed in the mid 1980s, the vault door swung open, and since then the only thing keeping Presidents from raiding the arsenal is their sense of self-restraint. In that light it actually really is remarkable that we have not seen far greater abuses, despite the lack of meaningful legal checks on these powers. Up until now, according to the Brennan Center's research, nearly 70 percent of these powers have never been triggered, at least not yet. But over the last two administrations, we have seen that whatever norms once restricted the use of Presidential emergency power have eroded. For instance, in decades past no President seems to have imagined that you could tap into that arsenal to do an end run around Congress in a budget fight, but that is precisely what President Trump did in February 2019, when he declared a national emergency in order to build a wall on the Southern border. Nor does it seem that any prior President imagined he could invoke emergency powers to permanently cancel hundreds of billions of dollars in student loan debt without authorization from Congress, but that is what President Biden attempted with another emergency proclamation in August 2022. As my colleagues have suggested, the way to resecure the emergency powers vault is pretty straightforward. It involves amending the National Emergencies Act to impose an ``approve or expire'' framework, sunsetting Presidential emergency declarations after a matter of weeks, and requiring actual authorization from Congress to extend them further. Those process reforms are essential, but I would like to suggest that the Committee consider substantive reforms, as well, in addition to thinking about how to safeguard the vault, taking a look at the arsenal that is within it. If there are weapons in that vault that the President does not need, weapons that are especially susceptible to abuse, consider taking them off the shelves. For instance, any comprehensive effort at emergency powers reform will ultimately have to deal with the International Emergency Economics Powers Act (IEEPA), at some point. That 1977 law has been the source of nearly 90 percent of emergency declarations historically, and over 90 percent of the ones still in effect today. While most of these have been fairly uncontroversial, and not actually emergencies, the vast powers that IEEPA grants are particularly susceptible to abuse. For instance, in the months after he declared the border wall emergency, President Trump twice threatened to weaponize the statute against major U.S. trading partners, first against Mexico with a series of across- the-board tariffs that would go into effect unless they cracked down on cross-border migration, and shortly after that the President cited the statute as authority for hereby ordering American companies to get out of China. Thankfully, the President did not follow through on those threats, but if a future President does it is not at all clear that the courts will stop that action. Even more concerning, nothing in the statute prevents it from being turned against American citizens. Such uses have been rare, but they are potentially available. Substantive reforms in these areas could include barring IEEPA's use as a trade war weapon, restricting its use to directly target Americans, as well as shoring up due process protections for any United States person caught up in the statute's sweep. In conclusion, any of these reforms would provide a better check on abuse of power than depending on Presidential self- restraint. It should be clear by now that that is far too weak a check. I thank the Committee for its attention to this important issue, and I look forward to your questions. Chairman Peters. Thank you. Mr. Thallam, most reform efforts to the National Emergencies Act propose that Congress affirmatively approve each national emergency. My question for you is, what is the value of having Congress approve rather than disapprove each emergency? Mr. Healy, I want you to weigh in on this too, please. Mr. Thallam. Mr. Thallam. I think I would slightly modify that. In the first instance, most of the proposals do not require Congress to approve but for a certain time limit, so after a certain period, so 30 to 60 days, it would require Congress to approve any extension of that. In the failure of Congress to decide to extend it, it would be ended by default. I think, again, the original NEA had a disapproval mechanism that got around the Presidential veto, but of course, I do not believe the authors anticipated a court decision that would invalidate that structure. I think the original authors of the National Emergencies Act, if they were addressing this issue now, would do what is in many of the recent proposals, which is, by default, Congress has to assert its approval or the emergency ends by default. I think disapproving is just a much higher barrier, and it is what we result in now. Chairman Peters. Ms. Goitein, I am going to want you to weigh in, too, but Mr. Healy? Mr. Healy. Yes, I think that is right. I think the frameworks for emergency powers reform that we see now reflect the Chadha decision, getting rid of the legislative veto. All the Protecting Our Democracy Act, Article I Act, the other bills that have been proposed are based on an approve-or-expire framework in which the President will have 30 days, in the case of a genuine national emergency, to unlock these powers. But if the emergency persists and these powers are thought to be necessary, this weapon is supposed to remain available, then Congress has to vote. I think the shape of the statutes we see are a reflection of what the Supreme Court did in Chadha, and a way to give them that decision to reassert Congress' authority over these matters, rather than what has happened since 1985, with the removal of the legislative veto, we are really in an upside- down constitutional situation where the President proposes, and essentially the President disposes, and it takes a veto-proof supermajority for Congress to reassert its authority. These are designed to turn the emergency powers practice right-side up. Chairman Peters. Very good. Ms. Goitein. Ms. Goitein. I agree with what has been said. It is important to remember also that a national emergency declaration gives the President access to truly extraordinary powers and to a degree of flexibility and discretion that would not be appropriate during ordinary times, and that Congress has not chosen to give the President during ordinary times. For that reason, Congress wanted to make it easy to exercise some restraint on the President if the President abused those extraordinary powers. That is why Congress chose the legislative veto mechanism. Now that that is off the table, the existing mechanisms for disapproval require such a high bar that they stack the deck very much in favor of the President and against Congress. It throws the balance of power out of whack. The closest way to approximate the balance of power in the original National Emergencies Act is the mechanism that has been proposed in these reform bills, which is an automatic expiration period of approximately 30 days--in some cases I think it is 20, depending on the bill--unless Congress votes, using expedited procedures, which means that it would be a simple majority vote, where any member could force a vote. This would prevent obstructionism. Congress would be voting, and a simple majority would carry the day. It would put Congress back in the position of being able to exercise a check on these extraordinary powers. Chairman Peters. Very good. It is important for these reforms to be nonpartisan, to understand that we are talking about Executive power regardless of who is in that office and what party they may be from. We have three experts, three of you here before us today, and I would just like to get a sense, and to all of you, so anyone who wants to chime in, do you believe that there is a bipartisan consensus among experts, among policy experts, as to how we reform the National Emergencies Act, and how would you characterize that right now? Whoever wants to go first. Mr. Thallam. This is self-selecting among experts I have spoken to. There is widespread agreement. I think the folks who have written and studied this issue agree with this central conclusion that the NEA, as structurally intended, was fairly thoughtful, but for an unforeseen judicial decision it rendered it fairly inert. The best way to address that is with a reform that inverts the structure. I would also note it is helpful to think of these reforms as not just purely oppositional, the Congress versus the Executive, but it provides and, in fact, forces Congress to take a stand on emergency declarations. If it truly is an emergency that is self-evident, that is maybe existential in nature, then it should be possible for the President to gather the political support to extend that emergency and that response. It actually provides an Article I imprimatur on any emergency declaration, and regardless of how Congress disposes, it forces Congress to have to step up and say, ``I am taking a stand on this,'' whether it is a yes or no to continue it. Chairman Peters. Anyone like to add to that? Ms. Goitein. I would agree with that. Of all the issues I have worked on in almost 20 years of doing this type of work, this issue probably has the broadest and deepest bipartisan support, not just among policy experts but among Members of Congress whom I have spoken with. There is a fundamental understanding that this is not a partisan issue but an issue of separation of powers, and that the separation of powers is not an optional feature of the Constitution that can be switched on or off, depending on who is in the White House. It is a vital protection for our democracy. Emergency powers can be abused, and have been abused, by President of both parties. This is fundamentally not a partisan issue. It is an issue of safeguarding individual liberties, of safeguarding our democracy, and I think that is well understood. Chairman Peters. We are over time, but Mr. Healy, do you have a quick response? Mr. Healy. I do not have much to add to what my co- panelists have said. Yes, I think this is both within the policy community, such as it is, and on Capitol Hill, this is an issue that gets a lot of bipartisan support because we should take a longer time horizon and recognize that at any given point somebody may like what a President does with the vast delegation of unilateral powers. But over time it erodes separation of powers and the rule of law, and I think we have seen that in the last two administrations, and we have seen bipartisan support for reforming it. Chairman Peters. Great. Thank you. Ranking Member Paul, you are recognized for your questions. Senator Paul. I do not think it has to be partisan at all. An example that somebody who once worked for Russ Feingold is in complete agreement with somebody who swung the other party, in the opposite wing of other party, that there is definitely overlap. I think there is overlap between the Chair and I on this issue. I think when we watch this unfold you tend to see Republicans louder when Biden abuses the power and Democrats louder when Trump abuses the power. But I can say that when Trump moved the money around using emergency powers for the wall I was one of the 12 Republicans who voted to rein in that power and that it was not an appropriate use. It was abuse of power. I think as far as an adversarial relationship there needs to be some. There needs to be legislature against the Executive, like the good old days, when we could combine Republicans and Democrats to always say, ``We are going to do as Madison said, put our ambition against their ambition,'' and those checks in power would be the way the Republic would remain protected. We do not do that enough. I cannot remember when. It has been decades since the legislature rose up and said enough is enough. We did a little bit in the 1970s. The Senate Select Commitee to Study Governmental Operations with Respect to Intelligence Activities (CHURCH) was a reaction to too much Executive power and too much power within the intelligence agencies. But I can tell you how bad it is right now. I am trying to get the classified Church Committee report from the 1970s and cannot get it. The Administration, the Executive, but how is the way I can get it? Somebody on Appropriations would have to call up the current Administration and say, ``Give it to him or we are not giving you any more money.'' That is the way it would work, and it should not matter which party we are in. But I cannot get the classified Church Committee report from the 1970s, which I think came out of this Committee. It was a special committee, but, I mean, it was a Senate product, and I cannot get it. It is just kind of crazy the resistance of the Executive Branch. I think everybody here understands how things got turned over topsy-turvy by China, but I think it is important explaining to the public what we mean by that. The legislative veto would mean you could just come back I and the legislature could veto an emergency power or end it, and then the President did not have to sign it. The court came back and said, no, you cannot have any laws, and there is some logic to this. You cannot have a law unless the President signs it. The only way we can gain our power is we have to let things expire. The emergency powers have to expire, and this is getting to my question. Most of the emergency powers, I think as research by Brennan Center and as was mentioned by Mr. Healy, as well, are under IEEPA. Previously we tried to do this, and then we said, well, we love sanctions, and everybody loves sanctions. We do not want to do anything to have sanctions expire. But if you exclude IEEPA you exclude like 90 percent of the emergency powers. The real question should not be do you love sanctions or do you have doubts about sanctions. Do you think sanctions should be forever and Congress should never weigh in? Maybe if you love sanctions we should still vote on them, and they should expire, and come back here six months or a year, and we vote on them, and if you love them--and I think the majority of people, I am in the minority, the majority will still vote for sanctions, like everybody, all the time, everywhere. But there would at least be a debate and we put our imprimatur on it. Then by putting our imprimatur on it, if you love sanctions, actually the sanctions may be stronger because they are not actually approved by Congress. But right now we have no say in it, and they go on and on, and most of the emergency powers, there are really dangerous ones--internet switch and things--but there also ones that are used all the time, which are sanctions, increasingly used on private individuals and other countries, sometimes used on Americans in other countries. I guess my question to all three of you, and we will start with Mr. Healy, is, do you think the reform that time limits, emergency degrees, and says they have to be affirmatively voted on by Congress should apply to IEEPA emergencies? Mr. Healy. I think ultimately it should be under an approve or expire framework. Now I think there is reasonable debate that can be had about time limits and particular provisions, or whether it should all be part of the same bill. But I think if you were looking down a list of extraordinary emergency powers--such as the Brennan Center has produced, first came out in 2018, before the last two controversial uses of emergency powers--if you were looking down that list you would not have singled out the Military Construction Codification Act that was the basis of the border wall emergency, or the Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act, which was the basis of the student loan debt cancellation. I do not think they would be anywhere near the top of your list of broad, crazy delegations of power. I think looking behind a veil of ignorance, looking at that list, you would identify IEEPA as something that could be turned against U.S. persons and something that can essentially make people financial untouchables, and you would be concerned about that. Senator Paul. I think you are right, and I just wanted to interject that during the middle of COVID they took a Centers for Disease Control and Prevention (CDC) statute from the 1930s that said you can quarantine people for measles and like 10 other diseases, and whatever other measures are necessary, and through that the Trump administration canceled mortgages and said you do not have to pay your mortgages. Then the Biden administration did the same thing. Both parties were guilty of this, but he took a statute that had nothing to do with mortgages and no sane person could think that a quarantine on measles has anything to do with paying your mortgage, and they abused that power. But that should be, whether you like people paying their mortgages or not or like the rule of law, everybody should say that is illegal and unconstitutional. We should not let executives do that. But we do not. We tend to base it on the policy. Do we like the policy? If we do not like the policy instead of should the President be able to do this, unilaterally, on a statute that never gave him this. Ms. Goitein, on including IEEPA? Ms. Goitein. IEEPA raises unique considerations, and I believe it should be addressed separately. The National Emergencies Act reform bills that are currently pending both go too far and not far enough in certain ways. I think that requiring Congress to vote 40 times every year on sanctions regimes, which is what would happen if you applied the NEA reform bills to IEEPA declarations, would be impracticable and possibly unnecessary. Senator Paul. It possibly could be grouped, as well. If you have an emergency against Russia and there are 40 different sanctions against Russia, I do not think there is anything that says that we could not come forward and vote on the emergencies on 40 different sanctions, not each individual sanction. Ms. Goitein. You would need to structure a system where there could be a vote with expedited procedures on a package of sanctions, once every year, with amendments in order to strip individual sanctions regimes. Senator Paul. It only works if they expire. Ms. Goitein. That is correct, but that is a slightly different framework than what is in the bills that are currently pending before Congress. I would add that this approval requirement would not solve some of the other problems with IEEPA, such as the absence of due process protections for Americans who are swept up in its crosshairs, such as the humanitarian impacts on innocent foreign populations overseas. Senator Paul. I agree with all that. The only problem with separating it is Congress is, as I said in my opening, often feckless, if not most of the time. If we ever do anything on NEA it will be a miracle, if we actually pass it through and get it completely done. But I would say that if we leave out IEEPA we are leaving out an opportunity when what we are talking about is emergencies. People would say, oh, you got rid of four emergencies out of 79, or something. We are going to get rid of the minority vote and we are going to fix the minority of the problem. If anything I would argue for doing it all at one time. Mr. Thallam. Mr. Thallam. To answer your question, should it be addressed, yes, and I agree that I think there are two concerns there, not with the intent. One is structurally how those emergency powers tend to work in practice. The second is prudential, and putting on my staffer hat I remember negotiating about how much to include of IEEPA. I just caution the Committee that you have a reform, or a version of a reform, that is within grasp and that could pass Congress and could get to the President's desk. Wholesale, including IEEPA, just increases the complexity, which does not mean do not go for it. But it just becomes that much more slippery, and it is like trying to pick up anti-matter with chopsticks. Don't let the perfect be the enemy of the good, is the only thing I would add, even though I agree with the intent. Ms. Goitein. Could I add one thing to that, just briefly? I think you are only going to get one bite at the IEEPA apple. Take the time to do it right. Do not throw some provisions about IEEPA into the National Emergencies reform bills that exist right now. Those bills are ready to go. Get them signed and take the time to do an IEEPA reform bill. The Brennan Center has a proposal for a legislative reform of IEEPA. I would be happy to work with anyone on this Committee who would like to examine that as a path forward. But move forward with National Emergencies Act reform and then take the time to get IEEPA right. Chairman Peters. Senator Ossoff, you are recognized for your questions. OPENING STATEMENT OF SENATOR OSSOFF Senator Ossoff. Thank you, Mr. Chair, and this conversation has focused, I think, on what is practical legislatively. I want to ask each of you what is most pressing. Putting aside the question of what can practically be moved through this Congress, for each of you, please, beginning with you, Ms. Goitein, which single statutory reform, one, in brief, do you believe is most pressing with respect to Presidential emergency authorities? Ms. Goitein. I think it is the congressional approval requirement for national emergency declarations. The reason that I think that is not only because it can be done immediately, but it has the biggest bang for the buck because it significantly curtails the potential for abuse of more than 130 different emergency powers, and it does so by restoring the balance of power between the President and Congress in a way that is just good constitutional hygiene. I agree with something Mr. Healy said earlier, which is that Congress should also examine the individual tools in the toolbox. Some of these are powers that arguably no President should ever have, such as suspending the prohibition on government testing of chemical and biological agents on unwitting human subjects. However, I think for the biggest bang for your buck, start with National Emergencies Act reform with a congressional approval requirement. Senator Ossoff. Thank you. Mr. Thallam. Mr. Thallam. I second that. I think of this as a metalaw, and probably the ideal situation would be to reform and address and maybe repeal all of those emergency statutes. I just do not know how you would go about triaging that. I think the single most important element, though, of reform is time limiting. An emergency is impossible to define in all its characteristics, but by definition it should be time limited. Otherwise it is not an emergency. there should be some mechanism that by default ends emergency declarations unless Congress said, ``You know what? You are right. This is a continued problem. We are going to take a stand and we are going to extend it.'' Senator Ossoff. Mr. Healy. Mr. Healy. I hate to be boring here but I agree with my co- panelists. Despite what I said about addressing substantive powers, I do think that sunsetting emergency declarations and requiring affirmative approval by Congress to extend them further is the most valuable reform that can be made, if you have to pick one. I think, in particular, it is valuable because, as I said a moment ago, you would not have predicted a recent President's seizing on these two statutes, the Military Construction Codification Act and the HEROES Act. But we have seen that when Presidential restraint in these areas starts to erode there is a lot of creative lawyering and statutes that you might not have thought were bottomless wells of unilateral power can be turned to that purpose. By sunsetting declarations and requiring affirmative approval I think that tackles a large part of that problem. Senator Ossoff. Mr. Healy, and then we will go back down the line this way, which emergency power do you believe is most broadly or urgently threatening to civil liberties and due process right? Mr. Healy. The provisions of the 1934 Communications Act that were mentioned earlier I think are pretty sweeping and staggering, not something that a President needs, even in a genuine national emergency. I think the potential application of IEEPA to U.S. citizens, to directly target them, and the lack of meaningful due process in that area is also a concern. But again, I think looking down the list of those 130 powers, we should expect that there is any number of them that will be put to uses that we could not predict in advance. Senator Ossoff. Thank you. Mr. Thallam, same question, the single power you believe most threatening to civil liberties and due process. Mr. Thallam. I second the 1934 communications law, especially in the context of creative lawyering and what communications means today versus what was envisioned in that law. Senator Ossoff. Thank you. Ms. Goitein. Ms. Goitein. I agree, the Communications Act and IEEPA are probably the ones of most concern. I am going to flag a third one, since those two were already discussed, and that is the provision that allows the administrator of the Transportation Security Administration (TSA), during a national emergency, to exercise such powers over transportation as the Secretary of Homeland Security (DHS) shall prescribe, which appears to be a completely open-ended delegation of authority to the Secretary of Homeland Security to control domestic transportation, with no limits or specifications. of course, the ability to move around freely is critical to many of the other individual liberties that we all enjoy. Mr. Thallam. Can I just add one quick thing? I think the power you should be worried about is the one you have not thought about. It is the creative, going through the archives, and finding some obscure provision that no one has thought about in years, and imagining an administration 10, 15, or 20 years from now pulling it out of the archives and saying, ``I think this authorizes a pretty unprecedented exercise of power.'' Senator Ossoff. Ms. Goitein, how could an administration use emergency power to disrupt the peaceful transfer of power from one elected Executive to the next? Ms. Goitein. I wrote about this a little bit in an article that I published in The Atlantic in 2019. To be honest, I am reluctant to go into too much detail about how emergency powers could be abused in this way. Senator Ossoff. I think that is, with respect, what you are here to testify on. Ms. Goitein. Right. I think we need to be very cautious in having these discussions. One emergency power that actually falls outside the National Emergencies Act framework that I am worried about is the Insurrection Act. The Insurrection Act is a law that allows the President to deploy Federal military troops to quell civil unrest or to execute the law in a crisis. There is a lot more to say about it, but it gives the President extremely broad, and judicially unreviewable, discretion to deploy troops in ways that could certainly be abused, and that could be abused in ways that could throw a wrench into the works, in terms of a peaceful transfer of power Senator Ossoff. A brief comment on the Insurrection Act from each of you? I am over time now. Mr. Healy, I would like your perspective. Mr. Healy. Yes, I think it falls into the category of powers that certainly can be abused. It has not been invoked since the L.A. riots, I believe, in 1992. But if you look at the discretion the President has under that act it is certainly something that would be prudent to tighten up. Senator Ossoff. Thank you all. Thank you, Mr. Chair. Chairman Peters. Thank you. Senator Hassan, you are recognized for your questions. OPENING STATEMENT OF SENATOR HASSAN Senator Hassan. Thank you, Mr. Chair and Ranking Member Paul for holding this hearing, and to all of our witnesses thanks for being here and for sharing your thoughts about how Congress can reform Presidential emergency powers and strengthening congressional oversight of those powers. I want to shift the conversation just a little bit because of my role as chair of this Committee's Subcommittee on Emerging Threats and Spending Oversight (ETSO), which is tasked with combatting waste, fraud, and abuse in Federal programs. I am concerned that bad actors take advantage of national emergencies to access funding intended for victims, such as we saw during the COVID-19 pandemic. Ms. Goitein, does current law adequately safeguard taxpayer dollars from waste, fraud, and abuse during Presidentially declared emergencies, and what additional safeguards or oversight mechanisms do we need to strengthen protections against waste, fraud, and abuse during a national emergency? Ms. Goitein. That is a great question, and it goes to this issue of congressional oversight. Congress should be able to oversee exactly how emergency powers are being used, including how funds are being spent. There is a requirement in the National Emergencies Act that Presidents report to Congress every six months on the expenditures directly attributable to the exercise of emergency powers. Now, that requirement is not sufficiently detailed. It should require more of a breakdown. It should also require the President to specify the particular actions that were taken. But even this minimal requirement of reporting expenditures has been honored in the breach. When it comes to declarations that rely solely or primarily on IEEPA, the responsibility for reporting has been delegated to the Secretary of Treasury, and the Secretary has, in fact, submitted those reports. You can find the notations of submission in the congressional record. When it comes to all other emergency declarations, it appears that the Executive Branch has not been submitting these expenditure reports for more than 20 years. There are no notices in the congressional record. Congressional committees that should have received these reports have been unable to find them. Reporters who have submitted the Freedom of Information Act (FOIA) requests have been told that there are no responsive documents. By all appearances, the Executive Branch has simply stopped complying, more than 20 years ago, with a statutory reporting requirement, and that is indefensible. It prevents Congress from doing the kind of oversight you are talking about. Senator Hassan. So, does the reform legislation, that you all have been talking, about address this? If the Executive Branch is just not doing it, do we just need to keep that portion of the Emergency Act as is and just figure out how to enforce? Ms. Goitein. The reform legislation does include enhanced reporting requirements, but it does not directly take on this issue of noncompliance. I think Congress might need to start thinking about actions that it can take. I would remind all of you that Congress has the power of the purse. Congress can provide, and it has done this in the past, that certain amount appropriated in funding bills will be withheld or reduced by 10 percent, 25 percent, if required reports are not submitted. Senator Hassan. Thank you for that. I now do want to go back to the broader topic, because a President's ability to declare a national emergency can play an important role in accelerating the delivery of resources to areas that need them. So there are times when it is the really appropriate thing to do, and we have all acknowledged that here. But Congress, obviously, needs to provide oversight and a check on these emergency powers. Under current law, national emergency declarations can continue on for long periods of time. Ms. Goitein, how many national emergencies remain open for long periods of time and how long are emergency declarations typically held open? Ms. Goitein. Right now there are 43 emergency declarations in effect. Most have been in effect for longer than a decade. Forty-three is a majority of the emergency declarations that have been declared since the National Emergencies Act was passed. There have been 79 emergency declarations, and 43 of them, most of them, are still in place. The longest running emergency declaration dates back to the Iran hostage crisis in 1979, and we have calculated that the average period of time for these emergency declarations is approximately 10 years. Senator Hassan. You all have talked about this some but I am just going to give you an opportunity. What does it mean for the scope of Executive authority if national emergencies can be left open for long periods of time, and what changes--again, you have talked about some of it, but we will just go down the panel. I would like you all to comment--what changes would you recommend? But start with just what does it mean for the scope of Executive authority? Ms. Goitein. What has happened is that this country is being governed in a State of perpetual emergency. We have these semi-permanent emergencies that displace the normal operation of law, and that is the status quo. That is extremely unhealthy for a democracy. More concretely, any time the President declares a national emergency, he or she has access to almost all of the 137 powers, most of which do not include any particular requirement that anything other than an emergency declaration be in place. Even if a national emergency declaration relates to one specific area of governance, dozens of emergency powers in multiple other areas of governance become available to the President. The temptation is to leave these declarations in place indefinitely because it gives the President access to such a deep well of powers. Senator Hassan. Mr. Thallam. Mr. Thallam. So think of it this way. In all those other emergency powers statutes, those are supposed to be delegations of authority in particular circumstances, time, and place. There is a robust argument about what is the scope of delegable authorities and so on, and we will kind of put that aside. But the point is Congress meant for those to only exist in certain circumstances, I would say at a very minimum time- limited circumstances. What they have effectively become is now just writ large authorities that have just been wholesale granted to the Executive. That is what you get. You get Congress trying to be judicious in saying we acknowledge that sometimes things happen you cannot foresee, and it would take too long, and in execution of the law the President should be able to do this thing. But now that is just in all time, in all places, in all circumstances. It self-defeats the Congress' Article I prerogative to decide when and where the Executive is supposed to have certain authorities. Senator Hassan. Just briefly if I could, Mr. Chair, from Mr. Healy. Mr. Healy. Sure. If you look down the list of 43 emergencies, you will see very few that are considered genuine emergencies, titles like referring to the situation in Burundi, or something like that. I think there is a problem with long- standing declarations dating back to 1979, even where they are relatively uncontroversial, in the sense that we have defined emergency down, and as someone put it, we are sort of cheapening the currency of national emergencies. A national emergency should be something akin to a war and unforeseen circumstances, a pandemic, an asteroid strike, and the effect of a long list of long-standing national emergency declarations, most of which do not seem to be genuine emergencies, I think undermines the seriousness of the concept. Senator Hassan. Thank you. Thank you, Mr. Chair. Chairman Peters. Thank you. Ms. Goitein, your research shows that Presidents have only recently begun to really push the bounds of the emergency powers in their policy priorities. My question for you is why do you think that is the case? Why are we really now seeing this recently where we did not see it before? Other two witnesses, feel free to chime in, as well. Ms. Goitein. Ms. Goitein. To be clear, there have been abuses of emergency powers in the past, but the most egregious abuses that we have seen in the last 100 years in this country have been based on claims of inherent constitutional authority, not statutory emergency powers. That was the case for the internment of Japanese Americans during World War II, for example. That was also the case with the torture of detainees after September 11, 2001 (9/11). When it comes to the powers available under the National Emergencies Act, there has been remarkably little abuse or misuse, other than IEEPA, which really has to be considered separately for some of the reasons that we have talked about. When Presidents have declared national emergencies it has been few and far between, and it has generally been in response to a sudden, unexpected crisis that required immediate action. The reason for this is really more of a description than an explanation, It has been a norm of self-restraint on the part of Presidents who have access to these powers. The problem with that is that once these norms are shattered they are extremely difficult to put back together. President Trump opened the door to abusing statutory emergency powers when he declared a national emergency to secure funding for the border wall after Congress had refused to provide that funding. President Biden nudged the door open a little bit more when he relied on emergency powers to forgive student loan debt, again after Congress has considered legislation to forgive debt and had not passed that legislation. We have had a norm that has protected us, and now that that norm has been set aside, I am concerned that we could see more of these misuses of emergency powers in the future. Mr. Thallam. I do not think I can draw a conclusion about the long sweep of history and the increased use of emergency powers, but I will say that in our time working on this issue at the Committee it was different emergencies that motivated both Democrats and Republicans on the Committee. I am in the weird position of speaking for people who are sitting on this very dais, which I think constitutes hearsay. But some of the Democrats on the Committee were interested in this topic by that border wall emergency. It crystallized this notion of creative uses of emergency power that seemed beyond what was delegated by Congress. On COVID, the student loan emergencies drew interest, especially from more the Republican side of the Committee or in Congress. I think the point is if you create a policy-neutral mechanism that is kind of a metalaw. I think what you do is you do not address a specific emergency. You are addressing the whole notion of emergency powers. That is one thing that I was proud to have been able to work on. Even though different Members of the Committee were kind of drawn to the legislation for different reasons or in response to different reasons, it arrived at the same answer. I would note during that time, nobody on the Committee that I spoke to raised an objection with the thrust of the legislation. There were disagreements about whether IEEPA should be included, and so on, but nobody disagreed that this was something that was not worthy of the Committee's time. Chairman Peters. Senator Rosen, you are recognized for your questions. OPENING STATEMENT OF SENATOR ROSEN Senator Rosen. Thank you, Chair Peters, Ranking Member Paul. This is a really important hearing and I appreciate the witnesses being here today. Of course, the National Emergencies Act, provides the President with 135 statutory powers when they declare a national emergency. The powers cover a wide range of a variety of critical areas, we have all talked about them, ranging to communications, transportation, public health, military power, and so on. While these powers, of course, can be helpful in the face of true emergencies, as we have heard in our testimony today, and your testimony today, they are also subject to potential abuse. It is therefore critical that we address the potentials for reform and we prioritize Executive accountability and preventing abuse of power. Ms. Goitein, during your testimony in the House last year you mentioned that there are no existing requirements that powers invoked by the NEA have to actually relate to the emergency declared, that they do not have to actually relate to the emergency declared. While considering potential reform options for the NEA, how should Congress ensure that Presidents do not abuse unrelated powers that could become available during emergencies? I found this pretty interesting. Ms. Goitein. The congressional approval requirement after a period of 30 days serves as a kind of meta-check on all forms of abuse, including using certain powers that do not even relate to the nature of the emergency, or a protextual emergency in order to gain access to other powers. But there are also versions of National Emergencies Act reform that explicitly require that the powers invoked must relate to the nature of, and be used only to address, the specific emergency that serves as the basis for the declaration. So that is another way to go about it more directly. Senator Rosen. Thank you. I appreciate that. When we think about whether something is germane and how we have accountability, when we think about reporting requirements, as well as Executive accountability for the use of these emergency powers, it must be a priority. But current law and practices make oversight and accountability nearly impossible. As you were just saying earlier, although there are existing reporting requirements for the NEA reports they can be difficult to obtain, and if they are available at all. These reports are essential to having congressional insight, oversight, into NEA declarations and terminations. Mr. Thallam, building on what Ms. Goitein was saying, based on your experience in the Executive Branch, how can you strengthen the NEA reporting requirement to ensure that powers are being used appropriately and transparently? We need to see these things. Mr. Thallam. That is absolutely correct. As Liza mentioned, in some of the reforms talking about there is a more explicit requirement for the declaration to be tied to the powers being invoked, and also reporting on those powers and how they are being used, and presumably how funds may be invoked or be changed in response to that. I think it is important to keep in mind also it is not that a lot of damage cannot be done in 30 days, if that were the default time limit, but it is not an unending amount of time, if you add an automatic sunset. It does not devalue Congress' role to do that oversight, which they are entitled to, but it makes it much less of a concern of years and years go by, and the administrator of that office that was in charge has now left, and the new people come in and say, ``I will get back to you when I get caught up,'' and that sort of kind of hand- waving that happens. It makes the issue that is being invoked, the emergency that is being responded to salient, and momentary in the long scheme of things, which also forces Congress to make a say, right, to take a stand, and that forces all of Congress to say, wait, what do we know about this, or what do we need to know about it, as opposed to a member of a committee that is looking at an emergency from 10 years ago and is trying to catch up. Getting everyone kind of in the same room, metaphorically, makes it harder for the Executive Branch to ignore. Senator Rosen. Right. That builds exactly on my next question, reevaluating existing emergencies. Of course, emergencies are happening every day. Just watch the Weather Channel and you see some tragic weather events happening. But as you all have noted here today there are currently over 40 ongoing national emergencies still in effect, dating back to the 1970s. Many of these emergencies remain necessary for U.S. national security. I get that. But as I understand there is little in current law forcing Presidents to reevaluate emergencies that have been on the books for decades. Something from the 1970s, perhaps, should be reevaluated. To each of the witnesses, in addition to reasserting congressional oversight of the use of NEA, what do you think we can really do to incentivize future administrations to assess the value of existing emergencies, and what can we do about it? They have gone on this long. Maybe there is some other legislation we need, if it international security interests, for example. Let's begin with Ms. Goitein, and then we will just go down the line. Ms. Goitein. Under all of the National Emergencies Act reform proposals that are currently pending before Congress, not only would emergency declarations terminate after 30 days unless approved by Congress, but every year after that, if the President wanted to renew the emergency for another year, he or she would again have to get congressional approval using expedited procedures. That does two things. First of all, it enables Congress to act as a check. That is the most important thing. But it also forces the President to examine the powers that the President has been using, to examine the success of those powers or the failure of those powers, to examine whether the conditions leading to the original emergency declaration are still in place or whether they have changed--to do that analysis, to determine whether continuation of emergency powers is really necessary or whether the emergency declaration can simply be withdrawn, or whether what is needed is new legislation, a new permanent authority to deal with a circumstance that may have become a new normal. Senator Rosen. That is right. Ms. Goitein. I think that particular reform is not only a check that Congress can apply. It also forces some discipline on the part of the Executive Branch. Senator Rosen. Thank you. Mr. Thallam. Mr. Thallam. I think what we see, over time, has been a lot of ceding of foreign policy to the Executive Branch, and I think generally most folks think that is kind of the purview, an area that the President has. But, for instance, our posture toward Iran, this is of national interest, and it probably should not be subject to an ongoing, ``emergency'' policy. I guess I do not have a good answer of how to force the President to table, any President, but that should be a matter for congressional deliberation and consideration. If that should be a permanent policy, but for a change of regime, for instance--I am not a foreign policy person--that should be a deliberation that happens between the Executive Branch and the government. We cannot have a 40-year emergency. If that should be a permanent policy then we have gone from emergency response to just good old-fashioned policymaking, and that is supposed to be an Article I prerogative. I guess I am kind of hand-waving a little bit. I do not know how to force that discussion, but Congress should be asserting that and saying, ``We may even agree with you, Mr. President, but we need to have a say, and we need to go through the process to approve it and make it explicit.'' Senator Rosen. Thank you. Mr. Healy. Mr. Healy. Yes, I think what you tend to see is, with the exception of the COVID-19 emergency that was actually repealed legislatively, you have most of the time it is the President proposes and the President disposes, and maybe gets rid of some long-standing emergency declarations when international conditions have changed. Again, I think that has the effect of devaluing the currency and seriousness of emergency. If you have a list of 43 emergencies, and a normal person would only recognize two or three of them as emergencies, I think that is a problem. I think at some stage, whether it should be done as part of the same package or not, but at some stage since the bulk of these are IEEPA-related emergencies, I do think putting them under a time limits and an approval requirement would force some scrutiny from the Legislative Branch and the Executive Branch, as well, about whether to reapprove some long-standing emergencies. Senator Rosen. Thank you. I appreciate it. Thank you, Mr. Chair. Chairman Peters. Ranking Member Paul, you are recognized for your questions. Senator Paul. I would like to have a stab at answering your question about when do the emergencies arise, and I would probably put it together, when did the emergency of a strong central Executive arise? At some point, all the way back to the Civil War, many would way the 20th Century. Many would say the Great Depression. But without question the Executive has grown in power, and Congress has diminished in power over the last 100 years. Part of that is emergency power and part of that is many other things. Most of the questions I get about a regulation of this business or that business, we never voted on, and this has been a big question now between the Supreme Court on Chevron deference, whether or not we write the regulations or we just give broad frameworks, and regulatory agencies write all the regulations. But I would say it is a long-term trend and emergency powers is part of that. The argument has been made that this is a common argument around here, and I disagree with that. Leave IEEPA out. Leave everything else out because this is popular and we can get it in. It is possible there are other really important things, maybe more important, but they just cannot pass. I would argue that sometimes something is so popular that other issues that are related can be discussed and may well be accepted. All three of you said that the internet kill switch is probably the most important and possibly abused power. It has not been used, but it could be so devastating that someone could become dictator, basically. You control all the communications in the country. You could become dictator in a day, in a moment, in one Executive Order (EO). We have that in our bill, for reform. We have it in there. You also, in a degree. I think there is a lot of agreement up here on getting rid of the internet kill switch. So why sell it short? Let's not say we are only going to do this one thing. Yes, the most important thing is changing from where we have to override a veto to kill and emergency. We have to have a two- thirds vote. That is way too high a burden. We need to get it back to that it expires, and then we can then vote. But let's not sell ourselves short. Let's have a real robust discussion. Let's just don't say, ``Oh, I am against the internet kill switch but this just isn't the time, so I am going to vote no because we will do it some other time.'' Some other time never comes. So now is the time. The general category they all fit are emergencies. I would argue, and I would agree with Ms. Goitein, the Insurrection Act is a thousand times more potent and has the potential for turning the place into military rule overnight that it is more important than any of the four emergencies that we fix with changes. I am for fixing it so all these emergencies expire and that we have to reaffirm them. That is a great reform. But the Insurrection Act is probably more deadly and more powerful than anything we are discussing today. So we actually have that in my reform bill. I know I am not going to get everything I want, but let's talk about it now. We are talking about emergencies. My Insurrection Act reform would simply say a President cannot send the military anywhere without the approval of Congress. I am really not for sending the military domestically. I really do not think the military should ever be used domestically. If we are going and handing out water or preventing a foreign invasion, or in a time of a hurricane, maybe. Our soldiers are great but they are not trained to obey the Fourth Amendment. Our police are, and even that is imperfect. But our police know about the Fourth Amendment. They know they have to get warrants. Armies do not get warrants. It is a potential for a huge disaster. So we should have a debate over the Insurrection Act. Maybe we can do it in a separate hearing, in a separate bill, but we can at least bring it up on this, and if I get a chance, that is one thing that I will want us to vote on. Take a stand. Do you think the President should be allowed to send the military into our cities? I think no. The approval of the Governor is not enough. I can imagine a Governor that makes a bad decision too. That is two people that have made a decision to have military rule in an area. Then if it does not expire it can go on forever. The Insurrection Act should also expire too. I think from the very outset troops should not go in without our approval, but even if that happens, it should expire in a short period of time. The problem with giving 30 days for the Insurrection Act and patterning it on the emergency is 30 days is a long time to have troops in your cities. I would say none. I would not allow troops to go in at all without an affirmative vote at that time of Congress to allow troops to go in, and I would almost assuredly vote no on that, for anybody. We have police. The police are very well armed. The police deal with riots in our cities, and that is the way we should deal with it, because it is a tough job to figure out due process for people and figure out the difference between protests and riot and between violence and how we deal with it. I would just argue let's be more open-minded to talking about the Insurrection Act. I would say that the internet kill switch, I think we can get some bipartisan support for just getting rid of that. Most people are horrified. You tell any of your constituents that the President could shut it down--and it works both ways. The left may go home and say, ``Oh, Trump is going to do this,'' and the right goes home and says, ``Biden is going to do this.'' I do not want anybody to do this, and no one should have ever been given the power to shut down all transmissions. Now I have heard from some people who say, ``Oh well, what about sending out emergency broadcasts,'' or something. That is not what this is. I do not think we need to have this power to send out emergency broadcasts if there is a hurricane coming or something. Anyway, I would just argue for being more inclusive and not limiting ourselves to only one thing. Even if the others cannot pass. I may not get my way on IEEPA, but if we can only do four emergencies and we leave all the other IEEPA out there, I am skeptical if the sanctions work, but those who like sanctions, vote on it. They are stronger. You can actually vote on it. Let them expire in six months. The President does them. Let them expire. We do not have to do each one. Bulk them into the emergencies. Do all Russia's together, all China's together. But then if you think sanctions work, they are stronger having been voted on by Congress. I am open to response to anybody who wants to argue with me that we should limit this only to one thing. Mr. Thallam. I would never. Senator Paul. Don't politick it. Mr. Thallam. But I would note, we speak of the 2019 reform that we worked on in this Committee, that you both voted on and participated in. It is kind of shorthand that we speak about it as having carved out IEEPA, and I think in one sense that is true. But it actually did pull in and remove the authority not just as a sunset but removed the authority, pursuant to IEEPA, for the President to unilaterally impose tariffs and rate quotas. So that is a small piece. That is not everything you are talking about. Senator Paul. Senator Carper's piece was included in that? I think it was an individual bill on that. Mr. Thallam. I believe it was Senator Portman and, yes, maybe Senator Carper. It was offered as an amendment and I think it was wrapped into the base tax. Now, that is not all of IEEPA. That does not address what you are talking about. But it showed that you can at least pull in some of the authorities that you are concerned about. I just do not want my testimony here today to be thought of as just do not touch IEEPA, just go forward. I am saying you can. I just want to caution, just based on my experience here as a witness to say that is what I experience. I am almost certain that if we had tried not to carve out any part of IEEPA, the bill would have languished--which we did not pass anyway. Senator Paul. You just realized the frustration on our side. I get this all the time. I will have people on the floor, and we will get to an amendment finally on the floor, and they say we have agreed to have no amendments. Yours is a perfectly good amendment, young man, and at any normal time we would be for you. But this time we are against you because we made a deal, no amendments. You know what I mean? We just need to be more open minded and not limit ourselves. I will not get everything I want. I will not get all these things reformed. But let's don't preemptively say we cannot. I appreciate your comments. Anybody else? Ms. Goitein. Yes, I want to be very clear. I am not saying let's do this one thing because it is here, we can get it done, and forget about the rest. The Brennan Center is actively advocating for reform of the Insurrection Act. We have a detailed legislative reform proposal. We are actively advocating for reform of IEEPA. We have a detailed legislative reform proposal. We are looking at the Communications Act. I am not entirely sure that full repeal is the right solution there. It might be. I think it is going to be important to look at whether some very dramatically narrowed version of that power might be needed in cases of, say, cyber attacks. Again, this is something we are looking into right now. We might ultimately support repeal. But anyway, these are issues that I consider to be incredibly important, top priorities. But I do think that on the substance, in terms of what needs to be done with these authorities, they have to be dealt with differently and separately. Now, I suppose you could say, let's just write the reforms for each of those and tack it onto National Emergencies Act reform legislation. But that work has to be done, and it has not been done yet--the work of gathering the coalition, the consensus, the markup that was held on National Emergencies Act reform, the tire-kicking that has happened over these past few years. Senator Paul. I do not think it will be, but I would suggest trying to come to a conclusion on the internet kill switch. This is a chance. It might be five years. It might be 10 years. It might be never. When you have a chance, go for it. You all said it was the most important power you would actually remove, so come to a conclusion on it. If you want a carveout for putting out PSAs on there is a hurricane coming--I do not think you need that. I think that is probably done through other legislation. It is actually mostly voluntary. Believe it or not, people will do things voluntarily in a crisis. Plus most people do not get it from government anymore. I mean, your warnings are mostly outside of government for emergencies. But anyway, come to a conclusion on this because if we want to bring this up in a month, we just do not want your Center, which is on our side of this, to be against including the internet kill switch. Just be open-minded if you can come to a conclusion, and try to come to a conclusion. On the Insurrection Act it is unlikely to be, but I believe in having votes on stuff. I will have a vote on the Insurrection Act, and I think it is different. It will not be the same reform as the NEA. It has to be more strict than the NEA because you are talking about putting troops in our cities. I think troops in our cities should be a vote of Congress, no matter how good the cause is. There are so many other ways to deal with emergencies beyond having an army in our cities. Ms. Goitein. If I could say one last quick thing. You refer to the four emergency declarations. I think it is actually three right now. One was terminated. So there are three emergency declarations that do not relate to IEEPA that are currently in place. I want to be clear. Those three emergency declarations are not the ones I am most worried about. It is the ones that have not been declared yet. I do not think we should downplay the significance of passing National Emergencies Act reform, even if it does not address IEEPA, because there are untold declarations that could happen in the future. As Mr. Thallam says, it is the powers you have not thought about yet. That is what we are preventing through this legislation. Senator Paul. Mr. Healy, can you close this out? Mr. Healy. Yes. I do not think anyone wants my advice on the politics of it, and it is not worth much, frankly. But I do see the merit in taking a broad approach to this and to deal with at least a few of the biggest substantive concerns. Again, discounting my political advice for what it is worth--it is not what I am here to testify on--but I think we all agree that the 1934 Communications Act provisions are a huge concern, and I think at this moment, when there is bipartisan interest in emergency power reforms, that some of the more dangerous--it is about what Satya said. The ones we are not thinking about are important, but some of the ones that you would pick out, if there is an opportunity to tackle them and reform those powers, are also worth addressing. Chairman Peters. One final question for you, Mr. Thallam, and others can have their opinion, as well. The reform proposals that are right now before us allow Congress to approve an emergency for a set period of time. At the end of that period then Congress can renew the emergency with another vote. My question is what do you think is an appropriate amount of time for a national emergency to last before it needs to be renewed by Congress? Mr. Thallam. This was subject to some deliberation also at the Committee when we were considering these. This is a prudential question, and this is exactly the kind of thing that Congress is supposed to figure out. On some level, look, it is arbitrary, because you are setting a time limit that is not correlated to the actual emergency in that time. But I think anything more than 60 days, you are going to a quarter of a year, 90 days, that is not an emergency. Again, I guess the point is less about what is the appropriate specific time limit and more about Congress should have to weigh in, and continue to weigh in if it is extended. That is a policymaking muscle that Congress has not exercised in a long time. I think somewhere between 30 and 60 days is appropriate. Chairman Peters. Other thoughts? Ms. Goitein. I think 30 days, which is the amount of time in most of these reform proposals. It is a sensible amount of time. It gives the President enough time to implement at least the first wave of whatever actions the President is going to take in response to the emergency. It gives Congress time to see how the President is addressing the emergency, how the emergency is unfolding. Then Congress can weigh in. If Congress extends the emergency then it would go back to the usual yearly renewal, but instead of the President being the one to renew the declaration unilaterally, Congress would again have to approve it. Now some versions of National Emergencies Act reform also include a five-year cap on the total amount of time that an emergency declaration could be periodically renewed by Congress. The idea behind that is to prevent this phenomenon of permanent emergencies. Five years into an emergency, it is not an emergency. It is a new normal. Arguably it should be addressed through permanent authorities. If existing emergency authorities are not sufficient, then Congress should be passing new ones. So that is another feature of some of these reform proposals that is worth consideration. Chairman Peters. Very good. I would like to thank Ranking Member Paul for holding this hearing with me here today, and I would also like to thank each of our witnesses for joining us and sharing your insights. I think it was a very fruitful discussion. Certainly expanding congressional oversight of national emergencies is absolutely critical to ensuring a healthy balance of powers, as envisioned by our country's founders. As we heard today, Presidents have very broad authorities that could be misused. At the same time, the Federal Government also must be able to rapidly and effectively respond to various types of emergencies. But as I believe our three witnesses explained today, there are some commonsense reforms that would strengthen Congress' role in exercising oversight of these emergency powers. I certainly look forward to working with Ranking Member Paul and other Members of the Committee to advance legislation that incorporate the bipartisan reforms that we have heard about today, and I would say nonpartisan reforms is probably a better way to characterize it, and we will be working diligently to make that happen in the coming months. The record for this hearing will remain open for 15 days, until 5 p.m. on June 6, 2024, for the submission of statements and questions for the record. This hearing is now adjourned.  A P P E N D I X ----------  
+RESTORING CONGRESSIONAL OVERSIGHT
+OVER EMERGENCY POWERS: EXPLORING
+OPTIONS TO REFORM THE NATIONAL
+EMERGENCIES ACT
+----------
+WEDNESDAY, MAY 22, 2024
+U.S. Senate,
+Committee on Homeland Security
+and Governmental Affairs,
+Washington, DC.
+The Committee met, pursuant to notice, at 10 a.m., in room
+SD-342, Senate Dirksen Building, Hon. Gary Peters, Chair of the
+Committee, presiding.
+Present: Senators Peters , Hassan, Rosen,
+Blumenthal, Ossoff, Paul, Scott, and Marshall.
+OPENING STATEMENT OF SENATOR PETERS\1\
+Chairman Peters. The Committee will come to order.
+When a crisis unfolds, our government needs to be able to
+respond quickly. Whether it is a pandemic, extreme weather, or
+a foreign attack, we must be ready to protect the safety and
+security of our citizens. In order to act quickly when disaster
+strikes, Congress has given the President broad emergency
+powers.
+---------------------------------------------------------------------------
+\1\ The prepared statement of Senator Peters appears in the
+Appendix on page 29.
+---------------------------------------------------------------------------
+Most emergency powers have never been used, but they could
+potentially bring sweeping changes to our government, economy,
+and society. These powers could allow the government to take
+over communication channels, control transportation systems,
+halt trade with other countries, and more. Without an
+appropriate check from Congress, there is a risk that these
+powers could be misused or abused.
+That is why Congress passed the National Emergencies Act
+(NEA) in 1976. This legislation gave Congress the power to
+conduct oversight over these powers, including a mechanism to
+quickly end a national emergency. But after a 1983 Supreme
+Court decision, the National Emergencies Act had to be amended,
+and the mechanism for Congress to end a national emergency was
+weakened. It now requires a veto-proof two-thirds majority in
+both chambers of Congress.
+In other words, there is an imbalance of power. It is easy
+for a President to declare a national emergency, but very hard
+for Congress to end one.
+We have seen Presidents of both parties increasingly use
+emergency powers. In cases like the Coronavirus Disease 2019
+(COVID-19) pandemic, this was necessary to protect our economy
+and public health. In other cases, recent Presidents have used
+emergency powers to attempt to advance their policy goals,
+often in areas where Congress should be providing input and
+oversight.
+Reforming the National Emergencies Act is not about
+thwarting the policy goals of either party. It is about
+strengthening our democracy, and ensuring Congress maintains
+its responsibility to oversee Executive power.
+We have had bipartisan support for this reform in the past.
+I am hopeful that we can build on that progress, and am looking
+forward to considering legislative options that can advance in
+this Committee, this Congress.
+We must examine how we use our current national emergency
+power authorities, and ensure that Congress can effectively
+oversee emergencies. Today's hearing, and our panel of expert
+witnesses, will help us do that, and I look forward to the
+discussion.
+Now I recognize Ranking Member Paul for his opening
+remarks.
+OPENING STATEMENT OF SENATOR PAUL
+Senator Paul. In 1867, a journalist named Walter Bagehot
+explained that in Britain the monarchy in the House of Lords no
+longer exercised true governing authority, that the real work,
+the real power of government was done by the House of Commons
+and the Prime Minister. In contrast, the United States has
+allowed the majority of governing power to remain in the
+Executive Branch. In some ways, the United States of America
+(USA) is a monarchy in disguise.
+The United States maintains the veneer of a constitutional
+republic, but often operate as an elected monarchy in which the
+President exercises awesome and unchecked power by decree.
+Today the President can unilaterally determine when and how to
+unlock and exercise extraordinary powers not permitted during
+normal operations. Once the President simply declares an
+emergency, emergencies are rarely terminated. The national
+emergency declared in reaction to the 1979 Iranian hostage
+crisis is still in effect to this day.
+Some powers are so inimical to the concept of
+constitutional republic that they could never have been granted
+to the President, or should have never been granted to the
+President in the first place. One such emergency power,
+pursuant to the Communications Act of 1934, gives the President
+nearly unchallenged authority to restrict access to the
+Internet, conduct email surveillance, and control computer
+systems, television, and radio broadcasts, and cellphones.
+President Woodrow Wilson actually used a similar power three
+times during World War I.
+These laws were written for a different time, but this
+power, which some refer to as the ``internet kill switch,''
+threatens the rights protected by the First and Fourth
+Amendments as well as property rights, simply by declaring an
+emergency. This dangerous imbalance of constitutional
+separations of powers is not simply aggrandizement by the
+Executive Branch. Congress has been complicit and made itself a
+feckless branch of the Federal Government by granting the
+President so many emergency powers and refusing to regularly
+vote on termination of national emergencies as required by
+current law.
+We do not have to accept as inevitability the degeneration
+of a republic into a rule by an all-powerful Executive. We do
+not have to be a monarchy disguised as a republic. It is time
+for Congress to restore itself as the first among equals of the
+branches of government, as envisioned in the Constitution.
+I hope this hearing marks only the beginning of a serious
+and sustained effort to restore the Constitution, reclaim the
+authority of Congress, and protect the liberties of the people
+by paring back the vast emergency powers delegated to the
+President.
+Chairman Peters. It is the practice of the Homeland
+Security and Governmental Affairs Committee (HSGAC) to swear in
+witnesses, so if each of you will please stand and raise your
+right hand.
+Do you swear the testimony that you will give before this
+Committee will be the truth, the whole truth, and nothing but
+the truth, so help you, God?
+Ms. Goitein. I do.
+Mr. Thallam. I do.
+Mr. Healy. I do.
+Chairman Peters. Thank you. You may be seated.
+Our first witness is Elizabeth Goitein, and she is the
+Senior Director of the Liberty and National Security Program at
+the Brennan Center for Justice. Prior to that role, she served
+as Counsel to Senator Russ Feingold and as a trial attorney in
+the Federal Programs Branch of the Civil Division of the
+Department of Justice (DOJ).
+Ms. Goitein is a nationally recognized expert on
+Presidential emergency powers, government surveillance, and
+government secrecy.
+Ms. Goitein, thank you for being before us here today, and
+you are recognized for your opening comments.
+TESTIMONY OF ELIZABETH GOITEIN,\1\ SENIOR DIRECTOR, LIBERTY &
+NATIONAL SECURITY PROGRAM, BRENNAN CENTER FOR JUSTICE, NEW YORK
+UNIVERSITY SCHOOL OF LAW
+Ms. Goitein. Chair Peters, Ranking Member Paul, and Members
+of the Committee, thank you for this opportunity to testify.
+---------------------------------------------------------------------------
+\1\ The prepared statement of Ms. Goitein appears in the Appendix
+on page 30.
+---------------------------------------------------------------------------
+The legal framework for emergency powers in this country is
+in urgent need of reform. It grants the President sweeping
+powers, some of which seem like the stuff of autocratic
+regimes, with few safeguards against abuse. Fortunately, there
+is a ready way for Congress to build a meaningful check into
+this system.
+Emergency powers have existed in countries around the world
+for hundreds of years. The theory behind them is simple.
+Because emergencies are, by definition, unforeseen and
+unforeseeable, the powers conferred on the government by
+existing laws might be insufficient to address them. But
+amending the law to provide greater powers might take too long
+and might do damage to principles that are held sacrosanct in
+ordinary times.
+Emergency powers thus authorize a limited departure from
+the legal norm. Their purpose is to give the head of State a
+temporary boost in power until the emergency passes or until
+there is time to change the law through the normal political
+process.
+Many countries have emergency powers written into their
+constitutions. The U.S. Constitution is an outlier. It grants
+no explicit emergency powers to the President, so Presidents
+have, for the most part, relied on Congress to provide them.
+About a century ago, a system evolved where Presidents
+would declare a national emergency, and that declaration would
+trigger special powers contained in a whole range of statutes,
+all of which say something like ``in a national emergency, the
+President can do X.'' But there was no overarching statute
+governing this system. The President did not have to identify
+the powers he was invoking, he did not have to report to
+Congress, and there was no limit on how long emergency
+declarations could remain in place.
+Congress passed the National Emergencies Act in 1976 to
+rein in Presidential power. It attempted to do that in three
+main ways. First, it provided that emergency declarations would
+expire after a year unless the President renewed them; second,
+it allowed Congress to terminate emergency declarations using a
+legislative veto, a law that goes into effect without the
+President's signature; and third, it required Congress to meet
+every six months while an emergency declaration was in effect
+to consider a vote on termination.
+By any measure, the National Emergencies Act has failed to
+achieve its purpose. Expiration of emergency declarations after
+one year, which was supposed to be the default, has become the
+rare exception. There are 43 emergency declarations in place
+today, most of which have been in effect for over a decade. In
+1983, the Supreme Court held that legislative vetoes are
+unconstitutional, so now Congress effectively needs a
+supermajority to terminate a declaration over the President's
+likely veto. For more than 40 years, Congress simply ignored
+the requirement to periodically review existing emergencies.
+Why should this worry us? Because an emergency declaration
+unlocks powers contained in more than 130 statutory provisions,
+and some of these carry enormous potential for abuse. There is
+a law that allows the President to take over and shut down wire
+or radio communications facilities. It was last invoked during
+World War II, when wire communications meant telephone calls or
+telegrams, and most American households did not even own a
+telephone. Today, it could arguably be used to exert control
+over U.S.-based internet traffic.
+Other laws allow the President to freeze Americans' assets
+without any judicial process, to control domestic
+transportation, and even to suspend the prohibition on
+government testing of chemical and biological agents on
+unwitting human subjects.
+Given how potent these powers are, it is remarkable that
+there has not been more abuse. We have been lucky. But it would
+be irresponsible to continue to rely on luck or Presidential
+self-restraint. Congress should pass legislation to restore its
+role as a check on these powers. There are several bills
+pending before Congress right now, broadly supported by
+Democrats and Republicans, that would require emergency
+declarations to terminate after 30 days unless approved by
+Congress using expedited procedures. This simple, commonsense
+change would give Presidents flexibility when it is most
+needed, in the immediate aftermath of a crisis, while still
+allowing Congress to step in and serve as a backstop against
+Executive overreach or abuse.
+Thank you, and I look forward to your questions.
+Chairman Peters. Thank you.
+Our second witness is Satya Thallam. He is a Senior Fellow
+at the Foundation for American Innovation. Mr. Thallam is a
+policy expert and an advisor on administrative law, regulatory
+policy, and emergency powers. Previously he was a senior policy
+official at the Office of Information and Regulatory Affairs
+(OIRA) under President Trump. He also served as the Chief
+Economist on the Senate Homeland Security and Governmental
+Affairs Committee--I am familiar with that Committee--serving
+under Chair Johnson.
+Welcome back to HSGAC. You may proceed with your opening
+comments, Mr. Thallam.
+TESTIMONY OF SATYA THALLAM,\1\ SENIOR FELLOW, FOUNDATION FOR
+AMERICAN INNOVATION
+Mr. Thallam. Thank you, Chair Peters, Ranking Member Paul,
+and Members of the Committee. Thanks for your invitation to
+testify and return to a place I consider a second home. My name
+is Satya Thallam. You have my bio. But as was mentioned is most
+pertinent, I was four or five years a senior staffer at this
+very Committee where the final bill that I managed was a
+proposed reform to the National Emergencies Act. I did that
+before I left, which, as was alluded to in your opening
+statement, was reported favorably by voice vote at the time.
+---------------------------------------------------------------------------
+\1\ The prepared statement of Mr. Thallam appears in the Appendix
+on page 61.
+---------------------------------------------------------------------------
+I will forego restating much of what has been and will be
+said by my esteemed colleagues, especially since I could
+probably just copy and paste the Chair and Ranking Member's
+opening statements and just enter that into the record because
+I agree with all of it. But I will remark on a couple of
+comments.
+First, the National Emergencies Act is a thoughtful
+solution to a problem of Congress' own making. Like many things
+in both Executive and congressional practice, sometimes one-
+time circumstances prompted one-time responses. But over time
+those policy responses buildup without any systemic
+consideration of their total effect.
+Indeed, powers meant to be exercised only in the case of an
+emergency have been observed since before the country's
+founding. The Federalist Papers speaks of powers needed to
+address, ``national exigencies.'' In 1776, General Washington
+observed ``desperate diseases require desperate remedies.''
+When the Continental Congress, needed to flee Philadelphia,
+empowered him with, ``full power to order and direct all things
+relative to operations of the war.''
+Of course, the word ``emergency'' does not appear anywhere
+in the Constitution, and yet Congress, as the sole lawmaking
+branch, has deemed it necessary to grant emergency powers
+across hundreds of duly enacted statutes, the conceit being
+that the Executive, in execution of the law in the public
+interest, will need to respond to uniquely emergency
+situations, though that delegation should be cabined by
+congressional say-so.
+I would note although the NEA is definitely in need of an
+update, owing to an unforeseen judicial decision, its basic
+structure is sound and is appropriate for Congress to re-
+examine it to better assert Article I prerogative.
+Second, a conceptual note, if you will bear a slightly
+tortured metaphor. Think of the National Emergencies Act not as
+the direct grant of emergency power itself but as a key which
+unlocks a vault in which is enclosed the actual instruments of
+emergency response. That is, Congress, when authorizes through
+other statutes emergency powers, adds to the tools in the
+vault. The problem is that there is no timer on this vault, nor
+easy, plausible way to take back the key.
+Another central conceit. Emergencies are, by definition,
+unpredictable, but they should also, by definition, be time
+limited and self-evident. Therefore, Congress does not need to
+run down the impossible task of prescribing every possible
+emergency but rather ensure it has the means to have its say
+with respect to emergency declarations and the attendant
+emergency powers based on those generalized aspects.
+However the Committee decides to proceed, the sweet spot
+for any reform is one that is, on its face, policy neutral and
+designed to service only the interests of Congress' lawmaking
+role, vis-a-vis the President, rather than any particular
+political agenda.
+Thank you, and I look forward to your questions.
+Chairman Peters. Thank you.
+Our third witness is Gene Healy. He is the Senior Vice
+President for Policy at the Cato Institute. His research
+interests include Executive power and the role of the
+presidency as well as federalism and overcriminalization.
+Mr. Healy, welcome to the Committee. You may proceed with
+your opening remarks.
+TESTIMONY OF GENE HEALY,\1\ SENIOR VICE PRESIDENT FOR POLICY,
+CATO INSTITUTE
+Mr. Healy. Thank you. Chair Peters, Ranking Member Paul,
+and distinguished Members of the Committee, thank you for the
+opportunity to testify today. As my fellow witness, Ms.
+Goitein, mentioned, upon assuming office the President now
+enjoys access to over 230 statutory powers that he can activate
+in a self-declared national emergency. Most of them could be
+triggered simply by saying the magic words and putting a
+signature on an emergency declaration.
+---------------------------------------------------------------------------
+\1\ The prepared statement of Mr. Healy appears in the Appendix on
+page 67.
+---------------------------------------------------------------------------
+My other co-panelist, Mr. Thallam, suggests that we think
+of these powers as tools contained in a vault. I like that
+metaphor but in some cases for ``tools'' I would substitute
+``weapons.'' The original national Emergencies Act was an
+attempt, as he says, to safeguard that vault and time-limit the
+President's access to the weapons that it holds. But when the
+NEA framework collapsed in the mid 1980s, the vault door swung
+open, and since then the only thing keeping Presidents from
+raiding the arsenal is their sense of self-restraint.
+In that light it actually really is remarkable that we have
+not seen far greater abuses, despite the lack of meaningful
+legal checks on these powers. Up until now, according to the
+Brennan Center's research, nearly 70 percent of these powers
+have never been triggered, at least not yet.
+But over the last two administrations, we have seen that
+whatever norms once restricted the use of Presidential
+emergency power have eroded. For instance, in decades past no
+President seems to have imagined that you could tap into that
+arsenal to do an end run around Congress in a budget fight, but
+that is precisely what President Trump did in February 2019,
+when he declared a national emergency in order to build a wall
+on the Southern border.
+Nor does it seem that any prior President imagined he could
+invoke emergency powers to permanently cancel hundreds of
+billions of dollars in student loan debt without authorization
+from Congress, but that is what President Biden attempted with
+another emergency proclamation in August 2022.
+As my colleagues have suggested, the way to resecure the
+emergency powers vault is pretty straightforward. It involves
+amending the National Emergencies Act to impose an ``approve or
+expire'' framework, sunsetting Presidential emergency
+declarations after a matter of weeks, and requiring actual
+authorization from Congress to extend them further.
+Those process reforms are essential, but I would like to
+suggest that the Committee consider substantive reforms, as
+well, in addition to thinking about how to safeguard the vault,
+taking a look at the arsenal that is within it. If there are
+weapons in that vault that the President does not need, weapons
+that are especially susceptible to abuse, consider taking them
+off the shelves.
+For instance, any comprehensive effort at emergency powers
+reform will ultimately have to deal with the International
+Emergency Economics Powers Act (IEEPA), at some point. That
+1977 law has been the source of nearly 90 percent of emergency
+declarations historically, and over 90 percent of the ones
+still in effect today.
+While most of these have been fairly uncontroversial, and
+not actually emergencies, the vast powers that IEEPA grants are
+particularly susceptible to abuse. For instance, in the months
+after he declared the border wall emergency, President Trump
+twice threatened to weaponize the statute against major U.S.
+trading partners, first against Mexico with a series of across-
+the-board tariffs that would go into effect unless they cracked
+down on cross-border migration, and shortly after that the
+President cited the statute as authority for hereby ordering
+American companies to get out of China. Thankfully, the
+President did not follow through on those threats, but if a
+future President does it is not at all clear that the courts
+will stop that action.
+Even more concerning, nothing in the statute prevents it
+from being turned against American citizens. Such uses have
+been rare, but they are potentially available. Substantive
+reforms in these areas could include barring IEEPA's use as a
+trade war weapon, restricting its use to directly target
+Americans, as well as shoring up due process protections for
+any United States person caught up in the statute's sweep.
+In conclusion, any of these reforms would provide a better
+check on abuse of power than depending on Presidential self-
+restraint. It should be clear by now that that is far too weak
+a check.
+I thank the Committee for its attention to this important
+issue, and I look forward to your questions.
+Chairman Peters. Thank you.
+Mr. Thallam, most reform efforts to the National
+Emergencies Act propose that Congress affirmatively approve
+each national emergency. My question for you is, what is the
+value of having Congress approve rather than disapprove each
+emergency? Mr. Healy, I want you to weigh in on this too,
+please. Mr. Thallam.
+Mr. Thallam. I think I would slightly modify that. In the
+first instance, most of the proposals do not require Congress
+to approve but for a certain time limit, so after a certain
+period, so 30 to 60 days, it would require Congress to approve
+any extension of that. In the failure of Congress to decide to
+extend it, it would be ended by default.
+I think, again, the original NEA had a disapproval
+mechanism that got around the Presidential veto, but of course,
+I do not believe the authors anticipated a court decision that
+would invalidate that structure.
+I think the original authors of the National Emergencies
+Act, if they were addressing this issue now, would do what is
+in many of the recent proposals, which is, by default, Congress
+has to assert its approval or the emergency ends by default. I
+think disapproving is just a much higher barrier, and it is
+what we result in now.
+Chairman Peters. Ms. Goitein, I am going to want you to
+weigh in, too, but Mr. Healy?
+Mr. Healy. Yes, I think that is right. I think the
+frameworks for emergency powers reform that we see now reflect
+the Chadha decision, getting rid of the legislative veto. All
+the Protecting Our Democracy Act, Article I Act, the other
+bills that have been proposed are based on an approve-or-expire
+framework in which the President will have 30 days, in the case
+of a genuine national emergency, to unlock these powers. But if
+the emergency persists and these powers are thought to be
+necessary, this weapon is supposed to remain available, then
+Congress has to vote.
+I think the shape of the statutes we see are a reflection
+of what the Supreme Court did in Chadha, and a way to give them
+that decision to reassert Congress' authority over these
+matters, rather than what has happened since 1985, with the
+removal of the legislative veto, we are really in an upside-
+down constitutional situation where the President proposes, and
+essentially the President disposes, and it takes a veto-proof
+supermajority for Congress to reassert its authority. These are
+designed to turn the emergency powers practice right-side up.
+Chairman Peters. Very good. Ms. Goitein.
+Ms. Goitein. I agree with what has been said. It is
+important to remember also that a national emergency
+declaration gives the President access to truly extraordinary
+powers and to a degree of flexibility and discretion that would
+not be appropriate during ordinary times, and that Congress has
+not chosen to give the President during ordinary times. For
+that reason, Congress wanted to make it easy to exercise some
+restraint on the President if the President abused those
+extraordinary powers. That is why Congress chose the
+legislative veto mechanism.
+Now that that is off the table, the existing mechanisms for
+disapproval require such a high bar that they stack the deck
+very much in favor of the President and against Congress. It
+throws the balance of power out of whack.
+The closest way to approximate the balance of power in the
+original National Emergencies Act is the mechanism that has
+been proposed in these reform bills, which is an automatic
+expiration period of approximately 30 days--in some cases I
+think it is 20, depending on the bill--unless Congress votes,
+using expedited procedures, which means that it would be a
+simple majority vote, where any member could force a vote. This
+would prevent obstructionism. Congress would be voting, and a
+simple majority would carry the day. It would put Congress back
+in the position of being able to exercise a check on these
+extraordinary powers.
+Chairman Peters. Very good. It is important for these
+reforms to be nonpartisan, to understand that we are talking
+about Executive power regardless of who is in that office and
+what party they may be from. We have three experts, three of
+you here before us today, and I would just like to get a sense,
+and to all of you, so anyone who wants to chime in, do you
+believe that there is a bipartisan consensus among experts,
+among policy experts, as to how we reform the National
+Emergencies Act, and how would you characterize that right now?
+Whoever wants to go first.
+Mr. Thallam. This is self-selecting among experts I have
+spoken to. There is widespread agreement. I think the folks who
+have written and studied this issue agree with this central
+conclusion that the NEA, as structurally intended, was fairly
+thoughtful, but for an unforeseen judicial decision it rendered
+it fairly inert. The best way to address that is with a reform
+that inverts the structure.
+I would also note it is helpful to think of these reforms
+as not just purely oppositional, the Congress versus the
+Executive, but it provides and, in fact, forces Congress to
+take a stand on emergency declarations. If it truly is an
+emergency that is self-evident, that is maybe existential in
+nature, then it should be possible for the President to gather
+the political support to extend that emergency and that
+response. It actually provides an Article I imprimatur on any
+emergency declaration, and regardless of how Congress disposes,
+it forces Congress to have to step up and say, ``I am taking a
+stand on this,'' whether it is a yes or no to continue it.
+Chairman Peters. Anyone like to add to that?
+Ms. Goitein. I would agree with that. Of all the issues I
+have worked on in almost 20 years of doing this type of work,
+this issue probably has the broadest and deepest bipartisan
+support, not just among policy experts but among Members of
+Congress whom I have spoken with.
+There is a fundamental understanding that this is not a
+partisan issue but an issue of separation of powers, and that
+the separation of powers is not an optional feature of the
+Constitution that can be switched on or off, depending on who
+is in the White House. It is a vital protection for our
+democracy. Emergency powers can be abused, and have been
+abused, by President of both parties.
+This is fundamentally not a partisan issue. It is an issue
+of safeguarding individual liberties, of safeguarding our
+democracy, and I think that is well understood.
+Chairman Peters. We are over time, but Mr. Healy, do you
+have a quick response?
+Mr. Healy. I do not have much to add to what my co-
+panelists have said. Yes, I think this is both within the
+policy community, such as it is, and on Capitol Hill, this is
+an issue that gets a lot of bipartisan support because we
+should take a longer time horizon and recognize that at any
+given point somebody may like what a President does with the
+vast delegation of unilateral powers. But over time it erodes
+separation of powers and the rule of law, and I think we have
+seen that in the last two administrations, and we have seen
+bipartisan support for reforming it.
+Chairman Peters. Great. Thank you. Ranking Member Paul, you
+are recognized for your questions.
+Senator Paul. I do not think it has to be partisan at all.
+An example that somebody who once worked for Russ Feingold is
+in complete agreement with somebody who swung the other party,
+in the opposite wing of other party, that there is definitely
+overlap. I think there is overlap between the Chair and I on
+this issue.
+I think when we watch this unfold you tend to see
+Republicans louder when Biden abuses the power and Democrats
+louder when Trump abuses the power. But I can say that when
+Trump moved the money around using emergency powers for the
+wall I was one of the 12 Republicans who voted to rein in that
+power and that it was not an appropriate use. It was abuse of
+power.
+I think as far as an adversarial relationship there needs
+to be some. There needs to be legislature against the
+Executive, like the good old days, when we could combine
+Republicans and Democrats to always say, ``We are going to do
+as Madison said, put our ambition against their ambition,'' and
+those checks in power would be the way the Republic would
+remain protected.
+We do not do that enough. I cannot remember when. It has
+been decades since the legislature rose up and said enough is
+enough. We did a little bit in the 1970s. The Senate Select
+Commitee to Study Governmental Operations with Respect to
+Intelligence Activities (CHURCH) was a reaction to too much
+Executive power and too much power within the intelligence
+agencies. But I can tell you how bad it is right now. I am
+trying to get the classified Church Committee report from the
+1970s and cannot get it.
+The Administration, the Executive, but how is the way I can
+get it? Somebody on Appropriations would have to call up the
+current Administration and say, ``Give it to him or we are not
+giving you any more money.'' That is the way it would work, and
+it should not matter which party we are in. But I cannot get
+the classified Church Committee report from the 1970s, which I
+think came out of this Committee. It was a special committee,
+but, I mean, it was a Senate product, and I cannot get it. It
+is just kind of crazy the resistance of the Executive Branch.
+I think everybody here understands how things got turned
+over topsy-turvy by China, but I think it is important
+explaining to the public what we mean by that. The legislative
+veto would mean you could just come back I and the legislature
+could veto an emergency power or end it, and then the President
+did not have to sign it. The court came back and said, no, you
+cannot have any laws, and there is some logic to this. You
+cannot have a law unless the President signs it.
+The only way we can gain our power is we have to let things
+expire. The emergency powers have to expire, and this is
+getting to my question.
+Most of the emergency powers, I think as research by
+Brennan Center and as was mentioned by Mr. Healy, as well, are
+under IEEPA. Previously we tried to do this, and then we said,
+well, we love sanctions, and everybody loves sanctions. We do
+not want to do anything to have sanctions expire. But if you
+exclude IEEPA you exclude like 90 percent of the emergency
+powers.
+The real question should not be do you love sanctions or do
+you have doubts about sanctions. Do you think sanctions should
+be forever and Congress should never weigh in? Maybe if you
+love sanctions we should still vote on them, and they should
+expire, and come back here six months or a year, and we vote on
+them, and if you love them--and I think the majority of people,
+I am in the minority, the majority will still vote for
+sanctions, like everybody, all the time, everywhere. But there
+would at least be a debate and we put our imprimatur on it.
+Then by putting our imprimatur on it, if you love sanctions,
+actually the sanctions may be stronger because they are not
+actually approved by Congress.
+But right now we have no say in it, and they go on and on,
+and most of the emergency powers, there are really dangerous
+ones--internet switch and things--but there also ones that are
+used all the time, which are sanctions, increasingly used on
+private individuals and other countries, sometimes used on
+Americans in other countries.
+I guess my question to all three of you, and we will start
+with Mr. Healy, is, do you think the reform that time limits,
+emergency degrees, and says they have to be affirmatively voted
+on by Congress should apply to IEEPA emergencies?
+Mr. Healy. I think ultimately it should be under an approve
+or expire framework. Now I think there is reasonable debate
+that can be had about time limits and particular provisions, or
+whether it should all be part of the same bill. But I think if
+you were looking down a list of extraordinary emergency
+powers--such as the Brennan Center has produced, first came out
+in 2018, before the last two controversial uses of emergency
+powers--if you were looking down that list you would not have
+singled out the Military Construction Codification Act that was
+the basis of the border wall emergency, or the Health and
+Economic Recovery Omnibus Emergency Solutions (HEROES) Act,
+which was the basis of the student loan debt cancellation. I do
+not think they would be anywhere near the top of your list of
+broad, crazy delegations of power.
+I think looking behind a veil of ignorance, looking at that
+list, you would identify IEEPA as something that could be
+turned against U.S. persons and something that can essentially
+make people financial untouchables, and you would be concerned
+about that.
+Senator Paul. I think you are right, and I just wanted to
+interject that during the middle of COVID they took a Centers
+for Disease Control and Prevention (CDC) statute from the 1930s
+that said you can quarantine people for measles and like 10
+other diseases, and whatever other measures are necessary, and
+through that the Trump administration canceled mortgages and
+said you do not have to pay your mortgages. Then the Biden
+administration did the same thing. Both parties were guilty of
+this, but he took a statute that had nothing to do with
+mortgages and no sane person could think that a quarantine on
+measles has anything to do with paying your mortgage, and they
+abused that power.
+But that should be, whether you like people paying their
+mortgages or not or like the rule of law, everybody should say
+that is illegal and unconstitutional. We should not let
+executives do that. But we do not. We tend to base it on the
+policy. Do we like the policy? If we do not like the policy
+instead of should the President be able to do this,
+unilaterally, on a statute that never gave him this.
+Ms. Goitein, on including IEEPA?
+Ms. Goitein. IEEPA raises unique considerations, and I
+believe it should be addressed separately. The National
+Emergencies Act reform bills that are currently pending both go
+too far and not far enough in certain ways. I think that
+requiring Congress to vote 40 times every year on sanctions
+regimes, which is what would happen if you applied the NEA
+reform bills to IEEPA declarations, would be impracticable and
+possibly unnecessary.
+Senator Paul. It possibly could be grouped, as well.
+If you have an emergency against Russia and there are 40
+different sanctions against Russia, I do not think there is
+anything that says that we could not come forward and vote on
+the emergencies on 40 different sanctions, not each individual
+sanction.
+Ms. Goitein. You would need to structure a system where
+there could be a vote with expedited procedures on a package of
+sanctions, once every year, with amendments in order to strip
+individual sanctions regimes.
+Senator Paul. It only works if they expire.
+Ms. Goitein. That is correct, but that is a slightly
+different framework than what is in the bills that are
+currently pending before Congress. I would add that this
+approval requirement would not solve some of the other problems
+with IEEPA, such as the absence of due process protections for
+Americans who are swept up in its crosshairs, such as the
+humanitarian impacts on innocent foreign populations overseas.
+Senator Paul. I agree with all that. The only problem with
+separating it is Congress is, as I said in my opening, often
+feckless, if not most of the time. If we ever do anything on
+NEA it will be a miracle, if we actually pass it through and
+get it completely done.
+But I would say that if we leave out IEEPA we are leaving
+out an opportunity when what we are talking about is
+emergencies. People would say, oh, you got rid of four
+emergencies out of 79, or something. We are going to get rid of
+the minority vote and we are going to fix the minority of the
+problem.
+If anything I would argue for doing it all at one time. Mr.
+Thallam.
+Mr. Thallam. To answer your question, should it be
+addressed, yes, and I agree that I think there are two concerns
+there, not with the intent. One is structurally how those
+emergency powers tend to work in practice.
+The second is prudential, and putting on my staffer hat I
+remember negotiating about how much to include of IEEPA. I just
+caution the Committee that you have a reform, or a version of a
+reform, that is within grasp and that could pass Congress and
+could get to the President's desk. Wholesale, including IEEPA,
+just increases the complexity, which does not mean do not go
+for it. But it just becomes that much more slippery, and it is
+like trying to pick up anti-matter with chopsticks. Don't let
+the perfect be the enemy of the good, is the only thing I would
+add, even though I agree with the intent.
+Ms. Goitein. Could I add one thing to that, just briefly? I
+think you are only going to get one bite at the IEEPA apple.
+Take the time to do it right. Do not throw some provisions
+about IEEPA into the National Emergencies reform bills that
+exist right now. Those bills are ready to go. Get them signed
+and take the time to do an IEEPA reform bill. The Brennan
+Center has a proposal for a legislative reform of IEEPA. I
+would be happy to work with anyone on this Committee who would
+like to examine that as a path forward. But move forward with
+National Emergencies Act reform and then take the time to get
+IEEPA right.
+Chairman Peters. Senator Ossoff, you are recognized for
+your questions.
+OPENING STATEMENT OF SENATOR OSSOFF
+Senator Ossoff. Thank you, Mr. Chair, and this conversation
+has focused, I think, on what is practical legislatively. I
+want to ask each of you what is most pressing.
+Putting aside the question of what can practically be moved
+through this Congress, for each of you, please, beginning with
+you, Ms. Goitein, which single statutory reform, one, in brief,
+do you believe is most pressing with respect to Presidential
+emergency authorities?
+Ms. Goitein. I think it is the congressional approval
+requirement for national emergency declarations. The reason
+that I think that is not only because it can be done
+immediately, but it has the biggest bang for the buck because
+it significantly curtails the potential for abuse of more than
+130 different emergency powers, and it does so by restoring the
+balance of power between the President and Congress in a way
+that is just good constitutional hygiene.
+I agree with something Mr. Healy said earlier, which is
+that Congress should also examine the individual tools in the
+toolbox. Some of these are powers that arguably no President
+should ever have, such as suspending the prohibition on
+government testing of chemical and biological agents on
+unwitting human subjects. However, I think for the biggest bang
+for your buck, start with National Emergencies Act reform with
+a congressional approval requirement.
+Senator Ossoff. Thank you. Mr. Thallam.
+Mr. Thallam. I second that. I think of this as a metalaw,
+and probably the ideal situation would be to reform and address
+and maybe repeal all of those emergency statutes. I just do not
+know how you would go about triaging that.
+I think the single most important element, though, of
+reform is time limiting. An emergency is impossible to define
+in all its characteristics, but by definition it should be time
+limited. Otherwise it is not an emergency. there should be some
+mechanism that by default ends emergency declarations unless
+Congress said, ``You know what? You are right. This is a
+continued problem. We are going to take a stand and we are
+going to extend it.''
+Senator Ossoff. Mr. Healy.
+Mr. Healy. I hate to be boring here but I agree with my co-
+panelists. Despite what I said about addressing substantive
+powers, I do think that sunsetting emergency declarations and
+requiring affirmative approval by Congress to extend them
+further is the most valuable reform that can be made, if you
+have to pick one.
+I think, in particular, it is valuable because, as I said a
+moment ago, you would not have predicted a recent President's
+seizing on these two statutes, the Military Construction
+Codification Act and the HEROES Act. But we have seen that when
+Presidential restraint in these areas starts to erode there is
+a lot of creative lawyering and statutes that you might not
+have thought were bottomless wells of unilateral power can be
+turned to that purpose. By sunsetting declarations and
+requiring affirmative approval I think that tackles a large
+part of that problem.
+Senator Ossoff. Mr. Healy, and then we will go back down
+the line this way, which emergency power do you believe is most
+broadly or urgently threatening to civil liberties and due
+process right?
+Mr. Healy. The provisions of the 1934 Communications Act
+that were mentioned earlier I think are pretty sweeping and
+staggering, not something that a President needs, even in a
+genuine national emergency. I think the potential application
+of IEEPA to U.S. citizens, to directly target them, and the
+lack of meaningful due process in that area is also a concern.
+But again, I think looking down the list of those 130
+powers, we should expect that there is any number of them that
+will be put to uses that we could not predict in advance.
+Senator Ossoff. Thank you. Mr. Thallam, same question, the
+single power you believe most threatening to civil liberties
+and due process.
+Mr. Thallam. I second the 1934 communications law,
+especially in the context of creative lawyering and what
+communications means today versus what was envisioned in that
+law.
+Senator Ossoff. Thank you. Ms. Goitein.
+Ms. Goitein. I agree, the Communications Act and IEEPA are
+probably the ones of most concern. I am going to flag a third
+one, since those two were already discussed, and that is the
+provision that allows the administrator of the Transportation
+Security Administration (TSA), during a national emergency, to
+exercise such powers over transportation as the Secretary of
+Homeland Security (DHS) shall prescribe, which appears to be a
+completely open-ended delegation of authority to the Secretary
+of Homeland Security to control domestic transportation, with
+no limits or specifications. of course, the ability to move
+around freely is critical to many of the other individual
+liberties that we all enjoy.
+Mr. Thallam. Can I just add one quick thing? I think the
+power you should be worried about is the one you have not
+thought about. It is the creative, going through the archives,
+and finding some obscure provision that no one has thought
+about in years, and imagining an administration 10, 15, or 20
+years from now pulling it out of the archives and saying, ``I
+think this authorizes a pretty unprecedented exercise of
+power.''
+Senator Ossoff. Ms. Goitein, how could an administration
+use emergency power to disrupt the peaceful transfer of power
+from one elected Executive to the next?
+Ms. Goitein. I wrote about this a little bit in an article
+that I published in The Atlantic in 2019. To be honest, I am
+reluctant to go into too much detail about how emergency powers
+could be abused in this way.
+Senator Ossoff. I think that is, with respect, what you are
+here to testify on.
+Ms. Goitein. Right. I think we need to be very cautious in
+having these discussions. One emergency power that actually
+falls outside the National Emergencies Act framework that I am
+worried about is the Insurrection Act. The Insurrection Act is
+a law that allows the President to deploy Federal military
+troops to quell civil unrest or to execute the law in a crisis.
+There is a lot more to say about it, but it gives the President
+extremely broad, and judicially unreviewable, discretion to
+deploy troops in ways that could certainly be abused, and that
+could be abused in ways that could throw a wrench into the
+works, in terms of a peaceful transfer of power
+Senator Ossoff. A brief comment on the Insurrection Act
+from each of you? I am over time now. Mr. Healy, I would like
+your perspective.
+Mr. Healy. Yes, I think it falls into the category of
+powers that certainly can be abused. It has not been invoked
+since the L.A. riots, I believe, in 1992. But if you look at
+the discretion the President has under that act it is certainly
+something that would be prudent to tighten up.
+Senator Ossoff. Thank you all. Thank you, Mr. Chair.
+Chairman Peters. Thank you. Senator Hassan, you are
+recognized for your questions.
+OPENING STATEMENT OF SENATOR HASSAN
+Senator Hassan. Thank you, Mr. Chair and Ranking Member
+Paul for holding this hearing, and to all of our witnesses
+thanks for being here and for sharing your thoughts about how
+Congress can reform Presidential emergency powers and
+strengthening congressional oversight of those powers.
+I want to shift the conversation just a little bit because
+of my role as chair of this Committee's Subcommittee on
+Emerging Threats and Spending Oversight (ETSO), which is tasked
+with combatting waste, fraud, and abuse in Federal programs. I
+am concerned that bad actors take advantage of national
+emergencies to access funding intended for victims, such as we
+saw during the COVID-19 pandemic.
+Ms. Goitein, does current law adequately safeguard taxpayer
+dollars from waste, fraud, and abuse during Presidentially
+declared emergencies, and what additional safeguards or
+oversight mechanisms do we need to strengthen protections
+against waste, fraud, and abuse during a national emergency?
+Ms. Goitein. That is a great question, and it goes to this
+issue of congressional oversight. Congress should be able to
+oversee exactly how emergency powers are being used, including
+how funds are being spent. There is a requirement in the
+National Emergencies Act that Presidents report to Congress
+every six months on the expenditures directly attributable to
+the exercise of emergency powers.
+Now, that requirement is not sufficiently detailed. It
+should require more of a breakdown. It should also require the
+President to specify the particular actions that were taken.
+But even this minimal requirement of reporting expenditures has
+been honored in the breach.
+When it comes to declarations that rely solely or primarily
+on IEEPA, the responsibility for reporting has been delegated
+to the Secretary of Treasury, and the Secretary has, in fact,
+submitted those reports. You can find the notations of
+submission in the congressional record.
+When it comes to all other emergency declarations, it
+appears that the Executive Branch has not been submitting these
+expenditure reports for more than 20 years. There are no
+notices in the congressional record. Congressional committees
+that should have received these reports have been unable to
+find them. Reporters who have submitted the Freedom of
+Information Act (FOIA) requests have been told that there are
+no responsive documents. By all appearances, the Executive
+Branch has simply stopped complying, more than 20 years ago,
+with a statutory reporting requirement, and that is
+indefensible. It prevents Congress from doing the kind of
+oversight you are talking about.
+Senator Hassan. So, does the reform legislation, that you
+all have been talking, about address this? If the Executive
+Branch is just not doing it, do we just need to keep that
+portion of the Emergency Act as is and just figure out how to
+enforce?
+Ms. Goitein. The reform legislation does include enhanced
+reporting requirements, but it does not directly take on this
+issue of noncompliance. I think Congress might need to start
+thinking about actions that it can take. I would remind all of
+you that Congress has the power of the purse. Congress can
+provide, and it has done this in the past, that certain amount
+appropriated in funding bills will be withheld or reduced by 10
+percent, 25 percent, if required reports are not submitted.
+Senator Hassan. Thank you for that.
+I now do want to go back to the broader topic, because a
+President's ability to declare a national emergency can play an
+important role in accelerating the delivery of resources to
+areas that need them. So there are times when it is the really
+appropriate thing to do, and we have all acknowledged that
+here.
+But Congress, obviously, needs to provide oversight and a
+check on these emergency powers. Under current law, national
+emergency declarations can continue on for long periods of
+time. Ms. Goitein, how many national emergencies remain open
+for long periods of time and how long are emergency
+declarations typically held open?
+Ms. Goitein. Right now there are 43 emergency declarations
+in effect. Most have been in effect for longer than a decade.
+Forty-three is a majority of the emergency declarations that
+have been declared since the National Emergencies Act was
+passed. There have been 79 emergency declarations, and 43 of
+them, most of them, are still in place. The longest running
+emergency declaration dates back to the Iran hostage crisis in
+1979, and we have calculated that the average period of time
+for these emergency declarations is approximately 10 years.
+Senator Hassan. You all have talked about this some but I
+am just going to give you an opportunity. What does it mean for
+the scope of Executive authority if national emergencies can be
+left open for long periods of time, and what changes--again,
+you have talked about some of it, but we will just go down the
+panel. I would like you all to comment--what changes would you
+recommend?
+But start with just what does it mean for the scope of
+Executive authority?
+Ms. Goitein. What has happened is that this country is
+being governed in a State of perpetual emergency. We have these
+semi-permanent emergencies that displace the normal operation
+of law, and that is the status quo. That is extremely unhealthy
+for a democracy. More concretely, any time the President
+declares a national emergency, he or she has access to almost
+all of the 137 powers, most of which do not include any
+particular requirement that anything other than an emergency
+declaration be in place.
+Even if a national emergency declaration relates to one
+specific area of governance, dozens of emergency powers in
+multiple other areas of governance become available to the
+President. The temptation is to leave these declarations in
+place indefinitely because it gives the President access to
+such a deep well of powers.
+Senator Hassan. Mr. Thallam.
+Mr. Thallam. So think of it this way. In all those other
+emergency powers statutes, those are supposed to be delegations
+of authority in particular circumstances, time, and place.
+There is a robust argument about what is the scope of delegable
+authorities and so on, and we will kind of put that aside.
+But the point is Congress meant for those to only exist in
+certain circumstances, I would say at a very minimum time-
+limited circumstances. What they have effectively become is now
+just writ large authorities that have just been wholesale
+granted to the Executive. That is what you get. You get
+Congress trying to be judicious in saying we acknowledge that
+sometimes things happen you cannot foresee, and it would take
+too long, and in execution of the law the President should be
+able to do this thing. But now that is just in all time, in all
+places, in all circumstances.
+It self-defeats the Congress' Article I prerogative to
+decide when and where the Executive is supposed to have certain
+authorities.
+Senator Hassan. Just briefly if I could, Mr. Chair, from
+Mr. Healy.
+Mr. Healy. Sure. If you look down the list of 43
+emergencies, you will see very few that are considered genuine
+emergencies, titles like referring to the situation in Burundi,
+or something like that. I think there is a problem with long-
+standing declarations dating back to 1979, even where they are
+relatively uncontroversial, in the sense that we have defined
+emergency down, and as someone put it, we are sort of
+cheapening the currency of national emergencies. A national
+emergency should be something akin to a war and unforeseen
+circumstances, a pandemic, an asteroid strike, and the effect
+of a long list of long-standing national emergency
+declarations, most of which do not seem to be genuine
+emergencies, I think undermines the seriousness of the concept.
+Senator Hassan. Thank you. Thank you, Mr. Chair.
+Chairman Peters. Thank you. Ms. Goitein, your research
+shows that Presidents have only recently begun to really push
+the bounds of the emergency powers in their policy priorities.
+My question for you is why do you think that is the case? Why
+are we really now seeing this recently where we did not see it
+before? Other two witnesses, feel free to chime in, as well.
+Ms. Goitein.
+Ms. Goitein. To be clear, there have been abuses of
+emergency powers in the past, but the most egregious abuses
+that we have seen in the last 100 years in this country have
+been based on claims of inherent constitutional authority, not
+statutory emergency powers. That was the case for the
+internment of Japanese Americans during World War II, for
+example. That was also the case with the torture of detainees
+after September 11, 2001 (9/11).
+When it comes to the powers available under the National
+Emergencies Act, there has been remarkably little abuse or
+misuse, other than IEEPA, which really has to be considered
+separately for some of the reasons that we have talked about.
+When Presidents have declared national emergencies it has
+been few and far between, and it has generally been in response
+to a sudden, unexpected crisis that required immediate action.
+The reason for this is really more of a description than an
+explanation, It has been a norm of self-restraint on the part
+of Presidents who have access to these powers. The problem with
+that is that once these norms are shattered they are extremely
+difficult to put back together.
+President Trump opened the door to abusing statutory
+emergency powers when he declared a national emergency to
+secure funding for the border wall after Congress had refused
+to provide that funding. President Biden nudged the door open a
+little bit more when he relied on emergency powers to forgive
+student loan debt, again after Congress has considered
+legislation to forgive debt and had not passed that
+legislation.
+We have had a norm that has protected us, and now that that
+norm has been set aside, I am concerned that we could see more
+of these misuses of emergency powers in the future.
+Mr. Thallam. I do not think I can draw a conclusion about
+the long sweep of history and the increased use of emergency
+powers, but I will say that in our time working on this issue
+at the Committee it was different emergencies that motivated
+both Democrats and Republicans on the Committee. I am in the
+weird position of speaking for people who are sitting on this
+very dais, which I think constitutes hearsay. But some of the
+Democrats on the Committee were interested in this topic by
+that border wall emergency. It crystallized this notion of
+creative uses of emergency power that seemed beyond what was
+delegated by Congress. On COVID, the student loan emergencies
+drew interest, especially from more the Republican side of the
+Committee or in Congress.
+I think the point is if you create a policy-neutral
+mechanism that is kind of a metalaw. I think what you do is you
+do not address a specific emergency. You are addressing the
+whole notion of emergency powers. That is one thing that I was
+proud to have been able to work on. Even though different
+Members of the Committee were kind of drawn to the legislation
+for different reasons or in response to different reasons, it
+arrived at the same answer. I would note during that time,
+nobody on the Committee that I spoke to raised an objection
+with the thrust of the legislation. There were disagreements
+about whether IEEPA should be included, and so on, but nobody
+disagreed that this was something that was not worthy of the
+Committee's time.
+Chairman Peters. Senator Rosen, you are recognized for your
+questions.
+OPENING STATEMENT OF SENATOR ROSEN
+Senator Rosen. Thank you, Chair Peters, Ranking Member
+Paul. This is a really important hearing and I appreciate the
+witnesses being here today.
+Of course, the National Emergencies Act, provides the
+President with 135 statutory powers when they declare a
+national emergency. The powers cover a wide range of a variety
+of critical areas, we have all talked about them, ranging to
+communications, transportation, public health, military power,
+and so on.
+While these powers, of course, can be helpful in the face
+of true emergencies, as we have heard in our testimony today,
+and your testimony today, they are also subject to potential
+abuse. It is therefore critical that we address the potentials
+for reform and we prioritize Executive accountability and
+preventing abuse of power.
+Ms. Goitein, during your testimony in the House last year
+you mentioned that there are no existing requirements that
+powers invoked by the NEA have to actually relate to the
+emergency declared, that they do not have to actually relate to
+the emergency declared. While considering potential reform
+options for the NEA, how should Congress ensure that Presidents
+do not abuse unrelated powers that could become available
+during emergencies? I found this pretty interesting.
+Ms. Goitein. The congressional approval requirement after a
+period of 30 days serves as a kind of meta-check on all forms
+of abuse, including using certain powers that do not even
+relate to the nature of the emergency, or a protextual
+emergency in order to gain access to other powers.
+But there are also versions of National Emergencies Act
+reform that explicitly require that the powers invoked must
+relate to the nature of, and be used only to address, the
+specific emergency that serves as the basis for the
+declaration. So that is another way to go about it more
+directly.
+Senator Rosen. Thank you. I appreciate that. When we think
+about whether something is germane and how we have
+accountability, when we think about reporting requirements, as
+well as Executive accountability for the use of these emergency
+powers, it must be a priority. But current law and practices
+make oversight and accountability nearly impossible.
+As you were just saying earlier, although there are
+existing reporting requirements for the NEA reports they can be
+difficult to obtain, and if they are available at all. These
+reports are essential to having congressional insight,
+oversight, into NEA declarations and terminations.
+Mr. Thallam, building on what Ms. Goitein was saying, based
+on your experience in the Executive Branch, how can you
+strengthen the NEA reporting requirement to ensure that powers
+are being used appropriately and transparently? We need to see
+these things.
+Mr. Thallam. That is absolutely correct. As Liza mentioned,
+in some of the reforms talking about there is a more explicit
+requirement for the declaration to be tied to the powers being
+invoked, and also reporting on those powers and how they are
+being used, and presumably how funds may be invoked or be
+changed in response to that.
+I think it is important to keep in mind also it is not that
+a lot of damage cannot be done in 30 days, if that were the
+default time limit, but it is not an unending amount of time,
+if you add an automatic sunset. It does not devalue Congress'
+role to do that oversight, which they are entitled to, but it
+makes it much less of a concern of years and years go by, and
+the administrator of that office that was in charge has now
+left, and the new people come in and say, ``I will get back to
+you when I get caught up,'' and that sort of kind of hand-
+waving that happens.
+It makes the issue that is being invoked, the emergency
+that is being responded to salient, and momentary in the long
+scheme of things, which also forces Congress to make a say,
+right, to take a stand, and that forces all of Congress to say,
+wait, what do we know about this, or what do we need to know
+about it, as opposed to a member of a committee that is looking
+at an emergency from 10 years ago and is trying to catch up.
+Getting everyone kind of in the same room, metaphorically,
+makes it harder for the Executive Branch to ignore.
+Senator Rosen. Right. That builds exactly on my next
+question, reevaluating existing emergencies. Of course,
+emergencies are happening every day. Just watch the Weather
+Channel and you see some tragic weather events happening. But
+as you all have noted here today there are currently over 40
+ongoing national emergencies still in effect, dating back to
+the 1970s. Many of these emergencies remain necessary for U.S.
+national security. I get that. But as I understand there is
+little in current law forcing Presidents to reevaluate
+emergencies that have been on the books for decades. Something
+from the 1970s, perhaps, should be reevaluated.
+To each of the witnesses, in addition to reasserting
+congressional oversight of the use of NEA, what do you think we
+can really do to incentivize future administrations to assess
+the value of existing emergencies, and what can we do about it?
+They have gone on this long. Maybe there is some other
+legislation we need, if it international security interests,
+for example.
+Let's begin with Ms. Goitein, and then we will just go down
+the line.
+Ms. Goitein. Under all of the National Emergencies Act
+reform proposals that are currently pending before Congress,
+not only would emergency declarations terminate after 30 days
+unless approved by Congress, but every year after that, if the
+President wanted to renew the emergency for another year, he or
+she would again have to get congressional approval using
+expedited procedures.
+That does two things. First of all, it enables Congress to
+act as a check. That is the most important thing. But it also
+forces the President to examine the powers that the President
+has been using, to examine the success of those powers or the
+failure of those powers, to examine whether the conditions
+leading to the original emergency declaration are still in
+place or whether they have changed--to do that analysis, to
+determine whether continuation of emergency powers is really
+necessary or whether the emergency declaration can simply be
+withdrawn, or whether what is needed is new legislation, a new
+permanent authority to deal with a circumstance that may have
+become a new normal.
+Senator Rosen. That is right.
+Ms. Goitein. I think that particular reform is not only a
+check that Congress can apply. It also forces some discipline
+on the part of the Executive Branch.
+Senator Rosen. Thank you. Mr. Thallam.
+Mr. Thallam. I think what we see, over time, has been a lot
+of ceding of foreign policy to the Executive Branch, and I
+think generally most folks think that is kind of the purview,
+an area that the President has. But, for instance, our posture
+toward Iran, this is of national interest, and it probably
+should not be subject to an ongoing, ``emergency'' policy.
+I guess I do not have a good answer of how to force the
+President to table, any President, but that should be a matter
+for congressional deliberation and consideration. If that
+should be a permanent policy, but for a change of regime, for
+instance--I am not a foreign policy person--that should be a
+deliberation that happens between the Executive Branch and the
+government. We cannot have a 40-year emergency.
+If that should be a permanent policy then we have gone from
+emergency response to just good old-fashioned policymaking, and
+that is supposed to be an Article I prerogative.
+I guess I am kind of hand-waving a little bit. I do not
+know how to force that discussion, but Congress should be
+asserting that and saying, ``We may even agree with you, Mr.
+President, but we need to have a say, and we need to go through
+the process to approve it and make it explicit.''
+Senator Rosen. Thank you. Mr. Healy.
+Mr. Healy. Yes, I think what you tend to see is, with the
+exception of the COVID-19 emergency that was actually repealed
+legislatively, you have most of the time it is the President
+proposes and the President disposes, and maybe gets rid of some
+long-standing emergency declarations when international
+conditions have changed.
+Again, I think that has the effect of devaluing the
+currency and seriousness of emergency. If you have a list of 43
+emergencies, and a normal person would only recognize two or
+three of them as emergencies, I think that is a problem. I
+think at some stage, whether it should be done as part of the
+same package or not, but at some stage since the bulk of these
+are IEEPA-related emergencies, I do think putting them under a
+time limits and an approval requirement would force some
+scrutiny from the Legislative Branch and the Executive Branch,
+as well, about whether to reapprove some long-standing
+emergencies.
+Senator Rosen. Thank you. I appreciate it. Thank you, Mr.
+Chair.
+Chairman Peters. Ranking Member Paul, you are recognized
+for your questions.
+Senator Paul. I would like to have a stab at answering your
+question about when do the emergencies arise, and I would
+probably put it together, when did the emergency of a strong
+central Executive arise? At some point, all the way back to the
+Civil War, many would way the 20th Century. Many would say the
+Great Depression. But without question the Executive has grown
+in power, and Congress has diminished in power over the last
+100 years. Part of that is emergency power and part of that is
+many other things.
+Most of the questions I get about a regulation of this
+business or that business, we never voted on, and this has been
+a big question now between the Supreme Court on Chevron
+deference, whether or not we write the regulations or we just
+give broad frameworks, and regulatory agencies write all the
+regulations. But I would say it is a long-term trend and
+emergency powers is part of that.
+The argument has been made that this is a common argument
+around here, and I disagree with that. Leave IEEPA out. Leave
+everything else out because this is popular and we can get it
+in. It is possible there are other really important things,
+maybe more important, but they just cannot pass.
+I would argue that sometimes something is so popular that
+other issues that are related can be discussed and may well be
+accepted. All three of you said that the internet kill switch
+is probably the most important and possibly abused power. It
+has not been used, but it could be so devastating that someone
+could become dictator, basically. You control all the
+communications in the country. You could become dictator in a
+day, in a moment, in one Executive Order (EO).
+We have that in our bill, for reform. We have it in there.
+You also, in a degree. I think there is a lot of agreement up
+here on getting rid of the internet kill switch. So why sell it
+short? Let's not say we are only going to do this one thing.
+Yes, the most important thing is changing from where we have to
+override a veto to kill and emergency. We have to have a two-
+thirds vote. That is way too high a burden. We need to get it
+back to that it expires, and then we can then vote.
+But let's not sell ourselves short. Let's have a real
+robust discussion. Let's just don't say, ``Oh, I am against the
+internet kill switch but this just isn't the time, so I am
+going to vote no because we will do it some other time.'' Some
+other time never comes. So now is the time.
+The general category they all fit are emergencies. I would
+argue, and I would agree with Ms. Goitein, the Insurrection Act
+is a thousand times more potent and has the potential for
+turning the place into military rule overnight that it is more
+important than any of the four emergencies that we fix with
+changes. I am for fixing it so all these emergencies expire and
+that we have to reaffirm them. That is a great reform. But the
+Insurrection Act is probably more deadly and more powerful than
+anything we are discussing today. So we actually have that in
+my reform bill.
+I know I am not going to get everything I want, but let's
+talk about it now. We are talking about emergencies. My
+Insurrection Act reform would simply say a President cannot
+send the military anywhere without the approval of Congress. I
+am really not for sending the military domestically. I really
+do not think the military should ever be used domestically. If
+we are going and handing out water or preventing a foreign
+invasion, or in a time of a hurricane, maybe.
+Our soldiers are great but they are not trained to obey the
+Fourth Amendment. Our police are, and even that is imperfect.
+But our police know about the Fourth Amendment. They know they
+have to get warrants. Armies do not get warrants. It is a
+potential for a huge disaster.
+So we should have a debate over the Insurrection Act. Maybe
+we can do it in a separate hearing, in a separate bill, but we
+can at least bring it up on this, and if I get a chance, that
+is one thing that I will want us to vote on. Take a stand. Do
+you think the President should be allowed to send the military
+into our cities? I think no. The approval of the Governor is
+not enough. I can imagine a Governor that makes a bad decision
+too. That is two people that have made a decision to have
+military rule in an area. Then if it does not expire it can go
+on forever.
+The Insurrection Act should also expire too. I think from
+the very outset troops should not go in without our approval,
+but even if that happens, it should expire in a short period of
+time. The problem with giving 30 days for the Insurrection Act
+and patterning it on the emergency is 30 days is a long time to
+have troops in your cities. I would say none. I would not allow
+troops to go in at all without an affirmative vote at that time
+of Congress to allow troops to go in, and I would almost
+assuredly vote no on that, for anybody.
+We have police. The police are very well armed. The police
+deal with riots in our cities, and that is the way we should
+deal with it, because it is a tough job to figure out due
+process for people and figure out the difference between
+protests and riot and between violence and how we deal with it.
+I would just argue let's be more open-minded to talking
+about the Insurrection Act. I would say that the internet kill
+switch, I think we can get some bipartisan support for just
+getting rid of that. Most people are horrified. You tell any of
+your constituents that the President could shut it down--and it
+works both ways. The left may go home and say, ``Oh, Trump is
+going to do this,'' and the right goes home and says, ``Biden
+is going to do this.'' I do not want anybody to do this, and no
+one should have ever been given the power to shut down all
+transmissions.
+Now I have heard from some people who say, ``Oh well, what
+about sending out emergency broadcasts,'' or something. That is
+not what this is. I do not think we need to have this power to
+send out emergency broadcasts if there is a hurricane coming or
+something.
+Anyway, I would just argue for being more inclusive and not
+limiting ourselves to only one thing. Even if the others cannot
+pass. I may not get my way on IEEPA, but if we can only do four
+emergencies and we leave all the other IEEPA out there, I am
+skeptical if the sanctions work, but those who like sanctions,
+vote on it. They are stronger. You can actually vote on it. Let
+them expire in six months. The President does them. Let them
+expire. We do not have to do each one. Bulk them into the
+emergencies. Do all Russia's together, all China's together.
+But then if you think sanctions work, they are stronger having
+been voted on by Congress.
+I am open to response to anybody who wants to argue with me
+that we should limit this only to one thing.
+Mr. Thallam. I would never.
+Senator Paul. Don't politick it.
+Mr. Thallam. But I would note, we speak of the 2019 reform
+that we worked on in this Committee, that you both voted on and
+participated in. It is kind of shorthand that we speak about it
+as having carved out IEEPA, and I think in one sense that is
+true. But it actually did pull in and remove the authority not
+just as a sunset but removed the authority, pursuant to IEEPA,
+for the President to unilaterally impose tariffs and rate
+quotas. So that is a small piece. That is not everything you
+are talking about.
+Senator Paul. Senator Carper's piece was included in that?
+I think it was an individual bill on that.
+Mr. Thallam. I believe it was Senator Portman and, yes,
+maybe Senator Carper. It was offered as an amendment and I
+think it was wrapped into the base tax.
+Now, that is not all of IEEPA. That does not address what
+you are talking about. But it showed that you can at least pull
+in some of the authorities that you are concerned about.
+I just do not want my testimony here today to be thought of
+as just do not touch IEEPA, just go forward. I am saying you
+can. I just want to caution, just based on my experience here
+as a witness to say that is what I experience. I am almost
+certain that if we had tried not to carve out any part of
+IEEPA, the bill would have languished--which we did not pass
+anyway.
+Senator Paul. You just realized the frustration on our
+side. I get this all the time. I will have people on the floor,
+and we will get to an amendment finally on the floor, and they
+say we have agreed to have no amendments. Yours is a perfectly
+good amendment, young man, and at any normal time we would be
+for you. But this time we are against you because we made a
+deal, no amendments. You know what I mean?
+We just need to be more open minded and not limit
+ourselves. I will not get everything I want. I will not get all
+these things reformed. But let's don't preemptively say we
+cannot. I appreciate your comments. Anybody else?
+Ms. Goitein. Yes, I want to be very clear. I am not saying
+let's do this one thing because it is here, we can get it done,
+and forget about the rest. The Brennan Center is actively
+advocating for reform of the Insurrection Act. We have a
+detailed legislative reform proposal. We are actively
+advocating for reform of IEEPA. We have a detailed legislative
+reform proposal.
+We are looking at the Communications Act. I am not entirely
+sure that full repeal is the right solution there. It might be.
+I think it is going to be important to look at whether some
+very dramatically narrowed version of that power might be
+needed in cases of, say, cyber attacks. Again, this is
+something we are looking into right now. We might ultimately
+support repeal.
+But anyway, these are issues that I consider to be
+incredibly important, top priorities. But I do think that on
+the substance, in terms of what needs to be done with these
+authorities, they have to be dealt with differently and
+separately.
+Now, I suppose you could say, let's just write the reforms
+for each of those and tack it onto National Emergencies Act
+reform legislation. But that work has to be done, and it has
+not been done yet--the work of gathering the coalition, the
+consensus, the markup that was held on National Emergencies Act
+reform, the tire-kicking that has happened over these past few
+years.
+Senator Paul. I do not think it will be, but I would
+suggest trying to come to a conclusion on the internet kill
+switch. This is a chance. It might be five years. It might be
+10 years. It might be never. When you have a chance, go for it.
+You all said it was the most important power you would actually
+remove, so come to a conclusion on it. If you want a carveout
+for putting out PSAs on there is a hurricane coming--I do not
+think you need that. I think that is probably done through
+other legislation. It is actually mostly voluntary.
+Believe it or not, people will do things voluntarily in a
+crisis. Plus most people do not get it from government anymore.
+I mean, your warnings are mostly outside of government for
+emergencies.
+But anyway, come to a conclusion on this because if we want
+to bring this up in a month, we just do not want your Center,
+which is on our side of this, to be against including the
+internet kill switch. Just be open-minded if you can come to a
+conclusion, and try to come to a conclusion.
+On the Insurrection Act it is unlikely to be, but I believe
+in having votes on stuff. I will have a vote on the
+Insurrection Act, and I think it is different. It will not be
+the same reform as the NEA. It has to be more strict than the
+NEA because you are talking about putting troops in our cities.
+I think troops in our cities should be a vote of Congress, no
+matter how good the cause is. There are so many other ways to
+deal with emergencies beyond having an army in our cities.
+Ms. Goitein. If I could say one last quick thing. You refer
+to the four emergency declarations. I think it is actually
+three right now. One was terminated. So there are three
+emergency declarations that do not relate to IEEPA that are
+currently in place.
+I want to be clear. Those three emergency declarations are
+not the ones I am most worried about. It is the ones that have
+not been declared yet. I do not think we should downplay the
+significance of passing National Emergencies Act reform, even
+if it does not address IEEPA, because there are untold
+declarations that could happen in the future. As Mr. Thallam
+says, it is the powers you have not thought about yet. That is
+what we are preventing through this legislation.
+Senator Paul. Mr. Healy, can you close this out?
+Mr. Healy. Yes. I do not think anyone wants my advice on
+the politics of it, and it is not worth much, frankly. But I do
+see the merit in taking a broad approach to this and to deal
+with at least a few of the biggest substantive concerns. Again,
+discounting my political advice for what it is worth--it is not
+what I am here to testify on--but I think we all agree that the
+1934 Communications Act provisions are a huge concern, and I
+think at this moment, when there is bipartisan interest in
+emergency power reforms, that some of the more dangerous--it is
+about what Satya said. The ones we are not thinking about are
+important, but some of the ones that you would pick out, if
+there is an opportunity to tackle them and reform those powers,
+are also worth addressing.
+Chairman Peters. One final question for you, Mr. Thallam,
+and others can have their opinion, as well. The reform
+proposals that are right now before us allow Congress to
+approve an emergency for a set period of time. At the end of
+that period then Congress can renew the emergency with another
+vote.
+My question is what do you think is an appropriate amount
+of time for a national emergency to last before it needs to be
+renewed by Congress?
+Mr. Thallam. This was subject to some deliberation also at
+the Committee when we were considering these. This is a
+prudential question, and this is exactly the kind of thing that
+Congress is supposed to figure out.
+On some level, look, it is arbitrary, because you are
+setting a time limit that is not correlated to the actual
+emergency in that time. But I think anything more than 60 days,
+you are going to a quarter of a year, 90 days, that is not an
+emergency.
+Again, I guess the point is less about what is the
+appropriate specific time limit and more about Congress should
+have to weigh in, and continue to weigh in if it is extended.
+That is a policymaking muscle that Congress has not exercised
+in a long time.
+I think somewhere between 30 and 60 days is appropriate.
+Chairman Peters. Other thoughts?
+Ms. Goitein. I think 30 days, which is the amount of time
+in most of these reform proposals. It is a sensible amount of
+time. It gives the President enough time to implement at least
+the first wave of whatever actions the President is going to
+take in response to the emergency. It gives Congress time to
+see how the President is addressing the emergency, how the
+emergency is unfolding.
+Then Congress can weigh in. If Congress extends the
+emergency then it would go back to the usual yearly renewal,
+but instead of the President being the one to renew the
+declaration unilaterally, Congress would again have to approve
+it.
+Now some versions of National Emergencies Act reform also
+include a five-year cap on the total amount of time that an
+emergency declaration could be periodically renewed by
+Congress. The idea behind that is to prevent this phenomenon of
+permanent emergencies. Five years into an emergency, it is not
+an emergency. It is a new normal. Arguably it should be
+addressed through permanent authorities. If existing emergency
+authorities are not sufficient, then Congress should be passing
+new ones.
+So that is another feature of some of these reform
+proposals that is worth consideration.
+Chairman Peters. Very good. I would like to thank Ranking
+Member Paul for holding this hearing with me here today, and I
+would also like to thank each of our witnesses for joining us
+and sharing your insights. I think it was a very fruitful
+discussion.
+Certainly expanding congressional oversight of national
+emergencies is absolutely critical to ensuring a healthy
+balance of powers, as envisioned by our country's founders. As
+we heard today, Presidents have very broad authorities that
+could be misused. At the same time, the Federal Government also
+must be able to rapidly and effectively respond to various
+types of emergencies. But as I believe our three witnesses
+explained today, there are some commonsense reforms that would
+strengthen Congress' role in exercising oversight of these
+emergency powers.
+I certainly look forward to working with Ranking Member
+Paul and other Members of the Committee to advance legislation
+that incorporate the bipartisan reforms that we have heard
+about today, and I would say nonpartisan reforms is probably a
+better way to characterize it, and we will be working
+diligently to make that happen in the coming months.
+The record for this hearing will remain open for 15 days,
+until 5 p.m. on June 6, 2024, for the submission of statements
+and questions for the record.
+This hearing is now adjourned.
+
+A P P E N D I X
+----------
+
