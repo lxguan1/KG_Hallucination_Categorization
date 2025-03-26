@@ -1,9 +1,6 @@
 """ Creates a Knowledge Graph from a directory of input documents. """
 
 import os
-os.environ['HF_HOME'] = '/scratch/drjieliu_root/drjieliu0/lxguan/huggingface_cache'#'/scratch/drjieliu_root/drjieliu/lxguan/huggingface_cache'#
-os.environ['TRANSFORMERS_CACHE'] = '/scratch/drjieliu_root/drjieliu0/lxguan/huggingface_cache'#'/scratch/drjieliu_root/drjieliu/lxguan/huggingface_cache'#
-
 import numpy as np
 import networkx as nx
 from transformers import AutoTokenizer, AutoModelForCausalLM
@@ -19,8 +16,8 @@ torch.manual_seed(42)
 class GraphCreator:
     def __init__(self, data = None):
         self.G = nx.DiGraph()
-        self.model = AutoModelForCausalLM.from_pretrained("/scratch/drjieliu_root/drjieliu/lxguan/Llama-2-7b-chat-hf", torch_dtype=torch.float16, device_map="auto")
-        self.tokenizer = AutoTokenizer.from_pretrained("/scratch/drjieliu_root/drjieliu/lxguan/Llama-2-7b-chat-hf")
+        self.model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf", torch_dtype=torch.float16, device_map="auto")
+        self.tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
         self.tokenizer.pad_token = self.tokenizer.eos_token
         self.data = data
 
@@ -29,7 +26,7 @@ class GraphCreator:
     def parse_data(self, args) -> list:
         """Loads data from disk into a list of text chunks"""
         text_chunks = []
-        directory = "data"
+        directory = "Data/hearings txt"
         node_parser = SentenceSplitter(chunk_size=600, chunk_overlap=0)
         # Iterate through all files in the directory
         for file_name in os.listdir(directory):
