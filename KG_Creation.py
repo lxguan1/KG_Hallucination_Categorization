@@ -256,9 +256,9 @@ Text: """
         print("Number of documents:", len(self.data))
     
 
-    def save_kg(self):
+    def save_kg(self, args):
         """Save the KG"""
-        nx.write_edgelist(self.G, "graph_edgelist", data = True, delimiter="|")
+        nx.write_edgelist(self.G, "graph_edgelist_" + str(args.start_document), data = True, delimiter="|")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -270,4 +270,4 @@ if __name__ == "__main__":
     graph_creator.parse_data(args)
     graph_creator.create_kg()
 
-    graph_creator.save_kg()
+    graph_creator.save_kg(args)

@@ -5,7 +5,7 @@
 #SBATCH --gpus=1
 #SBATCH --partition=spgpu
 #SBATCH --time=5-12:00:00
-#SBATCH --array=100,200,300,400
+#SBATCH --array=0-200:40
 
 echo 'This job runs knowledge graph creation'
 
