@@ -351,3 +351,4 @@ if __name__ == "__main__":
     graph_creator.create_kg()
 
     graph_creator.save_kg(args)
+    print("Time taken:", time.time() - start, flush=True)
