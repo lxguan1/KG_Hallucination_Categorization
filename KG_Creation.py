@@ -153,6 +153,7 @@ For each pair of related entities, consider the following information:
 3. Return output in English as a numbered list of all the entities and relationships in comma-separated triples identified in steps 1 and 2.
 
 Note: Our main goal is that final numbered list of 3-tuples. Under no circumstances should you produce code, an accompanying explanation, etc. Just follow the above steps.
+Note: the triples (Entity1, Entity2, Relation) should be Entity1 has relation Relation with Entity2. Remember to put the parentheses.
  
 ######################
 -Examples-
@@ -164,8 +165,8 @@ The Verdantis's Central Institution is scheduled to meet on Monday and Thursday,
 Output:
 List: 
 1. (Martin Smith, Central Institution, is the chair of)
-2. (Central Institution, Monday, scheduled to meet)
-3. (Central Institution, Thursday, scheduled to meet)
+2. (Central Institution, Monday, is scheduled to meet)
+3. (Central Institution, Thursday, is scheduled to meet)
 
 ######################
 -Real Data-
@@ -227,6 +228,7 @@ Do not include relations that are already extracted.
 
 Note: Our main goal is that final numbered list of 3-tuples. Under no circumstances should you produce code, an accompanying explanation, etc. Just follow the above steps.
 Note: If no entities and relationships exist that haven't been extracted in the "Already Extracted" list, return "No new relations exist". 
+Note: the triples (Entity1, Entity2, Relation) should be Entity1 has relation Relation with Entity2. Remember to put the parentheses.
 ######################
 -Examples-
 ######################
@@ -239,8 +241,8 @@ Already Extracted:
 Output:
 List: 
 1. (Martin Smith, Central Institution, is the chair of)
-2. (Central Institution, Monday, scheduled to meet)
-3. (Central Institution, Thursday, scheduled to meet)
+2. (Central Institution, Monday, is scheduled to meet)
+3. (Central Institution, Thursday, is scheduled to meet)
 
 ######################
 -Real Data-

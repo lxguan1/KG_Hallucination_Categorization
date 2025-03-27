@@ -4,12 +4,12 @@
 #SBATCH --mem=7gb   
 #SBATCH --gpus=1
 #SBATCH --partition=spgpu
-#SBATCH --time=5-12:00:00
-#SBATCH --array=0-200:40
+#SBATCH --time=8:00:00
+#SBATCH --array=0
 
 echo 'This job runs knowledge graph creation'
 
-python3 KG_Creation.py --start_document $SLURM_ARRAY_JOB_ID --end_document $(($SLURM_ARRAY_JOB_ID + 20))
+python3 KG_Creation.py --start_document $SLURM_ARRAY_TASK_ID --end_document $(($SLURM_ARRAY_TASK_ID + 20))
 
 
 
