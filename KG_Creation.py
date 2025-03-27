@@ -150,10 +150,10 @@ For each pair of related entities, consider the following information:
 - target_entity: name of the target entity, as identified in step 1
 - relationship_description: how the source entity and the target entity are related to each other
  
-3. Return output in English as a numbered list of all the entities and relationships in comma-separated triples identified in steps 1 and 2.
+3. Return output in English as a numbered list of all the entities and relationships in |-separated triples identified in steps 1 and 2.
 
 Note: Our main goal is that final numbered list of 3-tuples. Under no circumstances should you produce code, an accompanying explanation, etc. Just follow the above steps.
-Note: the triples (Entity1, Entity2, Relation) should be Entity1 has relation Relation with Entity2. Remember to put the parentheses.
+Note: the triples (Entity1|Entity2|Relation) should be Entity1 has relation Relation with Entity2. Remember to put the parentheses.
  
 ######################
 -Examples-
@@ -164,9 +164,9 @@ The Verdantis's Central Institution is scheduled to meet on Monday and Thursday,
 ######################
 Output:
 List: 
-1. (Martin Smith, Central Institution, is the chair of)
-2. (Central Institution, Monday, is scheduled to meet)
-3. (Central Institution, Thursday, is scheduled to meet)
+1. (Martin Smith|Central Institution|is the chair of)
+2. (Central Institution|Monday|is scheduled to meet)
+3. (Central Institution|Thursday|is scheduled to meet)
 
 ######################
 -Real Data-
@@ -181,7 +181,7 @@ Text: """
         document_outputs = self.run_model(prompts)
 
         # Regex to capture triples in the format ("source_entity", "target_entity", "relationship_description")
-        pattern = r"\d+\.\s\(([^,]+),\s([^,]+),\s([^)]+)\)"
+        pattern = r"\d+\.\s*\(([^|]+)\|([^|]+)\|([^)]+)\)"
 
         outputs = []
         for output in document_outputs:
@@ -195,15 +195,30 @@ Text: """
                 tgt = match[1].strip()
                 rel = match[2].strip()
                 
-                # Additional cleaning to remove partial content from next items
-                src = re.sub(r'\d+\.\s*\(.*$', '', src).strip()
-                tgt = re.sub(r'\d+\.\s*\(.*$', '', tgt).strip()
-                rel = re.sub(r'\d+\.\s*\(.*$', '', rel).strip()
+                # Remove any explanatory text after a dash
+                src = re.sub(r'\s*-\s*.*$', '', src)
+                tgt = re.sub(r'\s*-\s*.*$', '', tgt)
+                rel = re.sub(r'\s*-\s*.*$', '', rel)
                 
-                # Remove any explanatory text often found after dashes
-                src = re.sub(r'\s*-\s*This.*$', '', src).strip()
-                tgt = re.sub(r'\s*-\s*This.*$', '', tgt).strip()
-                rel = re.sub(r'\s*-\s*This.*$', '', rel).strip()
+                # Remove any text after a closing parenthesis
+                src = re.sub(r'\)\s*.*$', '', src)
+                tgt = re.sub(r'\)\s*.*$', '', tgt)
+                rel = re.sub(r'\)\s*.*$', '', rel)
+                
+                # Remove any trailing parentheses that might be left
+                src = re.sub(r'\)\s*$', '', src)
+                tgt = re.sub(r'\)\s*$', '', tgt)
+                rel = re.sub(r'\)\s*$', '', rel)
+                
+                # Remove any trailing pipes or commas
+                src = re.sub(r'[|,]\s*$', '', src)
+                tgt = re.sub(r'[|,]\s*$', '', tgt)
+                rel = re.sub(r'[|,]\s*$', '', rel)
+                
+                # Replace any remaining pipes within the entities or relation with spaces or dashes
+                src = src.replace('|', ' ')
+                tgt = tgt.replace('|', ' ')
+                rel = rel.replace('|', ' ')
 
                 if src and tgt and rel:
                     cleaned_matches.append((src, tgt, rel))
@@ -224,11 +239,11 @@ For each pair of related entities, consider the following information:
 - relationship_description: how the source entity and the target entity are related to each other
 Do not include relations that are already extracted.
  
-3. Return output in English as a numbered list of all the entities and relationships in comma-separated triples identified in steps 1 and 2.
+3. Return output in English as a numbered list of all the entities and relationships in |-separated triples identified in steps 1 and 2.
 
 Note: Our main goal is that final numbered list of 3-tuples. Under no circumstances should you produce code, an accompanying explanation, etc. Just follow the above steps.
 Note: If no entities and relationships exist that haven't been extracted in the "Already Extracted" list, return "No new relations exist". 
-Note: the triples (Entity1, Entity2, Relation) should be Entity1 has relation Relation with Entity2. Remember to put the parentheses.
+Note: the triples (Entity1|Entity2|Relation) should be Entity1 has relation Relation with Entity2. Remember to put the parentheses.
 ######################
 -Examples-
 ######################
@@ -240,9 +255,9 @@ Already Extracted:
 ######################
 Output:
 List: 
-1. (Martin Smith, Central Institution, is the chair of)
-2. (Central Institution, Monday, is scheduled to meet)
-3. (Central Institution, Thursday, is scheduled to meet)
+1. (Martin Smith|Central Institution|is the chair of)
+2. (Central Institution|Monday|is scheduled to meet)
+3. (Central Institution|Thursday|is scheduled to meet)
 
 ######################
 -Real Data-
@@ -252,7 +267,7 @@ Text: """
             # Glean 2 times
             gleaning_prompts = []
             for document, output in zip(documents, outputs):
-                extracted_str = str([f"({e1}, {e2}, {r})" for e1, e2, r in output])
+                extracted_str = str([f"({e1}|{e2}|{r})" for e1, e2, r in output])
                 gleaning_prompts.append(gleaning_prompt + document + "\n Already Extracted:\n " + extracted_str + "\n Output: ")
 
             document_outputs = self.run_model(gleaning_prompts)
@@ -268,15 +283,30 @@ Text: """
                     tgt = match[1].strip()
                     rel = match[2].strip()
                     
-                    # Additional cleaning to remove partial content from next items
-                    src = re.sub(r'\d+\.\s*\(.*$', '', src).strip()
-                    tgt = re.sub(r'\d+\.\s*\(.*$', '', tgt).strip()
-                    rel = re.sub(r'\d+\.\s*\(.*$', '', rel).strip()
+                    # Remove any explanatory text after a dash
+                    src = re.sub(r'\s*-\s*.*$', '', src)
+                    tgt = re.sub(r'\s*-\s*.*$', '', tgt)
+                    rel = re.sub(r'\s*-\s*.*$', '', rel)
                     
-                    # Remove any explanatory text often found after dashes
-                    src = re.sub(r'\s*-\s*This.*$', '', src).strip()
-                    tgt = re.sub(r'\s*-\s*This.*$', '', tgt).strip()
-                    rel = re.sub(r'\s*-\s*This.*$', '', rel).strip()
+                    # Remove any text after a closing parenthesis
+                    src = re.sub(r'\)\s*.*$', '', src)
+                    tgt = re.sub(r'\)\s*.*$', '', tgt)
+                    rel = re.sub(r'\)\s*.*$', '', rel)
+                    
+                    # Remove any trailing parentheses that might be left
+                    src = re.sub(r'\)\s*$', '', src)
+                    tgt = re.sub(r'\)\s*$', '', tgt)
+                    rel = re.sub(r'\)\s*$', '', rel)
+                    
+                    # Remove any trailing pipes or commas
+                    src = re.sub(r'[|,]\s*$', '', src)
+                    tgt = re.sub(r'[|,]\s*$', '', tgt)
+                    rel = re.sub(r'[|,]\s*$', '', rel)
+                    
+                    # Replace any remaining pipes within the entities or relation with spaces or dashes
+                    src = src.replace('|', ' ')
+                    tgt = tgt.replace('|', ' ')
+                    rel = rel.replace('|', ' ')
 
                     if src and tgt and rel:
                         cleaned_matches.append((src, tgt, rel))
