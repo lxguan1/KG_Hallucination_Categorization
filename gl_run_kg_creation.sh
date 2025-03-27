@@ -9,7 +9,7 @@
 
 echo 'This job runs knowledge graph creation'
 
-python3 KG_Creation.py --start_document $SLURM_ARRAY_TASK_ID --end_document $(($SLURM_ARRAY_TASK_ID + 20))
+python3 KG_Creation.py --start_document $SLURM_ARRAY_TASK_ID --end_document $(($SLURM_ARRAY_TASK_ID + 10))
 
 
 
