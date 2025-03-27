@@ -16,8 +16,8 @@ torch.manual_seed(42)
 class GraphCreator:
     def __init__(self, data = None):
         self.G = nx.DiGraph()
-        self.model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf", torch_dtype=torch.float16, device_map="auto")
-        self.tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
+        self.model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-3.1-8B-Instruct", torch_dtype=torch.float16, device_map="auto")
+        self.tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.1-8B-Instruct")
         self.tokenizer.pad_token = self.tokenizer.eos_token
         self.data = data
 
