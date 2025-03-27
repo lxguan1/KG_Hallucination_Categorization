@@ -28,8 +28,14 @@ class GraphCreator:
         text_chunks = []
         directory = "Data/hearings txt"
         node_parser = SentenceSplitter(chunk_size=600, chunk_overlap=0)
+
+        text_files = [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f)) and f.endswith('.txt')]
+        
+        text_files.sort()
+
+        selected_files = text_files[args.start_document:args.end_document]
         # Iterate through all files in the directory
-        for file_name in os.listdir(directory):
+        for file_name in selected_files:
             file_path = os.path.join(directory, file_name)
 
             # Ensure it's a text file
@@ -44,7 +50,7 @@ class GraphCreator:
                     text_chunks.append(node.text)
         print("Text Chunks:", len(text_chunks), flush=True)
         # Save the list of text chunks as self.data
-        self.data = text_chunks[args.start_document:args.end_document]
+        self.data = text_chunks
 
 
 
