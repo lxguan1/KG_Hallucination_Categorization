@@ -1,0 +1,18 @@
+# Python version
+python==3.10
+
+# PyTorch and CUDA support (installed via conda)
+torch
+torchvision
+torchaudio
+pytorch-cuda==12.4
+
+# Hugging Face Transformers CLI + tools
+transformers
+huggingface_hub[cli]
+accelerate>=0.26.0
+
+# LLM tools and dependencies
+llama-index
+networkx
+argparse

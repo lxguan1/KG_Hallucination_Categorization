@@ -6,3 +6,10 @@ hearings/
 
 # Ignore all .env files
 *.env
+
+#ignore all .out files
+*.out
+
+# ignore gl_run_kg_creation.sh
+gl_run_kg_creation.sh
+gl_run_kg_creation_1.sh

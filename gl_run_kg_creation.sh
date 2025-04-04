@@ -5,11 +5,11 @@
 #SBATCH --gpus=1
 #SBATCH --partition=spgpu
 #SBATCH --time=8:00:00
-#SBATCH --array=0
+#SBATCH --array=390,395
 
 echo 'This job runs knowledge graph creation'
 
-python3 KG_Creation.py --start_document $SLURM_ARRAY_TASK_ID --end_document $(($SLURM_ARRAY_TASK_ID + 10))
+python3 KG_Creation.py --start_document $SLURM_ARRAY_TASK_ID --end_document $(($SLURM_ARRAY_TASK_ID + 5))
 
 
 
