@@ -1,13 +1,13 @@
 import os
 import networkx as nx
 import json
+import random
 from collections import defaultdict, deque
 from tqdm import tqdm
 
 def bfs_with_path_tracking(G, start, max_depth=None):
     """
     Performs BFS from a start node, tracking the paths and distances.
-    Much more efficient than all_simple_paths for our purpose.
     
     Parameters:
     G (nx.DiGraph): The directed graph
@@ -42,25 +42,24 @@ def bfs_with_path_tracking(G, start, max_depth=None):
         
     return visited
 
-def find_diamonds_efficient(G, source, max_depth=None):
+def find_first_diamond(G, source, max_depth=None):
     """
-    Find diamond patterns starting from a specific source node.
-    Much more efficient than the original approach.
+    Find the first diamond pattern starting from a specific source node.
     
     Parameters:
     G (nx.DiGraph): The directed graph
     source: The source node to start from
     max_depth (int, optional): Maximum path length, if None no limit
     
-    Yields:
-    dict: Diamond pattern details
+    Returns:
+    dict or None: Diamond pattern details or None if no diamond found
     """
     # Find successors of the source node
     successors = list(G.successors(source))
     
     # Need at least 2 successors to form a diamond
     if len(successors) < 2:
-        return
+        return None
     
     # Compute distance and a sample path for each reachable node from each successor
     paths_from_successors = {}
@@ -127,49 +126,62 @@ def find_diamonds_efficient(G, source, max_depth=None):
                     'terminal': terminal
                 }
                 
-                yield diamond
+                return diamond
+    
+    return None
 
-def find_all_diamonds(G, max_depth=None, yield_results=False):
+def find_unique_source_diamonds(G, max_depth=None, max_patterns=1000):
     """
-    Find all diamond patterns in a graph.
+    Find diamond patterns with unique source nodes.
     
     Parameters:
     G (nx.DiGraph): The directed graph
     max_depth (int, optional): Maximum path length, if None no limit is applied
-    yield_results (bool): If True, yield results one by one to save memory
+    max_patterns (int): Maximum number of diamond patterns to find
     
-    Returns or Yields:
-    If yield_results is False, returns a list of all diamonds
-    If yield_results is True, yields diamonds one by one
+    Returns:
+    list: Diamond patterns with unique source nodes
     """
-    if yield_results:
-        # Memory-efficient generator mode
-        source_nodes = list(G.nodes())
-        for source in tqdm(source_nodes, desc="Finding diamonds", unit="node"):
-            for diamond in find_diamonds_efficient(G, source, max_depth):
-                yield diamond
-    else:
-        # Collect all results
-        all_diamonds = []
-        source_nodes = list(G.nodes())
-        for source in tqdm(source_nodes, desc="Finding diamonds", unit="node"):
-            diamonds = list(find_diamonds_efficient(G, source, max_depth))
-            all_diamonds.extend(diamonds)
-        return all_diamonds
+    diamonds = []
+    
+    # Get all potential source nodes (nodes with out-degree >= 2)
+    potential_sources = [node for node in G.nodes() if G.out_degree(node) >= 2]
+    
+    # Shuffle the list to get a random order
+    random.shuffle(potential_sources)
+    
+    # Limit the number of source nodes to check
+    source_limit = min(max_patterns * 10, len(potential_sources))
+    sources_to_check = potential_sources[:source_limit]
+    
+    print(f"Checking up to {len(sources_to_check)} potential source nodes for diamonds")
+    
+    # Process each source node
+    for source in tqdm(sources_to_check, desc="Finding diamonds", unit="node"):
+        # Stop if we've found enough patterns
+        if len(diamonds) >= max_patterns:
+            break
+            
+        # Find a diamond starting from this source
+        diamond = find_first_diamond(G, source, max_depth)
+        
+        # If we found a diamond, add it to the list
+        if diamond:
+            diamonds.append(diamond)
+    
+    print(f"Found {len(diamonds)} diamond patterns with unique source nodes")
+    return diamonds
 
-def process_edgelist_files(folder_path, output_folder=None, max_depth=None, 
-                      start_index=None, end_index=None, memory_efficient=False):
+def process_edgelist_files(folder_path, output_file, max_depth=None, max_patterns_per_graph=1000):
     """
     Process all edgelist files in the specified folder,
-    find diamond patterns, and save the results to individual files.
+    find diamond patterns with unique source nodes, and save all results to one file.
     
     Parameters:
     folder_path (str): Path to the folder containing edgelist files
-    output_folder (str, optional): Path to folder where result files will be saved
+    output_file (str): Path to the output file
     max_depth (int, optional): Maximum path length to consider
-    start_index (int, optional): Starting index of files to process
-    end_index (int, optional): Ending index of files to process
-    memory_efficient (bool): If True, process and save diamonds one by one
+    max_patterns_per_graph (int): Maximum number of diamond patterns to find per graph
     
     Returns:
     dict: A dictionary containing summary information for all processed files
@@ -177,23 +189,18 @@ def process_edgelist_files(folder_path, output_folder=None, max_depth=None,
     if not os.path.exists(folder_path):
         raise ValueError(f"Folder does not exist: {folder_path}")
     
-    # Create output folder if it doesn't exist
-    if output_folder and not os.path.exists(output_folder):
-        os.makedirs(output_folder)
-        print(f"Created output folder: {output_folder}")
+    # Ensure output directory exists
+    output_dir = os.path.dirname(output_file)
+    if output_dir and not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+        print(f"Created output directory: {output_dir}")
     
     summary = {}
+    all_diamonds = []
     
     # Get sorted list of files
     file_list = sorted([f for f in os.listdir(folder_path) 
                       if os.path.isfile(os.path.join(folder_path, f))])
-    
-    # Apply index slicing if specified
-    if start_index is not None or end_index is not None:
-        start = start_index if start_index is not None else 0
-        end = end_index if end_index is not None else len(file_list)
-        file_list = file_list[start:end]
-        print(f"Processing files from index {start} to {end-1}")
     
     # Process each file in the folder with a progress bar
     for filename in tqdm(file_list, desc="Processing Files", unit="file"):
@@ -205,98 +212,45 @@ def process_edgelist_files(folder_path, output_folder=None, max_depth=None,
             
             print(f"Finding diamonds in {filename} ({len(G.nodes())} nodes, {len(G.edges())} edges)")
             
-            # Memory-efficient processing
-            if memory_efficient and output_folder:
-                # Create output filename
-                base_name = os.path.splitext(filename)[0]
-                output_filename = f"{base_name}_diamonds.json"
-                output_path = os.path.join(output_folder, output_filename)
-                
-                # Process and write diamonds one by one
-                with open(output_path, 'w') as f:
-                    # Start the JSON file
-                    f.write('{\n')
-                    f.write(f'  "graph_info": {{\n')
-                    f.write(f'    "nodes": {len(G.nodes())},\n')
-                    f.write(f'    "edges": {len(G.edges())}\n')
-                    f.write('  },\n')
-                    f.write('  "diamonds": [\n')
-                    
-                    # Stream diamonds one by one
-                    diamond_count = 0
-                    for i, diamond in enumerate(find_all_diamonds(G, max_depth=max_depth, yield_results=True)):
-                        if i > 0:
-                            f.write(',\n')
-                        json.dump(diamond, f, indent=4)
-                        diamond_count += 1
-                        if diamond_count % 1000 == 0:
-                            print("Diamond Count", diamond_count, flush=True)
-                        if diamond_count == 10000:
-                            exit(0)
-                    
-                    # Close the JSON structure
-                    f.write('\n  ],\n')
-                    f.write(f'  "diamond_count": {diamond_count}\n')
-                    f.write('}\n')
-                
-                print(f"Results for {filename} saved to {output_path}")
-                
-                # Store summary information
-                summary[filename] = {
-                    'nodes': len(G.nodes()),
-                    'edges': len(G.edges()),
-                    'diamond_count': diamond_count
-                }
-                
-                print(f"Processed {filename}: Found {diamond_count} diamond patterns")
-                
-                # Force garbage collection to free memory
-                import gc
-                gc.collect()
-                
-            else:
-                # Standard processing (load all diamonds into memory)
-                diamonds = find_all_diamonds(G, max_depth=max_depth)
-                
-                # Create results for this file
-                file_results = {
-                    'graph_info': {
-                        'nodes': len(G.nodes()),
-                        'edges': len(G.edges())
-                    },
-                    'diamonds': diamonds,
-                    'diamond_count': len(diamonds)
-                }
-                
-                # Save results to individual file if output folder is specified
-                if output_folder:
-                    base_name = os.path.splitext(filename)[0]
-                    output_filename = f"{base_name}_diamonds.json"
-                    output_path = os.path.join(output_folder, output_filename)
-                    
-                    with open(output_path, 'w') as f:
-                        json.dump(file_results, f, indent=2)
-                    print(f"Results for {filename} saved to {output_path}")
-                
-                # Store summary information
-                summary[filename] = {
-                    'nodes': len(G.nodes()),
-                    'edges': len(G.edges()),
-                    'diamond_count': len(diamonds)
-                }
-                
-                print(f"Processed {filename}: Found {len(diamonds)} diamond patterns")
+            # Find diamonds with unique source nodes in this graph
+            diamonds = find_unique_source_diamonds(
+                G, 
+                max_depth=max_depth, 
+                max_patterns=max_patterns_per_graph
+            )
+            
+            # Add file information to each diamond
+            for diamond in diamonds:
+                diamond['file'] = filename
+            
+            # Add to the overall collection
+            all_diamonds.extend(diamonds)
+            
+            # Store summary information
+            summary[filename] = {
+                'nodes': len(G.nodes()),
+                'edges': len(G.edges()),
+                'diamond_count': len(diamonds)
+            }
+            
+            print(f"Processed {filename}: Found {len(diamonds)} diamond patterns")
             
         except Exception as e:
             print(f"Error processing {filename}: {str(e)}")
             summary[filename] = {'error': str(e)}
     
-    # Save summary to the output folder if specified
-    if output_folder:
-        summary_path = os.path.join(output_folder, "summary.json")
-        with open(summary_path, 'w') as f:
-            json.dump(summary, f, indent=2)
-        print(f"Summary saved to {summary_path}")
+    # Save all diamonds to a single file
+    print(f"Saving {len(all_diamonds)} diamond patterns to {output_file}")
+    with open(output_file, 'w') as f:
+        # Create a combined results object
+        combined_results = {
+            'summary': summary,
+            'total_diamonds': len(all_diamonds),
+            'diamonds': all_diamonds
+        }
+        json.dump(combined_results, f, indent=2)
+    
+    print(f"Results saved to {output_file}")
     
     return summary
 
@@ -324,29 +278,24 @@ def print_diamond_summary(summary):
 def main():
     import argparse
     
-    parser = argparse.ArgumentParser(description='Find diamond patterns in directed graphs from edgelist files.')
-    parser.add_argument('--folder_path', type=str, help='Path to the folder containing edgelist files')
-    parser.add_argument('--output', '-o', type=str, default=None, 
-                        help='Path to folder where result files will be saved (optional)')
+    parser = argparse.ArgumentParser(description='Find diamond patterns with unique source nodes in directed graphs.')
+    parser.add_argument('--folder_path', type=str, required=True,
+                        help='Path to the folder containing edgelist files')
+    parser.add_argument('--output', '-o', type=str, required=True, 
+                        help='Path to the output file for all diamond patterns')
     parser.add_argument('--max-depth', '-d', type=int, default=None, 
                         help='Maximum path length to consider for diamond patterns (optional)')
-    parser.add_argument('--start-index', '-s', type=int, default=None,
-                        help='Starting index of files to process (0-based)')
-    parser.add_argument('--end-index', '-e', type=int, default=None,
-                        help='Ending index of files to process (exclusive)')
-    parser.add_argument('--memory-efficient', '-m', action='store_true',
-                        help='Use memory-efficient processing (stream results directly to file)')
+    parser.add_argument('--patterns-per-graph', '-p', type=int, default=1000,
+                        help='Maximum number of diamond patterns to find per graph (default: 1000)')
     parser.add_argument('--disable-progress', action='store_true', 
                         help='Disable progress bars (useful for logging to file)')
     
     args = parser.parse_args()
     
     folder_path = args.folder_path
-    output_folder = args.output
+    output_file = args.output
     max_depth = args.max_depth
-    start_index = args.start_index
-    end_index = args.end_index
-    memory_efficient = args.memory_efficient
+    patterns_per_graph = args.patterns_per_graph
     
     # Configure tqdm based on progress bar preference
     if args.disable_progress:
@@ -355,20 +304,16 @@ def main():
         tqdm = lambda *args, **kwargs: args[0]
     
     print(f"Processing files in {folder_path}")
-    print(f"Output folder: {output_folder if output_folder else 'None (results will not be saved)'}")
+    print(f"Output file: {output_file}")
     print(f"Maximum path depth: {max_depth if max_depth else 'No limit'}")
-    print(f"File index range: {start_index if start_index is not None else 0} to " +
-          f"{end_index if end_index is not None else 'end'}")
-    print(f"Memory-efficient mode: {'Enabled' if memory_efficient else 'Disabled'}")
+    print(f"Maximum patterns per graph: {patterns_per_graph}")
     
     # Process the files and find diamonds
     summary = process_edgelist_files(
         folder_path, 
-        output_folder, 
+        output_file, 
         max_depth=max_depth,
-        start_index=start_index,
-        end_index=end_index,
-        memory_efficient=memory_efficient
+        max_patterns_per_graph=patterns_per_graph
     )
     
     # Print summary
