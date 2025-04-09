@@ -1,0 +1,1000 @@
+Full committee chairman|Darrell Issa|{'relation': 'is being here'}
+Members of the Committee|Ms. Mattingley|{'relation': 'speaks to'}
+children who were once in foster care|their own children|{'relation': 'involve'}
+Biden Administration|Tribal sovereignty|{'relation': 'supports'}
+available funding|multiple water management agencies|{'relation': 'can be utilized in conjunction with'}
+U.S. Forest Service|Advisory Council on Historic Preservation|{'relation': 'has support from'}
+public health|trust|{'relation': 'need to restore'}
+Budget Accountability Office|climate change|{'relation': 'say is unsustainable'}
+reducing methane emissions|oil and gas production|{'relation': 'is a root cause of climate change'}
+Biden administration|regulatory burden|{'relation': 'has increased'}
+U.S. Forest Service|procure and plant seedlings|{'relation': 'called on'}
+The Chinese Exclusion Acts|Unauthorized Chinese migration|{'relation': 'resulted in'}
+small and medium sized businesses|export|{'relation': 'has gone up a little bit'}
+gentlemen|Mr. Chair|{'relation': 'has been thanked by'}
+individual tribal members|IHS|{'relation': 'have been impacted by'}
+Federal Government's regulatory authority|Congress|{'relation': 'is under an assault on'}
+President's budget|Port Infrastructure Development Program|{'relation': 'would bring the total amount of funding available in FY 2025 to $530 million'}
+project delivery|water infrastructure projects|{'relation': 'can build more innovative assets'}
+vaccinations|mass harm|{'relation': 'were compared to'}
+Facilities|SBA|{'relation': 'has oversight of'}
+CISA's Notice of Proposed Rulemaking|cyberattacks|{'relation': 'has people concerned about'}
+cyber insurance protection gap|potential damage to U.S. critical infrastructure|{'relation': 'has'}
+Chinese People's Consultant of Congress|CCP|{'relation': 'is the policy advising body for'}
+renewables|energy production|{'relation': 'would not be enough when the wind is not blowing'}
+non|China|{'relation': 'raise concerns about human rights abuses'}
+large corporations|will benefit from the tax credit provisions|{'relation': 'will benefit from the Inflation Reduction Act'}
+VA medical center|Employee|{'relation': 'has policies regarding'}
+shifts|climate change|{'relation': 'in'}
+reservists|FEMA|{'relation': 'has a training program for'}
+community college|rural communities|{'relation': 'can be helpful for'}
+energy sources|oil and gas demand|{'relation': 'are the most efficient in'}
+economy|national security|{'relation': 'is related to'}
+State Homeland Security Grant Program|Fire Departments|{'relation': 'helps to maintain readiness to respond to major disasters'}
+technologies of concern|Chinese companies|{'relation': 'should be restricted to protect human rights'}
+criminal investigators|Homeland Security Investigations|{'relation': 'is a part of'}
+National Incident Management Assistance Team|FEMA|{'relation': 'is a team of'}
+corporations|products|{'relation': 'makes overseas'}
+higher corporate taxes|prices for consumers|{'relation': 'result in'}
+Public transit workers|Jobs|{'relation': 'have connections to'}
+financial concerns|Senator Van Hollen|{'relation': 'has been concerned about'}
+high hazard workplaces|workers|{'relation': 'are protected from'}
+China's legal system|Chinese Communist Party|{'relation': 'is a critic of'}
+minimum cybersecurity requirements|cybersecurity|{'relation': 'should be considered'}
+Offshore energy|less environmental impact|{'relation': 'is a true story of accomplishing more with'}
+convening authority|National Cyber Director|{'relation': 'What are going to be the strengths of getting this done'}
+Emerging technologies|China|{'relation': 'poses a threat to'}
+Small Business Development Centers|Small Business Administration (SBA|{'relation': 'have'}
+forest management practices|Forest Resource Association|{'relation': 'can allow'}
+other costs|mandatory fixed cost increases|{'relation': 'are included in'}
+regulations|small innovators|{'relation': 'can compile and buildup on'}
+Federal law enforcement|police forces of likeminded partners|{'relation': 'are part of'}
+civilian|Army Reserve|{'relation': 'can be brought into'}
+Public lands management|Mining Regulatory Clarity Act|{'relation': 'would upend'}
+protective gear|firefighters|{'relation': 'are needed to respond to'}
+room 2154|The Subcommittee|{'relation': 'is the location of'}
+Cost of doing business|Small businesses|{'relation': 'will be challenging'}
+fossil fuel workers|through the transition to renewables|{'relation': 'must be supported'}
+Congress|anti|{'relation': 'should be regulated'}
+Emergency response workers|health and safety risks|{'relation': 'face considerable'}
+Chinese connections|privacy|{'relation': 'compromise of'}
+our southern border|illegal entry|{'relation': 'has become a crisis'}
+Native American owned businesses|people|{'relation': 'employing in their communities'}
+corporations|offshoring|{'relation': 'use tax tricks like'}
+House Foreign Affairs Committee|State Department|{'relation': 'is related to'}
+subcommittee hearing|Chairman Dan Bishop|{'relation': 'made on May 16, 2024'}
+States and Indian tribes|PEAF|{'relation': 'are eligible for reallotted funds'}
+National Cybersecurity Strategy (NCS|Implementation Plan|{'relation': 'pursuant to'}
+Native Americans|affordable dental care|{'relation': 'especially have a problem with'}
+U.S. Department of Agriculture|Rural Partners Network|{'relation': 'assists rural communities'}
+loan programs|SBA|{'relation': 'are administered by'}
+sicker|disabled Long COVID patients|{'relation': 'hundreds of thousands likely to become and almost certainly become poorer'}
+specific accountability measures|Federal agencies|{'relation': 'should adhere to'}
+other goals|Government agencies|{'relation': 'are being served by'}
+federally assisted infrastructure projects|all federal agencies and departments|{'relation': 'across'}
+subsidies portion of agriculture|U.S.|{'relation': 'needs to be the focus of'}
+resources and transparency|Federal Government|{'relation': 'makes as possible'}
+Senators Murkowski|Committee on Health, Education, Labor, and Pensions|{'relation': 'are members of'}
+tax increase|families and small businesses|{'relation': 'will affect'}
+incentive programs|farmers|{'relation': 'could accelerate the implementation and maximize the benefits of'}
+farm financial conditions|farmers|{'relation': 'is focused on the well being of'}
+roadmap for Congress to further strengthen invaluable Federal programs|Congress|{'relation': 'is for'}
+cybersecurity needs|critical infrastructure sectors|{'relation': 'is complicated by interdependency and interconnectedness'}
+acres|Forest Service|{'relation': 'has 340,000'}
+primary health care|Older Americans Act|{'relation': 'we have begun work on'}
+Reasonably young person|COVID|{'relation': 'was hospitalized with'}
+human rights violations|China's manufacturing industries|{'relation': 'are built on'}
+different countries|Senator Van Hollen|{'relation': 'was mentioned by'}
+Judiciary Committee|Congress|{'relation': 'should do the same'}
+Cyber Effects|cyber work force|{'relation': 'encompasses a wide range of'}
+USVI's heavy reliance on imported fossil fuels|high energy costs|{'relation': 'contributes to'}
+Rules Committee|I|{'relation': 'was Chairman of'}
+smaller businesses|research and development|{'relation': 'has thoughts on'}
+all industries|tax relief|{'relation': 'advantages'}
+artificial intelligence|skills necessary for cybersecurity|{'relation': 'are constantly evolving'}
+contractors|Chairman|{'relation': 'have been working with'}
+Federal level|charter schools|{'relation': 'are talking about'}
+enforcement|infrastructure|{'relation': 'is being used'}
+bipartisan manner|CWMD Office|{'relation': 'is discussed by'}
+VA facilities|staffing|{'relation': 'are looking to cut back on'}
+fiscal reform|inflation|{'relation': 'can help deal with'}
+stronger supply chains|more jobs|{'relation': 'and'}
+retirement pay|veterans|{'relation': 'is for'}
+US Department of Transportation|Federal Highway Administration|{'relation': 'has been used by'}
+agricultural producers|U.S. agricultural trade|{'relation': 'has signaled a deficit'}
+nutrition services|funding|{'relation': 'is primarily spent on'}
+Committee hearing|is adjourned|{'relation': 'is related to'}
+the number of|committees|{'relation': 'in Congress'}
+thank you|Chairman Pfluger|{'relation': 'I'}
+Representative Van Duyne|Thank you very much, Mr. Chairman|{'relation': 'has'}
+Congressperson|hearing|{'relation': 'is here for'}
+Federal revenues|tax cuts|{'relation': 'have dramatically reduced'}
+VA's success|its collaboration with local VSO Officers|{'relation': 'is due to'}
+pharmaceutical companies|profit|{'relation': 'are earning'}
+defense of the Nation|National Guard|{'relation': 'is the primary combat reserve of our defense of the Nation'}
+Federal programs|Supplemental Nutrition Assistance Program|{'relation': 'would be sought through'}
+Consumer Safety Protection Bureau|new mandatory regulations|{'relation': 'would be required to issue'}
+collaborative efforts|rural communities|{'relation': 'can build a more resilient and sustainable future'}
+Chinese hackers|civilians|{'relation': 'indifferent to'}
+Wildlife Habitat Conservation Act|state agencies|{'relation': 'would prohibit from doing a good job of managing'}
+National Security Implications|foreign governments|{'relation': 'presents'}
+Department policies and procedures|drones|{'relation': 'regulate the use of'}
+Representatives Weber|Committee on Energy and Commerce|{'relation': 'is a member of'}
+Kinship Care|Social Workers|{'relation': 'need more help and support'}
+Chinese entities operating abroad|China|{'relation': 'condition the behavior of'}
+coordination|veterans|{'relation': 'rural areas who need is for'}
+prescriptions or supplies|VA outpatient or CMOP|{'relation': 'are through'}
+USDA|American agriculture|{'relation': 'should serve the interests of'}
+witnesses|testimony|{'relation': 'will be the truth'}
+Wages|inflation|{'relation': 'have gone up faster than'}
+provisions|drug prices|{'relation': 'lower'}
+communities|local and state resources|{'relation': 'relying on'}
+Federal Bureau of Investigations|Department of Justice|{'relation': 'is a component of'}
+narcotics trafficking|drug addiction|{'relation': 'are largely a by'}
+free drug|$3.9 billion|{'relation': 'provided in 2022'}
+reducing CO2 emissions|climate change|{'relation': 'is a solution'}
+Department of Homeland Security Grant Programs|subcommittee|{'relation': 'has jurisdiction over'}
+Natural Hazard Mitigation Saves: 2018 Interim Report|FEMA|{'relation': 'is referenced by'}
+Committee's Democratic staff|report|{'relation': 'detailing'}
+So, thank you, Mr. Chair|bipartisan manner|{'relation': 'is working in'}
+other diseases|vaccines|{'relation': 'are related to'}
+rulemaking process|small business|{'relation': 'is vitally important in'}
+Americans with disabilities|the future they want to hold|{'relation': 'will provide'}
+National Cyber Strategy|National Infrastructure Risk Management Plan|{'relation': 'starts at the sectors'}
+labor organizations|United States|{'relation': 'are responsible for'}
+energy leasing|energy production|{'relation': 'is related to'}
+bureau|Arizona's Tribal Nations|{'relation': 'rural communities need help from'}
+Ranking Member Bill Cassidy, M.D.|Members of the Committee|{'relation': 'is being addressed by'}
+Representative Griffith|Committee on House Administration|{'relation': 'are members of'}
+Subcommittee on Counterterrorism, Law Enforcement, and Intelligence|National Security realm|{'relation': 'is related to'}
+regulatory costs|government mandate|{'relation': 'are assumed away under'}
+Senate colleagues|act|{'relation': 'must'}
+hunters and fishers|Coastal and Estuarine Land Conservation Program|{'relation': 'is benefiting from'}
+The Biden administration|Actions|{'relation': 'has announced'}
+offshore wind energy projects|fishing communities|{'relation': 'has impacted'}
+Older Americans Act reauthorization process|what needs|{'relation': 'provides an opportunity to look at'}
+efficient and adequately resourced compensation programs|vaccine confidence|{'relation': 'can improve'}
+drug shortages|prices of drugs in shortage|{'relation': 'increased by up to 16.6%'}
+child welfare systems|transition age foster youth|{'relation': 'fail to find permanent families'}
+encourage Congress|and the administration|{'relation': 'to work'}
+identify potential opportunities|FEMA|{'relation': 'help'}
+healthcare agencies|CDC|{'relation': 'and from'}
+process|veterans|{'relation': 'is wrong'}
+habitat corridors|other wildlife|{'relation': 'would help protect for'}
+FY 2025|CRISI|{'relation': 'has a $1.25 billion resources'}
+Rural communities|climate resilience|{'relation': 'can benefit from'}
+rancher|Federal lands|{'relation': 'uses'}
+drug trafficking|human rights abuses|{'relation': 'is connected to'}
+Senator|Mr. Biden|{'relation': 'was'}
+congressional oversight|expenditure of taxpayer money|{'relation': 'applies to'}
+workforce safety|transit systems|{'relation': 'should be ensured'}
+U.S. supply chains|China|{'relation': 'is controlled by'}
+climate mitigation and adaptation strategies|climate change impacts|{'relation': 'address'}
+law enforcement officers|greater support|{'relation': 'need'}
+VA State Veterans Home Construction Grant Program|health care professionals|{'relation': 'should increase funding to address national shortages of'}
+Department of Energy|affiliates|{'relation': 'has'}
+structure|tribal advantages|{'relation': 'how to use'}
+2024 appropriations bill|generally robust funding|{'relation': 'has'}
+Federal work force|government|{'relation': 'is populated by'}
+Coastal resilience funding|communities|{'relation': 'is making its way into'}
+United States Congress|Joint Economic Committee|{'relation': 'is a part of'}
+Executive action|Congress|{'relation': 'has been enforced by'}
+Rampant inflation|COVID|{'relation': 'led to'}
+cybersecurity regulatory harmonization|Office of the National Cyber Director|{'relation': 'released a request for information on'}
+title to trust land|returned to tribes and individuals in fee|{'relation': 'must confer permanent jurisdiction, complete with full taxation powers, to the tribe'}
+Chairman WILLIAMS|Representative|{'relation': 'recognize'}
+House Judiciary Committee|chamber|{'relation': 'is a part of'}
+House Appropriations Committee|Federal Government|{'relation': 'funds'}
+Debt projections|Tax cuts|{'relation': 'are the primary reason for'}
+biodiversity|national wildlife refuges|{'relation': 'remain strongholds of'}
+January 7|Chairman|{'relation': 'mentioned'}
+pipelines|Pipeline and Hazardous Materials Safety Administration|{'relation': 'is regulated by'}
+inaugural legislative hearing|Derek Kilmer|{'relation': 'talked about'}
+U.S. antitrust law|Chinese State|{'relation': 'has struggled to address'}
+existing rules|regulations|{'relation': 'do not include'}
+producers|industry|{'relation': 'championing the interests of our farmers and agriculture producers'}
+Organizations|cyber resilience strategy|{'relation': 'should incorporate'}
+trials|vaccine|{'relation': 'suppressed'}
+transnational crime and drugs|is a threat to|{'relation': 'has the result of'}
+rescue|FEMA|{'relation': 'should be in charge of by'}
+data requests|Derek Kilmer|{'relation': 'talked about'}
+Government source|FEMA|{'relation': 'is a validated'}
+oversight and inspections|Federal Government|{'relation': 'makes as possible'}
+briefing|testimony|{'relation': 'talked about'}
+facts|fossil fuel industry|{'relation': 'obvious'}
+Caregiver Services|Loved One|{'relation': 'especially those who are providing'}
+Representatives Fletcher|Committee on Energy and Commerce|{'relation': 'is a member of'}
+CARES Act Funds|Congress|{'relation': 'is providing funding through'}
+State|Federal Government|{'relation': 'has reporting requirements across'}
+executive branch|political accountability|{'relation': 'operates within a system of'}
+fossil fuel business as usual|country|{'relation': 'too much'}
+new technologies|new and beginning farmers|{'relation': 'are seeking'}
+Russian domination|Putin's imagined past|{'relation': 'is rooted in'}
+Accountability|VA|{'relation': 'is needed'}
+family finding|kinship foster care|{'relation': 'championed by Congress'}
+fight|veterans|{'relation': 'is being fought for'}
+fossil fuel industry|pollution|{'relation': 'foments'}
+The Chairman|Mr. Cooper|{'relation': 'recognized'}
+policy matters affecting persons with disabilities|AbilityOne Program|{'relation': 'is advised on'}
+House Natural Resources Committee|Subcommittee on Water, Wildlife and Fisheries|{'relation': 'has a Subcommittee on'}
+Tom Cole|full committee|{'relation': 'is the new chairman of'}
+organizations|issue|{'relation': 'have asked FEMA and Congress to address'}
+National Environmental Policy Act|Endangered Species Act|{'relation': 'is related to'}
+Marine veterans|service|{'relation': 'remain connected to'}
+Russia's aggression in Ukraine|PRC|{'relation': 'are consequences of'}
+grant program|VA|{'relation': 'is used by'}
+Subcommittee|Ms. Mace|{'relation': 'is adjourned by'}
+Chinese cyber|China|{'relation': 'has the power to influence'}
+agriculture|regulations|{'relation': 'takes the form of'}
+rising inflation|cost of living|{'relation': 'should be considered'}
+state, local and tribal governments|Office of the Secretary|{'relation': 'will provide grants to'}
+2025 budget request|national security|{'relation': 'undermines'}
+significant investments|native wildlife|{'relation': 'must be made for'}
+small towns|rural communities|{'relation': 'is compared to'}
+global economy|climate change|{'relation': 'will affect'}
+human caused climate change|society|{'relation': 'poses significant risks to'}
+profits|tax benefits|{'relation': 'had some'}
+supply chains|United States|{'relation': 'is addressing the future resilience of'}
+Senators Whitehouse, Merkley, Van Hollen, Lujan, Grassley, Johnson, Romney, Braun and R. Scott|Committee on the Budget|{'relation': 'are present at'}
+Chairman Stauber|Subcommittee|{'relation': 'is a member of'}
+disaster assistance program|predictability|{'relation': 'will provide'}
+accreditation process|veterans|{'relation': 'is for'}
+abortion denial|inability to access abortion care|{'relation': 'has severe consequences'}
+Federal resources|significant|{'relation': 'would be needed'}
+healthcare system|United States|{'relation': 'has allowed Americans to have access to more new innovative medicines sooner than any other country'}
+climate change|American people|{'relation': 'could cause problems for'}
+the United States|fossil fuel|{'relation': 'are cutting down on'}
+operational staff|need to be in front of this Committee|{'relation': 'to answer questions'}
+older individuals|retirement|{'relation': 'is related to'}
+renewables|energy consumed globally|{'relation': 'supply most of'}
+geopolitical tensions|Russia's invasion of Ukraine|{'relation': 'has caused'}
+Chinese entities|U.S. military installations|{'relation': 'are close to'}
+Many of those who do have dental insurance|The United States|{'relation': 'find that coverage to be totally inadequate'}
+Agencies|laws|{'relation': 'implement or enforce'}
+Agriculture|commodities|{'relation': 'sticking together is critical'}
+Representatives Allen|Committee on Energy and Commerce|{'relation': 'is a member of'}
+Workforce|Size|{'relation': 'is to be increased'}
+government regulation|departments|{'relation': 'has created'}
+Alaska Native corporations|Natives|{'relation': 'provide benefits'}
+Taylor et al.|2023|{'relation': 'The efficacy of competitive integrated employment versus segregated employment for persons with disabilities: A systematic review'}
+hazard mitigation measures|National Emergency Management Association|{'relation': 'was mentioned in the question about'}
+control|China|{'relation': 'is from China'}
+public health|social issues|{'relation': 'must address'}
+federal policy|programs|{'relation': 'support'}
+Uyghur history and religion|Chinese government|{'relation': 'is being targeted by'}
+Martin Smith|Chairman|{'relation': 'is'}
+executive branch|agencies|{'relation': 'focusing on'}
+Program|Emergency Relief Program|{'relation': 'administration of 2022'}
+global warming|climate change|{'relation': 'is a cause of'}
+compliance burdens|cybersecurity|{'relation': 'would remove a lot of burden'}
+affordable housing development|homelessness|{'relation': 'can help with'}
+family farms|local economies|{'relation': 'translates to'}
+public transportation infrastructure|tribal members seeking treatment|{'relation': 'means they must drive several hours'}
+the issue|President Biden|{'relation': 'has spoken to'}
+this year|2022|{'relation': 'is different from'}
+veterans home|Kansas Commission on Veterans Affairs|{'relation': 'is being planned by'}
+medically underserved communities|rural communities|{'relation': 'are'}
+aging veterans|homelessness|{'relation': 'challenged us to improve services and access'}
+sense|workplace safety|{'relation': 'is concerned about'}
+CDC Office of Rural Health|rural communities|{'relation': 'is instrumental for'}
+further disruptive strategies|Russian military|{'relation': 'could be facilitated by'}
+one employee|VA|{'relation': 'is an employee of'}
+bipartisan|widespread|{'relation': 'support'}
+United States House Committee on Transportation & Infrastructure|FAA|{'relation': 'has worked with'}
+American emissions|greenhouse gas emissions|{'relation': 'decreasing'}
+spending|GDP|{'relation': 'increases'}
+Businesses|Minority businesses|{'relation': 'can become primes and general contracts'}
+advances in the industry|registered apprenticeship program|{'relation': 'training around'}
+Rural communities|Nation's fabric|{'relation': 'are an important part of'}
+The American Rescue Plan Act|Area Agencies on Aging|{'relation': 'provided funds for'}
+you potentially suggested farmers are going to need some kind of economic assistance|given the current climate|{'relation': 'results in'}
+Soldier for Life|Department of Veterans Affairs|{'relation': 'has broader support'}
+https://sgp.fas.org/crs/misc/IF10585.pdf|Forest Service|{'relation': 'has adopted'}
+major rulemakings|executive branch|{'relation': 'should be undertaken by'}
+The Department of Homeland Security|AI|{'relation': 'will evaluate'}
+Iran|interests|{'relation': 'has been targeted'}
+national wildlife refuge system|System's mission|{'relation': 'is to administer a national network of lands and waters for the conservation, management, and where appropriate, restoration of the fish, wildlife, and plant resources and their habitats within the United States for the benefit of present and future generations of Americans'}
+dental care workforce|rural and underserved areas|{'relation': 'is an issue in'}
+access to care|patients|{'relation': 'is the real issue'}
+A systematic review of the benefits of hiring people with disabilities|2018|{'relation': 'was published in'}
+These are just a few of the benefits available to veterans during the burial process|we have a tremendous amount of National Guardsman in Montana|{'relation': 'many of my counterparts across the country have chosen not to participate in this program'}
+Representatives Thanedar|Committee on Small Business|{'relation': 'is a part of'}
+Federal Bureau of Investigation|Chinese|{'relation': 'pose a threat to critical infrastructure'}
+Senator Kaine|Committee|{'relation': 'has been a member of'}
+witness experts|Derek Kilmer|{'relation': 'talked about'}
+Van Hollen|Chairman|{'relation': 'thank you'}
+migrants|workforce|{'relation': 'adds to'}
+conspiracy theorists|vaccine|{'relation': 'called'}
+bureaucratic interests|veterans' welfare|{'relation': 'should be prioritized'}
+executive branch|AI|{'relation': 'is using'}
+U.S. Maritime Alert and Advisory System|U.S. Coast Guard|{'relation': 'uses'}
+COVID to healthcare professionals|healthcare professionals|{'relation': 'ultimately causing those deaths'}
+small business boom|country|{'relation': 'is happening in'}
+regulatory framework|sectors|{'relation': 'reflects specific needs'}
+Law enforcement agencies|DHS|{'relation': 'should work to ensure resources are effective'}
+rural state|counties|{'relation': 'has got agriculture and manufacturing in'}
+public/private partnerships|cybersecurity|{'relation': 'are essential for'}
+several studies|Long COVID patients|{'relation': 'estimate that half fit the criteria for ME/CFS'}
+health care services|rural communities|{'relation': 'are in jeopardy for'}
+Fire departments|Volunteers|{'relation': 'staffed by'}
+tax avoidance|companies|{'relation': 'grow at the expense of others'}
+The Chinese|U.S. immigration law|{'relation': 'were singled out in'}
+climate future|taxpayer dollars|{'relation': 'will save more than'}
+Cybersecurity|our Nation|{'relation': 'is a challenge to'}
+chairman|markup|{'relation': 'thanks for holding this'}
+U.S. actions|Congress|{'relation': 'respects the important role of'}
+Immigration laws|Border|{'relation': 'problems at the'}
+Representatives Thanedar|Committee on Small Business|{'relation': 'is a member of'}
+Representative Bowman|Mr. Chairman|{'relation': 'thanked'}
+fossil fuel development|federal permitting|{'relation': 'across the country'}
+Governmental Veteran Service Officers|force multiplier|{'relation': 'are'}
+VA Veterans' Family, Caregiver, and Survivor Advisory Committee|laws and policy|{'relation': 'can request information about'}
+Wednesday, January 31, 2024|Budget Committee|{'relation': 'will be the date of'}
+Cybersecurity outcomes|harmonized approach|{'relation': 'will help ensure'}
+Uyghur Human Rights Protection Act|Chinese dissidents|{'relation': 'should be enabled to access'}
+Department of Labor|You|{'relation': 'is working with'}
+staff|FEMA|{'relation': 'are part of'}
+public safety entities|first responders|{'relation': 'work with'}
+Mr. Burchett|Mr. Chairman|{'relation': 'thanks'}
+baseline cybersecurity requirements|critical infrastructure|{'relation': 'across'}
+Chinese drug cartels|foreign criminal cartels|{'relation': 'are part of'}
+inflation|Clausing|{'relation': 'is related to'}
+federal government|states|{'relation': 'have an obligation to'}
+benefits|Senator Van Hollen|{'relation': 'has been talked about by'}
+public health system|country|{'relation': 'works to prevent and end pandemic'}
+military|Ukraine|{'relation': 'impacts in more practical ways'}
+Charter schools|public schools|{'relation': 'have failed to outperform'}
+federal|operators|{'relation': 'would still be subject to state permitting regulations'}
+Coast Guard|VA|{'relation': 'has interoperability with'}
+Inability to Obtain Credit|Tribal Members|{'relation': 'results in'}
+resources|regulatory agencies|{'relation': 'are needed'}
+Communist China|industries|{'relation': 'is subsidizing'}
+National Centers of Academic Excellence in Cybersecurity|Cyber Clinics|{'relation': 'is launching'}
+disabilities|caregivers|{'relation': 'require support'}
+Human rights|Tiananmen Square protests|{'relation': 'is about'}
+Forest Portfolio|US Forest Service|{'relation': 'has'}
+we do face a lot of threats in this country|to our national security|{'relation': 'to'}
+habitat conservation and restoration plans|states and tribes|{'relation': 'are implementing'}
+years|Long Covid|{'relation': 'can develop'}
+smallest companies|tax system|{'relation': 'is harmed by'}
+Washington, DC|Subcommittee on Oversight|{'relation': 'is the location of'}
+coastal communities|flood risk|{'relation': 'better protect from'}
+State Departments of Agriculture|Federal Regulations|{'relation': 'are responsible for regulating'}
+National Security Strategy|Navy|{'relation': 'is aligning with'}
+health visits|tribal citizens|{'relation': 'can continue to follow'}
+increasing health care costs|lack of affordability|{'relation': 'results in'}
+vaccine information sheets|public|{'relation': 'are communicated to'}
+Labor, Health, and Human Services Subcommittee|Wednesday|{'relation': 'is holding a hearing'}
+decades|next pandemic|{'relation': 'will help prepare for'}
+Including a diverse range of perspectives|ensuring the work of this committee|{'relation': 'is essential to'}
+older youth who exit foster care|will be parents by age 21|{'relation': 'are part of'}
+Group homes and residential care|Youth in foster care|{'relation': 'has decreased'}
+United States House of Representatives|United States Congress|{'relation': 'is part of'}
+sovereignty|H.R. 1208|{'relation': 'allows tribes to fully realize benefits of'}
+wildfire risks|geographic challenges|{'relation': 'are associated with'}
+tax cut|economy|{'relation': 'has not trickled down in'}
+Small Business Committee|real small business owners|{'relation': 'has heard concerns from'}
+Federal Office of Rural Health Policy|Tribes|{'relation': 'announces resources to'}
+homelessness|rural veterans|{'relation': 'are affecting'}
+society|disaster resilience|{'relation': 'have improved'}
+immigration policy|vulnerable people|{'relation': 'involves'}
+June 20, 2024|5 p.m.|{'relation': 'is the deadline'}
+Members of the Committee|testimony|{'relation': 'was submitted late to'}
+affordable care|caregivers|{'relation': 'have support and resources'}
+commodity prices|farmers|{'relation': 'are affected by'}
+research and data|Tribal Nations|{'relation': 'is insufficient'}
+Federal government|transportation system|{'relation': 'has a principal law enforcement organization within'}
+equality for all|Tribal Community|{'relation': 'culture and traditions of'}
+Federal COVID|public health infrastructure|{'relation': 'is related to'}
+Representatives Bean|Committee on Small Business|{'relation': 'is a member of'}
+Representatives Bean|Committee on Small Business|{'relation': 'is a member of'}
+AI companies|safety, security, trust with advanced systems|{'relation': 'want to equally ensure'}
+small and volunteer firefighters|community safety|{'relation': 'ensure'}
+U.S. Side of the Border|Human Trafficking|{'relation': 'are running into'}
+the Department of Energy|the origins of COVID|{'relation': 'is concluding'}
+choice among vaccines|greater vaccination rate|{'relation': 'will allow'}
+Staffing for Adequate Fire and Emergency Response grant program|fire emergency medical services|{'relation': 'strengthen and equip'}
+ISDEAA|Tribes|{'relation': 'allows Tribes to use as a mechanism for economic development'}
+Financial support|employment opportunities for people with disabilities|{'relation': 'will dramatically open up'}
+Experts|Federal vaccine safety systems|{'relation': 'found them to be woefully inadequate'}
+recommendation|vaccine|{'relation': 'should not be the first'}
+insurance costs|good health|{'relation': 'are barriers to'}
+committee rules|members|{'relation': 'may submit statements, questions, and extraneous materials for the record'}
+regulations|tribes|{'relation': 'have been restricting'}
+Tax cuts|Debt|{'relation': 'will be wiped out by'}
+public health agencies|Federal Government|{'relation': 'is related to'}
+House of Representatives|Committee on Foreign Affairs|{'relation': 'is a part of'}
+mobile medical units|VA|{'relation': 'offers care at'}
+small businesses|tax break|{'relation': 'provided a'}
+U.S. Representative|Derek Kilmer|{'relation': 'is the same as'}
+leaders|committee|{'relation': 'real'}
+success stories|charter schools|{'relation': 'have proven'}
+oversight|policy and procedure|{'relation': 'has'}
+border crisis|cartels|{'relation': 'is a dream scenario for'}
+speculation|COVID|{'relation': 'is related to'}
+state and local government|Federal Government|{'relation': 'has a partnership with'}
+President's budget request for 2025|$4 billion|{'relation': 'is related to'}
+Beijing's machinations|China|{'relation': 'has resulted in'}
+industries|small business|{'relation': 'made connections with'}
+offices|subcommittee|{'relation': 'looks forward to continued collaboration with'}
+Moscow|Russia|{'relation': 'is trying to coerce'}
+Peters|Chairman|{'relation': 'is'}
+GROW for our Veterans Act|Federal jobs|{'relation': 'would create new and creative opportunities for veterans'}
+CIO|Department's cybersecurity posture|{'relation': 'will strengthen'}
+chamber|Congress|{'relation': 'bipartisan issue'}
+Rights of Nature|Tribal claims|{'relation': 'are related to'}
+energy made available|business and homes|{'relation': 'is used for'}
+issue|bipartisan support|{'relation': 'is going to get'}
+Cartel operatives inside the United States|Cartel drug packers or persons ineligible for asylum|{'relation': 'can pick up and then distribute the drugs and people throughout the Nation'}
+Federal Land Policy and Management Act|public lands|{'relation': 'will be in accordance with'}
+grants and loans|states and localities and tribal governments|{'relation': 'go out to'}
+government|FAA|{'relation': 'works with'}
+Representatives Bucshon|Committee on Energy and Commerce|{'relation': 'is a member of'}
+global pandemic|multiple vaccines|{'relation': 'has been combated with'}
+of Readiness|National Guard and Reserves|{'relation': 'is related to'}
+Federal protections|reproductive healthcare|{'relation': 'are being targeted by'}
+National Wildlife Refuge System Administration Act|proposed regulation|{'relation': 'contradicts'}
+Bush tax cuts|Senator Van Hollen|{'relation': 'was mentioned by'}
+Chinese expansion|State Department|{'relation': 'need to be concerned with'}
+Access to reliable and affordable energy|future economic growth and development opportunities|{'relation': 'has a significant impact on'}
+tax benefits|companies|{'relation': 'incentivizes'}
+executive branch|Congress|{'relation': 'is accountable to'}
+societal impacts|inclusive cybersecurity strategies|{'relation': 'must address'}
+high quality public charter schools|specialized learning|{'relation': 'recognizes the importance of'}
+Witnesses|testimony|{'relation': 'is eager to hear'}
+local and state health departments|CDC|{'relation': 'relationship was invaluable to try to identify those pockets where vaccine was not being distributed'}
+Thursday, July 25, 2024|House of Representatives|{'relation': 'is the date of a meeting of'}
+Local Governments|Disaster Response|{'relation': 'supported'}
+Regulation|pharmaceutical industry|{'relation': 'plays into the hands of'}
+care nearby|residents of rural areas|{'relation': 'will get'}
+hospital|vaccine|{'relation': 'forced into'}
+coastal communities|flood risks|{'relation': 'better protect from'}
+Future workforce development|Farmers|{'relation': 'can be helpful for'}
+wildfire risk|federal lands|{'relation': 'on'}
+spending|economy|{'relation': 'gets bigger'}
+VA bureaucracy|healthcare|{'relation': 'is being accessed'}
+Pathways to Independence: Supporting Youth Aging Out of Foster Care|Foster Care|{'relation': 'is related to'}
+https://www.fs.usda.gov/detail/inyo/landmanagement/resourcemanagement/?cid=stelprd3804071|Forest Service|{'relation': 'has adopted'}
+expenditures|Federal challenges|{'relation': 'has'}
+Representatives Chu|Committee on Small Business|{'relation': 'is a member of'}
+family businesses|farming|{'relation': 'are committed to'}
+Department of State|Federal response|{'relation': 'involved the'}
+the Subcommittee|is adjourned|{'relation': 'without objection'}
+20,000 youth|foster care|{'relation': 'age out of without a family or loving adult to guide and support them'}
+National Cyber Workforce and Coordination Group|Office of the National Cyber Director|{'relation': 'led by'}
+farms and ranches|Federal Government|{'relation': 'make it very challenging for'}
+Chairman Comer|United States|{'relation': 'is a chairman of'}
+Renewable energy|is a global issue|{'relation': 'has prospered due to abundant energy'}
+new resources|grid|{'relation': 'are renewable'}
+Government Accountability Office|Congress|{'relation': 'works with'}
+pharmaceutical|supply|{'relation': 'is needed in the United States'}
+regulation|business|{'relation': 'is a type of'}
+securing|safety|{'relation': 'safety begins with'}
+FEMA's Hazard Mitigation Assistance programs|particularly the Building Resilient Infrastructure and Communities (BRIC|{'relation': 'have the potential to play a pivotal role in this effort by empowering communities to take proactive steps toward resilience'}
+energy options|kept on the table|{'relation': 'we can ensure reliable and affordable energy'}
+Representatives Foxx|Committee on Oversight and Accountability|{'relation': 'are members of'}
+vaccine ethics|Dr. Marks|{'relation': 'is concerned about'}
+State and local communities|families|{'relation': 'are best equipped to help'}
+advance funding|IHS|{'relation': 'our tribal members can get the healthcare they need'}
+energy production|industry abroad|{'relation': 'will be driven to'}
+READINESS LEVELS|National Guard|{'relation': 'has a connection to'}
+defense budget|national security|{'relation': 'is part of'}
+Biden Administration|United States|{'relation': 'implement'}
+citizens|Congress|{'relation': 'has a duty to cooperate with'}
+U.S. critical infrastructure|possible disruptive cyber|{'relation': 'are being pre'}
+tribes and state and local governments|fee|{'relation': 'could be reformed to benefit'}
+Ways and Means Committee|field hearings|{'relation': 'held'}
+Chinese students|China|{'relation': 'have a lot of connections'}
+Duplicative, conflicting, or unnecessary regulations|companies|{'relation': 'require to devote more resources to fulfilling technical compliance requirements without improving cybersecurity outcomes'}
+U.S. interests|security|{'relation': 'is threatened by'}
+important wildlife habitat|Bureau of Land Management (BLM|{'relation': 'is contained in'}
+disasters|FEMA|{'relation': 'ensures communities can recover quickly'}
+veteran's medications|VA pharmacy|{'relation': 'information comes from'}
+taxes|Senator Van Hollen|{'relation': 'has a problem with'}
+proposed bill|legislation|{'relation': 'seek to allow'}
+Beijing's state|Chinese government|{'relation': 'is tasked by'}
+Fiscal year 2024|Government of the United States|{'relation': 'is related to'}
+Subcommittee|tribal members|{'relation': 'so that you can do what is in the best interest'}
+drugs|patients|{'relation': 'has been picked up by'}
+wildlife management tools|threatened species|{'relation': 'use to conserve'}
+national forest|BLM authority|{'relation': 'is subject to'}
+table|Senator Van Hollen|{'relation': 'has been pointed out by'}
+Administrative Procedures Act|federal agencies|{'relation': 'regulates'}
+farmers' financial stability|agriculture|{'relation': 'is related to'}
+Maine veterans' homes|veterans housing|{'relation': 'has serious need of funding'}
+Military service|Recruiting|{'relation': 'is clearly conveying the full range of opportunities and benefits of'}
+Representatives Scholten|Committee on Small Business|{'relation': 'is a member of'}
+contracts|small businesses|{'relation': 'made it harder for'}
+legislation|proposals|{'relation': 'will be considered'}
+nonrelative foster care|kinship foster care|{'relation': 'increase in'}
+Flood Mitigation Assistance Grant Program|FEMA|{'relation': 'is part of'}
+Future of AI Innovation Act|AI Safety Institute|{'relation': 'would authorize'}
+Accountability|Chinese officials|{'relation': 'should be held'}
+urban agriculture|new and beginning farmers|{'relation': 'are seeking'}
+borrowing rates|inflation|{'relation': 'is trying to control'}
+Childcare|Families|{'relation': 'is a barrier to accessing'}
+Committee on the Budget|Washington, DC|{'relation': 'is located in'}
+Department of Labor|Veterans Affairs|{'relation': 'are also advanced appropriations for programs at'}
+public health system|pandemic response efforts|{'relation': 'works to prevent and end'}
+support for American's farmers|agencies|{'relation': 'impacts'}
+medical emergencies|fire and emergency service|{'relation': 'respond to'}
+higher level of care|Vet Center|{'relation': 'are making connections for'}
+youths age out of foster care program|success|{'relation': 'are they ready for'}
+appropriations team|Budget Committee|{'relation': 'works with'}
+critical infrastructure entities|cyber insurance policies|{'relation': 'are being discussed about'}
+bipartisan support|infrastructure|{'relation': 'has'}
+Association of Fish and Wildlife Agencies|state fish and wildlife agencies|{'relation': 'represents'}
+Representatives Phillips|Committee on Small Business|{'relation': 'is a part of'}
+International Borders|Cartels|{'relation': 'are controlled by'}
+accessibility|disabled individuals|{'relation': 'is associated with'}
+accuracy|Derek Kilmer|{'relation': 'talked about'}
+military service members|Department of Defense|{'relation': 'has lucrative skills for'}
+employee with a disability|essential functions of the job|{'relation': 'can perform with or without reasonable accommodations'}
+Subcommittee on Aviation|Committee on Transportation and Infrastructure|{'relation': 'is part of'}
+local|Tribal|{'relation': 'and'}
+taxation|small businesses|{'relation': 'should not be narrowed down to'}
+Crop|Farm|{'relation': 'is related to'}
+Nation's security posture|security|{'relation': 'can be significantly enhanced'}
+Representative Kilmer|Committee on House Administration|{'relation': 'are members of'}
+renewable energy|wind power|{'relation': 'can produce from'}
+Coast Guard and Maritime Transportation Subcommittee|Committee on Transportation and Infrastructure|{'relation': 'is a part of'}
+legislation|legislation|{'relation': 'will create'}
+297 grant funding|Tribes|{'relation': 'is specifically for'}
+Chinese spying|American society|{'relation': 'is a threat to'}
+travel assistance|veteran|{'relation': 'is a type of'}
+fiscal year 2024 appropriations|deficit|{'relation': 'get extended out in our budget projections by statute'}
+tax cut|growth in the right direction|{'relation': 'is moving'}
+achievements|Tribal businesses|{'relation': 'deserve a seat at the table to advocate for'}
+FDA|oversight mechanisms|{'relation': 'has'}
+Fiscal Year 2025 budget request|Administration|{'relation': 'has submitted'}
+U.S. energy|areas|{'relation': 'should be exported to'}
+legislative branch appropriations bill|bipartisan manner|{'relation': 'need to work in'}
+Uniform procedure|National Wildlife Refuge System Improvement Act|{'relation': 'authorizes uses of refuge land'}
+the border|Customs and Border Patrol|{'relation': 'are guarding'}
+Congress|support|{'relation': 'will be needed'}
+6.5 million vet patients|VA|{'relation': 'had clinical visits at'}
+inflation|Mr. Part|{'relation': 'has been mentioned in relation to'}
+Witnesses|hearings|{'relation': 'I look forward to hearing from each of our'}
+SBIC programs|small businesses|{'relation': 'are often overlooked'}
+budgetary restrictions|inflation|{'relation': 'is affected by'}
+Members of the Committee|Mr. Kirschner|{'relation': 'has been recognized by'}
+Committee on Armed Services|Subcommittee on Military Personnel|{'relation': 'has a chairman'}
+higher debt|interest rates|{'relation': 'drives up'}
+Committee members|hearing record|{'relation': 'may submit to'}
+regulation|states|{'relation': 'would be useful for'}
+Demand|renewables|{'relation': 'leads to a huge buildout of'}
+Democratic Staff|Committee on the Budget|{'relation': 'are present at'}
+Rep. Moore|Committee|{'relation': 'is a member of'}
+Subcommittee on Coast Guard and Maritime|Committee on Transportation and Infrastructure|{'relation': 'is a part of'}
+several key legislative recommendations|Older Americans Act|{'relation': 'further enhance the support and services provided to'}
+economy|oil and gas|{'relation': 'promotes'}
+taxpayer funds|FEMA|{'relation': 'is being spent by'}
+military readiness|national security|{'relation': 'is related to'}
+interest rates|the national debt|{'relation': 'will cost hundreds of billions more'}
+federal funding|tribal justice systems|{'relation': 'undermines public safety'}
+National Forest System|Forest Service|{'relation': 'is managed by'}
+Homeland Security and Justice Team|subcommittee|{'relation': 'has given testimony'}
+Defense partners|trained and capable cyber work force|{'relation': 'are working to ensure'}
+compliance costs|regulations|{'relation': 'is going to add'}
+local wildlife refuges|working lands project|{'relation': 'is the cornerstone of'}
+state wildlife agencies|wildlife|{'relation': 'have authority over'}
+State departments of agriculture|agriculture|{'relation': 'advocate for'}
+supply chain disruptions|farmers|{'relation': 'are forcing them to receive lower commodity prices'}
+https://www.amnesty.org/en/latest/news/2024/01/china|China|{'relation': 'has link'}
+transition age foster youth|child welfare systems|{'relation': 'fail to find permanent families'}
+vaccine information sheets|potential risks|{'relation': 'are provided to'}
+Washington, DC|Committee on Homeland Security|{'relation': 'is the location of'}
+Committee on Transportation and Infrastructure|Washington, DC|{'relation': 'is located in'}
+state veteran cemeteries|essential health care and memorial services|{'relation': 'provide'}
+States|regulations|{'relation': 'have the option to tailor'}
+competitive grant program|matching federal funding|{'relation': 'will allow state and local funding to be leveraged with'}
+strains|vaccine solution|{'relation': 'requires a vaccine for'}
+government programs|agencies|{'relation': 'are siloed'}
+security guard|Federal Protective Service|{'relation': 'is associated with'}
+Representative Murphy|Committee on House Administration|{'relation': 'are members of'}
+Small Business Administration|minority|{'relation': 'has helped'}
+Federal|Farm|{'relation': 'supports'}
+Russia's war effort in Ukraine|consequences|{'relation': 'has been supported by'}
+policymaking and oversight process|Derek Kilmer|{'relation': 'talked about'}
+fossil fuels|climate change|{'relation': 'will cause'}
+bill|subcommittee|{'relation': 'was passed by'}
+China|oppressed around the world|{'relation': 'has a connection to'}
+safety advancements|legislation|{'relation': 'are made in that'}
+letters they receive|veterans|{'relation': 'is complex'}
+AI|human skills|{'relation': 'are developing'}
+vaccines|cancer screenings|{'relation': 'has an increase in completed'}
+vaccine progress|Dr. Marks|{'relation': 'is concerned about'}
+kinship connections|teens in foster care|{'relation': 'result in'}
+second panel|Derek Kilmer|{'relation': 'talked about'}
+Tribal Nations|BLM|{'relation': 'is committed to honoring a nation'}
+immigration laws|cartel operatives|{'relation': 'can be used against them'}
+Federal forest lands|proceeds|{'relation': 'are funding'}
+HELP Committee|co|{'relation': 'should co'}
+Representatives Cardenas|Committee on Energy and Commerce|{'relation': 'is a member of'}
+health record|plan|{'relation': 'have yet to hear the plan for how to make it work and make sure that our veterans get the care that they need'}
+comprehensive conservation plans|refuge|{'relation': 'is able to develop'}
+regulatory requirements|smaller companies|{'relation': 'has an impact on'}
+veteran system|healthcare information|{'relation': 'it probably is going on'}
+February 5, 2024|Congress|{'relation': 'has been notified'}
+Federal Emergency Management Agency's|Assistance to Firefighters Grant|{'relation': 'are managed by'}
+entrepreneurs and employees with disabilities|barriers to opportunity|{'relation': 'have'}
+Budget Committee|Natural Resources Committee|{'relation': 'has a member in common with'}
+harm small businesses|small business leaders|{'relation': 'will be out of business within 6 months'}
+regulatory landscape for entrepreneurs and employees with disabilities|making employment and small business ownership more attainable and sustainable|{'relation': 'will'}
+Putin|Russia|{'relation': 'envies'}
+House Small Business Committee|Congress|{'relation': 'is referred to as'}
+EPA|regulations|{'relation': 'has'}
+federal law enforcement agencies|federal government's border security responsibilities|{'relation': 'helps to meet'}
+rights protection law enforcement|China|{'relation': 'pursues'}
+subcommittee Chairman|Mr. Rouzer|{'relation': 'is'}
+safe and effective medicines|U.S. pharmaceutical market|{'relation': 'wants to make broadly accessible'}
+agriculture economy|farm financial crisis|{'relation': 'is threatened by'}
+Tribal lands|Mines|{'relation': 'were operated from'}
+Mr Chairman|Ms DeLauro|{'relation': 'thank you'}
+International Port Security Program|U.S. Coast Guard|{'relation': 'is conducted by'}
+Accountability|Government Officials|{'relation': 'is related to'}
+China|crimes|{'relation': 'has committed'}
+companies|veterans|{'relation': 'prey on'}
+current economic landscape|Small Business Committee|{'relation': 'is fighting against'}
+quality, timely, comprehensive mental healthcare and support|veterans|{'relation': 'are receiving'}
+2024|2023|{'relation': 'compared to'}
+Farm|Federal Government|{'relation': 'should support'}
+China expertise|government departments|{'relation': 'is needed in'}
+Border policies|American people|{'relation': 'are working for'}
+regulation|cost|{'relation': 'adds an enormous amount of'}
+AI Safety and Security Board|government|{'relation': 'will advise'}
+lands, waters, and interests therein|U.S. Fish and Wildlife Service|{'relation': 'are administered by'}
+large multinational corporations|small businesses|{'relation': 'taxes were raised for'}
+Ways and Means Committee|field hearings|{'relation': 'has been to several different places across the country'}
+DHS|administration|{'relation': 'is supporting'}
+National Institute of Standards and Technology's Cybersecurity Framework|National Cyber Director|{'relation': 'is related to'}
+Department of Labor|employers|{'relation': 'is focused on'}
+Office of the National Cyber Director|cyber overregulation|{'relation': 'has acknowledged'}
+FBI|law enforcement|{'relation': 'is a part of'}
+The tens of millions of Americans who are unable to afford or unable to access dental care|The healthcare crisis in America|{'relation': 'are a part of'}
+Youth entering the foster care system|Youth in foster care|{'relation': 'has decreased'}
+congress|Department of Labor|{'relation': 'has worked with'}
+Mrs.|subcommittee|{'relation': 'is a member of'}
+tribal organizations|Native Hawaiian organizations|{'relation': 'shall formalize a role'}
+monitoring efforts|adverse health effects|{'relation': 'reported following COVID'}
+Vet Center Inspection Program|Veterans|{'relation': 'is designed to help provide services to'}
+public lands|Federal lands|{'relation': 'are'}
+Representatives Williams|Committee on Small Business|{'relation': 'is a part of'}
+Chinese Communist Party|Chinese people|{'relation': 'are worried about'}
+new and beginning farmers|significant barriers|{'relation': 'face'}
+reform legislation|Congress|{'relation': 'is associated with'}
+Public Regulation Commission|agencies|{'relation': 'hodgepodge of'}
+local police departments|Federal law enforcement|{'relation': 'should also be involved'}
+Individuals with Disabilities|Disability Employment Incentives Act|{'relation': 'may benefit from'}
+Members of the Committee, and our witnesses|Library of Congress|{'relation': 'is being discussed by'}
+bipartisan|subject|{'relation': 'has been'}
+America's farmers and ranchers|growing economic and environmental pressures|{'relation': 'face'}
+National Guard|reserve|{'relation': 'is a part of'}
+full Committee|Chairman Steil|{'relation': 'is grateful to'}
+physician|Veterans Affairs|{'relation': 'served as both an academic and clinical leader for'}
+climate change risks|country|{'relation': 'confronting our'}
+cyber threats|critical infrastructure sectors|{'relation': 'are related to'}
+Refuge Improvement Act|Fish and Wildlife Service|{'relation': 'mandated'}
+employees|Senator Van Hollen|{'relation': 'was mentioned by'}
+state veteran cemeteries|honor those who have served in the defense of our nation|{'relation': 'provide essential health care and memorial services to'}
+challenges and potential solutions|Derek Kilmer|{'relation': 'talked about'}
+FEMA's mitigation programs|public safety|{'relation': 'improves'}
+regulatory burdens|industry|{'relation': 'is in'}
+Chairman Comer|Chairman Comer|{'relation': 'is the chairman'}
+borrowing|national debt|{'relation': 'has contributed to'}
+standards and rules|small businesses|{'relation': 'being applied to'}
+AbilityOne non|AbilityOne Program|{'relation': 'are required to place workers with disabilities into more segregated settings due to the seventy'}
+enforcement|regulation|{'relation': 'is used as'}
+tribal entity|Bureau of Indian loan guarantee program|{'relation': 'has worked with'}
+House Committee on Transportation and Infrastructure|Members|{'relation': 'is addressed by'}
+May 17, 2024|Department|{'relation': 'has been issued by'}
+drug costs|health care costs|{'relation': 'have not increased significantly'}
+drug supply|public health|{'relation': 'is critical to'}
+FBI|law enforcement agencies|{'relation': 'is a part of'}
+regulatory activity|rulemakings|{'relation': 'can generate'}
+safety management|National Transportation Safety Board|{'relation': 'has been recommended by'}
+threats|potential threats|{'relation': 'to U.S.'}
+Oversight and Accountability Committee|Washington|{'relation': 'is providing a check and balance on the role and power of'}
+disabled individuals|accessibility|{'relation': 'is associated with'}
+conservation actions|fish and wildlife|{'relation': 'needed for their recovery'}
+the interest rates|inflation|{'relation': 'are related to'}
+Joint Congressional Committee on Veterans' Affairs|American people|{'relation': 'serve'}
+conversation|Derek Kilmer|{'relation': 'talked about'}
+training people|apprenticeship programs|{'relation': 'is a way to'}
+Employee|VA medical center|{'relation': 'has policies regarding'}
+FEMA|codes and standards|{'relation': 'are comprehensive and have demonstrated mitigation benefits'}
+tax policies|incentives|{'relation': 'has'}
+employees|safety|{'relation': 'features'}
+conservation measures|endangered species|{'relation': 'benefit from'}
+especially for small and midsized businesses|limited resources|{'relation': 'pose'}
+https://www.amnesty.org/en/latest/news/2024/01/china|PRC|{'relation': 'has link'}
+National Cyber Strategy|initiative|{'relation': 'is achieving'}
+Federal Government|taxpayers of America|{'relation': 'works for'}
+near real|impacts of COVID|{'relation': 'research on'}
+American farmers and ranchers|wildlife conservation|{'relation': 'hold dear'}
+Healthcare workers|COVID|{'relation': 'were vaccinated with'}
+subcommittees|holding|{'relation': 'is related to'}
+cost of pharmaceuticals|medicine|{'relation': 'bringing down the cost of'}
+Massive Deficit Spending|Inflation|{'relation': 'caused'}
+the public|Senator Van Hollen|{'relation': 'was mentioned by'}
+Vaccine Injuries|Vaccines|{'relation': 'are caused by'}
+Human Trafficking|Mexican Cartels|{'relation': 'are cashing in on'}
+Department of Labor|Question|{'relation': 'is addressed in'}
+health data|COVID|{'relation': 'enables the surveillance of the impact of'}
+low|rural communities|{'relation': 'disproportionately impacts'}
+Long COVID|NIH|{'relation': 'is being researched by'}
+Chinese influence|national security vulnerabilities|{'relation': 'has'}
+lower income Americans|affordable dental care|{'relation': 'especially have a problem with'}
+Subcommittee Clerk|Tuesday, January 23, 2024|{'relation': 'submit questions to'}
+Member of Subcommittee|Member of Committee|{'relation': 'are in the same Committee'}
+death|vaccine|{'relation': 'caused'}
+COVID|hospitals and physician groups|{'relation': 'was working in'}
+cyber|U.S. Coast Guard|{'relation': 'pose a significant threat'}
+Smaller tribes|supplemental source of funding|{'relation': 'do not have'}
+decision|Senator Van Hollen|{'relation': 'has been talked about by'}
+the board|special committee|{'relation': 'made permanent'}
+transparency|veterans|{'relation': 'are being provided with'}
+Tribal corporations|Oklahoma Indian Welfare Act|{'relation': 'are Federally chartered under'}
+grassroots organizations|veterans|{'relation': 'makes it easier to ensure eyes on as many veterans as possible'}
+Senator Grassley|committee|{'relation': 'is a member of'}
+Senator Grassley|Committee|{'relation': 'is a member of'}
+Infrastructure protection|The Coast Guard|{'relation': 'must develop'}
+Committee on Homeland Security Subcommittee on Border Security and Enforcement|Thursday, March 21, 2024|{'relation': 'is meeting'}
+US Government|Tribal, environmental, and natural resources|{'relation': 'protecting'}
+NCA|Veterans Service Organizations|{'relation': 'are supported by'}
+Tribal government economic development activity|taxation|{'relation': 'constitutional and treaty support for exempting from'}
+Congress|process|{'relation': 'makes its way through the'}
+Representatives Veasey|Committee on Energy and Commerce|{'relation': 'is a member of'}
+state agencies|sustainable wildlife management|{'relation': 'are committed to'}
+tribe|revenue|{'relation': 'can retain'}
+FEMA|Mitigation funding|{'relation': 'is targeting'}
+unaccredited representatives|veterans|{'relation': 'are taking advantage of'}
+many national efforts to include more people with disabilities in the American workforce|the current system|{'relation': 'are related to'}
+Tribal governments|clearinghouse|{'relation': 'can ease the burden on'}
+Chinese Americans|Chinese Government|{'relation': 'to harass stalk blackmail or worse'}
+Department of State|DHS|{'relation': 'works with'}
+my colleagues|COVID|{'relation': 'know that vaccines are safe'}
+reproductive healthcare|abortion providers|{'relation': 'is related to'}
+Southern U.S. Border|Cartels|{'relation': 'are controlled by'}
+new treatments for long COVID|emerge|{'relation': 'may'}
+agriculture policy|farm bill|{'relation': 'needs to pass'}
+U.S. Fish and Wildlife Service administration|Endangered Species Act|{'relation': 'is administering'}
+Vietnam War|veterans|{'relation': 'served in'}
+Legislative Proposal|Congress|{'relation': 'in fiscal year 2025'}
+American industry|Federal agencies|{'relation': 'are being forced burdensome regulations by'}
+tribe or tribal entity|Tribal Energy Loan Guarantee Program|{'relation': 'has no guarantee of obtaining the subsidy from'}
+fossil fuel industry|oil and gas industry|{'relation': 'is a part of'}
+President's budget request|Congress|{'relation': 'for Fiscal Year 2024'}
+participating Tribes|unique needs|{'relation': 'meets'}
+national debt|interest rates|{'relation': 'will drive up'}
+China|American technology|{'relation': 'is trying to keep out of'}
+Chairman of the Subcommittee on Oversight|U.S. Capitol|{'relation': 'works at'}
+Committee on Oversight and Accountability|Subcommittee on Economic Growth, Energy Policy, and Regulatory Affairs|{'relation': 'is a part of'}
+public understanding of and confidence in vaccine safety system|vaccine safety system|{'relation': 'is bolstered by'}
+oil and gas|economy|{'relation': 'promotes'}
+persons with disabilities|employees|{'relation': 'are affected by'}
+vaccination|long COVID|{'relation': 'high probability of'}
+Federal departments|enabling legislation|{'relation': 'has a need for'}
+Congress|States|{'relation': 'is working with'}
+Congress|laws|{'relation': 'is subject to'}
+organized crime|cartels|{'relation': 'is a danger at the southern border'}
+VetSuccess on Campus|VA VITAL Program|{'relation': 'is related to'}
+National Institute of Standards & Technology|Framework for Improving Critical Infrastructure Cybersecurity|{'relation': 'has developed'}
+government debt|inflation|{'relation': 'is a big increase in'}
+FEMA's Hazard Mitigation Assistance programs|have the potential to play a pivotal role in this effort by empowering communities to take proactive steps toward resilience|{'relation': 'do'}
+research safety|long COVID|{'relation': 'has a role in'}
+this has been going on|the reason why this Committee was created|{'relation': 'for'}
+Committee on Homeland Security Subcommittee on Border Security and Enforcement|U.S. House of Representatives|{'relation': 'is a part of'}
+energy resources|domestic economic growth|{'relation': 'is essential to'}
+Communist Party officials|China|{'relation': 'are controlled by'}
+Chairman of the Committee|Representative Dingell|{'relation': 'was appreciated by'}
+Federal Government|government|{'relation': 'is related to'}
+Committee on Transportation and Infrastructure|subcommittee on Highways and Transit|{'relation': 'is a part of'}
+Committee on Transportation and Infrastructure|House of Representatives|{'relation': 'is related to'}
+bipartisan agreement|subcommittee|{'relation': 'is making this work'}
+Departments of Defense|Federal Government|{'relation': 'are addressing'}
+Congress|pathway|{'relation': 'has given'}
+Federal Government|Federal agencies|{'relation': 'is imposing the right requirements on'}
+vaccine regulation|Dr. Marks|{'relation': 'is concerned about'}
+deadly virus|vaccine|{'relation': 'is telling us to take'}
+Communist Chinese|Chinese Communist Party|{'relation': 'is led by'}
+Federal programs|Youth in the foster care system|{'relation': 'navigate a maze of'}
+Tax Cuts and Jobs Act|small businesses|{'relation': 'eased the burden on'}
+Homelessness|Young individuals in foster care|{'relation': 'is an obstacle'}
+U.S. authorities|Chinese nationals|{'relation': 'were concerned about'}
+society|vaccines|{'relation': 'thinks are not safe and effective'}
+interviews|Committee|{'relation': 'were taken by this Committee'}
+inflation|America|{'relation': 'issue'}
+the Transportation and Infrastructure Committee|this subcommittee|{'relation': 'is part of'}
+intensified military action in Ukraine|Russia|{'relation': 'is supported by'}
+the New Committee|mechanism|{'relation': 'has a different one'}
+national security issue|Securing the border|{'relation': 'is'}
+Hon. Derek Kilmer|Member of Congress|{'relation': 'is a'}
+Biden Administration|policy issue|{'relation': 'is a'}
+medication costs|good health|{'relation': 'are barriers to'}
+Veterans Affairs Supportive Housing|Federal Government|{'relation': 'is a permanent effort of'}
+deficit spending|inflation|{'relation': 'has fueled'}
+House Committee on Transportation and Infrastructure|Subcommittee on Highways and Transit|{'relation': 'has a Subcommittee on'}
+workplace safety|concerned about|{'relation': 'is'}
+accessibility and accountability|veterans|{'relation': 'are benefiting from'}
+regulatory action|small businesses|{'relation': 'has negative effects on'}
+the Federal Bureau of Investigation|the origins of COVID|{'relation': 'is concluding'}
+Chairman of the Committee on House Administration|legislation|{'relation': 'will yield on'}
+VA hospital|care|{'relation': 'can get locally'}
+Committee Clerk|Committee|{'relation': 'submit questions'}
+Veterans STAND Act|veterans|{'relation': 'will make it easier for'}
+Rural|rural American|{'relation': 'has been successful in improving the lives of those who live in our rural communities'}
+critical issue|vaccine safety|{'relation': 'is discussing'}
+Subcommittee Members|Subcommittee on Modernization|{'relation': 'are members of'}
+Center for Research on Disability|2024|{'relation': 'published a study on the current state of employment for people with disabilities'}
+Tribal sovereignty and self|approach|{'relation': 'is consistent with'}
+policy|committee|{'relation': 'has been helpful in ensuring'}
+OMB|Tribal Nations|{'relation': 'should provide a full accounting of Federal funding to'}
+Federal Government|resources|{'relation': 'has'}
+help|committee|{'relation': 'thank you for hearing us out on'}
+Budget Deficits|National Debt|{'relation': 'has increased'}
+Transnational criminal organizations|Fentanyl|{'relation': 'are trafficking in'}
+Chinese Communist Party|citizens|{'relation': 'has control over'}
+youth aging out of foster care|homelessness|{'relation': 'is particularly for'}
+federal regulatory agencies|regulatory rulemaking process|{'relation': 'should include'}
+inflation|certain reports|{'relation': 'are a concern'}
+rural community|economics|{'relation': 'has different'}
+habitat management and conservation|Fish and Wildlife Service|{'relation': 'has partnerships with'}
+Member offices|Derek Kilmer|{'relation': 'talked about'}
+vaccine solution|delivery|{'relation': 'is an issue with'}
+President's FY 2025 Budget|Department's mission|{'relation': 'is supporting'}
+pandemic|Long Covid|{'relation': 'is an example of'}
+AI|AI protection|{'relation': 'entails'}
+Veteran community|support|{'relation': 'is appreciated'}
+Forest Service|technical assistance|{'relation': 'is related to'}
+cyber|agencies|{'relation': 'are being guarded against by'}
+abortion providers|reproductive healthcare|{'relation': 'are providing'}
+VA/DoD|Casualty Assistance Program|{'relation': 'is a cooperative service'}
+Federal funding|NGO's|{'relation': 'are providing to'}
+human rights violations|Chinese Communist Party|{'relation': 'committed by'}
+VA|VA offices|{'relation': 'has partnered with'}
+cheap energy|fossil fuel industries|{'relation': 'generate'}
+taxpayer|Congress|{'relation': 'has oversight of'}
+renewable energy production|fossil fuels|{'relation': 'is cheaper than'}
+fossil fuels|energy options|{'relation': 'are needed'}
+veterans|those who appreciate their sacrifice|{'relation': 'are a group of'}
+Chairman|legislation|{'relation': 'work with'}
+community care program|VA|{'relation': 'is part of'}
+vaccine surveillance systems|future public health crises|{'relation': 'can better prepare our Nation for'}
+legislative hearing|Derek Kilmer|{'relation': 'talked about'}
+economic hardship|Tribal Nations|{'relation': 'must be alleviated for'}
+Tribal Self|United States|{'relation': 'has been pursued by'}
+Nation's vaccine safety systems|deficiencies in compensation programs|{'relation': 'need to be addressed'}
+Tribal forestry programs|State and Federal counterparts|{'relation': 'receive less than'}
+energy|economy|{'relation': 'has a direct impact on'}
+Members of the House Committee on Small Business|Small Business|{'relation': 'are members of'}
+policymaking|Derek Kilmer|{'relation': 'talked about'}
+Public Confidence|Vaccines|{'relation': 'is a critical component of'}
+distinguished subcommittee Members|thank you for the opportunity to testify|{'relation': 'is expressed'}
+new institute|long COVID|{'relation': 'will help address the issue of'}
+Tribal self|economic development|{'relation': 'pursue'}
+evidence|Senator Van Hollen|{'relation': 'has been provided by'}
+COVID papers|vaccine|{'relation': 'can help get'}
+public health|COVID|{'relation': 'has been lived on the front line of'}
+government's handling|COVID|{'relation': 'have concerns about'}
+Veteran community|advocacy|{'relation': 'is supported by'}
+Chinese authorities|Shanghai establishment|{'relation': 'has a relationship with'}
+Committee Members|today|{'relation': 'spoke'}
+small businesses|increased governmental paperwork and regulations|{'relation': 'are challenged with'}
+reproductive care|abortion providers|{'relation': 'are being denied'}
+ships|Coast Guard|{'relation': 'are part of'}
+Tribal|employment and training services|{'relation': 'support'}
+Committee on Homeland Security|Department of Homeland Security|{'relation': 'conducting oversight of'}
+Coast Guard|security|{'relation': 'strengthen'}
+three key areas|the Committee|{'relation': 'consider'}
+President Biden|Biden|{'relation': 'is the administration of'}
+Tribal Conservation Law Enforcement Officers|funding|{'relation': 'would ensure they are effectively supported'}
+VA|VA|{'relation': 'maintains'}
+2025|fiscal year|{'relation': 'is'}
+Indian tribe|Tribal government|{'relation': 'is equivalent to'}
+tribal economies|economic opportunities|{'relation': 'are being expanded for'}
+Land and Resource Management Agencies|US Forest Service|{'relation': 'are related to'}
+FEMA regulations|assist more people|{'relation': 'help'}
+Secretary|VA|{'relation': 'vision of putting Veterans and their survivors at the center of everything we do'}
+today's hearing|Subcommittee|{'relation': 'will conclude'}
+risk|long COVID|{'relation': 'of'}
+Oversight Committee|Central Institution|{'relation': 'is related to'}
+regulations and regulatory costs|small businesses|{'relation': 'is unsustainable'}
+Veterans|today's programs|{'relation': 'are deterred from using'}
+cartel pipelines|drug trafficking|{'relation': 'is happening across the country'}
+Funding uncertainty|Tribes|{'relation': 'causes to redistribute funds from other Tribal programs'}
+VA|clinicians|{'relation': 'is addressing issues with'}
+regulatory agencies|regulations|{'relation': 'write'}
+VA website|Vet Center National Resource Directory|{'relation': 'found information on'}
+vaccine safety system|vaccine confidence in country|{'relation': 'bolsters'}
+United States Representatives|Oversight Subcommittee|{'relation': 'is a part of'}
+Ms.|Chairman|{'relation': 'is'}
+Department's budget|2025|{'relation': 'is being discussed for'}
+Executive Branch|Committee|{'relation': 'has discussions about'}
+FEMA|individuals|{'relation': 'is supporting'}
+vaccine policy|Dr. Marks|{'relation': 'is concerned about'}
+vaccine safety|government's handling|{'relation': 'have concerns about'}
+rural communities|livelihoods|{'relation': 'are'}
+President's budget request|fiscal year 2025|{'relation': 'includes'}
+Members and staff|Derek Kilmer|{'relation': 'talked about'}
+economically significant rules|small businesses|{'relation': 'have a significant impact on'}
+China|Communist|{'relation': 'has a relationship with'}
+China|China|{'relation': 'is the subject of'}
+federal system of grants|Tribal Governments|{'relation': 'has set aside funding for'}
+Fiscal Year 2025 Budget Request|United States|{'relation': 'is a department of'}
+tax cuts|small businesses|{'relation': 'is benefiting'}
+small businesses|Committee on Small Business|{'relation': 'has access to'}
+rural economies|farmers|{'relation': 'suffer'}
+FEMA|assistance|{'relation': 'can work with'}
+health outcomes|veterans|{'relation': 'is being referred to as'}
+tribal economic health|tribes|{'relation': 'can be undermined by reliance on one industry'}
+economic opportunities|tribal communities|{'relation': 'are being expanded for'}
+tribal government land|local government concerns|{'relation': 'relate to'}
+Senator Van Hollen|Senator|{'relation': 'is a'}
+VA health care system|Specialized programs|{'relation': 'prevents and delays many veterans from receiving the care they need'}
+Congress|legislation|{'relation': 'grapples with'}
+Chairman Peters|Committee|{'relation': 'is a member of'}
+family|veterans|{'relation': 'are part of'}
+Committee|concerns|{'relation': 'have heard'}
+Vet Centers|services|{'relation': 'are involved'}
+this subcommittee|adjourned|{'relation': 'stands'}
+Committee|people|{'relation': 'has concerns from'}
+tribal communities|federal relations personnel|{'relation': 'are located in'}
+vaccine safety surveillance|question|{'relation': 'about'}
+wildlife agencies|Federal land|{'relation': 'can do management on'}
+education|providers|{'relation': 'leads to issues for Tribal citizens'}
+Veterans Bureau|VA|{'relation': 'has been consolidated into'}
+Mr. Committee Ranking Member|Mr. Chairman|{'relation': 'is a colleague of'}
+rulemakings|small businesses|{'relation': 'affect'}
+Committee|solution|{'relation': 'needs to be found'}
+rural areas|help|{'relation': 'needs different'}
+Congress|Federal legislation|{'relation': 'has the authority to enact more'}
+the witnesses|the subcommittee|{'relation': 'have been thanked by'}
+Members of the Committee|Chairperson|{'relation': 'is being addressed by'}
+Federal funding|tribal social and economic issues|{'relation': 'is not enough to tackle'}
+Our government|veterans|{'relation': 'holds in high regard'}
+helping|your fellow veterans|{'relation': 'you are helping'}
+veterans' best interest|veterans|{'relation': 'are being considered'}
+Mr. Chairman|Mr. Chairman|{'relation': 'is addressed as'}
+U.S. Forest Service|timber|{'relation': 'manages for'}
+Drug cartels|human smuggling|{'relation': 'are playing a role in throughout the region'}
+Tribal organizations|federal programs|{'relation': 'would be required to provide reports'}
+Chairman, Ranking Members|members of the committee|{'relation': 'thank'}
+Forest Service|Department of Environmental Protection|{'relation': 'works in conjunction with'}
+Mr|Chairman|{'relation': 'Thank you Mr'}
+Congress|federal government|{'relation': 'is working with'}
+VA health care|Combat Veteran|{'relation': 'can enroll in'}
+VA|health care|{'relation': 'has provided'}
+Oversight Committee|Committee|{'relation': 'is also known as'}
+Current vaccine safety mechanisms|Doctors|{'relation': 'are insufficient for'}
+the Tribal Assistance Program|tribes|{'relation': 'is about engagement with'}
+Small Businesses|Regulations|{'relation': 'are being overregulated by'}
+veteran resources|community services|{'relation': 'is related to'}
+community|veterans|{'relation': 'are part of'}
+rules and regulations|small businesses|{'relation': 'are stifling'}
+farmers|rural communities|{'relation': 'are'}
+Members of the committee|Congress|{'relation': 'are members of the committee'}
+ongoing research and understanding of long COVID|research|{'relation': 'is an invaluable resource in'}
+Chairman|direction|{'relation': 'is in'}
+committee|situations|{'relation': 'is addressing'}
+VA services|veteran resources|{'relation': 'is related to'}
+subcommittee|joint committee|{'relation': 'is a part of'}
+Committee|leadership|{'relation': 'has'}
+Congress|legislation|{'relation': 'is working with'}
+VA medical system|veterans|{'relation': 'is for'}
+Committee|questions|{'relation': 'may have'}
+Chair|Chairman|{'relation': 'thanks to'}
+Committee|issue|{'relation': 'is working on'}
+VA healthcare and benefits|veterans|{'relation': 'is for'}
+Members of the Committee|Committee|{'relation': 'is made up of'}
+Tribal Nations|Tribal|{'relation': 'have sought to develop'}
+Mr. Chairman|leadership|{'relation': 'thank you for'}
+Committee|today|{'relation': 'is meeting'}
+understanding long COVID|clinics and studies|{'relation': 'are crucial to'}
+Committee on Veterans' Affairs|States|{'relation': 'assist'}
+Committee|staff|{'relation': 'has been working together on'}
+VA and community providers|veterans|{'relation': 'housed'}
+Tribal members|health and human services|{'relation': 'are supported by Federal funds and tribal governments'}
+committee|oversight|{'relation': 'fulfill its'}
+Mr. Chairman|Committee|{'relation': 'is a member of'}
+veterans|VA|{'relation': 'works for'}
