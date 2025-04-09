@@ -87,6 +87,13 @@ def find_first_diamond(G, source, max_depth=None):
                 dist1, path1 = paths_from_successors[node1][terminal]
                 dist2, path2 = paths_from_successors[node2][terminal]
                 
+                # Check if paths share any nodes other than source and terminal
+                path1_set = set(path1[:-1])
+                path2_set = set(path2[:-1])
+                if path1_set.intersection(path2_set):
+                    # Paths share intermediate nodes, skip this diamond
+                    continue
+
                 # Create the complete paths including the source
                 full_path1 = [source] + path1
                 full_path2 = [source] + path2
