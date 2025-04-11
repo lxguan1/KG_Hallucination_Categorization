@@ -9,6 +9,7 @@ hearings/
 
 #ignore all .out files
 *.out
+*.err
 
 # ignore gl_run_kg_creation.sh
 gl_run_kg_creation.sh
