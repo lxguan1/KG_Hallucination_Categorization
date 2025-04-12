@@ -31,10 +31,10 @@ def format_for_llama_prompt(diamond, partial_len=2):
     branch2_text = to_text(diamond["branch2"]["edges"])
     terminal = diamond["terminal"]
 
-    print("Branch 1 Text:")
-    print(branch1_text)
-    print("Branch 2 Text:")
-    print(branch2_text)
+    # print("Branch 1 Text:")
+    # print(branch1_text)
+    # print("Branch 2 Text:")
+    # print(branch2_text)
     
     messages = [
     {
