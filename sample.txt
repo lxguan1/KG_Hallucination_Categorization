@@ -1,0 +1,48 @@
+messages = [
+    {
+        "role": "system",
+        "content": "You are a helpful assistant that writes questions as per the given context"
+    },
+    {
+        "role": "user",
+        "content": """You are given a diamond pattern in a knowledge graph.
+
+- Branch 1 (Background):  
+Greta Thunberg led a school strike.  
+The school strike gained global media attention.  
+This attention influenced environmental policy.  
+Environmental policy relates to climate change.
+
+- Branch 2 (Partial Information):  
+Greta Thunberg gave a speech at the UN Youth Summit.  
+The summit was attended by António Guterres.
+António Guterres emphasized youth involvement in global leadership.
+Youth involvement relates to climate change.
+
+Now, write a True/False-style question based on this setup. The question should be made by giving the entire first path, and then first 2 relations of the second path as to be considered as complete knowledge, and ask a question by giving remaining relations of the second branch and asking if the model is able to tell if the remaining part given is true based on the given branch 1 and partial branch 2 or if its false. Always end your question in these given lines: \n\n"Answer using only one of the following options:\nTRUE\nFALSE and also give the detailed reason for the same".\n "Selecting TRUE means there is enough information from path 1 and path 2 given to say these facts in question are true and FALSE would mean that it doesnt".
+Also make sure that the prompt has the senetence 'path 1' and 'path 2' (where path 1 i the complete branch 1 and path 2 is the first 2 relations in branch 2) mentioned before the question, and ask the model to only answer the question with the facts given in the path 1 and path 2.
+Avoid using external knowledge or assumptions. Do not refer to the paths directly (e.g., avoid saying 'branch 1' or 'branch 2'). 
+
+Return your output in JSON format like this:
+{ "question": "<your framed question>" }
+"""
+    },
+    {
+        "role": "system", 
+        "content": "{'question': 'Consider the two paths given below and answer the following question using only the options and no explanations.\n\n- Path 1:\nGreta Thunberg led a school strike.\nThe school strike gained global media attention.\nMedia attention influenced environmental policy.\nEnvironmental policy relates to climate change.\n\n- Path 2:\nGreta Thunberg gave a speech at the UN Youth Summit.\nThe summit was attended by António Guterres.\n\nQuestion: based on the given above information can we infer with complete confidence the fact(s) that:\nAntónio Guterres emphasized youth involvement in global leadership.\n Youth involvement relates to climate change. \n\nAnswer using only one of the following options:\nTRUE\nFALSEand also give the detailed reason for the same.\n Selecting TRUE means there is enough information from path 1 and path 2 given to say these facts in question are true and FALSE would mean that it doesnt'}".
+    },
+    {        
+        "role": "user",
+        "content": f""" Simlar to the above example, you are given a diamond pattern in a knowledge graph: 
+- Branch 1 (Background):
+{branch1_text}
+- Branch 2 (setup for Question):
+{branch2_text}
+
+Now, write a True/False-style question based on this setup. The question should be made by giving the entire first path, and then first 2 relations of the second path as to be considered as complete knowledge, and ask a question by giving remaining relations of the second branch and asking if the model is able to tell if the remaining part given is true based on the given branch 1 and partial branch 2 or if its false. Always end your question in these given lines: \n\n"Answer using only one of the following options:\nTRUE\nFALSE and also give the detailed reason for the same".\n "Selecting TRUE means there is enough information from path 1 and path 2 given to say these facts in question are true and FALSE would mean that it doesnt".
+Also make sure that the prompt has the senetence 'path 1' and 'path 2' (where path 1 i the complete branch 1 and path 2 is the first 2 relations in branch 2) mentioned before the question, and ask the model to only answer the question with the facts given in the path 1 and path 2.
+Avoid using external knowledge or assumptions. Do not refer to the paths directly (e.g., avoid saying 'branch 1' or 'branch 2'). 
+
+Return your output in JSON format containing the framed question only. make sure the output is in the form of {{'question': '<your framed question>'}} that is only use single quotes for the question, and to enclose the your framed question without any newline characters in the starting or ending it could be there anywhere in between."""
+    }
+]
