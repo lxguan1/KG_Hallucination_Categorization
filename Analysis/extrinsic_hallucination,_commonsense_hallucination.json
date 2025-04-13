@@ -1,0 +1,11 @@
+[
+    {
+        "diamond_key": "diamond_5670",
+        "prompt": "Consider the two paths given below and answer the following question using only the options and no explanations.\n\n- Path 1:\nservice are single parents women.\nwomen are 17.5 percent of service.\n\n- Path 2:\nservice wants to make comfortable Sergeant Major Weimer.\nSergeant Major Weimer answered a question Mr. Bacon.\n\nQuestion: based on the given above information can we infer with complete confidence the fact(s) that:\nMr. Bacon appreciates service.\nSergeant Major Weimer is comfortable.\n \nAnswer using only one of the following options:\nTRUE\nFALSEand also give the detailed reason for the same.\n Selecting TRUE means there is enough information from path 1 and path 2 given to say these facts in question are true and FALSE would mean that it doesnt",
+        "explanation": " Based on the information provided in paths 1 and 2, we can infer the following facts with complete confidence:\n\nTRUE - Mr. Bacon appreciates service.\n\nReason: In path 1, it is mentioned that service wants to make comfortable Sergeant Major Weimer. This implies that Mr. Bacon, the person or entity that is providing the service, appreciates and values the comfort of Sergeant Major Weimer.\n\nFALSE - Sergeant Major Weimer is comfortable.\n\nReason: In path 2, it is mentioned that Sergeant Major Weimer answered a question Mr. Bacon. This implies that Sergeant Major Weimer is not comfortable, as he is being questioned by Mr. Bacon.",
+        "classification": {
+            "hallucination_category": "Extrinsic Hallucination, Commonsense Hallucination",
+            "category_explanation": "The model has introduced new information not present in the input (Extrinsic Hallucination) and has used general world knowledge or expectations, not prompt content, to make an inference (Commonsense Hallucination)."
+        }
+    }
+]
